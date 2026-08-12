@@ -270,31 +270,6 @@ def main():
     with open(geojson_path, "w", encoding="utf-8") as f:
         json.dump(geojson_doc, f, ensure_ascii=False, indent=2)
         
-    summary_path = os.path.join(DATA_DIR, "backup_summary.json")
-    summary_data = {
-        'source': "https://w.junreimap.com/map",
-        'backup_time': time.strftime("%Y-%m-%d %H:%M:%S"),
-        'modified_timestamp': modified_ts,
-        'total_bangumi_count': len(full_database),
-        'total_points_count': total_points_count,
-        'total_geojson_points': len(geojson_features),
-        'split_anime_directory': "data/anime/",
-        'files_generated': [
-            "raw/g.json",
-            *[f"raw/g{i}.json" for i in range(total_pages)],
-            "raw/bangumi-icons.json",
-            "data/junreimap_full_database.json",
-            "data/bangumi_list.json",
-            "data/bangumi_list.csv",
-            "data/points_all.csv",
-            "data/points_all.geojson",
-            "data/anime/*.json (1,509 files)",
-            "data/backup_summary.json"
-        ]
-    }
-    with open(summary_path, "w", encoding="utf-8") as f:
-        json.dump(summary_data, f, ensure_ascii=False, indent=2)
-        
     elapsed = time.time() - start_time
     print(f"\nSUCCESS! Backup generated and split in {elapsed:.2f} seconds.", flush=True)
     print(f"Backup output directory: {REPO_ROOT}", flush=True)
