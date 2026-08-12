@@ -1,0 +1,27 @@
+{
+  "source": "https://w.junreimap.com/map",
+  "backup_time": "2026-08-13 01:33:02",
+  "modified_timestamp": 1786532455501,
+  "total_bangumi_count": 1509,
+  "total_points_count": 50083,
+  "total_geojson_points": 50083,
+  "split_anime_directory": "data/anime/",
+  "files_generated": [
+    "raw/g.json",
+    "raw/g0.json",
+    "raw/g1.json",
+    "raw/g2.json",
+    "raw/g3.json",
+    "raw/g4.json",
+    "raw/g5.json",
+    "raw/g6.json",
+    "raw/bangumi-icons.json",
+    "data/junreimap_full_database.json",
+    "data/bangumi_list.json",
+    "data/bangumi_list.csv",
+    "data/points_all.csv",
+    "data/points_all.geojson",
+    "data/anime/*.json (1,509 files)",
+    "data/backup_summary.json"
+  ]
+}
