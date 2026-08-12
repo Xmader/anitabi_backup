@@ -37,13 +37,6 @@ def fetch_json(url, save_path=None):
 def main():
     start_time = time.time()
     print("=== STARTING JUNREIMAP DATA BACKUP & EXPORT ===", flush=True)
-    
-    # Remove old backup_summary.json if present
-    old_summary = os.path.join(DATA_DIR, "backup_summary.json")
-    if os.path.exists(old_summary):
-        os.remove(old_summary)
-        print("Removed backup_summary.json", flush=True)
-
     # 1. Fetch g.json
     g_path = os.path.join(RAW_DIR, "g.json")
     g_raw = fetch_json(f"{BASE_URL}/d/g.json", g_path)
