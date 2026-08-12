@@ -15,10 +15,12 @@ REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 RAW_DIR = os.path.join(REPO_ROOT, "raw")
 DATA_DIR = os.path.join(REPO_ROOT, "data")
 ANIME_DIR = os.path.join(DATA_DIR, "anime")
+GEOJSON_DIR = os.path.join(DATA_DIR, "geojson")
 
 os.makedirs(RAW_DIR, exist_ok=True)
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(ANIME_DIR, exist_ok=True)
+os.makedirs(GEOJSON_DIR, exist_ok=True)
 
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
 
@@ -36,6 +38,12 @@ def main():
     start_time = time.time()
     print("=== STARTING JUNREIMAP DATA BACKUP & EXPORT ===", flush=True)
     
+    # Remove old backup_summary.json if present
+    old_summary = os.path.join(DATA_DIR, "backup_summary.json")
+    if os.path.exists(old_summary):
+        os.remove(old_summary)
+        print("Removed backup_summary.json", flush=True)
+
     # 1. Fetch g.json
     g_path = os.path.join(RAW_DIR, "g.json")
     g_raw = fetch_json(f"{BASE_URL}/d/g.json", g_path)
@@ -75,7 +83,7 @@ def main():
     full_database = []
     all_bangumi_rows = []
     all_points_rows = []
-    geojson_features = []
+    geojson_features_all = []
     
     total_points_count = 0
     
@@ -114,6 +122,9 @@ def main():
         raw_pts = detailed_item[2] if detailed_item and len(detailed_item) > 2 else []
         
         merged_points = []
+        anime_geojson_features = []
+        display_title = title_cn or title_jp or title_en
+        
         for pt in raw_pts:
             pid = pt[0]
             pname = pt[1] if len(pt) > 1 and pt[1] else ""
@@ -148,7 +159,6 @@ def main():
             merged_points.append(pt_obj)
             total_points_count += 1
             
-            display_title = title_cn or title_jp or title_en
             all_points_rows.append({
                 'bangumi_id': b_id,
                 'bangumi_title': display_title,
@@ -164,7 +174,7 @@ def main():
             })
             
             if lat is not None and lng is not None:
-                geojson_features.append({
+                feature = {
                     'type': 'Feature',
                     'geometry': {
                         'type': 'Point',
@@ -180,7 +190,9 @@ def main():
                         'remark': remark,
                         'image_url': img_url
                     }
-                })
+                }
+                geojson_features_all.append(feature)
+                anime_geojson_features.append(feature)
 
         cover_url = f"{BASE_URL}{cover_path}" if cover_path.startswith('/') else cover_path
         icon_url = f"{BASE_URL}{icon_path}" if icon_path.startswith('/') else icon_path
@@ -211,10 +223,19 @@ def main():
         
         full_database.append(bangumi_obj)
         
-        # Write individual JSON per anime series for clean git diffs
+        # Write individual JSON per anime series
         anime_file = os.path.join(ANIME_DIR, f"{b_id}.json")
         with open(anime_file, "w", encoding="utf-8") as f:
             json.dump(bangumi_obj, f, ensure_ascii=False, indent=2, sort_keys=True)
+            
+        # Write individual GeoJSON per anime series
+        anime_geojson_file = os.path.join(GEOJSON_DIR, f"{b_id}.geojson")
+        anime_geojson_doc = {
+            'type': 'FeatureCollection',
+            'features': anime_geojson_features
+        }
+        with open(anime_geojson_file, "w", encoding="utf-8") as f:
+            json.dump(anime_geojson_doc, f, ensure_ascii=False, indent=2, sort_keys=True)
             
         all_bangumi_rows.append({
             'id': b_id,
@@ -232,16 +253,17 @@ def main():
         })
 
     print(f"\n[Merge & Split Completed]", flush=True)
-    print(f"  Total Bangumi entries split into individual JSON files: {len(full_database)} files in data/anime/", flush=True)
+    print(f"  Total Bangumi JSON files: {len(full_database)} files in data/anime/", flush=True)
+    print(f"  Total Bangumi GeoJSON files: {len(full_database)} files in data/geojson/", flush=True)
     print(f"  Total Anime Pilgrimage Points: {total_points_count}", flush=True)
-    print(f"  Total GeoJSON Features: {len(geojson_features)}", flush=True)
+    print(f"  Total GeoJSON Features: {len(geojson_features_all)}", flush=True)
     
     # 5. Export Datasets
     full_db_path = os.path.join(DATA_DIR, "junreimap_full_database.json")
     print(f"\nSaving {full_db_path}...", flush=True)
     with open(full_db_path, "w", encoding="utf-8") as f:
         json.dump(full_database, f, ensure_ascii=False, indent=2)
-
+        
     bangumi_list_path = os.path.join(DATA_DIR, "bangumi_list.json")
     print(f"Saving {bangumi_list_path}...", flush=True)
     with open(bangumi_list_path, "w", encoding="utf-8") as f:
@@ -265,13 +287,13 @@ def main():
     print(f"Saving {geojson_path}...", flush=True)
     geojson_doc = {
         'type': 'FeatureCollection',
-        'features': geojson_features
+        'features': geojson_features_all
     }
     with open(geojson_path, "w", encoding="utf-8") as f:
         json.dump(geojson_doc, f, ensure_ascii=False, indent=2)
         
     elapsed = time.time() - start_time
-    print(f"\nSUCCESS! Backup generated and split in {elapsed:.2f} seconds.", flush=True)
+    print(f"\nSUCCESS! Backup generated in {elapsed:.2f} seconds.", flush=True)
     print(f"Backup output directory: {REPO_ROOT}", flush=True)
 
 if __name__ == "__main__":
