@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 34.985324,
+  "center_lng": 135.786027,
+  "center_zoom": 9.4,
+  "color": "#ff0000",
+  "cover_path": "/images/bangumi/502.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/502.jpg",
+  "icon_path": "/images/icon/502.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/502.jpg",
+  "id": 502,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "ln8jx38ke",
+      "image_path": "/images/points/502/ln8jx38ke_1719207736648.jpg",
+      "image_url": "https://w.junreimap.com/images/points/502/ln8jx38ke_1719207736648.jpg",
+      "lat": 34.987876,
+      "lng": 135.771732,
+      "location": "",
+      "name": "三十三間堂",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 435517,
+      "zoom": 13
+    },
+    {
+      "ep_cut": 4,
+      "id": "ln81avk03",
+      "image_path": "/images/points/502/ln81avk03_1719206567124.jpg",
+      "image_url": "https://w.junreimap.com/images/points/502/ln81avk03_1719206567124.jpg",
+      "lat": 35.724753,
+      "lng": 139.625494,
+      "location": "",
+      "name": "下井草駅付近",
+      "remark": "该地图以下井草站北侧的地图为原型。",
+      "status_code": 1057,
+      "user_id": 435517,
+      "zoom": 158
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.2,
+  "region": "杉并区",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "再见绝望先生",
+  "title_en": "",
+  "title_jp": "さよなら絶望先生",
+  "type": "漫画"
+}

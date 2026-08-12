@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#8f0000",
+  "cover_path": "/images/bangumi/772.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/772.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 772,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "2m71cf19x",
+      "image_path": "/images/user/0/bangumi/265/points/2m71cf19x-1725816060532.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/265/points/2m71cf19x-1725816060532.jpg",
+      "lat": 35.259333,
+      "lng": 139.001606,
+      "location": "",
+      "name": "仙石原",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 3295,
+      "zoom": 2884
+    },
+    {
+      "ep_cut": "",
+      "id": "nzk4p26q8",
+      "image_path": "/images/user/0/bangumi/265/points/nzk4p26q8-1725815353501.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/265/points/nzk4p26q8-1725815353501.jpg",
+      "lat": 35.231307,
+      "lng": 138.991823,
+      "location": "",
+      "name": "芦ノ湖",
+      "remark": "大战雷天使的地方(屋岛作战)",
+      "status_code": 0,
+      "user_id": 3295,
+      "zoom": 3178
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.1,
+  "region": "日本",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/772_100_76.webp?v=h4ifo",
+    [
+      "2m71cf19x",
+      "nzk4p26q8"
+    ],
+    1725839296733,
+    100,
+    76
+  ],
+  "title_cn": "福音战士新剧场版：序",
+  "title_en": "",
+  "title_jp": "ヱヴァンゲリヲン新劇場版:序",
+  "type": "剧场版"
+}

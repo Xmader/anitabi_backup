@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/9d/3d/9781_Kkik8.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9d/3d/9781_Kkik8.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 9781,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "2q0s6cd",
+      "image_path": "",
+      "image_url": "",
+      "lat": 48.185738,
+      "lng": 16.312757,
+      "location": "",
+      "name": "Schloss Schönbrunn",
+      "remark": "聖瑪格麗特學院原型",
+      "status_code": 2168,
+      "user_id": 6444,
+      "zoom": 5595
+    },
+    {
+      "ep_cut": "",
+      "id": "2q0vfkn",
+      "image_path": "",
+      "image_url": "",
+      "lat": 48.205985,
+      "lng": 16.367169,
+      "location": "",
+      "name": "Prunksaal der Österreichischen Nationalbibliothek",
+      "remark": "圖書館原型",
+      "status_code": 2168,
+      "user_id": 6444,
+      "zoom": 54
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.3,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "GOSICK",
+  "title_en": "GOSICK",
+  "title_jp": "GOSICK -ゴシック-",
+  "type": "TV"
+}

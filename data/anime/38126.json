@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/87/5b/38126_U5F5T.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/87/5b/38126_U5F5T.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 38126,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "v5cpxu4mp",
+      "image_path": "/images/user/1073/bangumi/38126/points/v5cpxu4mp-1746017234960.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5cpxu4mp-1746017234960.jpg",
+      "lat": 36.352454,
+      "lng": 138.638813,
+      "location": "",
+      "name": "ささやきの小径",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 340,
+      "zoom": 340
+    },
+    {
+      "ep_cut": "",
+      "id": "v5d3jci48",
+      "image_path": "/images/user/1073/bangumi/38126/points/v5d3jci48-1746017994478.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5d3jci48-1746017994478.jpg",
+      "lat": 36.352065,
+      "lng": 138.635775,
+      "location": "",
+      "name": "旧軽井沢礼拝堂",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 340,
+      "zoom": 659
+    },
+    {
+      "ep_cut": "",
+      "id": "v5dg3h154",
+      "image_path": "/images/user/1073/bangumi/38126/points/v5dg3h154-1746018759373.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5dg3h154-1746018759373.jpg",
+      "lat": 36.350668,
+      "lng": 138.62685,
+      "location": "",
+      "name": "雲場池",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 250,
+      "zoom": 250
+    },
+    {
+      "ep_cut": "",
+      "id": "v5dhq3b2f",
+      "image_path": "/images/user/1073/bangumi/38126/points/v5dhq3b2f-1746018843522.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5dhq3b2f-1746018843522.jpg",
+      "lat": 36.352916,
+      "lng": 138.626969,
+      "location": "",
+      "name": "雲場池　橋",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 250,
+      "zoom": 1045
+    }
+  ],
+  "points_count": 4,
+  "rating": 6.5,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/38126_100_76.webp?v=hbq1d",
+    [
+      "v5cpxu4mp",
+      "v5d3jci48",
+      "v5dg3h154",
+      "v5dhq3b2f"
+    ],
+    1746026000774,
+    100,
+    76
+  ],
+  "title_cn": "名侦探柯南 16名嫌疑犯！？",
+  "title_en": "",
+  "title_jp": "名探偵コナン 16人の容疑者!?",
+  "type": "OVA"
+}

@@ -1,0 +1,58 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 36.067816,
+  "center_lng": 120.315419,
+  "center_zoom": 16,
+  "color": "#aa6a55",
+  "cover_path": "/images/bangumi/4053.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/4053.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 4053,
+  "points": [
+    {
+      "ep_cut": "MV",
+      "id": "mab8pudfv",
+      "image_path": "/images/user/0/bangumi/4053/points/mab8pudfv-1721024879455.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/4053/points/mab8pudfv-1721024879455.jpg",
+      "lat": 36.067817,
+      "lng": 120.315419,
+      "location": "",
+      "name": "天主教青岛教区圣弥厄尔主教座堂天主堂",
+      "remark": "拍摄于2009年12月",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 867
+    },
+    {
+      "ep_cut": "mv",
+      "id": "o6jg70csn",
+      "image_path": "/images/user/0/bangumi/4053/points/o6jg70csn-1726363034155.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/4053/points/o6jg70csn-1726363034155.jpg",
+      "lat": 36.064712,
+      "lng": 120.327913,
+      "location": "",
+      "name": "青岛德国总督楼旧址博物馆",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 2103
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.9,
+  "region": "中国",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/4053.webp?v=h2sn3",
+    [
+      "mab8pudfv"
+    ],
+    1721034218384
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "LEVEL5 -judgelight-",
+  "type": "MV"
+}

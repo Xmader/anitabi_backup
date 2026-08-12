@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.629845,
+  "center_lng": 139.794053,
+  "center_zoom": 15.3,
+  "color": "#ff0f9b",
+  "cover_path": "/images/bangumi/408883.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/408883.jpg",
+  "icon_path": "/images/icon/408883.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/408883.jpg",
+  "id": 408883,
+  "points": [
+    {
+      "ep_cut": "2023 OVA 海报",
+      "id": "ekwbiai8a",
+      "image_path": "/images/user/1032/bangumi/408883/points/ekwbiai8a-1699276774458.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1032/bangumi/408883/points/ekwbiai8a-1699276774458.jpg",
+      "lat": 35.629845,
+      "lng": 139.794054,
+      "location": "",
+      "name": "東京ビッグサイト",
+      "remark": "坐标是大致参考位置，请以实际为准",
+      "status_code": 1032,
+      "user_id": 15625497,
+      "zoom": 40
+    },
+    {
+      "ep_cut": "",
+      "id": "j7dga9gvx",
+      "image_path": "/images/user/0/bangumi/408883/points/j7dga9gvx-1712322654906.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/408883/points/j7dga9gvx-1712322654906.jpg",
+      "lat": 51.504183,
+      "lng": -0.078269,
+      "location": "",
+      "name": "Potters Fields Park",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 15625497,
+      "zoom": 261
+    }
+  ],
+  "points_count": 2,
+  "rating": 7,
+  "region": "",
+  "short_name": "LoveLive! 虹咲学园 2",
+  "theme_meta": 0,
+  "title_cn": "LoveLive！虹咲学园学园偶像同好会 NEXT SKY",
+  "title_en": "",
+  "title_jp": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
+  "type": "OVA"
+}

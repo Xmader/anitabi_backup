@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 37.826712,
+  "center_lng": -122.422838,
+  "center_zoom": 11.6,
+  "color": "#96adda",
+  "cover_path": "/images/bangumi/2504.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/2504.jpg",
+  "icon_path": "/images/icon/2504.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/2504.jpg",
+  "id": 2504,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "kuv0xq7t8",
+      "image_path": "/images/user/0/bangumi/2504/points/kuv0xq7t8-1716984316398.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2504/points/kuv0xq7t8-1716984316398.jpg",
+      "lat": 37.82671,
+      "lng": -122.422899,
+      "location": "",
+      "name": "Alcatraz Island",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 2787,
+      "zoom": 2199
+    },
+    {
+      "ep_cut": "",
+      "id": "kuvddoptx",
+      "image_path": "/images/user/0/bangumi/2504/points/kuvddoptx-1716985419225.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2504/points/kuvddoptx-1716985419225.jpg",
+      "lat": 37.801863,
+      "lng": -122.419274,
+      "location": "",
+      "name": "Lombard Street",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 2787,
+      "zoom": 804
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.2,
+  "region": "海外",
+  "short_name": "超时空要塞F 剧场 虚空歌姬",
+  "theme_meta": 0,
+  "title_cn": "剧场版 超时空要塞F 虚空歌姬",
+  "title_en": "",
+  "title_jp": "劇場版 マクロスF 虚空歌姫〜イツワリノウタヒメ〜",
+  "type": "剧场版"
+}

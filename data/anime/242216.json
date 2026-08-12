@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": 1013637,
+  "center_lat": 36.627519,
+  "center_lng": 24.901689,
+  "center_zoom": 14.5,
+  "color": "#80aad4",
+  "cover_path": "/images/bangumi/242216.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/242216.jpg",
+  "icon_path": "/images/icon/242216.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/242216.jpg",
+  "id": 242216,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "ab857wyni",
+      "image_path": "/images/user/0/bangumi/242216/points/ab857wyni-1687234430335.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/242216/points/ab857wyni-1687234430335.jpg",
+      "lat": 36.62752,
+      "lng": 24.901687,
+      "location": "",
+      "name": "Folegandros",
+      "remark": "卡特尔岛的原型",
+      "status_code": 1073,
+      "user_id": 2578004,
+      "zoom": 494024
+    },
+    {
+      "ep_cut": "",
+      "id": "mhh4h4h2o",
+      "image_path": "/images/points/242216/mhh4h4h2o_1721577136784.jpg",
+      "image_url": "https://w.junreimap.com/images/points/242216/mhh4h4h2o_1721577136784.jpg",
+      "lat": 41.412713,
+      "lng": 2.174058,
+      "location": "",
+      "name": "Hospital de la Santa Creu i Sant Pau",
+      "remark": "尤里斯住院的医院取景于此",
+      "status_code": 1154,
+      "user_id": 209,
+      "zoom": 52
+    },
+    {
+      "ep_cut": "",
+      "id": "307nh5h",
+      "image_path": "/images/points/242216/307nh5h_1753553633089.jpg",
+      "image_url": "https://w.junreimap.com/images/points/242216/307nh5h_1753553633089.jpg",
+      "lat": 41.410853,
+      "lng": 2.174338,
+      "location": "",
+      "name": "Edifici d'Administració",
+      "remark": "尤里斯住院的医院",
+      "status_code": 1073,
+      "user_id": 209,
+      "zoom": 121
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.6,
+  "region": "海外",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/242216_100_76.webp?v=heeuf",
+    [
+      "ab857wyni",
+      "mhh4h4h2o",
+      "307nh5h"
+    ],
+    1753553730817,
+    100,
+    76
+  ],
+  "title_cn": "剧场版 紫罗兰永恒花园",
+  "title_en": "Violet Evergarden: The Movie",
+  "title_jp": "劇場版 ヴァイオレット・エヴァーガーデン",
+  "type": "剧场版"
+}

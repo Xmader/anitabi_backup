@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/b4/2b/297198_PV6GN.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b4/2b/297198_PV6GN.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 297198,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "d8ffac9f",
+      "image_path": "/images/points/297198/d8ffac9f_1741429708204.jpg",
+      "image_url": "https://w.junreimap.com/images/points/297198/d8ffac9f_1741429708204.jpg",
+      "lat": 35.746942,
+      "lng": 140.373349,
+      "location": "韩式炒肉套餐和生鸡蛋",
+      "name": "三里塚１５",
+      "remark": "〒282-0011千葉県成田市三里塚15",
+      "status_code": 0,
+      "user_id": 1131925,
+      "zoom": 2094
+    },
+    {
+      "ep_cut": "",
+      "id": "89d85ec8",
+      "image_path": "/images/points/297198/89d85ec8_1741431021551.jpg",
+      "image_url": "https://w.junreimap.com/images/points/297198/89d85ec8_1741431021551.jpg",
+      "lat": 33.583145,
+      "lng": 130.390178,
+      "location": "福冈县福冈市的剥皮鱼活造套餐",
+      "name": "警固２丁目５−１３",
+      "remark": "〒810-0023福岡市中央区警固2丁目5-13",
+      "status_code": 0,
+      "user_id": 2662,
+      "zoom": 191
+    },
+    {
+      "ep_cut": "",
+      "id": "1b94536a",
+      "image_path": "/images/points/297198/1b94536a_1741431583385.jpg",
+      "image_url": "https://w.junreimap.com/images/points/297198/1b94536a_1741431583385.jpg",
+      "lat": 35.133662,
+      "lng": 129.092518,
+      "location": "韩国釜山市的章鱼肥肠虾锅(辣炒章鱼)",
+      "name": "オリュクドナクチポックン（오륙도낙지볶음）",
+      "remark": "五郎さんも食した 「ナッコプセ（낙곱새）」，6 UN pyeonghwa-ro 13beon-gil, Nam-gu, Busan，地下鉄2号線 大淵駅3番出口から約5分",
+      "status_code": 0,
+      "user_id": 223730,
+      "zoom": 57183
+    },
+    {
+      "ep_cut": "",
+      "id": "9aebd09d",
+      "image_path": "/images/points/297198/9aebd09d_1741432188452.jpg",
+      "image_url": "https://w.junreimap.com/images/points/297198/9aebd09d_1741432188452.jpg",
+      "lat": 33.602904,
+      "lng": 130.403763,
+      "location": "博多拉面",
+      "name": "ＮＤＳビル",
+      "remark": "福岡市博多区石城町1-1 NDSビル前",
+      "status_code": 0,
+      "user_id": 2662,
+      "zoom": 46
+    }
+  ],
+  "points_count": 4,
+  "rating": 7.3,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/297198_100_76.webp?v=ha2yr",
+    [
+      "d8ffac9f",
+      "89d85ec8",
+      "1b94536a",
+      "9aebd09d"
+    ],
+    1741432508596,
+    100,
+    76
+  ],
+  "title_cn": "孤独的美食家 2019除夕特别篇～紧急订购！成田～福冈～釜山 子弹出差！",
+  "title_en": "",
+  "title_jp": "孤独のグルメ2019大晦日スペシャル～緊急指令！成田～福岡～釜山　弾丸出張編",
+  "type": "日剧"
+}

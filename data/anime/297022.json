@@ -1,0 +1,72 @@
+{
+  "abbreviation": "",
+  "bgm_id": 288746,
+  "center_lat": 51.381025,
+  "center_lng": -2.359673,
+  "center_zoom": 12.9,
+  "color": "#39231c",
+  "cover_path": "/images/bangumi/297022.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/297022.jpg",
+  "icon_path": "/images/icon/297022.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/297022.jpg",
+  "id": 297022,
+  "points": [
+    {
+      "ep_cut": "ova1",
+      "id": "iuacysbau",
+      "image_path": "/images/points/297022/iuacysbau_1723295408467.jpg",
+      "image_url": "https://w.junreimap.com/images/points/297022/iuacysbau_1723295408467.jpg",
+      "lat": 51.381028,
+      "lng": -2.359698,
+      "location": "",
+      "name": "ローマン・バス",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 372
+    },
+    {
+      "ep_cut": "13",
+      "id": "rb6bwkl7a",
+      "image_path": "/images/user/0/bangumi/297022/points/rb6bwkl7a-1735189036947.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/297022/points/rb6bwkl7a-1735189036947.jpg",
+      "lat": 51.500495,
+      "lng": -0.12434,
+      "location": "",
+      "name": "Big Ben",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 22
+    },
+    {
+      "ep_cut": "5",
+      "id": "f0rs01s",
+      "image_path": "/images/user/0/bangumi/297022/points/f0rs01s-1779708798560.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/297022/points/f0rs01s-1779708798560.jpg",
+      "lat": 54.77542,
+      "lng": -1.576263,
+      "location": "",
+      "name": "University College",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 171812
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.6,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/297022.webp?v=h3lpw",
+    [
+      "iuacysbau"
+    ],
+    1723295332168
+  ],
+  "title_cn": "忧国的莫里亚蒂",
+  "title_en": "Moriarty the Patriot",
+  "title_jp": "憂国のモリアーティ",
+  "type": "TV"
+}

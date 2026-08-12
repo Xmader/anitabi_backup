@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/5b/81/211114_Dq8HL.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/5b/81/211114_Dq8HL.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 211114,
+  "points": [
+    {
+      "ep_cut": "54",
+      "id": "2dk9mun",
+      "image_path": "/images/user/0/bangumi/211114/points/2dk9mun-1752184043620.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/211114/points/2dk9mun-1752184043620.jpg",
+      "lat": 34.412127,
+      "lng": 131.417337,
+      "location": "",
+      "name": "松下村塾",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 19131
+    }
+  ],
+  "points_count": 1,
+  "rating": 6.4,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "猫猫日本史 第二季",
+  "title_en": "",
+  "title_jp": "ねこねこ日本史 第2期",
+  "type": "TV"
+}

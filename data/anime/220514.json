@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 33.541312,
+  "center_lng": 130.993879,
+  "center_zoom": 6.3,
+  "color": "#6a7f95",
+  "cover_path": "/images/bangumi/220514.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/220514.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 220514,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "jvlurjb37",
+      "image_path": "/images/user/1058/bangumi/220514/points/jvlurjb37-1714221361360.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1058/bangumi/220514/points/jvlurjb37-1714221361360.jpg",
+      "lat": 33.261538,
+      "lng": 131.615067,
+      "location": "",
+      "name": "葉秀倉庫",
+      "remark": "",
+      "status_code": 1058,
+      "user_id": 159038,
+      "zoom": 3327
+    },
+    {
+      "ep_cut": "",
+      "id": "jvmegt6mw",
+      "image_path": "/images/user/1058/bangumi/220514/points/jvmegt6mw-1714222546166.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1058/bangumi/220514/points/jvmegt6mw-1714222546166.jpg",
+      "lat": 33.596826,
+      "lng": 130.22208,
+      "location": "",
+      "name": "九州大学伊都キャンパス",
+      "remark": "",
+      "status_code": 1058,
+      "user_id": 159038,
+      "zoom": 3920
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.4,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "致我深爱的每个你",
+  "title_en": "",
+  "title_jp": "僕が愛したすべての君へ",
+  "type": "小说"
+}

@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 32.747155,
+  "center_lng": 129.88008,
+  "center_zoom": 0,
+  "color": "#bf4040",
+  "cover_path": "/images/bangumi/66262.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/66262.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 66262,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "q5whf7xvf",
+      "image_path": "/images/points/66262/q5whf7xvf_1731954647457.jpg",
+      "image_url": "https://w.junreimap.com/images/points/66262/q5whf7xvf_1731954647457.jpg",
+      "lat": 32.741504,
+      "lng": 129.875301,
+      "location": "",
+      "name": "長崎新地中華街",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 952,
+      "zoom": 449
+    },
+    {
+      "ep_cut": "",
+      "id": "q5wiqlprr",
+      "image_path": "/images/points/66262/q5wiqlprr_1731954729049.jpg",
+      "image_url": "https://w.junreimap.com/images/points/66262/q5wiqlprr_1731954729049.jpg",
+      "lat": 32.734288,
+      "lng": 129.870155,
+      "location": "",
+      "name": "大浦天主堂",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 49,
+      "zoom": 8
+    },
+    {
+      "ep_cut": "",
+      "id": "q5wkaxn4d",
+      "image_path": "/images/points/66262/q5wkaxn4d_1731954830241.jpg",
+      "image_url": "https://w.junreimap.com/images/points/66262/q5wkaxn4d_1731954830241.jpg",
+      "lat": 32.734715,
+      "lng": 129.87006,
+      "location": "",
+      "name": "グラバー通り",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 49,
+      "zoom": 56
+    }
+  ],
+  "points_count": 3,
+  "rating": 6,
+  "region": "长崎市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/66262_100_76.webp?v=h6p32",
+    [
+      "q5whf7xvf",
+      "q5wiqlprr",
+      "q5wkaxn4d"
+    ],
+    1731955085356,
+    100,
+    76
+  ],
+  "title_cn": "穿透幻影的太阳",
+  "title_en": "Il Sole Penetra le Illusioni",
+  "title_jp": "幻影ヲ駆ケル太陽",
+  "type": "TV"
+}

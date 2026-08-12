@@ -1,0 +1,60 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 38.030814,
+  "center_lng": 114.464453,
+  "center_zoom": 12.5,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/0d/28/345565_7F7kE.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/0d/28/345565_7F7kE.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 345565,
+  "points": [
+    {
+      "ep_cut": 8,
+      "id": "nyg8kk2rb",
+      "image_path": "/images/user/0/bangumi/345565/points/nyg8kk2rb-1725728914218.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/345565/points/nyg8kk2rb-1725728914218.jpg",
+      "lat": 38.030843,
+      "lng": 114.464252,
+      "location": "",
+      "name": "工农路与维明南大街交叉口",
+      "remark": "华强买瓜遗址。目前后面的楼都拆了，前面家属院刷了个漆还能看出来。水果摊儿今犹在，不见当年劈瓜人~",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 2748
+    },
+    {
+      "ep_cut": "",
+      "id": "h1vv3p8",
+      "image_path": "/images/user/2191/bangumi/345565/points/h1vv3p8-1784129936343.webp",
+      "image_url": "https://w.junreimap.com/images/user/2191/bangumi/345565/points/h1vv3p8-1784129936343.webp",
+      "lat": 38.051326,
+      "lng": 114.45035,
+      "location": "",
+      "name": "西焦北路与新和街交叉口",
+      "remark": "华强买报纸遗址",
+      "status_code": 2191,
+      "user_id": null,
+      "zoom": 15850
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.1,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/345565_100_76.webp?v=h4k3y",
+    [
+      "nyg8kk2rb"
+    ],
+    1725969519383,
+    100,
+    76
+  ],
+  "title_cn": "征服",
+  "title_en": "",
+  "title_jp": "征服",
+  "type": "华语剧"
+}

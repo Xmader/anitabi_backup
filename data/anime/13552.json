@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/cd/ad/13552_80asQ.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/cd/ad/13552_80asQ.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 13552,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "3be4np9",
+      "image_path": "/images/user/0/bangumi/13552/points/3be4np9-1754229614150.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/13552/points/3be4np9-1754229614150.jpg",
+      "lat": 35.67083,
+      "lng": 139.78468,
+      "location": "",
+      "name": "佃",
+      "remark": "第一小队与黑色labor交战地",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 33
+    }
+  ],
+  "points_count": 1,
+  "rating": 8.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "机动警察 NEW OVA",
+  "title_en": "",
+  "title_jp": "機動警察パトレイバー NEW OVA",
+  "type": "OVA"
+}

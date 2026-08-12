@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 31.664776,
+  "center_lng": 35.552797,
+  "center_zoom": 9.9,
+  "color": "#2b7fd4",
+  "cover_path": "/images/bangumi/183891.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/183891.jpg",
+  "icon_path": "/images/icon/183891.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/183891.jpg",
+  "id": 183891,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "59pe2e7lt",
+      "image_path": "/images/user/1000/bangumi/183891/points/59pe2e7lt-1673009405434.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1000/bangumi/183891/points/59pe2e7lt-1673009405434.jpg",
+      "lat": 31.703045,
+      "lng": 35.529955,
+      "location": "",
+      "name": "البحر الميت ים המלח",
+      "remark": "",
+      "status_code": 1000,
+      "user_id": 110999999889000,
+      "zoom": 16374
+    },
+    {
+      "ep_cut": 1,
+      "id": "2049iiw",
+      "image_path": "/images/user/0/bangumi/183891/points/2049iiw-1751371101933.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/183891/points/2049iiw-1751371101933.jpg",
+      "lat": 35.005889,
+      "lng": 135.770061,
+      "location": "",
+      "name": "立誠​ガーデン​ヒューリック​京都",
+      "remark": "友枝中学",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 82
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.2,
+  "region": "日本",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "魔卡少女樱 透明牌篇",
+  "title_en": "",
+  "title_jp": "カードキャプターさくら クリアカード編",
+  "type": "TV"
+}

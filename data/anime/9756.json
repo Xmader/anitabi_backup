@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 34.726335,
+  "center_lng": 133.763067,
+  "center_zoom": 0,
+  "color": "#557faa",
+  "cover_path": "/images/bangumi/9756.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/9756.jpg",
+  "icon_path": "/images/icon/9756.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/9756.jpg",
+  "id": 9756,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "823oum0c1",
+      "image_path": "/images/user/0/bangumi/9756/points/823oum0c1-1680876942820.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/9756/points/823oum0c1-1680876942820.jpg",
+      "lat": 34.559823,
+      "lng": 133.625718,
+      "location": "",
+      "name": "太老神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 23913
+    },
+    {
+      "ep_cut": 7,
+      "id": "8tqdcpb",
+      "image_path": "/images/user/0/bangumi/9756/points/8tqdcpb-1766222902567.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/9756/points/8tqdcpb-1766222902567.jpg",
+      "lat": 34.723208,
+      "lng": 133.766129,
+      "location": "",
+      "name": "鬼の差上げ岩",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 184726
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "天地无用!",
+  "title_en": "",
+  "title_jp": "天地無用!",
+  "type": "TV"
+}

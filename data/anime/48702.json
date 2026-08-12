@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/32/08/48702_2MGdF.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/32/08/48702_2MGdF.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 48702,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "2z5oxnq",
+      "image_path": "/images/user/0/bangumi/48702/points/2z5oxnq-1753489811911.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/48702/points/2z5oxnq-1753489811911.jpg",
+      "lat": 35.6927,
+      "lng": 139.694294,
+      "location": "",
+      "name": "「LOVE」ロバート・インディアナ",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 5
+    },
+    {
+      "ep_cut": "",
+      "id": "2z5szuv",
+      "image_path": "/images/user/0/bangumi/48702/points/2z5szuv-1753490468087.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/48702/points/2z5szuv-1753490468087.jpg",
+      "lat": 35.692619,
+      "lng": 139.694398,
+      "location": "",
+      "name": "新宿警察署裏",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 4
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "闪亮的拓人 剧场版",
+  "title_en": "",
+  "title_jp": "スタードライバー THE MOVIE",
+  "type": "剧场版"
+}

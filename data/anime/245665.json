@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/9d/d1/245665_5an54.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9d/d1/245665_5an54.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 245665,
+  "points": [
+    {
+      "ep_cut": "鬼灭之刃第一集",
+      "id": "aak48cn",
+      "image_path": "/images/user/0/bangumi/245665/points/aak48cn-1769416837197.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/245665/points/aak48cn-1769416837197.jpg",
+      "lat": 35.855534,
+      "lng": 138.944192,
+      "location": "",
+      "name": "雲取山",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 29
+    }
+  ],
+  "points_count": 1,
+  "rating": 7.3,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "鬼灭之刃",
+  "title_en": "",
+  "title_jp": "鬼滅の刃",
+  "type": "TV"
+}

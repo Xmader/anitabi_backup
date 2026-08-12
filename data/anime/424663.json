@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": 4357,
+  "center_lat": 35.905496,
+  "center_lng": 139.620864,
+  "center_zoom": 13,
+  "color": "#550e9c",
+  "cover_path": "/images/bangumi/424663.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/424663.jpg",
+  "icon_path": "/images/icon/424663_q25i6xms2.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/424663_q25i6xms2.jpg",
+  "id": 424663,
+  "points": [
+    {
+      "ep_cut": 2,
+      "id": "q25p73m8x",
+      "image_path": "/images/points/424663/q25p73m8x_1731661243059.jpg",
+      "image_url": "https://w.junreimap.com/images/points/424663/q25p73m8x_1731661243059.jpg",
+      "lat": 35.920891,
+      "lng": 139.622659,
+      "location": "",
+      "name": "COCO'S\n大宮​赤芝​店",
+      "remark": "",
+      "status_code": 1751,
+      "user_id": 1643,
+      "zoom": 1306
+    },
+    {
+      "ep_cut": 2,
+      "id": "q25kygfva",
+      "image_path": "/images/points/424663/q25kygfva_1731661013235.jpg",
+      "image_url": "https://w.junreimap.com/images/points/424663/q25kygfva_1731661013235.jpg",
+      "lat": 35.906143,
+      "lng": 139.623965,
+      "location": "",
+      "name": "大宮駅の西",
+      "remark": "部分外观并未完全对应，但从大致轮廓和左下角的屋顶停车场等关键特征，以及其它点都位于大宫附近，可以判断此场景高度参考了大宫站西向的建筑群",
+      "status_code": 1751,
+      "user_id": 202,
+      "zoom": 20
+    },
+    {
+      "ep_cut": 3,
+      "id": "q263411kz",
+      "image_path": "/images/points/424663/q263411kz_1731662088414.jpg",
+      "image_url": "https://w.junreimap.com/images/points/424663/q263411kz_1731662088414.jpg",
+      "lat": 35.904366,
+      "lng": 139.623589,
+      "location": "",
+      "name": "アニメイト大宮",
+      "remark": "",
+      "status_code": 1751,
+      "user_id": 202,
+      "zoom": 128
+    },
+    {
+      "ep_cut": 3,
+      "id": "q264wp0e0",
+      "image_path": "/images/points/424663/q264wp0e0_1731662186319.jpg",
+      "image_url": "https://w.junreimap.com/images/points/424663/q264wp0e0_1731662186319.jpg",
+      "lat": 35.905497,
+      "lng": 139.620864,
+      "location": "",
+      "name": "鐘塚公園",
+      "remark": "公园中心十分有特征的标志物",
+      "status_code": 1751,
+      "user_id": 327,
+      "zoom": 275
+    }
+  ],
+  "points_count": 4,
+  "rating": 7,
+  "region": "埼玉市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/424663_100_76.webp?v=h6lbl",
+    [
+      "q25p73m8x",
+      "q25kygfva",
+      "q263411kz",
+      "q264wp0e0"
+    ],
+    1731662496690,
+    100,
+    76
+  ],
+  "title_cn": "憧憬成为魔法少女",
+  "title_en": "",
+  "title_jp": "魔法少女にあこがれて",
+  "type": "TV"
+}

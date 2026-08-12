@@ -1,0 +1,76 @@
+{
+  "abbreviation": "タコピー",
+  "bgm_id": 11740,
+  "center_lat": 41.882856,
+  "center_lng": 140.739336,
+  "center_zoom": 9.5,
+  "color": "#d13f88",
+  "cover_path": "/images/bangumi/361988.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/361988.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 361988,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "o6ce7h1sx",
+      "image_path": "/images/user/1751/bangumi/361988/points/o6ce7h1sx-1726347116121.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1751/bangumi/361988/points/o6ce7h1sx-1726347116121.jpg",
+      "lat": 41.878062,
+      "lng": 140.706866,
+      "location": "",
+      "name": "あかまつ公園",
+      "remark": "章鱼噼的土管位于町立南公园，追赶他的是町立保健所（保健所属于振兴局管辖，所以町立保健所是虚构的），因此函馆市和北斗市可以排除。\n\n七饭町、森町、鹿部、厚沢部附近是候选地，但如果东直树の地图比较准确的话，那么就是七饭町或森町其中一个。\n\n如果南公园位于城镇的南侧，那么从城镇的开阔程度来看，七饭町的可能性更高。土管是藤子不二雄的致敬作品，所以如果认为它并不存在的话，那么赤松公园就非常符合了。\n\n那里有栅栏、柱状钟表，以及从高处俯瞰的道路，树木零星地生长着。虽然没有书中描绘得那么茂密，但还是比较接近的。",
+      "status_code": 1751,
+      "user_id": 692812,
+      "zoom": 3281
+    },
+    {
+      "ep_cut": 11,
+      "id": "o6culn8p7",
+      "image_path": "/images/user/1751/bangumi/361988/points/o6culn8p7-1726348131095.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1751/bangumi/361988/points/o6culn8p7-1726348131095.jpg",
+      "lat": 35.700394,
+      "lng": 139.816158,
+      "location": "",
+      "name": "Brillia​タワー​東京",
+      "remark": "",
+      "status_code": 1751,
+      "user_id": 13730,
+      "zoom": 79
+    },
+    {
+      "ep_cut": 10,
+      "id": "o6czzbbd0",
+      "image_path": "/images/user/1751/bangumi/361988/points/o6czzbbd0-1726348389594.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1751/bangumi/361988/points/o6czzbbd0-1726348389594.jpg",
+      "lat": 35.659475,
+      "lng": 139.69943,
+      "location": "",
+      "name": "SHIBUYA109前",
+      "remark": "",
+      "status_code": 1751,
+      "user_id": 13730,
+      "zoom": 4
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.7,
+  "region": "北海道",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/361988_100_76.webp?v=heenv",
+    [
+      "o6ce7h1sx",
+      "o6culn8p7",
+      "o6czzbbd0"
+    ],
+    1753539595788,
+    100,
+    76
+  ],
+  "title_cn": "章鱼噼的原罪",
+  "title_en": "Takopi's Original Sin",
+  "title_jp": "タコピーの原罪",
+  "type": "漫画系列"
+}

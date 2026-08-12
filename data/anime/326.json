@@ -1,0 +1,59 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 24.979642,
+  "center_lng": 121.373931,
+  "center_zoom": 9,
+  "color": "#2b2b2b",
+  "cover_path": "/images/bangumi/326.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/326.jpg",
+  "icon_path": "/images/icon/326.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/326.jpg",
+  "id": 326,
+  "points": [
+    {
+      "ep_cut": 17,
+      "id": "5guc3mnnn",
+      "image_path": "/images/user/0/bangumi/326/points/5guc3mnnn-1673568757457.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/326/points/5guc3mnnn-1673568757457.jpg",
+      "lat": 25.078704,
+      "lng": 121.526254,
+      "location": "",
+      "name": "圓山大飯店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 31796,
+      "zoom": 2484
+    },
+    {
+      "ep_cut": 17,
+      "id": "ienlvhxgh",
+      "image_path": "/images/user/0/bangumi/326/points/ienlvhxgh-1710071803490.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/326/points/ienlvhxgh-1710071803490.jpg",
+      "lat": 25.083346,
+      "lng": 121.239837,
+      "location": "",
+      "name": "台北桃园国际机场",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 31796,
+      "zoom": 13627
+    }
+  ],
+  "points_count": 2,
+  "rating": 9.2,
+  "region": "东京都",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/326.webp?v=h478n",
+    [
+      "5guc3mnnn",
+      "ienlvhxgh"
+    ],
+    1724968797567
+  ],
+  "title_cn": "攻壳机动队 S.A.C. 2nd GIG",
+  "title_en": "",
+  "title_jp": "攻殻機動隊 S.A.C. 2nd GIG",
+  "type": "TV"
+}

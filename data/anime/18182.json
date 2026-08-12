@@ -1,0 +1,103 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#f5b65f",
+  "cover_path": "/images/bangumi/18182_gigyc90.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/18182_gigyc90.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 18182,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "gihu82w",
+      "image_path": "/images/user/2195/bangumi/18182/points/gihu82w-1782957294437.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gihu82w-1782957294437.webp",
+      "lat": 51.513119,
+      "lng": -0.220062,
+      "location": "",
+      "name": "The Harrow Club",
+      "remark": "MV内景拍摄地。平时作为青少年社区活动中心，有篮球场。平时不随意对外开放（每周有青少年篮球集训），建议在官网查询有哪些普通公众可参与的开放项目再巡礼",
+      "status_code": 2195,
+      "user_id": 126,
+      "zoom": 23
+    },
+    {
+      "ep_cut": "",
+      "id": "gihname",
+      "image_path": "/images/user/2195/bangumi/18182/points/gihname-1782956927741.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gihname-1782956927741.webp",
+      "lat": 51.512596,
+      "lng": -0.219052,
+      "location": "",
+      "name": "154 Freston Rd",
+      "remark": "MV外景拍摄地，在无名铁路桥下，桥编号为HC13。",
+      "status_code": 2195,
+      "user_id": 126,
+      "zoom": 11
+    },
+    {
+      "ep_cut": "",
+      "id": "gjz5o9t",
+      "image_path": "/images/user/2195/bangumi/18182/points/gjz5o9t-1783046835061.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gjz5o9t-1783046835061.webp",
+      "lat": 51.513109,
+      "lng": -0.21986,
+      "location": "",
+      "name": "The Harrow Club",
+      "remark": "不确定，但因为这里可以作为婚礼场地出租，所以可能存在吧台",
+      "status_code": 2195,
+      "user_id": null,
+      "zoom": 80
+    },
+    {
+      "ep_cut": "",
+      "id": "gjz9bds",
+      "image_path": "/images/user/2195/bangumi/18182/points/gjz9bds-1783046986227.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gjz9bds-1783046986227.webp",
+      "lat": 51.51286,
+      "lng": -0.219191,
+      "location": "",
+      "name": "210 Freston Rd",
+      "remark": "疑似白房子拍摄地，从2012年街景可以看到；现在已翻新重建。Rick本人说MV的拍摄地点都很集中",
+      "status_code": 2195,
+      "user_id": null,
+      "zoom": 24
+    },
+    {
+      "ep_cut": "",
+      "id": "gjzceqw",
+      "image_path": "/images/user/2195/bangumi/18182/points/gjzceqw-1783047120948.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gjzceqw-1783047120948.webp",
+      "lat": 51.512667,
+      "lng": -0.21911,
+      "location": "",
+      "name": "214 Freston Rd",
+      "remark": "疑似拍摄地。由于多次翻新这里已经变成了路口，拍摄类似效果可以前往西北方向的Westway Tennis courts",
+      "status_code": 2195,
+      "user_id": null,
+      "zoom": 3424
+    }
+  ],
+  "points_count": 5,
+  "rating": 0,
+  "region": "英国",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/18182_100_76.webp?v=hoxgs",
+    [
+      "gihu82w",
+      "gihname"
+    ],
+    1782995326782,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "Never Gonna Give You Up",
+  "type": "音乐"
+}

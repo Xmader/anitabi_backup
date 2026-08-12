@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": 1041,
+  "center_lat": 35.715172,
+  "center_lng": 139.692454,
+  "center_zoom": 10.6,
+  "color": "#56303d",
+  "cover_path": "/images/bangumi/202419.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/202419.jpg",
+  "icon_path": "/images/icon/202419_tl8ggfkte.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/202419_tl8ggfkte.jpg",
+  "id": 202419,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "tkyanq3z8",
+      "image_path": "/images/user/0/bangumi/202419/points/tkyanq3z8-1741597499170.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/202419/points/tkyanq3z8-1741597499170.jpg",
+      "lat": 35.671155,
+      "lng": 139.765172,
+      "location": "",
+      "name": "晴海通り",
+      "remark": "最后打阿尔泰尔的位置，这条路是金蝉脱壳的位置。这里还是东京esp的第一集战斗位置，三个人都是食零灵的人物，最右面的人位置在涩谷忠犬八公",
+      "status_code": 0,
+      "user_id": 10815,
+      "zoom": 7
+    },
+    {
+      "ep_cut": "",
+      "id": "tkyg84sqr",
+      "image_path": "/images/user/0/bangumi/202419/points/tkyg84sqr-1741597948326.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/202419/points/tkyg84sqr-1741597948326.jpg",
+      "lat": 35.759454,
+      "lng": 139.806359,
+      "location": "",
+      "name": "荒川​千住​新橋​緑地",
+      "remark": "这个位置是两方会战的位置，没能去拍摄实景图，下次给各位补上",
+      "status_code": 0,
+      "user_id": 10815,
+      "zoom": 276
+    },
+    {
+      "ep_cut": "",
+      "id": "tkyloab60",
+      "image_path": "/images/user/0/bangumi/202419/points/tkyloab60-1741598047486.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/202419/points/tkyloab60-1741598047486.jpg",
+      "lat": 35.703617,
+      "lng": 139.579926,
+      "location": "",
+      "name": "吉祥寺商业街人口",
+      "remark": "阿尔泰尔作者自杀的车站，基本贯彻全文的车站",
+      "status_code": 0,
+      "user_id": 20876,
+      "zoom": 8
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/202419_100_76.webp?v=ha5da",
+    [
+      "tkyanq3z8",
+      "tkyg84sqr",
+      "tkyloab60"
+    ],
+    1741619416667,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "Re:CREATORS",
+  "type": "TV"
+}

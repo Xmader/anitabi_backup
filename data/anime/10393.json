@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/f8/a8/10393_Y12cM.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/f8/a8/10393_Y12cM.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 10393,
+  "points": [
+    {
+      "ep_cut": "ヤマトよ永遠に REBEL3199 第六章　第01集",
+      "id": "gm9sfwj",
+      "image_path": "/images/user/0/bangumi/10393/points/gm9sfwj-1783185596811.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/10393/points/gm9sfwj-1783185596811.webp",
+      "lat": 35.711754,
+      "lng": 139.774009,
+      "location": "",
+      "name": "上野公園の西郷像",
+      "remark": "作品:宇宙戦艦ヤマト３１９９",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 8
+    },
+    {
+      "ep_cut": "ヤマトよ永遠に REBEL3199 第六章 第01話",
+      "id": "gm9km80",
+      "image_path": "/images/user/0/bangumi/10393/points/gm9km80-1783185364641.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/10393/points/gm9km80-1783185364641.webp",
+      "lat": 35.715015,
+      "lng": 139.775234,
+      "location": "",
+      "name": "国立西洋美術館の考える人像",
+      "remark": "由於無法建立對應作品 暫時以\"宇宙戦艦ヤマトよ永遠に REBEL3199”做備註",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 20
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.3,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "宇宙战舰大和号",
+  "title_en": "",
+  "title_jp": "宇宙戦艦ヤマト",
+  "type": "TV"
+}

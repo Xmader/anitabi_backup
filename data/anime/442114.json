@@ -1,0 +1,60 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#314041",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/86/e5/442114_nSSO1.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/86/e5/442114_nSSO1.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 442114,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "6m0abnl",
+      "image_path": "/images/points/442114/6m0abnl_1761401864352.jpg",
+      "image_url": "https://w.junreimap.com/images/points/442114/6m0abnl_1761401864352.jpg",
+      "lat": 78.923312,
+      "lng": 11.934587,
+      "location": "",
+      "name": "黄河会馆",
+      "remark": "现实中为位于挪威斯瓦尔巴群岛的中国北极黄河站。",
+      "status_code": 1057,
+      "user_id": 110999999889000,
+      "zoom": 2114452
+    },
+    {
+      "ep_cut": "",
+      "id": "auy8te7",
+      "image_path": "/images/user/1154/bangumi/442114/points/auy8te7-1770649987281.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1154/bangumi/442114/points/auy8te7-1770649987281.jpg",
+      "lat": 40.04409,
+      "lng": 117.396703,
+      "location": "",
+      "name": "独乐寺观音阁",
+      "remark": "流石会馆大殿以独乐寺观音阁为原型，不过电影中一层较原型增大，因此外观不完全一致",
+      "status_code": 1154,
+      "user_id": null,
+      "zoom": 76618
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.6,
+  "region": "中国",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/442114_100_76.webp?v=hh7ru",
+    [
+      "6m0abnl"
+    ],
+    1761401912393,
+    100,
+    76
+  ],
+  "title_cn": "罗小黑战记2",
+  "title_en": "",
+  "title_jp": "罗小黑战记2",
+  "type": "剧场版"
+}

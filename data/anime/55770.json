@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 48.851333,
+  "center_lng": 10.488374,
+  "center_zoom": 14.8,
+  "color": "#471c0e",
+  "cover_path": "/images/bangumi/55770.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/55770.jpg",
+  "icon_path": "/images/icon/55770.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/55770.jpg",
+  "id": 55770,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "fl5zln17z",
+      "image_path": "/images/user/2195/bangumi/55770/points/fl5zln17z-1783400348649.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/55770/points/fl5zln17z-1783400348649.webp",
+      "lat": 48.851334,
+      "lng": 10.488373,
+      "location": "",
+      "name": "Nördlingen",
+      "remark": "故事发生地的主要原型。具体截图和机位需要对作品有了解的佬作详细补充。在教堂边的塔楼Kirchturm Daniel可以俯瞰整个讷德林根镇",
+      "status_code": 2195,
+      "user_id": 8633877,
+      "zoom": 67561
+    },
+    {
+      "ep_cut": "",
+      "id": "npd18wq7n",
+      "image_path": "/images/points/55770/npd18wq7n_1725017515108.jpg",
+      "image_url": "https://w.junreimap.com/images/points/55770/npd18wq7n_1725017515108.jpg",
+      "lat": -20.740232,
+      "lng": 45.232555,
+      "location": "岛屿位置",
+      "name": "パラディ島",
+      "remark": "因为实际上帕拉迪岛就是倒过来的马达加斯加",
+      "status_code": 0,
+      "user_id": 8633877,
+      "zoom": 1517808
+    }
+  ],
+  "points_count": 2,
+  "rating": 8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "进击的巨人",
+  "title_en": "",
+  "title_jp": "進撃の巨人",
+  "type": "TV"
+}

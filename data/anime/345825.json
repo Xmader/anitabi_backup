@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#8ca1bb",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/1c/50/345825_CP6Fc.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/1c/50/345825_CP6Fc.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 345825,
+  "points": [
+    {
+      "ep_cut": "第8集",
+      "id": "rtveemdhz",
+      "image_path": "/images/user/0/bangumi/345825/points/rtveemdhz-1736654132044.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/345825/points/rtveemdhz-1736654132044.jpg",
+      "lat": 28.065358,
+      "lng": 119.339959,
+      "location": "",
+      "name": "永和桥",
+      "remark": "动漫中在桥的下面有一把宝剑，现实中也有",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 24831
+    },
+    {
+      "ep_cut": "第22集",
+      "id": "rtvi6pm0d",
+      "image_path": "/images/user/0/bangumi/345825/points/rtvi6pm0d-1736654776985.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/345825/points/rtvi6pm0d-1736654776985.jpg",
+      "lat": 28.074917,
+      "lng": 119.116467,
+      "location": "",
+      "name": "千年老槐",
+      "remark": "在《剑来》中出现的千年老槐，现实原型是龙泉西街的老树",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 126886
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.6,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "剑来",
+  "title_en": "",
+  "title_jp": "剑来",
+  "type": "WEB"
+}

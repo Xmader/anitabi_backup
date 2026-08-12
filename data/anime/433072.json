@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#3caf38",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/42/97/433072_z1pUT.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/42/97/433072_z1pUT.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 433072,
+  "points": [
+    {
+      "ep_cut": "7",
+      "id": "6q8f2q3",
+      "image_path": "/images/user/0/bangumi/433072/points/6q8f2q3-1761657739261.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/433072/points/6q8f2q3-1761657739261.jpg",
+      "lat": 29.859266,
+      "lng": 129.856961,
+      "location": "",
+      "name": "御岳",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 53561
+    },
+    {
+      "ep_cut": "9",
+      "id": "84bkcoq",
+      "image_path": "/images/user/0/bangumi/433072/points/84bkcoq-1764686179155.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/433072/points/84bkcoq-1764686179155.jpg",
+      "lat": 29.454968,
+      "lng": 129.593568,
+      "location": "",
+      "name": "悪石島",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 180275
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.6,
+  "region": "鹿儿岛县",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "蜻蛉高球",
+  "title_en": "",
+  "title_jp": "オーイ！とんぼ",
+  "type": "TV"
+}

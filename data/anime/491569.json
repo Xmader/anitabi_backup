@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/15/a3/491569_R42i0.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/15/a3/491569_R42i0.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 491569,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "unqwxvo2r",
+      "image_path": "/images/points/491569/unqwxvo2r_1744637512768.jpg",
+      "image_url": "https://w.junreimap.com/images/points/491569/unqwxvo2r_1744637512768.jpg",
+      "lat": 35.704089,
+      "lng": 139.600218,
+      "location": "",
+      "name": "大戸屋\nごはん​処​西荻窪​北口​駅前​店",
+      "remark": "女主们初次相遇后就餐的餐厅",
+      "status_code": 1127,
+      "user_id": 4,
+      "zoom": 4
+    },
+    {
+      "ep_cut": 1,
+      "id": "uns90w0sp",
+      "image_path": "/images/points/491569/uns90w0sp_1744640411853.jpg",
+      "image_url": "https://w.junreimap.com/images/points/491569/uns90w0sp_1744640411853.jpg",
+      "lat": 35.70412,
+      "lng": 139.600191,
+      "location": "",
+      "name": "大户屋内",
+      "remark": "",
+      "status_code": 2128,
+      "user_id": 0,
+      "zoom": 1
+    },
+    {
+      "ep_cut": 1,
+      "id": "unsa565yb",
+      "image_path": "/images/points/491569/unsa565yb_1744640474508.jpg",
+      "image_url": "https://w.junreimap.com/images/points/491569/unsa565yb_1744640474508.jpg",
+      "lat": 35.704119,
+      "lng": 139.600195,
+      "location": "",
+      "name": "大户屋内",
+      "remark": "",
+      "status_code": 2128,
+      "user_id": 0,
+      "zoom": 1
+    },
+    {
+      "ep_cut": 1,
+      "id": "unsae2w1z",
+      "image_path": "/images/points/491569/unsae2w1z_1744640487981.jpg",
+      "image_url": "https://w.junreimap.com/images/points/491569/unsae2w1z_1744640487981.jpg",
+      "lat": 35.704118,
+      "lng": 139.6002,
+      "location": "",
+      "name": "大户屋内",
+      "remark": "",
+      "status_code": 2128,
+      "user_id": 1,
+      "zoom": 11
+    }
+  ],
+  "points_count": 4,
+  "rating": 7.3,
+  "region": "东京都",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/491569_100_76.webp?v=hb87x",
+    [
+      "unqwxvo2r",
+      "uns90w0sp",
+      "unsa565yb",
+      "unsae2w1z"
+    ],
+    1744640492833,
+    100,
+    76
+  ],
+  "title_cn": "忍者与杀手二人组的日常生活",
+  "title_en": "",
+  "title_jp": "忍者と殺し屋のふたりぐらし",
+  "type": "TV"
+}

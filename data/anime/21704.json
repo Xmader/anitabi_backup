@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 36.413956,
+  "center_lng": 139.333762,
+  "center_zoom": 16,
+  "color": "#1a6dc7",
+  "cover_path": "/images/bangumi/21704.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/21704.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 21704,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "k07n6ayk9",
+      "image_path": "/images/user/1073/bangumi/21704/points/k07n6ayk9-1714582299754.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/21704/points/k07n6ayk9-1714582299754.jpg",
+      "lat": 36.413956,
+      "lng": 139.333763,
+      "location": "",
+      "name": "西桐生駅",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 775488,
+      "zoom": 387
+    },
+    {
+      "ep_cut": "",
+      "id": "k084zv2dg",
+      "image_path": "/images/user/1073/bangumi/21704/points/k084zv2dg-1714583163758.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/21704/points/k084zv2dg-1714583163758.jpg",
+      "lat": 43.197978,
+      "lng": 141.003052,
+      "location": "",
+      "name": "小樽運河",
+      "remark": "站在浅草桥上向北望",
+      "status_code": 1073,
+      "user_id": 775488,
+      "zoom": 3
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.5,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "真夏之夜的雪物语",
+  "title_en": "",
+  "title_jp": "真夏の夜の雪物語 -MIDSUMMER SNOW NIGHT-",
+  "type": "游戏"
+}

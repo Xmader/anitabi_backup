@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/b3/3d/266663_PyYNW.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b3/3d/266663_PyYNW.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 266663,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "d2d2753c",
+      "image_path": "/images/points/266663/d2d2753c_1741376392125.jpg",
+      "image_url": "https://w.junreimap.com/images/points/266663/d2d2753c_1741376392125.jpg",
+      "lat": 35.02563,
+      "lng": 135.794938,
+      "location": "京都府京都市的方头鱼火锅饭",
+      "name": "梨門邸",
+      "remark": "〒606-8405京都市左京区浄土時上南田町37",
+      "status_code": 0,
+      "user_id": 123297,
+      "zoom": 238
+    },
+    {
+      "ep_cut": "",
+      "id": "18909931",
+      "image_path": "/images/points/266663/18909931_1741376415018.jpg",
+      "image_url": "https://w.junreimap.com/images/points/266663/18909931_1741376415018.jpg",
+      "lat": 35.166051,
+      "lng": 136.896806,
+      "location": "名古屋早点套餐：综合咖啡和豆沙吐司",
+      "name": "カラス",
+      "remark": "〒460-0008名古屋市中区栄1-12-2",
+      "status_code": 0,
+      "user_id": 7148,
+      "zoom": 353
+    },
+    {
+      "ep_cut": "",
+      "id": "f503f155",
+      "image_path": "/images/points/266663/f503f155_1741376510908.jpg",
+      "image_url": "https://w.junreimap.com/images/points/266663/f503f155_1741376510908.jpg",
+      "lat": 35.230446,
+      "lng": 136.897384,
+      "location": "爱知县名古屋市的台湾拉面",
+      "name": "ＪＭヒラ",
+      "remark": "〒452-0802名古屋市西区比良3-139",
+      "status_code": 0,
+      "user_id": 7148,
+      "zoom": 4952
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/266663_100_76.webp?v=ha28u",
+    [
+      "d2d2753c",
+      "18909931",
+      "f503f155"
+    ],
+    1741376530040,
+    100,
+    76
+  ],
+  "title_cn": "孤独的美食家 2018除夕特别篇 京都·名古屋出差篇",
+  "title_en": "",
+  "title_jp": "孤独のグルメ 大晦日スペシャル 京都・名古屋出張編",
+  "type": "日剧"
+}

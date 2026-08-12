@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 45.765321,
+  "center_lng": 126.624662,
+  "center_zoom": 13.2,
+  "color": "#475c63",
+  "cover_path": "/images/bangumi/257494.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/257494.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 257494,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "ohn9kkp33",
+      "image_path": "/images/user/0/bangumi/257494/points/ohn9kkp33-1727232800115.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/257494/points/ohn9kkp33-1727232800115.jpg",
+      "lat": 45.762765,
+      "lng": 126.62889,
+      "location": "",
+      "name": "霁虹桥",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1107,
+      "zoom": 460
+    },
+    {
+      "ep_cut": "",
+      "id": "ohnfpuxmy",
+      "image_path": "/images/user/0/bangumi/257494/points/ohnfpuxmy-1727233090950.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/257494/points/ohnfpuxmy-1727233090950.jpg",
+      "lat": 45.767947,
+      "lng": 126.620371,
+      "location": "",
+      "name": "圣·索菲亚教堂",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1107,
+      "zoom": 1053
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.2,
+  "region": "黑龙江省",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/257494_100_76.webp?v=h50o4",
+    [
+      "ohn9kkp33",
+      "ohnfpuxmy"
+    ],
+    1727257235550,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "夜思",
+  "type": "WEB"
+}

@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": 3203,
+  "center_lat": 42.918376,
+  "center_lng": 143.202811,
+  "center_zoom": 14.6,
+  "color": "#f280a6",
+  "cover_path": "/images/bangumi/226750.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/226750.jpg",
+  "icon_path": "/images/icon/226750.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/226750.jpg",
+  "id": 226750,
+  "points": [
+    {
+      "ep_cut": 2,
+      "id": "51i53yu47",
+      "image_path": "/images/points/226750/51i53yu47_1753948783308.jpg",
+      "image_url": "https://w.junreimap.com/images/points/226750/51i53yu47_1753948783308.jpg",
+      "lat": 42.918752,
+      "lng": 143.201509,
+      "location": "帯広",
+      "name": "ＪＲ帯広駅北口",
+      "remark": "ＪＲイン帯広から撮影",
+      "status_code": 0,
+      "user_id": 87,
+      "zoom": 87
+    },
+    {
+      "ep_cut": 2,
+      "id": "51i53yttb",
+      "image_path": "/images/points/226750/51i53yttb_1753948791708.jpg",
+      "image_url": "https://w.junreimap.com/images/points/226750/51i53yttb_1753948791708.jpg",
+      "lat": 42.916764,
+      "lng": 143.205704,
+      "location": "帯広",
+      "name": "ペペサーレ帯広店",
+      "remark": "第２話",
+      "status_code": 0,
+      "user_id": 466,
+      "zoom": 413
+    },
+    {
+      "ep_cut": 6,
+      "id": "51i53yu51",
+      "image_path": "/images/points/226750/51i53yu51_1672382887964.jpg",
+      "image_url": "https://w.junreimap.com/images/points/226750/51i53yu51_1672382887964.jpg",
+      "lat": 42.919098,
+      "lng": 143.202211,
+      "location": "帯広",
+      "name": "手話のオブジェ",
+      "remark": "６話",
+      "status_code": 0,
+      "user_id": 87,
+      "zoom": 16
+    },
+    {
+      "ep_cut": 6,
+      "id": "51i53yui5",
+      "image_path": "/images/points/226750/51i53yui5_1672382889593.jpg",
+      "image_url": "https://w.junreimap.com/images/points/226750/51i53yui5_1672382889593.jpg",
+      "lat": 42.920666,
+      "lng": 143.202211,
+      "location": "帯広",
+      "name": "カラオケまねきねこ帯広駅前店",
+      "remark": "６話",
+      "status_code": 0,
+      "user_id": 174,
+      "zoom": 173
+    }
+  ],
+  "points_count": 4,
+  "rating": 6.6,
+  "region": "带广市",
+  "short_name": "刀剑神域外传 GGO",
+  "theme_meta": [
+    "/images/ptheme/226750_100_76.webp?v=hejxe",
+    [
+      "51i53yu47",
+      "51i53yttb",
+      "51i53yu51",
+      "51i53yui5"
+    ],
+    1753948930504,
+    100,
+    76
+  ],
+  "title_cn": "刀剑神域外传 Gun Gale Online",
+  "title_en": "",
+  "title_jp": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+  "type": "TV"
+}

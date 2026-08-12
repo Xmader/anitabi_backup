@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.443673,
+  "center_lng": 139.637963,
+  "center_zoom": 5,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/b1/e8/567684_qbYrH.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b1/e8/567684_qbYrH.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 567684,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "23dgkxw",
+      "image_path": "/images/points/567684/23dgkxw_1751567965052.jpg",
+      "image_url": "https://w.junreimap.com/images/points/567684/23dgkxw_1751567965052.jpg",
+      "lat": 35.440693,
+      "lng": 139.654604,
+      "location": "",
+      "name": "港の見える丘公園 展望台",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 2542,
+      "zoom": 25
+    },
+    {
+      "ep_cut": "",
+      "id": "23dxre2",
+      "image_path": "/images/points/567684/23dxre2_1751568734836_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/567684/23dxre2_1751568734836_c16v9.jpg",
+      "lat": 35.455352,
+      "lng": 139.637007,
+      "location": "",
+      "name": "よこはま​コスモ​ワールド",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 2542,
+      "zoom": 34
+    }
+  ],
+  "points_count": 2,
+  "rating": 0,
+  "region": "横滨市",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "迷宮のしおり",
+  "type": "剧场版"
+}

@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/11/5e/81281_onKQt.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/11/5e/81281_onKQt.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 81281,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "t6yxrd",
+      "image_path": "/images/user/0/bangumi/81281/points/t6yxrd-1748775823985.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/81281/points/t6yxrd-1748775823985.jpg",
+      "lat": 33.741979,
+      "lng": -118.277338,
+      "location": "戦艦",
+      "name": "Battleship USS Iowa (BB-61)",
+      "remark": "衣阿华原型舰，现作为博物馆展出",
+      "status_code": 0,
+      "user_id": 26509011,
+      "zoom": 3161020
+    },
+    {
+      "ep_cut": "",
+      "id": "q9emzs",
+      "image_path": "/images/points/208559/q9emzs_1759491850168.jpg",
+      "image_url": "https://w.junreimap.com/images/points/208559/q9emzs_1759491850168.jpg",
+      "lat": 22.689424,
+      "lng": 120.286691,
+      "location": "駆逐",
+      "name": "左營軍區故事館",
+      "remark": "丹阳号的舰钟陈列于其中",
+      "status_code": 0,
+      "user_id": 26509011,
+      "zoom": 294657
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.6,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/81281_100_76.webp?v=hgj7n",
+    [
+      "t6yxrd",
+      "q9emzs"
+    ],
+    1759492027593,
+    100,
+    76
+  ],
+  "title_cn": "舰队Collection",
+  "title_en": "",
+  "title_jp": "艦隊これくしょん-艦これ-",
+  "type": "游戏"
+}

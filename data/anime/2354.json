@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/d2/54/2354_6QmTz.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d2/54/2354_6QmTz.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 2354,
+  "points": [
+    {
+      "ep_cut": 3,
+      "id": "f03w1i5",
+      "image_path": "/images/user/0/bangumi/2354/points/f03w1i5-1779668709691.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2354/points/f03w1i5-1779668709691.jpg",
+      "lat": 43.111832,
+      "lng": 131.881553,
+      "location": "",
+      "name": "Железнодорожный вокзал",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 969,
+      "zoom": 969
+    },
+    {
+      "ep_cut": 2,
+      "id": "f04br7w",
+      "image_path": "/images/points/2354/f04br7w_1779711907998_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/2354/f04br7w_1779711907998_c16v9.jpg",
+      "lat": 43.113559,
+      "lng": 131.890106,
+      "location": "",
+      "name": "Корабельная набережная",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 969,
+      "zoom": 1015
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.4,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/2354_100_76.webp?v=hnr8p",
+    [
+      "f03w1i5",
+      "f04br7w"
+    ],
+    1779711916433,
+    100,
+    76
+  ],
+  "title_cn": "DARKER THAN BLACK -流星的双子-",
+  "title_en": "",
+  "title_jp": "DARKER THAN BLACK -流星の双子-",
+  "type": "TV"
+}

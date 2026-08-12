@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#aa6a55",
+  "cover_path": "/images/bangumi/628097_fvqb9cq.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/628097_fvqb9cq.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 628097,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "b3d9to6",
+      "image_path": "/images/user/0/bangumi/628097/points/b3d9to6-1771159351324.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/628097/points/b3d9to6-1771159351324.jpg",
+      "lat": 34.703513,
+      "lng": 135.492665,
+      "location": "",
+      "name": "うめきた公園",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 490506,
+      "zoom": 694
+    },
+    {
+      "ep_cut": "",
+      "id": "b3dx9p3",
+      "image_path": "/images/user/0/bangumi/628097/points/b3dx9p3-1771160225253.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/628097/points/b3dx9p3-1771160225253.jpg",
+      "lat": 35.707626,
+      "lng": 139.796049,
+      "location": "",
+      "name": "駒形橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 9,
+      "zoom": 10
+    },
+    {
+      "ep_cut": "",
+      "id": "b3e9prb",
+      "image_path": "/images/user/0/bangumi/628097/points/b3e9prb-1771160331754.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/628097/points/b3e9prb-1771160331754.jpg",
+      "lat": 35.707602,
+      "lng": 139.796127,
+      "location": "",
+      "name": "隅田川",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 9,
+      "zoom": 489
+    }
+  ],
+  "points_count": 3,
+  "rating": 0,
+  "region": "",
+  "short_name": "Dou-Da? DOING!",
+  "theme_meta": [
+    "/images/ptheme/628097_100_76.webp?v=hof9y",
+    [
+      "b3d9to6",
+      "b3dx9p3",
+      "b3e9prb"
+    ],
+    1781580853561,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "Dou-Da? DOING! / REGAIN AGAIN LLLLOVE",
+  "type": "其他"
+}

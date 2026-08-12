@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": 568,
+  "center_lat": 35.651511,
+  "center_lng": 139.425668,
+  "center_zoom": 14.9,
+  "color": "#9f1c6c",
+  "cover_path": "/images/bangumi/313852.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/313852.jpg",
+  "icon_path": "/images/icon/313852.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/313852.jpg",
+  "id": 313852,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "n7ehbox0c",
+      "image_path": "/images/user/0/bangumi/272510/points/n7ehbox0c-1723609266232.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/272510/points/n7ehbox0c-1723609266232.jpg",
+      "lat": 35.650232,
+      "lng": 139.444962,
+      "location": "",
+      "name": "ホーム・ベース",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 204,
+      "zoom": 172
+    },
+    {
+      "ep_cut": 8,
+      "id": "cfdsbxdc8",
+      "image_path": "/images/points/272510/cfdsbxdc8_1724029334928_cut.jpg",
+      "image_url": "https://w.junreimap.com/images/points/272510/cfdsbxdc8_1724029334928_cut.jpg",
+      "lat": 35.649086,
+      "lng": 139.404312,
+      "location": "",
+      "name": "多摩動物公園",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4514,
+      "zoom": 75
+    },
+    {
+      "ep_cut": 1,
+      "id": "ncb4n2xv6",
+      "image_path": "/images/user/0/bangumi/272510/points/ncb4n2xv6-1723993415374.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/272510/points/ncb4n2xv6-1723993415374.jpg",
+      "lat": 35.649548,
+      "lng": 139.446663,
+      "location": "",
+      "name": "アニメイト 聖蹟桜ヶ丘オーパ店",
+      "remark": "第二季momo带夏美子来的animate",
+      "status_code": 0,
+      "user_id": 204,
+      "zoom": 38
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.8,
+  "region": "多摩市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/313852.webp?v=h3v5w",
+    [
+      "n7ehbox0c",
+      "cfdsbxdc8",
+      "ncb4n2xv6"
+    ],
+    1724029728791
+  ],
+  "title_cn": "街角魔族 2丁目",
+  "title_en": "",
+  "title_jp": "まちカドまぞく 2丁目",
+  "type": "TV"
+}

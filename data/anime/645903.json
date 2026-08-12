@@ -1,0 +1,61 @@
+{
+  "abbreviation": "アスオラ",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/80/be/645903_lh9HI.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/80/be/645903_lh9HI.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 645903,
+  "points": [
+    {
+      "ep_cut": "角色介绍PV",
+      "id": "g66kzam",
+      "image_path": "/images/points/645903/g66kzam_1782212747918.webp",
+      "image_url": "https://w.junreimap.com/images/points/645903/g66kzam_1782212747918.webp",
+      "lat": 35.656836,
+      "lng": 139.745451,
+      "location": "",
+      "name": "芝公園 のびのび広場・いきいき広場",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 530,
+      "zoom": 115
+    },
+    {
+      "ep_cut": "角色介绍PV",
+      "id": "g66cme6",
+      "image_path": "/images/points/645903/g66cme6_1782212346879.webp",
+      "image_url": "https://w.junreimap.com/images/points/645903/g66cme6_1782212346879.webp",
+      "lat": 35.660083,
+      "lng": 139.748957,
+      "location": "",
+      "name": "港区芝公園三丁目交差点",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 530,
+      "zoom": 404
+    }
+  ],
+  "points_count": 2,
+  "rating": 0,
+  "region": "東京都",
+  "short_name": "阿索拉",
+  "theme_meta": [
+    "/images/ptheme/645903_100_76.webp?v=honei",
+    [
+      "g66kzam",
+      "g66cme6"
+    ],
+    1782212763413,
+    100,
+    76
+  ],
+  "title_cn": "阿索拉：星之祈愿",
+  "title_en": "Astrae Oratio",
+  "title_jp": "アストラエ・オラティオ",
+  "type": "游戏"
+}

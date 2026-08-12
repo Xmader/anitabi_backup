@@ -1,0 +1,60 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/32/73/115292_RnE82.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/32/73/115292_RnE82.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 115292,
+  "points": [
+    {
+      "ep_cut": 9,
+      "id": "q018vcaf8",
+      "image_path": "/images/user/1099/bangumi/115292/points/q018vcaf8-1731494909088.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/115292/points/q018vcaf8-1731494909088.jpg",
+      "lat": 35.737295,
+      "lng": 139.654754,
+      "location": "",
+      "name": "喫茶アンデス",
+      "remark": "“安定区”的原型，位于该建筑二楼的一家古典咖啡店，于2022年关店",
+      "status_code": 1099,
+      "user_id": 110999999889000,
+      "zoom": 34
+    },
+    {
+      "ep_cut": 9,
+      "id": "q083tjzuv",
+      "image_path": "/images/user/1099/bangumi/115292/points/q083tjzuv-1731509772709.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/115292/points/q083tjzuv-1731509772709.jpg",
+      "lat": 35.659462,
+      "lng": 139.700511,
+      "location": "",
+      "name": "渋谷スクランブル交差点",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": null,
+      "zoom": 1
+    }
+  ],
+  "points_count": 2,
+  "rating": 5.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/115292_100_76.webp?v=h6j8f",
+    [
+      "q018vcaf8"
+    ],
+    1731500116085,
+    100,
+    76
+  ],
+  "title_cn": "东京喰种√A",
+  "title_en": "",
+  "title_jp": "東京喰種トーキョーグール √A",
+  "type": "TV"
+}

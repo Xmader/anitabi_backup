@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.651698,
+  "center_lng": 136.821329,
+  "center_zoom": 18.5,
+  "color": "#e91e24",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/a5/af/333813_T11Gd.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/a5/af/333813_T11Gd.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 333813,
+  "points": [
+    {
+      "ep_cut": "第二話「悪魔の人形」",
+      "id": "p8rturpc9",
+      "image_path": "/images/points/333813/p8rturpc9_1729359357377.jpg",
+      "image_url": "https://w.junreimap.com/images/points/333813/p8rturpc9_1729359357377.jpg",
+      "lat": 35.651698,
+      "lng": 136.821329,
+      "location": "",
+      "name": "モネの池",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 2,
+      "zoom": 3
+    },
+    {
+      "ep_cut": "第二話「悪魔の人形」",
+      "id": "p8sa76fkh",
+      "image_path": "/images/points/333813/p8sa76fkh_1729359465730.jpg",
+      "image_url": "https://w.junreimap.com/images/points/333813/p8sa76fkh_1729359465730.jpg",
+      "lat": 35.651706,
+      "lng": 136.821346,
+      "location": "",
+      "name": "モネの池",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 2,
+      "zoom": 14952
+    },
+    {
+      "ep_cut": "第三話「人間シチュー」",
+      "id": "p8s4fcqw7",
+      "image_path": "/images/points/333813/p8s4fcqw7_1729359400366.jpg",
+      "image_url": "https://w.junreimap.com/images/points/333813/p8s4fcqw7_1729359400366.jpg",
+      "lat": 34.718733,
+      "lng": 135.415177,
+      "location": "",
+      "name": "さきタワー・サンクタス尼崎駅前",
+      "remark": "高29层的高级公寓。设定中位于G站（岐阜站）前，其原型实际上位于兵库县尼崎市。",
+      "status_code": 1057,
+      "user_id": 187314,
+      "zoom": 128
+    },
+    {
+      "ep_cut": "愛染刹那編「悪魔のメルヘンカルタ」",
+      "id": "p8sqy6sen",
+      "image_path": "/images/points/333813/p8sqy6sen_1729360487694.jpg",
+      "image_url": "https://w.junreimap.com/images/points/333813/p8sqy6sen_1729360487694.jpg",
+      "lat": 36.245423,
+      "lng": 137.96127,
+      "location": "",
+      "name": "松本市営葬祭センター",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 142665,
+      "zoom": 527
+    }
+  ],
+  "points_count": 4,
+  "rating": 5.8,
+  "region": "岐阜县",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/333813_100_76.webp?v=h5rpv",
+    [
+      "p8rturpc9",
+      "p8sa76fkh",
+      "p8s4fcqw7",
+      "p8sqy6sen"
+    ],
+    1729360500439,
+    100,
+    76
+  ],
+  "title_cn": "真 流行之神3",
+  "title_en": "",
+  "title_jp": "真 流行り神３",
+  "type": "游戏"
+}

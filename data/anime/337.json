@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/35/7a/337_WzSea.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/35/7a/337_WzSea.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 337,
+  "points": [
+    {
+      "ep_cut": 10,
+      "id": "sjyc26eoc",
+      "image_path": "/images/points/337/sjyc26eoc_1739179171221.jpg",
+      "image_url": "https://w.junreimap.com/images/points/337/sjyc26eoc_1739179171221.jpg",
+      "lat": 22.282739,
+      "lng": 114.181986,
+      "location": "",
+      "name": "海底隧道港島入口",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 2436,
+      "zoom": 1369
+    },
+    {
+      "ep_cut": 10,
+      "id": "sjymcolrl",
+      "image_path": "/images/points/337/sjymcolrl_1739178425597.jpg",
+      "image_url": "https://w.junreimap.com/images/points/337/sjymcolrl_1739178425597.jpg",
+      "lat": 22.28053,
+      "lng": 114.150958,
+      "location": "",
+      "name": "輝煌豪園 Palatial Crest",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 3148,
+      "zoom": 1003
+    },
+    {
+      "ep_cut": 13,
+      "id": "sp6d89itk",
+      "image_path": "/images/points/337/sp6d89itk_1739180727194.jpg",
+      "image_url": "https://w.junreimap.com/images/points/337/sp6d89itk_1739180727194.jpg",
+      "lat": 22.331598,
+      "lng": 114.190656,
+      "location": "",
+      "name": "九龍寨城公園 Kowloon Walled City Park",
+      "remark": "九龙寨城公园大门口\nmain door of the park",
+      "status_code": 0,
+      "user_id": 4054,
+      "zoom": 3148
+    },
+    {
+      "ep_cut": 12,
+      "id": "sp6kg12le",
+      "image_path": "/images/points/337/sp6kg12le_1739180753887.jpg",
+      "image_url": "https://w.junreimap.com/images/points/337/sp6kg12le_1739180753887.jpg",
+      "lat": 22.301298,
+      "lng": 114.170266,
+      "location": "",
+      "name": "九龍公園 kowloon park",
+      "remark": "九龙公园的圆形喷泉\nThe circle spring in the kowloon park",
+      "status_code": 0,
+      "user_id": 2436,
+      "zoom": 384
+    }
+  ],
+  "points_count": 4,
+  "rating": 7.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/337_100_76.webp?v=h9a0y",
+    [
+      "sjyc26eoc",
+      "sjymcolrl",
+      "sp6d89itk",
+      "sp6kg12le"
+    ],
+    1739182241149,
+    100,
+    76
+  ],
+  "title_cn": "全金属狂潮 The Second Raid",
+  "title_en": "",
+  "title_jp": "フルメタル・パニック! The Second Raid",
+  "type": "TV"
+}

@@ -1,0 +1,44 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 39.078286,
+  "center_lng": 125.836801,
+  "center_zoom": 12.1,
+  "color": "#b22d19",
+  "cover_path": "/images/bangumi/316756.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/316756.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 316756,
+  "points": [
+    {
+      "ep_cut": "1",
+      "id": "84vilt19d",
+      "image_path": "/images/user/0/bangumi/316756/points/84vilt19d-1681094534312.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/316756/points/84vilt19d-1681094534312.jpg",
+      "lat": 39.078428,
+      "lng": 125.836454,
+      "location": "",
+      "name": "대성산성",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 190854
+    }
+  ],
+  "points_count": 1,
+  "rating": 8,
+  "region": "亚洲",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/316756.webp?v=h3lq0",
+    [
+      "84vilt19d"
+    ],
+    1723295571691
+  ],
+  "title_cn": "少年将帅",
+  "title_en": "",
+  "title_jp": "소년장수",
+  "type": "TV"
+}

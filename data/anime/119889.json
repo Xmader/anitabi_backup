@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": 107585,
+  "center_lat": 42.978964,
+  "center_lng": 144.377361,
+  "center_zoom": 11.5,
+  "color": "#962eff",
+  "cover_path": "/images/bangumi/119889.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/119889.jpg",
+  "icon_path": "/images/icon/119889.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/119889.jpg",
+  "id": 119889,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "51i53hvvl",
+      "image_path": "/images/points/119889/51i53hvvl_1730614715350.jpg",
+      "image_url": "https://w.junreimap.com/images/points/119889/51i53hvvl_1730614715350.jpg",
+      "lat": 42.983797,
+      "lng": 144.398202,
+      "location": "釧路",
+      "name": "釧路仏舎利",
+      "remark": "ED",
+      "status_code": 0,
+      "user_id": 1456,
+      "zoom": 1457
+    },
+    {
+      "ep_cut": "",
+      "id": "51i53hw4r",
+      "image_path": "/images/points/119889/51i53hw4r_1730614764389.jpg",
+      "image_url": "https://w.junreimap.com/images/points/119889/51i53hw4r_1730614764389.jpg",
+      "lat": 42.980985,
+      "lng": 144.385387,
+      "location": "釧路",
+      "name": "幣舞橋",
+      "remark": "ED",
+      "status_code": 0,
+      "user_id": 1456,
+      "zoom": 237
+    },
+    {
+      "ep_cut": "",
+      "id": "51i53hvj0",
+      "image_path": "/images/points/119889/51i53hvj0_1730614783361.jpg",
+      "image_url": "https://w.junreimap.com/images/points/119889/51i53hvj0_1730614783361.jpg",
+      "lat": 41.759402,
+      "lng": 140.704723,
+      "location": "函館",
+      "name": "函館山展望台",
+      "remark": "ED",
+      "status_code": 0,
+      "user_id": 430468,
+      "zoom": 5
+    }
+  ],
+  "points_count": 3,
+  "rating": 6,
+  "region": "钏路市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/119889_100_76.webp?v=hcba8",
+    [
+      "51i53hvvl",
+      "51i53hw4r",
+      "51i53hvj0"
+    ],
+    1747678118094,
+    100,
+    76
+  ],
+  "title_cn": "我老婆是学生会长",
+  "title_en": "",
+  "title_jp": "おくさまが生徒会長!",
+  "type": "TV"
+}

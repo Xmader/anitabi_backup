@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/d4/8e/405136_fsHga.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d4/8e/405136_fsHga.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 405136,
+  "points": [
+    {
+      "ep_cut": "5",
+      "id": "s6rahargn",
+      "image_path": "/images/user/0/bangumi/405136/points/s6rahargn-1737663947566.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/405136/points/s6rahargn-1737663947566.jpg",
+      "lat": 30.585055,
+      "lng": 104.062258,
+      "location": "",
+      "name": "成都金融城双子塔",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 13254
+    }
+  ],
+  "points_count": 1,
+  "rating": 6.3,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "汉化日记 第四季",
+  "title_en": "",
+  "title_jp": "汉化日记 第四季",
+  "type": "WEB"
+}

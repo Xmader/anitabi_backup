@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": 73544,
+  "center_lat": 43.16166,
+  "center_lng": 142.569779,
+  "center_zoom": 10.5,
+  "color": "#642b21",
+  "cover_path": "/images/bangumi/119967.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/119967.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 119967,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "oblu98183",
+      "image_path": "/images/points/119967/oblu98183_1726806397432_cblack.jpg",
+      "image_url": "https://w.junreimap.com/images/points/119967/oblu98183_1726806397432_cblack.jpg",
+      "lat": 43.161634,
+      "lng": 142.569646,
+      "location": "",
+      "name": "幾寅駅ホーム",
+      "remark": "电影中为幌舞駅",
+      "status_code": 1093,
+      "user_id": 40,
+      "zoom": 41
+    },
+    {
+      "ep_cut": "",
+      "id": "obm44tt0y",
+      "image_path": "/images/user/1093/bangumi/119967/points/obm44tt0y-1726760033675.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1093/bangumi/119967/points/obm44tt0y-1726760033675.jpg",
+      "lat": 43.161807,
+      "lng": 142.569963,
+      "location": "",
+      "name": "幾寅駅の外",
+      "remark": "",
+      "status_code": 1093,
+      "user_id": 11,
+      "zoom": 11
+    },
+    {
+      "ep_cut": "",
+      "id": "obm1um4fo",
+      "image_path": "/images/points/119967/obm1um4fo_1726806393162_cblack.jpg",
+      "image_url": "https://w.junreimap.com/images/points/119967/obm1um4fo_1726806393162_cblack.jpg",
+      "lat": 43.161837,
+      "lng": 142.570056,
+      "location": "",
+      "name": "だるま食堂",
+      "remark": "",
+      "status_code": 1093,
+      "user_id": 11,
+      "zoom": 16862
+    }
+  ],
+  "points_count": 3,
+  "rating": 8.2,
+  "region": "北海道",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/119967_100_76.webp?v=h4uve",
+    [
+      "oblu98183",
+      "obm44tt0y",
+      "obm1um4fo"
+    ],
+    1726806401333,
+    100,
+    76
+  ],
+  "title_cn": "铁道员",
+  "title_en": "",
+  "title_jp": "鉄道員",
+  "type": "电影"
+}

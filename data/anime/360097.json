@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/d2/c9/360097_z4dYA.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d2/c9/360097_z4dYA.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 360097,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "rtla7tjn9",
+      "image_path": "/images/user/0/bangumi/360097/points/rtla7tjn9-1736632137361.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/360097/points/rtla7tjn9-1736632137361.jpg",
+      "lat": 45.814233,
+      "lng": 15.973092,
+      "location": "",
+      "name": "Gornji Grad - Medveščak",
+      "remark": "崩坏：星穹铁道，贝洛伯格，上城区与下城区的灵感来源",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 216778
+    },
+    {
+      "ep_cut": "",
+      "id": "2mvvod0",
+      "image_path": "/images/user/0/bangumi/360097/points/2mvvod0-1752747746979.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/360097/points/2mvvod0-1752747746979.jpg",
+      "lat": 44.812949,
+      "lng": 20.462399,
+      "location": "地区",
+      "name": "Beograd",
+      "remark": "崩坏星穹铁道：贝洛伯格的原型之一，前南斯拉夫和塞尔维亚首都贝尔格莱德",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 253741
+    },
+    {
+      "ep_cut": "",
+      "id": "2mw4k5d",
+      "image_path": "/images/user/0/bangumi/360097/points/2mw4k5d-1752748258319.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/360097/points/2mw4k5d-1752748258319.jpg",
+      "lat": 43.848952,
+      "lng": 18.389655,
+      "location": "地区",
+      "name": "Sarajevo",
+      "remark": "《崩坏：星穹铁道》贝洛伯格下层区原型之一，萨拉热窝老街",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 136933
+    }
+  ],
+  "points_count": 3,
+  "rating": 5.9,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/360097_100_76.webp?v=hdtlp",
+    [
+      "rtla7tjn9"
+    ],
+    1751901927407,
+    100,
+    76
+  ],
+  "title_cn": "崩坏：星穹铁道",
+  "title_en": "",
+  "title_jp": "崩坏：星穹铁道",
+  "type": "游戏"
+}

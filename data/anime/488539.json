@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/eb/5d/488539_f6O3D.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/eb/5d/488539_f6O3D.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 488539,
+  "points": [
+    {
+      "ep_cut": "15",
+      "id": "r9d6680tc",
+      "image_path": "/images/user/0/bangumi/488539/points/r9d6680tc-1735047160166.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/488539/points/r9d6680tc-1735047160166.jpg",
+      "lat": 40.689054,
+      "lng": -74.04448,
+      "location": "",
+      "name": "Statue of liberty",
+      "remark": "16年前“怪兽之日”事件发生时，石油怪兽特贡出现在这里",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 53
+    },
+    {
+      "ep_cut": "15",
+      "id": "r9dfov7c3",
+      "image_path": "/images/user/0/bangumi/488539/points/r9dfov7c3-1735047756820.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/488539/points/r9dfov7c3-1735047756820.jpg",
+      "lat": 43.723006,
+      "lng": 10.396452,
+      "location": "",
+      "name": "Torre pendente di PisaTorre di Pisa",
+      "remark": "16年前“怪兽之日”事件发生时，有翼怪兽强德拉和宇宙大怪兽贝蒙斯坦出现在这里",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 27
+    }
+  ],
+  "points_count": 2,
+  "rating": 5.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "亚刻奥特曼",
+  "title_en": "",
+  "title_jp": "ウルトラマンアーク",
+  "type": "日剧"
+}

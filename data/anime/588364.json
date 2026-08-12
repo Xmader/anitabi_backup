@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/17/48/588364_jxJor.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/17/48/588364_jxJor.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 588364,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "5f6eupp",
+      "image_path": "/images/points/588364/5f6eupp_1758812317038.jpg",
+      "image_url": "https://w.junreimap.com/images/points/588364/5f6eupp_1758812317038.jpg",
+      "lat": 35.522681,
+      "lng": 138.767317,
+      "location": "",
+      "name": "民宿 湖舞家(こまや)",
+      "remark": "TGS预告片",
+      "status_code": 2183,
+      "user_id": 110999999889000,
+      "zoom": 1542
+    }
+  ],
+  "points_count": 1,
+  "rating": 0,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/588364_100_76.webp?v=hgagz",
+    [
+      "5f6eupp"
+    ],
+    1758812340601,
+    100,
+    76
+  ],
+  "title_cn": "极限竞速 地平线6",
+  "title_en": "",
+  "title_jp": "Forza Horizon 6",
+  "type": "游戏"
+}

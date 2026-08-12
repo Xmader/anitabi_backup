@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/d0/e6/137720_fKjWK.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d0/e6/137720_fKjWK.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 137720,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "6k5s3ub",
+      "image_path": "/images/user/0/bangumi/137720/points/6k5s3ub-1761290357958.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/137720/points/6k5s3ub-1761290357958.jpg",
+      "lat": 40.871582,
+      "lng": -109.792626,
+      "location": "",
+      "name": "Ute Mountain Fire Tower",
+      "remark": "Ute Mountain Lookout是犹他州第一个也是最后一个地面以上设有生活区的火塔",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 242262
+    }
+  ],
+  "points_count": 1,
+  "rating": 6.6,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "看火人",
+  "title_en": "",
+  "title_jp": "Firewatch",
+  "type": "游戏"
+}

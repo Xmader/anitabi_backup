@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "/images/bangumi/4827.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/4827.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 4827,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "n7t6f08r0",
+      "image_path": "/images/points/4827/n7t6f08r0_1723640936982.jpg",
+      "image_url": "https://w.junreimap.com/images/points/4827/n7t6f08r0_1723640936982.jpg",
+      "lat": 35.450911,
+      "lng": 139.631517,
+      "location": "",
+      "name": "桜木町駅",
+      "remark": "柊町(ひいらひちょう)站，游戏和剧中曾多次出现，造型方面是把JR樱木町站的南口和JR关内站的南口做了一个缝合（右边的尖顶大门为樱木町站南口大门，左边的拱形顶棚为关内站南口大门的设计）地理位置即为樱木町站所在的横滨市中区",
+      "status_code": 1073,
+      "user_id": 1992,
+      "zoom": 315
+    },
+    {
+      "ep_cut": "",
+      "id": "n7tag8mlg",
+      "image_path": "/images/points/4827/n7tag8mlg_1723641169805.jpg",
+      "image_url": "https://w.junreimap.com/images/points/4827/n7tag8mlg_1723641169805.jpg",
+      "lat": 35.437793,
+      "lng": 139.64376,
+      "location": "",
+      "name": "大丸谷坂",
+      "remark": "上学路，武爷专属起飞跑道（bushi）夕呼和纯夏都是送白银武号上天的著名弹射器姬了",
+      "status_code": 1073,
+      "user_id": 1992,
+      "zoom": 7
+    },
+    {
+      "ep_cut": "",
+      "id": "n7tdwm0bk",
+      "image_path": "/images/points/4827/n7tdwm0bk_1723641374653.jpg",
+      "image_url": "https://w.junreimap.com/images/points/4827/n7tdwm0bk_1723641374653.jpg",
+      "lat": 35.437083,
+      "lng": 139.604617,
+      "location": "",
+      "name": "見晴らし台",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 3357,
+      "zoom": 10
+    }
+  ],
+  "points_count": 3,
+  "rating": 0,
+  "region": "横滨市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/4827.webp?v=h3q65",
+    [
+      "n7t6f08r0",
+      "n7tag8mlg",
+      "n7tdwm0bk"
+    ],
+    1723641442297
+  ],
+  "title_cn": "Muv-Luv",
+  "title_en": "Muv-Luv",
+  "title_jp": "マブラヴ",
+  "type": "游戏"
+}

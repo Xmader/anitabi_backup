@@ -1,0 +1,91 @@
+{
+  "abbreviation": "ゆるキャン",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/d6/72/148732_45Q47.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d6/72/148732_45Q47.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 148732,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "tn31tj7dw",
+      "image_path": "/images/user/0/bangumi/8290/points/tn31tj7dw-1741764477304.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/8290/points/tn31tj7dw-1741764477304.jpg",
+      "lat": 36.336515,
+      "lng": 138.734004,
+      "location": "",
+      "name": "碓氷峠\n鉄道​文化​むら",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4601,
+      "zoom": 35
+    },
+    {
+      "ep_cut": "",
+      "id": "tn2vbfbd8",
+      "image_path": "/images/user/0/bangumi/207195/points/tn2vbfbd8-1741764102835.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/207195/points/tn2vbfbd8-1741764102835.jpg",
+      "lat": 36.354914,
+      "lng": 138.685617,
+      "location": "",
+      "name": "旧熊ノ平駅",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1456,
+      "zoom": 1456
+    },
+    {
+      "ep_cut": "",
+      "id": "tn2xsaarv",
+      "image_path": "/images/user/0/bangumi/207195/points/tn2xsaarv-1741764228737.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/207195/points/tn2xsaarv-1741764228737.jpg",
+      "lat": 36.357766,
+      "lng": 138.698418,
+      "location": "",
+      "name": "めがね橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1456,
+      "zoom": 7
+    },
+    {
+      "ep_cut": "",
+      "id": "4f9vtq5",
+      "image_path": "/images/points/148732/4f9vtq5_1756641098839.jpg",
+      "image_url": "https://w.junreimap.com/images/points/148732/4f9vtq5_1756641098839.jpg",
+      "lat": 36.496875,
+      "lng": 138.916187,
+      "location": "",
+      "name": "伊香保温泉石段街",
+      "remark": "左：十一屋酒店，右：田中屋",
+      "status_code": 1073,
+      "user_id": 26940,
+      "zoom": 2
+    }
+  ],
+  "points_count": 4,
+  "rating": 8.3,
+  "region": "山梨县",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/148732_100_76.webp?v=hfijs",
+    [
+      "tn31tj7dw",
+      "tn2vbfbd8",
+      "tn2xsaarv",
+      "4f9vtq5"
+    ],
+    1756641160565,
+    100,
+    76
+  ],
+  "title_cn": "摇曳露营△",
+  "title_en": "",
+  "title_jp": "ゆるキャン△",
+  "type": "漫画系列"
+}

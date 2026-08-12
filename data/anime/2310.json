@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": 9542,
+  "center_lat": 22.331555,
+  "center_lng": 114.106624,
+  "center_zoom": 9.8,
+  "color": "#55aaff",
+  "cover_path": "/images/bangumi/2310.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/2310.jpg",
+  "icon_path": "/images/icon/2310.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/2310.jpg",
+  "id": 2310,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "mszlr5fkf",
+      "image_path": "/images/user/0/bangumi/2310/points/mszlr5fkf-1722479539310.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2310/points/mszlr5fkf-1722479539310.jpg",
+      "lat": 22.348455,
+      "lng": 114.111152,
+      "location": "",
+      "name": "長青隧道",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4177,
+      "zoom": 4177
+    },
+    {
+      "ep_cut": "",
+      "id": "mszx7tunb",
+      "image_path": "/images/user/0/bangumi/2310/points/mszx7tunb-1722480075682.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2310/points/mszx7tunb-1722480075682.jpg",
+      "lat": 22.351133,
+      "lng": 114.073618,
+      "location": "",
+      "name": "青馬大橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4177,
+      "zoom": 9966
+    },
+    {
+      "ep_cut": "",
+      "id": "mt01zjnfs",
+      "image_path": "/images/user/0/bangumi/2310/points/mt01zjnfs-1722480364662.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2310/points/mt01zjnfs-1722480364662.jpg",
+      "lat": 30.580461,
+      "lng": 114.296197,
+      "location": "",
+      "name": "武汉客运港",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 913789,
+      "zoom": 882
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.8,
+  "region": "中国",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/2310.webp?v=h3ch0",
+    [
+      "mszlr5fkf",
+      "mszx7tunb",
+      "mt01zjnfs"
+    ],
+    1722576256021
+  ],
+  "title_cn": "麦兜响当当",
+  "title_en": "",
+  "title_jp": "麥兜响噹噹",
+  "type": "剧场版"
+}

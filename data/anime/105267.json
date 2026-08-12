@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#5f8be3",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/4e/6a/105267_CJI77.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/4e/6a/105267_CJI77.jpg",
+  "icon_path": "/images/icon/105267.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/105267.jpg",
+  "id": 105267,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "ncac0lshn",
+      "image_path": "",
+      "image_url": "",
+      "lat": 35.44338,
+      "lng": 136.675395,
+      "location": "",
+      "name": "岐阜第一高等学校",
+      "remark": "我为了保险起见报考的学校是私立的男校，所以体育馆里不管左看右看都是男生。\n——《沙漠中的男孩生活》 1『马头琴（暂定）之诗』\n\n校长的长篇大论结束后，开始介绍来自蒙古的留学生。他们是从合作学校过来的，听说目标是成为这里的柔道选手。\n——《沙漠中的男孩生活》 1『马头琴（暂定）之诗』",
+      "status_code": 1057,
+      "user_id": 9880,
+      "zoom": 57
+    },
+    {
+      "ep_cut": "",
+      "id": "ncacck02v",
+      "image_path": "",
+      "image_url": "",
+      "lat": 35.438678,
+      "lng": 136.764284,
+      "location": "",
+      "name": "想作新中華料理 昇龍",
+      "remark": "「昨天啊，我闲着没事，就在镇上到处乱晃。然后，我无意间走进一间中华料理店，结果有个穿旗袍的女生在招呼客人。看到她的时候，我心想『啊啊，这身打扮真棒』，还感动了一下。那女生确实很可爱，但即使忽视这点，那种布料的光泽也很棒。对吧？」\n——《沙漠中的男孩生活》 2『海市蜃楼的美女』",
+      "status_code": 1057,
+      "user_id": 9880,
+      "zoom": 5
+    }
+  ],
+  "points_count": 2,
+  "rating": 9,
+  "region": "岐阜县",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "沙漠中的男孩生活",
+  "title_en": "",
+  "title_jp": "砂漠のボーイズライフ",
+  "type": "小说"
+}

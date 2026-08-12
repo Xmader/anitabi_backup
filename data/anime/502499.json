@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": 537,
+  "center_lat": 35.659292,
+  "center_lng": 139.705552,
+  "center_zoom": 14,
+  "color": "#00d19d",
+  "cover_path": "/images/bangumi/502499.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/502499.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 502499,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "m0wf5vffi",
+      "image_path": "/images/points/502499/m0wf5vffi_1720278230990.jpg",
+      "image_url": "https://w.junreimap.com/images/points/502499/m0wf5vffi_1720278230990.jpg",
+      "lat": 35.659565,
+      "lng": 139.699706,
+      "location": "",
+      "name": "SHIBUYA109",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 86,
+      "zoom": 28
+    },
+    {
+      "ep_cut": "",
+      "id": "m15p7f3pm",
+      "image_path": "/images/points/502499/m15p7f3pm_1720298434390.jpg",
+      "image_url": "https://w.junreimap.com/images/points/502499/m15p7f3pm_1720298434390.jpg",
+      "lat": 35.659477,
+      "lng": 139.700474,
+      "location": "",
+      "name": "渋谷駅前",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 86,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "",
+      "id": "m15qdcse8",
+      "image_path": "/images/points/502499/m15qdcse8_1720298525217.jpg",
+      "image_url": "https://w.junreimap.com/images/points/502499/m15qdcse8_1720298525217.jpg",
+      "lat": 35.65875,
+      "lng": 139.711925,
+      "location": "",
+      "name": "首都高速3号渋谷線",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 1274,
+      "zoom": 734
+    }
+  ],
+  "points_count": 3,
+  "rating": 10,
+  "region": "涩谷区",
+  "short_name": "GROTESQUE",
+  "theme_meta": [
+    "/images/ptheme/502499.webp?v=h2kl4",
+    [
+      "m0wf5vffi",
+      "m15p7f3pm",
+      "m15qdcse8"
+    ],
+    1720407889254
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "GROTESQUE（仮）",
+  "type": ""
+}

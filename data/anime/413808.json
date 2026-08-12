@@ -1,0 +1,44 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.713915,
+  "center_lng": 139.795949,
+  "center_zoom": 16,
+  "color": "#bf6040",
+  "cover_path": "/images/bangumi/413808.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/413808.jpg",
+  "icon_path": "/images/icon/413808.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/413808.jpg",
+  "id": 413808,
+  "points": [
+    {
+      "ep_cut": "第一章",
+      "id": "iheb6wfar",
+      "image_path": "/images/user/0/bangumi/413808/points/iheb6wfar-1710286993636.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/413808/points/iheb6wfar-1710286993636.jpg",
+      "lat": 35.713915,
+      "lng": 139.79595,
+      "location": "",
+      "name": "浅草寺",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 50
+    }
+  ],
+  "points_count": 1,
+  "rating": 7.1,
+  "region": "文京区",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/413808.webp?v=h3lpz",
+    [
+      "iheb6wfar"
+    ],
+    1723295519111
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "Fate/Samurai Remnant",
+  "type": "游戏"
+}

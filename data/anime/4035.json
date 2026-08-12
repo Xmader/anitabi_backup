@@ -1,0 +1,88 @@
+{
+  "abbreviation": "",
+  "bgm_id": 4905096,
+  "center_lat": 47.613535,
+  "center_lng": -122.344346,
+  "center_zoom": 15.8,
+  "color": "#555555",
+  "cover_path": "/images/bangumi/4035.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/4035.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 4035,
+  "points": [
+    {
+      "ep_cut": 26,
+      "id": "nuk8j9p4j",
+      "image_path": "/images/user/0/bangumi/4035/points/nuk8j9p4j-1725423864732.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/nuk8j9p4j-1725423864732.jpg",
+      "lat": 47.613536,
+      "lng": -122.344345,
+      "location": "",
+      "name": "The Crocodile，Seattle",
+      "remark": "2200 2nd Ave, Seattle, WA 98121-2017",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 537
+    },
+    {
+      "ep_cut": "1集",
+      "id": "rs8b17a37",
+      "image_path": "/images/user/0/bangumi/4035/points/rs8b17a37-1736526036392.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/rs8b17a37-1736526036392.jpg",
+      "lat": 35.65782,
+      "lng": 139.696797,
+      "location": "第一集拉面店原型",
+      "name": "餃子​の​王将\n道玄坂​店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 51
+    },
+    {
+      "ep_cut": "26集",
+      "id": "rsavv4ojb",
+      "image_path": "/images/user/0/bangumi/4035/points/rsavv4ojb-1736531594513.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/rsavv4ojb-1736531594513.jpg",
+      "lat": 34.090671,
+      "lng": -118.38563,
+      "location": "",
+      "name": "Whisky a Go Go",
+      "remark": "livehouse的名字",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 941
+    },
+    {
+      "ep_cut": "26",
+      "id": "rt3lxz9sb",
+      "image_path": "/images/user/0/bangumi/4035/points/rt3lxz9sb-1736593919116.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/rt3lxz9sb-1736593919116.jpg",
+      "lat": 47.614624,
+      "lng": -122.349052,
+      "location": "",
+      "name": "The Crocodile",
+      "remark": "取景实际来自The Crocodile酒吧旧址2200 2nd Ave, Seattle。该酒吧于2021年重新装修并搬迁至新址2505 1st Ave, Seattle",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 1504673
+    }
+  ],
+  "points_count": 4,
+  "rating": 7.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/4035_100_76.webp?v=h4iih",
+    [
+      "nuk8j9p4j"
+    ],
+    1725845365282,
+    100,
+    76
+  ],
+  "title_cn": "摇滚新乐团",
+  "title_en": "",
+  "title_jp": "BECK",
+  "type": "TV"
+}

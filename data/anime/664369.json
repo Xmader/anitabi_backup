@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#000000",
+  "cover_path": "/images/bangumi/664369.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/664369.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 664369,
+  "points": [
+    {
+      "ep_cut": "PV1",
+      "id": "gdkzax5",
+      "image_path": "/images/points/664369/gdkzax5_1782660259510.webp",
+      "image_url": "https://w.junreimap.com/images/points/664369/gdkzax5_1782660259510.webp",
+      "lat": 34.948401,
+      "lng": 134.426605,
+      "location": "",
+      "name": "SPring-8",
+      "remark": "8GeV能量级的同步辐射装置。",
+      "status_code": 1057,
+      "user_id": 110999999889000,
+      "zoom": 53947
+    }
+  ],
+  "points_count": 1,
+  "rating": 0,
+  "region": "兵庫県",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/664369_100_76.webp?v=hot5o",
+    [
+      "gdkzax5"
+    ],
+    1782660283803,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "LONA",
+  "type": "TV"
+}

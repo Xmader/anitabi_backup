@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/ac/3b/404998_IHZeC.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/ac/3b/404998_IHZeC.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 404998,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "5eciowd",
+      "image_path": "/images/points/404998/5eciowd_1758761832319.jpg",
+      "image_url": "https://w.junreimap.com/images/points/404998/5eciowd_1758761832319.jpg",
+      "lat": 34.649608,
+      "lng": 135.001546,
+      "location": "",
+      "name": "明石市立天文科学館 北",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 1106,
+      "zoom": 1107
+    },
+    {
+      "ep_cut": 1,
+      "id": "5eclm7c",
+      "image_path": "/images/points/404998/5eclm7c_1758761960177.jpg",
+      "image_url": "https://w.junreimap.com/images/points/404998/5eclm7c_1758761960177.jpg",
+      "lat": 34.656844,
+      "lng": 135.008399,
+      "location": "",
+      "name": "明石高",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 1106,
+      "zoom": 1283
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.1,
+  "region": "明石市",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "宇宙的音乐",
+  "title_en": "",
+  "title_jp": "宇宙の音楽",
+  "type": "漫画系列"
+}

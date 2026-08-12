@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/b7/2e/38668_QJcRP.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b7/2e/38668_QJcRP.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 38668,
+  "points": [
+    {
+      "ep_cut": "49话",
+      "id": "2a6k5qr",
+      "image_path": "/images/user/0/bangumi/38668/points/2a6k5qr-1751979699489.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/38668/points/2a6k5qr-1751979699489.jpg",
+      "lat": 35.629545,
+      "lng": 139.786028,
+      "location": "",
+      "name": "つどい橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 72
+    },
+    {
+      "ep_cut": "49话",
+      "id": "2a6naun",
+      "image_path": "/images/user/0/bangumi/38668/points/2a6naun-1751979859515.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/38668/points/2a6naun-1751979859515.jpg",
+      "lat": 35.629288,
+      "lng": 139.785442,
+      "location": "",
+      "name": "夢の大橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 122
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "盖亚奥特曼",
+  "title_en": "",
+  "title_jp": "ウルトラマンガイア",
+  "type": "日剧"
+}

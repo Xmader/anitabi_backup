@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#80402a",
+  "cover_path": "/images/bangumi/320239.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/320239.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 320239,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "nozyzj4uc",
+      "image_path": "/images/points/320239/nozyzj4uc_1725000097215_cut.jpg",
+      "image_url": "https://w.junreimap.com/images/points/320239/nozyzj4uc_1725000097215_cut.jpg",
+      "lat": 41.98516,
+      "lng": 121.632722,
+      "location": "",
+      "name": "阜新站",
+      "remark": "阜新老火车站，1937年正式开通运营，2016年改名阜新南站",
+      "status_code": 0,
+      "user_id": 62727,
+      "zoom": 62727
+    },
+    {
+      "ep_cut": 12,
+      "id": "np0o4sti4",
+      "image_path": "/images/points/320239/np0o4sti4_1725000102779_cut.jpg",
+      "image_url": "https://w.junreimap.com/images/points/320239/np0o4sti4_1725000102779_cut.jpg",
+      "lat": 44.541868,
+      "lng": 129.574919,
+      "location": "",
+      "name": "人民空军东北老航校旧址",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 909464,
+      "zoom": 302506
+    },
+    {
+      "ep_cut": 4,
+      "id": "npj2vb35n",
+      "image_path": "/images/points/320239/npj2vb35n_1726916300443_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/320239/npj2vb35n_1726916300443_c16v9.jpg",
+      "lat": 41.523033,
+      "lng": 121.957969,
+      "location": "",
+      "name": "辽宁省北镇市六台子村",
+      "remark": "《血与心》原型人物张荣清的故居",
+      "status_code": 0,
+      "user_id": 62727,
+      "zoom": 161725
+    }
+  ],
+  "points_count": 3,
+  "rating": 0,
+  "region": "中国",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/320239_100_76.webp?v=h4waa",
+    [
+      "nozyzj4uc",
+      "np0o4sti4",
+      "npj2vb35n"
+    ],
+    1726916304088,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "血与心",
+  "type": "WEB"
+}

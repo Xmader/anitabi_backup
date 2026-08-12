@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/e4/c6/194191_RBQMW.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/e4/c6/194191_RBQMW.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 194191,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "fe16af41",
+      "image_path": "/images/points/194191/fe16af41_1741373641715.jpg",
+      "image_url": "https://w.junreimap.com/images/points/194191/fe16af41_1741373641715.jpg",
+      "lat": 38.255558,
+      "lng": 140.91404,
+      "location": "宫城县仙台市的牛舌套餐",
+      "name": "牛たん萃萃",
+      "remark": "〒983-0043仙台市宮城野区萩野町2-12-1",
+      "status_code": 0,
+      "user_id": 62705,
+      "zoom": 1187
+    },
+    {
+      "ep_cut": "",
+      "id": "8b5eeae8",
+      "image_path": "/images/points/194191/8b5eeae8_1741373774041.jpg",
+      "image_url": "https://w.junreimap.com/images/points/194191/8b5eeae8_1741373774041.jpg",
+      "lat": 38.446499,
+      "lng": 141.445699,
+      "location": "三陆女川町的海鲜五色盖饭",
+      "name": "女川２丁目５−７",
+      "remark": "〒986-2265宮城県牡鹿郡女川町女川2丁目5-7，https://www.conori.jp/",
+      "status_code": 0,
+      "user_id": 62705,
+      "zoom": 18084
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.5,
+  "region": "宫城县",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/194191_100_76.webp?v=ha27k",
+    [
+      "fe16af41",
+      "8b5eeae8"
+    ],
+    1741373797596,
+    100,
+    76
+  ],
+  "title_cn": "孤独的美食家 特别篇！真夏的东北・宫城出差篇",
+  "title_en": "",
+  "title_jp": "孤独のグルメ スペシャル! 真夏の東北・宮城出張編",
+  "type": "日剧"
+}

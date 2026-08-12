@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/1b/cb/63927_IOhHR.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/1b/cb/63927_IOhHR.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 63927,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "ddf247cd",
+      "image_path": "/images/points/63927/ddf247cd_1753092933061.jpg",
+      "image_url": "https://w.junreimap.com/images/points/63927/ddf247cd_1753092933061.jpg",
+      "lat": 35.698776,
+      "lng": 139.412743,
+      "location": "",
+      "name": "立川駅北口 ペデストリアンデッキ",
+      "remark": "#05「信じて待っていてくれ。みんなとのデートに遅刻なんてするものか」",
+      "status_code": 0,
+      "user_id": 35,
+      "zoom": 25
+    },
+    {
+      "ep_cut": "",
+      "id": "8a2bff8d",
+      "image_path": "/images/points/63927/8a2bff8d_1753093414413.jpg",
+      "image_url": "https://w.junreimap.com/images/points/63927/8a2bff8d_1753093414413.jpg",
+      "lat": 35.699024,
+      "lng": 139.412542,
+      "location": "",
+      "name": "多摩都市モノレール立川北駅前",
+      "remark": "#05",
+      "status_code": 0,
+      "user_id": 35,
+      "zoom": 57
+    },
+    {
+      "ep_cut": "",
+      "id": "31ce18ec",
+      "image_path": "/images/points/63927/31ce18ec_1753093380425.jpg",
+      "image_url": "https://w.junreimap.com/images/points/63927/31ce18ec_1753093380425.jpg",
+      "lat": 35.67057,
+      "lng": 139.691066,
+      "location": "",
+      "name": "代々木公園 西門",
+      "remark": "#05",
+      "status_code": 0,
+      "user_id": 420,
+      "zoom": 182
+    },
+    {
+      "ep_cut": "",
+      "id": "3b8912fc",
+      "image_path": "/images/points/63927/3b8912fc_1753093386700.jpg",
+      "image_url": "https://w.junreimap.com/images/points/63927/3b8912fc_1753093386700.jpg",
+      "lat": 35.671238,
+      "lng": 139.694793,
+      "location": "",
+      "name": "代々木公園 中央広場",
+      "remark": "#05",
+      "status_code": 0,
+      "user_id": 420,
+      "zoom": 171
+    }
+  ],
+  "points_count": 4,
+  "rating": 5.7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/63927_100_76.webp?v=he8xc",
+    [
+      "ddf247cd",
+      "8a2bff8d",
+      "31ce18ec",
+      "3b8912fc"
+    ],
+    1753093447481,
+    100,
+    76
+  ],
+  "title_cn": "如果她的旗帜被折断了",
+  "title_en": "",
+  "title_jp": "彼女がフラグをおられたら",
+  "type": "TV"
+}

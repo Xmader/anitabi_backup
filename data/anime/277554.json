@@ -1,0 +1,59 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.719087,
+  "center_lng": 139.614223,
+  "center_zoom": 15.9,
+  "color": "#715539",
+  "cover_path": "/images/bangumi/277554.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/277554.jpg",
+  "icon_path": "/images/icon/277554.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/277554.jpg",
+  "id": 277554,
+  "points": [
+    {
+      "ep_cut": 2,
+      "id": "d5abjhb71",
+      "image_path": "/images/user/0/bangumi/277554/points/d5abjhb71-1695770921148.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/277554/points/d5abjhb71-1695770921148.jpg",
+      "lat": 35.719088,
+      "lng": 139.614224,
+      "location": "",
+      "name": "リブリ・​ドルチェ",
+      "remark": "東京都杉並区清水3丁目31-12",
+      "status_code": 0,
+      "user_id": 20,
+      "zoom": 21
+    },
+    {
+      "ep_cut": 2,
+      "id": "dc6c37kvm",
+      "image_path": "/images/user/0/bangumi/277554/points/dc6c37kvm-1695771857208.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/277554/points/dc6c37kvm-1695771857208.jpg",
+      "lat": 35.71894,
+      "lng": 139.614329,
+      "location": "",
+      "name": "リブリ·ドルチェ",
+      "remark": "東京都杉並区清水3丁目31-12",
+      "status_code": 0,
+      "user_id": 20,
+      "zoom": 154
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.7,
+  "region": "",
+  "short_name": "无职转生",
+  "theme_meta": [
+    "/images/ptheme/277554.webp?v=h3qp5",
+    [
+      "d5abjhb71",
+      "dc6c37kvm"
+    ],
+    1723682480594
+  ],
+  "title_cn": "无职转生～在异世界认真地活下去～",
+  "title_en": "Mushoku Tensei ~Isekai Ittara Honki Dasu~",
+  "title_jp": "無職転生～異世界行ったら本気だす～",
+  "type": "TV"
+}

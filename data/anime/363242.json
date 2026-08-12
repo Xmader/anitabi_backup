@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#83708f",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/bc/0d/363242_0tZ06.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/bc/0d/363242_0tZ06.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 363242,
+  "points": [
+    {
+      "ep_cut": 6,
+      "id": "o4cacmhn6",
+      "image_path": "/images/user/1751/bangumi/363242/points/o4cacmhn6-1726190160445.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1751/bangumi/363242/points/o4cacmhn6-1726190160445.jpg",
+      "lat": 35.452369,
+      "lng": 139.642981,
+      "location": "",
+      "name": "横浜​赤​レンガ​倉庫",
+      "remark": "",
+      "status_code": 1751,
+      "user_id": null,
+      "zoom": 21
+    },
+    {
+      "ep_cut": 8,
+      "id": "o4cf1ggbw",
+      "image_path": "/images/user/1751/bangumi/363242/points/o4cf1ggbw-1726190431900.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1751/bangumi/363242/points/o4cf1ggbw-1726190431900.jpg",
+      "lat": 35.507779,
+      "lng": 139.617176,
+      "location": "",
+      "name": "新横浜駅",
+      "remark": "哈哈，这个我会",
+      "status_code": 1751,
+      "user_id": null,
+      "zoom": 7
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.3,
+  "region": "大和市",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "古见同学有交流障碍症 第二季",
+  "title_en": "",
+  "title_jp": "古見さんは、コミュ症です。2期",
+  "type": "TV"
+}

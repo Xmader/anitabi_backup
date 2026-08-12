@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#ff809f",
+  "cover_path": "/images/bangumi/16245_p7qpo0znn.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/16245_p7qpo0znn.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 16245,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "p7r7fk8tm",
+      "image_path": "/images/points/16245/p7r7fk8tm_1729278779822.jpg",
+      "image_url": "https://w.junreimap.com/images/points/16245/p7r7fk8tm_1729278779822.jpg",
+      "lat": 35.711413,
+      "lng": 139.776146,
+      "location": "",
+      "name": "JR上野駅 広小路口",
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 68,
+      "zoom": 28
+    },
+    {
+      "ep_cut": "",
+      "id": "p8cmuuh4o",
+      "image_path": "/images/points/16245/p8cmuuh4o_1729325408558.jpg",
+      "image_url": "https://w.junreimap.com/images/points/16245/p8cmuuh4o_1729325408558.jpg",
+      "lat": 35.711778,
+      "lng": 139.77565,
+      "location": "",
+      "name": "JR上野駅 広小路口",
+      "remark": "",
+      "status_code": 2135,
+      "user_id": 68,
+      "zoom": 15
+    }
+  ],
+  "points_count": 2,
+  "rating": 0,
+  "region": "东京都",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/16245_100_76.webp?v=h5r9m",
+    [
+      "p7r7fk8tm",
+      "p8cmuuh4o"
+    ],
+    1729325458097,
+    100,
+    76
+  ],
+  "title_cn": "世界上最NG的恋爱",
+  "title_en": "",
+  "title_jp": "世界でいちばんNG（だめ）な恋",
+  "type": "游戏"
+}

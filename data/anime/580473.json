@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/28/15/580473_11B14.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/28/15/580473_11B14.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 580473,
+  "points": [
+    {
+      "ep_cut": "PV",
+      "id": "8t9fh0d",
+      "image_path": "/images/points/580473/8t9fh0d_1766194078860.jpg",
+      "image_url": "https://w.junreimap.com/images/points/580473/8t9fh0d_1766194078860.jpg",
+      "lat": 35.717013,
+      "lng": 139.795024,
+      "location": "",
+      "name": "かんがえるかんがるー",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 2,
+      "zoom": 3
+    },
+    {
+      "ep_cut": "PV",
+      "id": "8t9hzp5",
+      "image_path": "/images/points/580473/8t9hzp5_1766194088393.jpg",
+      "image_url": "https://w.junreimap.com/images/points/580473/8t9hzp5_1766194088393.jpg",
+      "lat": 35.716987,
+      "lng": 139.795023,
+      "location": "",
+      "name": "かんがえるかんがるー",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 3,
+      "zoom": 3
+    },
+    {
+      "ep_cut": "PV",
+      "id": "8t9i4rt",
+      "image_path": "/images/points/580473/8t9i4rt_1766194092607.jpg",
+      "image_url": "https://w.junreimap.com/images/points/580473/8t9i4rt_1766194092607.jpg",
+      "lat": 35.717003,
+      "lng": 139.795041,
+      "location": "",
+      "name": "かんがえるかんがるー",
+      "remark": "【待确认】只有这个是推断点位",
+      "status_code": 2168,
+      "user_id": 2,
+      "zoom": 563
+    }
+  ],
+  "points_count": 3,
+  "rating": 0,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/580473_100_76.webp?v=hj761",
+    [
+      "8t9fh0d",
+      "8t9hzp5",
+      "8t9i4rt"
+    ],
+    1766953548869,
+    100,
+    76
+  ],
+  "title_cn": "女仆小姐的贪吃日常",
+  "title_en": "",
+  "title_jp": "メイドさんは食べるだけ",
+  "type": "TV"
+}

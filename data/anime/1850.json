@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#634e47",
+  "cover_path": "/images/bangumi/1850.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/1850.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 1850,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "33oyr97",
+      "image_path": "/images/points/1850/33oyr97_1753764082899.jpg",
+      "image_url": "https://w.junreimap.com/images/points/1850/33oyr97_1753764082899.jpg",
+      "lat": 35.6998,
+      "lng": 139.764791,
+      "location": "",
+      "name": "御茶ノ水駅 聖橋",
+      "remark": "OP",
+      "status_code": 1073,
+      "user_id": 110999999889000,
+      "zoom": 34
+    }
+  ],
+  "points_count": 1,
+  "rating": 7.1,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/1850_100_76.webp?v=hehju",
+    [
+      "33oyr97"
+    ],
+    1753764143801,
+    100,
+    76
+  ],
+  "title_cn": "读或死 TV",
+  "title_en": "",
+  "title_jp": "R.O.D -THE TV-",
+  "type": "TV"
+}

@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 36.230219,
+  "center_lng": 137.983646,
+  "center_zoom": 0,
+  "color": "#5555aa",
+  "cover_path": "/images/bangumi/2042.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/2042.jpg",
+  "icon_path": "/images/icon/2042.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/2042.jpg",
+  "id": 2042,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "lnnhcu89h",
+      "image_path": "/images/user/0/bangumi/2042/points/lnnhcu89h-1719240308056.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2042/points/lnnhcu89h-1719240308056.jpg",
+      "lat": 35.443046,
+      "lng": 139.646966,
+      "location": "",
+      "name": "中華街",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 580,
+      "zoom": 33
+    },
+    {
+      "ep_cut": 224,
+      "id": "lnnrny3cg",
+      "image_path": "/images/user/0/bangumi/2042/points/lnnrny3cg-1719241376760.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2042/points/lnnrny3cg-1719241376760.jpg",
+      "lat": 35.444485,
+      "lng": 139.651985,
+      "location": "",
+      "name": "石のステージ",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 580,
+      "zoom": 128
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.4,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "橙路",
+  "title_en": "Kimagure Orange☆Road",
+  "title_jp": "きまぐれオレンジ☆ロード",
+  "type": "TV"
+}

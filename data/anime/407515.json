@@ -1,0 +1,72 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#635547",
+  "cover_path": "/images/bangumi/407515.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/407515.jpg",
+  "icon_path": "/images/icon/407515.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/407515.jpg",
+  "id": 407515,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "l8kpn2v24",
+      "image_path": "/images/user/0/bangumi/899/points/l8kpn2v24-1718058563335.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/899/points/l8kpn2v24-1718058563335.jpg",
+      "lat": 50.107037,
+      "lng": 8.682241,
+      "location": "",
+      "name": "Eiserner Steg",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 978
+    },
+    {
+      "ep_cut": "",
+      "id": "o86jvgtxn",
+      "image_path": "/images/user/0/bangumi/407515/points/o86jvgtxn-1726491188174.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/407515/points/o86jvgtxn-1726491188174.jpg",
+      "lat": 33.142859,
+      "lng": 139.788303,
+      "location": "",
+      "name": "リード​パーク​リゾート\n八丈島",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 3546
+    },
+    {
+      "ep_cut": "",
+      "id": "cm3tz5k",
+      "image_path": "/images/user/0/bangumi/407515/points/cm3tz5k-1774468479968.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/407515/points/cm3tz5k-1774468479968.jpg",
+      "lat": 14.554936,
+      "lng": 121.025302,
+      "location": "",
+      "name": "The Peninsula Manila",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 88945
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/407515.webp?v=h3r0s",
+    [
+      "l8kpn2v24"
+    ],
+    1723707607448
+  ],
+  "title_cn": "名侦探柯南 黑铁的鱼影",
+  "title_en": "",
+  "title_jp": "名探偵コナン 黒鉄の魚影",
+  "type": "剧场版"
+}

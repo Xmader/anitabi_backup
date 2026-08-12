@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 36.061034,
+  "center_lng": 120.305463,
+  "center_zoom": 14.3,
+  "color": "#a48da5",
+  "cover_path": "/images/bangumi/414459.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/414459.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 414459,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "38ettsm",
+      "image_path": "/images/user/0/bangumi/414459/points/38ettsm-1754050866236.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/414459/points/38ettsm-1754050866236.jpg",
+      "lat": 36.063353,
+      "lng": 120.30902,
+      "location": "",
+      "name": "青岛站",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 944,
+      "zoom": 944
+    },
+    {
+      "ep_cut": "",
+      "id": "38ge0l3",
+      "image_path": "/images/user/0/bangumi/414459/points/38ge0l3-1754052013943.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/414459/points/38ge0l3-1754052013943.jpg",
+      "lat": 36.058717,
+      "lng": 120.301891,
+      "location": "",
+      "name": "青岛第一中学",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 944,
+      "zoom": 153013
+    }
+  ],
+  "points_count": 2,
+  "rating": 5.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/414459_100_76.webp?v=helrr",
+    [
+      "38ettsm",
+      "38ge0l3"
+    ],
+    1754092279255,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "我在终点线等你",
+  "type": "游戏"
+}

@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/ce/e2/456080_hy716.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/ce/e2/456080_hy716.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 456080,
+  "points": [
+    {
+      "ep_cut": "PV2",
+      "id": "8zu7beq",
+      "image_path": "/images/points/456080/8zu7beq_1766591658461.jpg",
+      "image_url": "https://w.junreimap.com/images/points/456080/8zu7beq_1766591658461.jpg",
+      "lat": 35.730203,
+      "lng": 139.712403,
+      "location": "",
+      "name": "主视觉图&&PV2",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 34612,
+      "zoom": 7
+    },
+    {
+      "ep_cut": "",
+      "id": "8zu9a7n",
+      "image_path": "/images/points/456080/8zu9a7n_1766591777018.jpg",
+      "image_url": "https://w.junreimap.com/images/points/456080/8zu9a7n_1766591777018.jpg",
+      "lat": 35.702931,
+      "lng": 139.401779,
+      "location": "",
+      "name": "昭和纪念公园",
+      "remark": "来源：@ssslocation",
+      "status_code": 2168,
+      "user_id": 34612,
+      "zoom": 69
+    }
+  ],
+  "points_count": 2,
+  "rating": 0,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/456080_100_76.webp?v=hj2il",
+    [
+      "8zu7beq",
+      "8zu9a7n"
+    ],
+    1766591824790,
+    100,
+    76
+  ],
+  "title_cn": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们",
+  "title_en": "",
+  "title_jp": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+  "type": "TV"
+}

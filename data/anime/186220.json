@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 26.345365,
+  "center_lng": 127.863413,
+  "center_zoom": 8.1,
+  "color": "#802a6a",
+  "cover_path": "/images/bangumi/186220.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/186220.jpg",
+  "icon_path": "/images/icon/186220.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/186220.jpg",
+  "id": 186220,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "51i522f78",
+      "image_path": "",
+      "image_url": "",
+      "lat": 26.217044,
+      "lng": 127.719483,
+      "location": "",
+      "name": "首里城公園",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 55825,
+      "zoom": 1
+    },
+    {
+      "ep_cut": "",
+      "id": "51i522f1p",
+      "image_path": "",
+      "image_url": "",
+      "lat": 26.694338,
+      "lng": 127.878013,
+      "location": "",
+      "name": "沖縄美ら海水族館",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 55825,
+      "zoom": 5
+    }
+  ],
+  "points_count": 2,
+  "rating": 5.9,
+  "region": "日本",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "快盗天使BREAK",
+  "title_en": "",
+  "title_jp": "ツインエンジェルBREAK",
+  "type": "TV"
+}

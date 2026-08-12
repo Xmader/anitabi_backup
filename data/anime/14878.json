@@ -1,0 +1,60 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#bf9f40",
+  "cover_path": "/images/bangumi/14878.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/14878.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 14878,
+  "points": [
+    {
+      "ep_cut": 12,
+      "id": "p4c67t1dn",
+      "image_path": "/images/user/0/bangumi/14878/points/p4c67t1dn-1729011062498.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/14878/points/p4c67t1dn-1729011062498.jpg",
+      "lat": 34.994734,
+      "lng": 135.785219,
+      "location": "",
+      "name": "Kiyomizu Temple",
+      "remark": "S4",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 4
+    },
+    {
+      "ep_cut": "S4 12",
+      "id": "p4cbozvj6",
+      "image_path": "/images/user/0/bangumi/14878/points/p4cbozvj6-1729011428439.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/14878/points/p4cbozvj6-1729011428439.jpg",
+      "lat": 35.013555,
+      "lng": 135.678287,
+      "location": "",
+      "name": "渡月橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 10
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/14878_100_76.webp?v=h5n8a",
+    [
+      "p4c67t1dn"
+    ],
+    1729011535322,
+    100,
+    76
+  ],
+  "title_cn": "小魔女DoReMi 大合奏",
+  "title_en": "",
+  "title_jp": "おジャ魔女どれみドッカ～ン!",
+  "type": "TV"
+}

@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": 276533,
+  "center_lat": 46.62155,
+  "center_lng": 142.761928,
+  "center_zoom": 14.4,
+  "color": "#80552a",
+  "cover_path": "/images/bangumi/241089.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/241089.jpg",
+  "icon_path": "/images/icon/241089.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/241089.jpg",
+  "id": 241089,
+  "points": [
+    {
+      "ep_cut": 8,
+      "id": "fov3bgsnf",
+      "image_path": "/images/user/0/bangumi/241089/points/fov3bgsnf-1702408319854.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/fov3bgsnf-1702408319854.jpg",
+      "lat": 46.621557,
+      "lng": 142.761933,
+      "location": "",
+      "name": "ст. Порт Корсаков",
+      "remark": "从港口视角看站台，当时是客货两用站（现为货站）",
+      "status_code": 1073,
+      "user_id": 283,
+      "zoom": 283
+    },
+    {
+      "ep_cut": 8,
+      "id": "for6cfgz4",
+      "image_path": "/images/user/0/bangumi/241089/points/for6cfgz4-1702400146146.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/for6cfgz4-1702400146146.jpg",
+      "lat": 46.620275,
+      "lng": 142.759733,
+      "location": "",
+      "name": "южный пирс",
+      "remark": "男主一行北上的第一站，轮渡和火车同站换乘（历史相片改画）",
+      "status_code": 1073,
+      "user_id": 283,
+      "zoom": 544
+    },
+    {
+      "ep_cut": 8,
+      "id": "fork3p1hf",
+      "image_path": "/images/user/0/bangumi/241089/points/fork3p1hf-1702400637473.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/fork3p1hf-1702400637473.jpg",
+      "lat": 46.619765,
+      "lng": 142.764606,
+      "location": "",
+      "name": "码头铁桥",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 357,
+      "zoom": 554
+    },
+    {
+      "ep_cut": 8,
+      "id": "forr4cjzg",
+      "image_path": "/images/user/0/bangumi/241089/points/forr4cjzg-1702401043886.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/forr4cjzg-1702401043886.jpg",
+      "lat": 46.623823,
+      "lng": 142.767508,
+      "location": "",
+      "name": "Корсаков,RU",
+      "remark": "向南面对亚庭湾，是该岛最大的港口，有联络船从北海道来",
+      "status_code": 1073,
+      "user_id": 554,
+      "zoom": 92699
+    }
+  ],
+  "points_count": 4,
+  "rating": 5.8,
+  "region": "海外",
+  "short_name": "天狼",
+  "theme_meta": [
+    "/images/ptheme/241089_100_76.webp?v=hcxbf",
+    [
+      "fov3bgsnf",
+      "for6cfgz4",
+      "fork3p1hf",
+      "forr4cjzg"
+    ],
+    1749391407271,
+    100,
+    76
+  ],
+  "title_cn": "天狼 Sirius the Jaeger",
+  "title_en": "",
+  "title_jp": "天狼 Sirius the Jaeger",
+  "type": "TV"
+}

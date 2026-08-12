@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/4b/2f/323735_8E2N1.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/4b/2f/323735_8E2N1.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 323735,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "fjamnri",
+      "image_path": "/images/user/0/bangumi/323735/points/fjamnri-1780828956607.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/323735/points/fjamnri-1780828956607.jpg",
+      "lat": 35.419572,
+      "lng": 136.764352,
+      "location": "",
+      "name": "橿森神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 49
+    },
+    {
+      "ep_cut": "",
+      "id": "fjbbiug",
+      "image_path": "/images/user/0/bangumi/323735/points/fjbbiug-1780829976498.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/323735/points/fjbbiug-1780829976498.jpg",
+      "lat": 35.651733,
+      "lng": 136.821294,
+      "location": "",
+      "name": "モネの池",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 6
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.9,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "风雨来记4",
+  "title_en": "",
+  "title_jp": "風雨来記4",
+  "type": "游戏"
+}

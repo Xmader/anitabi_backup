@@ -1,0 +1,102 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.691008,
+  "center_lng": 140.020752,
+  "center_zoom": 0,
+  "color": "#eadfbf",
+  "cover_path": "/images/bangumi/69214.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/69214.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 69214,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "g8ljqk1",
+      "image_path": "/images/points/69214/g8ljqk1_1782359043003.webp",
+      "image_url": "https://w.junreimap.com/images/points/69214/g8ljqk1_1782359043003.webp",
+      "lat": 35.693741,
+      "lng": 139.700953,
+      "location": "",
+      "name": "歌舞伎町一番街前",
+      "remark": "",
+      "status_code": 1073,
+      "user_id": 110999999889000,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "EP4",
+      "id": "g481g9l",
+      "image_path": "/images/user/0/bangumi/69214/points/g481g9l-1782094296444.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g481g9l-1782094296444.webp",
+      "lat": 35.689914,
+      "lng": 140.019721,
+      "location": "",
+      "name": "モリシア津田沼",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 4748
+    },
+    {
+      "ep_cut": "EP4",
+      "id": "g48db7p",
+      "image_path": "/images/user/0/bangumi/69214/points/g48db7p-1782094821738.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g48db7p-1782094821738.webp",
+      "lat": 34.710781,
+      "lng": 135.511128,
+      "location": "",
+      "name": "天神橋筋商店街",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 14
+    },
+    {
+      "ep_cut": "EP4",
+      "id": "g48m3op",
+      "image_path": "/images/user/0/bangumi/69214/points/g48m3op-1782095244864.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g48m3op-1782095244864.webp",
+      "lat": 34.710799,
+      "lng": 135.511245,
+      "location": "",
+      "name": "天神橋筋商店街",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 1317
+    },
+    {
+      "ep_cut": "EP5",
+      "id": "g4etfh3",
+      "image_path": "/images/user/0/bangumi/69214/points/g4etfh3-1782105660827.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g4etfh3-1782105660827.webp",
+      "lat": 35.69378,
+      "lng": 139.700981,
+      "location": "",
+      "name": "歌舞伎町一番街入り口",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 7
+    }
+  ],
+  "points_count": 5,
+  "rating": 6.9,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/69214_100_76.webp?v=hopaa",
+    [
+      "g8ljqk1"
+    ],
+    1782359197804,
+    100,
+    76
+  ],
+  "title_cn": "我不受欢迎，怎么想都是你们的错！",
+  "title_en": "",
+  "title_jp": "私がモテないのはどう考えてもお前らが悪い!",
+  "type": "TV"
+}

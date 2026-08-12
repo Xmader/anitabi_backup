@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.547853,
+  "center_lng": 138.947944,
+  "center_zoom": 9.7,
+  "color": "#7b6bad",
+  "cover_path": "/images/bangumi/140001.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/140001.jpg",
+  "icon_path": "/images/icon/140001.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/140001.jpg",
+  "id": 140001,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "6b5e6bbd",
+      "image_path": "/images/points/140001/6b5e6bbd_1725956935068.jpg",
+      "image_url": "https://w.junreimap.com/images/points/140001/6b5e6bbd_1725956935068.jpg",
+      "lat": 35.526898,
+      "lng": 140.273242,
+      "location": "",
+      "name": "ミニストップあすみが丘東店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 1244
+    }
+  ],
+  "points_count": 1,
+  "rating": 7.3,
+  "region": "",
+  "short_name": "从零",
+  "theme_meta": [
+    "/images/ptheme/140001_100_76.webp?v=h4jy6",
+    [
+      "6b5e6bbd"
+    ],
+    1725957016738,
+    100,
+    76
+  ],
+  "title_cn": "Re:从零开始的异世界生活",
+  "title_en": "",
+  "title_jp": "Re:ゼロから始める異世界生活",
+  "type": "TV"
+}

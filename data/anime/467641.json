@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#d15b73",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/9f/fd/467641_q40fo.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9f/fd/467641_q40fo.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 467641,
+  "points": [
+    {
+      "ep_cut": 5,
+      "id": "pp5u2ba74",
+      "image_path": "/images/points/467641/pp5u2ba74_1730642804646.jpg",
+      "image_url": "https://w.junreimap.com/images/points/467641/pp5u2ba74_1730642804646.jpg",
+      "lat": 35.706356,
+      "lng": 139.665967,
+      "location": "",
+      "name": "中野駅",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 23,
+      "zoom": 11
+    },
+    {
+      "ep_cut": 5,
+      "id": "pp5urvxk5",
+      "image_path": "/images/points/467641/pp5urvxk5_1730642840108.jpg",
+      "image_url": "https://w.junreimap.com/images/points/467641/pp5urvxk5_1730642840108.jpg",
+      "lat": 35.706261,
+      "lng": 139.665775,
+      "location": "",
+      "name": "中野駅",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 2,
+      "zoom": 2
+    },
+    {
+      "ep_cut": 5,
+      "id": "pp5v2c51g",
+      "image_path": "/images/points/467641/pp5v2c51g_1730642855201.jpg",
+      "image_url": "https://w.junreimap.com/images/points/467641/pp5v2c51g_1730642855201.jpg",
+      "lat": 35.706279,
+      "lng": 139.665775,
+      "location": "",
+      "name": "中野駅",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 2,
+      "zoom": 31
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.5,
+  "region": "东京都",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/467641_100_76.webp?v=h687r",
+    [
+      "pp5u2ba74",
+      "pp5urvxk5",
+      "pp5v2c51g"
+    ],
+    1730643310462,
+    100,
+    76
+  ],
+  "title_cn": "魔法光源股份有限公司",
+  "title_en": "",
+  "title_jp": "株式会社マジルミエ",
+  "type": "TV"
+}

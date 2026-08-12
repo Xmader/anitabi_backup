@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/9e/44/70981_yffxt.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9e/44/70981_yffxt.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 70981,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "p61fcln4s",
+      "image_path": "/images/user/0/bangumi/70981/points/p61fcln4s-1729144417498.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/70981/points/p61fcln4s-1729144417498.jpg",
+      "lat": 39.944472,
+      "lng": 140.940176,
+      "location": "",
+      "name": "松尾鉱山跡",
+      "remark": "开幕坠机场景",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 71195
+    },
+    {
+      "ep_cut": "",
+      "id": "p62twiwj6",
+      "image_path": "/images/user/0/bangumi/70981/points/p62twiwj6-1729147412091.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/70981/points/p62twiwj6-1729147412091.jpg",
+      "lat": 35.2081,
+      "lng": 136.449486,
+      "location": "",
+      "name": "白石工業桑名工場跡",
+      "remark": "封面图，白石工业桑名工厂已于2013年全部拆除。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 128
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.4,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "NOeSIS-虚伪记忆的物语-",
+  "title_en": "",
+  "title_jp": "NOeSIS-嘘を吐いた記憶の物語-",
+  "type": "游戏"
+}

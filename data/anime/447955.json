@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#2f5b79",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/15/9d/447955_pS3f8.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/15/9d/447955_pS3f8.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 447955,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "scuxeg9zd",
+      "image_path": "/images/user/0/bangumi/447955/points/scuxeg9zd-1738142117528.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/447955/points/scuxeg9zd-1738142117528.jpg",
+      "lat": 30.559064,
+      "lng": 114.335878,
+      "location": "",
+      "name": "汉街",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 5185,
+      "zoom": 3835
+    },
+    {
+      "ep_cut": "",
+      "id": "shm5dqly1",
+      "image_path": "/images/user/0/bangumi/447955/points/shm5dqly1-1738514807187.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/447955/points/shm5dqly1-1738514807187.jpg",
+      "lat": 30.554373,
+      "lng": 114.27764,
+      "location": "",
+      "name": "汉阳江滩",
+      "remark": "武汉长江大桥下",
+      "status_code": 0,
+      "user_id": 4414,
+      "zoom": 1207
+    },
+    {
+      "ep_cut": "",
+      "id": "s8hd6s6fl",
+      "image_path": "/images/user/0/bangumi/447955/points/s8hd6s6fl-1737799077053.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/447955/points/s8hd6s6fl-1737799077053.jpg",
+      "lat": 30.587852,
+      "lng": 114.299096,
+      "location": "",
+      "name": "汉口江滩",
+      "remark": "具体取景地址不确定",
+      "status_code": 0,
+      "user_id": 4414,
+      "zoom": 4371
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.2,
+  "region": "湖北省",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/447955_100_76.webp?v=hbwqv",
+    [
+      "scuxeg9zd",
+      "shm5dqly1",
+      "s8hd6s6fl"
+    ],
+    1746547663790,
+    100,
+    76
+  ],
+  "title_cn": "夏末白夜",
+  "title_en": "",
+  "title_jp": "夏末白夜",
+  "type": "游戏"
+}

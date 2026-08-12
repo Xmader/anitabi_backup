@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#ff4000",
+  "cover_path": "/images/bangumi/3110.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/3110.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 3110,
+  "points": [
+    {
+      "ep_cut": 3,
+      "id": "pvsg2id1h",
+      "image_path": "/images/user/1099/bangumi/3110/points/pvsg2id1h-1731162377276.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/3110/points/pvsg2id1h-1731162377276.jpg",
+      "lat": 34.97223,
+      "lng": 138.388051,
+      "location": "",
+      "name": "静岡駅北口",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 412,
+      "zoom": 33
+    },
+    {
+      "ep_cut": 3,
+      "id": "q699vbg3m",
+      "image_path": "/images/user/1099/bangumi/3110/points/q699vbg3m-1731982551574.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/3110/points/q699vbg3m-1731982551574.jpg",
+      "lat": 34.975943,
+      "lng": 138.388178,
+      "location": "",
+      "name": "新静岡駅",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 412,
+      "zoom": 305
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.1,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/3110_100_76.webp?v=h751o",
+    [
+      "pvsg2id1h",
+      "q699vbg3m"
+    ],
+    1733196267923,
+    100,
+    76
+  ],
+  "title_cn": "灼眼的夏娜S",
+  "title_en": "",
+  "title_jp": "灼眼のシャナS",
+  "type": "OVA"
+}

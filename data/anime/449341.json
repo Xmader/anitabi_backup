@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": 1085819,
+  "center_lat": 41.797106,
+  "center_lng": 123.414368,
+  "center_zoom": 11.3,
+  "color": "#471c0e",
+  "cover_path": "/images/bangumi/449341.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/449341.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 449341,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "o4ho00ysf",
+      "image_path": "/images/user/0/bangumi/449341/points/o4ho00ysf-1726201820780.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4ho00ysf-1726201820780.jpg",
+      "lat": 41.791545,
+      "lng": 123.38999,
+      "location": "",
+      "name": "沈阳站",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1641,
+      "zoom": 1642
+    },
+    {
+      "ep_cut": 1,
+      "id": "o4i9r7dlo",
+      "image_path": "/images/user/0/bangumi/449341/points/o4i9r7dlo-1726203195053.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4i9r7dlo-1726203195053.jpg",
+      "lat": 41.794478,
+      "lng": 123.404481,
+      "location": "",
+      "name": "中山广场",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1641,
+      "zoom": 3039
+    },
+    {
+      "ep_cut": 1,
+      "id": "o4iipityt",
+      "image_path": "/images/user/0/bangumi/449341/points/o4iipityt-1726203658080.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4iipityt-1726203658080.jpg",
+      "lat": 41.780383,
+      "lng": 123.427946,
+      "location": "",
+      "name": "辽宁广播电视塔",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 3038,
+      "zoom": 3925
+    },
+    {
+      "ep_cut": 1,
+      "id": "o4il0z2w6",
+      "image_path": "/images/user/0/bangumi/449341/points/o4il0z2w6-1726203848074.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4il0z2w6-1726203848074.jpg",
+      "lat": 41.814349,
+      "lng": 123.437757,
+      "location": "",
+      "name": "方圆大厦",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 3924,
+      "zoom": 379092
+    }
+  ],
+  "points_count": 4,
+  "rating": 5.1,
+  "region": "辽宁省",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/449341_100_76.webp?v=h4x46",
+    [
+      "o4ho00ysf",
+      "o4i9r7dlo",
+      "o4iipityt",
+      "o4il0z2w6"
+    ],
+    1726980864311,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "一人之下·锈铁重现",
+  "type": "WEB"
+}

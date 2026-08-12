@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": 4768,
+  "center_lat": 35.46884,
+  "center_lng": 139.479509,
+  "center_zoom": 15.4,
+  "color": "#f6b585",
+  "cover_path": "/images/bangumi/320052.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/320052.jpg",
+  "icon_path": "/images/icon/320052.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/320052.jpg",
+  "id": 320052,
+  "points": [
+    {
+      "ep_cut": 6,
+      "id": "mp2dfw3d9",
+      "image_path": "/images/points/320052/mp2dfw3d9_1722171941064.jpg",
+      "image_url": "https://w.junreimap.com/images/points/320052/mp2dfw3d9_1722171941064.jpg",
+      "lat": 35.470154,
+      "lng": 139.479473,
+      "location": "",
+      "name": "歩道橋",
+      "remark": "",
+      "status_code": 1037,
+      "user_id": 11,
+      "zoom": 11
+    },
+    {
+      "ep_cut": 6,
+      "id": "mp2e6cj6p",
+      "image_path": "/images/points/320052/mp2e6cj6p_1722172024570.jpg",
+      "image_url": "https://w.junreimap.com/images/points/320052/mp2e6cj6p_1722172024570.jpg",
+      "lat": 35.470104,
+      "lng": 139.479554,
+      "location": "",
+      "name": "歩道橋",
+      "remark": "",
+      "status_code": 1037,
+      "user_id": 11,
+      "zoom": 296
+    },
+    {
+      "ep_cut": 12,
+      "id": "mp2sgkdc8",
+      "image_path": "/images/points/320052/mp2sgkdc8_1722172845942.jpg",
+      "image_url": "https://w.junreimap.com/images/points/320052/mp2sgkdc8_1722172845942.jpg",
+      "lat": 35.468013,
+      "lng": 139.477913,
+      "location": "",
+      "name": "橋戸北第二公園",
+      "remark": "",
+      "status_code": 1037,
+      "user_id": 294,
+      "zoom": 12
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.4,
+  "region": "横滨市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/320052.webp?v=h37a9",
+    [
+      "mp2dfw3d9",
+      "mp2e6cj6p",
+      "mp2sgkdc8"
+    ],
+    1722172869004
+  ],
+  "title_cn": "佐佐木与宫野",
+  "title_en": "Sasaki to Miyano",
+  "title_jp": "佐々木と宮野",
+  "type": "TV"
+}

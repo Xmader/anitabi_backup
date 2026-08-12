@@ -1,0 +1,75 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#8e391c",
+  "cover_path": "/images/bangumi/2972.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/2972.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 2972,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "nwgex1nrc",
+      "image_path": "/images/points/2972/nwgex1nrc_1725582949852_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/2972/nwgex1nrc_1725582949852_c16v9.jpg",
+      "lat": 51.507135,
+      "lng": -0.124026,
+      "location": "",
+      "name": "London Charing Cross",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 7149,
+      "zoom": 454
+    },
+    {
+      "ep_cut": "",
+      "id": "nwgnoyx1e",
+      "image_path": "/images/points/2972/nwgnoyx1e_1725582959617_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/2972/nwgnoyx1e_1725582959617_c16v9.jpg",
+      "lat": 51.519576,
+      "lng": -0.060837,
+      "location": "",
+      "name": "Whitechapel",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 7149,
+      "zoom": 1829
+    },
+    {
+      "ep_cut": "",
+      "id": "r74pmkydz",
+      "image_path": "/images/user/0/bangumi/2972/points/r74pmkydz-1734872042209.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/2972/points/r74pmkydz-1734872042209.jpg",
+      "lat": 35.648166,
+      "lng": 140.034689,
+      "location": "",
+      "name": "幕張​イベント​ホール​アリーナ",
+      "remark": "参考幕张展览馆建筑外形绘制\n【茧】的发布会场",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 37
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/2972_100_76.webp?v=h4f50",
+    [
+      "nwgex1nrc",
+      "nwgnoyx1e"
+    ],
+    1725582965869,
+    100,
+    76
+  ],
+  "title_cn": "名侦探柯南 贝克街的亡灵",
+  "title_en": "Detective Conan",
+  "title_jp": "名探偵コナン ベイカー街の亡霊",
+  "type": "剧场版"
+}

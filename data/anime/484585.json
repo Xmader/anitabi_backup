@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/62/02/484585_MzMw3.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/62/02/484585_MzMw3.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 484585,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "7h0lmyg",
+      "image_path": "/images/points/484585/7h0lmyg_1763276771425.jpg",
+      "image_url": "https://w.junreimap.com/images/points/484585/7h0lmyg_1763276771425.jpg",
+      "lat": 35.763138,
+      "lng": 139.753992,
+      "location": "",
+      "name": "豊島橋",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 953,
+      "zoom": 540
+    },
+    {
+      "ep_cut": "",
+      "id": "7h0fzp4",
+      "image_path": "/images/points/484585/7h0fzp4_1763276975072.jpg",
+      "image_url": "https://w.junreimap.com/images/points/484585/7h0fzp4_1763276975072.jpg",
+      "lat": 35.709072,
+      "lng": 139.798913,
+      "location": "",
+      "name": "吾妻橋",
+      "remark": "崎泽留子尸体发现地。\nhttps://maps.app.goo.gl/GRXRs7tCMTYATrQH6",
+      "status_code": 1057,
+      "user_id": 7802,
+      "zoom": 117
+    },
+    {
+      "ep_cut": "",
+      "id": "7gr4oq8",
+      "image_path": "/images/points/484585/7gr4oq8_1763276989808.jpg",
+      "image_url": "https://w.junreimap.com/images/points/484585/7gr4oq8_1763276989808.jpg",
+      "lat": 35.75873,
+      "lng": 139.744291,
+      "location": "",
+      "name": "豊島二丁目歩道橋",
+      "remark": "崎泽文坠桥地。",
+      "status_code": 1057,
+      "user_id": 258,
+      "zoom": 258
+    },
+    {
+      "ep_cut": "",
+      "id": "7gr8rzh",
+      "image_path": "/images/points/484585/7gr8rzh_1763277021255.jpg",
+      "image_url": "https://w.junreimap.com/images/points/484585/7gr8rzh_1763277021255.jpg",
+      "lat": 35.760461,
+      "lng": 139.745839,
+      "location": "",
+      "name": "豊島中央通り商店街",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 258,
+      "zoom": 1461
+    }
+  ],
+  "points_count": 4,
+  "rating": 8,
+  "region": "北区",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/484585_100_76.webp?v=hhvvy",
+    [
+      "7h0lmyg",
+      "7h0fzp4",
+      "7gr4oq8",
+      "7gr8rzh"
+    ],
+    1763277025675,
+    100,
+    76
+  ],
+  "title_cn": "灵视异闻 FILE25 通灵少女·黑铃澪的邂逅",
+  "title_en": "",
+  "title_jp": "パラノマサイト FILE25 霊感少女・黒鈴ミヲの邂逅",
+  "type": "漫画系列"
+}

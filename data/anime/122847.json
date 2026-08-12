@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/67/62/122847_F53e1.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/67/62/122847_F53e1.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 122847,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "s7bdyv8ic",
+      "image_path": "/images/user/0/bangumi/122847/points/s7bdyv8ic-1737708454266.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/122847/points/s7bdyv8ic-1737708454266.jpg",
+      "lat": -4.341433,
+      "lng": 55.790328,
+      "location": "",
+      "name": "普拉兰岛",
+      "remark": "游戏《战舰世界》中出现的地图之一，原型位于塞舌尔共和国东北部的普拉兰岛，游戏中对岛屿及其周边的小岛进行了一定的改编。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 2051123
+    }
+  ],
+  "points_count": 1,
+  "rating": 6.5,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "战舰世界",
+  "title_en": "",
+  "title_jp": "World of Warships",
+  "type": "游戏"
+}

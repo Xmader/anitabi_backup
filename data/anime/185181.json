@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/3f/98/185181_J11NM.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/3f/98/185181_J11NM.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 185181,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "qatpk5c5m",
+      "image_path": "/images/points/185181/qatpk5c5m_1732418760606_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/185181/qatpk5c5m_1732418760606_c16v9.jpg",
+      "lat": 63.419907,
+      "lng": -18.985703,
+      "location": "",
+      "name": "",
+      "remark": "",
+      "status_code": 2128,
+      "user_id": 110999999889000,
+      "zoom": 11933
+    }
+  ],
+  "points_count": 1,
+  "rating": 8.2,
+  "region": "欧洲",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/185181_100_76.webp?v=h6v1q",
+    [
+      "qatpk5c5m"
+    ],
+    1732418802202,
+    100,
+    76
+  ],
+  "title_cn": "死亡搁浅",
+  "title_en": "DEATH STRANDING",
+  "title_jp": "DEATH STRANDING",
+  "type": "游戏"
+}

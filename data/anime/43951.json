@@ -1,0 +1,74 @@
+{
+  "abbreviation": "",
+  "bgm_id": 957,
+  "center_lat": 34.677701,
+  "center_lng": 135.203795,
+  "center_zoom": 16.2,
+  "color": "#557faa",
+  "cover_path": "/images/bangumi/43951.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/43951.jpg",
+  "icon_path": "/images/icon/43951.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/43951.jpg",
+  "id": 43951,
+  "points": [
+    {
+      "ep_cut": 6,
+      "id": "n80ilqt6s",
+      "image_path": "/images/user/1181/bangumi/109418/points/n80ilqt6s-1723656836524.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1181/bangumi/109418/points/n80ilqt6s-1723656836524.jpg",
+      "lat": 34.678642,
+      "lng": 135.203391,
+      "location": "",
+      "name": "神戶大橋",
+      "remark": "",
+      "status_code": 1181,
+      "user_id": 173,
+      "zoom": 48
+    },
+    {
+      "ep_cut": 1,
+      "id": "n80jld4wi",
+      "image_path": "/images/user/1181/bangumi/109418/points/n80jld4wi-1723656868290.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1181/bangumi/109418/points/n80jld4wi-1723656868290.jpg",
+      "lat": 34.677208,
+      "lng": 135.204005,
+      "location": "",
+      "name": "ポートアイランド北公園",
+      "remark": "",
+      "status_code": 1181,
+      "user_id": 7,
+      "zoom": 8
+    },
+    {
+      "ep_cut": 4,
+      "id": "n80k56q48",
+      "image_path": "/images/user/1181/bangumi/109418/points/n80k56q48-1723656901543.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1181/bangumi/109418/points/n80k56q48-1723656901543.jpg",
+      "lat": 34.677145,
+      "lng": 135.20399,
+      "location": "",
+      "name": "ポートアイランド北公園",
+      "remark": "",
+      "status_code": 1181,
+      "user_id": 7,
+      "zoom": 32
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.9,
+  "region": "神户市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/109418.webp?v=h3qop",
+    [
+      "n80ilqt6s",
+      "n80jld4wi",
+      "n80k56q48"
+    ],
+    1723681538036
+  ],
+  "title_cn": "魔法少女☆伊莉雅",
+  "title_en": "Fate/kaleid liner",
+  "title_jp": "Fate/kaleid liner プリズマ☆イリヤ",
+  "type": "TV"
+}

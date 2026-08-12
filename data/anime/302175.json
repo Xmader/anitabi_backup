@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/93/4c/302175_G0g65.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/93/4c/302175_G0g65.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 302175,
+  "points": [
+    {
+      "ep_cut": 11,
+      "id": "v7rwl0pah",
+      "image_path": "/images/user/0/bangumi/302175/points/v7rwl0pah-1746207156366.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/302175/points/v7rwl0pah-1746207156366.jpg",
+      "lat": 35.738015,
+      "lng": 139.675416,
+      "location": "",
+      "name": "日本大学藝術学部　江古田キャンパス",
+      "remark": "鹰之羽学园所在地，原址已经被拆了",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 909
+    },
+    {
+      "ep_cut": 18,
+      "id": "v7s28n73m",
+      "image_path": "/images/user/0/bangumi/302175/points/v7s28n73m-1746207431998.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/302175/points/v7s28n73m-1746207431998.jpg",
+      "lat": 35.739285,
+      "lng": 139.667283,
+      "location": "",
+      "name": "桜台陸橋",
+      "remark": "女番长跳桥的地方",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 3
+    }
+  ],
+  "points_count": 2,
+  "rating": 7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "飞女刑事",
+  "title_en": "",
+  "title_jp": "スケバン刑事",
+  "type": "日剧"
+}

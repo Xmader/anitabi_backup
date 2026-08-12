@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 31.659992,
+  "center_lng": 35.609247,
+  "center_zoom": 7.9,
+  "color": "#aed5f9",
+  "cover_path": "/images/bangumi/247.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/247.jpg",
+  "icon_path": "/images/icon/247.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/247.jpg",
+  "id": 247,
+  "points": [
+    {
+      "ep_cut": 17,
+      "id": "59pqzmesn",
+      "image_path": "/images/points/247/59pqzmesn_1673010117562.jpg",
+      "image_url": "https://w.junreimap.com/images/points/247/59pqzmesn_1673010117562.jpg",
+      "lat": 31.558598,
+      "lng": 35.50006,
+      "location": "",
+      "name": "البحر الميت ים המלח",
+      "remark": "",
+      "status_code": 1000,
+      "user_id": 11575411,
+      "zoom": 481148
+    },
+    {
+      "ep_cut": 10,
+      "id": "ohdc7hizg",
+      "image_path": "/images/user/0/bangumi/247/points/ohdc7hizg-1727211160457.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/247/points/ohdc7hizg-1727211160457.jpg",
+      "lat": 35.69387,
+      "lng": 139.70102,
+      "location": "",
+      "name": "歌舞伎町一番街アーチ",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 11575411,
+      "zoom": 1
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.7,
+  "region": "日本",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/247_100_76.webp?v=h50o9",
+    [
+      "59pqzmesn",
+      "ohdc7hizg"
+    ],
+    1727257547149,
+    100,
+    76
+  ],
+  "title_cn": "银魂",
+  "title_en": "",
+  "title_jp": "銀魂",
+  "type": "TV"
+}

@@ -1,0 +1,58 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 45.995803,
+  "center_lng": 63.56465,
+  "center_zoom": 13.7,
+  "color": "#1c3239",
+  "cover_path": "/images/bangumi/296261.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/296261.jpg",
+  "icon_path": "/images/icon/296261.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/296261.jpg",
+  "id": 296261,
+  "points": [
+    {
+      "ep_cut": "16",
+      "id": "6d7cyzhmt",
+      "image_path": "/images/user/0/bangumi/296261/points/6d7cyzhmt-1676104705045.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/296261/points/6d7cyzhmt-1676104705045.jpg",
+      "lat": 45.995807,
+      "lng": 63.564628,
+      "location": "",
+      "name": "Космодром Байконур",
+      "remark": "第一季的",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 798200
+    },
+    {
+      "ep_cut": "第一季第三集season 1Episode 3",
+      "id": "sb72lpvs5",
+      "image_path": "/images/user/0/bangumi/296261/points/sb72lpvs5-1738012005253.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/296261/points/sb72lpvs5-1738012005253.jpg",
+      "lat": 35.31682,
+      "lng": 139.535727,
+      "location": "",
+      "name": "鎌倉大仏殿高徳院",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 6
+    }
+  ],
+  "points_count": 2,
+  "rating": 7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/296261.webp?v=h3lpw",
+    [
+      "6d7cyzhmt"
+    ],
+    1723295325542
+  ],
+  "title_cn": "新石纪 STONE WARS",
+  "title_en": "Dr.STONE STONE WARS",
+  "title_jp": "Dr.STONE STONE WARS",
+  "type": "TV"
+}

@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 30.362329,
+  "center_lng": 130.568106,
+  "center_zoom": 0,
+  "color": "#aaaaaa",
+  "cover_path": "/images/bangumi/310.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/310.jpg",
+  "icon_path": "/images/icon/310.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/310.jpg",
+  "id": 310,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "kpx6omvzn",
+      "image_path": "",
+      "image_url": "",
+      "lat": 30.363767,
+      "lng": 130.576029,
+      "location": "",
+      "name": "苔むす森",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 0,
+      "zoom": 0
+    },
+    {
+      "ep_cut": "",
+      "id": "as4nr0r7r",
+      "image_path": "/images/user/0/bangumi/310/points/as4nr0r7r-1688558804167.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/310/points/as4nr0r7r-1688558804167.jpg",
+      "lat": 30.363767,
+      "lng": 130.576029,
+      "location": "",
+      "name": "苔むす森",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 0,
+      "zoom": 34198
+    }
+  ],
+  "points_count": 2,
+  "rating": 8.4,
+  "region": "鹿儿岛市",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "幽灵公主",
+  "title_en": "Princess Mononoke",
+  "title_jp": "もののけ姫",
+  "type": "剧场版"
+}

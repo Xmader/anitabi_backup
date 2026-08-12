@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.634612,
+  "center_lng": 139.694875,
+  "center_zoom": 8.8,
+  "color": "#8087c2",
+  "cover_path": "/images/bangumi/368116.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/368116.jpg",
+  "icon_path": "/images/icon/368116.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/368116.jpg",
+  "id": 368116,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "5g7zwd9va",
+      "image_path": "/images/user/0/bangumi/368116/points/5g7zwd9va-1673520047209.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/368116/points/5g7zwd9va-1673520047209.jpg",
+      "lat": 35.689498,
+      "lng": 139.691719,
+      "location": "",
+      "name": "東京​都庁​第一​庁舎",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "1",
+      "id": "9vxvaar",
+      "image_path": "/images/user/2195/bangumi/368116/points/9vxvaar-1768532810181.jpg",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/368116/points/9vxvaar-1768532810181.jpg",
+      "lat": 51.535142,
+      "lng": 13.949564,
+      "location": "",
+      "name": "Bagger 1473",
+      "remark": "原型也可能是现在在服役的霸格293型/霸格288型挖掘机",
+      "status_code": 2195,
+      "user_id": null,
+      "zoom": 56192
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.7,
+  "region": "东京都",
+  "short_name": "尼尔",
+  "theme_meta": 0,
+  "title_cn": "尼尔：自动人形 Ver1.1a",
+  "title_en": "",
+  "title_jp": "NieR: Automata Ver1.1a",
+  "type": "TV"
+}

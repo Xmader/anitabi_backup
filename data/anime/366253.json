@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.626915,
+  "center_lng": 139.773714,
+  "center_zoom": 14.8,
+  "color": "#63cdf1",
+  "cover_path": "/images/bangumi/366253.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/366253.jpg",
+  "icon_path": "/images/icon/366253.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/366253.jpg",
+  "id": 366253,
+  "points": [
+    {
+      "ep_cut": 5,
+      "id": "5gsywfism",
+      "image_path": "/images/user/0/bangumi/366253/points/5gsywfism-1673565718207.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/366253/points/5gsywfism-1673565718207.jpg",
+      "lat": 35.626897,
+      "lng": 139.774621,
+      "location": "",
+      "name": "FCGビル",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 327,
+      "zoom": 51
+    },
+    {
+      "ep_cut": 5,
+      "id": "5gt13comf",
+      "image_path": "/images/user/0/bangumi/366253/points/5gt13comf-1673565940179.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/366253/points/5gt13comf-1673565940179.jpg",
+      "lat": 35.62786,
+      "lng": 139.771836,
+      "location": "",
+      "name": "自由の女神像",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 327,
+      "zoom": 15
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.1,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "Estab Life Great Escape",
+  "title_en": "",
+  "title_jp": "エスタブライフ グレイトエスケープ",
+  "type": "TV"
+}

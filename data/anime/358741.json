@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 34.32188,
+  "center_lng": 109.573299,
+  "center_zoom": 4.1,
+  "color": "#b9c462",
+  "cover_path": "/images/bangumi/358741.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/358741.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 358741,
+  "points": [
+    {
+      "ep_cut": "2",
+      "id": "lu25mg6rp",
+      "image_path": "/images/user/0/bangumi/358741/points/lu25mg6rp-1719742180781.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/358741/points/lu25mg6rp-1719742180781.jpg",
+      "lat": 27.751534,
+      "lng": 98.954993,
+      "location": "云南彩云山脉",
+      "name": "云南同乐村附近的深山之地",
+      "remark": "鹿人店，由神兽四不像开在云南的一个不知名神兽小店。根据原作漫画第87话主角一行去的同乐大村能断出鹿人店就在这附近。",
+      "status_code": 0,
+      "user_id": 2363173,
+      "zoom": 634834
+    },
+    {
+      "ep_cut": "2",
+      "id": "lu37far3b",
+      "image_path": "/images/user/0/bangumi/358741/points/lu37far3b-1719744501792.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/358741/points/lu37far3b-1719744501792.jpg",
+      "lat": 39.87507,
+      "lng": 116.455781,
+      "location": "帝都",
+      "name": "潘家园旧货市场西南门",
+      "remark": "神兽四不像下凡时在凡间开的第一家鹿人店，现已移动至云南深山里。",
+      "status_code": 0,
+      "user_id": 2363173,
+      "zoom": 3565
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.5,
+  "region": "云南省",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "有兽焉",
+  "title_en": "Fabulous Beasts",
+  "title_jp": "",
+  "type": "WEB"
+}

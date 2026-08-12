@@ -1,0 +1,61 @@
+{
+  "abbreviation": "ネバエバ",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#1c8e8e",
+  "cover_path": "/images/bangumi/503983.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/503983.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 503983,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "g4o744b",
+      "image_path": "/images/points/503983/g4o744b_1782121434254.webp",
+      "image_url": "https://w.junreimap.com/images/points/503983/g4o744b_1782121434254.webp",
+      "lat": 25.948183,
+      "lng": -80.12022,
+      "location": "",
+      "name": "Porsche Design Tower",
+      "remark": "游戏中位于海特洛市新赫兰德区的一栋建筑，楼下为保时捷车行，楼上为玩家可购买的房产「天骏公阁」。原型为位于美国迈阿密的保时捷设计大厦（官方联动）。",
+      "status_code": 2198,
+      "user_id": 67,
+      "zoom": 67
+    },
+    {
+      "ep_cut": "",
+      "id": "g8o9qro",
+      "image_path": "/images/points/503983/g8o9qro_1782363376147.webp",
+      "image_url": "https://w.junreimap.com/images/points/503983/g8o9qro_1782363376147.webp",
+      "lat": 25.94798,
+      "lng": -80.120784,
+      "location": "",
+      "name": "Porsche Design Tower",
+      "remark": "入口",
+      "status_code": 2198,
+      "user_id": 67,
+      "zoom": 18445
+    }
+  ],
+  "points_count": 2,
+  "rating": 5.5,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/503983_100_76.webp?v=hopc9",
+    [
+      "g4o744b",
+      "g8o9qro"
+    ],
+    1782363435596,
+    100,
+    76
+  ],
+  "title_cn": "异环",
+  "title_en": "Neverness to Everness",
+  "title_jp": "NTE",
+  "type": "游戏"
+}

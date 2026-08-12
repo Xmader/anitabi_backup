@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 35.090955,
+  "center_lng": 139.072968,
+  "center_zoom": 15.8,
+  "color": "#bfdfea",
+  "cover_path": "/images/bangumi/89096.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/89096.jpg",
+  "icon_path": "/images/icon/89096.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/89096.jpg",
+  "id": 89096,
+  "points": [
+    {
+      "ep_cut": "热海旅行的住宿旅馆",
+      "id": "j0nfve8p9",
+      "image_path": "/images/user/0/bangumi/89096/points/j0nfve8p9-1711795548552.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/89096/points/j0nfve8p9-1711795548552.jpg",
+      "lat": 35.090956,
+      "lng": 139.072969,
+      "location": "",
+      "name": "大野屋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 664
+    },
+    {
+      "ep_cut": "",
+      "id": "r16y4i0dg",
+      "image_path": "/images/user/0/bangumi/89096/points/r16y4i0dg-1734408522942.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/89096/points/r16y4i0dg-1734408522942.jpg",
+      "lat": 36.818189,
+      "lng": 139.718925,
+      "location": "日光石，姐崎宁宁",
+      "name": "鬼怒川温泉",
+      "remark": "日光鬼怒川温泉2天1夜旅行",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 54638
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.9,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "New爱相随+",
+  "title_en": "",
+  "title_jp": "NEWラブプラス+",
+  "type": "游戏"
+}

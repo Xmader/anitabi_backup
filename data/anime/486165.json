@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#b81c28",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/71/e5/486165_CtccO.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/71/e5/486165_CtccO.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 486165,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "cwfz14m",
+      "image_path": "/images/points/486165/cwfz14m_1775093972569.jpg",
+      "image_url": "https://w.junreimap.com/images/points/486165/cwfz14m_1775093972569.jpg",
+      "lat": 34.968638,
+      "lng": 137.060175,
+      "location": "",
+      "name": "三河安城駅",
+      "remark": "位于爱知县安城市的JR东海车站，本作主角从镰仓乘坐新干线来到此处。",
+      "status_code": 1057,
+      "user_id": 29845,
+      "zoom": 13305
+    },
+    {
+      "ep_cut": "",
+      "id": "cwf3gao",
+      "image_path": "/images/points/486165/cwf3gao_1775094122887.jpg",
+      "image_url": "https://w.junreimap.com/images/points/486165/cwf3gao_1775094122887.jpg",
+      "lat": 35.171262,
+      "lng": 137.428146,
+      "location": "",
+      "name": "伊世賀美隧道",
+      "remark": "位于古饭田街道上的隧道，修建于1897年。1960年旁边的国道153号开通了新的伊势神隧道。在游戏中出现的时间点，该隧道所处地区已成为废弃地区。",
+      "status_code": 1057,
+      "user_id": 46628,
+      "zoom": 30251
+    },
+    {
+      "ep_cut": "",
+      "id": "ezgm6rm",
+      "image_path": "/images/points/486165/ezgm6rm_1779629639487.jpg",
+      "image_url": "https://w.junreimap.com/images/points/486165/ezgm6rm_1779629639487.jpg",
+      "lat": 35.170853,
+      "lng": 136.88297,
+      "location": "",
+      "name": "名古屋駅",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 29845,
+      "zoom": 48
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.6,
+  "region": "爱知县",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/486165_100_76.webp?v=hnq6m",
+    [
+      "cwfz14m",
+      "cwf3gao",
+      "ezgm6rm"
+    ],
+    1779629643936,
+    100,
+    76
+  ],
+  "title_cn": "播种之谣",
+  "title_en": "",
+  "title_jp": "たねつみの歌",
+  "type": "游戏"
+}

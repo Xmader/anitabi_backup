@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/61/f8/292712_pACzh.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/61/f8/292712_pACzh.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 292712,
+  "points": [
+    {
+      "ep_cut": "第5話",
+      "id": "hoccel7",
+      "image_path": "/images/user/0/bangumi/292712/points/hoccel7-1785487677004.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/292712/points/hoccel7-1785487677004.webp",
+      "lat": 35.672495,
+      "lng": 138.742982,
+      "location": "",
+      "name": "勝沼ぶどう郷駅前",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 19
+    },
+    {
+      "ep_cut": "第一话",
+      "id": "hocs5qy",
+      "image_path": "/images/user/0/bangumi/292712/points/hocs5qy-1785488350132.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/292712/points/hocs5qy-1785488350132.webp",
+      "lat": 35.658844,
+      "lng": 138.73152,
+      "location": "",
+      "name": "祝橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 610
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.1,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "突击莉莉 BOUQUET",
+  "title_en": "",
+  "title_jp": "アサルトリリィ BOUQUET",
+  "type": "TV"
+}

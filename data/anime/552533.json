@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#557139",
+  "cover_path": "/images/bangumi/552533.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/552533.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 552533,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "gm9f7r9",
+      "image_path": "/images/points/552533/gm9f7r9_1783184984057.webp",
+      "image_url": "https://w.junreimap.com/images/points/552533/gm9f7r9_1783184984057.webp",
+      "lat": 36.487776,
+      "lng": 59.510227,
+      "location": "花剌子模",
+      "name": "Tus",
+      "remark": "伊朗古城，《元史·太祖本纪》译为徒思。1221年在蒙古征服花剌子模的过程中被拖雷攻陷，而后基本被彻底摧毁。目前的图斯基本没有那个时代的遗迹残留。点位所在之处是萨珊波斯时代的图斯地区的城堡的遗址。",
+      "status_code": 1057,
+      "user_id": 81559,
+      "zoom": 81559
+    },
+    {
+      "ep_cut": 2,
+      "id": "gmagb74",
+      "image_path": "/images/points/552533/gmagb74_1783187002203.webp",
+      "image_url": "https://w.junreimap.com/images/points/552533/gmagb74_1783187002203.webp",
+      "lat": 36.733929,
+      "lng": 69.539293,
+      "location": "花剌子模",
+      "name": "چوک عمومی تالقان ،تالقان عمومي چوک",
+      "remark": "位于今阿富汗，《元史·太祖本纪》译为塔里寒。1220年中至1221年春，成吉思汗率兵围城七个月后攻克了塔卢坎，拖雷在攻破图斯、内沙布尔后来到此地。蒙古人随后在山麓扎营度过夏天。此点位是其中一处遗迹如今的塔卢坎中心广场。",
+      "status_code": 1057,
+      "user_id": 1113562,
+      "zoom": 1188435
+    },
+    {
+      "ep_cut": 2,
+      "id": "gma6hid",
+      "image_path": "/images/points/552533/gma6hid_1783186446835.webp",
+      "image_url": "https://w.junreimap.com/images/points/552533/gma6hid_1783186446835.webp",
+      "lat": 36.170459,
+      "lng": 58.847516,
+      "location": "花剌子模",
+      "name": "Nishapur",
+      "remark": "伊朗古城，《元史·太祖本纪》译为匿察兀儿。成吉思汗女婿脱忽察儿在攻打内沙布尔时战死，拖雷在1221年攻破此城后下令屠城，脱忽察儿遗孀亲自指挥了屠城，仅四千名工匠作为俘虏存活。内沙布尔古城遗迹位于今内沙布尔城区的东南，大都会艺术博物馆在20世纪进行了多次发掘（https://www.metmuseum.org/ja/about-the-met/collection-areas/islamic-art/nishapur-excavations），此点位是其中一处遗迹，谷歌地图上命名为「شهر کهنه」。",
+      "status_code": 1057,
+      "user_id": 81559,
+      "zoom": 1280980
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.4,
+  "region": "海外",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/552533_100_76.webp?v=hozxm",
+    [
+      "gm9f7r9",
+      "gmagb74",
+      "gma6hid"
+    ],
+    1783187186330,
+    100,
+    76
+  ],
+  "title_cn": "穹庐下的魔女",
+  "title_en": "",
+  "title_jp": "天幕のジャードゥーガル",
+  "type": "TV"
+}

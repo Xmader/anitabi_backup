@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 34.51196,
+  "center_lng": 135.629892,
+  "center_zoom": 13.9,
+  "color": "#5f6ca9",
+  "cover_path": "/images/bangumi/296870.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/296870.jpg",
+  "icon_path": "/images/icon/296870.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/296870.jpg",
+  "id": 296870,
+  "points": [
+    {
+      "ep_cut": 3,
+      "id": "7cr40vo96",
+      "image_path": "/images/user/0/bangumi/296870/points/7cr40vo96-1678890834205.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/296870/points/7cr40vo96-1678890834205.jpg",
+      "lat": 34.511821,
+      "lng": 135.631105,
+      "location": "",
+      "name": "大阪芸大",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 515,
+      "zoom": 515
+    },
+    {
+      "ep_cut": 3,
+      "id": "7cri8cjqy",
+      "image_path": "/images/user/0/bangumi/296870/points/7cri8cjqy-1678891416511.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/296870/points/7cri8cjqy-1678891416511.jpg",
+      "lat": 34.512951,
+      "lng": 135.626609,
+      "location": "",
+      "name": "東山橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 515,
+      "zoom": 14239
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.4,
+  "region": "大阪府",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "我们的重制人生",
+  "title_en": "",
+  "title_jp": "ぼくたちのリメイク",
+  "type": "TV"
+}

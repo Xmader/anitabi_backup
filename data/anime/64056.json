@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#c7852b",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/a0/5e/64056_ckg4c.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/a0/5e/64056_ckg4c.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 64056,
+  "points": [
+    {
+      "ep_cut": "32集",
+      "id": "yeorgm",
+      "image_path": "/images/user/0/bangumi/64056/points/yeorgm-1749092289067.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/64056/points/yeorgm-1749092289067.jpg",
+      "lat": 38.908647,
+      "lng": 121.629431,
+      "location": "",
+      "name": "劳动公园足球地标",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 455
+    },
+    {
+      "ep_cut": "51集",
+      "id": "yg0ew0",
+      "image_path": "/images/user/0/bangumi/64056/points/yg0ew0-1749093301368.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/64056/points/yg0ew0-1749093301368.jpg",
+      "lat": 38.905044,
+      "lng": 121.627483,
+      "location": "",
+      "name": "大连观光塔",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 1485
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.9,
+  "region": "中国",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "铠甲勇士",
+  "type": "华语剧"
+}

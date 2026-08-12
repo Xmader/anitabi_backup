@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#5eaca4",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/27/1c/443857_nY61Y.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/27/1c/443857_nY61Y.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 443857,
+  "points": [
+    {
+      "ep_cut": 10,
+      "id": "pi9u3qgcw",
+      "image_path": "/images/user/0/bangumi/443857/points/pi9u3qgcw-1730102994772.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/443857/points/pi9u3qgcw-1730102994772.jpg",
+      "lat": 30.260756,
+      "lng": 120.146923,
+      "location": "",
+      "name": "断桥",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 127724
+    },
+    {
+      "ep_cut": "",
+      "id": "pj742zugk",
+      "image_path": "/images/user/0/bangumi/443857/points/pj742zugk-1730175450832.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/443857/points/pj742zugk-1730175450832.jpg",
+      "lat": 32.217458,
+      "lng": 119.410864,
+      "location": "",
+      "name": "金山寺",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 16345
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "白蛇：浮生",
+  "type": "剧场版"
+}

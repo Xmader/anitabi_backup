@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 39.155232,
+  "center_lng": 117.808328,
+  "center_zoom": 14.4,
+  "color": "#737a43",
+  "cover_path": "/images/bangumi/191302.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/191302.jpg",
+  "icon_path": "/images/icon/191302.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/191302.jpg",
+  "id": 191302,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "kqrsk680u",
+      "image_path": "/images/user/0/bangumi/191302/points/kqrsk680u-1716663433475.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/191302/points/kqrsk680u-1716663433475.jpg",
+      "lat": 39.155235,
+      "lng": 117.808316,
+      "location": "",
+      "name": "基辅号航母",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 2449173,
+      "zoom": 69029
+    },
+    {
+      "ep_cut": "",
+      "id": "mi2wafcgt",
+      "image_path": "/images/user/1073/bangumi/191302/points/mi2wafcgt-1721624529664.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/191302/points/mi2wafcgt-1721624529664.jpg",
+      "lat": 35.894282,
+      "lng": 139.630641,
+      "location": "",
+      "name": "さいたま\nスーパー​アリーナ",
+      "remark": "无限轨道杯抽选会场",
+      "status_code": 1073,
+      "user_id": 2449173,
+      "zoom": 62
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "少女与战车 最终章 第1话",
+  "title_en": "Girls und Panzer das Finale: Part I",
+  "title_jp": "ガールズ&パンツァー 最終章 第1話",
+  "type": "OVA"
+}

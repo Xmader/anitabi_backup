@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/fe/8d/526055_wwb9z.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/fe/8d/526055_wwb9z.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 526055,
+  "points": [
+    {
+      "ep_cut": "孤独のグルメ2024大晦日SP",
+      "id": "tl7ebv2w6",
+      "image_path": "/images/points/526055/tl7ebv2w6_1741617395729.jpg",
+      "image_url": "https://w.junreimap.com/images/points/526055/tl7ebv2w6_1741617395729.jpg",
+      "lat": 35.663364,
+      "lng": 139.378239,
+      "location": "",
+      "name": "ピッコロレガーロ イタリア家庭料理",
+      "remark": "東京都日野市多摩平1-5-7 エンドレス多摩平 101\nJR豊田駅北口より徒歩10分",
+      "status_code": 1073,
+      "user_id": 176556,
+      "zoom": 672
+    },
+    {
+      "ep_cut": "孤独のグルメ2024大晦日SP",
+      "id": "tl7nwtx7j",
+      "image_path": "/images/points/526055/tl7nwtx7j_1741617858819.jpg",
+      "image_url": "https://w.junreimap.com/images/points/526055/tl7nwtx7j_1741617858819.jpg",
+      "lat": 35.505434,
+      "lng": 137.795506,
+      "location": "",
+      "name": "吉美焼肉店",
+      "remark": "長野県飯田市北方2454-2",
+      "status_code": 1073,
+      "user_id": 176556,
+      "zoom": 28389
+    },
+    {
+      "ep_cut": "孤独のグルメ2024大晦日SP",
+      "id": "s4w5cy7mq",
+      "image_path": "/images/user/0/bangumi/526055/points/s4w5cy7mq-1737518280550.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/526055/points/s4w5cy7mq-1737518280550.jpg",
+      "lat": 37.230802,
+      "lng": 136.906742,
+      "location": "",
+      "name": "ちゃんこ鍋​一品​料理​·力",
+      "remark": "石川県鳳珠郡穴水町川島イ-58",
+      "status_code": 0,
+      "user_id": 215431,
+      "zoom": 55662
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.1,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/526055_100_76.webp?v=ha5cv",
+    [
+      "tl7ebv2w6",
+      "tl7nwtx7j",
+      "s4w5cy7mq"
+    ],
+    1741618501722,
+    100,
+    76
+  ],
+  "title_cn": "孤独的美食家2024除夕特别篇 从太平洋到日本海，五郎，向北去到那些人所在的地方。",
+  "title_en": "",
+  "title_jp": "孤独のグルメ2024大晦日スペシャル 太平洋から日本海 五郎、北へ あの人たちの所まで。",
+  "type": "日剧"
+}

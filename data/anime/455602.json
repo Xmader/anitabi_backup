@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#fd7235",
+  "cover_path": "/images/bangumi/455602.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/455602.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 455602,
+  "points": [
+    {
+      "ep_cut": "1",
+      "id": "7fjdca",
+      "image_path": "/images/user/1093/bangumi/455602/points/7fjdca-1747459843157.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1093/bangumi/455602/points/7fjdca-1747459843157.jpg",
+      "lat": 32.447197,
+      "lng": 139.758712,
+      "location": "",
+      "name": "青ヶ島港（三宝港）",
+      "remark": "西码头东侧台阶",
+      "status_code": 1093,
+      "user_id": null,
+      "zoom": 1305
+    },
+    {
+      "ep_cut": "1",
+      "id": "7g8x9n",
+      "image_path": "/images/user/1093/bangumi/455602/points/7g8x9n-1747460925682.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1093/bangumi/455602/points/7g8x9n-1747460925682.jpg",
+      "lat": 32.464992,
+      "lng": 139.761371,
+      "location": "",
+      "name": "民宿 かいゆう丸",
+      "remark": "男主家的民宿「かいせい丸」的原型",
+      "status_code": 1093,
+      "user_id": null,
+      "zoom": 985
+    }
+  ],
+  "points_count": 2,
+  "rating": 0,
+  "region": "东京都",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "今日からここで暮らシマす!?",
+  "type": "漫画系列"
+}

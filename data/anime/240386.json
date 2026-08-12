@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#563e29",
+  "cover_path": "/images/bangumi/240386.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/240386.jpg",
+  "icon_path": "/images/icon/240386.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/240386.jpg",
+  "id": 240386,
+  "points": [
+    {
+      "ep_cut": 9,
+      "id": "niq80agyz",
+      "image_path": "/images/user/0/bangumi/240386/points/niq80agyz-1724496460547.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/240386/points/niq80agyz-1724496460547.jpg",
+      "lat": 51.508055,
+      "lng": -0.087605,
+      "location": "",
+      "name": "London Bridge",
+      "remark": "最早为罗马人修建的木桥。1014年，英格兰国王埃塞尔雷德二世为了将入侵的丹麦军队一分为二，下令烧毁伦敦桥。",
+      "status_code": 0,
+      "user_id": 1430310,
+      "zoom": 9
+    },
+    {
+      "ep_cut": 3,
+      "id": "pgfei6jim",
+      "image_path": "/images/user/0/bangumi/240386/points/pgfei6jim-1729958672856.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/240386/points/pgfei6jim-1729958672856.jpg",
+      "lat": 62.246382,
+      "lng": -7.210035,
+      "location": "",
+      "name": "法罗群岛峡湾",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1430310,
+      "zoom": 778380
+    },
+    {
+      "ep_cut": 1,
+      "id": "phi6xvvw8",
+      "image_path": "/images/user/0/bangumi/240386/points/phi6xvvw8-1730042928693.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/240386/points/phi6xvvw8-1730042928693.jpg",
+      "lat": 51.596181,
+      "lng": -55.533236,
+      "location": "",
+      "name": "Newfoundland and Labrador",
+      "remark": "据说是维京人发现了这里，取名“文兰”\n是如今的加拿大的纽芬兰和拉布拉多省",
+      "status_code": 0,
+      "user_id": 5492603,
+      "zoom": 1039495
+    }
+  ],
+  "points_count": 3,
+  "rating": 8.3,
+  "region": "海外",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/240386_100_76.webp?v=ha05e",
+    [
+      "niq80agyz",
+      "pgfei6jim",
+      "phi6xvvw8"
+    ],
+    1741213613234,
+    100,
+    76
+  ],
+  "title_cn": "冰海战记",
+  "title_en": "",
+  "title_jp": "ヴィンランド・サガ",
+  "type": "TV"
+}

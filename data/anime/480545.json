@@ -1,0 +1,90 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/48/c8/480545_gGwa0.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/48/c8/480545_gGwa0.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 480545,
+  "points": [
+    {
+      "ep_cut": 2,
+      "id": "upr9o71d3",
+      "image_path": "/images/user/1099/bangumi/480545/points/upr9o71d3-1744795099957.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/480545/points/upr9o71d3-1744795099957.jpg",
+      "lat": 35.639748,
+      "lng": 139.599414,
+      "location": "",
+      "name": "成城学园前",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 36,
+      "zoom": 36
+    },
+    {
+      "ep_cut": 2,
+      "id": "uprfuki3n",
+      "image_path": "/images/user/1099/bangumi/480545/points/uprfuki3n-1744795392417.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/480545/points/uprfuki3n-1744795392417.jpg",
+      "lat": 35.639995,
+      "lng": 139.599209,
+      "location": "",
+      "name": "成城学园前",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 3,
+      "zoom": 3
+    },
+    {
+      "ep_cut": "",
+      "id": "upriacbzp",
+      "image_path": "/images/points/480545/upriacbzp_1744795522781.jpg",
+      "image_url": "https://w.junreimap.com/images/points/480545/upriacbzp_1744795522781.jpg",
+      "lat": 35.640016,
+      "lng": 139.599196,
+      "location": "",
+      "name": "成城学园前",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 3,
+      "zoom": 219
+    },
+    {
+      "ep_cut": 10,
+      "id": "21p2iqf",
+      "image_path": "/images/user/0/bangumi/480545/points/21p2iqf-1751466704254.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/480545/points/21p2iqf-1751466704254.jpg",
+      "lat": 39.508702,
+      "lng": 116.416326,
+      "location": "",
+      "name": "北京大兴国际机场",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 37244
+    }
+  ],
+  "points_count": 4,
+  "rating": 6.4,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/480545_100_76.webp?v=hba7p",
+    [
+      "upr9o71d3",
+      "uprfuki3n",
+      "upriacbzp"
+    ],
+    1744795540204,
+    100,
+    76
+  ],
+  "title_cn": "紫云寺家的兄弟姐妹",
+  "title_en": "",
+  "title_jp": "紫雲寺家の子供たち",
+  "type": "TV"
+}

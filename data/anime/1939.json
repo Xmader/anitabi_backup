@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/f2/2e/1939_rs1e7.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f2/2e/1939_rs1e7.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 1939,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "nmjufozds",
+      "image_path": "/images/user/0/bangumi/1939/points/nmjufozds-1724796099050.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/1939/points/nmjufozds-1724796099050.jpg",
+      "lat": 34.654277,
+      "lng": 135.51466,
+      "location": "",
+      "name": "四天王寺高等学校",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 110999999889000,
+      "zoom": 416
+    },
+    {
+      "ep_cut": 2,
+      "id": "o6l9t91um",
+      "image_path": "/images/user/0/bangumi/1939/points/o6l9t91um-1726366480255.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/1939/points/o6l9t91um-1726366480255.jpg",
+      "lat": 35.512318,
+      "lng": 139.288045,
+      "location": "",
+      "name": "神奈川県",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 5981
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "网球王子",
+  "title_en": "",
+  "title_jp": "テニスの王子様",
+  "type": "TV"
+}

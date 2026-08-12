@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/3c/fb/3321_rrYJL.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/3c/fb/3321_rrYJL.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 3321,
+  "points": [
+    {
+      "ep_cut": "C63版",
+      "id": "8cv6p13",
+      "image_path": "/images/points/3321/8cv6p13_1765202652888.jpg",
+      "image_url": "https://w.junreimap.com/images/points/3321/8cv6p13_1765202652888.jpg",
+      "lat": 24.34525,
+      "lng": 120.623515,
+      "location": "",
+      "name": "大甲鎮瀾宮",
+      "remark": "",
+      "status_code": 2198,
+      "user_id": 118228,
+      "zoom": 118229
+    },
+    {
+      "ep_cut": "C62版",
+      "id": "5gk82xt",
+      "image_path": "/images/user/2198/bangumi/3321/points/5gk82xt-1758895722201.jpg",
+      "image_url": "https://w.junreimap.com/images/user/2198/bangumi/3321/points/5gk82xt-1758895722201.jpg",
+      "lat": 23.044298,
+      "lng": 113.738598,
+      "location": "",
+      "name": "可園 壺中天",
+      "remark": "",
+      "status_code": 2198,
+      "user_id": 1,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "C63版",
+      "id": "5el60iu",
+      "image_path": "/images/user/2198/bangumi/3321/points/5el60iu-1758777299232.jpg",
+      "image_url": "https://w.junreimap.com/images/user/2198/bangumi/3321/points/5el60iu-1758777299232.jpg",
+      "lat": 23.044308,
+      "lng": 113.738598,
+      "location": "",
+      "name": "可園 壺中天",
+      "remark": "",
+      "status_code": 2198,
+      "user_id": 1,
+      "zoom": 25839
+    },
+    {
+      "ep_cut": "C63版",
+      "id": "5i4v2f7",
+      "image_path": "/images/user/2198/bangumi/3321/points/5i4v2f7-1758991426623.jpg",
+      "image_url": "https://w.junreimap.com/images/user/2198/bangumi/3321/points/5i4v2f7-1758991426623.jpg",
+      "lat": 25.010173,
+      "lng": 121.455592,
+      "location": "",
+      "name": "林本源園邸 方鑑齋",
+      "remark": "",
+      "status_code": 2198,
+      "user_id": 118228,
+      "zoom": 5706
+    }
+  ],
+  "points_count": 4,
+  "rating": 8.6,
+  "region": "台湾省",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/3321_100_76.webp?v=hiknn",
+    [
+      "8cv6p13",
+      "5gk82xt",
+      "5el60iu",
+      "5i4v2f7"
+    ],
+    1765203069438,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "蓬莱人形　～ Dolls in Pseudo Paradise",
+  "type": "音乐"
+}

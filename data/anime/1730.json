@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#c2101c",
+  "cover_path": "/images/bangumi/1730.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/1730.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 1730,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "33nx9ts",
+      "image_path": "/images/points/1730/33nx9ts_1753762369286.jpg",
+      "image_url": "https://w.junreimap.com/images/points/1730/33nx9ts_1753762369286.jpg",
+      "lat": 39.700532,
+      "lng": 141.155246,
+      "location": "",
+      "name": "岩手​銀行​赤​レンガ​館",
+      "remark": "#01",
+      "status_code": 1073,
+      "user_id": 110999999889000,
+      "zoom": 957
+    }
+  ],
+  "points_count": 1,
+  "rating": 6,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/1730_100_76.webp?v=hehj1",
+    [
+      "33nx9ts"
+    ],
+    1753762391788,
+    100,
+    76
+  ],
+  "title_cn": "简单易懂的现代魔法",
+  "title_en": "",
+  "title_jp": "よくわかる現代魔法",
+  "type": "TV"
+}

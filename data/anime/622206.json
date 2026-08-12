@@ -1,0 +1,76 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#fdb402",
+  "cover_path": "/images/bangumi/622206.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/622206.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 622206,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "gldnavl",
+      "image_path": "/images/points/622206/gldnavl_1783131689741.webp",
+      "image_url": "https://w.junreimap.com/images/points/622206/gldnavl_1783131689741.webp",
+      "lat": 35.588309,
+      "lng": 139.37469,
+      "location": "",
+      "name": "相模原市",
+      "remark": "在美国陆军相模补给总库上方向相模原站方向拍摄。\nhttps://www.google.com/maps/@35.5884427,139.3747684,282a,35y,213.22h,76.26t/data=!3m1!1e3",
+      "status_code": 1057,
+      "user_id": 1911,
+      "zoom": 1912
+    },
+    {
+      "ep_cut": 2,
+      "id": "guf3tan",
+      "image_path": "/images/user/1093/bangumi/622206/points/guf3tan-1783678238468.webp",
+      "image_url": "https://w.junreimap.com/images/user/1093/bangumi/622206/points/guf3tan-1783678238468.webp",
+      "lat": 35.571108,
+      "lng": 139.373929,
+      "location": "",
+      "name": "相模原市役所",
+      "remark": "",
+      "status_code": 1093,
+      "user_id": 1911,
+      "zoom": 4815
+    },
+    {
+      "ep_cut": 6,
+      "id": "i4f8dzz",
+      "image_path": "/images/points/622206/i4f8dzz_1786459919241.webp",
+      "image_url": "https://w.junreimap.com/images/points/622206/i4f8dzz_1786459919241.webp",
+      "lat": 35.298753,
+      "lng": 139.477135,
+      "location": "",
+      "name": "龍恋の鐘",
+      "remark": "",
+      "status_code": 2173,
+      "user_id": 32329,
+      "zoom": 183
+    }
+  ],
+  "points_count": 3,
+  "rating": 6.9,
+  "region": "相模原市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/622206_100_76.webp?v=hq60s",
+    [
+      "gldnavl",
+      "guf3tan",
+      "i4f8dzz"
+    ],
+    1786459967456,
+    100,
+    76
+  ],
+  "title_cn": "尼古喵喵",
+  "title_en": "Yanineko",
+  "title_jp": "ヤニねこ",
+  "type": "TV"
+}

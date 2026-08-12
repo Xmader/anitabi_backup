@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 39.90183,
+  "center_lng": 116.394639,
+  "center_zoom": 11.8,
+  "color": "#75a33f",
+  "cover_path": "/images/bangumi/420628.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/420628.jpg",
+  "icon_path": "/images/icon/420628.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/420628.jpg",
+  "id": 420628,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "lenn7nemt",
+      "image_path": "/images/user/0/bangumi/420628/points/lenn7nemt-1718536033207.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/420628/points/lenn7nemt-1718536033207.jpg",
+      "lat": 39.912092,
+      "lng": 116.390994,
+      "location": "",
+      "name": "紫禁城",
+      "remark": "皇帝的住处（午门画面有魔改）",
+      "status_code": 0,
+      "user_id": 3740,
+      "zoom": 3500
+    },
+    {
+      "ep_cut": 19,
+      "id": "leo3p0pvc",
+      "image_path": "/images/user/0/bangumi/420628/points/leo3p0pvc-1718536122168.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/420628/points/leo3p0pvc-1718536122168.jpg",
+      "lat": 39.88224,
+      "lng": 116.40662,
+      "location": "",
+      "name": "苍穹檀",
+      "remark": "皇室举行祭祀仪式的场所，猫猫在此救下了壬氏",
+      "status_code": 0,
+      "user_id": 3740,
+      "zoom": 1488
+    }
+  ],
+  "points_count": 2,
+  "rating": 7.4,
+  "region": "北京市",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/420628_100_76.webp?v=hj8l3",
+    [
+      "lenn7nemt",
+      "leo3p0pvc"
+    ],
+    1767063792781,
+    100,
+    76
+  ],
+  "title_cn": "药屋少女的呢喃",
+  "title_en": "",
+  "title_jp": "薬屋のひとりごと",
+  "type": "TV"
+}

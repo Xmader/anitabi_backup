@@ -1,0 +1,75 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/59/29/130234_11gjt.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/59/29/130234_11gjt.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 130234,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "potcrrikr",
+      "image_path": "/images/points/130234/potcrrikr_1730615656636.jpg",
+      "image_url": "https://w.junreimap.com/images/points/130234/potcrrikr_1730615656636.jpg",
+      "lat": 42.288765,
+      "lng": 140.271726,
+      "location": "",
+      "name": "ドライブイン​ゆう​ら​っ​ぷ",
+      "remark": "第4話カプリスの繭Ⅳ",
+      "status_code": 1073,
+      "user_id": 16,
+      "zoom": 16
+    },
+    {
+      "ep_cut": "",
+      "id": "potdfgtji",
+      "image_path": "/images/points/130234/potdfgtji_1730615671698.jpg",
+      "image_url": "https://w.junreimap.com/images/points/130234/potdfgtji_1730615671698.jpg",
+      "lat": 42.288781,
+      "lng": 140.271866,
+      "location": "",
+      "name": "ドライブイン​ゆう​ら​っ​ぷ 内景",
+      "remark": "第4話カプリスの繭Ⅳ",
+      "status_code": 1073,
+      "user_id": 16,
+      "zoom": 39021
+    },
+    {
+      "ep_cut": "1, 2, 3 Ending 黄昏のスタアライト",
+      "id": "b0n6qgn",
+      "image_path": "/images/user/0/bangumi/130234/points/b0n6qgn-1770997069254.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/130234/points/b0n6qgn-1770997069254.jpg",
+      "lat": 50.750519,
+      "lng": 26.043376,
+      "location": "",
+      "name": "Тунель Кохання",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 272465
+    }
+  ],
+  "points_count": 3,
+  "rating": 7.3,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/130234_100_76.webp?v=h67v0",
+    [
+      "potcrrikr",
+      "potdfgtji"
+    ],
+    1730615760803,
+    100,
+    76
+  ],
+  "title_cn": "灰色的乐园",
+  "title_en": "",
+  "title_jp": "グリザイアの楽園",
+  "type": "TV"
+}

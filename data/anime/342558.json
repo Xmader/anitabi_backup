@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#e3d96f",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/98/f9/342558_r25RO.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/98/f9/342558_r25RO.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 342558,
+  "points": [
+    {
+      "ep_cut": "1",
+      "id": "567swq1",
+      "image_path": "/images/user/0/bangumi/342558/points/567swq1-1758270253115.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/342558/points/567swq1-1758270253115.jpg",
+      "lat": 34.816627,
+      "lng": 114.364869,
+      "location": "",
+      "name": "开宝寺琉璃塔",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 2135
+    },
+    {
+      "ep_cut": "1",
+      "id": "5684rru",
+      "image_path": "/images/user/0/bangumi/342558/points/5684rru-1758270752383.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/342558/points/5684rru-1758270752383.jpg",
+      "lat": 34.77062,
+      "lng": 114.358792,
+      "location": "",
+      "name": "繁塔",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 4601
+    }
+  ],
+  "points_count": 2,
+  "rating": 0,
+  "region": "河南省",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "天上恋歌~金之公主与火之药师~",
+  "title_en": "",
+  "title_jp": "天上恋歌～金の皇女と火の薬師～",
+  "type": "漫画系列"
+}

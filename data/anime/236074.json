@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#ecacc4",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/99/92/236074_shlLQ.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/99/92/236074_shlLQ.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 236074,
+  "points": [
+    {
+      "ep_cut": 40,
+      "id": "1phho2a",
+      "image_path": "/images/points/236074/1phho2a_1750728175555.jpg",
+      "image_url": "https://w.junreimap.com/images/points/236074/1phho2a_1750728175555.jpg",
+      "lat": 35.69239,
+      "lng": 139.701275,
+      "location": "",
+      "name": "新宿アルタ",
+      "remark": "已于2025年2月停业拆除。",
+      "status_code": 1057,
+      "user_id": 110999999889000,
+      "zoom": 16
+    }
+  ],
+  "points_count": 1,
+  "rating": 6.2,
+  "region": "东京都",
+  "short_name": "美妙频道",
+  "theme_meta": [
+    "/images/ptheme/236074_100_76.webp?v=hdeib",
+    [
+      "1phho2a"
+    ],
+    1750728221893,
+    100,
+    76
+  ],
+  "title_cn": "闪亮美妙☆频道",
+  "title_en": "",
+  "title_jp": "キラッとプリ☆チャン",
+  "type": "TV"
+}

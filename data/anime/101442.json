@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/8b/6b/101442_EM1Vg.jpg",
+  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/8b/6b/101442_EM1Vg.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 101442,
+  "points": [
+    {
+      "ep_cut": "1",
+      "id": "46hz0nf",
+      "image_path": "/images/user/0/bangumi/78405/points/46hz0nf-1756110566661.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/78405/points/46hz0nf-1756110566661.jpg",
+      "lat": 37.341025,
+      "lng": 139.089519,
+      "location": "",
+      "name": "JR只見線 柿ノ木駅跡",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 17303
+    },
+    {
+      "ep_cut": 7,
+      "id": "bq8iaqt",
+      "image_path": "/images/user/0/bangumi/101442/points/bq8iaqt-1772541380457.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/101442/points/bq8iaqt-1772541380457.jpg",
+      "lat": 35.963887,
+      "lng": 139.058929,
+      "location": "",
+      "name": "武甲山の湧水",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 32
+    }
+  ],
+  "points_count": 2,
+  "rating": 8,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "悠哉日常大王 Repeat",
+  "title_en": "",
+  "title_jp": "のんのんびより  りぴーと",
+  "type": "TV"
+}
