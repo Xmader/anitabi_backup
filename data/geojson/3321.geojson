@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.623515,
+          24.34525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3321,
+        "bangumi_title": "蓬莱人形　～ Dolls in Pseudo Paradise",
+        "ep_cut": "C63版",
+        "image_url": "https://w.junreimap.com/images/points/3321/8cv6p13_1765202652888.jpg",
+        "location": "",
+        "point_id": "8cv6p13",
+        "point_name": "大甲鎮瀾宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.738598,
+          23.044298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3321,
+        "bangumi_title": "蓬莱人形　～ Dolls in Pseudo Paradise",
+        "ep_cut": "C62版",
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/3321/points/5gk82xt-1758895722201.jpg",
+        "location": "",
+        "point_id": "5gk82xt",
+        "point_name": "可園 壺中天",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.738598,
+          23.044308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3321,
+        "bangumi_title": "蓬莱人形　～ Dolls in Pseudo Paradise",
+        "ep_cut": "C63版",
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/3321/points/5el60iu-1758777299232.jpg",
+        "location": "",
+        "point_id": "5el60iu",
+        "point_name": "可園 壺中天",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.455592,
+          25.010173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3321,
+        "bangumi_title": "蓬莱人形　～ Dolls in Pseudo Paradise",
+        "ep_cut": "C63版",
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/3321/points/5i4v2f7-1758991426623.jpg",
+        "location": "",
+        "point_id": "5i4v2f7",
+        "point_name": "林本源園邸 方鑑齋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

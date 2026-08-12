@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.330776,
+          36.405147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407975,
+        "bangumi_title": "重启人生",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/407975/points/liv3lnhpe-1718864899541.jpg",
+        "location": "",
+        "point_id": "liv3lnhpe",
+        "point_name": "北熊谷市役所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.226141,
+          35.365492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407975,
+        "bangumi_title": "重启人生",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/407975/points/ljvaxslu8-1718943688825.jpg",
+        "location": "",
+        "point_id": "ljvaxslu8",
+        "point_name": "秦野市の一軒家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.228565,
+          35.366746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407975,
+        "bangumi_title": "重启人生",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/407975/points/ljvyi8rv5-1718945056647.jpg",
+        "location": "",
+        "point_id": "ljvyi8rv5",
+        "point_name": "鶴巻橋",
+        "remark": "麻美和她的朋友们从小就经常经过的桥梁。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.228917,
+          35.366811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407975,
+        "bangumi_title": "重启人生",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/407975/points/ljvwdz9js-1718944921063.jpg",
+        "location": "",
+        "point_id": "ljvwdz9js",
+        "point_name": "隧道",
+        "remark": "麻美和她的朋友们从小就经常经过的隧道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579644,
+          35.790256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407975,
+        "bangumi_title": "重启人生",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/407975/points/ljvi37vkr-1718944181342.jpg",
+        "location": "",
+        "point_id": "ljvi37vkr",
+        "point_name": "ラウンドワンスタジアム朝霞店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

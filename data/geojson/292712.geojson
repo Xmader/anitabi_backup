@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.742982,
+          35.672495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292712,
+        "bangumi_title": "突击莉莉 BOUQUET",
+        "ep_cut": "第5話",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292712/points/hoccel7-1785487677004.webp",
+        "location": "",
+        "point_id": "hoccel7",
+        "point_name": "勝沼ぶどう郷駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.73152,
+          35.658844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292712,
+        "bangumi_title": "突击莉莉 BOUQUET",
+        "ep_cut": "第一话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292712/points/hocs5qy-1785488350132.webp",
+        "location": "",
+        "point_id": "hocs5qy",
+        "point_name": "祝橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

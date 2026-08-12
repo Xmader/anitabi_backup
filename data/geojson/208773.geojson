@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.263001,
+          22.337524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208773,
+        "bangumi_title": "机甲大师",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208773/points/1z1s6r0-1751306485590.jpg",
+        "location": "",
+        "point_id": "1z1s6r0",
+        "point_name": "香港科技大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

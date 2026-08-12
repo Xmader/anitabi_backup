@@ -1,0 +1,1665 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.998326,
+          43.207272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小樽市",
+        "point_id": "5qpzrink",
+        "point_name": "旧日本郵船小樽支店",
+        "remark": "1-3,4-34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.999874,
+          43.201706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小樽市",
+        "point_id": "5qpzrinb",
+        "point_name": "旧大家倉庫",
+        "remark": "10-104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.000627,
+          43.20047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrja4-1725151541194.jpg",
+        "location": "小樽市",
+        "point_id": "5qpzrja4",
+        "point_name": "旧小樽倉庫",
+        "remark": "4-30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.002533,
+          43.19651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrins-1725151657955.jpg",
+        "location": "小樽市",
+        "point_id": "5qpzrins",
+        "point_name": "大正硝子館(旧名取高三郎商店)",
+        "remark": "2-16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.002837,
+          43.196342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/221127/points/5qpzriz5-1773936099715.jpg",
+        "location": "小樽市",
+        "point_id": "5qpzriz5",
+        "point_name": "小樽浪漫館(旧百十三銀行小樽支店)",
+        "remark": "4-34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.999351,
+          43.193657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小樽市",
+        "point_id": "5qpzrj7g",
+        "point_name": "新倉屋花園本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.004613,
+          43.188166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小樽市",
+        "point_id": "5qpzrj12",
+        "point_name": "石ヶ守商店",
+        "remark": "2-15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.007867,
+          43.231732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小樽市",
+        "point_id": "5qpzritd",
+        "point_name": "旧青山別邸",
+        "remark": "5-40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.015648,
+          43.237797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzriw2-1768054154892.jpg",
+        "location": "小樽市",
+        "point_id": "5qpzriw2",
+        "point_name": "鰊御殿",
+        "remark": "5-40,42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.013301,
+          43.234419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小樽市",
+        "point_id": "5qpzrj68",
+        "point_name": "茨木家中出張番屋",
+        "remark": "5-43,6-55,57,59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498542,
+          43.048157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrj81",
+        "point_name": "旧手宮駅長官舎",
+        "remark": "6-55,57,58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498665,
+          43.048008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrivz",
+        "point_name": "旧開拓使爾志通洋造家",
+        "remark": "7-63-64,69,8-70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498743,
+          43.047822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrj3s",
+        "point_name": "旧福士家住宅",
+        "remark": "5-48,8-70,11-104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499022,
+          43.047669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/221127/points/5qpzriub-1769398836158.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzriub",
+        "point_name": "旧松橋家住宅",
+        "remark": "2-16,8-75,76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499269,
+          43.047493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrj2z",
+        "point_name": "旧有島家住宅",
+        "remark": "2-17,3-20,21,4-33,37,5-48,10-94,10-97,11-103,11-104,11-105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498349,
+          43.047953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "EP1 11",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrito-1733400685141.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrito",
+        "point_name": "旧浦河支庁庁舎",
+        "remark": "6-50-54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498518,
+          43.047663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrizj",
+        "point_name": "旧小樽新聞社",
+        "remark": "13-124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499301,
+          43.046903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzripw",
+        "point_name": "旧島歌郵便局",
+        "remark": "11-102,12-118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499466,
+          43.046802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrjco-1768053411473.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjco",
+        "point_name": "旧山本理髪店",
+        "remark": "6-55-59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.497874,
+          43.047752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjzt",
+        "point_name": "旧来正旅館",
+        "remark": "3-おまけ,4-33,34,9-90,12-119,120,13-123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498182,
+          43.047536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/221127/points/5qpzrjge-1769398560629.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjge",
+        "point_name": "旧三ます河本そば屋",
+        "remark": "2-12,15-17 ます(〼)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498343,
+          43.047333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/221127/points/5qpzrjl7-1769398792776.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjl7",
+        "point_name": "旧武井商店酒造部",
+        "remark": "2-16,17,3-18,19,6-55,8-75,76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.49859,
+          43.047103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/221127/points/5qpzrjhg-1769398970297.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjhg",
+        "point_name": "旧近藤医院",
+        "remark": "6-55,14-138,15-148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498579,
+          43.046679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrjrq-1768053623105.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjrq",
+        "point_name": "旧広瀬写真館",
+        "remark": "13-124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.500688,
+          43.047089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/221127/points/5qpzrjk0-1769398940172.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjk0",
+        "point_name": "旧青山家漁家住宅",
+        "remark": "4-37,6-57,59,10-103(花沢中将住宅内部)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.500878,
+          43.047272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrk4n",
+        "point_name": "旧青山家漁家廊下",
+        "remark": "5-,6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.501288,
+          43.046621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrk05",
+        "point_name": "旧秋山家漁家住宅",
+        "remark": "3-21,11-103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499489,
+          43.045017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjum",
+        "point_name": "旧山本消防組番屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499285,
+          43.044755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjst",
+        "point_name": "旧ソーケシュオマベツ駅逓所",
+        "remark": "7-61-62,12-117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.498982,
+          43.044394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/221127/points/5qpzrjz4-1769398901651.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjz4",
+        "point_name": "旧納内屯田兵屋",
+        "remark": "2-17,8-75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.497678,
+          43.044609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjdu",
+        "point_name": "旧小川家酪農畜舎",
+        "remark": "7-63,64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.496764,
+          43.044645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjmr",
+        "point_name": "旧菊田家農家住宅",
+        "remark": "7-64-69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.49734,
+          43.046652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjps",
+        "point_name": "旧札幌農学校寄宿舎",
+        "remark": "10-97,10-98,11-103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.343124,
+          43.063554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "札幌市",
+        "point_id": "5qpzrjuh",
+        "point_name": "北海道大学植物園博物館本館",
+        "remark": "8-71-72,77,78,80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.368873,
+          43.071474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrjjs-1725151714341.jpg",
+        "location": "札幌市",
+        "point_id": "5qpzrjjs",
+        "point_name": "サッポロビール博物館",
+        "remark": "6-52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.366749,
+          42.56171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "白老町",
+        "point_id": "5qpzrk0u",
+        "point_name": "アイヌ民族博物館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.655214,
+          44.136402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjrg",
+        "point_name": "旧花田家番屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.970042,
+          42.91106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrk3k",
+        "point_name": "千鳥ヶ滝",
+        "remark": "8-70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.989187,
+          43.068387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjpu",
+        "point_name": "夕張市石炭博物館",
+        "remark": "スタンプラリー"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.492708,
+          43.067781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjkj",
+        "point_name": "旧川村家番屋",
+        "remark": "5-39,40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.668972,
+          43.339102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjk6",
+        "point_name": "月形樺戸博物館",
+        "remark": "24房 1-6,9-86,10-95,13-130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.787074,
+          43.626556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjzm",
+        "point_name": "羽衣の滝",
+        "remark": "10-100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.978819,
+          43.718238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjkk",
+        "point_name": "層雲峡(正確な場所は調査中)",
+        "remark": "10-100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.589215,
+          43.27824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "第三季第八集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrjeg-1733113716896.jpg",
+        "location": "道央その他",
+        "point_id": "5qpzrjeg",
+        "point_name": "車石",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.590391,
+          43.288751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "道央その他",
+        "point_id": "5qpzrjuv",
+        "point_name": "根室市歴史と自然の資料館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228018,
+          43.996468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrkez",
+        "point_name": "鏡橋",
+        "remark": "登場する鏡橋とは別。12-118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228898,
+          43.99594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/221127/points/5qpzrkec-1717511851751.jpg",
+        "location": "網走市",
+        "point_id": "5qpzrkec",
+        "point_name": "網走監獄煉瓦門",
+        "remark": "1-1,2-13,4-38,5-48,12-118,13-126,14-136-139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.229326,
+          43.995701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrk8h",
+        "point_name": "庁舎",
+        "remark": "12-117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.229522,
+          43.99631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "EP2 10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrk95-1733314791529.jpg",
+        "location": "網走市",
+        "point_id": "5qpzrk95",
+        "point_name": "職員官舎",
+        "remark": "門倉の官舎 13-128,129,14-131,132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228506,
+          43.995628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "EP2 11",
+        "image_url": "https://w.junreimap.com/images/points/221127/qng5x9slp_1733329693593.jpg",
+        "location": "網走市",
+        "point_id": "qng5x9slp",
+        "point_name": "教誨堂前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228367,
+          43.995603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "EP2 11",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrkr3-1733315925363.jpg",
+        "location": "網走市",
+        "point_id": "5qpzrkr3",
+        "point_name": "教誨堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.231652,
+          43.995916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrkhg",
+        "point_name": "高見張",
+        "remark": "129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228847,
+          43.997294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrkl5",
+        "point_name": "高見張",
+        "remark": "129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228876,
+          43.995295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrkkd",
+        "point_name": "浴場",
+        "remark": "129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.228772,
+          43.995439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrknz",
+        "point_name": "独居房",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.229932,
+          43.995284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "第二季 第十集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221127/points/5qpzrkkm-1733314176758.jpg",
+        "location": "網走市",
+        "point_id": "5qpzrkkm",
+        "point_name": "五翼放射状平屋舎房",
+        "remark": "1-1,3-21,4-38,5-48,6-49,51,13-129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.234229,
+          44.014502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrk8g",
+        "point_name": "鏡橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.233371,
+          44.015968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "網走市",
+        "point_id": "5qpzrkui",
+        "point_name": "正門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.364319,
+          43.805564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "旭川市",
+        "point_id": "5qpzrkkq",
+        "point_name": "旧旭川偕行社",
+        "remark": "6-50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.364885,
+          43.788391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "旭川市",
+        "point_id": "5qpzrk65",
+        "point_name": "北鎮記念館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.306868,
+          43.792676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "旭川市",
+        "point_id": "5qpzrkpj",
+        "point_name": "アイヌ文化の森",
+        "remark": "6-49,10-95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.308302,
+          43.793111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "旭川市",
+        "point_id": "5qpzrk9e",
+        "point_name": "アイヌ文化の森 駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.20091,
+          43.732178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "旭川市",
+        "point_id": "5qpzrkib",
+        "point_name": "神居古潭",
+        "remark": "10-93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.350664,
+          43.759445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "旭川市",
+        "point_id": "5qpzrk9z",
+        "point_name": "旭川市博物館",
+        "remark": "スタンプラリー"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.382236,
+          42.980178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrklj",
+        "point_name": "旧釧路新聞社",
+        "remark": "12-118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.403339,
+          42.974579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrkh8",
+        "point_name": "釧路市立博物館",
+        "remark": "スタンプラリー"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.429218,
+          43.138532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrk97",
+        "point_name": "キラコタン岬",
+        "remark": "12-111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.497705,
+          43.1653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrkbq",
+        "point_name": "サルボ展望台(塘路湖)",
+        "remark": "12-118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.089131,
+          43.433706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrk91",
+        "point_name": "阿寒湖アイヌコタン",
+        "remark": "スタンプラリー"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.10265,
+          43.437943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrkdi",
+        "point_name": "ボッケ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.442786,
+          43.61832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrk85",
+        "point_name": "硫黄山",
+        "remark": "12-119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.248539,
+          43.645643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "釧路地方",
+        "point_id": "5qpzrlld",
+        "point_name": "美幌峠展望台(屈斜路湖)",
+        "remark": "12-119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515241,
+          35.716683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小金井市",
+        "point_id": "5qpzrlau",
+        "point_name": "仕立屋",
+        "remark": "6-57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514906,
+          35.716463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "小金井市",
+        "point_id": "5qpzrkxa",
+        "point_name": "小寺醤油店",
+        "remark": "4-36,6-58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988633,
+          35.346652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrkzl",
+        "point_name": "宮津裁判所法廷",
+        "remark": "9-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988783,
+          35.346411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrl2h",
+        "point_name": "金沢監獄監房",
+        "remark": "9-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.98896,
+          35.346231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrl4v",
+        "point_name": "前橋監獄雑居房",
+        "remark": "9-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.989357,
+          35.345965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrlk2",
+        "point_name": "金沢監獄正門",
+        "remark": "9-85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.991366,
+          35.343319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrl93",
+        "point_name": "名古屋衛戍病院",
+        "remark": "14-132,134-138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.991053,
+          35.343031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrljv",
+        "point_name": "日本赤十字社中央病院病棟",
+        "remark": "10-94,14-139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.989825,
+          35.341694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrkx5",
+        "point_name": "東松家住宅",
+        "remark": "11-104,11-105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.992935,
+          35.340877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "犬山市",
+        "point_id": "5qpzrl3m",
+        "point_name": "幸田露伴住宅「蝸牛庵」",
+        "remark": "11-103(花沢中将住宅外観)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.834459,
+          34.698497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221127,
+        "bangumi_title": "黄金神威",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "奈良県",
+        "point_id": "5qpzrlb0",
+        "point_name": "奈良少年刑務所正門",
+        "remark": "9-85"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

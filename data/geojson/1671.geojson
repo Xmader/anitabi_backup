@@ -1,0 +1,885 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.61584,
+          35.724414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oi1er",
+        "point_name": "井荻 線路向こうの建物が見える駐車場",
+        "remark": "化 #02「ひたぎクラブ 其ノ貮」OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614505,
+          35.724849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oi1cp",
+        "point_name": "井荻駅 北口",
+        "remark": "化 #02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693796,
+          35.693247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oi7w3",
+        "point_name": "新宿アイランド東棟",
+        "remark": "化 #14「つばさキャット 其ノ肆」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614403,
+          35.724407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/kpx6oi1t8-1759998573367.jpg",
+        "location": "",
+        "point_id": "kpx6oi1t8",
+        "point_name": "環八高架下",
+        "remark": "化 #02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614263,
+          35.723388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/kpx6oi4ho-1760334009228.jpg",
+        "location": "",
+        "point_id": "kpx6oi4ho",
+        "point_name": "下井草五丁目交差点",
+        "remark": "化 #02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.609958,
+          35.724917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/kpx6oi5ff-1760336952197.jpg",
+        "location": "",
+        "point_id": "kpx6oi5ff",
+        "point_name": "井荻 踏み切り",
+        "remark": "化 #06「するがモンキー 其ノ壹」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.679039,
+          35.620793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi226_1730468979524.jpg",
+        "location": "柿の木坂",
+        "point_id": "kpx6oi226",
+        "point_name": "柿ノ木坂線 NO.1鉄塔",
+        "remark": "化 #02 OP，化 #06「するがモンキー 其ノ壹」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.679194,
+          35.620732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi4vp_1730469496389.jpg",
+        "location": "柿の木坂",
+        "point_id": "kpx6oi4vp",
+        "point_name": "東急柿の木変電所",
+        "remark": "化 #06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.678615,
+          35.6202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi5fn_1730469171293.jpg",
+        "location": "柿の木坂",
+        "point_id": "kpx6oi5fn",
+        "point_name": "東急東横線 跨線橋",
+        "remark": "化 #06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.559004,
+          35.702466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi5qr_1730469464477.jpg",
+        "location": "",
+        "point_id": "kpx6oi5qr",
+        "point_name": "三鷹通り JR中央本線下トンネル",
+        "remark": "化 #06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630182,
+          35.894219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi5l1_1730469640791.jpg",
+        "location": "",
+        "point_id": "kpx6oi5l1",
+        "point_name": "さいたまスーパーアリーナ Aゲート",
+        "remark": "化 #14「つばさキャット 其ノ肆」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118674,
+          35.612755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oi6jt",
+        "point_name": "千葉モノレール 栄町駅",
+        "remark": "化 #14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.122375,
+          35.603309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/kpx6oi64q-1752678885506.jpg",
+        "location": "",
+        "point_id": "kpx6oi64q",
+        "point_name": "千葉モノレール 県庁前駅",
+        "remark": "化 #14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.486813,
+          34.680928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oi66d",
+        "point_name": "阿波座ジャンクション",
+        "remark": "化 #14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76057,
+          35.664943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi6ko_1730469906380.jpg",
+        "location": "汐留",
+        "point_id": "kpx6oi6ko",
+        "point_name": "ゆりかもめ新橋駅 高架デッキ",
+        "remark": "化 #14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761425,
+          35.664475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi7d3_1730469980108.jpg",
+        "location": "汐留",
+        "point_id": "kpx6oi7d3",
+        "point_name": "汐留 地下通路",
+        "remark": "化 #14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76043,
+          35.662858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi6sg_1730470135685.jpg",
+        "location": "汐留",
+        "point_id": "kpx6oi6sg",
+        "point_name": "吹き抜けエスカレーター",
+        "remark": "这里动画经过镜像处理"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761439,
+          35.664126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e6yqnu_1752222143610.jpg",
+        "location": "",
+        "point_id": "2e6yqnu",
+        "point_name": "電通本社ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760921,
+          35.662448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi7i3_1730470044261.jpg",
+        "location": "汐留",
+        "point_id": "kpx6oi7i3",
+        "point_name": "Pedi汐留の横階段",
+        "remark": "化 #14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7609,
+          35.662421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e71pkt_1752222281022.jpg",
+        "location": "",
+        "point_id": "2e71pkt",
+        "point_name": "Pedi汐留の横階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760983,
+          35.662485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e71xk3_1752222291171.jpg",
+        "location": "",
+        "point_id": "2e71xk3",
+        "point_name": "Pedi汐留の横階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784519,
+          35.62879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi89r_1730468146022.jpg",
+        "location": "お台場周辺",
+        "point_id": "kpx6oi89r",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": "化 #14，#15「つばさキャット 其ノ伍」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784544,
+          35.628802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e749m7_1752222408121.jpg",
+        "location": "",
+        "point_id": "2e749m7",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784619,
+          35.628804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e74ngp_1752222419132.jpg",
+        "location": "",
+        "point_id": "2e74ngp",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78464,
+          35.628853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e74rel_1752222423275.jpg",
+        "location": "",
+        "point_id": "2e74rel",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784668,
+          35.62881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e74uay_1752222427847.jpg",
+        "location": "",
+        "point_id": "2e74uay",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784686,
+          35.62883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e74xpo_1752222431270.jpg",
+        "location": "",
+        "point_id": "2e74xpo",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784609,
+          35.628775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e750h1_1752222435747.jpg",
+        "location": "",
+        "point_id": "2e750h1",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784576,
+          35.628748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e753zh_1752222440246.jpg",
+        "location": "",
+        "point_id": "2e753zh",
+        "point_name": "お台場 プロムナード公園 夢の大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786633,
+          35.629073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi7kp_1730468499446.jpg",
+        "location": "お台場周辺",
+        "point_id": "kpx6oi7kp",
+        "point_name": "ホテルトラスティ東京ベイサイド",
+        "remark": "化 #15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782121,
+          35.626378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi8gp_1730468168292.jpg",
+        "location": "お台場周辺",
+        "point_id": "kpx6oi8gp",
+        "point_name": "パレットタウン大観覧車",
+        "remark": "化 #15 2022年8月31日営業終了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795403,
+          35.639803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi8m3_1730468252708.jpg",
+        "location": "お台場周辺",
+        "point_id": "kpx6oi8m3",
+        "point_name": "東雲ジャンクション",
+        "remark": "化 #15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757123,
+          35.638607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi8z2_1752222781671.jpg",
+        "location": "お台場周辺",
+        "point_id": "kpx6oi8z2",
+        "point_name": "芝浦ふ頭 宇部三菱セメント前",
+        "remark": "化 #15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783902,
+          35.551589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/kpx6oi8zf_1730468217684.jpg",
+        "location": "お台場周辺",
+        "point_id": "kpx6oi8zf",
+        "point_name": "羽田空港 新管制塔",
+        "remark": "化 #15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.493945,
+          25.035602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/n9sz1cqwf_1723797125102.jpg",
+        "location": "",
+        "point_id": "n9sz1cqwf",
+        "point_name": "传统槟榔店隔壁楼梯",
+        "remark": "15話約16分\n\n八九寺 真宵在尋找忍野 忍的一幕場景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757661,
+          35.659864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1671/2e6ngtt_1752221685854_cblack.jpg",
+        "location": "",
+        "point_id": "2e6ngtt",
+        "point_name": "東京​ツインパークスレフトウイング",
+        "remark": "这个角度拍比较准确,动画进行了水平镜像处理\n来源于https://dotproducer.nobu-naga.net/bakemono/bakemono1/bakemono1.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630314,
+          35.894538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/5yuovka-1760001838542.jpg",
+        "location": "",
+        "point_id": "5yuovka",
+        "point_name": "埼玉超级竞技场A大门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.61448,
+          35.724769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/63yn0xp-1760310693411.jpg",
+        "location": "",
+        "point_id": "63yn0xp",
+        "point_name": "井荻駅 北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614427,
+          35.724772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/63zbodo-1760311837952.jpg",
+        "location": "",
+        "point_id": "63zbodo",
+        "point_name": "井荻駅 北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.612443,
+          35.724787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/64ek92f-1760337395258.jpg",
+        "location": "",
+        "point_id": "64ek92f",
+        "point_name": "井荻駅西武新宿線　踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614321,
+          35.723563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/64e0q4u-1760336493766.jpg",
+        "location": "",
+        "point_id": "64e0q4u",
+        "point_name": "環八通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776613,
+          35.661845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/64ctj95-1760334484313.jpg",
+        "location": "",
+        "point_id": "64ctj95",
+        "point_name": "勝鬨橋より東側ヲ撮影 ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.558949,
+          35.702499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/64dds6s-1760335770969.jpg",
+        "location": "",
+        "point_id": "64dds6s",
+        "point_name": "三鷹通り トンネル歩道",
+        "remark": "化物语之前的快速前情提要"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.536168,
+          34.733603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1671,
+        "bangumi_title": "化物语",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1671/points/6545k1x-1760380364109.jpg",
+        "location": "",
+        "point_id": "6545k1x",
+        "point_name": "菅原城北大橋",
+        "remark": "历哥载着班长"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

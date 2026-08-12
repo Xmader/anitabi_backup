@@ -1,0 +1,745 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.841929,
+          36.565655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297/points/a86t1rpp-1734399780529.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1rpp",
+        "point_name": "海ノ口駅",
+        "remark": "「おねがい☆ティーチャー」第8話で縁川 小石が草薙 桂による告白したシーンで登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.842616,
+          36.554301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1roc_1740556398623.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1roc",
+        "point_name": "稲尾駅",
+        "remark": "「おねがい☆ツインズ」第2話では、突然雨に降られた深衣奈と樺恋が雨宿りした駅として登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.845953,
+          36.535752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297/points/a86t1rut-1734399603248.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1rut",
+        "point_name": "信濃木崎駅",
+        "remark": "「おねがい☆ツインズ」第1話で樺恋が駅の待合室で寝ていた場所です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.841602,
+          36.548255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297/points/a86t1s2t-1734399866221.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1s2t",
+        "point_name": "ツインズOPの坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.837383,
+          36.548014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1rrm_1740556689046.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1rrm",
+        "point_name": "みずほ桟橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.837957,
+          36.54797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297/points/a86t1s2f-1734399844174.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1s2f",
+        "point_name": "苺桟橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.841462,
+          36.543945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297/points/a86t1s5n-1734399888809.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1s5n",
+        "point_name": "公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.822564,
+          36.571441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s8k_1740556605927.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1s8k",
+        "point_name": "小熊山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.841387,
+          36.542506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1sax_1740555927631.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1sax",
+        "point_name": "ゆーぷる木崎湖",
+        "remark": "ツインズ第12話で樺恋が深衣奈を誘って訪れていました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.842101,
+          36.54
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1rqa_1740556790047.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1rqa",
+        "point_name": "ローソン 大町木崎湖店",
+        "remark": "ツインズ第1話で宮藤 深衣奈が田んぼで汚れた足をコンビニの横にあった水道で洗っていたシーンで登場しています。現在は、水道は撤去されています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.831404,
+          36.560945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s8x_1740557020327.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1s8x",
+        "point_name": "分岐路",
+        "remark": "「おねがい☆ティーチャー」第8話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.832501,
+          36.567777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1rvk_1740557137432.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1rvk",
+        "point_name": "海ノ口上諏訪神社",
+        "remark": "「おねがい☆ツインズ」第6話で麻郁と深衣奈が鳥居越しに会話をするシーンで登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.843018,
+          36.564224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1rnu_1740557724871.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1rnu",
+        "point_name": "一津踏切",
+        "remark": "「おねがい☆ティーチャー」では登校時にみんなが待ち合わせしているシーンで登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.84408,
+          36.563018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s6h_1740557797495.jpg",
+        "location": "木崎湖",
+        "point_id": "a86t1s6h",
+        "point_name": "縁川商店",
+        "remark": "作中では緑川小石の実家である「緑川商店」のモデルとなっていて、「おねがい☆ツインズ」では、深衣奈と樺恋がアルバイトした場所としても登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.981782,
+          36.231193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s6e_1740558391248.jpg",
+        "location": "松本",
+        "point_id": "a86t1s6e",
+        "point_name": "あがたの森文化会館",
+        "remark": "旧松本高等学校、木崎高校の校舎のモデルとして作中を通して登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.981863,
+          36.231386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s3h_1740558802929.jpg",
+        "location": "松本",
+        "point_id": "a86t1s3h",
+        "point_name": "講堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982332,
+          36.230996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s1q_1740558549752.jpg",
+        "location": "松本",
+        "point_id": "a86t1s1q",
+        "point_name": "中庭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983582,
+          36.230419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s2u_1740558118735.jpg",
+        "location": "松本",
+        "point_id": "a86t1s2u",
+        "point_name": "水飲み場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.986377,
+          36.227444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1ru3_1740557977848.jpg",
+        "location": "松本",
+        "point_id": "a86t1ru3",
+        "point_name": "川沿いの階段",
+        "remark": "「おねがい☆ティーチャー」第6話で草薙桂が寝そべっているシーンで登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.954351,
+          36.245688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s90_1740558059695.jpg",
+        "location": "松本",
+        "point_id": "a86t1s90",
+        "point_name": "城山公園展望台",
+        "remark": "「おねがい☆ティーチャー」第６話では漂介が楓に告白したシーンで登場しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982364,
+          36.230237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1rm9_1764047952201.jpg",
+        "location": "松本",
+        "point_id": "a86t1rm9",
+        "point_name": "校庭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.691243,
+          26.223634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s8m_1742839899688.jpg",
+        "location": "沖縄",
+        "point_id": "a86t1s8m",
+        "point_name": "ザ・ナハテラス",
+        "remark": "ティーチャー第5話、ツインズ第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.858093,
+          26.50834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "沖縄",
+        "point_id": "a86t1rlv",
+        "point_name": "万座ビーチリゾート",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.816486,
+          26.462995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "沖縄",
+        "point_id": "a86t1rwb",
+        "point_name": "リザンシーパークホテル谷茶ベイ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.811798,
+          26.461237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1s1r_1742840488994.jpg",
+        "location": "沖縄",
+        "point_id": "a86t1s1r",
+        "point_name": "サンマリーナホテル",
+        "remark": "ティーチャー第5話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634409,
+          36.359576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "軽井沢",
+        "point_id": "a86t1rr7",
+        "point_name": "チャーチストリート",
+        "remark": "オブジェ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634852,
+          36.359062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "軽井沢",
+        "point_id": "a86t1rmh",
+        "point_name": "チャーチストリート",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634141,
+          36.359695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/a86t1rx5-1783699373988.webp",
+        "location": "軽井沢",
+        "point_id": "a86t1rx5",
+        "point_name": "聖パウロカトリック教会",
+        "remark": "双子星第11话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634412,
+          36.359559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "軽井沢",
+        "point_id": "a86t1rr0",
+        "point_name": "チャーチストリートオブジェ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634879,
+          36.359055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "軽井沢",
+        "point_id": "a86t1rz4",
+        "point_name": "チャーチストリート軽井沢",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635442,
+          36.358671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/a86t1s4b-1783701398773.webp",
+        "location": "軽井沢",
+        "point_id": "a86t1s4b",
+        "point_name": "チャーチストリート入口",
+        "remark": "双子星第11话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635284,
+          36.358273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/a86t1ro8-1783698796734.webp",
+        "location": "軽井沢",
+        "point_id": "a86t1ro8",
+        "point_name": "軽井沢ベルコモンズ",
+        "remark": "双子星第11话（该店于2004年闭店）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634101,
+          36.356915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/a86t1sd6-1783706445274.webp",
+        "location": "軽井沢",
+        "point_id": "a86t1sd6",
+        "point_name": "タクシー乗り場",
+        "remark": "双子星第11话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.633924,
+          36.356807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/a86t1rpg-1783698286900.webp",
+        "location": "軽井沢",
+        "point_id": "a86t1rpg",
+        "point_name": "旧軽井沢ロータリー公衆電話",
+        "remark": "双子星第11话，麻郁等待桦恋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.244395,
+          36.405892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/297/a86t1rqj_1742838698108.jpg",
+        "location": "上田",
+        "point_id": "a86t1rqj",
+        "point_name": "上田城跡公園陸上競技場",
+        "remark": "おね☆２第10話「もういちど走りたい」クライマックスで、深衣奈の旧友 社裕香（やしろゆうか）がインターハイの練習をしていた陸上競技場のモデルになった。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635066,
+          36.357957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/gury25t-1783699832585.webp",
+        "location": "軽井沢",
+        "point_id": "gury25t",
+        "point_name": "ミカド​コーヒー​軽井沢​店",
+        "remark": "双子星第11话 1952年开业"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.633832,
+          36.356933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297,
+        "bangumi_title": "拜托了老师",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/297/points/guvorzp-1783706092351.webp",
+        "location": "軽井沢",
+        "point_id": "guvorzp",
+        "point_name": "珈琲歌劇前",
+        "remark": "双子星第11话"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

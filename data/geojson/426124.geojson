@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.703007,
+          35.671585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 426124,
+        "bangumi_title": "剧场版蓝色监狱 -EPISODE 凪-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/341163/points/p1t2t04do-1728812995664.jpg",
+        "location": "凪诚士郎，御影玲王，episode凪观影特典",
+        "point_id": "p1t2t04do",
+        "point_name": "原宿駅",
+        "remark": "苹果糖、球鞋、宣誓地点"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

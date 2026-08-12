@@ -1,0 +1,945 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.870693,
+          36.499206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/200547/51i53t0vz_1730089412912.jpg",
+        "location": "舞台ポイント",
+        "point_id": "51i53t0vz",
+        "point_name": "桜ヶ池 エントランス広場 公園の橋",
+        "remark": "サクラクエスト 1話（1、2、15、20話に登場。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901493,
+          36.522053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/51i53t140_1731866594109.jpg",
+        "location": "舞台ポイント",
+        "point_id": "51i53t140",
+        "point_name": "間野山駅",
+        "remark": "原型为城端駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.89328,
+          36.520958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/200547/51i53t0v1_1731865828269.jpg",
+        "location": "舞台ポイント",
+        "point_id": "51i53t0v1",
+        "point_name": "休憩していた東屋",
+        "remark": "警察官に声をかけられた場所（サクラクエスト 3話）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.971445,
+          36.559911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/51i53t22s_1731867435686.jpg",
+        "location": "舞台ポイント",
+        "point_id": "51i53t22s",
+        "point_name": "山門が見える風景",
+        "remark": "EDカット。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.971729,
+          36.559325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/200547/51i53t24k_1730092428902.jpg",
+        "location": "舞台ポイント",
+        "point_id": "51i53t24k",
+        "point_name": "瑞泉寺 山門",
+        "remark": "作中は道沿いですが、瑞泉寺の山門の一部を参考にしているようです。（サクラクエスト 5話）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.971585,
+          36.559618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/51i53t1fc_1754648303704.jpg",
+        "location": "舞台ポイント",
+        "point_id": "51i53t1fc",
+        "point_name": "彫刻師工房の通り",
+        "remark": "左右反転されているみたい"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.900785,
+          36.521053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台ポイント",
+        "point_id": "51i53t1sj",
+        "point_name": "駅への道",
+        "remark": "五話でＩＴ大臣が歩いていた風景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908188,
+          36.530295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台ポイント",
+        "point_id": "51i53t204",
+        "point_name": "五話の夕焼け風景の場所？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.872246,
+          36.559051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/0ef3a128_1730089307522.jpg",
+        "location": "サクラクエスト",
+        "point_id": "0ef3a128",
+        "point_name": "富山県道10号 サクラクエスト 1話",
+        "remark": "富山県道10号　東町交差点付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901539,
+          36.521892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/2da690ac_1730092035109.jpg",
+        "location": "サクラクエスト",
+        "point_id": "2da690ac",
+        "point_name": "城端駅 駅前 サクラクエスト 1・5・10・11・13・15・24話",
+        "remark": "城端駅 駅前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.867309,
+          36.500768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/15e6f27e_1730090122514.jpg",
+        "location": "サクラクエスト",
+        "point_id": "15e6f27e",
+        "point_name": "桜ヶ池 サクラクエスト 1・5・11・15話",
+        "remark": "桜ヶ池"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901422,
+          36.522265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/4119ae0b_1730092274367.jpg",
+        "location": "サクラクエスト",
+        "point_id": "4119ae0b",
+        "point_name": "城端駅 ホーム サクラクエスト 1・15・16・25話",
+        "remark": "城端駅 ホーム"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.97093,
+          36.560494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/ec411bea_1730092098520.jpg",
+        "location": "サクラクエスト",
+        "point_id": "ec411bea",
+        "point_name": "八日町通り サクラクエスト 4・24・25話・ED1",
+        "remark": "八日町通り"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901548,
+          36.522109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/2a3b1b41_1730092322711.jpg",
+        "location": "サクラクエスト",
+        "point_id": "2a3b1b41",
+        "point_name": "城端駅 待合室 サクラクエスト 5話",
+        "remark": "城端駅 待合室"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.97711,
+          36.561454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi5jcekfa_1730093653511.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi5jcekfa",
+        "point_name": "道の駅井波  サクラクエスト 5話",
+        "remark": "木像が5話に登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.900491,
+          36.514739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/0f17c97d_1730092605287.jpg",
+        "location": "サクラクエスト",
+        "point_id": "0f17c97d",
+        "point_name": "ぼたもち坂 サクラクエスト 6話",
+        "remark": "ぼたもち坂"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.869077,
+          36.497436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi56aicdt_1730092830086.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi56aicdt",
+        "point_name": "桜ヶ池の橋 サクラクエスト 6話",
+        "remark": "桜ヶ池（6、7、12、13話に登場。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.889569,
+          36.504522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/9dd1e6a2_1730093436511.jpg",
+        "location": "サクラクエスト",
+        "point_id": "9dd1e6a2",
+        "point_name": "向野の桜 サクラクエスト 7話",
+        "remark": "向野の桜"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903166,
+          36.520324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi5lzt033_1730093777630.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi5lzt033",
+        "point_name": "城端橋 サクラクエスト 7話",
+        "remark": "城端橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902693,
+          36.515457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi5njz9q6_1730093884160.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi5njz9q6",
+        "point_name": "善徳寺前交差点 サクラクエスト 7話",
+        "remark": "善徳寺前交差点ポスト"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.867962,
+          36.501707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/72257db1_1730093952815.jpg",
+        "location": "サクラクエスト",
+        "point_id": "72257db1",
+        "point_name": "桜ヶ池公園 サクラクエスト 7・10話",
+        "remark": "桜ヶ池公園"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.87309,
+          36.559557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/d9f1559c_1730094097838.jpg",
+        "location": "サクラクエスト",
+        "point_id": "d9f1559c",
+        "point_name": "富山県道27号 サクラクエスト 10・13・25話",
+        "remark": "富山県道27号　東町交差点付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.871116,
+          36.50103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/6e76507a_1730094150402.jpg",
+        "location": "サクラクエスト",
+        "point_id": "6e76507a",
+        "point_name": "桜ヶ池クライミングセンター　サクラクエスト 11話",
+        "remark": "桜ヶ池クライミングセンターhttps://climbingcenter.jp/（图左侧）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.971923,
+          36.55908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi5udtk9p_1730094322509.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi5udtk9p",
+        "point_name": "瑞泉寺 境内 サクラクエスト 11話",
+        "remark": "瑞泉寺 境内（4、5、11話に登場。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.868772,
+          36.498096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi5wmi2ik_1730094449644.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi5wmi2ik",
+        "point_name": "櫻ヶ池神社 サクラクエスト 11話",
+        "remark": "櫻ヶ池神社"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.897788,
+          36.517818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/6dc92c9f_1730094553550.jpg",
+        "location": "サクラクエスト",
+        "point_id": "6dc92c9f",
+        "point_name": "Ａコープ なんとセフレ サクラクエスト 12話",
+        "remark": "Ａコープ なんとセフレ（4、8、12、15話に登場。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.895863,
+          36.513563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/95ad80e1_1730094602039.jpg",
+        "location": "サクラクエスト",
+        "point_id": "95ad80e1",
+        "point_name": "アイカホール　サクラクエスト 18話",
+        "remark": "総合葬祭会館 アイカホール"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.873074,
+          36.502062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/1159a559_1730094645255.jpg",
+        "location": "サクラクエスト",
+        "point_id": "1159a559",
+        "point_name": "桜ヶ池クエスト　サクラクエスト 25話",
+        "remark": "はじまりの木2018年「桜ヶ池クエスト」キックオフイベントの一環で、サクラクエスト25話を再現して桜ヶ池のほとりに、メインキャストらが植樹を行いました。https://sakuragaike-quest.com/2018/2186/当初植樹場所の施設休止に伴い、現在の場所に移植されています。※立入はできませんhttps://sakuragaike-quest.com/2020/6767/【桜ヶ池クエスト】https://sakuragaike-quest.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.880716,
+          36.402221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/pi63a9la6_1730094839575.jpg",
+        "location": "サクラクエスト",
+        "point_id": "pi63a9la6",
+        "point_name": "五箇山合掌の里 荒井家 アニ旅なんと 描き下ろし",
+        "remark": "五箇山合掌の里 荒井家"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902834,
+          36.520015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/200547/f0b46598_1731865985261.jpg",
+        "location": "城端周辺",
+        "point_id": "f0b46598",
+        "point_name": "河川敷",
+        "remark": "7話に登場。真希が演技の練習をしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.898083,
+          36.511037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/200547/57c35b4b_1731866069933.jpg",
+        "location": "城端周辺",
+        "point_id": "57c35b4b",
+        "point_name": "城端小学校",
+        "remark": "7、20話に登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907487,
+          36.509245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城端周辺",
+        "point_id": "e3d90089",
+        "point_name": "八幡宮水車小屋",
+        "remark": "6話に登場する水車小屋?"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.866177,
+          36.501252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/200547/05c09bfb_1731866192014.jpg",
+        "location": "城端周辺",
+        "point_id": "05c09bfb",
+        "point_name": "合掌造りかず良",
+        "remark": "由乃達が住む寮です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.869381,
+          36.498101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/q4sy62zz0_1731868609374.jpg",
+        "location": "",
+        "point_id": "q4sy62zz0",
+        "point_name": "櫻ヶ池神社前",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.870045,
+          36.497604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城端周辺",
+        "point_id": "82fcdf8d",
+        "point_name": "ランソレイエ",
+        "remark": "アンジェリカのモデル？外観は似ていますが、公式に別の場所がモデルであるとの発言がありました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.873148,
+          36.501639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/707bdce1_1731866851054.jpg",
+        "location": "城端周辺",
+        "point_id": "707bdce1",
+        "point_name": "カフェトリアン",
+        "remark": "よろこぶそうめんが食べれます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901611,
+          36.521877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/200547/78ef887f_1731866531638.jpg",
+        "location": "城端周辺",
+        "point_id": "78ef887f",
+        "point_name": "市営バス停車所(城端駅)",
+        "remark": "さくら線は城端駅と桜ヶ池を結ぶ路線で、大体1~2時間おきに往復している感じです。\n詳しくはなんバスのホームページを参照。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.871739,
+          36.500437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/ab3d2879_1754648698361.jpg",
+        "location": "城端周辺",
+        "point_id": "ab3d2879",
+        "point_name": "市営バス停車所(桜ヶ池)",
+        "remark": "さくら線は城端駅と桜ヶ池を結ぶ路線で、大体1~2時間おきに往復している感じです。\n詳しくはなんバスのホームページを参照。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.970402,
+          36.561109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/200547/1f73db6d_1731867205757.jpg",
+        "location": "井波周辺",
+        "point_id": "1f73db6d",
+        "point_name": "井波市街(木彫りギャラリー吉川)",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.940661,
+          36.525775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/09c94646_1731867066809.jpg",
+        "location": "井波周辺",
+        "point_id": "09c94646",
+        "point_name": "カラオケ喫茶夢つばき",
+        "remark": "アンジェリカのモデル。南砺市×間野山市姉妹都市提携調印式にて公式の場で発表。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.968652,
+          36.558676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/200547/bcd9daca_1731867048166.jpg",
+        "location": "井波周辺",
+        "point_id": "bcd9daca",
+        "point_name": "本願寺井波別院",
+        "remark": "4話に登場する門のモデル?"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.013009,
+          36.586978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/200547/0f3241cc_1731867156303.jpg",
+        "location": "井波周辺",
+        "point_id": "0f3241cc",
+        "point_name": "散居村展望台",
+        "remark": "11話に登場。（图右侧）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.213391,
+          36.698825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/points/200547/7597912b_1731865622544.jpg",
+        "location": "富山市",
+        "point_id": "7597912b",
+        "point_name": "タクシー乗り場",
+        "remark": "23話に登場。洋菓子店「ベレン」のモデル。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.212916,
+          36.699435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/points/200547/1a74d214_1731865629293.jpg",
+        "location": "富山市",
+        "point_id": "1a74d214",
+        "point_name": "富山エクセルホテル東急",
+        "remark": "23話に登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.750292,
+          36.491364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200547/ae6febb6_1731865603894.jpg",
+        "location": "金沢",
+        "point_id": "ae6febb6",
+        "point_name": "湯涌温泉観光協会",
+        "remark": "間野山観光協会のモデルです。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662116,
+          36.564713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/200547/643fdb20_1731865587319.jpg",
+        "location": "金沢",
+        "point_id": "643fdb20",
+        "point_name": "兼六園",
+        "remark": "25話に登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.663585,
+          36.565462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200547,
+        "bangumi_title": "樱花任务",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/200547/095156cf_1731865593717.jpg",
+        "location": "金沢",
+        "point_id": "095156cf",
+        "point_name": "兼六園下交番",
+        "remark": "25話に登場。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

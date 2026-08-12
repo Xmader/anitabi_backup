@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          126.973772,
+          37.555576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 166454,
+        "bangumi_title": "未生",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/166454/omb282ng8_1727598105872.jpg",
+        "location": "",
+        "point_id": "omb282ng8",
+        "point_name": "SEOUL SQUARE",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

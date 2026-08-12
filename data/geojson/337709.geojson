@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.484164,
+          35.308163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337709,
+        "bangumi_title": "梅时露霁书 ~雨潺海汐间~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/337709/points/mqx7p4y7m-1722317539720.jpg",
+        "location": "",
+        "point_id": "mqx7p4y7m",
+        "point_name": "弁天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500235,
+          35.306418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337709,
+        "bangumi_title": "梅时露霁书 ~雨潺海汐间~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/337709/points/mr7z94y44-1722340881258.jpg",
+        "location": "",
+        "point_id": "mr7z94y44",
+        "point_name": "镰仓高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.47943,
+          35.310019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337709,
+        "bangumi_title": "梅时露霁书 ~雨潺海汐间~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/337709/points/mr82dzgf6-1722341048492.jpg",
+        "location": "",
+        "point_id": "mr82dzgf6",
+        "point_name": "新江ノ島水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

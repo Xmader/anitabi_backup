@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.372239,
+          43.030945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 35310,
+        "bangumi_title": "向北。White Illumination",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/35310/points/t67h6ekk3-1740442310473.jpg",
+        "location": "",
+        "point_id": "t67h6ekk3",
+        "point_name": "ローズヒル / リラハイツ南平岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

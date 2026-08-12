@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.333763,
+          36.413956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21704,
+        "bangumi_title": "真夏之夜的雪物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/21704/points/k07n6ayk9-1714582299754.jpg",
+        "location": "",
+        "point_id": "k07n6ayk9",
+        "point_name": "西桐生駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.003052,
+          43.197978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21704,
+        "bangumi_title": "真夏之夜的雪物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/21704/points/k084zv2dg-1714583163758.jpg",
+        "location": "",
+        "point_id": "k084zv2dg",
+        "point_name": "小樽運河",
+        "remark": "站在浅草桥上向北望"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

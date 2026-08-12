@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.738777,
+          35.628846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 116461,
+        "bangumi_title": "食戟之灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/116461/51i52d76l_1672371600995.jpg",
+        "location": "食戟のソーマ",
+        "point_id": "51i52d76l",
+        "point_name": "【品川駅 中央改札】",
+        "remark": "2期11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74148,
+          35.627634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 116461,
+        "bangumi_title": "食戟之灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/116461/51i52d781_1672371602328.jpg",
+        "location": "食戟のソーマ",
+        "point_id": "51i52d781",
+        "point_name": "【品川セントラルガーデン】",
+        "remark": "2期11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.747108,
+          35.62378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 116461,
+        "bangumi_title": "食戟之灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/116461/51i52d7b3_1672371603120.jpg",
+        "location": "食戟のソーマ",
+        "point_id": "51i52d7b3",
+        "point_name": "【天王洲ふれあい橋 周辺】",
+        "remark": "2期11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.626269,
+          36.372997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 116461,
+        "bangumi_title": "食戟之灵",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52dbtr",
+        "point_name": "旧三笠ホテル",
+        "remark": "８話、９話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

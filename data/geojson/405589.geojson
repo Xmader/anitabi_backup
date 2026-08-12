@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.164342,
+          35.662116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 405589,
+        "bangumi_title": "寂静岭f",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/405589/points/5z9dkh7-1760026388249.jpg",
+        "location": "",
+        "point_id": "5z9dkh7",
+        "point_name": "飛騨金山",
+        "remark": "戎之丘原型所在地车站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.158093,
+          35.660621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 405589,
+        "bangumi_title": "寂静岭f",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/405589/points/5zab3mz-1760027928097.jpg",
+        "location": "",
+        "point_id": "5zab3mz",
+        "point_name": "大岩洋服店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

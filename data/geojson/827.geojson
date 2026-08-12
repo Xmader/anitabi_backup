@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.465717,
+          35.699757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 827,
+        "bangumi_title": "日在校园",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/827/points/ieq0kno45-1710076987187.jpg",
+        "location": "",
+        "point_id": "ieq0kno45",
+        "point_name": "西国分寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

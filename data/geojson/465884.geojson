@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700116,
+          35.659542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465884,
+        "bangumi_title": "魔法少女与恶曾是敌人",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/465884/mec2i0rrl_1721331029556.jpg",
+        "location": "",
+        "point_id": "mec2i0rrl",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

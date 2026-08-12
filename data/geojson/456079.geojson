@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.412781,
+          35.699001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 456079,
+        "bangumi_title": "和班上第二可爱的女孩成为朋友",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/456079/points/dz7r31h-1777437922997.jpg",
+        "location": "",
+        "point_id": "dz7r31h",
+        "point_name": "「風に向かって」赤川政由",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

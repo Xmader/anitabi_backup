@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.644523,
+          28.030384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 975,
+        "bangumi_title": "航海王",
+        "ep_cut": "518",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/975/points/e25cwjs-1777615247994.jpg",
+        "location": "",
+        "point_id": "e25cwjs",
+        "point_name": "东塔",
+        "remark": "航海王中CP9的故乡"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

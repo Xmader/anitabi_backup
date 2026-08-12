@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.819038,
+          34.680958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrk58zt",
+        "point_name": "奈良",
+        "remark": "在本作名为「平须」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.843423,
+          34.685467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrk4o3w",
+        "point_name": "奈良公園",
+        "remark": "对应本作的「白鹿公园」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.848442,
+          34.681491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrjvndn",
+        "point_name": "春日大社",
+        "remark": "在本作名为「白鹿大社」。春日大社的主祭神武瓮槌命有乘白鹿下世的传说，因此白鹿是春日大社的重要要素。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.851959,
+          34.598071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrjyx3k",
+        "point_name": "石上神宮",
+        "remark": "在本作名为「空见神宫」。石上神宫有供奉天羽羽斩和十种神宝的传说，两者在本作都有重要地位。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.221632,
+          36.24896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrlsvxs",
+        "point_name": "心霊豪農屋敷",
+        "remark": "第一章舞台「豪農屋敷」的原型，位于埼玉县本庄市仁手的废屋，不过在游戏设定中第一章的废屋位于空见（石上）。曾有杂志文章将其描述为发生过惨烈事件的灵异地点。建筑本身约在2012年被彻底拆除。2012年谷歌街景可看到拆除后的残留：\nhttps://maps.app.goo.gl/DaG9YzdfqjiV2G3t8\nhttps://x.com/GSX1100SSSL/status/1416401260220014594/photo/1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.678368,
+          34.679795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrk5uq7",
+        "point_name": "生駒山上遊園地",
+        "remark": "生驹山在本作名为「斋隈山」，现实中在此有多处宗教宗教修行场所，山顶则1929年开业的游乐园。两位主角在第二章之前前往山顶游乐园游玩，然后在第二章前往废弃的宗教设施探险。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.189694,
+          34.701227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrkg4pk",
+        "point_name": "神戸·異人館",
+        "remark": "神户在本作名为「水门」，异人馆指的是日本对外开放后外国人在神户修建的宅邸，现实中有著名的北野异人馆街。第三章的剧情便发生于一处异人馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.424427,
+          35.681226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 679547,
+        "bangumi_title": "纠纠缘丝",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hrkwge5",
+        "point_name": "冠島",
+        "remark": "在本作被描述为「西府羽津市北部湾」的无人岛「神户岛」，为游戏第四章舞台。冠岛现实中是位于京都府舞鹤市的无人岛，又称常世岛。全岛在1924年被指定为天然纪念物，未经许可不允许登陆。《丹后风土记》记载当地有传说该岛是天宝元年地震后诞生。皆与游戏中描述一致。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

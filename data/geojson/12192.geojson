@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.762158,
+          35.032997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12192,
+        "bangumi_title": "滑头鬼之孙～千年魔京～",
+        "ep_cut": "07",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/12192/points/pc4j3mfds-1729621379629.jpg",
+        "location": "",
+        "point_id": "pc4j3mfds",
+        "point_name": "相克寺",
+        "remark": "羽衣狐第二封印"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

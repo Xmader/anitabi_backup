@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.764235,
+          35.63563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316519,
+        "bangumi_title": "哥斯拉：奇点",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316519/points/np92oaf58-1725007653106.jpg",
+        "location": "",
+        "point_id": "np92oaf58",
+        "point_name": "とうきょうわん",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

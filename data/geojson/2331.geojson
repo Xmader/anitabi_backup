@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.776316,
+          35.670291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2331,
+        "bangumi_title": "悠长假期",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2331/points/v1edvneje-1745707482767.jpg",
+        "location": "",
+        "point_id": "v1edvneje",
+        "point_name": "中華そば「萬金」",
+        "remark": "瀬名经常去的饭店"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

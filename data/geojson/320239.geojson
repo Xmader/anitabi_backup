@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.632722,
+          41.98516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320239,
+        "bangumi_title": "血与心",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/320239/nozyzj4uc_1725000097215_cut.jpg",
+        "location": "",
+        "point_id": "nozyzj4uc",
+        "point_name": "阜新站",
+        "remark": "阜新老火车站，1937年正式开通运营，2016年改名阜新南站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.574919,
+          44.541868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320239,
+        "bangumi_title": "血与心",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/320239/np0o4sti4_1725000102779_cut.jpg",
+        "location": "",
+        "point_id": "np0o4sti4",
+        "point_name": "人民空军东北老航校旧址",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.957969,
+          41.523033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320239,
+        "bangumi_title": "血与心",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/320239/npj2vb35n_1726916300443_c16v9.jpg",
+        "location": "",
+        "point_id": "npj2vb35n",
+        "point_name": "辽宁省北镇市六台子村",
+        "remark": "《血与心》原型人物张荣清的故居"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

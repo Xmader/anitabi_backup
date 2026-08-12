@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.578662,
+          35.554269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81186,
+        "bangumi_title": "目隐都市的演绎者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81186/points/3s28xl8-1755237617734.jpg",
+        "location": "",
+        "point_id": "3s28xl8",
+        "point_name": "モザイクモール港北",
+        "remark": "故事开头的商场\n以及现实中这个商场只有六层，所以不用怕会像伸子那样在七楼碰到恐怖分子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.57848,
+          35.554816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81186,
+        "bangumi_title": "目隐都市的演绎者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81186/points/3s2ihvm-1755238001110.jpg",
+        "location": "",
+        "point_id": "3s2ihvm",
+        "point_name": "モザイクモール港北 大観覧車",
+        "remark": "真的在屋顶上啊，摩天轮"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.688416,
+          35.652869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81186,
+        "bangumi_title": "目隐都市的演绎者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81186/points/3s41m1t-1755240640653.jpg",
+        "location": "",
+        "point_id": "3s41m1t",
+        "point_name": "上目黒氷川神社",
+        "remark": "动画里的角度大概是过了鸟居后上楼梯再回头看的视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773465,
+          35.626708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81186,
+        "bangumi_title": "目隐都市的演绎者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81186/points/3s4a13i-1755241008293.jpg",
+        "location": "",
+        "point_id": "3s4a13i",
+        "point_name": " フジテレビ本社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77543,
+          35.62793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81186,
+        "bangumi_title": "目隐都市的演绎者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81186/points/3s4qkht-1755241799625.jpg",
+        "location": "",
+        "point_id": "3s4qkht",
+        "point_name": "台場交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.627401,
+          38.918414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81186,
+        "bangumi_title": "目隐都市的演绎者",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81186/points/a97hxos-1769335035996.jpg",
+        "location": "",
+        "point_id": "a97hxos",
+        "point_name": "进步街",
+        "remark": "目隐第二话19:30，酷似大连连锁街向上仰望中心裕景大厦，疑似有参考此场景，建筑的形态也一样，建筑已改造加盖，中心裕景也已经建完，与动画里在建的景象有不同，但根据建筑的风格和形态（窗户）、在建建筑的形态，可以看出疑似是这个地方"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

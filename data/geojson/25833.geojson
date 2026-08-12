@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          9.190959,
+          45.464268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25833,
+        "bangumi_title": "剧场版 魔法少女小圆 [前篇] 起始的物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/kpwkd7t9m-1749075156053.jpg",
+        "location": "",
+        "point_id": "kpwkd7t9m",
+        "point_name": "Milan Cathedral",
+        "remark": "The Movie (Milan, Italy) Duomo di Milano"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

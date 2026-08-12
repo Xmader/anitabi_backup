@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.023693,
+          36.401869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 502002,
+        "bangumi_title": "假面骑士加布",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/502002/k0uz80_1748221138888.jpg",
+        "location": "",
+        "point_id": "k0uz80",
+        "point_name": "毎日新聞北関東コア",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

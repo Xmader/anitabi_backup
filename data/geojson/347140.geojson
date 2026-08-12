@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.687959,
+          35.650427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 347140,
+        "bangumi_title": "身为女主角 讨厌的女主角与秘密的工作",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/347140/points/bnh1bhg-1772374332208.jpg",
+        "location": "",
+        "point_id": "bnh1bhg",
+        "point_name": "目黒​区立​目黒​天空​庭園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

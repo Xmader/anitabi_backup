@@ -1,0 +1,965 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.636005,
+          35.704883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 29,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygdj_1672370785813.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygdj",
+        "point_name": "阿佐ヶ谷駅",
+        "remark": "第1期1,3,10話。中央・総武緩行線ホームや改札前など。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636138,
+          35.704987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygri_1672370786952.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygri",
+        "point_name": "阿佐ヶ谷駅（第2期）",
+        "remark": "第2期1話。改札前など。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636298,
+          35.704696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygf3_1672370787663.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygf3",
+        "point_name": "阿佐ヶ谷駅南口",
+        "remark": "第1期1,3,5,10話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636304,
+          35.704696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yh1o_1672370789112.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yh1o",
+        "point_name": "阿佐ヶ谷駅南口（第2期）",
+        "remark": "第2期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636968,
+          35.703794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygmn_1672370789537.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygmn",
+        "point_name": "築地日本海阿佐ヶ谷店",
+        "remark": "2話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636484,
+          35.703836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygiv_1672370790243.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygiv",
+        "point_name": "プラウド阿佐ヶ谷",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636315,
+          35.703229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygkv_1672370791265.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygkv",
+        "point_name": "細田工務店本社ビル",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636176,
+          35.702666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yh0z_1672370792405.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yh0z",
+        "point_name": "市川龍清堂薬舗",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636145,
+          35.702547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygxr_1672370793336.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygxr",
+        "point_name": "ファミリーマート阿佐谷南三丁目店",
+        "remark": "4話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636101,
+          35.70235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygc3_1672370794382.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygc3",
+        "point_name": "串カツ田中阿佐ヶ谷店",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636343,
+          35.702345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ygus_1672370795349.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52ygus",
+        "point_name": "CAFE MISTY",
+        "remark": "1話でランチしたカフェ。（※閉店・移転済）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636062,
+          35.70216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhpi_1672370796342.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhpi",
+        "point_name": "豚骨番長阿佐ヶ谷店界隈",
+        "remark": "4,8話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.635739,
+          35.700832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhk2_1672370797216.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhk2",
+        "point_name": "タナカ産業ショールーム",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.635817,
+          35.700331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yh6r_1672370989071.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yh6r",
+        "point_name": "ローソン杉並区役所前店",
+        "remark": "5話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.635728,
+          35.699992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhj6_1672370984031.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhj6",
+        "point_name": "杉並区役所西棟",
+        "remark": "5話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637828,
+          35.699448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhmw_1672370800419.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhmw",
+        "point_name": "南阿佐ヶ谷すずらん通り商店街・洋装生地ツツヰ付近（第1期）",
+        "remark": "第1期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63784,
+          35.699435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhku_1672370802268.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhku",
+        "point_name": "南阿佐ヶ谷すずらん通り商店街（第2期）",
+        "remark": "第2期OP。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638016,
+          35.699243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yh5j_1672370803384.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yh5j",
+        "point_name": "まいばすけっと南阿佐ヶ谷すずらん通り店",
+        "remark": "1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637522,
+          35.698804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yi0j_1672370999043.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yi0j",
+        "point_name": "青梅街道（そば処豊年屋向かい）",
+        "remark": "5話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637716,
+          35.698732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yiga_1672370805415.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yiga",
+        "point_name": "麻生商会阿佐谷モト・ルーム",
+        "remark": "2話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637692,
+          35.698744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yi06",
+        "point_name": "めん屋桔梗 阿佐ヶ谷店",
+        "remark": "第1期5話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637955,
+          35.698647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yi53_1672370806313.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yi53",
+        "point_name": "NEW-ADビル",
+        "remark": "第1期1話など多数回。イーグルジャンプの社屋モデル。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637975,
+          35.69865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhym_1672370808407.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhym",
+        "point_name": "NEW-ADビル（第2期）",
+        "remark": "第2期1話など。イーグルジャンプの社屋モデル。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.648249,
+          35.705487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yi1v_1672370809385.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yi1v",
+        "point_name": "Bar私",
+        "remark": "2話。2次会のバー。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.656153,
+          35.696785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yhwu_1672370812241.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yhwu",
+        "point_name": "蚕糸の森公園（いこいの広場）",
+        "remark": "第2期1話。春のお花見会場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618191,
+          35.704928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yiet_1672371012619.jpg",
+        "location": "杉並区（阿佐ヶ谷・高円寺・荻窪）",
+        "point_id": "51i52yiet",
+        "point_name": "なごみの湯",
+        "remark": "9話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.534026,
+          35.672619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjar_1672370815445.jpg",
+        "location": "三鷹市・調布市",
+        "point_id": "51i52yjar",
+        "point_name": "榛沢橋",
+        "remark": "1,3,9話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.562486,
+          35.653346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yj74_1672370818354.jpg",
+        "location": "三鷹市・調布市",
+        "point_id": "51i52yj74",
+        "point_name": "馬橋（国道20号・甲州街道）",
+        "remark": "第2期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551628,
+          35.649875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yiqk_1672370820259.jpg",
+        "location": "三鷹市・調布市",
+        "point_id": "51i52yiqk",
+        "point_name": "布田駅",
+        "remark": "第1期1話。改札とホーム階。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551671,
+          35.649868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yiwz_1672370823261.jpg",
+        "location": "三鷹市・調布市",
+        "point_id": "51i52yiwz",
+        "point_name": "布田駅（第2期）",
+        "remark": "第2期1話。2番線ホームドアなど。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.574662,
+          35.657859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yiyw_1672370825343.jpg",
+        "location": "三鷹市・調布市",
+        "point_id": "51i52yiyw",
+        "point_name": "つつじヶ丘駅",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665322,
+          35.705626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjms_1672370827332.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yjms",
+        "point_name": "中野駅2番線",
+        "remark": "3話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670163,
+          35.732789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjm6_1672370830243.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yjm6",
+        "point_name": "どらっぐぱぱす新江古田駅前店",
+        "remark": "11話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697519,
+          35.689723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjul_1672370833258.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yjul",
+        "point_name": "ヨドバシカメラ新宿西口本店",
+        "remark": "12話。ゲーム・ホビー館が登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696802,
+          35.688427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjnh_1672370836298.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yjnh",
+        "point_name": "日本政策金融公庫新宿ビル前",
+        "remark": "12話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701199,
+          35.692097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjz5_1672370839334.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yjz5",
+        "point_name": "新宿駅東口（アルタ前・ライオン広場）",
+        "remark": "12話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705727,
+          35.689914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yjk6_1672370842214.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yjk6",
+        "point_name": "新宿バルト９",
+        "remark": "6話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.719089,
+          35.729097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ykto_1672370844573.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52ykto",
+        "point_name": "サンシャインシティ　アルバ２F（噴水吹抜前広場）",
+        "remark": "12話。打ち上げ会場の外。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700376,
+          35.659785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ykbg_1672370845863.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52ykbg",
+        "point_name": "渋谷駅前交差点（スクランブル交差点）",
+        "remark": "第2期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700621,
+          35.659084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 76,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ykb0_1672370855222.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52ykb0",
+        "point_name": "ハチ公像",
+        "remark": "第2期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700888,
+          35.659569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yk9i_1672370857266.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yk9i",
+        "point_name": "渋谷駅前交差点（東京メトロ7番出口）",
+        "remark": "第2期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699906,
+          35.659381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ykbf_1672370859311.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52ykbf",
+        "point_name": "ガスト渋谷駅前店",
+        "remark": "第2期1話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774675,
+          35.698737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ykcp_1672370862489.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52ykcp",
+        "point_name": "ヨドバシカメラ　マルチメディアAkiba",
+        "remark": "5話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774124,
+          35.666797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yklk_1672370865283.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52yklk",
+        "point_name": "築地川公園付近",
+        "remark": "7話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.829135,
+          35.696145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 852,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ykbs_1672370868220.jpg",
+        "location": "２３区内（杉並区外）",
+        "point_id": "51i52ykbs",
+        "point_name": "亀戸サンストリート（※閉館済）",
+        "remark": "6話。はじめがヒーローショー見に来たショッピングモール。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445483,
+          35.69462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52yli5_1672370869283.jpg",
+        "location": "都内（その他エリア）",
+        "point_id": "51i52yli5",
+        "point_name": "一橋大学国立キャンパス西地区",
+        "remark": "8話。ねねっち（桜ねね）の通うきらら女子大学モデル。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.443981,
+          35.694352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ylds_1672370870694.jpg",
+        "location": "都内（その他エリア）",
+        "point_id": "51i52ylds",
+        "point_name": "一橋大学附属図書館本館（第2期）",
+        "remark": "第2期1話。開架スペース（？）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.036116,
+          35.647445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150775,
+        "bangumi_title": "NEW GAME!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/150775/51i52ylyx_1672370872038.jpg",
+        "location": "千葉県",
+        "point_id": "51i52ylyx",
+        "point_name": "幕張メッセ",
+        "remark": "11話。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.774009,
+          35.711754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10393,
+        "bangumi_title": "宇宙战舰大和号",
+        "ep_cut": "ヤマトよ永遠に REBEL3199 第六章　第01集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10393/points/gm9sfwj-1783185596811.webp",
+        "location": "",
+        "point_id": "gm9sfwj",
+        "point_name": "上野公園の西郷像",
+        "remark": "作品:宇宙戦艦ヤマト３１９９"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.775234,
+          35.715015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10393,
+        "bangumi_title": "宇宙战舰大和号",
+        "ep_cut": "ヤマトよ永遠に REBEL3199 第六章 第01話",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10393/points/gm9km80-1783185364641.webp",
+        "location": "",
+        "point_id": "gm9km80",
+        "point_name": "国立西洋美術館の考える人像",
+        "remark": "由於無法建立對應作品 暫時以\"宇宙戦艦ヤマトよ永遠に REBEL3199”做備註"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

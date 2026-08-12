@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.646188,
+          35.745409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1942,
+        "bangumi_title": "魔卡少女樱 被封印的卡片",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1942/points/9u1ynkw-1768418843964.jpg",
+        "location": "",
+        "point_id": "9u1ynkw",
+        "point_name": "丰岛游乐园的旋转木马",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645172,
+          35.745969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1942,
+        "bangumi_title": "魔卡少女樱 被封印的卡片",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1942/points/9u1tnol-1768418549311.jpg",
+        "location": "",
+        "point_id": "9u1tnol",
+        "point_name": "丰岛游乐园镜子屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758328,
+          35.753642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1942,
+        "bangumi_title": "魔卡少女樱 被封印的卡片",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1942/points/9u0r7qu-1768416861066.jpg",
+        "location": "",
+        "point_id": "9u0r7qu",
+        "point_name": "荒川遊園地観覧車",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.966922,
+          35.83879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 142758,
+        "bangumi_title": "线上游戏的老婆不可能是女生？",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52tqdk",
+        "point_name": "新柏駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.950762,
+          35.776445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 142758,
+        "bangumi_title": "线上游戏的老婆不可能是女生？",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/142758/points/51i52tq8d-1746097452132.jpg",
+        "location": "",
+        "point_id": "51i52tq8d",
+        "point_name": "松戸市立松戸高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

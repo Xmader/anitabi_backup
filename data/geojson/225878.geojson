@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.171456,
+          22.317513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 225878,
+        "bangumi_title": "明日方舟",
+        "ep_cut": "【明日方舟× BanG Dream! Ave Mujica】SideStory「无忧梦呓」",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/225878/points/4rz0axg-1757409154170.jpg",
+        "location": "",
+        "point_id": "4rz0axg",
+        "point_name": "花园街33号",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

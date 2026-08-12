@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.908304,
+          41.675809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 224586,
+        "bangumi_title": "虔诚之花的晚钟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/224586/points/owytr33bn-1728433565009.jpg",
+        "location": "",
+        "point_id": "owytr33bn",
+        "point_name": "Abbazia Santa Maria di Pulsano",
+        "remark": "圣髑埋藏地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

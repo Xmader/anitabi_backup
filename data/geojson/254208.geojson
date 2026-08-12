@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          143.968466,
+          43.386386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 254208,
+        "bangumi_title": "奇异恩典·圣夜的小镇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/254208/points/5i66vp6-1758993133279.jpg",
+        "location": "",
+        "point_id": "5i66vp6",
+        "point_name": "オンネトー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.253999,
+          43.771501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 254208,
+        "bangumi_title": "奇异恩典·圣夜的小镇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/254208/points/5i6nw01-1758993879841.jpg",
+        "location": "",
+        "point_id": "5i6nw01",
+        "point_name": "Piazza della Repubblica",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

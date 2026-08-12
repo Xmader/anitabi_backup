@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          142.761933,
+          46.621557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241089,
+        "bangumi_title": "天狼 Sirius the Jaeger",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/fov3bgsnf-1702408319854.jpg",
+        "location": "",
+        "point_id": "fov3bgsnf",
+        "point_name": "ст. Порт Корсаков",
+        "remark": "从港口视角看站台，当时是客货两用站（现为货站）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.759733,
+          46.620275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241089,
+        "bangumi_title": "天狼 Sirius the Jaeger",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/for6cfgz4-1702400146146.jpg",
+        "location": "",
+        "point_id": "for6cfgz4",
+        "point_name": "южный пирс",
+        "remark": "男主一行北上的第一站，轮渡和火车同站换乘（历史相片改画）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.764606,
+          46.619765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241089,
+        "bangumi_title": "天狼 Sirius the Jaeger",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/fork3p1hf-1702400637473.jpg",
+        "location": "",
+        "point_id": "fork3p1hf",
+        "point_name": "码头铁桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.767508,
+          46.623823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241089,
+        "bangumi_title": "天狼 Sirius the Jaeger",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/241089/points/forr4cjzg-1702401043886.jpg",
+        "location": "",
+        "point_id": "forr4cjzg",
+        "point_name": "Корсаков,RU",
+        "remark": "向南面对亚庭湾，是该岛最大的港口，有联络船从北海道来"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.899844,
+          35.784455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 240828,
+        "bangumi_title": "Happy Sugar Life",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/240828/points/n7x3jip2f-1723649399946.jpg",
+        "location": "",
+        "point_id": "n7x3jip2f",
+        "point_name": "松户站",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

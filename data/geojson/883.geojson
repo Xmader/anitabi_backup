@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.152204,
+          51.520416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 883,
+        "bangumi_title": "黑执事",
+        "ep_cut": "黑执事第85话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/883/points/sqea7wh6p-1739202995831.jpg",
+        "location": "",
+        "point_id": "sqea7wh6p",
+        "point_name": "Daunt Books",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124563,
+          51.500704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 883,
+        "bangumi_title": "黑执事",
+        "ep_cut": "绿魔女",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/883/points/h0hy40k-1784045800635.jpg",
+        "location": "",
+        "point_id": "h0hy40k",
+        "point_name": "Big Ben",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

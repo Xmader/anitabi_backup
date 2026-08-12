@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.34265,
+          41.258905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311784,
+        "bangumi_title": "纯白之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/311784/9m2dtct_1767942595384.jpg",
+        "location": "",
+        "point_id": "9m2dtct",
+        "point_name": "龍飛​崎​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701481,
+          35.693591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311784,
+        "bangumi_title": "纯白之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/311784/9m2hfzf_1767942613149.jpg",
+        "location": "",
+        "point_id": "9m2hfzf",
+        "point_name": "ドン・キホーテ 新宿歌舞伎町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767269,
+          35.727653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311784,
+        "bangumi_title": "纯白之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/311784/9m2n3p1_1767942626646.jpg",
+        "location": "",
+        "point_id": "9m2n3p1",
+        "point_name": "夕やけだんだん",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766199,
+          35.727698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311784,
+        "bangumi_title": "纯白之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/311784/9m2owpf_1767942636734.jpg",
+        "location": "",
+        "point_id": "9m2owpf",
+        "point_name": "谷中​銀座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794962,
+          35.712373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311784,
+        "bangumi_title": "纯白之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/311784/9m2sdte_1767942649190.jpg",
+        "location": "",
+        "point_id": "9m2sdte",
+        "point_name": "浅草公会堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

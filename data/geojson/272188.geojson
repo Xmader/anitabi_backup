@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.647604,
+          42.825073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272188,
+        "bangumi_title": "邪神与厨二病少女’",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272188/points/nndxlund8-1724861653769.jpg",
+        "location": "千岁巡游",
+        "point_id": "nndxlund8",
+        "point_name": "(株)​もり​も​と​本店",
+        "remark": "2:50(SP2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.659697,
+          42.83228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272188,
+        "bangumi_title": "邪神与厨二病少女’",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272188/points/nne7jkooz-1724862211574.jpg",
+        "location": "千岁巡游",
+        "point_id": "nne7jkooz",
+        "point_name": "インディアン​水車",
+        "remark": "4:33(SP2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.659121,
+          42.832725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272188,
+        "bangumi_title": "邪神与厨二病少女’",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272188/points/nneej45v0-1724862573994.jpg",
+        "location": "千岁巡游",
+        "point_id": "nneej45v0",
+        "point_name": "サケのふるさと 千歳水族館",
+        "remark": "5:11（SP2）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.01445,
+          40.714691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272188,
+        "bangumi_title": "邪神与厨二病少女’",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/points/272188/nmplc7rp0_1724829803701_c16v9.jpg",
+        "location": "NYC",
+        "point_id": "nmplc7rp0",
+        "point_name": "Goldman Sachs Tower",
+        "remark": "大概位置在高空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.985124,
+          40.758608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272188,
+        "bangumi_title": "邪神与厨二病少女’",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272188/points/nn7zqd71v-1724848550823.jpg",
+        "location": "NYC",
+        "point_id": "nn7zqd71v",
+        "point_name": "W 46th St",
+        "remark": "图片里写的是W 47 St\n但我找了所有的路口都没有相对应的\n根据远处的屏幕亮光轮廓大概应该在这个位置\n也有可能是我漏了（）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

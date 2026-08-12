@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.741311,
+          35.644666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 565802,
+        "bangumi_title": "辉夜大小姐想让我告白 通往大人的阶梯",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/565802/points/a7robv4-1769248240203.jpg",
+        "location": "EP2",
+        "point_id": "a7robv4",
+        "point_name": "聖坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742656,
+          35.646365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 565802,
+        "bangumi_title": "辉夜大小姐想让我告白 通往大人的阶梯",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/565802/points/as7uxav-1770484443183.jpg",
+        "location": "",
+        "point_id": "as7uxav",
+        "point_name": "人行道",
+        "remark": "沟槽的这个视角得在人行道拍，85mm左右拍摄，50也可以，就是下面的路会拍到，旁边在修房子，应该是没看公告，后面应该只能通过消防牌来拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.741926,
+          35.645372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 565802,
+        "bangumi_title": "辉夜大小姐想让我告白 通往大人的阶梯",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/565802/points/as7zzv1-1770484675221.jpg",
+        "location": "",
+        "point_id": "as7zzv1",
+        "point_name": "走右面",
+        "remark": "前面的圣板都得人行道上拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.740551,
+          35.643798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 565802,
+        "bangumi_title": "辉夜大小姐想让我告白 通往大人的阶梯",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/565802/points/as7yh6w-1770484604140.jpg",
+        "location": "",
+        "point_id": "as7yh6w",
+        "point_name": "警察署前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.868451,
+          35.707872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1058/bangumi/200704/points/jvcmm8tit-1714201107346.jpg",
+        "location": "",
+        "point_id": "jvcmm8tit",
+        "point_name": "犬吠埼灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.857081,
+          35.699235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200704/p0vssvtly_1728740218474.jpg",
+        "location": "",
+        "point_id": "p0vssvtly",
+        "point_name": "外川駅",
+        "remark": "デハ801型停放于銚子電気鉄道外川駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.730288,
+          35.889619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200704/9roswng_1768277561587.jpg",
+        "location": "",
+        "point_id": "9roswng",
+        "point_name": "ウィンド・パワーかみす",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.86124,
+          35.695239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200704/9rpdnxx_1768277580563.jpg",
+        "location": "",
+        "point_id": "9rpdnxx",
+        "point_name": "西宮神社(銚子市)付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.728162,
+          35.701296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200704/9rpm5aa_1768277593311.jpg",
+        "location": "",
+        "point_id": "9rpm5aa",
+        "point_name": "セブン​イレブン旭​市​飯​岡谷​店付近",
+        "remark": "95年真人电影版的取景地也在附近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.85315,
+          35.69876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200704/9rphmg4_1768277605554.jpg",
+        "location": "",
+        "point_id": "9rphmg4",
+        "point_name": "漁村一棟貸宿「和泉屋」付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.868176,
+          35.707681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200704,
+        "bangumi_title": "烟花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/200704/9rpo3ki_1768277615322.jpg",
+        "location": "",
+        "point_id": "9rpo3ki",
+        "point_name": "犬吠埼灯台 門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

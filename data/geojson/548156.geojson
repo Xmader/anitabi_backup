@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.991935,
+          35.241176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/548156/points/2bnikr2-1752068606148.jpg",
+        "location": "",
+        "point_id": "2bnikr2",
+        "point_name": "箱根高原ホテル",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

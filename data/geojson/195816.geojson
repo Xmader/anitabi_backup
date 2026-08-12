@@ -1,0 +1,745 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.596541,
+          36.622662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/195816/3nx7mgu_1754987229734.jpg",
+        "location": "",
+        "point_id": "3nx7mgu",
+        "point_name": "湯畑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.596504,
+          36.622459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/195816/3nxcl24_1754987681980.jpg",
+        "location": "",
+        "point_id": "3nxcl24",
+        "point_name": "御座之湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.596838,
+          36.622887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/195816/3ny5gpu_1754989190646.jpg",
+        "location": "",
+        "point_id": "3ny5gpu",
+        "point_name": "足湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.595988,
+          36.622125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/195816/3nxsrx7_1754988351188.jpg",
+        "location": "",
+        "point_id": "3nxsrx7",
+        "point_name": "光泉寺の山門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676466,
+          35.617349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9cwhvxo-1767381587914.jpg",
+        "location": "",
+        "point_id": "9cwhvxo",
+        "point_name": "都立大学站前人行道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676507,
+          35.617232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9cx0bz7-1767382443672.jpg",
+        "location": "",
+        "point_id": "9cx0bz7",
+        "point_name": "大学站前人行道",
+        "remark": "考虑到地面的30限速放在人行道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676717,
+          35.616389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9cxv30f-1767383880573.jpg",
+        "location": "",
+        "point_id": "9cxv30f",
+        "point_name": "K&Kビル",
+        "remark": "这个位置才是正确的，有下沉有楼梯"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676418,
+          35.617425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9mzjs7o-1767991446948.jpg",
+        "location": "",
+        "point_id": "9mzjs7o",
+        "point_name": "车站前",
+        "remark": "现实的椅子没有了，但可以根据后面的取景来，后面的没变"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579737,
+          35.790259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9myo2o7-1767989938719.jpg",
+        "location": "",
+        "point_id": "9myo2o7",
+        "point_name": "埼玉県朝霞市膝折町2丁目16-10",
+        "remark": "根据日本通的帖子，现在这个楼在修，不知道是要翻修还是直接没了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676409,
+          35.617438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9mzmue0-1767991509524.jpg",
+        "location": "",
+        "point_id": "9mzmue0",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676404,
+          35.617429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9mznfmw-1767991551436.jpg",
+        "location": "",
+        "point_id": "9mznfmw",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676363,
+          35.617445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9mzoctp-1767991576513.jpg",
+        "location": "",
+        "point_id": "9mzoctp",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676418,
+          35.617466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9mzp1as-1767991607874.jpg",
+        "location": "",
+        "point_id": "9mzp1as",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676868,
+          35.618765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n177nx-1767994151695.jpg",
+        "location": "",
+        "point_id": "9n177nx",
+        "point_name": "车站天空",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676072,
+          35.618724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n1n6s0-1767994878678.jpg",
+        "location": "",
+        "point_id": "9n1n6s0",
+        "point_name": "ジョナサン\n都立大学​駅​前​店",
+        "remark": "根据动漫所提供的地图内容，加上动漫的外形，我在附近找到了，外形基本一致，以及消防牌，还有反光板，虽然另外一个也没了，还有天桥，虽然挺远，但还是满足动漫取景，这里就是动漫主角们聚集的餐厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676178,
+          35.618474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n1xj8v-1767995369314.jpg",
+        "location": "",
+        "point_id": "9n1xj8v",
+        "point_name": "餐厅对面",
+        "remark": "根据动漫取景思路，应该是道路对面拍摄，但这样车站和天桥取景不满足，所以正确不大"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676108,
+          35.618655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n1zn1m-1767995462643.jpg",
+        "location": "",
+        "point_id": "9n1zn1m",
+        "point_name": "餐厅前",
+        "remark": "前面有公交车站，天桥比较远"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676514,
+          35.61741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n22rj7-1767995608270.jpg",
+        "location": "",
+        "point_id": "9n22rj7",
+        "point_name": "警卫亭",
+        "remark": "根据警察亭拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.674628,
+          35.618001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n3g72z-1767997913421.jpg",
+        "location": "",
+        "point_id": "9n3g72z",
+        "point_name": "天桥下",
+        "remark": "根据动漫来的，现实没有饮料机而且后面的楼不够"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676458,
+          35.617425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "9n24kil",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676458,
+          35.617425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n24yps-1767995719079.jpg",
+        "location": "",
+        "point_id": "9n24yps",
+        "point_name": "车站前",
+        "remark": "根据路口拍摄，忘记上传图片了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676461,
+          35.617423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n26bgy-1767995781570.jpg",
+        "location": "",
+        "point_id": "9n26bgy",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676442,
+          35.617446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n270le-1767995807003.jpg",
+        "location": "",
+        "point_id": "9n270le",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676425,
+          35.617445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n27n6w-1767995839679.jpg",
+        "location": "",
+        "point_id": "9n27n6w",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676118,
+          35.61865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n28nqh-1767995884838.jpg",
+        "location": "",
+        "point_id": "9n28nqh",
+        "point_name": "餐厅前",
+        "remark": "根据动漫取景定位"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676148,
+          35.618666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n29mlg-1767995927152.jpg",
+        "location": "",
+        "point_id": "9n29mlg",
+        "point_name": "餐厅前",
+        "remark": "根据动漫取景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676715,
+          35.616338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2avfa-1767995987766.jpg",
+        "location": "",
+        "point_id": "9n2avfa",
+        "point_name": "dvd前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676362,
+          35.617348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2du2v-1767996122850.jpg",
+        "location": "",
+        "point_id": "9n2du2v",
+        "point_name": "车站前",
+        "remark": "根据后面的红绿灯走向，还有有凹陷的房子，以及路灯"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676363,
+          35.617339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2gjrx-1767996252416.jpg",
+        "location": "",
+        "point_id": "9n2gjrx",
+        "point_name": "车站前",
+        "remark": "向北"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676406,
+          35.617312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2hgw7-1767996292948.jpg",
+        "location": "",
+        "point_id": "9n2hgw7",
+        "point_name": "车站前",
+        "remark": "向南"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675343,
+          35.618327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2q7so-1767996702545.jpg",
+        "location": "",
+        "point_id": "9n2q7so",
+        "point_name": "fuj银行人行道路口",
+        "remark": "可以看见建筑元素基本都符合，除了被拆了的，还有银行在右面，后面还有凸起的建筑，基本符合"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676374,
+          35.617323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2fiit-1767996220601.jpg",
+        "location": "",
+        "point_id": "9n2fiit",
+        "point_name": "车站前",
+        "remark": "向南拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675455,
+          35.618359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2stg2-1767996822138.jpg",
+        "location": "",
+        "point_id": "9n2stg2",
+        "point_name": "人行道",
+        "remark": "根据动漫向右"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675148,
+          35.618534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2we7v-1767997004515.jpg",
+        "location": "",
+        "point_id": "9n2we7v",
+        "point_name": "人行道",
+        "remark": "根据动漫来的，但现实房子都没了，根本找不到"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676181,
+          35.618456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2z2wn-1767997127943.jpg",
+        "location": "",
+        "point_id": "9n2z2wn",
+        "point_name": "餐厅对面",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.674688,
+          35.618011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n38y0z-1767997589800.jpg",
+        "location": "",
+        "point_id": "9n38y0z",
+        "point_name": "天桥",
+        "remark": "根据动漫取景，上下都是一个方向，南面的天桥没有禁止的标识，北面的楼房高度不够，但这个天桥的取景不满足动漫的前后文，只能一半正确，各位可以找一找一定正确的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675526,
+          35.618384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195816,
+        "bangumi_title": "GAMERS电玩咖",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195816/points/9n2tmix-1767996873805.jpg",
+        "location": "",
+        "point_id": "9n2tmix",
+        "point_name": "人行道",
+        "remark": "现实不太符合，但动漫走向符合"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

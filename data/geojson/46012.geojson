@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.511059,
+          48.635094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46012,
+        "bangumi_title": "黑塔利亚 第5期",
+        "ep_cut": "15",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/46012/points/nre6nai8x-1725175512451.jpg",
+        "location": "",
+        "point_id": "nre6nai8x",
+        "point_name": "Mont-Saint-Michel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          27.886987,
+          58.038813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46012,
+        "bangumi_title": "黑塔利亚 第5期",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/46012/points/nrgceohry-1725180209185.jpg",
+        "location": "",
+        "point_id": "nrgceohry",
+        "point_name": "Чудском озере",
+        "remark": "诺夫哥罗德共和国与条顿骑士团在1242年4月5日于楚德湖上爆发的战役"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

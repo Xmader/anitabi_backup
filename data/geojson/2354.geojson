@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          131.881553,
+          43.111832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2354,
+        "bangumi_title": "DARKER THAN BLACK -流星的双子-",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2354/points/f03w1i5-1779668709691.jpg",
+        "location": "",
+        "point_id": "f03w1i5",
+        "point_name": "Железнодорожный вокзал",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.890106,
+          43.113559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2354,
+        "bangumi_title": "DARKER THAN BLACK -流星的双子-",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/2354/f04br7w_1779711907998_c16v9.jpg",
+        "location": "",
+        "point_id": "f04br7w",
+        "point_name": "Корабельная набережная",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

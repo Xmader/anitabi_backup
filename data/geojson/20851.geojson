@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.995515,
+          36.575333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/20851/points/qff5kle58-1732700718476.jpg",
+        "location": "",
+        "point_id": "qff5kle58",
+        "point_name": "庄川合口ダム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.92864,
+          36.588656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/20851/points/qgctstvj2-1732773969559.jpg",
+        "location": "",
+        "point_id": "qgctstvj2",
+        "point_name": "旧富山県立農学校本館(巌浄閣)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.987878,
+          36.55928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/20851/points/qgdc3045l-1732775135648.jpg",
+        "location": "",
+        "point_id": "qgdc3045l",
+        "point_name": "散居村展望広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.385722,
+          36.800155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": "OVA1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/20851/points/qgdux6a0w-1732776146030.jpg",
+        "location": "",
+        "point_id": "qgdux6a0w",
+        "point_name": "ミラージュ​ランド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.01347,
+          36.57524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/20851/points/qgel758av-1732777797984.jpg",
+        "location": "",
+        "point_id": "qgel758av",
+        "point_name": "隠尾八幡宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.923159,
+          36.588557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/20851/qgq336k4o_1732802710924.jpg",
+        "location": "",
+        "point_id": "qgq336k4o",
+        "point_name": "福野駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.923034,
+          36.592313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20851,
+        "bangumi_title": "Another",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/20851/qgq4dqm0a_1732802807652.jpg",
+        "location": "",
+        "point_id": "qgq4dqm0a",
+        "point_name": "田中町交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

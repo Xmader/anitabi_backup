@@ -1,0 +1,2605 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.314041,
+          35.859213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/290980/points/9ch82ds1i-1738230568037.jpg",
+        "location": "",
+        "point_id": "9ch82ds1i",
+        "point_name": "市立図書館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.320077,
+          35.851192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/cbeddcca_1733160164719.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "cbeddcca",
+        "point_name": "11-01_飯能駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.347719,
+          35.838335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/ab1d07cd_1733160229829.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "ab1d07cd",
+        "point_name": "11-02_上橋から見た西武池袋沿線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700662,
+          35.688549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/935b3e24_1733160250373.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "935b3e24",
+        "point_name": "11-03_バスタ新宿4F待合室",
+        "remark": "shinjuku-busterminal.co.jp"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.933984,
+          35.300476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/1cc3c7c4_1733160428491.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "1cc3c7c4",
+        "point_name": "11-04_御殿場駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.933837,
+          35.300144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/896fb5bd_1733160440947.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "896fb5bd",
+        "point_name": "11-05_御殿場駅バス乗り場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.933503,
+          35.300087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/80d1dd6e_1733160462435.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "80d1dd6e",
+        "point_name": "11-06_交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.870559,
+          35.361141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/4d225c34_1733160479074.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "4d225c34",
+        "point_name": "11-07_JAふじ伊豆 須走支店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.862933,
+          35.361857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/3c70a231_1733160492060.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "3c70a231",
+        "point_name": "11-08_冨士浅間神社の鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.79327,
+          35.366079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/6cedc798_1733160509845.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "6cedc798",
+        "point_name": "11-09_狩休バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.778705,
+          35.365709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/19e7af58_1733160525963.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "19e7af58",
+        "point_name": "11-10_須走口五合目バス停",
+        "remark": "登山须知https://www.fujisan-climb.jp/for-every-climber.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.778391,
+          35.366244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/e7a10c59_1733160538637.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "e7a10c59",
+        "point_name": "11-11_山荘 菊屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.777323,
+          35.368185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/299bafd5_1733160553686.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "299bafd5",
+        "point_name": "11-12_古御岳神社",
+        "remark": "www.fujisan-jinja.com"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.777236,
+          35.368274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/290980/1686065d_1733160626198.jpg",
+        "location": "11話（富士登山パートから）",
+        "point_id": "1686065d",
+        "point_name": "11-13_古御岳神社脇の側道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.77684,
+          35.36843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/e89bcb66_1733160744385.jpg",
+        "location": "12話",
+        "point_id": "e89bcb66",
+        "point_name": "12-01_標高2000mの標識",
+        "remark": "修正版で追加"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.77654,
+          35.36854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/aca7e9ef_1733160762103.jpg",
+        "location": "12話",
+        "point_id": "aca7e9ef",
+        "point_name": "12-02_須走ルート五合目登山道",
+        "remark": "修正版で追加"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.772729,
+          35.368791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/fced377d_1733160779617.jpg",
+        "location": "12話",
+        "point_id": "fced377d",
+        "point_name": "12-03_須走ルート五合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.772463,
+          35.368828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/6c04aa5d_1733160806584.jpg",
+        "location": "12話",
+        "point_id": "6c04aa5d",
+        "point_name": "12-04_須走ルート五合目の腕木標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.77064,
+          35.36933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/e3c94da3_1733160828001.jpg",
+        "location": "12話",
+        "point_id": "e3c94da3",
+        "point_name": "12-05_須走ルート五合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.76465,
+          35.36957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/bc2cb648_1733161058038.jpg",
+        "location": "12話",
+        "point_id": "bc2cb648",
+        "point_name": "12-06_休憩していた岩場",
+        "remark": "修正版で追加"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.763434,
+          35.369582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/250e06bd_1733161071855.jpg",
+        "location": "12話",
+        "point_id": "250e06bd",
+        "point_name": "12-07_須走ルート五合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.76195,
+          35.370011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/31eb3610_1733161109130.jpg",
+        "location": "12話",
+        "point_id": "31eb3610",
+        "point_name": "12-08_須走ルート五合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.761509,
+          35.369849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/2212a0cf_1733161141237.jpg",
+        "location": "12話",
+        "point_id": "2212a0cf",
+        "point_name": "12-09_長田山荘",
+        "remark": "https://fujisan-osada.com/ 富士山須走口六合目\n（海拔2400m）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.76145,
+          35.369948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/9b01b4bb_1733161954747.jpg",
+        "location": "12話",
+        "point_id": "9b01b4bb",
+        "point_name": "12-10_長田山荘脇の側道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.759116,
+          35.369443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/7fbdbda9_1733161972834.jpg",
+        "location": "12話",
+        "point_id": "7fbdbda9",
+        "point_name": "12-11_須走ルート六合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.758761,
+          35.369332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/c3fc9c7b_1733161988126.jpg",
+        "location": "12話",
+        "point_id": "c3fc9c7b",
+        "point_name": "12-12_須走ルート六合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.758677,
+          35.36929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/75173d07_1733161999920.jpg",
+        "location": "12話",
+        "point_id": "75173d07",
+        "point_name": "12-13_須走ルート六合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.756753,
+          35.369781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/cd36467d_1733162013489.jpg",
+        "location": "12話",
+        "point_id": "cd36467d",
+        "point_name": "12-14_瀬戸館付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.756472,
+          35.369656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/71cd172a_1733162028463.jpg",
+        "location": "12話",
+        "point_id": "71cd172a",
+        "point_name": "12-15_瀬戸館",
+        "remark": "https://fujisan-setokan.com/ 富士山須走口本六合目（海拔2630m）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.753827,
+          35.369608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/b5f979d8_1733162189617.jpg",
+        "location": "12話",
+        "point_id": "b5f979d8",
+        "point_name": "12-16_須走ルート六合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.753106,
+          35.369554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/1e7c0e5e_1733162206424.jpg",
+        "location": "12話",
+        "point_id": "1e7c0e5e",
+        "point_name": "12-17_須走ルート六合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.750706,
+          35.369942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/7d5919bd_1733162267266.jpg",
+        "location": "12話",
+        "point_id": "7d5919bd",
+        "point_name": "12-18_須走ルート七合目への標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.749649,
+          35.369949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/28a5b43e_1733162282657.jpg",
+        "location": "12話",
+        "point_id": "28a5b43e",
+        "point_name": "12-19_大陽館付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.749309,
+          35.369528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/7fb7925f_1733162295489.jpg",
+        "location": "12話",
+        "point_id": "7fb7925f",
+        "point_name": "12-20_大陽館",
+        "remark": "090-3158-6624（海拔2930m）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.748444,
+          35.368927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/412fe62e_1733162459380.jpg",
+        "location": "12話",
+        "point_id": "412fe62e",
+        "point_name": "12-21_須走ルート七合目の腕木標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.748487,
+          35.3689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/6c71ca4b_1733162475655.jpg",
+        "location": "12話",
+        "point_id": "6c71ca4b",
+        "point_name": "12-22_須走ルート七合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.745864,
+          35.369081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/6c2aa38c_1733162489192.jpg",
+        "location": "12話",
+        "point_id": "6c2aa38c",
+        "point_name": "12-23_須走ルート七合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.745629,
+          35.369045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/463da71a_1733162509377.jpg",
+        "location": "12話",
+        "point_id": "463da71a",
+        "point_name": "12-24_須走ルート七合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.745734,
+          35.369147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/95d204fa_1733162544840.jpg",
+        "location": "12話",
+        "point_id": "95d204fa",
+        "point_name": "12-25_須走ルート本七合目への標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74559,
+          35.368996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/67bf3e26_1733162562617.jpg",
+        "location": "12話",
+        "point_id": "67bf3e26",
+        "point_name": "12-26_見晴館まであと５分の看板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.744924,
+          35.369143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/243472b9_1733162634803.jpg",
+        "location": "12話",
+        "point_id": "243472b9",
+        "point_name": "12-27_見晴館付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.744548,
+          35.369033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/e658d24b_1733162650762.jpg",
+        "location": "12話",
+        "point_id": "e658d24b",
+        "point_name": "12-28_見晴館付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74435,
+          35.369079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/eb6fbaac_1733162667954.jpg",
+        "location": "12話",
+        "point_id": "eb6fbaac",
+        "point_name": "12-29_見晴館",
+        "remark": "https://miharashi-kan.com/ 富士山須走口本七合目（海拔3200m）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74112,
+          35.36991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/290980/6e0495f3_1733162820862.jpg",
+        "location": "12話",
+        "point_id": "6e0495f3",
+        "point_name": "12-30_八合目登山道の標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741156,
+          35.369447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/0e05a944_1733162833016.jpg",
+        "location": "12話",
+        "point_id": "0e05a944",
+        "point_name": "12-31_須走口八合目 江戸屋",
+        "remark": "https://fujisan-edoya.com/edoya2/ (下江戸屋)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738964,
+          35.368845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/8e023552_1733162850866.jpg",
+        "location": "12話",
+        "point_id": "8e023552",
+        "point_name": "12-32_本八合目 胸突江戸屋",
+        "remark": "https://fujisan-edoya.com/edoya1/ (上江戸屋)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738808,
+          35.368921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/290980/0a6fee07_1733218132556.jpg",
+        "location": "12話",
+        "point_id": "0a6fee07",
+        "point_name": "12-33_本八合目登山道",
+        "remark": "吉田口与須走口汇合"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.736283,
+          35.367452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/2b945e21_1733218147453.jpg",
+        "location": "12話",
+        "point_id": "2b945e21",
+        "point_name": "12-34_本八合目登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.736312,
+          35.367605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/fabf4cc4_1733218160949.jpg",
+        "location": "12話",
+        "point_id": "fabf4cc4",
+        "point_name": "12-35_九合目への標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.735518,
+          35.367049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/290980/55ba0b2e_1733218174763.jpg",
+        "location": "12話",
+        "point_id": "55ba0b2e",
+        "point_name": "12-36_迎久須志神社付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.735094,
+          35.367042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/e380fc77_1733218188741.jpg",
+        "location": "12話",
+        "point_id": "e380fc77",
+        "point_name": "12-37_九合目 迎久須志神社",
+        "remark": "海拔3600m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733249,
+          35.365674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/290980/6176749b_1733218336780.jpg",
+        "location": "12話",
+        "point_id": "6176749b",
+        "point_name": "12-38_久須志神社付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733101,
+          35.365758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/be09f69d_1733218356484.jpg",
+        "location": "12話",
+        "point_id": "be09f69d",
+        "point_name": "12-39_久須志神社の狛犬",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733072,
+          35.365428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/e8e601d4_1733218371181.jpg",
+        "location": "12話",
+        "point_id": "e8e601d4",
+        "point_name": "12-40_富士山山頂 扇屋",
+        "remark": "海拔3720m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733341,
+          35.364998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/8f6ee96c_1733218532493.jpg",
+        "location": "12話",
+        "point_id": "8f6ee96c",
+        "point_name": "12-41_山頂共同トイレ脇",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733667,
+          35.364504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/290980/4cb96c38_1733218542325.jpg",
+        "location": "12話",
+        "point_id": "4cb96c38",
+        "point_name": "12-42_お鉢めぐりコース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733736,
+          35.364319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/1fd3f29f_1733218554398.jpg",
+        "location": "12話",
+        "point_id": "1fd3f29f",
+        "point_name": "12-43_今年もamazingのところ",
+        "remark": "場所は雰囲気"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.733994,
+          35.364065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/0f982887_1733218568613.jpg",
+        "location": "12話",
+        "point_id": "0f982887",
+        "point_name": "12-44_お鉢めぐりコース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.73306,
+          35.36044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/d5ef8422_1733218587981.jpg",
+        "location": "12話",
+        "point_id": "d5ef8422",
+        "point_name": "12-45_お鉢めぐりコース",
+        "remark": "修正版で座標位置修正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.73219,
+          35.359877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/007eb3b9_1733218600973.jpg",
+        "location": "12話",
+        "point_id": "007eb3b9",
+        "point_name": "12-46_お鉢めぐりコース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.73126,
+          35.35961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/58421115_1733218616062.jpg",
+        "location": "12話",
+        "point_id": "58421115",
+        "point_name": "12-47_頂上富士館",
+        "remark": "海拔3740m"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.731094,
+          35.359652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/cba5b8f3_1733219283265.jpg",
+        "location": "12話",
+        "point_id": "cba5b8f3",
+        "point_name": "12-48_頂上富士館付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.729282,
+          35.359864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/6a2f9c38_1733219298664.jpg",
+        "location": "12話",
+        "point_id": "6a2f9c38",
+        "point_name": "12-49_富士山火口",
+        "remark": "容易滑倒，小心脚下"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.728811,
+          35.35977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/373bb9f7_1733219450930.jpg",
+        "location": "12話",
+        "point_id": "373bb9f7",
+        "point_name": "12-50_富士気象レーダー付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.727868,
+          35.36017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/9ffb4020_1733219463441.jpg",
+        "location": "12話",
+        "point_id": "9ffb4020",
+        "point_name": "12-51_富士気象レーダー付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.727631,
+          35.360495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/9c2a2112_1733219480634.jpg",
+        "location": "12話",
+        "point_id": "9c2a2112",
+        "point_name": "12-52_富士気象レーダー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.727328,
+          35.360632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/34ee12c3_1733219530833.jpg",
+        "location": "12話",
+        "point_id": "34ee12c3",
+        "point_name": "12-53_日本最高峰富士山剣ヶ峯の石柱",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.731192,
+          35.359597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/93ec3d8f_1733219545225.jpg",
+        "location": "12話",
+        "point_id": "93ec3d8f",
+        "point_name": "12-54_富士山頂上 浅間大社奥宮",
+        "remark": "奥宮の例大祭は8月15日に行われる"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.731132,
+          35.359695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/13e9d3ed_1733219662059.jpg",
+        "location": "12話",
+        "point_id": "13e9d3ed",
+        "point_name": "12-55_富士山頂郵便局",
+        "remark": "https://map.japanpost.jp/p/search/dtl/300123999000/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.731792,
+          35.360014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/57cf4d0e_1733219874722.jpg",
+        "location": "12話",
+        "point_id": "57cf4d0e",
+        "point_name": "12-56_御殿場ルート下山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.731894,
+          35.359502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/de1527c8_1733219888810.jpg",
+        "location": "12話",
+        "point_id": "de1527c8",
+        "point_name": "12-57_御殿場ルート下山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.734365,
+          35.357518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/0621f1b7_1733219903283.jpg",
+        "location": "12話",
+        "point_id": "0621f1b7",
+        "point_name": "12-58_御殿場ルート下山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.76994,
+          35.30523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/5d5f2fd1_1733219982865.jpg",
+        "location": "12話",
+        "point_id": "5d5f2fd1",
+        "point_name": "12-59_宝永山遠景",
+        "remark": "修正版で追加"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74983,
+          35.34841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/0bc948e8_1733219998049.jpg",
+        "location": "12話",
+        "point_id": "0bc948e8",
+        "point_name": "12-60_宝永山 馬の背",
+        "remark": "修正版で座標位置修正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.752068,
+          35.343634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/36df5684_1733220010441.jpg",
+        "location": "12話",
+        "point_id": "36df5684",
+        "point_name": "12-61_宝永山 山頂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74523,
+          35.354115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/727ece54_1733220110090.jpg",
+        "location": "12話",
+        "point_id": "727ece54",
+        "point_name": "12-62_大砂走りの標識",
+        "remark": "修正版で追加"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.76686,
+          35.3436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/0cd5d572_1733220394324.jpg",
+        "location": "12話",
+        "point_id": "0cd5d572",
+        "point_name": "12-63_御殿場ルート下山道",
+        "remark": "修正版で座標位置修正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.794691,
+          35.335801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/58cf6750_1733220419282.jpg",
+        "location": "12話",
+        "point_id": "58cf6750",
+        "point_name": "12-64_御殿場ルート登山口",
+        "remark": "御殿場口新五合目"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.643048,
+          36.287402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/dcb7654b_1733220749990.jpg",
+        "location": "12話其他",
+        "point_id": "dcb7654b",
+        "point_name": "12-65_穂高岳ジャンダルム",
+        "remark": "修正版で追加"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.20697,
+          36.70196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/7f05911f_1733220772965.jpg",
+        "location": "12話其他",
+        "point_id": "7f05911f",
+        "point_name": "12-66_片品川吹割瀑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.310799,
+          35.854064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/93339bcb_1733220805637.jpg",
+        "location": "12話其他",
+        "point_id": "93339bcb",
+        "point_name": "12-67_割岩橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.308345,
+          35.861983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/2c7fb5b1_1733220822870.jpg",
+        "location": "12話其他",
+        "point_id": "2c7fb5b1",
+        "point_name": "12-68_天覧山 山頂展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.309623,
+          35.85867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/290980/3c44b8c0_1733220837110.jpg",
+        "location": "12話其他",
+        "point_id": "3c44b8c0",
+        "point_name": "12-69_箕ノ口公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.17182,
+          36.553381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/62abe859_1741146960281.jpg",
+        "location": "长七郎山",
+        "point_id": "62abe859",
+        "point_name": "青木旅馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.184832,
+          36.537991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/e64de09f_1741147256019.jpg",
+        "location": "长七郎山",
+        "point_id": "e64de09f",
+        "point_name": "小沼駐車場公衆トイレ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.186667,
+          36.537889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/85d7c731_1741146988125.jpg",
+        "location": "长七郎山",
+        "point_id": "85d7c731",
+        "point_name": "路上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.18505,
+          36.537994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/29abae8a_1741147013080.jpg",
+        "location": "长七郎山",
+        "point_id": "29abae8a",
+        "point_name": "登山口1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189972,
+          36.536528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/ef2bd688_1741147027633.jpg",
+        "location": "长七郎山",
+        "point_id": "ef2bd688",
+        "point_name": "道路分叉点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.190157,
+          36.536178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/999fc62e_1741147040865.jpg",
+        "location": "长七郎山",
+        "point_id": "999fc62e",
+        "point_name": "半山腰2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.190103,
+          36.536325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/8c0a5994_1741147053960.jpg",
+        "location": "长七郎山",
+        "point_id": "8c0a5994",
+        "point_name": "半山腰1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.190146,
+          36.536136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/f58d8226_1741147067091.jpg",
+        "location": "长七郎山",
+        "point_id": "f58d8226",
+        "point_name": "半山腰3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189778,
+          36.532917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/e37f9d63_1741147078777.jpg",
+        "location": "长七郎山",
+        "point_id": "e37f9d63",
+        "point_name": "快到山顶",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189666,
+          36.532693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/460c09e6_1741147091178.jpg",
+        "location": "长七郎山",
+        "point_id": "460c09e6",
+        "point_name": "山顶1",
+        "remark": "此处路标已经消失"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.188333,
+          36.532056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/86de9396_1741147103889.jpg",
+        "location": "长七郎山",
+        "point_id": "86de9396",
+        "point_name": "賽の河原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189456,
+          36.532512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/c6ee607a_1741147117144.jpg",
+        "location": "长七郎山",
+        "point_id": "c6ee607a",
+        "point_name": "山顶2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.185694,
+          36.53325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/c99e1cfd_1741147128521.jpg",
+        "location": "长七郎山",
+        "point_id": "c99e1cfd",
+        "point_name": "小沼1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.185126,
+          36.533675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/910ae49d_1741147140841.jpg",
+        "location": "长七郎山",
+        "point_id": "910ae49d",
+        "point_name": "天竜弁財天",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.185778,
+          36.535194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/a7109b97_1741147152624.jpg",
+        "location": "长七郎山",
+        "point_id": "a7109b97",
+        "point_name": "在湖中向地藏岳看去",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.180972,
+          36.547917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/35e85827_1741147164424.jpg",
+        "location": "长七郎山",
+        "point_id": "35e85827",
+        "point_name": "大沼旁的公路边",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.184942,
+          36.537968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/df2971e2_1741147182818.jpg",
+        "location": "长七郎山",
+        "point_id": "df2971e2",
+        "point_name": "登山口2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.185339,
+          36.538138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/290980/d92a4ec4_1741147193437.jpg",
+        "location": "长七郎山",
+        "point_id": "d92a4ec4",
+        "point_name": "停车场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.106157,
+          35.974678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290980/points/2v1g4jd-1753240857496.jpg",
+        "location": "武甲山",
+        "point_id": "2v1g4jd",
+        "point_name": "武甲山脚下公路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.10574,
+          35.967037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290980/points/2v1jy8t-1753241010187.jpg",
+        "location": "武甲山",
+        "point_id": "2v1jy8t",
+        "point_name": "秩父石灰工業 武甲工場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.116225,
+          35.941805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290980/points/2v1ls4g-1753241102811.jpg",
+        "location": "武甲山",
+        "point_id": "2v1ls4g",
+        "point_name": "武甲山御嶽神社 一ノ鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.114303,
+          35.941551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290980/points/2v1o3hs-1753241176199.jpg",
+        "location": "武甲山",
+        "point_id": "2v1o3hs",
+        "point_name": "武甲山コース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.105671,
+          35.94273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290980/points/2v1u4vl-1753241462300.jpg",
+        "location": "武甲山",
+        "point_id": "2v1u4vl",
+        "point_name": "武甲山コース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.105453,
+          35.943624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vfzt3p-1753265253371.jpg",
+        "location": "武甲山",
+        "point_id": "2vfzt3p",
+        "point_name": "武甲山コース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.104719,
+          35.94436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vg11qv-1753265311882.jpg",
+        "location": "武甲山",
+        "point_id": "2vg11qv",
+        "point_name": "武甲山の不動滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.104693,
+          35.944383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vg1xoz-1753265336686.jpg",
+        "location": "武甲山",
+        "point_id": "2vg1xoz",
+        "point_name": "武甲山の不動滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.105239,
+          35.947839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vg6u0b-1753265570871.jpg",
+        "location": "武甲山",
+        "point_id": "2vg6u0b",
+        "point_name": "大杉の広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097872,
+          35.950943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vg8rdb-1753265655632.jpg",
+        "location": "武甲山",
+        "point_id": "2vg8rdb",
+        "point_name": "五十一丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097766,
+          35.951145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vg9pc8-1753265704142.jpg",
+        "location": "武甲山",
+        "point_id": "2vg9pc8",
+        "point_name": "武甲山御嶽神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097697,
+          35.951142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vgaovf-1753265750205.jpg",
+        "location": "武甲山",
+        "point_id": "2vgaovf",
+        "point_name": "武甲山御嶽神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097829,
+          35.951139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vgbarg-1753265775437.jpg",
+        "location": "武甲山",
+        "point_id": "2vgbarg",
+        "point_name": "武甲山御嶽神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097728,
+          35.951645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vgcsoq-1753265854798.jpg",
+        "location": "武甲山",
+        "point_id": "2vgcsoq",
+        "point_name": "武甲山第一展望所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097764,
+          35.951705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vgdxz8-1753265901369.jpg",
+        "location": "武甲山",
+        "point_id": "2vgdxz8",
+        "point_name": "武甲山第一展望所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097571,
+          35.951847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vgfd9h-1753266009651.jpg",
+        "location": "武甲山",
+        "point_id": "2vgfd9h",
+        "point_name": "武甲山展望所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097592,
+          35.951842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vggw9s-1753266039925.jpg",
+        "location": "武甲山",
+        "point_id": "2vggw9s",
+        "point_name": "武甲山展望所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097576,
+          35.951831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2190/bangumi/290980/points/2vghfw2-1753266063472.jpg",
+        "location": "武甲山",
+        "point_id": "2vghfw2",
+        "point_name": "武甲山展望所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748908,
+          35.664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/290980/points/6pwtkjr-1761638006139.jpg",
+        "location": "",
+        "point_id": "6pwtkjr",
+        "point_name": "愛宕神社 隧道",
+        "remark": "右侧工事在修"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749244,
+          35.664638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/290980/points/6px9t3n-1761638762541.jpg",
+        "location": "",
+        "point_id": "6px9t3n",
+        "point_name": "愛宕神社 鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748782,
+          35.664708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/290980/points/6py8xfc-1761640269750.jpg",
+        "location": "",
+        "point_id": "6py8xfc",
+        "point_name": "愛宕神社 一の鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748602,
+          35.664733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/290980/points/6pxzdpi-1761640072526.jpg",
+        "location": "",
+        "point_id": "6pxzdpi",
+        "point_name": "愛宕神社 社殿前（丹塗りの門）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.747688,
+          35.66449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w363zv-1762011339953.jpg",
+        "location": "",
+        "point_id": "6w363zv",
+        "point_name": "虎ノ門MTビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748253,
+          35.664495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w3evbt-1762012150400.jpg",
+        "location": "",
+        "point_id": "6w3evbt",
+        "point_name": "愛宕新坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748506,
+          35.66404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w3za8g-1762012710726.jpg",
+        "location": "",
+        "point_id": "6w3za8g",
+        "point_name": "愛宕山エレベーター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.747864,
+          35.667445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w43urw-1762012920927.jpg",
+        "location": "",
+        "point_id": "6w43urw",
+        "point_name": "虎ノ門ヒルズ駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749002,
+          35.667508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w46eem-1762012987047.jpg",
+        "location": "",
+        "point_id": "6w46eem",
+        "point_name": "虎ノ門ヒルズ駅",
+        "remark": "此点位位于地下通道内，站在转角处向北边看去"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745459,
+          35.663193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w4a2fi-1762013175510.jpg",
+        "location": "",
+        "point_id": "6w4a2fi",
+        "point_name": "神谷町駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74858,
+          35.664662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2202/bangumi/290980/points/6w4ct5o-1762013290732.jpg",
+        "location": "",
+        "point_id": "6w4ct5o",
+        "point_name": "将軍梅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

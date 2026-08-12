@@ -1,0 +1,625 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.483602,
+          35.308708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/33255/points/4uicgsu3m-1724997219674.jpg",
+        "location": "",
+        "point_id": "4uicgsu3m",
+        "point_name": "江ノ島に到着したハル",
+        "remark": "1話：ハルが金魚鉢を頭に載せて金魚と会話している場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480222,
+          35.309095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/33255/points/4uicgsum2-1724997428114.jpg",
+        "location": "",
+        "point_id": "4uicgsum2",
+        "point_name": "水族館の魚を集めるハル",
+        "remark": "1話：ハルが水族館の魚を集める前に写った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483216,
+          35.307723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/33255/points/4uicgsun8-1724997491265.jpg",
+        "location": "",
+        "point_id": "4uicgsun8",
+        "point_name": "金魚鉢を載せて歩くハル",
+        "remark": "1話：ハルが水族館を出た後、金魚鉢を頭に乗せながら歩いてる場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483744,
+          35.306882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsunh",
+        "point_name": "金魚鉢を載せて歩くハル",
+        "remark": "1話：ハルが金魚鉢を頭に乗せて。金魚と話しながら歩いてる場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482767,
+          35.305725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsu7n",
+        "point_name": "金魚鉢を載せて歩くハル",
+        "remark": "1話：ハルが金魚鉢を頭に乗せて。金魚と話しながら歩いてる場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479718,
+          35.300378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsv7r",
+        "point_name": "神社で踊りを見るハル",
+        "remark": "1話：ハルが神社で老人達が踊っている姿を見た場所。3話：アキラが神社で老人達が踊っている姿を見た場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482258,
+          35.301362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsv7k",
+        "point_name": "登校初日のユキ",
+        "remark": "1話：ユキが初めて登校する時に写った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479827,
+          35.299196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsuzr",
+        "point_name": "グルグル回るハル",
+        "remark": "1話：ハルが「スカイツリー」と叫びながら回っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478474,
+          35.299753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsuz1",
+        "point_name": "双眼鏡でハルを見る、アキラとタピオカ",
+        "remark": "1話：アキラがタピオカを抱えて、双眼鏡でハルとケイトが話している所を見ている場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487279,
+          35.311122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/33255/points/4uicgsv5l-1732257513113.jpg",
+        "location": "",
+        "point_id": "4uicgsv5l",
+        "point_name": "登校初日のユキ",
+        "remark": "1話：ユキが電車に乗っているシーンの前に写った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500998,
+          35.306712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsv5r",
+        "point_name": "うなだれて電車を降りたユキ",
+        "remark": "1話：ユキが電車の中で、変な顔を見られてしまい、うなだれながら電車を降りた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480581,
+          35.305314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsv80",
+        "point_name": "ユキたちの釣り場所",
+        "remark": "ユキたちが釣りをしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.47974,
+          35.299376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsv77",
+        "point_name": "ケイトの花畑",
+        "remark": "ケイトが花を世話していた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478167,
+          35.310391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsv2r",
+        "point_name": "バケツで特訓",
+        "remark": "2話：ハルが、浜辺でココと話しながら釣りをしていた場所。3話：ユキとハルがバケツにルアーを入れる特訓をしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481494,
+          35.302903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvh9",
+        "point_name": "バケツ特訓から帰るユキ達",
+        "remark": "3話：ユキ達が、バケツでの特訓を終えて帰っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48107,
+          35.302109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsviq",
+        "point_name": "ユキとハルと別れる夏樹",
+        "remark": "3話：夏樹が、家に帰るためにユキとハルと別れた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479817,
+          35.29905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsuzp",
+        "point_name": "アキラの家と、しらすカレー",
+        "remark": "しらすカレーを売っていた店で、アキラの家。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482508,
+          35.307756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvac",
+        "point_name": "諦めるように促されるハル",
+        "remark": "3話：ハルが、ココにユキは諦めるように促されていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482097,
+          35.304218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvjw",
+        "point_name": "声を上げて走る夏樹",
+        "remark": "3話：夏樹が、声を上げて走っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481737,
+          35.306946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvgz",
+        "point_name": "カッコイイと言われて叫ぶ歩",
+        "remark": "4話：歩が、海咲にカッコイイと言われて叫んでいた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484077,
+          35.307381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/33255/4uicgsvlx.jpg",
+        "location": "",
+        "point_id": "4uicgsvlx",
+        "point_name": "釣りをしないハル",
+        "remark": "7話：ユキと夏樹とアキラが、釣りをしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48405,
+          35.307246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/33255/4uicgsvqy.jpg",
+        "location": "",
+        "point_id": "4uicgsvqy",
+        "point_name": "釣りをしないハル",
+        "remark": "7話：ハルがリフティングとけん玉をしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484281,
+          35.307681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/33255/4uicgsvxw.jpg",
+        "location": "",
+        "point_id": "4uicgsvxw",
+        "point_name": "釣りをしないハル",
+        "remark": "7話：ユキと夏樹とアキラが、釣りをしていた時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480802,
+          35.299337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvrp",
+        "point_name": "言いかけて止めるハル",
+        "remark": "8話：ハルが、ユキに何かを言おうとして止めた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480362,
+          35.300694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvl9",
+        "point_name": "さくらを探して走る夏樹",
+        "remark": "8話：夏樹が、さくらを探して走っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.474971,
+          35.298735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsw8u",
+        "point_name": "バミューダシンドロームについて話すアキラとハル",
+        "remark": "8話：アキラが、ハルとココとバミューダシンドロームについて話をしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.475483,
+          35.298334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsw86",
+        "point_name": "バミューダシンドロームについて話すアキラとハル",
+        "remark": "8話：アキラが、ハルとココとバミューダシンドロームについて話をしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482921,
+          35.299764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/33255/4uicgsvs0.jpg",
+        "location": "",
+        "point_id": "4uicgsvs0",
+        "point_name": "江ノ島を走るダックの装甲車",
+        "remark": "9話：ダックの装甲車が、江ノ島の道路を走っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.474917,
+          35.298496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicgsvrl",
+        "point_name": "”あいつ”について話すハルとココ",
+        "remark": "9話：ハルとココが、\"あいつ\"のことを話していた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.884681,
+          35.170772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/33255/4uicgsw5e.jpg",
+        "location": "",
+        "point_id": "4uicgsw5e",
+        "point_name": "操られて名古屋",
+        "remark": "9話：ユキとケイトが、ハルに操られて名古屋に行った時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.880996,
+          35.169849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 33255,
+        "bangumi_title": "钓球",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/33255/4uicgsw9a.jpg",
+        "location": "",
+        "point_id": "4uicgsw9a",
+        "point_name": "操られて名古屋",
+        "remark": "9話：ユキとケイトが、名古屋でミソカツを食べた場所。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

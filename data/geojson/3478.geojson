@@ -1,0 +1,205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          9.190481,
+          45.46455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/12widqc-1749362726618.jpg",
+        "location": "",
+        "point_id": "12widqc",
+        "point_name": "Duomo di Milano",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.087681,
+          51.508032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/135irmg-1749377833122.jpg",
+        "location": "",
+        "point_id": "135irmg",
+        "point_name": "London Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.121777,
+          51.500859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/135nkhp-1749378052747.jpg",
+        "location": "",
+        "point_id": "135nkhp",
+        "point_name": "Westminster Bridge",
+        "remark": "右侧钟塔为伊丽莎白塔（大本钟），左侧为威斯敏斯特宫"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.352096,
+          50.846661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/1363yro-1749378814689.jpg",
+        "location": "",
+        "point_id": "1363yro",
+        "point_name": "Brussel City Hall",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.348655,
+          50.841164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/1365u4v-1749378914072.jpg",
+        "location": "",
+        "point_id": "1365u4v",
+        "point_name": "Gare de Bruxelles-Midi",
+        "remark": "TGV（欧洲之星）终点站比利时布鲁塞尔南站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.135802,
+          29.980529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/136gaqj-1749379414384.jpg",
+        "location": "",
+        "point_id": "136gaqj",
+        "point_name": "Memphis and its Necropolis - the Pyramid Fields from Giza to Dahshur",
+        "remark": "最大那座为胡夫金字塔"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.259727,
+          30.028985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/136o6dh-1749379754987.jpg",
+        "location": "",
+        "point_id": "136o6dh",
+        "point_name": "قلعة صلاح الدين الأيوبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.190005,
+          45.466969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/3478/points/1379p1b-1749380764126.jpg",
+        "location": "",
+        "point_id": "1379p1b",
+        "point_name": "Statua di Leonardo da Vinci",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.333688,
+          48.851694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/137xj8v-1749381891160.jpg",
+        "location": "",
+        "point_id": "137xj8v",
+        "point_name": "Santa Lucia",
+        "remark": "已永久停业，可根据旁边22号门牌定位"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.301097,
+          48.87702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3478,
+        "bangumi_title": "交响情人梦Finale",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/137hks4-1749381150476.jpg",
+        "location": "",
+        "point_id": "106ft818r6",
+        "point_name": "Salle Pleyel",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

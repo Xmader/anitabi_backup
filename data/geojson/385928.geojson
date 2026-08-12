@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.569119,
+          35.623426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2uzo3whu_1728895232548.jpg",
+        "location": "",
+        "point_id": "p2uzo3whu",
+        "point_name": "稲田多摩川公園",
+        "remark": "前方 多摩水道桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.568162,
+          35.6243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2v7bkgrm_1728895764197.jpg",
+        "location": "",
+        "point_id": "p2v7bkgrm",
+        "point_name": "多摩水道橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.570431,
+          35.626182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2vcbysf6_1728895961843.jpg",
+        "location": "",
+        "point_id": "p2vcbysf6",
+        "point_name": "多摩水道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.573224,
+          35.627063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2ut57p1c_1728894793998.jpg",
+        "location": "",
+        "point_id": "p2ut57p1c",
+        "point_name": "和泉多摩川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.570412,
+          35.62619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2vwix2cu_1728897182551.jpg",
+        "location": "",
+        "point_id": "p2vwix2cu",
+        "point_name": "多摩水道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.56819,
+          35.624317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2vxhlvv7_1728897290320.jpg",
+        "location": "",
+        "point_id": "p2vxhlvv7",
+        "point_name": "多摩水道橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.569144,
+          35.623442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2vz1atvo_1728897381044.jpg",
+        "location": "",
+        "point_id": "p2vz1atvo",
+        "point_name": "稲田多摩川公園 夜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.571241,
+          35.625521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385928,
+        "bangumi_title": "BanG Dream! Morfonication",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/385928/p2xt7vpcl_1728901356992.jpg",
+        "location": "",
+        "point_id": "p2xt7vpcl",
+        "point_name": "和泉多摩川河川敷",
+        "remark": "合宿四人放烟花的地方"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

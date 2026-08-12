@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.779231,
+          34.998543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198962,
+        "bangumi_title": "名侦探柯南 殷红的恋歌",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/198962/points/nu2tux89j-1725385882244.jpg",
+        "location": "",
+        "point_id": "nu2tux89j",
+        "point_name": "​八坂​の​塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.520168,
+          34.683909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198962,
+        "bangumi_title": "名侦探柯南 殷红的恋歌",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/198962/points/nu2wtutob-1725386033113.jpg",
+        "location": "",
+        "point_id": "nu2wtutob",
+        "point_name": "大阪府警察本部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.532148,
+          34.690538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198962,
+        "bangumi_title": "名侦探柯南 殷红的恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/198962/points/hh8rlli-1785058574465.webp",
+        "location": "",
+        "point_id": "hh8rlli",
+        "point_name": "ホテルニューオータニ 大阪",
+        "remark": "通过酒店官网和剧场版外观比对大致相似，但是如果要拍全可能需要过桥到对岸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.534253,
+          34.690229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198962,
+        "bangumi_title": "名侦探柯南 殷红的恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/198962/points/hh9mt2y-1785059788909.webp",
+        "location": "",
+        "point_id": "hh9mt2y",
+        "point_name": "1-chōme-4 Shiromi, Chuo Ward, Osaka, 540-0001 附近",
+        "remark": "车队在开出地库后第一个停留的路口等待红绿灯，随后发生爆炸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.531577,
+          34.690738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198962,
+        "bangumi_title": "名侦探柯南 殷红的恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/198962/points/hhb4gxc-1785062350924.webp",
+        "location": "",
+        "point_id": "hhb4gxc",
+        "point_name": "読売テレビ放送株式会社",
+        "remark": "开头被炸掉的日卖新闻大楼"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

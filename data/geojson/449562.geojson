@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.472719,
+          40.599563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449562,
+        "bangumi_title": "老夫老妻重返青春",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/449562/points/nyx0vkdv1-1725765116102.jpg",
+        "location": "",
+        "point_id": "nyx0vkdv1",
+        "point_name": "中央弘前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

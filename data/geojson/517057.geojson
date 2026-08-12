@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700538,
+          35.659443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/acnk5nh-1769543429620.jpg",
+        "location": "",
+        "point_id": "acnk5nh",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708634,
+          35.636076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/acnqxqr-1769543665638.jpg",
+        "location": "",
+        "point_id": "acnqxqr",
+        "point_name": "田道広場公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714017,
+          35.640222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/acnuzh0-1769543892257.jpg",
+        "location": "",
+        "point_id": "acnuzh0",
+        "point_name": "三田丘の上公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735202,
+          35.671572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/aco69ie-1769544393630.jpg",
+        "location": "",
+        "point_id": "aco69ie",
+        "point_name": "(株)TBSホールディングス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735802,
+          35.692118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/acocsw2-1769544684911.jpg",
+        "location": "",
+        "point_id": "acocsw2",
+        "point_name": "市ヶ谷フィッシュセンター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791583,
+          35.633828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/ad5znzs-1769574308638.jpg",
+        "location": "",
+        "point_id": "ad5znzs",
+        "point_name": "国際展示場駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795228,
+          35.627322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 517057,
+        "bangumi_title": "【我推的孩子】 第三季",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2192/bangumi/517057/points/ad629ou-1769574441143.jpg",
+        "location": "",
+        "point_id": "ad629ou",
+        "point_name": "東京ビッグサイト　南展示棟2F",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

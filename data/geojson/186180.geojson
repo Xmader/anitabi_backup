@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.557249,
+          29.569674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzsw0hwz_1724125441015.jpg",
+        "location": "",
+        "point_id": "ndzsw0hwz",
+        "point_name": "重庆市",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.510673,
+          29.51194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzuf7fdi_1724125526224.jpg",
+        "location": "",
+        "point_id": "ndzuf7fdi",
+        "point_name": "杨家坪",
+        "remark": "Yangjiaping"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.575531,
+          29.565138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzuzasnq_1724125558672.jpg",
+        "location": "",
+        "point_id": "ndzuzasnq",
+        "point_name": "洪崖洞",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.577578,
+          29.57277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzv8jxo7_1724125575508.jpg",
+        "location": "",
+        "point_id": "ndzv8jxo7",
+        "point_name": "重庆大剧院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.573378,
+          29.560649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzvjt64u_1724125594350.jpg",
+        "location": "",
+        "point_id": "ndzvjt64u",
+        "point_name": "解放碑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.573378,
+          29.560649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzvpk8p1_1724125605064.jpg",
+        "location": "",
+        "point_id": "ndzvpk8p1",
+        "point_name": "磁器口龙门阵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.575086,
+          29.568504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzvzrk3j_1724125620053.jpg",
+        "location": "",
+        "point_id": "ndzvzrk3j",
+        "point_name": "千厮门大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.571279,
+          29.567759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186180,
+        "bangumi_title": "重神机潘多拉",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/186180/ndzw8p2o4_1724125637827.jpg",
+        "location": "",
+        "point_id": "ndzw8p2o4",
+        "point_name": "重庆火锅",
+        "remark": "位置不定"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

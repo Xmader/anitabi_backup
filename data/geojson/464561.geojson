@@ -1,0 +1,665 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.039093,
+          36.645739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/ldamfeamf-1718428410481.jpg",
+        "location": "",
+        "point_id": "ldamfeamf",
+        "point_name": "団子坂",
+        "remark": "主视觉图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.039637,
+          36.646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/464561/m4wurc9so_1720592705606.jpg",
+        "location": "",
+        "point_id": "m4wurc9so",
+        "point_name": "さとう美容室前階梯",
+        "remark": "菜なれ花なれティザービジュアル イメージ地\n（谷歌地图地点）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.005358,
+          36.327869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/464561/m4x2pcbci_1720593122304.jpg",
+        "location": "",
+        "point_id": "m4x2pcbci",
+        "point_name": "高崎中央銀座",
+        "remark": "视觉图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.005145,
+          36.32975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/lzoefj49a-1720182462444.jpg",
+        "location": "",
+        "point_id": "lzoefj49a",
+        "point_name": "高崎中央銀座 北口",
+        "remark": "PV"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.012093,
+          36.322315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/m2k6i6pjh-1720408331170.jpg",
+        "location": "",
+        "point_id": "m2k6i6pjh",
+        "point_name": "高崎駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.012622,
+          36.315591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/m2kbfasp7-1720408619879.jpg",
+        "location": "",
+        "point_id": "m2kbfasp7",
+        "point_name": "高崎アリーナ",
+        "remark": "啦啦舞比赛群马站的主办地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.012701,
+          36.316175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/m2m278zzw-1720412420489.jpg",
+        "location": "",
+        "point_id": "m2m278zzw",
+        "point_name": "高崎アリーナ",
+        "remark": "馆内"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.987963,
+          36.319793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m4wnvgs17_1720592279668.jpg",
+        "location": "",
+        "point_id": "m4wnvgs17",
+        "point_name": "群馬県立高崎高等学校",
+        "remark": "鹰之咲高中原型，背景有改动"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.049593,
+          36.643679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m2mtk09wq_1720414097403.jpg",
+        "location": "",
+        "point_id": "m2mtk09wq",
+        "point_name": "舒林寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.050856,
+          36.64379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m2my8o93r_1720414459796.jpg",
+        "location": "",
+        "point_id": "m2my8o93r",
+        "point_name": "舒林寺",
+        "remark": "恵深家住处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.05053,
+          36.64393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m2myi8u7r_1720414486677.jpg",
+        "location": "",
+        "point_id": "m2myi8u7r",
+        "point_name": "舒林寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.039294,
+          36.643635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m4v6qxn7j_1720589032723.jpg",
+        "location": "",
+        "point_id": "m4v6qxn7j",
+        "point_name": "桜井電機商会",
+        "remark": "彼方与凉叶初遇"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.040403,
+          36.643068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m4v9hdhq5_1720589204590.jpg",
+        "location": "",
+        "point_id": "m4v9hdhq5",
+        "point_name": "滝坂 階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.040842,
+          36.643033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m4ve0r5in_1720589464029.jpg",
+        "location": "",
+        "point_id": "m4ve0r5in",
+        "point_name": "滝坂 坂道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.038537,
+          36.647952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/ntvjc4y2a-1725370040637.jpg",
+        "location": "",
+        "point_id": "ntvjc4y2a",
+        "point_name": "旧沼田町役場復元鐘楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.035825,
+          36.642564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m2pnqas6i_1720420262641.jpg",
+        "location": "",
+        "point_id": "m2pnqas6i",
+        "point_name": "沼田駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.035739,
+          36.642518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m2pv8d5mq_1720420716169.jpg",
+        "location": "",
+        "point_id": "m2pv8d5mq",
+        "point_name": "沼田駅 改札口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.060102,
+          36.646279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/464561/m4w6j3hvu_1720591185103.jpg",
+        "location": "",
+        "point_id": "m4w6j3hvu",
+        "point_name": "沼田病院",
+        "remark": "谷崎综合病院原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.095239,
+          36.39737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/maxhzdkfg-1721064239671.jpg",
+        "location": "",
+        "point_id": "maxhzdkfg",
+        "point_name": "群馬県立前橋高等学校",
+        "remark": "御前嘴高中原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.96874,
+          36.778571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n57nzcqfa_1723437289927.jpg",
+        "location": "",
+        "point_id": "n57nzcqfa",
+        "point_name": "水上駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.968539,
+          36.778869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n57p2xvpk_1723437344466.jpg",
+        "location": "",
+        "point_id": "n57p2xvpk",
+        "point_name": "まんじゅう​屋​笛木",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.973623,
+          36.759741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/lzp6nkejg_1723437429908.jpg",
+        "location": "",
+        "point_id": "lzp6nkejg",
+        "point_name": "諏訪峡大橋",
+        "remark": "PV"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.973354,
+          36.759843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n57sfcknq_1723437550649.jpg",
+        "location": "",
+        "point_id": "n57sfcknq",
+        "point_name": "諏訪峡",
+        "remark": "蹦极跳台视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.047163,
+          36.847324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n57vbox47_1723437756306.jpg",
+        "location": "",
+        "point_id": "n57vbox47",
+        "point_name": "宝川温泉 汪泉閣",
+        "remark": "温泉与旅馆均沿河而建，有吊桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.048151,
+          36.84596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n57yxzem5_1723438066330.jpg",
+        "location": "",
+        "point_id": "n57yxzem5",
+        "point_name": "摩耶の湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.047652,
+          36.846448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n581vy776_1723438208043.jpg",
+        "location": "",
+        "point_id": "n581vy776",
+        "point_name": "般若の湯",
+        "remark": "※不可以在温泉跳啦啦操"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.047585,
+          36.846246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/464561/n585usifv_1723438421223.jpg",
+        "location": "",
+        "point_id": "n585usifv",
+        "point_name": "子宝の湯",
+        "remark": "深夜幽会"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.004383,
+          36.324279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/ntumuv4lj-1725368142031.jpg",
+        "location": "",
+        "point_id": "ntumuv4lj",
+        "point_name": "高崎城跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.004103,
+          36.324134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/ntvd5znia-1725369628104.jpg",
+        "location": "",
+        "point_id": "ntvd5znia",
+        "point_name": "高崎城跡 顕彰碑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.379005,
+          36.240283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/464561/o08kdnwrv_1725868547286.jpg",
+        "location": "",
+        "point_id": "o08kdnwrv",
+        "point_name": "刀水橋",
+        "remark": "利根川が別称として「刀水」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.003504,
+          36.324012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/464561/o08m4rozn_1725868665378.jpg",
+        "location": "",
+        "point_id": "o08m4rozn",
+        "point_name": "群馬​音楽​センター前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.001806,
+          36.32531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/464561/o08qcjebp_1725868889884.jpg",
+        "location": "",
+        "point_id": "o08qcjebp",
+        "point_name": "高崎市立中央図書館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.466268,
+          36.477196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 464561,
+        "bangumi_title": "变成菜变成花",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/464561/points/og2uoommh-1727109969985.jpg",
+        "location": "",
+        "point_id": "og2uoommh",
+        "point_name": "カラマツの丘",
+        "remark": "キャベツ畑と浅間山のコントラストを見ることができる丘です。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

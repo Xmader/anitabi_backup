@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.613239,
+          35.703425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84873,
+        "bangumi_title": "漆黑的子弹",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/84873/points/9cvbw6y-1767379700786.jpg",
+        "location": "",
+        "point_id": "9cvbw6y",
+        "point_name": "罗森前面的桥",
+        "remark": "现实和动漫差距很大了，左右房子已经大变化，但根据日本通的帖子，找到了位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625297,
+          35.703061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84873,
+        "bangumi_title": "漆黑的子弹",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/84873/points/9cvh09c-1767379995085.jpg",
+        "location": "",
+        "point_id": "9cvh09c",
+        "point_name": "西郊旅馆",
+        "remark": "男主家"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691746,
+          35.68965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84873,
+        "bangumi_title": "漆黑的子弹",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/84873/points/9cvm0j0-1767380090008.jpg",
+        "location": "",
+        "point_id": "9cvm0j0",
+        "point_name": "新宿都厅",
+        "remark": "我记不清哪集了"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

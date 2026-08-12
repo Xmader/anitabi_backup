@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          112.476965,
+          34.68382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448682,
+        "bangumi_title": "饿殍：明末千里行",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448682/points/kw6zmjct1-1717088514914.jpg",
+        "location": "",
+        "point_id": "kw6zmjct1",
+        "point_name": "鼓楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.479441,
+          34.681422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448682,
+        "bangumi_title": "饿殍：明末千里行",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448682/points/kw7489rhk-1717088615580.jpg",
+        "location": "",
+        "point_id": "kw7489rhk",
+        "point_name": "洛邑古城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.653434,
+          34.583992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448682,
+        "bangumi_title": "饿殍：明末千里行",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448682/points/nhvy7kbr8-1724430590555.jpg",
+        "location": "",
+        "point_id": "nhvy7kbr8",
+        "point_name": "原阌乡县城",
+        "remark": "根据B站UP主迷路的何木搜索大量资料推算出这里为满穗和良爷洗澡休息的县城，现只剩下一部分城墙\n参考自\n【我本只想找到满穗洗澡的城市，却无意间翻开一段尘封的历史……【纪念阌乡县撤销70周年】-哔哩哔哩】 https://b23.tv/ZxeeMFj"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.474807,
+          34.685337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448682,
+        "bangumi_title": "饿殍：明末千里行",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448682/points/nm16z61sq-1724755387634.jpg",
+        "location": "",
+        "point_id": "nm16z61sq",
+        "point_name": "福王府石狮子",
+        "remark": "府邸于1940年毁于轰炸，仅存石狮"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.491013,
+          34.673813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448682,
+        "bangumi_title": "饿殍：明末千里行",
+        "ep_cut": "第15章后真结局“共生”CG",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448682/points/np5b5fd6a-1724999685761.jpg",
+        "location": "",
+        "point_id": "np5b5fd6a",
+        "point_name": "洛阳瀍河汇入洛河处",
+        "remark": "真结局其一“共生”最后一幕，原文描述主角“良”骑马沿瀍河行至洛河处相逢“满穗”。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

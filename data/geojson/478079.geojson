@@ -1,0 +1,925 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.784831,
+          34.991663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "东山",
+        "point_id": "f0z616d",
+        "point_name": "鸟边野",
+        "remark": "京都三大葬地之一，小说第一卷序章提及狱门抚子和桐比等平常居住的忌火山就在鸟边野附近。鸟边野的具体位置并不明确，大致位于清水寺至阿弥陀峰一带。第四卷第五章又有描述忌火山位于东山三十六峰之中。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.805719,
+          34.892472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0qjejc_1779706694777.jpg",
+        "location": "宇治",
+        "point_id": "f0qjejc",
+        "point_name": "宇治橋",
+        "remark": "小说第一卷中，狱门抚子前往八裂岛家途中路过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.806577,
+          34.889563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0qlvcd_1779707150915.jpg",
+        "location": "宇治",
+        "point_id": "f0qlvcd",
+        "point_name": "平等院",
+        "remark": "小说第一卷中，狱门抚子前往八裂岛家途中路过的地方。八裂岛家的位置被介绍为「宇治的尽头」「平等院眼皮子底下」。第三卷第二章，抚子在电影中的平等院和大岳丸、酒吞童子、九尾狐进行了战斗。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77175,
+          35.003829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0w948n_1779716360123.jpg",
+        "location": "四条大桥",
+        "point_id": "f0w948n",
+        "point_name": "四条大橋",
+        "remark": "从背后的树可以确定抚子立于桥东北侧。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771723,
+          35.00331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0wdv75_1779716497779.jpg",
+        "location": "四条大桥",
+        "point_id": "f0wdv75",
+        "point_name": "四条大橋",
+        "remark": "拍摄点位于桥的东南侧。\nhttps://maps.app.goo.gl/64ULS6CX5gGCBC9q9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771656,
+          35.003908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0winul_1779716710304.jpg",
+        "location": "四条大桥",
+        "point_id": "f0winul",
+        "point_name": "四条大橋",
+        "remark": "天娜自桥西向桥东走来。两人碰头后前往四条大桥附近的「条坊咖啡」，小说中描述这是一家中西结合的咖啡厅，现实原型不明。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77198,
+          35.004111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0wooce_1779717010676.jpg",
+        "location": "四条大桥",
+        "point_id": "f0wooce",
+        "point_name": "出雲の阿国",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789216,
+          34.989203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/478079/f0plabf_1779706227747.jpg",
+        "location": "东山",
+        "point_id": "f0plabf",
+        "point_name": "花山トンネル",
+        "remark": "可视为小说第一卷的「刀途山隧道」原型之一。花山隧道位于京都市东山区和山科区交界处。1967年国道1号线五条绕道的东山隧道开通后，花山隧道被改为步行隧道。位于东山、被五条绕道取代这两点与小说描写的刀途山隧道一致，但建设时间、长度等方面都不符。小说中提到刀途山隧道位于比国道绕远路的山路上，这一点符合北侧穿山的山中越道（又称志贺越道、京都府道・滋賀県道30号下鴨大津線），但该道路全程并无隧道。可以考虑为作者虚构了一个位于山中越道的隧道作为刀途山隧道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759617,
+          35.030538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "同志社大学",
+        "point_id": "f0x8kuh",
+        "point_name": "同志社大学",
+        "remark": "天娜就读的香车堂大学在小说中被描述为「坐落于关西，是一所知名并且难考的私立大学」「拥有可追溯至开国时期的历史与可观的规格，校内的几处设施已被列为文化遗产」，原型应为京都著名私立大学同志社大学。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771242,
+          35.00364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "四条大桥",
+        "point_id": "f0xfr9g",
+        "point_name": "鴨川",
+        "remark": "小说第一卷第四章，抚子和天娜从四条大桥附近的条坊咖啡离开后，在鸭川边散步。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758624,
+          34.987153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都站周边",
+        "point_id": "f0xh555",
+        "point_name": "京都駅",
+        "remark": "小说第一卷第四章，抚子和天娜途径京都站，前往天国九重京，后者设定上是位于京都站附近的八层楼的高档酒店。第二卷断章，桐比等和萤火在京都站旁边的室内停车场会面。第三卷，芍奈和殇居住在京都站附近的公寓。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772554,
+          35.112969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鞍马&贵船",
+        "point_id": "f0xr03d",
+        "point_name": "鞍馬",
+        "remark": "以鞍马天狗的传说闻名的鞍马山附近的区域，小说第二卷抚子和天娜前往鞍马调查时落入了神去团地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763186,
+          35.121426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鞍马&贵船",
+        "point_id": "f0xyq83",
+        "point_name": "貴船",
+        "remark": "小说第二卷桐比等得知抚子在鞍马失踪后先前往了贵船，居住于贵船神社附近的旅馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.748136,
+          34.987698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都水族馆&梅小路公园",
+        "point_id": "f0y49cx",
+        "point_name": "京都水族館",
+        "remark": "小说第二卷，抚子和天娜从神去团地返回现实世界之后前往了京都水族馆。抚子在水族馆入口处「京の川」区域看了很长时间大鲵。两人后来在「クラゲワンダー」区域进行了对话。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.748437,
+          34.987238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都水族馆&梅小路公园",
+        "point_id": "f0y8ubq",
+        "point_name": "梅小路公園",
+        "remark": "京都水族馆旁边的公园，小说第二卷终章提及了公园门口的电车，是为被改造为案内所的「京都市電935号車」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.753279,
+          34.987126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都站周边",
+        "point_id": "f0ycjap",
+        "point_name": "堀川塩小路通歩道橋",
+        "remark": "小说第二卷终章，抚子和天娜离开水族馆后走到了能看到京都塔的天桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759446,
+          34.987517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都站周边",
+        "point_id": "f0yehhl",
+        "point_name": "京都タワー",
+        "remark": "小说第二卷终章，抚子和天娜离开水族馆后在天桥上看到了京都塔。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767247,
+          34.989287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "七条大桥",
+        "point_id": "f0yi5jy",
+        "point_name": "七条大橋",
+        "remark": "小说第三卷第一章，天娜开车带着抚子经过此处时，抚子在此第一次发现伊芙琳・夏。第二章抚子和天娜在此会和后前往千本通发生灵异现象的电影院。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.760026,
+          35.009539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "新风馆",
+        "point_id": "f0yn61g",
+        "point_name": "新風館",
+        "remark": "小说第三卷第二章，抚子独自前往乌丸的翻新后的新风馆逛街，而后在新风馆中庭的水滴型雕塑下进行了思考。该雕塑名为「Ether (Octagon)」，设计师为名和晃平。然后她遇到了来此看电影的芍奈和殇。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763298,
+          35.023274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都御苑",
+        "point_id": "f0z1j43",
+        "point_name": "京都御苑",
+        "remark": "小说第三卷第二章，芍奈和殇曾在京都御苑休息。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.106414,
+          35.45351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大江山",
+        "point_id": "f0zp2ka",
+        "point_name": "大江山​（千​丈​ケ​嶽）",
+        "remark": "大江山为酒吞童子的根据地，千丈岳为主峰。小说第三卷的鬼竞发生在大江山区域的御陵馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.148107,
+          35.452484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大江山",
+        "point_id": "f0zg2tb",
+        "point_name": "新童子橋",
+        "remark": "小说第三卷第三章，抚子和天娜前往大江山的御陵馆时经过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.147678,
+          35.451664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大江山",
+        "point_id": "f0zjdhl",
+        "point_name": "鬼の足跡・頼光の腰掛け岩",
+        "remark": "小说第三卷第三章，抚子和天娜前往大江山的御陵馆时经过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.138215,
+          35.457337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大江山",
+        "point_id": "f0zehqn",
+        "point_name": "宮川",
+        "remark": "小说第三卷第三章，抚子和天娜沿着宫川前往大江山的御陵馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.775456,
+          34.988654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "智积院",
+        "point_id": "f0zt5s1",
+        "point_name": "智積院",
+        "remark": "小说第三卷第五章，抚子和天娜一同参观了智积院。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751209,
+          35.012847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "二条城周边",
+        "point_id": "f0zre0a",
+        "point_name": "二条城",
+        "remark": "小说第三卷第五章，抚子约天娜去二条城看灯。抚子应当是在二条城东门等待，随后经王贵人引导，沿堀川通、丸太町通前往了京都御苑。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.761787,
+          35.017752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都御苑周边",
+        "point_id": "f0zy4r6",
+        "point_name": "拾翠亭",
+        "remark": "小说第三卷第五章，抚子前往京都御苑时经过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762062,
+          35.018119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都御苑周边",
+        "point_id": "f0zy5r6",
+        "point_name": "厳島神社",
+        "remark": "小说第三卷第五章，抚子前往京都御苑时经过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762184,
+          35.018728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都御苑周边",
+        "point_id": "f0zzw8z",
+        "point_name": "建礼門前苑路",
+        "remark": "京都御苑的主路，小说第三卷第五章中抚子来到此处。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762131,
+          35.023257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都御苑周边",
+        "point_id": "f0zzr7b",
+        "point_name": "建礼門",
+        "remark": "京都御所正门，小说第三卷第五章中，王贵人和抚子来到此处后被结界阻挠，无法穿过建礼门。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762104,
+          35.024083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都御苑周边",
+        "point_id": "f101dx3",
+        "point_name": "紫宸殿",
+        "remark": "京都御所正殿。小说第三卷第五章中，伊芙琳打开通向夹缝的门之后，抚子冲向了夹缝一侧的紫宸殿。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771631,
+          35.017548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/478079/f1095bv_1779723157014.jpg",
+        "location": "京都御苑周边",
+        "point_id": "f1095bv",
+        "point_name": "丸太町橋",
+        "remark": "小说第三卷第五章中，殇和天娜交流的地方，以及天娜给抚子送生日礼物的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.498837,
+          34.702513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大阪",
+        "point_id": "f10f7g1",
+        "point_name": "梅田",
+        "remark": "小说第四卷第一章，抚子和天娜去参观了梅田的北海道展，这里指的应该是每年春秋在阪急うめだ本店举行的「北海道物産大会」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.533658,
+          34.697569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大阪",
+        "point_id": "f10je0x",
+        "point_name": "京橋駅",
+        "remark": "第四卷第一章，抚子和天娜参观完梅田的北海道展之后返回京都的路上经过的车站，根据前后文描述，两人乘坐的是京阪电铁的京阪本线。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.639401,
+          34.811199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大阪",
+        "point_id": "f10k1c5",
+        "point_name": "枚方公園駅",
+        "remark": "第四卷第一章，抚子和天娜参观完梅田的北海道展之后返回京都的路上经过的车站，抚子在经过该站之后不久睡着，整趟列车进入夹缝。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635353,
+          36.343644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "轻井泽",
+        "point_id": "f0d368o",
+        "point_name": "軽井沢駅北口ロータリー",
+        "remark": "小说第五卷第一章，两人逃脱夹缝后抵达的地方，原文有提及此处的环岛、「美しい四季を感じる軽井沢」标语和高架车站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.629387,
+          36.365536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "轻井泽",
+        "point_id": "f10oyg0",
+        "point_name": "三笠通り",
+        "remark": "小说第四卷第二章，红开车带着抚子和天娜前往琳川旧邸时经过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.626991,
+          36.352166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "轻井泽",
+        "point_id": "f10rfzc",
+        "point_name": "雲場池",
+        "remark": "小说第四卷第二章，红开车带着抚子和天娜前往琳川旧邸时经过的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.777117,
+          35.003767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "祇园",
+        "point_id": "f10u41x",
+        "point_name": "祇園",
+        "remark": "小说第四卷第三章，抚子、天娜和祀厅众人巡逻的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.777383,
+          35.003732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "祇园",
+        "point_id": "f10vxcu",
+        "point_name": "八坂神社",
+        "remark": "小说第四卷第三章，雪路在八坂神社前为众人分配了任务。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.775071,
+          35.003846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "祇园",
+        "point_id": "f10wsbw",
+        "point_name": "花見小路",
+        "remark": "小说第四卷第三章，抚子等人在花见小路附近击杀了精蝼蛄。第四章，抚子和白羽从花见小路进入了夹缝。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759778,
+          34.986743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "京都站周边",
+        "point_id": "f118jrx",
+        "point_name": "京都ポルタ",
+        "remark": "小说第四卷第五章，桃花和忍约抚子去玩的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.748071,
+          35.011371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "二条城周边",
+        "point_id": "f11i9qq",
+        "point_name": "神泉苑",
+        "remark": "祇园祭（御灵会）的举办地。小说第四卷第五章，祀厅众人和巫女来此举行仪式。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.182542,
+          35.557672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "天桥立",
+        "point_id": "h5etrmq",
+        "point_name": "天橋立駅",
+        "remark": "第五卷抚子等人前往天桥立时途径的地点。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.184526,
+          35.557881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "天桥立",
+        "point_id": "h5esipd",
+        "point_name": "智恩寺 三門（黄金閣）",
+        "remark": "第五卷抚子等人前往天桥立时途径的地点。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.185192,
+          35.557874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 478079,
+        "bangumi_title": "狱门抚子在此",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "天桥立",
+        "point_id": "h5erurt",
+        "point_name": "廻旋橋",
+        "remark": "第五卷抚子等人前往天桥立时途径的地点。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

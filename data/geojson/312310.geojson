@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.42498,
+          27.052108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312310,
+        "bangumi_title": "一人之下4 出发！碧游村",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312310/points/njiobjw6n-1724559582563.jpg",
+        "location": "",
+        "point_id": "njiobjw6n",
+        "point_name": "镇远古城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.16978,
+          26.494513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312310,
+        "bangumi_title": "一人之下4 出发！碧游村",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312310/points/nmz9z8di8-1724829577320.jpg",
+        "location": "",
+        "point_id": "nmz9z8di8",
+        "point_name": "西江千戶苗寨",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.674347,
+          26.385544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312310,
+        "bangumi_title": "一人之下4 出发！碧游村",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312310/points/nmzcu5zgs-1724829748459.jpg",
+        "location": "",
+        "point_id": "nmzcu5zgs",
+        "point_name": "北盘江大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.848945,
+          26.588214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312310,
+        "bangumi_title": "一人之下4 出发！碧游村",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312310/points/nmzynm4qm-1724831109718.jpg",
+        "location": "",
+        "point_id": "nmzynm4qm",
+        "point_name": "六盘水国贸广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.859746,
+          26.579689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312310,
+        "bangumi_title": "一人之下4 出发！碧游村",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312310/points/nn03mlevl-1724831365682.jpg",
+        "location": "",
+        "point_id": "nn03mlevl",
+        "point_name": "六盘水市",
+        "remark": "新的是市中心"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.512335,
+          26.256181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312310,
+        "bangumi_title": "一人之下4 出发！碧游村",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312310/points/r1o0tf96g-1734443910481.jpg",
+        "location": "",
+        "point_id": "r1o0tf96g",
+        "point_name": "都匀市区",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

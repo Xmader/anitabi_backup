@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.625947,
+          35.610898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 812,
+        "bangumi_title": "空之境界 第二章 殺人考察(前)",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/812/points/kpx6okhu9-1719686187009.jpg",
+        "location": "",
+        "point_id": "oii99epdm",
+        "point_name": "二子玉川高架橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.444811,
+          35.643652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 15886,
+        "bangumi_title": "坂上台风",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/15886/9zbaruz_1769004960867.jpg",
+        "location": "",
+        "point_id": "9zbaruz",
+        "point_name": "いろは坂通り",
+        "remark": "谷歌地点：耳をすませば"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.446597,
+          35.647478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 15886,
+        "bangumi_title": "坂上台风",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/15886/9zb8olg_1769004936100.jpg",
+        "location": "",
+        "point_id": "9zb8olg",
+        "point_name": "霞ヶ関橋　大栗川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.44672,
+          35.650336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 15886,
+        "bangumi_title": "坂上台风",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/15886/9zb56vb_1769004912375.jpg",
+        "location": "",
+        "point_id": "9zb56vb",
+        "point_name": "聖蹟桜ケ丘駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.44479,
+          35.643678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 15886,
+        "bangumi_title": "坂上台风",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/15886/a3r152n_1769004983357.jpg",
+        "location": "",
+        "point_id": "a3r152n",
+        "point_name": "いろは坂通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.648757,
+          35.446717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 15886,
+        "bangumi_title": "坂上台风",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/15886/9zbe4it_1769005005729.jpg",
+        "location": "",
+        "point_id": "9zbe4it",
+        "point_name": "山下公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

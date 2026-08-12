@@ -1,0 +1,2045 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.789616,
+          34.720264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/49278/96f4a899_1742916542914.jpg",
+        "location": "",
+        "point_id": "96f4a899",
+        "point_name": "平城第2団地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784736,
+          34.484119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/eb2e5988_1742916559638.jpg",
+        "location": "",
+        "point_id": "eb2e5988",
+        "point_name": "聖心学園中等教育学校",
+        "remark": "01話、02話、10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.834054,
+          34.679816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/1a00c48f_1742916545499.jpg",
+        "location": "",
+        "point_id": "1a00c48f",
+        "point_name": "奈良ホテル",
+        "remark": "03話、05話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782764,
+          34.693793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/a9cb62b9_1742916548359.jpg",
+        "location": "",
+        "point_id": "a9cb62b9",
+        "point_name": "大和西大寺駅4番のりば",
+        "remark": "OP、01話、09話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787035,
+          34.690255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/3af74e8d_1742916549858.jpg",
+        "location": "",
+        "point_id": "3af74e8d",
+        "point_name": "秋篠川サイクリングロード",
+        "remark": "OP、09話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787056,
+          34.69018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2x0tw3nl-1725245088072.jpg",
+        "location": "",
+        "point_id": "a2x0tw3nl",
+        "point_name": "秋篠川サイクリングロード",
+        "remark": "OP、09話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.821571,
+          34.681899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/ebcf439e_1742916571323.jpg",
+        "location": "",
+        "point_id": "ebcf439e",
+        "point_name": "サイゼリヤJR奈良三条通り店【閉店】",
+        "remark": "閉店日/2021年8月23日(月)住所/奈良県奈良市三条町491-1浅川ﾊｰﾍﾞｽﾄﾋﾞﾙ1F"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782834,
+          34.69381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/af2b618b_1742916582198.jpg",
+        "location": "",
+        "point_id": "af2b618b",
+        "point_name": "大和西大寺駅5,6番ホーム",
+        "remark": "01話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782724,
+          34.693734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90rrf22-1766648021704.jpg",
+        "location": "",
+        "point_id": "90rrf22",
+        "point_name": "大和西大寺駅4番のりば",
+        "remark": "往南邊的5,6番線看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782728,
+          34.693684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90ru65e-1766648165971.jpg",
+        "location": "",
+        "point_id": "90ru65e",
+        "point_name": "大和西大寺駅5,6番ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782728,
+          34.693684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90ruz8q-1766648189742.jpg",
+        "location": "",
+        "point_id": "90ruz8q",
+        "point_name": "大和西大寺駅5,6番ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782686,
+          34.693673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vixis0j-1686580055713.jpg",
+        "location": "",
+        "point_id": "a2vixis0j",
+        "point_name": "大和西大寺駅5,6番ホーム",
+        "remark": "01話、08話\n5,6番線在南邊"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784165,
+          34.48416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/fc98663d_1742916584819.jpg",
+        "location": "",
+        "point_id": "fc98663d",
+        "point_name": "秋人自宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784219,
+          34.486312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/ec578b87_1742916587036.jpg",
+        "location": "",
+        "point_id": "ec578b87",
+        "point_name": "深田池",
+        "remark": "01話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789186,
+          34.720768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/8106ff4e_1742916592489.jpg",
+        "location": "",
+        "point_id": "8106ff4e",
+        "point_name": "平城第2ショッピングセンター",
+        "remark": "01話、02話、08話、11話他"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789136,
+          34.720693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/49278/de6079be_1742916596636.jpg",
+        "location": "",
+        "point_id": "de6079be",
+        "point_name": "弁当を買って公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828751,
+          34.68224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vixis1f-1686579804333.jpg",
+        "location": "",
+        "point_id": "a2vixis1f",
+        "point_name": "天下一品 東向店",
+        "remark": "04話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.835851,
+          34.681526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vixir9u-1686579992833.jpg",
+        "location": "",
+        "point_id": "a2vixir9u",
+        "point_name": "料理旅館 江戸三",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793762,
+          34.483551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptep2-1686580143363.jpg",
+        "location": "",
+        "point_id": "a2vpptep2",
+        "point_name": "橿原神宮前駅中央改札",
+        "remark": "08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792232,
+          34.484507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/49278/332877bc_1742916531917.jpg",
+        "location": "",
+        "point_id": "332877bc",
+        "point_name": "カーブミラー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.788681,
+          34.718695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/49278/17d27211_1742916611914.jpg",
+        "location": "",
+        "point_id": "17d27211",
+        "point_name": "ピエロの公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.791753,
+          34.484703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/49278/4170b0db_1742916615865.jpg",
+        "location": "",
+        "point_id": "4170b0db",
+        "point_name": "橿原神宮西口第四号踏切周辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66515,
+          35.653053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2wzg32sf-1725267261173.jpg",
+        "location": "",
+        "point_id": "a2wzg32sf",
+        "point_name": "邪宗門 世田谷店",
+        "remark": "02話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784736,
+          34.484119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptg4f-1686580401363.jpg",
+        "location": "",
+        "point_id": "a2vpptg4f",
+        "point_name": "聖心学園中等教育学校",
+        "remark": "01話、02話、10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793673,
+          34.483834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/49278/6ed2434a_1742916618667.jpg",
+        "location": "",
+        "point_id": "6ed2434a",
+        "point_name": "橿原神宮前駅駅前広場",
+        "remark": "02話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828732,
+          34.682591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vixirse-1686579823880.jpg",
+        "location": "",
+        "point_id": "a2vixirse",
+        "point_name": "よねやメガネ東向商店街",
+        "remark": "02話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828732,
+          34.682591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/49278/b96ced98_1742916622130.jpg",
+        "location": "",
+        "point_id": "b96ced98",
+        "point_name": "よねやメガネ東向商店街",
+        "remark": "02話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.791316,
+          34.484877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptf3s-1686580232058.jpg",
+        "location": "",
+        "point_id": "a2vpptf3s",
+        "point_name": "橿原神宮西口第四号踏切",
+        "remark": "CM、PV、02話、08話、11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.832434,
+          34.680809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/49278/b4337b37_1742916627449.jpg",
+        "location": "",
+        "point_id": "b4337b37",
+        "point_name": "ホテル大和路裏手",
+        "remark": "03話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.834365,
+          34.68136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/49278/3b4306c6_1742916634436.jpg",
+        "location": "",
+        "point_id": "3b4306c6",
+        "point_name": "奈良ホテル",
+        "remark": "03話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.786759,
+          34.689367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/49278/05768c03_1742916638649.jpg",
+        "location": "",
+        "point_id": "05768c03",
+        "point_name": "西大寺検車区",
+        "remark": "03話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.786759,
+          34.689367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2wzg339f-1725096671586.jpg",
+        "location": "",
+        "point_id": "a2wzg339f",
+        "point_name": "西大寺検車区",
+        "remark": "03話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.825793,
+          34.681947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vhh90ln-1686579639507.jpg",
+        "location": "",
+        "point_id": "a2vhh90ln",
+        "point_name": "NTT西日本 奈良支店前",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.783113,
+          34.694002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/49278/30c82f33_1742916696754.jpg",
+        "location": "",
+        "point_id": "30c82f33",
+        "point_name": "大和西大寺駅北口",
+        "remark": "03話、アイドル裁判！ ～迷いながらも君を裁く民～ ED（銃撃現場）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.791195,
+          34.484791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/49278/25b359f4_1742916539182.jpg",
+        "location": "",
+        "point_id": "25b359f4",
+        "point_name": "橿原神宮西口第四号踏切",
+        "remark": "CM、PV、02話、08話、11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828751,
+          34.68224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/49278/35581e91_1742916705307.jpg",
+        "location": "",
+        "point_id": "35581e91",
+        "point_name": "天下一品 東向店",
+        "remark": "04話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.834054,
+          34.679816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vixirbf-1686579976057.jpg",
+        "location": "",
+        "point_id": "a2vixirbf",
+        "point_name": "奈良ホテル",
+        "remark": "03話、05話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.82362,
+          34.681912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/b2518582-1766649125820.jpg",
+        "location": "",
+        "point_id": "b2518582",
+        "point_name": "カフェレストラン PINOCCHIO",
+        "remark": "2015~2017已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.822386,
+          34.681958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/49278/9a7ebe20_1742916711797.jpg",
+        "location": "",
+        "point_id": "9a7ebe20",
+        "point_name": "松田ビル？",
+        "remark": "05話、廃墟モデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.838437,
+          34.679527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/49278/5955bdde_1742916713408.jpg",
+        "location": "",
+        "point_id": "5955bdde",
+        "point_name": "浮見堂",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.835851,
+          34.681526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/49278/ff7be251_1742916717128.jpg",
+        "location": "",
+        "point_id": "ff7be251",
+        "point_name": "料理旅館 江戸三",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787313,
+          34.486639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2vpptg60-1766648767345.jpg",
+        "location": "",
+        "point_id": "a2vpptg60",
+        "point_name": "深田池東",
+        "remark": "06話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787011,
+          34.483018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/49278/22bcb90a_1742916721668.jpg",
+        "location": "",
+        "point_id": "22bcb90a",
+        "point_name": "聖心学園東側三叉路",
+        "remark": "06話、11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787313,
+          34.486639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/49278/3946bbbc_1742916730254.jpg",
+        "location": "",
+        "point_id": "3946bbbc",
+        "point_name": "深田池",
+        "remark": "06話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.827617,
+          34.680509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2wzg33dh-1686583295997.jpg",
+        "location": "",
+        "point_id": "a2wzg33dh",
+        "point_name": "椿井市場",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.788863,
+          34.719723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/f2d0171e_1742916607286.jpg",
+        "location": "",
+        "point_id": "f2d0171e",
+        "point_name": "平城第2団地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.830294,
+          34.681691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/49278/points/a2wzg33ef-1726213553770.jpg",
+        "location": "",
+        "point_id": "a2wzg33ef",
+        "point_name": "猿沢池西側",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.825793,
+          34.681947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/d49e75ba_1742916701670.jpg",
+        "location": "",
+        "point_id": "d49e75ba",
+        "point_name": "NTT西日本 奈良支店前",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792367,
+          34.485318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/a4bc8476_1742916734904.jpg",
+        "location": "",
+        "point_id": "a4bc8476",
+        "point_name": "下校通り",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792216,
+          34.721165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/cca8f378_1742916737428.jpg",
+        "location": "",
+        "point_id": "cca8f378",
+        "point_name": "やぐら歯科内科",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.827617,
+          34.680509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/d1ae6cc9_1742916739526.jpg",
+        "location": "",
+        "point_id": "d1ae6cc9",
+        "point_name": "椿井市場",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.830237,
+          34.681539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/88f31e52_1742916747603.jpg",
+        "location": "",
+        "point_id": "88f31e52",
+        "point_name": "猿沢池西側",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.821949,
+          34.68203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/23537c84-1766649414875.jpg",
+        "location": "",
+        "point_id": "23537c84",
+        "point_name": "三条都パーキング前",
+        "remark": "左側多數建築已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.826073,
+          34.682007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/49278/b9478a50_1742916754370.jpg",
+        "location": "",
+        "point_id": "b9478a50",
+        "point_name": "上三条町交差点",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792697,
+          34.485006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90u70vy-1766652108815.jpg",
+        "location": "",
+        "point_id": "90u70vy",
+        "point_name": "橿原神宮前駅北西側",
+        "remark": "往西南看，該建築於2012~2015拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.822386,
+          34.681958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vgws0xr-1686579580287.jpg",
+        "location": "",
+        "point_id": "a2vgws0xr",
+        "point_name": "松田ビル？",
+        "remark": "05話、廃墟モデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793457,
+          34.484147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/96753461_1742916757859.jpg",
+        "location": "",
+        "point_id": "96753461",
+        "point_name": "道路標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793955,
+          34.484077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/de330f3b_1742916762464.jpg",
+        "location": "",
+        "point_id": "de330f3b",
+        "point_name": "ベンチ",
+        "remark": "13-17年间逐渐拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793765,
+          34.483668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/f2c1667e_1742916765843.jpg",
+        "location": "",
+        "point_id": "f2c1667e",
+        "point_name": "橿原神宮前駅駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.78665,
+          34.693975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/f17945b3_1742916768233.jpg",
+        "location": "",
+        "point_id": "f17945b3",
+        "point_name": "西大寺橋東詰",
+        "remark": "08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.832772,
+          34.681398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/1291a5ff_1742916770532.jpg",
+        "location": "",
+        "point_id": "1291a5ff",
+        "point_name": "猿沢池東側TOMOパーキング興福寺前第2",
+        "remark": "08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839966,
+          34.683502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/71fb2637_1742916773616.jpg",
+        "location": "",
+        "point_id": "71fb2637",
+        "point_name": "大仏殿交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789907,
+          34.721463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/ff558cf5_1742916777293.jpg",
+        "location": "",
+        "point_id": "ff558cf5",
+        "point_name": "ローソン 高の原中央病院店",
+        "remark": "lawson"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.794162,
+          34.484248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/0573b54b_1742916781395.jpg",
+        "location": "",
+        "point_id": "0573b54b",
+        "point_name": "橿原神宮前駅ホーム",
+        "remark": "橿原線の2・3番ホーム"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793762,
+          34.483551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/3ceaa316_1742916783844.jpg",
+        "location": "",
+        "point_id": "3ceaa316",
+        "point_name": "橿原神宮前駅中央改札",
+        "remark": "08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.767287,
+          33.876544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2wzg33du-1711242561565.jpg",
+        "location": "",
+        "point_id": "a2wzg33du",
+        "point_name": "大歩危駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.589561,
+          33.655557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": "OVA1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/nqe2lansi-1725097009230.jpg",
+        "location": "",
+        "point_id": "nqe2lansi",
+        "point_name": "下灘駅",
+        "remark": "想你的腋～\n停车场在经过车站之后的一个山坡顶端，通过一个二段Z字坡道拔升，开上去需要一点技术，也需要一辆轴距不大的小车（进入坡道需要掉头）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.78916,
+          34.721013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/49278/d1475cab_1742916601765.jpg",
+        "location": "",
+        "point_id": "d1475cab",
+        "point_name": "栗山自宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793185,
+          34.484416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/49278/cf0c4572_1742916785672.jpg",
+        "location": "",
+        "point_id": "cf0c4572",
+        "point_name": "橿原神宮前駅北西側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789274,
+          34.483103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/49278/d6bccf91_1742916787492.jpg",
+        "location": "",
+        "point_id": "d6bccf91",
+        "point_name": "久米町子供広場西側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793673,
+          34.483834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptf18-1686580156934.jpg",
+        "location": "",
+        "point_id": "a2vpptf18",
+        "point_name": "橿原神宮前駅駅前広場",
+        "remark": "02話、08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.79315,
+          34.48451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptf50-1686580200674.jpg",
+        "location": "",
+        "point_id": "a2vpptf50",
+        "point_name": "下校通り南",
+        "remark": "07話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792763,
+          34.484955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/49278/b258beff_1742916789140.jpg",
+        "location": "",
+        "point_id": "b258beff",
+        "point_name": "橿原神宮前駅北西側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782695,
+          34.693731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/49278/e2621bd7_1742916790433.jpg",
+        "location": "",
+        "point_id": "e2621bd7",
+        "point_name": "大和西大寺駅南改札口",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789328,
+          34.481868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptfno-1686580269093.jpg",
+        "location": "",
+        "point_id": "a2vpptfno",
+        "point_name": "久米河原東交差点",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782864,
+          34.485202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptfp1-1686580454264.jpg",
+        "location": "",
+        "point_id": "a2vpptfp1",
+        "point_name": "橿原神宮西口第一号踏切",
+        "remark": "11話\n從南側看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789661,
+          34.483438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vpptfmx-1686580286580.jpg",
+        "location": "",
+        "point_id": "a2vpptfmx",
+        "point_name": "久米町子供広場",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828622,
+          34.682018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vic8k6m-1686579681607.jpg",
+        "location": "",
+        "point_id": "a2vic8k6m",
+        "point_name": "南都銀行本店",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784111,
+          34.48417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vppth24-1686580421355.jpg",
+        "location": "",
+        "point_id": "a2vppth24",
+        "point_name": "秋人自宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787472,
+          34.482945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2wzg33e5-1766646301480.jpg",
+        "location": "",
+        "point_id": "a2wzg33e5",
+        "point_name": "聖心学園東側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785605,
+          34.483907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/a40ca473_1742916726063.jpg",
+        "location": "",
+        "point_id": "a40ca473",
+        "point_name": "聖心学園東側",
+        "remark": "06，11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789403,
+          34.481868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/ebaf9e94_1742916792074.jpg",
+        "location": "",
+        "point_id": "ebaf9e94",
+        "point_name": "久米河原東交差点",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782837,
+          34.485631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/2f7469a7_1742916793340.jpg",
+        "location": "",
+        "point_id": "2f7469a7",
+        "point_name": "橿原神宮西口第一号踏切",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.791696,
+          34.484552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/bb7da386_1742916794871.jpg",
+        "location": "",
+        "point_id": "bb7da386",
+        "point_name": "橿原神宮西口第四号踏切南側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789661,
+          34.483438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/4a61afe5_1742916796955.jpg",
+        "location": "",
+        "point_id": "4a61afe5",
+        "point_name": "久米町子供広場",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.794321,
+          34.484148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/83ed0e86_1742916798538.jpg",
+        "location": "",
+        "point_id": "83ed0e86",
+        "point_name": "橿原線の1・8番ホーム",
+        "remark": "秋人が待っている8番のりばは狭軌用の臨時ホーム"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828622,
+          34.682018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/637919a2_1742916799891.jpg",
+        "location": "",
+        "point_id": "637919a2",
+        "point_name": "南都銀行本店",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.786057,
+          34.486362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/50dc94dc_1742916802619.jpg",
+        "location": "",
+        "point_id": "50dc94dc",
+        "point_name": "深田池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.791589,
+          34.934719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/f12a2d4f_1742916804189.jpg",
+        "location": "",
+        "point_id": "f12a2d4f",
+        "point_name": "京街道架道橋下",
+        "remark": "西側往北邊看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792166,
+          34.485579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/db222143_1742916805618.jpg",
+        "location": "",
+        "point_id": "db222143",
+        "point_name": "橿原神宮前駅北西側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787067,
+          34.686559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/f228bca4_1742916807262.jpg",
+        "location": "",
+        "point_id": "f228bca4",
+        "point_name": "近鉄スポーツセンター前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.791815,
+          34.482536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/ffd297da_1742916808618.jpg",
+        "location": "",
+        "point_id": "ffd297da",
+        "point_name": "久米交差点",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.787284,
+          34.483025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/1838cdac_1742916809906.jpg",
+        "location": "",
+        "point_id": "1838cdac",
+        "point_name": "聖心学園東側",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.78582,
+          34.694216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/49278/990ebfc4_1742916811729.jpg",
+        "location": "",
+        "point_id": "990ebfc4",
+        "point_name": "西大寺橋西詰",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782827,
+          34.485775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90quopm-1766646502529.jpg",
+        "location": "",
+        "point_id": "90quopm",
+        "point_name": "橿原神宮西口第一号踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782836,
+          34.48556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90r5hqb-1766646998842.jpg",
+        "location": "",
+        "point_id": "90r5hqb",
+        "point_name": "橿原神宮西口第一号踏切",
+        "remark": "站在踏切往北看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789913,
+          34.721443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90t32ar-1766650244898.jpg",
+        "location": "",
+        "point_id": "90t32ar",
+        "point_name": "平城3号歩行者専用道路 ローソン前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785804,
+          34.483443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/90rzu39-1766648414502.jpg",
+        "location": "",
+        "point_id": "90rzu39",
+        "point_name": "聖心学園東側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.832772,
+          34.681398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1024/bangumi/49278/points/a2vixir4p-1686579941275.jpg",
+        "location": "",
+        "point_id": "a2vixir4p",
+        "point_name": "猿沢池東側TOMOパーキング興福寺前第2",
+        "remark": "08話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789151,
+          34.721009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": "EP8",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/49278/points/a2wzg32yp-1739556201083.jpg",
+        "location": "",
+        "point_id": "a2wzg32yp",
+        "point_name": "栗山さん自宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.910583,
+          35.181291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "a2wzg3339",
+        "point_name": "名古屋市市政資料館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789098,
+          34.720527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49278,
+        "bangumi_title": "境界的彼方",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/49278/acac528c_1742916603837.jpg",
+        "location": "",
+        "point_id": "acac528c",
+        "point_name": "平城第2ショッピングセンター",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

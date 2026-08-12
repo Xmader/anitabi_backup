@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.61767,
+          35.507426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 67376,
+        "bangumi_title": "灰色的果实",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/67376/51i524n06_1753438816544.jpg",
+        "location": "",
+        "point_id": "51i524n06",
+        "point_name": "新横浜駅-3番ホーム",
+        "remark": "#08「セカイ樹の種I」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.509866,
+          35.305415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 67376,
+        "bangumi_title": "灰色的果实",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/67376/points/51i524mh6-1723223084084.jpg",
+        "location": "",
+        "point_id": "51i524mh6",
+        "point_name": "七里ガ浜海岸",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.85883,
+          35.362736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 67376,
+        "bangumi_title": "灰色的果实",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/67376/51i524m9r_1753438836410.jpg",
+        "location": "",
+        "point_id": "51i524m9r",
+        "point_name": "道の駅すばしり",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.858598,
+          35.362667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 67376,
+        "bangumi_title": "灰色的果实",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/67376/2ybj6mc_1753439182529.jpg",
+        "location": "",
+        "point_id": "2ybj6mc",
+        "point_name": "道の駅すばしり  ふじやま食堂",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          125.301216,
+          43.877608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432463,
+        "bangumi_title": "茶啊二中",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432463/points/oczn3zec9-1726870126141.jpg",
+        "location": "",
+        "point_id": "oczn3zec9",
+        "point_name": "文化广场（地质宫广场）太阳鸟雕塑",
+        "remark": "背后绿色建筑为吉林大学地质博物馆（地质宫）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.301598,
+          43.859646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432463,
+        "bangumi_title": "茶啊二中",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432463/points/od1qwyb0w-1726872539969.jpg",
+        "location": "",
+        "point_id": "od1qwyb0w",
+        "point_name": "长春解放纪念碑",
+        "remark": "白色建筑物为长春解放纪念碑"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.302887,
+          43.856551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432463,
+        "bangumi_title": "茶啊二中",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432463/points/od2ewttxg-1726873896153.jpg",
+        "location": "",
+        "point_id": "od2ewttxg",
+        "point_name": "南湖公园荷花池",
+        "remark": "画面为坐北朝南向，画面最左侧为四亭桥，其西的白色拱桥为观荷桥"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

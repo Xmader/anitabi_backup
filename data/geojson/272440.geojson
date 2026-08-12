@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.726209,
+          35.666562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272440,
+        "bangumi_title": "透明な色",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272440/points/qmzizazek-1733293559757.jpg",
+        "location": "",
+        "point_id": "qmzizazek",
+        "point_name": "乃木坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

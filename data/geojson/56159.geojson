@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.538668,
+          35.313322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56159,
+        "bangumi_title": "AIURA",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oqsna",
+        "point_name": "文学館入口交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.539336,
+          35.314716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56159,
+        "bangumi_title": "AIURA",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oqtdy",
+        "point_name": "鎌倉文学館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.535098,
+          35.314274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56159,
+        "bangumi_title": "AIURA",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oqt51",
+        "point_name": "マリオンクレープ鎌倉店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.781944,
+          36.680558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56159,
+        "bangumi_title": "AIURA",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oqt24",
+        "point_name": "山口バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.541087,
+          35.312718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56159,
+        "bangumi_title": "AIURA",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oquag",
+        "point_name": "踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

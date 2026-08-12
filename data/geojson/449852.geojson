@@ -1,0 +1,765 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          118.123444,
+          24.497586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0efi6g9d_1720239941669.jpg",
+        "location": "",
+        "point_id": "m0dv5g79u",
+        "point_name": "东方财富广场",
+        "remark": "金锦广场原型，地图位置一致，造型不同，不过都是金色外形的鲜艳建筑。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.166821,
+          24.470225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0f9c08vv_1720240924680.jpg",
+        "location": "",
+        "point_id": "m0f9c08vv",
+        "point_name": "前埔不夜城",
+        "remark": "前埭不夜城原型，地图位置一致，造型不同。不夜城现已拆迁。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.077398,
+          24.455919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0fxcpfn6_1720242356565.jpg",
+        "location": "",
+        "point_id": "m0fxcpfn6",
+        "point_name": "中华城",
+        "remark": "位于中华城北区建筑南侧仁安巷道路，面朝西南拍摄。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.073789,
+          24.458236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0efi6g9d_1720242383036.jpg",
+        "location": "",
+        "point_id": "m0efi6g9d",
+        "point_name": "威震殿",
+        "remark": "位于思明南路天一楼巷内。使用高德地图导航可以抵达正确位置。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.083088,
+          24.479572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0f4m7jgi_1720240676146.jpg",
+        "location": "",
+        "point_id": "m0f4m7jgi",
+        "point_name": "流西典当行-地图位置",
+        "remark": "游戏中地图位置为厦门人民会堂南侧。游戏设定中位于公园街20号。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.106134,
+          24.464214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0ejjlf6o_1720239922075.jpg",
+        "location": "",
+        "point_id": "m0ejjlf6o",
+        "point_name": "吕璇家-地图位置",
+        "remark": "游戏中地图位置为领秀城。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.104311,
+          24.485688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0emw1up5_1720239901063.jpg",
+        "location": "",
+        "point_id": "m0emw1up5",
+        "point_name": "白维私人诊所-地图位置",
+        "remark": "游戏中地图位置为槟榔路，与厦门体育中心体育场隔江相望。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.068207,
+          24.457364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0epk8a2u_1720239877027.jpg",
+        "location": "",
+        "point_id": "m0epk8a2u",
+        "point_name": "鹭城轮渡码头-地图位置",
+        "remark": "游戏中为前往琴屿（鼓浪屿）的轮渡码头的地图位置，现实中为厦门轮渡码头。不过此处的地图图标为鼓浪屿内厝澳码头，前往此处后出现的背景为邮轮中心夏鼓码头。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.063375,
+          24.481406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0cxof3yz_1720240067784.jpg",
+        "location": "",
+        "point_id": "m0cxof3yz",
+        "point_name": "厦门国际邮轮中心",
+        "remark": "最左侧建筑为厦门港务大厦，左侧码头为厦门国际邮轮中心码头，内有前往鼓浪屿的东渡码头、夏鼓码头。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.064339,
+          24.451002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0ffhydek_1720241286151.jpg",
+        "location": "",
+        "point_id": "m0ffhydek",
+        "point_name": "鼓浪屿和记洋行仓库遗址",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.064322,
+          24.450955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0fpsiq4k_1720241867920.jpg",
+        "location": "",
+        "point_id": "m0fpsiq4k",
+        "point_name": "鼓浪屿和记洋行仓库遗址旁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.067177,
+          24.448905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0fmwtnpa_1720241820507.jpg",
+        "location": "",
+        "point_id": "m0fmwtnpa",
+        "point_name": "鼓浪屿钢琴码头旁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.064024,
+          24.452091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0d7vgoml_1720240043731.jpg",
+        "location": "",
+        "point_id": "m0d7vgoml",
+        "point_name": "三丘田码头",
+        "remark": "琴山港码头原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.070502,
+          24.447244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0d3yyeic_1720241904800.jpg",
+        "location": "",
+        "point_id": "m0d3yyeic",
+        "point_name": "厦门海洋环境监测中心站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.06627,
+          24.44911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azb3jcv_1770913147902.jpg",
+        "location": "",
+        "point_id": "azb3jcv",
+        "point_name": "厦门海底世界",
+        "remark": "背景建筑顶部相对于现实有调整。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.068508,
+          24.44898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0ewy1bcn_1720240151640.jpg",
+        "location": "",
+        "point_id": "m0ewy1bcn",
+        "point_name": "琴山港码头-地图位置",
+        "remark": "游戏中为前往从琴屿（鼓浪屿）前往鹭城本岛（厦门岛）的琴山港码头的地图位置，现实中该位置为鼓浪屿钢琴码头，但主角前往此处后出现的背景为三丘田码头。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.067181,
+          24.44876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0d5ruyb6_1720236806487.jpg",
+        "location": "",
+        "point_id": "m0d5ruyb6",
+        "point_name": "厦门海底世界 章鱼雕像",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.066476,
+          24.448388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azat4s9_1770912652446.jpg",
+        "location": "",
+        "point_id": "azat4s9",
+        "point_name": "厦门海底世界",
+        "remark": "位于厦门海底世界入口。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.06615,
+          24.448458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azau9zn_1770912702047.jpg",
+        "location": "",
+        "point_id": "azau9zn",
+        "point_name": "厦门海底世界 抹香鲸标本馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.066161,
+          24.448432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/m0d5x1j41_1720236784196.jpg",
+        "location": "",
+        "point_id": "m0d5x1j41",
+        "point_name": "厦门海底世界 抹香鲸标本馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.066215,
+          24.448451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azatn5o_1770912680191.jpg",
+        "location": "",
+        "point_id": "azatn5o",
+        "point_name": "厦门海底世界 抹香鲸标本馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.066074,
+          24.448694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azatxsv_1770912688026.jpg",
+        "location": "",
+        "point_id": "azatxsv",
+        "point_name": "厦门海底世界",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.067146,
+          24.448745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azb2zvy_1770913113389.jpg",
+        "location": "",
+        "point_id": "azb2zvy",
+        "point_name": "厦门海洋世界 章鱼雕像",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.160369,
+          24.464932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azacm84_1770911909479.jpg",
+        "location": "",
+        "point_id": "azacm84",
+        "point_name": "仁和医院-地图位置",
+        "remark": "该位置现实中为厦门城市职业学院，并没有医院。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.118675,
+          24.48114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/azaymb1_1770912921898.jpg",
+        "location": "",
+        "point_id": "azaymb1",
+        "point_name": "明发商业广场",
+        "remark": "位于南侧地下，可顺着河流找。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.119284,
+          24.481126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beihy8u_1771832558443.jpg",
+        "location": "",
+        "point_id": "beihy8u",
+        "point_name": "明发商业广场",
+        "remark": "位于东南角电梯附近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.117841,
+          24.482018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beiddhn_1771832396953.jpg",
+        "location": "",
+        "point_id": "beiddhn",
+        "point_name": "明发商业广场",
+        "remark": "具体位置不明。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.118138,
+          24.481512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beigvj5_1771832522769.jpg",
+        "location": "",
+        "point_id": "beigvj5",
+        "point_name": "明发商业广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.117924,
+          24.48169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beiedni_1771832416770.jpg",
+        "location": "",
+        "point_id": "beiedni",
+        "point_name": "明发商业广场",
+        "remark": "具体位置不明。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.117822,
+          24.481613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beifr90_1771832469731.jpg",
+        "location": "",
+        "point_id": "beifr90",
+        "point_name": "明发商业广场",
+        "remark": "具体位置不明。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.119132,
+          24.481174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beif4h6_1771832441998.jpg",
+        "location": "",
+        "point_id": "beif4h6",
+        "point_name": "明发商业广场",
+        "remark": "位于广场东南角通向地下的通道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.118394,
+          24.481584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beici7c_1771832329997.jpg",
+        "location": "",
+        "point_id": "beici7c",
+        "point_name": "明发商业广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.119182,
+          24.48082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/beigdxq_1771832483167.jpg",
+        "location": "",
+        "point_id": "beigdxq",
+        "point_name": "明发商业广场地下停车场",
+        "remark": "具体位置不明。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.116869,
+          24.482245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/baexw4e_1771832155838.jpg",
+        "location": "",
+        "point_id": "baexw4e",
+        "point_name": "奔马雕像",
+        "remark": "位于明发广场西门。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.061848,
+          24.44212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/baf3dw2_1771832166526.jpg",
+        "location": "",
+        "point_id": "baf3dw2",
+        "point_name": "港仔后沙滩",
+        "remark": "游戏出出现的标牌编号为22Z或2Z2，标牌目前已全部更换。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.088879,
+          24.476064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/baf7be4_1771832180696.jpg",
+        "location": "",
+        "point_id": "baf7be4",
+        "point_name": "白鹭洲公园白鹭女神像",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.093124,
+          24.48168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/bafcac7_1771832191061.jpg",
+        "location": "",
+        "point_id": "bafcac7",
+        "point_name": "白鹭洲东公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.080238,
+          24.484369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449852,
+        "bangumi_title": "亿数追忆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/449852/bagyrek_1771832213768.jpg",
+        "location": "",
+        "point_id": "bagyrek",
+        "point_name": "海上明珠塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

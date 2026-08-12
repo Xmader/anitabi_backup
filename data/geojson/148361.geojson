@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.338663,
+          48.8848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148361,
+        "bangumi_title": "熊巫女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/148361/g1iayot_1781930107117.jpg",
+        "location": "",
+        "point_id": "g1iayot",
+        "point_name": "Abbesses",
+        "remark": "メトロのアベス駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.335852,
+          48.861012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148361,
+        "bangumi_title": "熊巫女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/148361/g1icuwt_1781930205631.jpg",
+        "location": "",
+        "point_id": "g1icuwt",
+        "point_name": "ルーブル美術館 Musée du Louvre",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.296302,
+          48.857118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148361,
+        "bangumi_title": "熊巫女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/148361/g1iealg_1781930327369.jpg",
+        "location": "",
+        "point_id": "g1iealg",
+        "point_name": "エッフェル塔 Tour Eiffel",
+        "remark": "剧本喂翔，监督也得背锅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.305332,
+          48.870758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148361,
+        "bangumi_title": "熊巫女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/148361/g1iulyb_1781931015048.jpg",
+        "location": "",
+        "point_id": "g1iulyb",
+        "point_name": "Champs Élysées",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.332634,
+          48.854123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148361,
+        "bangumi_title": "熊巫女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/148361/g1iyg9l_1781931200747.jpg",
+        "location": "",
+        "point_id": "g1iyg9l",
+        "point_name": "Café de Flore",
+        "remark": "喫茶店は家の近所のカフェ・ド・フロール。アニメ本編では「Kuma de Village」と書かれています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.295344,
+          48.873708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148361,
+        "bangumi_title": "熊巫女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/148361/g1j0h4w_1781931987645.jpg",
+        "location": "",
+        "point_id": "g1j0h4w",
+        "point_name": "凱旋門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

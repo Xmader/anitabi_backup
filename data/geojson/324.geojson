@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.4324,
+          34.930335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324,
+        "bangumi_title": "攻壳机动队 STAND ALONE COMPLEX",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/324/points/2.jpg",
+        "location": "",
+        "point_id": "51r4ysl33",
+        "point_name": "大型​放射光​施設\nSPring​-​8",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.426754,
+          34.945084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324,
+        "bangumi_title": "攻壳机动队 STAND ALONE COMPLEX",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/324/points/7.jpg",
+        "location": "",
+        "point_id": "51r8yha5e",
+        "point_name": "大型​放射光​施設 ​SPring​-​8",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.021061,
+          34.6171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324,
+        "bangumi_title": "攻壳机动队 STAND ALONE COMPLEX",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/324/51rbwkeee_1672386655412.jpg",
+        "location": "",
+        "point_id": "51rbwkeee",
+        "point_name": "明石海峡大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.042142,
+          34.625859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324,
+        "bangumi_title": "攻壳机动队 STAND ALONE COMPLEX",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/324/51rcqe7d8_1727774414984_half.jpg",
+        "location": "",
+        "point_id": "51rcqe7d8",
+        "point_name": "明石海峡大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.251105,
+          34.695992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324,
+        "bangumi_title": "攻壳机动队 STAND ALONE COMPLEX",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/324/ulh0z9ti1_1744459255851.jpg",
+        "location": "",
+        "point_id": "ulh0z9ti1",
+        "point_name": "神戸港",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

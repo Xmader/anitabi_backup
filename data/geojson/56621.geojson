@@ -1,0 +1,645 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.611415,
+          35.40706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "序章",
+        "image_url": "https://w.junreimap.com/images/points/56621/p0stufnvd_1728733817895.jpg",
+        "location": "",
+        "point_id": "p0stufnvd",
+        "point_name": "汐見台中学校",
+        "remark": "游戏舞台「雛城高校」的原型。考据参考http://park3.wakwak.com/~kypyma/twilight/uwasa/kensho01.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.575983,
+          35.700018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/56621/p0sscr6xm_1728733656101.jpg",
+        "location": "",
+        "point_id": "p0sscr6xm",
+        "point_name": "井の頭公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.56976,
+          35.700238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/56621/p0tcbfiw5_1728734927029.jpg",
+        "location": "",
+        "point_id": "p0tcbfiw5",
+        "point_name": "井の頭公園 彫刻園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.58098,
+          35.698208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/56621/p0taylgye_1728734777983.jpg",
+        "location": "",
+        "point_id": "p0taylgye",
+        "point_name": "井の頭公園 ひょうたん橋",
+        "remark": "从地图来看为桥的原型，实际形状不一致。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50637,
+          35.701113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/56621/p0te4eq95_1728735117674.jpg",
+        "location": "",
+        "point_id": "p0te4eq95",
+        "point_name": "武蔵小金井駅",
+        "remark": "「村山台駅」原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.578944,
+          35.703451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/56621/p0u2za73j_1728736476395.jpg",
+        "location": "",
+        "point_id": "p0u2za73j",
+        "point_name": "朝日通り商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.611267,
+          35.40736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "c121758e",
+        "point_name": "雛城高校モデル",
+        "remark": "description: 名前: 説明: はじまりの噂 から登場する雛城高校のモデルと想定される場所横浜市立汐見台中学校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.573702,
+          35.699748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "2a299bae",
+        "point_name": "心霊写真量産公園",
+        "remark": "description: 名前: 説明: 第一の噂 心霊写真量産公園の舞台正しくは井の頭恩賜公園"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.578774,
+          35.699894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "dc7be662",
+        "point_name": "野外劇場",
+        "remark": "description: 名前: 野外劇場説明: 第一の噂 心霊写真量産公園に登場する野外劇場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.575426,
+          35.699598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "2bcb2a44",
+        "point_name": "こうべ橋",
+        "remark": "description: 名前: 説明: 第一の噂 心霊写真量産公園 に出てくる場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.569377,
+          35.70008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "b88b9d01",
+        "point_name": "彫刻園",
+        "remark": "description: 名前: 説明: 第一の噂 心霊写真量産公園に登場する彫刻園井の頭公園内に実在する彫刻家北村西望のアトリエが元となっている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.577887,
+          35.700042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "680ba7cf",
+        "point_name": "売店",
+        "remark": "description: 名前: 説明: 第一の噂 心霊写真量産公園 に登場する売店のモデルと想定される場所花見茶屋水月"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.574305,
+          35.699593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "55f473c2",
+        "point_name": "電話ボックス",
+        "remark": "description: 名前: 説明: 第一の噂 心霊写真量産公園 に登場する電話ボックスはここだと思っている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.506912,
+          35.701123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "88ece3e7",
+        "point_name": "村山台駅",
+        "remark": "description: 名前: 説明: 第三の噂 最終電車の舞台JR中央線 武蔵小金井駅駅舎が建て替わり高架化した為、当時の面影はまったくない"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50532,
+          35.7009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "699ecbfd",
+        "point_name": "フェンス越えの場所",
+        "remark": "description: 名前: 説明: 第三の噂 最終電車 に登場するフェンス越えの場所駅舎建替、高架化でまったく異なる場所となってしまっている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.507481,
+          35.700912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "d3e263c0",
+        "point_name": "WOS BURGER",
+        "remark": "description: 名前: 説明: 第三の噂 最終電車に出てくるハンバーガーショップMOS BURGERが元ネタとしか考えられない末永く営業していただきたい"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580008,
+          35.702721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "78e38111",
+        "point_name": "幽霊ビル",
+        "remark": "description: 名前: 説明: 第八の噂 錆びた穽元々はターミナルエコーという駅ビルだったが、テナントがどんどんいなくなって幽霊ビルと言われていた現在は建て替えられている為当時の面影はまったくない"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.581097,
+          35.706164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "a60a183d",
+        "point_name": "タロット占いの場所",
+        "remark": "description: 名前: 説明: 第九の噂 オカルト・ミステリー・ツアーに出てくるタロット占いの場所はここじゃないかと思っている「見ませんかー、どうぞー」という占いのお姉さんがサンロードにいた"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561368,
+          35.707156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "5c7ed18a",
+        "point_name": "ユカリとカズヤがデートしているファミレス",
+        "remark": "description: 名前: 説明: 第六の噂 夕闇の少年ユカリと教育実習生のカズヤが密会していたファミレスはここではないかと勝手に想定"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579879,
+          35.703795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "53eab03d",
+        "point_name": "武蔵野朝日通り",
+        "remark": "description: 名前: 説明: 第十の噂 裏側の街吉祥寺サンロード商店街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.577799,
+          35.705068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "662b2472",
+        "point_name": "トーキュー",
+        "remark": "description: 名前: 説明: 第十の噂 裏側の街ミカのセリフに出てきた商業施設東急百貨店吉祥寺店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579171,
+          35.703747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "9ef36680",
+        "point_name": "朝日通り",
+        "remark": "description: 名前: 説明: 第十の噂 裏側の街吉祥寺に「朝日通り」は実在する"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.577964,
+          35.70365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "dec142e1",
+        "point_name": "PARKO",
+        "remark": "description: 名前: 説明: 第十の噂 裏側の街ミカのセリフに出てきた商業施設吉祥寺PARCO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579227,
+          35.699322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "8db533a9",
+        "point_name": "児童遊園",
+        "remark": "description: 名前: 説明: 第十の噂 裏側の街 に登場する児童遊園はこのあたりではないか井の頭公園内"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580504,
+          35.705046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "958c3928",
+        "point_name": "アーケード前",
+        "remark": "description: 名前: 説明: Prankに登場するアーケード前はここではないかと邪推吉祥寺サンロード商店街の途中"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.666892,
+          35.661585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "ff9a4935",
+        "point_name": "霜北",
+        "remark": "description: 名前: 説明: ムーンライトシンドロームで登場する地名基本は地名のみ拝借した印象駅が地下化され、大規模再開発されている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.587276,
+          35.699529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "f4533d06",
+        "point_name": "ヒューマン株式会社跡地",
+        "remark": "description: 名前: 説明: 現在はスタジオディーンの社屋トワイライトシンドロームを初め、数々の名作ゲームを世に送り出したヒューマン株式会社はかつてここに存在した"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579922,
+          35.708847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "fd62d3ee",
+        "point_name": "ヒューマンクリエイティブスクール跡地",
+        "remark": "description: 名前: 説明: 数々の才能を輩出したゲーム専門学校の跡地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580094,
+          35.704291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "67e7e928",
+        "point_name": "ゲーム批評2001年9月号集合写真撮影場所",
+        "remark": "description: 名前: 説明: ゲーム批評2001年9月号に掲載された「トワイライトシンドロームスタッフ同窓会」の集合写真を撮影した場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.564248,
+          35.689582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "8d4d2628",
+        "point_name": "取扱説明書でミカがいる団地屋上",
+        "remark": "description: 名前: 説明: すでに建て替わってるけど昔はもっと建物が密だったので、この辺りで撮影したのではないかと妄想している"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.587289,
+          35.721796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "3fb8a3ed",
+        "point_name": "千川上水暗渠入口",
+        "remark": "description: 名前: 説明: 武蔵野市近辺で暗渠となった河川の一つ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.559735,
+          35.701555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 56621,
+        "bangumi_title": "黄昏症候群 探索篇/究明編",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "トワイライトシンドローム探索編・究明編 ロケ地・舞台モデル",
+        "point_id": "56f98692",
+        "point_name": "さくら通り",
+        "remark": "description: 名前: 説明: 玉川上水の支流 品川用水が暗渠化された通り 曲線が当時の川の流れを偲ばせる"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

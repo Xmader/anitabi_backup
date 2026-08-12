@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.390994,
+          39.912092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 420628,
+        "bangumi_title": "药屋少女的呢喃",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/420628/points/lenn7nemt-1718536033207.jpg",
+        "location": "",
+        "point_id": "lenn7nemt",
+        "point_name": "紫禁城",
+        "remark": "皇帝的住处（午门画面有魔改）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.40662,
+          39.88224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 420628,
+        "bangumi_title": "药屋少女的呢喃",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/420628/points/leo3p0pvc-1718536122168.jpg",
+        "location": "",
+        "point_id": "leo3p0pvc",
+        "point_name": "苍穹檀",
+        "remark": "皇室举行祭祀仪式的场所，猫猫在此救下了壬氏"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.711273,
+          35.712194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13812,
+        "bangumi_title": "同一屋檐下",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13812/points/uyytqb0u1-1745516965257.jpg",
+        "location": "",
+        "point_id": "uyytqb0u1",
+        "point_name": "東京都新宿区西早稲田3丁目",
+        "remark": "柏木家（现为民居）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658331,
+          35.673579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13812,
+        "bangumi_title": "同一屋檐下",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13812/points/uyz1sy7zj-1745517320175.jpg",
+        "location": "",
+        "point_id": "uyz1sy7zj",
+        "point_name": "東京都杉並区和泉1丁目",
+        "remark": "达也的洗衣店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.930848,
+          37.071291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13812,
+        "bangumi_title": "同一屋檐下",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13812/points/uyz74fmhy-1745517646691.jpg",
+        "location": "",
+        "point_id": "uyz74fmhy",
+        "point_name": "新潟県糸魚川市大字中浜",
+        "remark": "柏木小雪が夕日を見ていた防波堤"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

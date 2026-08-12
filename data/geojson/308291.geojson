@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.884108,
+          35.171836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m04maxxx6_1720217715038.jpg",
+        "location": "",
+        "point_id": "m04maxxx6",
+        "point_name": "名古屋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.885457,
+          35.169427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m04ofnyqt_1720217844557.jpg",
+        "location": "",
+        "point_id": "m04ofnyqt",
+        "point_name": "泥江町通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907079,
+          35.16423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m04q3nxuf_1720217963150.jpg",
+        "location": "",
+        "point_id": "m04q3nxuf",
+        "point_name": "大津通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905286,
+          35.165344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m04r8v9uc_1720218011401.jpg",
+        "location": "",
+        "point_id": "m04r8v9uc",
+        "point_name": "ナディアパーク",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903527,
+          35.162946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m04ssry36_1720218107077.jpg",
+        "location": "",
+        "point_id": "m04ssry36",
+        "point_name": "若宮八幡社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.453618,
+          34.805856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m04vybwfk_1720218296978.jpg",
+        "location": "",
+        "point_id": "m04vybwfk",
+        "point_name": "大阪大学豊中キャンパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.43633,
+          34.667989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308291,
+        "bangumi_title": "星光咖啡馆与死神之蝶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/308291/m050xxwdu_1720218597708.jpg",
+        "location": "",
+        "point_id": "m050xxwdu",
+        "point_name": "ユニバーサル・スタジオ・アーチ・ゲート",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

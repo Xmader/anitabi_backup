@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.760888,
+          35.664915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 493453,
+        "bangumi_title": "BIBBIDIBA",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/493453/pvsqijidc_1731163168981.jpg",
+        "location": "",
+        "point_id": "pvsqijidc",
+        "point_name": "新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

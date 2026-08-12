@@ -1,0 +1,2945 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.509195,
+          35.713925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/f290ba0f_1773058810606.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "f290ba0f",
+        "point_name": "都立小金井公園 蒸気機関車展示センター C57 186号機",
+        "remark": "都立小金井公园 蒸汽机车展示场 C57 186号机\n【最初的电车】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531299,
+          35.354048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "f7145e53",
+        "point_name": "大船駅",
+        "remark": "大船駅\n【大船站】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55604,
+          35.325488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/e0be2726_1772954462608.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "e0be2726",
+        "point_name": "鶴岡八幡宮 舞殿",
+        "remark": "鹤冈八幡宫 舞殿\n【对镰仓的印象】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.742539,
+          34.987376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/01560cd4_1774449791587.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "01560cd4",
+        "point_name": "京都鉄道博物館 プロムナード モハ80001",
+        "remark": "京都铁道博物馆 游廊 モハ80001\n【大船站开往镰仓站的电车】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550143,
+          35.319053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "af3a7580",
+        "point_name": "鎌倉駅",
+        "remark": "鎌倉駅\n【镰仓站】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.819447,
+          35.724783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/9487b860_1772954492796.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "9487b860",
+        "point_name": "東武博物館 キャブオーバーバス",
+        "remark": "东武博物馆 平头式公共汽车\n【公交车内】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.378918,
+          34.386109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/3876f5ab_1772954501708.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "3876f5ab",
+        "point_name": "小松寺",
+        "remark": "小松寺\n【镰仓的墓地山门】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553048,
+          35.299785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/387d1169_1772954509133.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "387d1169",
+        "point_name": "正覚寺",
+        "remark": "正觉寺\n【镰仓的海】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.350466,
+          35.327645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "1658b410",
+        "point_name": "平塚駅",
+        "remark": "平塚駅\n【平冢站】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685845,
+          35.575205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/5969e35b_1774096937947.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "5969e35b",
+        "point_name": "昭和のくらし博物館 階段と玄関",
+        "remark": "昭和生活博物馆 楼梯与玄关                                                          \n【大崎租住的须贺町二层建筑一楼 楼梯及玄关】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.900946,
+          35.654876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/12e8f5e3_1774096946967.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "12e8f5e3",
+        "point_name": "浦安市郷土博物館 魚屋（旧太田家住宅） 戸棚とラジオ",
+        "remark": "浦安市乡土博物馆 鱼店（旧太田家住宅） 橱柜与收音机\n【大崎租住的须贺町二层建筑一楼 右侧柜子及收音机】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.990618,
+          35.340428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/be2e1413_1772954529821.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "be2e1413",
+        "point_name": "森鷗外・夏目漱石住宅",
+        "remark": "森鸥外・夏目漱石住宅\n【大崎的房间】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910523,
+          34.344664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/7be61536_1772954539445.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "7be61536",
+        "point_name": "旧森川家住宅 門の前",
+        "remark": "旧森川家住宅 大门口\n【台场宅邸门口】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910241,
+          34.344575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/d50e674f_1772954546559.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "d50e674f",
+        "point_name": "旧森川家住宅 廊下",
+        "remark": "旧森川家住宅 走廊\n【台场宅邸走廊】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910505,
+          34.344511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/56f49d0d_1772954551670.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "56f49d0d",
+        "point_name": "旧森川家住宅 離れ座敷",
+        "remark": "旧森川家住宅 别屋\n【台场宅邸佐兵卫的房间】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988821,
+          35.347112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a9c8035b_1772954558475.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "a9c8035b",
+        "point_name": "帝国ホテル中央玄関 玄関",
+        "remark": "帝国饭店中央玄关 玄关\n【帝国饭店玄关】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988774,
+          35.347176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/36144033_1772954564567.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "36144033",
+        "point_name": "帝国ホテル中央玄関 ホール",
+        "remark": "帝国饭店中央玄关 大厅\n【帝国饭店大厅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511253,
+          35.716316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/7633efb3_1772954572886.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "7633efb3",
+        "point_name": "デ・ラランデ邸 食堂",
+        "remark": "De Lalande邸 食堂\n【日比谷的咖啡馆 / 稻村崎咖啡馆】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.880176,
+          35.758018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/eea8302a_1772954587194.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "eea8302a",
+        "point_name": "山本亭 鳳凰の間",
+        "remark": "山本亭 凤凰之间\n【爵士咖啡店】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48747,
+          35.338898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "6926631b",
+        "point_name": "藤沢駅",
+        "remark": "藤沢駅\n【藤泽站】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.990243,
+          35.340036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/2462b021_1774096981709.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "2462b021",
+        "point_name": "西郷從道邸 書斎 食堂 応接室",
+        "remark": "西乡从道邸 书房 食堂 会客室\n【新木场侦探社 椅子、文件柜、植物及桌子】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.680232,
+          35.662138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/558f8327_1774096992258.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "558f8327",
+        "point_name": "旧前田侯爵邸洋館 旧会議室",
+        "remark": "旧前田侯爵邸洋馆 旧会议室\n【新木场侦探社 窗户及窗帘】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.990349,
+          35.341587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/0a55dde9_1774097008122.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "0a55dde9",
+        "point_name": "札幌電話交換局 壁掛けの電話機",
+        "remark": "札幌电话交换局 壁挂电话\n【新木场侦探社 电话】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.900892,
+          35.6549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/6241aa73_1772954626559.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "6241aa73",
+        "point_name": "浦安市郷土博物館 路地",
+        "remark": "浦安市乡土博物馆 小巷\n【浦竹小巷 / 品川家附近小巷 / 隅田川沿岸的街市】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774039,
+          35.619108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/fc3b5852_1772954640619.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "fc3b5852",
+        "point_name": "南極観測船「宗谷」 外観",
+        "remark": "南极观测船「宗谷」 外观\n【浦竹码头】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773645,
+          35.619106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/d93eec60_1772954647639.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "d93eec60",
+        "point_name": "南極観測船「宗谷」 第一科員室",
+        "remark": "南极观测船「宗谷」 第一科员室\n【黑潮丸一等客室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77378,
+          35.619175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/e05c9934_1772954656161.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "e05c9934",
+        "point_name": "南極観測船「宗谷」 デッキ",
+        "remark": "南极观测船「宗谷」 甲板\n【黑潮丸甲板】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773765,
+          35.619046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/d88f2ce3_1772954663977.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "d88f2ce3",
+        "point_name": "南極観測船「宗谷」 階段",
+        "remark": "南极观测船「宗谷」 楼梯\n【黑潮丸甲板 楼梯】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773839,
+          35.619113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/cswfj08_1774879294897.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "cswfj08",
+        "point_name": "南極観測船「宗谷」 遠景",
+        "remark": "南极观测船「宗谷」 远景\n【小船】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.901088,
+          35.654814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/62d88e62_1772954674944.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "62d88e62",
+        "point_name": "浦安市郷土博物館 天ぷら屋「天鉄」 メニュー札",
+        "remark": "浦安市乡土博物馆 天妇罗店「天铁」 菜单\n【八丈岛饭馆】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.901073,
+          35.654809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a201fb98_1772954685527.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "a201fb98",
+        "point_name": "浦安市郷土博物館 天ぷら屋「天鉄」",
+        "remark": "浦安市乡土博物馆 天妇罗店「天铁」\n【八丈岛饭馆风景】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.380801,
+          34.382427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/c6b48317_1772954695600.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "c6b48317",
+        "point_name": "常夜燈",
+        "remark": "常夜灯\n【八重根港码头】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.381983,
+          34.380611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/fc094e39_1772962404505.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "fc094e39",
+        "point_name": "大可島の波止（大波止）",
+        "remark": "大可岛码头（大码头）\n【大江岛港】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865788,
+          34.179762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/38de4859_1772962417817.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "38de4859",
+        "point_name": "旧柴屋住宅 外観",
+        "remark": "旧柴屋住宅 外观\n【大江岛街道】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865839,
+          34.179793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/e5jsrpg_1777820964460.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "e5jsrpg",
+        "point_name": "旧柴屋住宅 入り口と窓口",
+        "remark": "旧柴屋住宅 入口及窗户\n【从室内向外看到的大江岛街道】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865352,
+          34.177322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/5d196ce5_1772962424829.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "5d196ce5",
+        "point_name": "歴史の見える丘公園",
+        "remark": "历史可见山丘公园\n【从高处俯视大江岛街道】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911109,
+          34.346858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/9a936f24_1772962450680.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "9a936f24",
+        "point_name": "西方寺 山門",
+        "remark": "西方寺 山门\n【大江岛主街道 月宗寺山门】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511834,
+          35.716311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/f917f94f_1773031948745.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "f917f94f",
+        "point_name": "前川國男邸 居間 机と椅子",
+        "remark": "前川国男邸 客厅 桌椅\n【三日月食堂 桌椅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.990318,
+          35.341618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/31f63076_1773031970336.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "31f63076",
+        "point_name": "札幌電話交換局 デルビル磁石式壁掛電話機",
+        "remark": "札幌电话交换局 Delvil磁石式壁挂电话\n【三日月电话室中】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.439961,
+          34.686972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/c3b606e7_1773031981684.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "c3b606e7",
+        "point_name": "踊子の里資料館（旧港屋旅館） 照明",
+        "remark": "舞女之乡资料馆（旧港屋旅馆） 照明灯\n【三日月大崎的房间 照明】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511647,
+          35.716024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/74f93896_1773031992882.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "74f93896",
+        "point_name": "常盤台写真場 台所",
+        "remark": "常盘台写真馆 厨房\n【三日月厨房】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.258431,
+          36.146417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/61768426_1773032051654.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "61768426",
+        "point_name": "日下部民藝館",
+        "remark": "日下部民艺馆\n【八重垣玄关前】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.43996,
+          34.686964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/03ac9e0d_1773032060712.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "03ac9e0d",
+        "point_name": "踊子の里資料館（旧港屋旅館）",
+        "remark": "舞女之乡资料馆 旧港屋旅馆\n【八重垣玄关 左侧电话室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867441,
+          34.179667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/0ef9a810_1773067416946.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "0ef9a810",
+        "point_name": "乙女座",
+        "remark": "乙女座\n【八重垣玄关大门】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.440821,
+          34.686362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/533c7198_1773032071875.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "533c7198",
+        "point_name": "旧甚之丸邸",
+        "remark": "旧甚之丸邸 厕所\n【八重垣厕所】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.901123,
+          35.654957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/bf2bd7d8_1773032084830.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "bf2bd7d8",
+        "point_name": "浦安市郷土博物館 漁師の家（旧吉田家貸家住宅） かまど",
+        "remark": "浦安市乡土博物馆 渔师的家（旧吉田家贷家住宅） 土灶\n【八重垣厨房 炉灶】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.99225,
+          35.341409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/382c2f44_1773032116706.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "382c2f44",
+        "point_name": "椅子芝川又右衛門邸 寝室",
+        "remark": "芝川又右卫门邸 寝室\n【八重垣厨房 炉灶】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.90095,
+          35.65502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a038a7a6_1773032127716.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "a038a7a6",
+        "point_name": "浦安市郷土博物館 たばこ屋（旧本澤家住宅）",
+        "remark": "浦安市乡土博物馆 烟草店（旧本泽家住宅）\n【八重垣地下室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515038,
+          35.716727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/b81153b2_1773032138129.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "b81153b2",
+        "point_name": "子宝湯 男湯場",
+        "remark": "子宝汤 男士浴场\n【八重垣大浴场】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515041,
+          35.716714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/309e0ddc_1773032300166.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "309e0ddc",
+        "point_name": "子宝湯 男脱衣所",
+        "remark": "子宝汤 男士脱衣所\n【八重垣里屋的脱衣所】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.197803,
+          34.408223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/e29012c7_1773032003650.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "e29012c7",
+        "point_name": "光明寺",
+        "remark": "光明寺\n【月宗寺外观】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910433,
+          34.344612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/161a2133_1773032014977.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "161a2133",
+        "point_name": "旧森川家住宅 テーブル",
+        "remark": "旧森川家住宅 桌子\n【月宗寺客室 桌子】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91004,
+          34.347235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/013096be_1774105449211.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "013096be",
+        "point_name": "のんびり亭向かいの古民家",
+        "remark": "のんびり亭对面的古民家\n【月宗寺本堂庭院 左侧仓库】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.547525,
+          35.337726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/b0f06f29_1773032028461.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "b0f06f29",
+        "point_name": "円覚寺 大方丈",
+        "remark": "圆觉寺 大方丈\n【月宗寺本堂庭院】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195751,
+          34.407191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/cc054eae_1773032040093.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "cc054eae",
+        "point_name": "持光寺 本堂",
+        "remark": "持光寺 本堂\n【月宗寺本堂】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552612,
+          35.320351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/3ebab695_1773059022966.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "3ebab695",
+        "point_name": "豊島屋 本店",
+        "remark": "丰岛屋 本店\n【鸽三郎】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693958,
+          35.285608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/81ee03cf_1773032309672.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "81ee03cf",
+        "point_name": "レンガ造りのトンネル",
+        "remark": "砖砌隧道\n【山中隧道入口】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.990174,
+          34.313037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/7516fcc7_1773032321489.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "7516fcc7",
+        "point_name": "長浦毒ガス貯蔵庫跡",
+        "remark": "长浦毒气贮藏仓库旧址\n【山中遗迹】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.992227,
+          34.311435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/f4483632_1773032333055.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "f4483632",
+        "point_name": "中部砲台跡",
+        "remark": "中部炮台旧址\n【防空壕内】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694101,
+          35.286265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/03a2efb6_1773032343671.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "03a2efb6",
+        "point_name": "トンネル出口からトンネル内を振り返る",
+        "remark": "站在隧道出口向隧道回望\n【山中二分的隧道】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694424,
+          35.286526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/505d7448_1773032354765.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "505d7448",
+        "point_name": "猿島防空監視所跡",
+        "remark": "猿岛防空监视所旧址\n【瞭望台】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.900998,
+          35.654768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/fca333b7_1774106355977.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "fca333b7",
+        "point_name": "浦安市郷土博物館 風呂屋",
+        "remark": "浦安市乡土博物馆 澡堂\n【初次相遇】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.990897,
+          35.343047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/1a0d66fe_1772962382298.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "1a0d66fe",
+        "point_name": "日本赤十字社中央病院病棟 病室",
+        "remark": "日本红十字会中央医院病房\n【八丈岛病房】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.990931,
+          35.343056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/c60b255e_1772962389576.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "c60b255e",
+        "point_name": "日本赤十字社中央病院病棟 廊下",
+        "remark": "日本红十字会中央医院病房 走廊\n【八丈岛医院走廊】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.348074,
+          35.329699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/81314798_1774106040614.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "81314798",
+        "point_name": "湘南ひらつか七夕まつり",
+        "remark": "湘南平冢七夕祭\n【七夕】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.522458,
+          35.305408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "e9rjmpq",
+        "point_name": "稲村ヶ崎駅",
+        "remark": "稻村崎站\n【稻村崎站】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502088,
+          35.306606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/d9560a8b_1773058978178.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "d9560a8b",
+        "point_name": "鎌倉高校前1号踏切",
+        "remark": "镰仓高校前1号铁道口\n【铁道口】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.347767,
+          35.3338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/182efa78_1773058459318.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "182efa78",
+        "point_name": "旧横浜ゴム平塚製造所記念館（八幡山の洋館）",
+        "remark": "旧横滨橡胶平冢制造所纪念馆（八幡山的洋馆）\n【有明家的阳台】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.788839,
+          35.035553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/b7c10198_1773058475920.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "b7c10198",
+        "point_name": "旧駒井家住宅「駒井卓・静江記念館」",
+        "remark": "旧驹井家住宅「驹井卓・静江纪念馆」\n【有明家寝室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.347741,
+          35.333799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/e2db5a19_1774105874781.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "e2db5a19",
+        "point_name": "旧横浜ゴム平塚製造所記念館（八幡山の洋館） 門",
+        "remark": "旧横滨橡胶平冢制造所纪念馆（八幡山的洋馆） 门\n【有明家寝室的门】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643404,
+          35.436615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/4a63c372_1774097105614.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "4a63c372",
+        "point_name": "外交官の家 風呂場",
+        "remark": "外交官之家 浴室\n【有明家的浴室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.354526,
+          35.314577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/ba1391e1_1772954518939.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "ba1391e1",
+        "point_name": "湘南ベルマーレひらつかビーチパーク",
+        "remark": "湘南Bellmare平冢海滨公园\n【平冢的海边】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.350149,
+          34.755782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/ca24b808_1773031959079.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "ca24b808",
+        "point_name": "長根浜公園 長根岬",
+        "remark": "长根浜公园 长根岬\n【大江岛岬】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.538827,
+          35.315598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/9ec1bf75_1773058646388.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "9ec1bf75",
+        "point_name": "鎌倉文学館",
+        "remark": "镰仓文学馆\n【新桥宅外观】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.680125,
+          35.662142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a7937fc4_1773032376048.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "a7937fc4",
+        "point_name": "旧前田侯爵邸洋館 旧寝室",
+        "remark": "旧前田侯爵邸洋馆 旧寝室\n【新桥的房间】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.680164,
+          35.662146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/ed2a365d_1773032389086.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "ed2a365d",
+        "point_name": "旧前田侯爵邸洋館 旧大食堂",
+        "remark": "旧前田侯爵邸洋馆 旧大食堂\n【新桥宅二楼】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988632,
+          35.341636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/bc18c53a_1774105581006.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "bc18c53a",
+        "point_name": "東山梨郡役所 机と椅子",
+        "remark": "东山梨郡官署 桌子和椅子\n【新桥宅二楼 桌椅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.680101,
+          35.662146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/44cb049c_1773032457900.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "44cb049c",
+        "point_name": "旧前田侯爵邸洋館 旧風呂場",
+        "remark": "旧前田侯爵邸洋馆 旧浴室\n【新桥宅浴室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.99226,
+          35.34143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/fce23c92_1773032477406.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "fce23c92",
+        "point_name": "芝川又右衛門邸 踊り場",
+        "remark": "芝川又右卫门邸 楼梯平台\n【新桥宅楼梯平台】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.992273,
+          35.341416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/7ae6f14a_1773032494929.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "7ae6f14a",
+        "point_name": "芝川又右衛門邸 玄関",
+        "remark": "芝川又右卫门邸 玄关\n【新桥宅玄关】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.86587,
+          34.179827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/083d4416_1772962437845.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "083d4416",
+        "point_name": "旧柴屋住宅",
+        "remark": "旧柴屋住宅\n【大江岛商家一楼 港万屋】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.595215,
+          35.575077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/8ccbb998_1773058612066.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "8ccbb998",
+        "point_name": "新井筒屋",
+        "remark": "新井筒屋\n【笠间投宿的旅馆】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.383348,
+          34.38306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "b68a9589",
+        "point_name": "福禅寺 対潮楼",
+        "remark": "福禅寺 对潮楼\n【同名ED曲 对潮楼】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514884,
+          35.716347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/429b0e3a_1773032676336.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "429b0e3a",
+        "point_name": "川野商店 照明カットイン",
+        "remark": "川野商店 照明灯\n【料亭屋内 照明】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765208,
+          32.456994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/68c52148_1773058486984.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "68c52148",
+        "point_name": "青ケ島",
+        "remark": "青之岛\n【青之岛】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.989685,
+          35.344833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/c896cf73_1773058193336.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "c896cf73",
+        "point_name": "本鄉喜之床",
+        "remark": "本乡喜之床\n【监狱 会见室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.989351,
+          35.345913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/6c122a12_1773058202802.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "6c122a12",
+        "point_name": "金沢監獄正門",
+        "remark": "金泽监狱正门\n【监狱 门前】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.394738,
+          34.724476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/57cc055f_1773058560016.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "57cc055f",
+        "point_name": "三原山",
+        "remark": "三原山\n【三原山】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866609,
+          34.179018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/e51e3ab9_1773058228591.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "e51e3ab9",
+        "point_name": "リトルカフェ たるます",
+        "remark": "Little Cafe たるます\n【腰越的家前】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511662,
+          35.716017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/11344a1e_1773058240554.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "11344a1e",
+        "point_name": "常盤台写真場 支度室",
+        "remark": "常盘台写真馆 更衣室\n【腰越的家二楼】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511669,
+          35.716029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/7dcee1ca_1773032576241.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "7dcee1ca",
+        "point_name": "常盤台写真場 外観",
+        "remark": "常盘台写真馆 外观\n【丰洲的家】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.51181,
+          35.716298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/bd2253e7_1773032589801.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "bd2253e7",
+        "point_name": "前川國男邸 居間",
+        "remark": "前川国男邸 客厅\n【丰洲的家二楼 楼梯】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988966,
+          35.341765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/0557663e_1774105719182.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "0557663e",
+        "point_name": "清水医院",
+        "remark": "清水医院\n【丰洲的家二楼 左右侧柜子】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.992544,
+          35.341801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/6e768926_1773032619742.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "6e768926",
+        "point_name": "長崎居留地二十五番館",
+        "remark": "长崎居留地二十五番馆\n【丰洲的家二楼 桌椅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511233,
+          35.716303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/58d898b8_1773032635889.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "58d898b8",
+        "point_name": "デ・ラランデ邸 主寝室",
+        "remark": "De Lalande邸 主寝室\n【丰洲的家三楼】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.035489,
+          35.475091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a683077d_1773032659604.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "a683077d",
+        "point_name": "ぎふ清流里山公園 旧朝日村庁舎",
+        "remark": "岐阜清流里山公园 旧朝日村厅舍\n【丰洲的家一楼】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.379048,
+          34.386464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/0d8ccdc2_1774106958024.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "0d8ccdc2",
+        "point_name": "沼名前神社 能舞台",
+        "remark": "沼名前神社 能舞台\n【丰洲宣传图】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866367,
+          34.179055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "游戏内CG及地名",
+        "point_id": "458a230c",
+        "point_name": "若胡子屋跡",
+        "remark": "若胡子屋旧址\n【花魁的故事】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700629,
+          35.659058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/8b24ad6b_1772954596386.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "8b24ad6b",
+        "point_name": "ハチ公前広場 忠犬ハチ公像",
+        "remark": "八公广场 忠犬八公像\n【忠犬八公广场】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.987979,
+          35.340113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/d40fe159_1774105395647.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "d40fe159",
+        "point_name": "三重県尋常師範学校・蔵持小学校",
+        "remark": "三重县寻常师范学校・蔵持小学校\n【忠犬八公广场 背景里的车站】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.350882,
+          34.751896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a36f2b94_1773058515191.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "a36f2b94",
+        "point_name": "元町港",
+        "remark": "元町港\n【八丈岛机场】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781402,
+          33.098457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/3ecface2_1773058499543.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "3ecface2",
+        "point_name": "大里の玉石垣",
+        "remark": "大里的玉石垣\n【八丈岛街道】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.51441,
+          35.716374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/f792c984_1773058525725.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "f792c984",
+        "point_name": "天明家 居間",
+        "remark": "天明家 客厅\n【船野家大厅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514359,
+          35.716373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/7ca42106_1773058536747.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "7ca42106",
+        "point_name": "天明家 広間",
+        "remark": "天明家 大厅\n【船野家客室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514446,
+          35.716348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/0e11488d_1773058542969.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "0e11488d",
+        "point_name": "天明家 土間",
+        "remark": "天明家 土间\n【船野家玄关口】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511844,
+          35.71622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/bed1a685_1773058344183.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "bed1a685",
+        "point_name": "前川國男邸 外観",
+        "remark": "前川国男邸 外观\n【轻井泽别墅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511619,
+          35.716003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/b6e2a8fa_1774105788894.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "b6e2a8fa",
+        "point_name": "常盤台写真場 玄関",
+        "remark": "常盘台写真馆 玄关\n【轻井泽别墅玄关左侧】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511643,
+          35.716002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/4157200d_1774105802385.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "4157200d",
+        "point_name": "常盤台写真場 台所",
+        "remark": "常盘台写真馆 厨房\n【轻井泽别墅玄关右侧】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511837,
+          35.716299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/b0b52013_1773058353665.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "b0b52013",
+        "point_name": "前川國男邸 居間",
+        "remark": "前川国男邸 客厅\n【轻井泽别墅客厅】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511799,
+          35.716292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/9d1dc859_1773058372137.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "9d1dc859",
+        "point_name": "前川國男邸 寝室",
+        "remark": "前川国男邸 寝室\n【轻井泽别墅寝室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.511827,
+          35.716293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/ceb62d9e_1773058380239.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "ceb62d9e",
+        "point_name": "前川國男邸 台所",
+        "remark": "前川国男邸 厨房\n【轻井泽别墅厨房】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.988253,
+          35.346434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/bf285673_1773058392062.jpg",
+        "location": "游戏内CG及地名",
+        "point_id": "bf285673",
+        "point_name": "高田小熊写真館",
+        "remark": "高田小熊写真馆\n【画室】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.728189,
+          35.619851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/81fbdd50_1774450132971.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "81fbdd50",
+        "point_name": "りんかい線 大崎駅",
+        "remark": "临海线 大崎站\n【大崎】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79329,
+          35.634581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/449d99d6_1774450003095.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "449d99d6",
+        "point_name": "ゆりかもめ線 有明駅",
+        "remark": "百合鸥线 有明站\n【有明】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.677004,
+          35.672991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "f0d65018",
+        "point_name": "代々幡斎場",
+        "remark": "代代幡斋场\n【代代旗斋场】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.556346,
+          35.325986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "f50c9b21",
+        "point_name": "鶴岡八幡宮 夏越祭",
+        "remark": "SS 鹤冈八幡宫 夏越祭"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75834,
+          35.666379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/c8d51eec_1774449916245.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "c8d51eec",
+        "point_name": "ゆりかもめ線 新橋駅",
+        "remark": "百合鸥线 新桥站\n【新桥】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.719649,
+          35.708733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "b8f203a1",
+        "point_name": "早稲田大学",
+        "remark": "早稻田大学\n【早濑田大学】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.309171,
+          35.319966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "d27c2a16",
+        "point_name": "高麗山公園（湘南平）",
+        "remark": "SS 湘南平"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781161,
+          35.624672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/3ecc8125_1774449983411.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "3ecc8125",
+        "point_name": "ゆりかもめ線 青海駅",
+        "remark": "百合鸥线 青海站\n【青海】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.4337,
+          34.686368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "a2627ede",
+        "point_name": "大島町立第三中学校",
+        "remark": "大岛町立第三中学校\n【中学音乐教师】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773156,
+          35.718135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "fe2c0b57",
+        "point_name": "東京音楽学校 (旧制)→東京藝術大学音楽学部 旧東京音楽学校奏楽堂",
+        "remark": "东京音乐学校（旧制）→东京艺术大学音乐学部  旧东京音乐学校奏乐堂\n【东京音乐学校甲种师范科】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480927,
+          35.299099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "ff4aefb5",
+        "point_name": "江の島",
+        "remark": "SS 江之岛"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48204,
+          35.30412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "d48zpug",
+        "point_name": "弁天橋",
+        "remark": "SS 弁天桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481064,
+          35.302098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "f94ebc13",
+        "point_name": "青銅の鳥居",
+        "remark": "SS 青铜鸟居"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480996,
+          35.301968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "9ec00a57",
+        "point_name": "江の島弁財天仲見世通り",
+        "remark": "SS 江之岛弁财天仲见商店街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761914,
+          35.653967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/3e35c06c_1774449940271.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "3e35c06c",
+        "point_name": "ゆりかもめ線 竹芝駅",
+        "remark": "百合鸥线 竹芝站\n【竹芝】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479428,
+          35.310005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "183ac246",
+        "point_name": "江の島水族館（2004年閉館）→新江ノ島水族館",
+        "remark": "SS 江之岛水族馆"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75997,
+          35.662899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/3491b629_1774449926253.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "3491b629",
+        "point_name": "ゆりかもめ線 汐留駅",
+        "remark": "百合鸥线 汐留站\n【汐留】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71188,
+          35.655115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "08a4897d",
+        "point_name": "國學院大學",
+        "remark": "国学院大学\n【学国大学】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.491406,
+          35.307737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "1686520f",
+        "point_name": "腰越海岸",
+        "remark": "SS 腰越海岸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785686,
+          35.645733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/f25df71f_1774450013783.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "f25df71f",
+        "point_name": "ゆりかもめ線 市場前駅",
+        "remark": "百合鸥线 市场前站\n【市场前】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765592,
+          35.711735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "fb3294c3",
+        "point_name": "東京大学医学部附属病院",
+        "remark": "东京大学医学部附属病院\n【帝国大学附属医院】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514331,
+          35.303917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "6d23bbcb",
+        "point_name": "七里ヶ浜海岸",
+        "remark": "SS 七里滨海岸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795441,
+          35.65376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/64c0e761_1774450025115.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "64c0e761",
+        "point_name": "ゆりかもめ線 豊洲駅",
+        "remark": "百合鸥线 丰洲站\n【丰洲】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759073,
+          35.649161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/1bc70522_1774449948748.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "1bc70522",
+        "point_name": "ゆりかもめ線 日の出駅",
+        "remark": "百合鸥线 日之出站\n【日出】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.329402,
+          35.322603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "90913046",
+        "point_name": "花水川",
+        "remark": "SS 花水川"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.36731,
+          35.327272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "02a4c6de",
+        "point_name": "相模川",
+        "remark": "SS 相模川"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773055,
+          35.621421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/a1b3c952_1774449972655.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "a1b3c952",
+        "point_name": "ゆりかもめ線 旧 船の科学館駅→现 東京国際クルーズターミナル駅",
+        "remark": "百合鸥线 旧 船的科学馆站→现 东京国际邮轮码头站\n【船野】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255173,
+          35.299452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "044c2a36",
+        "point_name": "二宮町",
+        "remark": "SS 二宫町"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771496,
+          35.625946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/cc584dc0_1774449958635.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "cc584dc0",
+        "point_name": "ゆりかもめ線 台場駅",
+        "remark": "百合鸥线 台场站\n【台场】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52193,
+          35.304346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "e6yk9kn",
+        "point_name": "鎌倉海浜公園稲村ヶ崎地区",
+        "remark": "SS 稻村崎海滨"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.826792,
+          35.645907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/9512c03d_1774450164737.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "9512c03d",
+        "point_name": "りんかい線 新木場駅",
+        "remark": "临海线 新木场站\n【新木场】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749688,
+          35.609715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/522285/4b4c8d80_1774450153189.jpg",
+        "location": "人物情报与湘南十景",
+        "point_id": "4b4c8d80",
+        "point_name": "りんかい線 品川シーサイド駅",
+        "remark": "临海线 品川海滨站\n【品川】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757768,
+          35.641936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "2ce302dd",
+        "point_name": "ゆりかもめ線 芝浦ふ頭駅",
+        "remark": "百合鸥线 芝浦埠头站\n【芝浦】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756804,
+          35.666783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "047de358",
+        "point_name": "烏森神社",
+        "remark": "乌森神社\n【乌森】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.803672,
+          35.640723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 522285,
+        "bangumi_title": "大秽-完全版-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "人物情报与湘南十景",
+        "point_id": "ae00cf17",
+        "point_name": "りんかい線 東雲駅",
+        "remark": "临海线 东云站\n【东云】"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

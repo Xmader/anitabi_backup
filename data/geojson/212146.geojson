@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.741637,
+          35.648039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212146,
+        "bangumi_title": "爱吃拉面的小泉同学",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212146/points/kjllr36y6-1716103117475.jpg",
+        "location": "",
+        "point_id": "kjllr36y6",
+        "point_name": "ラーメン二郎 三田本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.741672,
+          35.64804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212146,
+        "bangumi_title": "爱吃拉面的小泉同学",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212146/points/kjmf5urw0-1716103213407.jpg",
+        "location": "",
+        "point_id": "kjmf5urw0",
+        "point_name": "ラーメン二郎 三田本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

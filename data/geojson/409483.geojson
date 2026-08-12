@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.191654,
+          34.847817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 409483,
+        "bangumi_title": "天使☆嚣嚣 RE-BOOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/409483/points/pex8p8amr-1729840488169.jpg",
+        "location": "",
+        "point_id": "pex8p8amr",
+        "point_name": "庭園（神戸フルーツ・フラワーパーク）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.348688,
+          34.771377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 409483,
+        "bangumi_title": "天使☆嚣嚣 RE-BOOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/409483/points/pexdbm11i-1729840731634.jpg",
+        "location": "",
+        "point_id": "pexdbm11i",
+        "point_name": "仁川五ヶ山町",
+        "remark": "路口处，朝西南方向"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.618795,
+          34.851627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 409483,
+        "bangumi_title": "天使☆嚣嚣 RE-BOOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/409483/points/pexqp5piy-1729841537539.jpg",
+        "location": "",
+        "point_id": "pexqp5piy",
+        "point_name": "高槻駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.766423,
+          35.007427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 409483,
+        "bangumi_title": "天使☆嚣嚣 RE-BOOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/409483/points/pexwbydez-1729841880782.jpg",
+        "location": "",
+        "point_id": "pexwbydez",
+        "point_name": "御幸町通 Reims Japone",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.359786,
+          34.743949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 409483,
+        "bangumi_title": "天使☆嚣嚣 RE-BOOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/409483/points/pexj10e3l-1729841140762.jpg",
+        "location": "",
+        "point_id": "pexj10e3l",
+        "point_name": "阪急西宮ガーデンズ",
+        "remark": "大概在3F的阪急西宮ガ一デンズ店旁边的扶梯"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631005,
+          35.45854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 409483,
+        "bangumi_title": "天使☆嚣嚣 RE-BOOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/409483/points/pey4t5ore-1729842433686.jpg",
+        "location": "",
+        "point_id": "pey4t5ore",
+        "point_name": "MARK IS みなとみらい",
+        "remark": "人行道上，旁边有块摩托车入内的停车场指示牌"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

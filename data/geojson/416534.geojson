@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.91811,
+          35.366541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 416534,
+        "bangumi_title": "Overtake!",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/416534/points/dm6fepap7-1696555733361.jpg",
+        "location": "",
+        "point_id": "dm6fepap7",
+        "point_name": "富士​スピード​ウェイ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

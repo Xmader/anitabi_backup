@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.680361,
+          35.461616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2412,
+        "bangumi_title": "湾岸MIDNIGHT",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2412/points/ltccbd7dt-1719686102849.jpg",
+        "location": "",
+        "point_id": "ltccbd7dt",
+        "point_name": "大黒パーキングエリア",
+        "remark": "JDM聚集地（至今）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.809119,
+          35.64302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2412,
+        "bangumi_title": "湾岸MIDNIGHT",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/2153/2024-12/43f3a344687f3141be5a23b29b852344.jpeg",
+        "location": "",
+        "point_id": "r18cf0c94",
+        "point_name": "首都高速湾岸線辰巳JCT 辰巳PA",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705174,
+          35.474605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2412,
+        "bangumi_title": "湾岸MIDNIGHT",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2153/bangumi/2412/points/r18k02226-1734410275332.jpg",
+        "location": "",
+        "point_id": "r18k02226",
+        "point_name": "首都高速湾岸線鶴見つばさ橋",
+        "remark": "被神选中的男人"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

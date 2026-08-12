@@ -1,0 +1,545 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.780118,
+          35.617309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/kqkgq8quv-1716647665607.jpg",
+        "location": "",
+        "point_id": "kqkgq8quv",
+        "point_name": "テレコム​センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779418,
+          35.617541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/lxaq4j7s6-1719995979088.jpg",
+        "location": "",
+        "point_id": "lxaq4j7s6",
+        "point_name": "テレコム​センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794447,
+          35.629753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/lxau8wx22-1719996163279.jpg",
+        "location": "",
+        "point_id": "lxau8wx22",
+        "point_name": "東京​ビッグ​サイト",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.777339,
+          35.642047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/lxaw1uqsy-1719996284401.jpg",
+        "location": "",
+        "point_id": "lxaw1uqsy",
+        "point_name": "レインボー​ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772038,
+          35.633386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/lxayy9on4-1719996449816.jpg",
+        "location": "",
+        "point_id": "lxayy9on4",
+        "point_name": "台場公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500554,
+          35.306714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/ly1wxwhou-1720055104443.jpg",
+        "location": "",
+        "point_id": "ly1wxwhou",
+        "point_name": "鎌倉高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.723727,
+          35.692359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 36,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/p8r0oqoqs-1729356952450.jpg",
+        "location": "",
+        "point_id": "p8r0oqoqs",
+        "point_name": "曙橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.993659,
+          32.681706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 44,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/q6vo4ipse-1732031343273.jpg",
+        "location": "",
+        "point_id": "q6vo4ipse",
+        "point_name": "通潤橋",
+        "remark": "大古失去神光棒后经过的地方，现在已经和作品里不太一样了，毕竟快三十年过去了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757716,
+          35.64862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/q6vveovpy-1732031843808.jpg",
+        "location": "",
+        "point_id": "q6vveovpy",
+        "point_name": "DS海岸ビル",
+        "remark": "大古在隐蔽地方变身被桐野发现的场景，24年1月巡礼过和当年毫无变化，可拍出非常还原的照片"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786484,
+          35.628394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/q6wek1lf9-1732032872947.jpg",
+        "location": "",
+        "point_id": "q6wek1lf9",
+        "point_name": "カスケード広場 (水の広場公園)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.747986,
+          35.62342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/q6wi2ld9i-1732033060491.jpg",
+        "location": "",
+        "point_id": "q6wi2ld9i",
+        "point_name": "天王洲 T33 Terrace",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.372421,
+          35.611782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/11304/points/q7dkh6lkz-1732070490545.jpg",
+        "location": "",
+        "point_id": "q7dkh6lkz",
+        "point_name": "四本柱",
+        "remark": "根据分享大致确认路段，卫星地图上看应该是旁边的两栋房子\nJapan, 〒192-0364 Tokyo, Hachioji, Minamiōsawa, 5-chōme−９−5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.604453,
+          32.968559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "EP43",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/q7ddpyct6-1732069849696.jpg",
+        "location": "",
+        "point_id": "q7ddpyct6",
+        "point_name": "トンカラリン 七段の階段",
+        "remark": "本身就是一个遗迹景点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.005036,
+          40.360308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/r8zvub7yu-1735018244489.jpg",
+        "location": "",
+        "point_id": "r8zvub7yu",
+        "point_name": "八达岭长城",
+        "remark": "被超古代尖兵怪兽佐加袭击的地点之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.044565,
+          40.689152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/r8zytk81p-1735018452280.jpg",
+        "location": "",
+        "point_id": "r8zytk81p",
+        "point_name": "Statue of liberty",
+        "remark": "超古代尖兵怪兽佐加掠过上空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617201,
+          55.751328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/r903qf4fc-1735018728812.jpg",
+        "location": "",
+        "point_id": "r903qf4fc",
+        "point_name": "Патриаршие палаты",
+        "remark": "被超古代尖兵怪兽佐加袭击的地点之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.174338,
+          41.403536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/r90g0q25n-1735019463594.jpg",
+        "location": "",
+        "point_id": "r90g0q25n",
+        "point_name": "Basílica de la Sagrada Família",
+        "remark": "超古代尖兵怪兽佐加掠过上空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489957,
+          35.310241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/sqh6iycx1-1739209240225.jpg",
+        "location": "",
+        "point_id": "sqh6iycx1",
+        "point_name": "星野写真館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502094,
+          35.306677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1vze8s2-1751121059703.jpg",
+        "location": "镰仓",
+        "point_id": "1vze8s2",
+        "point_name": "腰越ラッコ公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489363,
+          35.310826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1vzkmqn-1751121466858.jpg",
+        "location": "镰仓",
+        "point_id": "1vzkmqn",
+        "point_name": "龍口寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.501931,
+          35.30665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1vzu02u-1751121800654.jpg",
+        "location": "镰仓",
+        "point_id": "1vzu02u",
+        "point_name": "镰仓高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784524,
+          35.633531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1w03ffw-1751122239551.jpg",
+        "location": "台场",
+        "point_id": "1w03ffw",
+        "point_name": "東京都虹の下水道館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779965,
+          35.617255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1w06n34-1751122395731.jpg",
+        "location": "台场",
+        "point_id": "1w06n34",
+        "point_name": "电信中心",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774005,
+          35.62926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1w0jnhc-1751122982825.jpg",
+        "location": "台场",
+        "point_id": "1w0jnhc",
+        "point_name": "台场海滨公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.501956,
+          35.306649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "46",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/1vzvajn-1751121846240.jpg",
+        "location": "镰仓",
+        "point_id": "1vzvajn",
+        "point_name": "镰仓高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776598,
+          35.68904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "迪迦奥特曼第一季",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/3m7zobi-1754884408770.jpg",
+        "location": "",
+        "point_id": "3m7zobi",
+        "point_name": "3 Chome-6-5 Nihonbashihoncho, Chuo City, Tokyo 103-0023日本",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.212576,
+          -33.861133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11304,
+        "bangumi_title": "迪迦奥特曼",
+        "ep_cut": "50",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/11304/points/43xvqos-1755955898369.jpg",
+        "location": "",
+        "point_id": "43xvqos",
+        "point_name": "Circular Quay",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

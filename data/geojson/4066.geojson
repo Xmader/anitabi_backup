@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.696432,
+          35.690245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p85usdsh4-1729310727050.jpg",
+        "location": "新宿",
+        "point_id": "p85usdsh4",
+        "point_name": "新宿郵便局前",
+        "remark": "熟练街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.388263,
+          35.773071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p8654b7i8-1729311294833.jpg",
+        "location": "成田空港",
+        "point_id": "p8654b7i8",
+        "point_name": "成田空港第２ターミナル",
+        "remark": "世界名画诞生地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.383577,
+          35.763553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p86fi0tu6-1729311968698.jpg",
+        "location": "成田空港",
+        "point_id": "p86fi0tu6",
+        "point_name": "成田空港第1ターミナル 展望デッキ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.385671,
+          35.764984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p86igdwer-1729312129117.jpg",
+        "location": "成田空港",
+        "point_id": "p86igdwer",
+        "point_name": "JR成田空港駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579881,
+          35.703443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/4066/p8aouzjwx_1729321219374.jpg",
+        "location": "",
+        "point_id": "p8aouzjwx",
+        "point_name": "吉祥寺駅北口",
+        "remark": "南末次站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.899112,
+          35.729679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/4066/p8ar26uoo_1729321349964.jpg",
+        "location": "市川",
+        "point_id": "p8ar26uoo",
+        "point_name": "さくら堤公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519458,
+          35.903008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p879pwcba-1729313779164.jpg",
+        "location": "埼玉",
+        "point_id": "p879pwcba",
+        "point_name": "南古谷駅前",
+        "remark": "末次町站外"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.907885,
+          35.729443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p87k7ip3y-1729314622461.jpg",
+        "location": "市川",
+        "point_id": "p87k7ip3y",
+        "point_name": "市川駅北口",
+        "remark": "岩津町站外"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519575,
+          35.9034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4066,
+        "bangumi_title": "白色相簿2 序章",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/4066/points/p87cglqrb-1729313929398.jpg",
+        "location": "埼玉",
+        "point_id": "p87cglqrb",
+        "point_name": "南古谷駅",
+        "remark": "岩津町站站台"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.1244,
+          51.50073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/611089/9frtgl3_1767555134655.jpg",
+        "location": "",
+        "point_id": "9frtgl3",
+        "point_name": "Big Ben",
+        "remark": "PV"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.075434,
+          51.505333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/611089/9frwt4e_1767555267063.jpg",
+        "location": "",
+        "point_id": "9frwt4e",
+        "point_name": "Tower Bridge",
+        "remark": "PV"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.087697,
+          51.507919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/611089/9fry7nl_1767555332228.jpg",
+        "location": "",
+        "point_id": "9fry7nl",
+        "point_name": "London Bridge",
+        "remark": "PV。实际上是老伦敦桥，现代的伦敦桥于20世纪建成，取代了老伦敦桥。对岸的细高柱状地标是The Monument（伦敦大火纪念柱）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.288418,
+          55.871564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/611089/9fwq00h_1767563374439.jpg",
+        "location": "",
+        "point_id": "9fwq00h",
+        "point_name": "Gilbert Scott Building",
+        "remark": "PV。这不格拉斯哥大学那栋楼么？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.126976,
+          51.519445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/611089/points/b7e2dcz-1771402124848.jpg",
+        "location": "",
+        "point_id": "b7e2dcz",
+        "point_name": "British Museum",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.164515,
+          51.499142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/611089/points/f9ald7e-1780224341332.jpg",
+        "location": "一条院 りり、ドロシー・ブラウン",
+        "point_id": "f9ald7e",
+        "point_name": "Harrods",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.194551,
+          50.745978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 611089,
+        "bangumi_title": "棱镜恋曲",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/611089/points/h71giht-1784441371237.webp",
+        "location": "",
+        "point_id": "h71giht",
+        "point_name": "Seven Sisters Cliffs",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

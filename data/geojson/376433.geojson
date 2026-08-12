@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.289371,
+          48.861581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376433,
+        "bangumi_title": "政宗君的复仇R",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376433/points/33g8ld9-1753749416937.jpg",
+        "location": "",
+        "point_id": "33g8ld9",
+        "point_name": "Sculptures Chevaux et Chien",
+        "remark": "第二季第一集政宗 愛姫被法国宅女扣下当素材，路过埃菲尔铁塔。三人的位置在两座雕塑之间的观景台，番中和现实几乎一样，地砖、水池都是一一对应的（街景）留子可以实地去观察"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

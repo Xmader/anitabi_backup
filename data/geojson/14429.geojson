@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.900358,
+          36.279361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14429,
+        "bangumi_title": "寒蝉鸣泣之时 煌",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8sqzkary-1723718265616.jpg",
+        "location": "煌",
+        "point_id": "n8sqzkary",
+        "point_name": "荻町秋葉神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908218,
+          36.256947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14429,
+        "bangumi_title": "寒蝉鸣泣之时 煌",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/289/n8w3r1m2j_1723725599492.jpg",
+        "location": "煌",
+        "point_id": "n8w3r1m2j",
+        "point_name": "長瀬家裏",
+        "remark": "注: 具体位置不明，待修正。 煌"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907614,
+          36.256446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14429,
+        "bangumi_title": "寒蝉鸣泣之时 煌",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/289/n8vz5or2w_1723725284542.jpg",
+        "location": "煌",
+        "point_id": "n8vz5or2w",
+        "point_name": "かんじや 付近",
+        "remark": "注: 具体位置不明，待修正。 煌"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907511,
+          36.259281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14429,
+        "bangumi_title": "寒蝉鸣泣之时 煌",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8tfrd3rh-1723719766224.jpg",
+        "location": "煌",
+        "point_id": "n8tfrd3rh",
+        "point_name": "和田家 周辺",
+        "remark": "煌"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908946,
+          36.261955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14429,
+        "bangumi_title": "寒蝉鸣泣之时 煌",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uidhjem-1723722093053.jpg",
+        "location": "煌",
+        "point_id": "n8uidhjem",
+        "point_name": "嘘だ坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

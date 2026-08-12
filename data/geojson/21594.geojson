@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.713462,
+          35.438457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21594,
+        "bangumi_title": "侦探花咲太郎系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "iljiew3tx",
+        "point_name": "呉服・​洋品​まる​たか",
+        "remark": "我们穿过已经倒闭了的香烟店和出售中学校服等东西的店之间，开过已废弃了的车站铁轨。\n——《侦探·花咲太郎2》 第二章 双子宠物事件"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.71345,
+          35.438237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21594,
+        "bangumi_title": "侦探花咲太郎系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "iljitp50o",
+        "point_name": "名鉄揖斐線踏切跡",
+        "remark": "我们穿过已经倒闭了的香烟店和出售中学校服等东西的店之间，开过已废弃了的车站铁轨。\n——《侦探·花咲太郎2》 第二章 双子宠物事件"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.713429,
+          35.438189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21594,
+        "bangumi_title": "侦探花咲太郎系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "iljmcu24u",
+        "point_name": "市橋たばこ店",
+        "remark": "我们穿过已经倒闭了的香烟店和出售中学校服等东西的店之间，开过已废弃了的车站铁轨。\n——《侦探·花咲太郎2》 第二章 双子宠物事件"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

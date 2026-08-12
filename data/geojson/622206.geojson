@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.37469,
+          35.588309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/622206/gldnavl_1783131689741.webp",
+        "location": "",
+        "point_id": "gldnavl",
+        "point_name": "相模原市",
+        "remark": "在美国陆军相模补给总库上方向相模原站方向拍摄。\nhttps://www.google.com/maps/@35.5884427,139.3747684,282a,35y,213.22h,76.26t/data=!3m1!1e3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.373929,
+          35.571108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/622206/points/guf3tan-1783678238468.webp",
+        "location": "",
+        "point_id": "guf3tan",
+        "point_name": "相模原市役所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477135,
+          35.298753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/622206/i4f8dzz_1786459919241.webp",
+        "location": "",
+        "point_id": "i4f8dzz",
+        "point_name": "龍恋の鐘",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

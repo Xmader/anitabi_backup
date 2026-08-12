@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          144.967211,
+          -37.817883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 329114,
+        "bangumi_title": "想要成为影之实力者！",
+        "ep_cut": "20",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/329114/points/nqz27f2pp-1725142774758.jpg",
+        "location": "",
+        "point_id": "nqz27f2pp",
+        "point_name": "Flinders Station",
+        "remark": "透视存在偏差，无法完美还原\n（2026.08.03）最近Flinders street和Russell street交叉口存在大量施工，请注意安全，不要妨碍正常通行和作业"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

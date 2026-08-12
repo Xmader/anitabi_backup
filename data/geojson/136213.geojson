@@ -1,0 +1,1465 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.510604,
+          34.984001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qpcx_1752230372996.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qpcx",
+        "point_name": "1話　清水南高校",
+        "remark": "ハルチカ原作の舞台　校訓の刻まれた石碑は実在しますが　校舎自体のデザインはまったく異なるものですhttp://www.shimizuminami.ed.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.516525,
+          35.001667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qpg5_1752230322310.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qpg5",
+        "point_name": "1話　チカの家",
+        "remark": "中盤チカが帰った実家の位置です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.485167,
+          35.017588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qt0y_1752230345197.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qt0y",
+        "point_name": "1話　大正橋",
+        "remark": "中学時代の回想でチカが渡っていた橋　奥に見えるのが隣のJR鉄橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.443774,
+          34.994817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qt5y",
+        "point_name": "1話　芝生公園",
+        "remark": "ハルタとチカの幼少期の回想の中で土手滑りをやっていた場所と考えられます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.510151,
+          34.984816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qtim",
+        "point_name": "1話　折戸公園",
+        "remark": "ハルタとチカの幼少期の回想の中で遊んでいた（ハルタの背中にチカがカエルを入れていた）公園のモチーフの場所であると考えられます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.516668,
+          35.002107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qt0e",
+        "point_name": "1話　帰り道",
+        "remark": "南校からの帰りにハルタとチカが通っていた道　その他帰り道のカットも周辺ですが細かいので割愛します"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.530586,
+          35.010851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qt5p_1752230408929.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qt5p",
+        "point_name": "1話　学校前（位置モデル）",
+        "remark": "劇中の南高校は三保園ホテルの位置がモデルとなっている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.529861,
+          35.010702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qtdi_1672367821351.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qtdi",
+        "point_name": "2話　学校前の風景",
+        "remark": "学校が三保園ホテルの位置であるため必然的に学校前も三保園ホテル前の駐車スペース　石垣が特徴的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.530425,
+          35.011117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qtog_1752230441126.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qtog",
+        "point_name": "2話　焼鳥センター（焼肉センター）",
+        "remark": "『国産完熟パイン味ってどこにあるのよ～！』ハルタとチカが前を通過した焼鳥センター　実際には焼肉センター　http://tabelog.com/shizuoka/A2201/A220102/22014775/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488258,
+          35.024728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52quc6_1752230470476.jpg",
+        "location": "1~4話",
+        "point_id": "51i52quc6",
+        "point_name": "3話　金子フルート",
+        "remark": "ハルタの提案、先生のコネでチカが通うことになったフルート教室　実在はしません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.48928,
+          35.021797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qu4r_1752230529868.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qu4r",
+        "point_name": "3話　マリナートの前",
+        "remark": "演劇部が練習していたホールの前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.489663,
+          35.021937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qtqp_1752230540477.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qtqp",
+        "point_name": "3話　マリナート大ホール",
+        "remark": "演劇部が使用していたホールhttp://www.marinart.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487131,
+          35.01868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qtp5",
+        "point_name": "3話　ドーナツ工房モリカフェ",
+        "remark": "店のモデルは東京にあるドーナツ工房 レポロです　清水にはドーナツカフェは無いので仕方ないですね　4話でタケダフルーツ横が位置モデルと判明"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.532544,
+          35.011304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qu8n",
+        "point_name": "3話　三保灯台前の海岸線",
+        "remark": "ラストシーンでハルタとチカが黄昏ていた海岸　奥に見えるのはつまれたテトラポッド"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487094,
+          35.018558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qucj",
+        "point_name": "4話　波止場踏切前の景色",
+        "remark": "最初のカット　いくつかの店がそのまま名前を変えて登場しています"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487163,
+          35.018697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "1~4話",
+        "point_id": "51i52qtpp",
+        "point_name": "4話　イケダフルーツ（タケダフルーツ）",
+        "remark": "巡礼者に人気の地元の老舗フルーツ店　タケダフルーツさんが　イケダフルーツとして登場http://tabelog.com/shizuoka/A2201/A220102/22017183/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487096,
+          35.018652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qu6e_1752230588549.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qu6e",
+        "point_name": "4話　6SPOT（5SPOT）",
+        "remark": "夕方の休憩シーン　5SPOTさんが6SPOTに"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.514488,
+          34.991055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qty3_1752230642909.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qty3",
+        "point_name": "4話　車移動シーン1",
+        "remark": "地面にレンガ、後ろに校舎の見えるカット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.511886,
+          34.990196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qtpb_1752230651188.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qtpb",
+        "point_name": "4話　車移動シーン2",
+        "remark": "交差点を曲がらないと～の下り　東海大学清水キャンパス、高校前の通りです"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.519359,
+          34.998662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qtzh_1752230659237.jpg",
+        "location": "1~4話",
+        "point_id": "51i52qtzh",
+        "point_name": "4話　車移動シーン3",
+        "remark": "三保の松原手前の案内板スペース"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.519796,
+          35.004875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52quqq_1752230624429.jpg",
+        "location": "1~4話",
+        "point_id": "51i52quqq",
+        "point_name": "4話　マツダ不動産（ヤマヘイ不動産）",
+        "remark": "ハルタの新居探しに来た不動産　1階が食堂、2階が不動産になっています　ハルチカポスターも貼ってありましたhttp://www.yamahei.co.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.477339,
+          35.010636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "5~8話",
+        "point_id": "51i52qurp",
+        "point_name": "5話　清水桜ヶ丘高校",
+        "remark": "新キャラクターの朱里の中学　桜ヶ丘中学は存在しませんが高校はあります　3年前に清水商業高校と庵原高校の二校が合体してできたばかりの新しい高校ですhttp://www.s-city.ed.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.479587,
+          35.011645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qv26_1752230691100.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qv26",
+        "point_name": "5話　清水中央図書館",
+        "remark": "エレファンツ・ブレスについて調べに来た図書館　実在します　内装も地元の人ならよく分かるこだわりの再現でしたhttp://www.toshokan.city.shizuoka.jp/?page_id=93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.437554,
+          34.980419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52quxc_1752230724612.jpg",
+        "location": "5~8話",
+        "point_id": "51i52quxc",
+        "point_name": "5話　清水日本平動物園（広場）",
+        "remark": "駿河区、葵区方面を一望できる展望広場です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.437495,
+          34.980417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qvxt_1752230733291.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qvxt",
+        "point_name": "5話　清水日本平動物園（ゾウ）",
+        "remark": "ゾウの鼻息を見に来たシーン　緑の案内板が特徴的ですね　http://www.nhdzoo.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.532802,
+          35.013632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qvsq_1752230817237.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qvsq",
+        "point_name": "6話　南高校屋上からの風景",
+        "remark": "屋上からの風景は清水側と対岸の蒲原側　現在三保灯台へ登ることはできないので　対岸と富士山が並んでる風景を写せるのは海岸からだけです"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.447223,
+          34.995867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "5~8話",
+        "point_id": "51i52qvmj",
+        "point_name": "7話　静岡県立大学",
+        "remark": "地学研究部が実績を上げたと説明されていた大学"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.485211,
+          34.990194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qvrz_1752230849228.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qvrz",
+        "point_name": "7話　睡蓮寺山門（龍華寺）",
+        "remark": "カイユの実家　FMはごろもを放送していたお寺　http://www.ryugeji.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.484463,
+          34.990737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qvhd_1752230860596.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qvhd",
+        "point_name": "7話　カイユが出てきた建物（会館）",
+        "remark": "カイユが顔を出した玄関がある建物です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.484691,
+          34.990246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qvd8_1752230869243.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qvd8",
+        "point_name": "7話　茅葺屋根の建物と庭（本堂）",
+        "remark": "階段上の七賢者がいるお堂が見える茅葺屋根の建物と庭のカット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.48454,
+          34.990012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qv6t_1752230932371.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qv6t",
+        "point_name": "7話　七賢者の堂への階段（観富園）",
+        "remark": "関係者以外立ち入り禁止　ではないです　"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.484432,
+          34.990001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qvah_1752230953018.jpg",
+        "location": "5~8話",
+        "point_id": "51i52qvah",
+        "point_name": "7話　堂の手前　夜景のカット",
+        "remark": "七賢者の堂を見上げているカットと清水区を見下ろしているカットの位置です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.48432,
+          34.990102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "5~8話",
+        "point_id": "51i52qvmd",
+        "point_name": "7話　七賢者のいるはなれ（七面堂）",
+        "remark": "カイユと七賢者のラジオをやっていたはなれです"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.513485,
+          34.989613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qw7b_1752231003886.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qw7b",
+        "point_name": "9話　藤が咲高校校門",
+        "remark": "高校の校舎まで距離があるためかなり広く見える校門です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.514779,
+          34.98868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qws3_1752231017547.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qws3",
+        "point_name": "9話　藤が咲高校玄関",
+        "remark": "二階との吹き抜けになっており靴箱が並んだ生徒、教師共通の玄関です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.514756,
+          34.988462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qx3u_1752231036516.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qx3u",
+        "point_name": "9話　藤が咲高校教室",
+        "remark": "モデルは東海大学付属静岡翔洋高等学校　教室までしっかり再現していました　黒板の上にある額は建学の精神という東海大学の格言です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.513023,
+          34.989802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qxc3_1752231062277.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qxc3",
+        "point_name": "9話　藤が咲高校からの帰り道",
+        "remark": "4話で車で通った交差点から東海大学前までの木に囲まれた道です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.385854,
+          34.980876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qx2u_1752231104699.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qx2u",
+        "point_name": "10話　静岡市民文化会館入口",
+        "remark": "文化会館入口のカット　モニュメントなどが並んでいる"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.386782,
+          34.98088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qx8s_1752231291235.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qx8s",
+        "point_name": "10話　静岡市民文化会館",
+        "remark": "ライブや勉強会などで使用される市民文化会館です　吹奏楽や演劇の大会にも使用されます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.386981,
+          34.98099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qxcq_1752231270484.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qxcq",
+        "point_name": "10話　CAFFE TERRASSE ラクダの里",
+        "remark": "市民文化会館ホワイエ内にあるカフェ　猫のシルエットでしたが実際にはラクダです"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.385672,
+          34.980735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qxh0_1752231257997.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qxh0",
+        "point_name": "10話　チカがハルタを探しに飛び出したカット",
+        "remark": "市民文化会館内側　駿府城公園とはさまれた道です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.38447,
+          34.981118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qx5l_1752231182637.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qx5l",
+        "point_name": "10話　北御門橋",
+        "remark": "駿府城公園北側入り口の橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.383864,
+          34.980389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qx8t_1672367916030.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qx8t",
+        "point_name": "10話　渡邊さんと会話→謎解きをした場所",
+        "remark": "駿府城公園内　雲海横　渡邊さんに声を掛けられ　チベタンの飼い主謎解きをした場所　いくつかのカットで映る和風の建物はトイレです"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488757,
+          35.015069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qwyi_1752231408177.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qwyi",
+        "point_name": "11話　港祭り（羽衣銀行）",
+        "remark": "港祭りのカット　1話で名前だけ出ていた羽衣銀行　このカットでは三菱東京UFJ銀行の位置ですがハルチカを応援しているのは清水銀行...."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488232,
+          35.015151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qx0v_1672367919654.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qx0v",
+        "point_name": "11話　港祭り（大川印舗）",
+        "remark": "横のトヨタカローラと共にそのまま芹澤さんのバックに登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488312,
+          35.014687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qxeu_1752231463795.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qxeu",
+        "point_name": "11話　港祭り（東洋証券のシャッター）",
+        "remark": "カイユの太鼓カット　叩いているのは開枕太鼓　曲は『海風』です　みなと祭り開祭の演奏や総踊り時に演奏があります"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488816,
+          35.01461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qxa5_1752231478386.jpg",
+        "location": "9~11話",
+        "point_id": "51i52qxa5",
+        "point_name": "11話　港祭り（家庭教師ネットワークのビル）",
+        "remark": "後藤さんのカット　複数の会社の共同ビル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.48738,
+          35.01552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qy61_1752231369883.jpg",
+        "location": "最終話",
+        "point_id": "51i52qy61",
+        "point_name": "12話　くらさわ楽器（もちづき楽器）",
+        "remark": "草壁先生の折れたタクトを買いに向かったお店ハルチカ協力のヤマハ音楽教室　清水のここが本店で静岡にも店舗があります　http://www.mochigaku.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488315,
+          35.016519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qy07_1752308032131.jpg",
+        "location": "最終話",
+        "point_id": "51i52qy07",
+        "point_name": "12話　新清水駅前バス停からの風景",
+        "remark": "右にホテルムーンポート（サンポート）　左奥に秀英予備校がみえます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488264,
+          35.017349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "最終話",
+        "point_id": "51i52qym4",
+        "point_name": "12話　ホテルムーンポート（ホテルサンポート）",
+        "remark": "新清水駅前バス停からの景色　ホテルはサンポートとサンルートが並んでいますがアニメではムーンポートに"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487979,
+          35.016709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qyhv_1752308081404.jpg",
+        "location": "最終話",
+        "point_id": "51i52qyhv",
+        "point_name": "12話　パーラーFujiya(Fujino)",
+        "remark": "わたしがわたす　のカット　OPのパン屋清美軒隣にあります"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487969,
+          35.016755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qyjm_1752308171331.jpg",
+        "location": "最終話",
+        "point_id": "51i52qyjm",
+        "point_name": "12話　おしゃれステーションえるもーど",
+        "remark": "パーラーFujinoの横　常に60％～70％引きの看板があるような気がします"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487929,
+          35.016927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qyvt_1752308066901.jpg",
+        "location": "最終話",
+        "point_id": "51i52qyvt",
+        "point_name": "12話　新清水駅",
+        "remark": "草壁先生を見つけたハルタのカット　コンビニはファミリーマートですが風景が忠実に再現されています"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487848,
+          35.017077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qzmx_1752307535811.jpg",
+        "location": "OP・ED",
+        "point_id": "51i52qzmx",
+        "point_name": "OP　新清水駅",
+        "remark": "OPにて男子３人が電車待ちしている駅https://ja.wikipedia.org/wiki/%E6%96%B0%E6%B8%85%E6%B0%B4%E9%A7%85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487982,
+          35.016643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qzq4_1752307631885.jpg",
+        "location": "OP・ED",
+        "point_id": "51i52qzq4",
+        "point_name": "OP　清美軒 新清水店",
+        "remark": "OPにてチカと美代子が買い物していたパン屋　実際の店舗、店舗周りと外装は異なる　清水で一番歴史ある有名な店、通りのつくりからここである可能性は高いhttp://tabelog.com/shizuoka/A2201/A220102/22020022/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488178,
+          35.023895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qzos_1752307690724.jpg",
+        "location": "OP・ED",
+        "point_id": "51i52qzos",
+        "point_name": "OP　清水駅ロータリー（みなと祭り）",
+        "remark": "OPお祭りのシーン　地面のタイル一致　部長が扇いでいるうちわが港祭りのマークです"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.530683,
+          35.011226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qznr_1752307807988.jpg",
+        "location": "OP・ED",
+        "point_id": "51i52qznr",
+        "point_name": "ED　チカが座っている石の段差",
+        "remark": "EDの段差カット　焼肉センターの正面　駐車場になっている場所の後ろにある段差です"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.526854,
+          35.010161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qzme_1752307766071.jpg",
+        "location": "OP・ED",
+        "point_id": "51i52qzme",
+        "point_name": "ED　清水南高校校門（モデル）",
+        "remark": "ED映像から　位置的モデルは三保園ホテルで間違いないですが、南高校のデザインは実際の物と異なります、門に関しては不確定ですが旧東海大学第一高校の門をモチーフにしている可能性があります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.48775,
+          35.023775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qzut_1672367952358.jpg",
+        "location": "巡礼関連",
+        "point_id": "51i52qzut",
+        "point_name": "大和屋（聖地巡礼ノート、マップ、パネル）",
+        "remark": "老舗の生地、手芸用品店　2016年1月11日よりハルチカ巡礼ノートを置かせていただいております　店頭にはポスター　チラシ　巡礼マップの配布もしていただいています　土日には不定期でハルチカミニオフ会も開催しています　ハルタ、チカ、草壁先生・後藤さんの等身大パネルが配置されましたhttp://www3.tokai.or.jp/yamatoya/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.489064,
+          35.014176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52qzv7_1672367955462.jpg",
+        "location": "巡礼関連",
+        "point_id": "51i52qzv7",
+        "point_name": "清水産業・情報プラザ1F（ハルチカ企画展示）",
+        "remark": "1F入口入ってすぐの展示会場にハルチカのパネルや作品資料、サイン、設定など様々なハルチカ展示が並んでいます（開催期間未定・祝日休み）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.490646,
+          35.020319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/136213/51i52r0jr_1672367957391.jpg",
+        "location": "巡礼関連",
+        "point_id": "51i52r0jr",
+        "point_name": "みやもと河岸の市店（チラシ配布）",
+        "remark": "PR協力店舗　ハルチカポスター展示・チラシ配布中　ハルチカコーナーが出来上がってきました　河岸の市の海鮮お食事処http://kasinoichi.com/miyamoto/%E6%B2%B3%E5%B2%B8%E3%81%AE%E5%B8%82%E3%81%BF%E3%82%84%E3%82%82%E3%81%A8/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.488106,
+          35.005029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0fn",
+        "point_name": "① チカちゃんが走っていくシーン",
+        "remark": "バスに乗ろうと息を切らして走るチカちゃんが走っていたシーン　梅田町の矢通りを駆け抜けます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.487137,
+          35.005025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0tx",
+        "point_name": "② 最初のバスのシーン",
+        "remark": "なんとかバスに乗れたチカちゃんが揺られるシーン。外に見えるのは走っていたシーンの近く、梅蔭禅寺の近くでした。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.49008,
+          35.021518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0zx",
+        "point_name": "③2回目以降のバスのシーン",
+        "remark": "清水文化会館マリナートの海側を通って、清水駅のロータリーの外回りを周っていくルートのようです。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.468379,
+          35.041356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0m6",
+        "point_name": "④チカちゃんの中学校",
+        "remark": "中学は公式情報から清水飯田中学校です。エンドロールでも流れました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.494693,
+          35.010438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r1a9",
+        "point_name": "⑤港のベンチでハルチカがFMはごろもを聞くシーン",
+        "remark": "イヤホンを共有してカイユのラジオを聞くシーンです。港を挟んで工場群が映ったり、マリンパークの回廊やドリームプラザが映ったりと、分かりやすいシーンでした。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.523592,
+          34.994821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r16b",
+        "point_name": "⑥三保松原",
+        "remark": "芹澤さんが右耳を抑えてるシーンと、部員が集まり練習に励むシーンの1シーン目で走ってる海岸です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.489645,
+          34.992409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0m1",
+        "point_name": "⑦夜の学校に忍び込む為走っていた道",
+        "remark": "芹澤さんの補聴器を探すため、夜の静鉄バスから降りて？走っていたシーンは日立工場の横、ポプラ並木通りです。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.494677,
+          35.010036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0tg",
+        "point_name": "⑧部員が集まり、練習シーン1",
+        "remark": "ミュージカルのような練習シーンのロケ地のひとつは夜ハルチカがイヤホンを共有していた清水マリンパークです。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.470972,
+          34.978393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r0nh",
+        "point_name": "⑨部員が集まり、練習シーン2",
+        "remark": "ロケ地2つめは日本平の茶畑。IAIスタジアムが見えるシーンもあったので、旧道の茶畑のどこかだと思います。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.506393,
+          35.003544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r1nu",
+        "point_name": "⑩ハルタが夜の練習をするシーン/ハルタがチカを慰めるシーン",
+        "remark": "背景のカナサシ重工の文字までしっかり見えた港のロケ地は塚間水上バス乗り場です。通常は入れません。また周辺は私有地、工場地帯ですので、地元の人の案内なしで周るには危険な場所になっています。注意。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.517991,
+          35.004731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r1xe",
+        "point_name": "⑪できなかった部分が成功し喜ぶシーンの後に挿入された富士山",
+        "remark": "三保ふれあい広場の辺りからの富士山です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.489704,
+          35.021948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136213,
+        "bangumi_title": "春&夏推理事件簿～春太与千夏的青春～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "映画版",
+        "point_id": "51i52r210",
+        "point_name": "⑫大会",
+        "remark": "清水文化会館マリナートです　出入り口の描写、客席、ステージと映りました。シーン的にアニメ版の最終話を意識した撮り方にも見えました。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

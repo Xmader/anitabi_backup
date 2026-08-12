@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.495543,
+          33.54676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0dfx_1744361886561.jpg",
+        "location": "",
+        "point_id": "kpwtp0dfx",
+        "point_name": "1.2.周参見駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.494106,
+          33.551043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0esi_1744361826512.jpg",
+        "location": "",
+        "point_id": "kpwtp0esi",
+        "point_name": "3.踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.49822,
+          33.552374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0ecy_1744363086079.jpg",
+        "location": "",
+        "point_id": "kpwtp0ecy",
+        "point_name": "4.石橋会館前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.510231,
+          33.555008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0e46_1744362118361.jpg",
+        "location": "",
+        "point_id": "kpwtp0e46",
+        "point_name": "5.立野の田園風景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.495801,
+          33.541984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0e5y_1744363182254.jpg",
+        "location": "",
+        "point_id": "kpwtp0e5y",
+        "point_name": "6.近畿大学水産試験場前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.603368,
+          33.509447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0e5e_1744361857235.jpg",
+        "location": "",
+        "point_id": "kpwtp0e5e",
+        "point_name": "7.江住駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.744935,
+          33.480891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306,
+        "bangumi_title": "Myself ; Yourself",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/306/kpwtp0el7_1744364090822.jpg",
+        "location": "",
+        "point_id": "kpwtp0el7",
+        "point_name": "8.串本海中公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

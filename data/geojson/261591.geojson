@@ -1,0 +1,525 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.740915,
+          35.259603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/261591/points/7crrozop9-1678892043391.jpg",
+        "location": "",
+        "point_id": "7crrozop9",
+        "point_name": "観音崎小突堤",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.739546,
+          35.259802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/261591/points/7cs41rfdh-1678892681518.jpg",
+        "location": "",
+        "point_id": "7cs41rfdh",
+        "point_name": "県道２０９",
+        "remark": "第一话回家道路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74121,
+          35.257735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "#01～06",
+        "point_id": "6b420f49",
+        "point_name": "観音崎バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.740897,
+          35.251532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/5cda9a54_1752720300505.jpg",
+        "location": "#01～06",
+        "point_id": "5cda9a54",
+        "point_name": "たたら浜",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75392,
+          35.702203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/b5a3a958_1752720169305.jpg",
+        "location": "#01～06",
+        "point_id": "b5a3a958",
+        "point_name": "BASE CAMP",
+        "remark": "OP、#06「「難しい」が楽しい」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.740352,
+          35.259569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/61b69537_1752723413457.jpg",
+        "location": "#01～06",
+        "point_id": "61b69537",
+        "point_name": "観音崎小突堤付近",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.739882,
+          35.259633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/6ce506ea_1752723301241.jpg",
+        "location": "#01～06",
+        "point_id": "6ce506ea",
+        "point_name": "観音崎通り（県道209号線）その１",
+        "remark": "#01、#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.740566,
+          35.259095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/0e2208cd_1752723312523.jpg",
+        "location": "#01～06",
+        "point_id": "0e2208cd",
+        "point_name": "観音崎通り（県道209号線）その２",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751181,
+          35.701163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/55b1ff2a_1752720184327.jpg",
+        "location": "#01～06",
+        "point_id": "55b1ff2a",
+        "point_name": "ハーミット",
+        "remark": "#02、#06 ※2022年12月に移転したため、現存しません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745208,
+          35.256622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/fa45e445_1752721367438.jpg",
+        "location": "#01～06",
+        "point_id": "fa45e445",
+        "point_name": "遊歩道その1",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744463,
+          35.256587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/5fb9b570_1752721380605.jpg",
+        "location": "#01～06",
+        "point_id": "5fb9b570",
+        "point_name": "遊歩道その2",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744618,
+          35.256337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/4beeb305_1752721412718.jpg",
+        "location": "#01～06",
+        "point_id": "4beeb305",
+        "point_name": "遊歩道その3",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745243,
+          35.256143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/040c28cd_1752720212247.jpg",
+        "location": "#01～06",
+        "point_id": "040c28cd",
+        "point_name": "観音崎灯台",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74496,
+          35.25702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/fdf9625d_1752721392246.jpg",
+        "location": "#01～06",
+        "point_id": "fdf9625d",
+        "point_name": "遊歩道その4",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.522951,
+          35.590642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "#01～06",
+        "point_id": "e3a249bd",
+        "point_name": "BerryPark in FISH ON！ 王禅寺",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670649,
+          35.278686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/d126632f_1752720267902.jpg",
+        "location": "#01～06",
+        "point_id": "d126632f",
+        "point_name": "京浜急行電鉄 横須賀中央駅",
+        "remark": "#04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.672025,
+          35.279308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/402a72e6_1752720406727.jpg",
+        "location": "#01～06",
+        "point_id": "402a72e6",
+        "point_name": "横須賀海軍カレー本舗",
+        "remark": "#04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.725088,
+          35.517156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "#01～06",
+        "point_id": "23756e1c",
+        "point_name": "つり幸",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604236,
+          35.197335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/ecaf2b07_1752721171782.jpg",
+        "location": "#01～06",
+        "point_id": "ecaf2b07",
+        "point_name": "丸伊丸",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646293,
+          35.33769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/69a2fc2c_1752721287812.jpg",
+        "location": "#01～06",
+        "point_id": "69a2fc2c",
+        "point_name": "横浜・八景島シーパラダイス センターハウス",
+        "remark": "#07「結婚式」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646948,
+          35.337694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/6e33eb36_1752721517645.jpg",
+        "location": "#01～06",
+        "point_id": "6e33eb36",
+        "point_name": "横浜・八景島シーパラダイス アクアミュージアム",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646645,
+          35.335832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/4986e8e6_1752721236132.jpg",
+        "location": "#01～06",
+        "point_id": "4986e8e6",
+        "point_name": "横浜・八景島シーパラダイス うみファーム",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643206,
+          35.337662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/994c091c_1752722081302.jpg",
+        "location": "#01～06",
+        "point_id": "994c091c",
+        "point_name": "横浜・八景島シーパラダイス メリーゴーランド",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644102,
+          35.338322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/becac0bb_1752721609163.jpg",
+        "location": "#01～06",
+        "point_id": "becac0bb",
+        "point_name": "横浜・八景島シーパラダイス シートレイン",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647712,
+          35.336843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/261591/72be5df4_1752721666232.jpg",
+        "location": "#01～06",
+        "point_id": "72be5df4",
+        "point_name": "横浜・八景島シーパラダイス アクアライドII",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646886,
+          35.336476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 261591,
+        "bangumi_title": "Slow Loop",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "#01～06",
+        "point_id": "a6ed24c9",
+        "point_name": "横浜・八景島シーパラダイス シーボート",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

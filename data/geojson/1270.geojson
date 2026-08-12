@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.340157,
+          45.432871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1270,
+        "bangumi_title": "水星领航员 第三季",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1270/points/clvqntj-1774454933742.jpg",
+        "location": "",
+        "point_id": "clvqntj",
+        "point_name": "Colonna di San Marco",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

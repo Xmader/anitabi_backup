@@ -1,0 +1,865 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.712517,
+          35.679727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "e709e87f",
+        "point_name": "東京体育館(第1話・第3話・第5話)",
+        "remark": "2002年の全日本体操競技選手権大会会場(※)で、城太郎は鉄棒で失敗し天草コーチから引退宣告させられるきっかけとなった(第1話) 鉄男との非公開の勝負に際して、城太郎と天草コーチがビデオで鉄男の演技を研究した際の大会会場もここである(第3話) 2003年5月30日(金)・31日(土)に行われ城太郎や鉄男たちが出場した第43回 NHK杯 体操の会場としても登場(第5話)1954年に東京都体育館として開館し、1964年の東京オリンピックでは体操競技とプールの会場となる。1990年に全面改築し、このとき東京体育館に名称変更。延期が決定した2020年の東京オリンピック・パラリンピックの卓球会場として改修工事が行われる。※実際の2002年大会は静岡で行われた。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708905,
+          35.730191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "aa39670d",
+        "point_name": "池袋西口公園(第1話〜第3話)",
+        "remark": "城太郎が天草コーチから引退宣告され夜に帰宅前に思案したり(第1話)、例の引退会見後クビ宣告されて昼間ベンチで腰かけたり、ブリトニー発案の太極拳を行った公園。昼間ベンチで腰かけていた姿は週刊星雲のカメラマンに撮影されていて記事に使用された(第3話)。のちにドラマ化・アニメ化する石田衣良の小説「池袋ウエストゲートパーク」のタイトル元でも有名。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69746,
+          36.7908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "f225ba59",
+        "point_name": "日光江戸村(第1話)",
+        "remark": "城太郎・玲父子が遊びに行き、エージェントに終われる忍者(レオナルド)と初対面した江戸時代の文化や生活が集大成したテーマパーク(第1話)(ちなみに、あまり大きな声では言えないが、ニャンまげのデザイン原案者と東京オリンピックエンブレム騒動の人は同じ人物。)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.589929,
+          35.682095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "f5300d4b",
+        "point_name": "四つ葉スポーツクラブ体育館内(塚原体操センター(朝日生命体操クラブ)) (第1話-)",
+        "remark": "城太郎の所属する四つ葉スポーツクラブの体育館内部のモデル。また、エンディングの協力クレジットにも「塚原体操センター 事務局」名義で掲載されている。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7148,
+          35.733799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "7af2071d",
+        "point_name": "スナックマリー(第2話-)",
+        "remark": "城太郎の母・マリが経営し、レオやあゆが働くスナック。※初登場の時点で高架道路のスロープ部脇にあることは認識していたものの場所を特定できず。第6話で両隣がコインパーキングと薬局と判明、玲が佇んでいたパークブリッジを探したついでに池袋大橋から伸びるスロープ部沿いをストリートビューで確認したところ判明。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709601,
+          35.730099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "046dd845",
+        "point_name": "整骨院 川本が入居する池袋のビル(第2話)",
+        "remark": "スナックマリーの常連・ブリトニーが勤める整骨院が入居するビルのモデル(3階以上の作りはアニメオリジナルか)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709659,
+          35.73005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "5e0afc8c",
+        "point_name": "整骨院 川本の外観ショット(第2話)",
+        "remark": "スナックマリーの常連・ブリトニーがレオナルドに渡した名刺に記載の住所で検索すると実在することを確認。隣接ビルもアニメで表現されている。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71389,
+          35.717636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "d3c8c103",
+        "point_name": "のぞき坂(第3話・第5話)",
+        "remark": "城太郎とレオナルドが早朝ランニングした際、最後に城太郎がダッシュで駆け登った斜度20%の急な坂(第3話)。別の日の夕刻、買い物帰りのレオナルドと玲が自転車を手押ししながら登るシーンにも(第5話)。他のアニメ作品などにも登場している。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713795,
+          35.722266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "869c5559",
+        "point_name": "鬼子母神堂表参道(第3話・第4話)",
+        "remark": "レオナルドが城太郎との早朝ランニング後ひとり歩いていた路地(第3話)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713629,
+          35.722468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "9d8f1f27",
+        "point_name": "鬼子母神堂付近の交差点(第3話・第4話)",
+        "remark": "登校中の玲が男子たちからかわれていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713677,
+          35.722541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "ec5f5364",
+        "point_name": "威光山法明寺の南無妙法蓮華経石碑(第4話)",
+        "remark": "クラスメイトの男子にレオを「とん」したことを玲が諌めたシーンで登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643331,
+          35.701266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "df3d67e1",
+        "point_name": "玲の通う小学校(第三小学校?)のモデル(杉並区杉並第六小学校)(第4話・第6話)",
+        "remark": "玲の通う小学校のモデル。佐藤二朗似(個人の感想です)の担任がレオの入校を食い止めた正門などが登場(第4話)※第6話EDの取材協力テロップで判明"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.719813,
+          35.723004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "a1cc401e",
+        "point_name": "雑司ヶ谷霊園(第4話)",
+        "remark": "城太郎の妻・知世が眠る墓地。玲がひとり学校帰りに墓参りする姿をあとをつけたレオナルドが目撃する(第4話)明治時代にできた都立の霊園。夏目漱石の「こゝろ」の舞台にもなっただけでなく、夏目漱石本人もこの霊園に眠る。夏目以外にも前島密、小泉八雲、ジョン万次郎など歴史に名を残す著名人の墓が多い。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714565,
+          35.720886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "7b39ce4c",
+        "point_name": "鬼子母神表参道(第5話)",
+        "remark": "夕刻の止め絵カットの一つとして登場。ストリートビューで確認すると植樹されているけやきの傾きなどがアニメで再現されていることがわかる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.717606,
+          35.721367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "ff3dcd91",
+        "point_name": "日蓮宗 清立院前の道路(第5話)",
+        "remark": "夕刻の止め絵カットの一つとして登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713654,
+          35.722399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "db7d6b85",
+        "point_name": "表参道から見える鬼子母神堂(仮)(第5話)",
+        "remark": "夕刻の止め絵カットの一つと思われるポイント。アニメではアイレベルではなくハイポジションの構図にし、手前のカーブミラーと電信柱を画面内に収まるよう実物より間隔を詰めて処理を施しているように思える。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708462,
+          35.728513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "087f48ce",
+        "point_name": "ホテルメトロポリタン(第5話)",
+        "remark": "レオを追うエージェントたちが拠点としていたホテルとして外観部分が登場。同時期に放映されている池袋舞台の某アニメにも登場している。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71176,
+          35.680204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "5aa08117",
+        "point_name": "東京体育館外観(第5話)",
+        "remark": "城太郎や鉄男たちが出場した第43回 NHK 体操の会場外観シーンで登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714022,
+          35.734497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "fd6b4e4a",
+        "point_name": "豊島清掃工場の煙突(第6話)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713946,
+          35.733799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "db24cf7f",
+        "point_name": "池袋跨線人道橋パークブリッジ(第6話)",
+        "remark": "連絡の取れなくなった玲が夜にひとり佇んでいた跨線橋。橋の柵越しに見ていた線路はの池袋駅方面にのびる湘南新宿ライン。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713998,
+          35.73393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "3b822563",
+        "point_name": "池袋大橋(第6話)",
+        "remark": "マリに頼まれて捜索を手伝ったカラーギャングの一部が等間隔に並んで池袋大橋からパークブリッジにいた玲を眺めていた。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712137,
+          35.730781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "6607b61c",
+        "point_name": "池袋駅のいけふくろう像(第8話)",
+        "remark": "玲が日本に遊びに来たキティと待ち合わせた場所。池袋駅東口(北)側にある。最寄り改札は北改札。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772617,
+          35.716437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "ee0fad82",
+        "point_name": "上野動物園のジャイアントパンダ舎(第8話)",
+        "remark": "玲とキティが訪れた場所のひとつ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768948,
+          35.714295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "218051bf",
+        "point_name": "上野動物園のハシビロコウ(第8話)",
+        "remark": "玲とキティが訪れた場所のひとつ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71777,
+          35.716682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "舞台マップ",
+        "point_id": "918c31e0",
+        "point_name": "日無坂と富士見坂の分岐(第11話)",
+        "remark": "最終話冒頭の風景止めカットで登場。映像左手の階段道が日無坂、右手が富士見坂である。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712244,
+          35.727809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "ab090065",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711488,
+          35.727595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "c5b8e056",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710651,
+          35.726668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "77f1cff2",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709803,
+          35.731749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "0aa9ac6c",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710715,
+          35.731787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "8af75d05",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710323,
+          35.732188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "fe1c0008",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704735,
+          35.732017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "7f1cc131",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712493,
+          35.731034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "2a2b32cc",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708888,
+          35.730033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "2d1ee26a",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708094,
+          35.730351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "33fc4199",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709537,
+          35.73066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "cb37e611",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709781,
+          35.730068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "314c3227",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714236,
+          35.729317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "b34b1d72",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712108,
+          35.723507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "de1723e1",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712671,
+          35.721799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "fa276e15",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713982,
+          35.734406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "979b5779",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713381,
+          35.735539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "c6e75e1a",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711995,
+          35.735642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312979,
+        "bangumi_title": "体操武士",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第5話のエージェントがホテルでマッピングした場所(適当)",
+        "point_id": "fdd55b71",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

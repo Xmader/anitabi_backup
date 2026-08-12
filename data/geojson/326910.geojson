@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.640515,
+          24.162914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326910,
+        "bangumi_title": "台中国的帝雉少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/326910/85rkc0x_1764773252835.jpg",
+        "location": "",
+        "point_id": "85rkc0x",
+        "point_name": "臺中歌劇院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.646494,
+          24.178464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326910,
+        "bangumi_title": "台中国的帝雉少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/326910/85rn4pp_1764773395205.jpg",
+        "location": "",
+        "point_id": "85rn4pp",
+        "point_name": "逢甲夜市",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

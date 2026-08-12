@@ -1,0 +1,2445 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.991492,
+          34.305474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd7t-1783681853464.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpd7t",
+        "point_name": "大久野島休暇島前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.993173,
+          34.30971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdal-1783681911570.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpdal",
+        "point_name": "大久野島 展望台",
+        "remark": "2019年1月時点では登れません。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.993305,
+          34.340946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9g-1783681932658.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpd9g",
+        "point_name": "黒滝山登山口への道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.994047,
+          34.342259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb7-1783681956225.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpdb7",
+        "point_name": "黒滝山登山口",
+        "remark": "登山口在转角处，右侧木制栏杆已拆除，左侧护栏为钢制，此处透视关系有较大误差，前段登山道入口与左侧斜坡之间有一定距离"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.994424,
+          34.342956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8452/points/2qnpd9q-1785742479963.jpg",
+        "location": "忠海周辺",
+        "point_id": "2qnpd9q",
+        "point_name": "黒滝山登山口休憩所/黒滝山さくら堂",
+        "remark": "她们在此停留，没有继续登山\n此图并未直接引用宣传册的图，而是个人认为比较方便拍摄的一个角度"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.978281,
+          34.333109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdby-1783681979977.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpdby",
+        "point_name": "エデンの海 パーキングエリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.980156,
+          34.334343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda4-1783681998010.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpda4",
+        "point_name": "呉線沿い(～hitotose～OP)",
+        "remark": "小心坠落，不要进入轨道区域！（见告示牌）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.991296,
+          34.336865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpdb2_1748979259765.jpg",
+        "location": "忠海周辺",
+        "point_id": "2qnpdb2",
+        "point_name": "忠海駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910574,
+          34.346609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/8452/points/2qnpd9y-1749099192360.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9y",
+        "point_name": "ほり川",
+        "remark": "店里可以点ほぼろ焼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909528,
+          34.348202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/2qnpdba-1672798738601.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdba",
+        "point_name": "胡堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909549,
+          34.347971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb5-1783682120192.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdb5",
+        "point_name": "竹の茶屋 いっぷく",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909738,
+          34.348081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbc-1783682161718.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdbc",
+        "point_name": "頼惟清旧宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909945,
+          34.347691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9e-1783682177885.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9e",
+        "point_name": "竹原まちなみ竹工房",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910119,
+          34.347431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda0-1783682200163.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpda0",
+        "point_name": "憧憬の広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911402,
+          34.345685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/9.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdav",
+        "point_name": "ぎゃらりぃ梅谷",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912124,
+          34.345808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdaw-1783682248507.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdaw",
+        "point_name": "地蔵堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910265,
+          34.347058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/8452/points/2qnpd9r-1749233433717.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9r",
+        "point_name": "茶房ゆかり",
+        "remark": "注：此处已停业多年"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909617,
+          34.348743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9o-1783682340144.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9o",
+        "point_name": "照蓮寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.904924,
+          34.352025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/8452/points/2qnpd9w-1749008986001.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9w",
+        "point_name": "高校通学路",
+        "remark": "OVA主视觉图，道路已改修，无法完美还原"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910699,
+          34.347976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9t-1783682422743.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9t",
+        "point_name": "おかかえ地蔵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911127,
+          34.346861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda3-1783682502370.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpda3",
+        "point_name": "普明閣階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911116,
+          34.346601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdan-1783682512832.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdan",
+        "point_name": "西方寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911443,
+          34.346532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbj-1783682620331.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdbj",
+        "point_name": "西方寺普明閣",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912134,
+          34.345377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpday-1783682678933.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpday",
+        "point_name": "旧笠井邸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910776,
+          34.345275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/7.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdb4",
+        "point_name": "旧日の丸写真館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910806,
+          34.3452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wjxqq0-1783684103701.webp",
+        "location": "",
+        "point_id": "wjxqq0",
+        "point_name": "旧日の丸写真館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.860552,
+          34.192763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbw-1783682717145.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbw",
+        "point_name": "岡村大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867757,
+          34.180184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbm-1783682733421.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbm",
+        "point_name": "恵美須神社 鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868357,
+          34.17756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbt-1783682746502.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbt",
+        "point_name": "石の高燈籠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868173,
+          34.176444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdak-1783682752229.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdak",
+        "point_name": "御手洗おみあげ屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866352,
+          34.176332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbg-1783682858985.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbg",
+        "point_name": "歴史の見える丘公園（ベンチ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865862,
+          34.176926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdar-1783682905747.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdar",
+        "point_name": "歴史の見える丘公園展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866052,
+          34.177219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9c-1783682952041.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpd9c",
+        "point_name": "歴史の見える丘公園（道中）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.86658,
+          34.177885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdau-1783682995779.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdau",
+        "point_name": "おいらん公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867472,
+          34.176634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大崎下島",
+        "point_id": "2qnpdaj",
+        "point_name": "歴史の見える丘公園（登り口1）",
+        "remark": "ここから歴史の見える丘公園展望台に行くことができます。ストリートビューで歩道を確認することができます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866539,
+          34.17785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大崎下島",
+        "point_id": "2qnpdbz",
+        "point_name": "歴史の見える丘公園（登り口２）",
+        "remark": "ここから歴史の見える丘公園展望台に行くことができます。ストリートビューで歩道を確認することができます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867621,
+          34.178389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpdc1.jpg",
+        "location": "大崎下島",
+        "point_id": "2qnpdc1",
+        "point_name": "歴史の見える丘公園（登り口3）",
+        "remark": "公園の奥に展望台行ける歩道があります。おいらん公園への近道です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868188,
+          34.17995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9j-1783683024487.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpd9j",
+        "point_name": "のどか亭（御手洗七卿落遺跡）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868027,
+          34.178601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpdaz.jpg",
+        "location": "大崎下島",
+        "point_id": "2qnpdaz",
+        "point_name": "なごみ亭",
+        "remark": "のどか亭のモデルとされる旅館兼料理処"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867235,
+          34.179973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb0-1783683074915.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdb0",
+        "point_name": "乙女座裏手道路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865868,
+          34.179727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbx-1783683088357.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbx",
+        "point_name": "町並み保存センター前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867075,
+          34.179406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda8-1783683098862.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpda8",
+        "point_name": "新光時計店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.86752,
+          34.179609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb3-1783683166379.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdb3",
+        "point_name": "乙女座外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867461,
+          34.17967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb6-1783683199445.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdb6",
+        "point_name": "乙女座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867555,
+          34.178673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9m-1783683265640.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpd9m",
+        "point_name": "足長小学生",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.916821,
+          34.332135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda2-1783683260713.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpda2",
+        "point_name": "竹原港",
+        "remark": "船内の写真は大崎下島行の高速船の内部。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909972,
+          34.339545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/2qnpda7-1672811667897.jpg",
+        "location": "竹原市内",
+        "point_id": "2qnpda7",
+        "point_name": "竹原駅外「おかえりなさい」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910215,
+          34.339799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpdb1.jpg",
+        "location": "竹原市内",
+        "point_id": "2qnpdb1",
+        "point_name": "（社）竹原市観光協会",
+        "remark": "自転車を借りることができます。500円/3h　8時30分～17時まで\n（2026.07.08）たまゆら～hitotose～聖地巡礼MAP 仍可在线下载，网址如下，如不再发放谨此备份\nhttps://www.takeharakankou.jp/wp/wp-content/uploads/2026/02/tamayura_ja.pdf"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910564,
+          34.342948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbl-1783683519816.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdbl",
+        "point_name": "杏竹館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910405,
+          34.340909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdaf-1783683559354.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdaf",
+        "point_name": "ももねこ様神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91147,
+          34.344218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda5-1783683626625.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpda5",
+        "point_name": "頼山陽像",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912229,
+          34.343971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpdbd.jpg",
+        "location": "竹原市内",
+        "point_id": "2qnpdbd",
+        "point_name": "道の駅たけはら",
+        "remark": "此处曾经有发放巡礼地图\n2026.07.08再访问未能寻获，但二楼仍存在たまゆら主题商店售卖周边商品，且配备有圣地巡礼印章可收集，截止此时毕业写真的海报集仍在售卖"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.913435,
+          34.344425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdae-1783683630288.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdae",
+        "point_name": "道の駅奥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912394,
+          34.343223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9d-1783683651063.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9d",
+        "point_name": "道の駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.914162,
+          34.339963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbq-1783683679239.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdbq",
+        "point_name": "呉線踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.945481,
+          34.340593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdah-1783683684781.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdah",
+        "point_name": "大乗駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.939545,
+          34.337656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbb-1783683742882.webp",
+        "location": "",
+        "point_id": "2qnpdbb",
+        "point_name": "呉線大乗駅西側の道路",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.933076,
+          34.337156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9h-1783683758811.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9h",
+        "point_name": "駐車場(バンブー・ジョイ・ハイランド)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.933848,
+          34.336691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbh-1783683778129.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdbh",
+        "point_name": "かおたん桜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.93196,
+          34.337685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9i-1783683787390.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9i",
+        "point_name": "野外劇場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.929301,
+          34.336795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbf-1783683822695.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdbf",
+        "point_name": "こまちだけ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.929227,
+          34.336675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9n-1783683825395.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9n",
+        "point_name": "憩いの広場登り口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928574,
+          34.336783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdc0-1783683857703.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdc0",
+        "point_name": "憩いの広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928227,
+          34.33985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9f-1783683889999.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9f",
+        "point_name": "ぽって桜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928406,
+          34.339952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdat-1783683894256.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdat",
+        "point_name": "呉線沿い(バンブー・ジョイ・ハイランド)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668385,
+          35.274979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/8452/56ztmv5jr_1672798656912.jpg",
+        "location": "",
+        "point_id": "56ztmv5jr",
+        "point_name": "緒明山公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.661889,
+          35.280215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/1.jpg",
+        "location": "",
+        "point_id": "56zn4d33z",
+        "point_name": "汐入",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66833,
+          35.27519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/570wl9jp2-1672799445025.jpg",
+        "location": "",
+        "point_id": "570wl9jp2",
+        "point_name": "儿童游乐设施",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.90993,
+          34.339679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/580l4obpw-1672876996650.jpg",
+        "location": "",
+        "point_id": "580l4obpw",
+        "point_name": "竹原駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91757,
+          34.327137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/8452/points/wcjix0-1748966441538.jpg",
+        "location": "",
+        "point_id": "wcjix0",
+        "point_name": "的場西海水浴場",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91064,
+          34.346638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/8452/points/wcwn8t-1748966983409.jpg",
+        "location": "",
+        "point_id": "wcwn8t",
+        "point_name": "堀川醤油醸造場",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91022,
+          34.339464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wdtm6v-1783683482478.webp",
+        "location": "",
+        "point_id": "wdtm6v",
+        "point_name": "竹原駅構内",
+        "remark": "站内无法拍到这个角度，需要从站外东侧拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909939,
+          34.339498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/weuv2h-1783684173426.webp",
+        "location": "",
+        "point_id": "weuv2h",
+        "point_name": "竹原駅内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.628478,
+          34.228739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wf4xyk-1783684205216.webp",
+        "location": "",
+        "point_id": "wf4xyk",
+        "point_name": "呉線広駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.797652,
+          34.178997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wfn24o-1783684263369.webp",
+        "location": "",
+        "point_id": "wfn24o",
+        "point_name": "豊浜桟橋前駅",
+        "remark": "Google Map没有收录这个公交站，对于具体位置可以搜索旁边的建筑名：「豊島合同回漕店」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.789611,
+          34.169907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wg2g65-1783684316743.webp",
+        "location": "",
+        "point_id": "wg2g65",
+        "point_name": "雄菎乃滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.789493,
+          34.169872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wg7ymr-1783684351129.webp",
+        "location": "",
+        "point_id": "wg7ymr",
+        "point_name": "雄菎乃滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.789561,
+          34.169879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wg9z0l-1783684393614.webp",
+        "location": "",
+        "point_id": "wg9z0l",
+        "point_name": "雄菎乃滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.782923,
+          34.167116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/8452/wgiro4_1748973023906.jpg",
+        "location": "",
+        "point_id": "wgiro4",
+        "point_name": "十文字山 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.782897,
+          34.167037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/8452/wgk5ky_1748973087215.jpg",
+        "location": "",
+        "point_id": "wgk5ky",
+        "point_name": "十文字山 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.7826,
+          34.167076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/wgkny9-1783684447876.webp",
+        "location": "",
+        "point_id": "wgkny9",
+        "point_name": "十文字山 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910125,
+          34.347258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/8452/points/10rgob9-1749233270647.jpg",
+        "location": "",
+        "point_id": "10rgob9",
+        "point_name": "茶屋ゆかりの外",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910485,
+          34.346492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhe03u-1783682074710.webp",
+        "location": "",
+        "point_id": "guhe03u",
+        "point_name": "ほり川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909586,
+          34.34798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhfo0j-1783682143720.webp",
+        "location": "",
+        "point_id": "guhfo0j",
+        "point_name": "竹の茶屋 いっぷく",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910073,
+          34.34742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhhbtt-1783682222401.webp",
+        "location": "",
+        "point_id": "guhhbtt",
+        "point_name": "憧憬の広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.9102,
+          34.347111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhiznl-1783682303143.webp",
+        "location": "",
+        "point_id": "guhiznl",
+        "point_name": "茶房ゆかり",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909739,
+          34.34856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhklzj-1783682374798.webp",
+        "location": "",
+        "point_id": "guhklzj",
+        "point_name": "照蓮寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910732,
+          34.347994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhmgoq-1783682492364.webp",
+        "location": "",
+        "point_id": "guhmgoq",
+        "point_name": "おかかえ地蔵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91108,
+          34.346609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhmvdw-1783682524082.webp",
+        "location": "",
+        "point_id": "guhmvdw",
+        "point_name": "西方寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911362,
+          34.346551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhqpji-1783682656679.webp",
+        "location": "",
+        "point_id": "guhqpji",
+        "point_name": "西方寺普明閣",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912078,
+          34.345401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhr8ov-1783682693970.webp",
+        "location": "",
+        "point_id": "guhr8ov",
+        "point_name": "旧笠井邸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868414,
+          34.177517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guht98u-1783682796168.webp",
+        "location": "",
+        "point_id": "guht98u",
+        "point_name": "石の高燈籠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868152,
+          34.176406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhuhd8-1783682836885.webp",
+        "location": "",
+        "point_id": "guhuhd8",
+        "point_name": "御手洗おみあげ屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866387,
+          34.176416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhvj50-1783682883089.webp",
+        "location": "",
+        "point_id": "guhvj50",
+        "point_name": "歴史の見える丘公園（ベンチ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865978,
+          34.177021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhwimm-1783682930020.webp",
+        "location": "",
+        "point_id": "guhwimm",
+        "point_name": "歴史の見える丘公園展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866095,
+          34.177309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhxh6o-1783682976674.webp",
+        "location": "",
+        "point_id": "guhxh6o",
+        "point_name": "歴史の見える丘公園（道中）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868164,
+          34.179918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhz3tj-1783683052176.webp",
+        "location": "",
+        "point_id": "guhz3tj",
+        "point_name": "のどか亭（御手洗七卿落遺跡）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867124,
+          34.179405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui0k81-1783683128635.webp",
+        "location": "",
+        "point_id": "gui0k81",
+        "point_name": "新光時計店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867473,
+          34.179592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui1ntx-1783683175328.webp",
+        "location": "",
+        "point_id": "gui1ntx",
+        "point_name": "乙女座外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867391,
+          34.179745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui2ecm-1783683207313.webp",
+        "location": "",
+        "point_id": "gui2ecm",
+        "point_name": " 乙女座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.916697,
+          34.33199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui3d8m-1783683255190.webp",
+        "location": "",
+        "point_id": "gui3d8m",
+        "point_name": "竹原港",
+        "remark": "高速船已停运"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910022,
+          34.339312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui5eah-1783683422298.webp",
+        "location": "",
+        "point_id": "gui5eah",
+        "point_name": "竹原駅ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910401,
+          34.339371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui5paa-1783683431114.webp",
+        "location": "",
+        "point_id": "gui5paa",
+        "point_name": "竹原駅ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910575,
+          34.342837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui91oy-1783683527175.webp",
+        "location": "",
+        "point_id": "gui91oy",
+        "point_name": "杏竹館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910452,
+          34.340958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guia49q-1783683565329.webp",
+        "location": "",
+        "point_id": "guia49q",
+        "point_name": "ももねこ様神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912438,
+          34.343256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guic64n-1783683658570.webp",
+        "location": "",
+        "point_id": "guic64n",
+        "point_name": " 道の駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.931847,
+          34.337604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guif969-1783683801241.webp",
+        "location": "",
+        "point_id": "guif969",
+        "point_name": "野外劇場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928526,
+          34.336784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guiggdg-1783683863658.webp",
+        "location": "",
+        "point_id": "guiggdg",
+        "point_name": "憩いの広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928495,
+          34.33996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guih622-1783683901022.webp",
+        "location": "",
+        "point_id": "guih622",
+        "point_name": "呉線沿い(バンブー・ジョイ・ハイランド)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.193635,
+          34.404801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrdrze9-1785671388146.webp",
+        "location": "",
+        "point_id": "hrdrze9",
+        "point_name": "尾道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195438,
+          34.398826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hre3wuc-1785671941978.webp",
+        "location": "",
+        "point_id": "hre3wuc",
+        "point_name": "B&B潮風",
+        "remark": "第8.5话入住的民宿原型，动画里是B&B海风\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195539,
+          34.405767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrebrx6-1785672339338.webp",
+        "location": "",
+        "point_id": "hrebrx6",
+        "point_name": "林芙美子記念像",
+        "remark": "尾道商店街入口旁边"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.20151,
+          34.40746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrekln1-1785672745432.webp",
+        "location": "",
+        "point_id": "hrekln1",
+        "point_name": "築姫稲荷",
+        "remark": "在一条半米宽的小路里面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.199396,
+          34.407384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrey5ju-1785673356659.webp",
+        "location": "",
+        "point_id": "hrey5ju",
+        "point_name": "无名道路",
+        "remark": "在店铺\"シミズ本部\"旁边，左转路牌已经没了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.202255,
+          34.410459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrf5713-1785673701628.webp",
+        "location": "",
+        "point_id": "hrf5713",
+        "point_name": "刀鍛冶発祥の地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.205276,
+          34.409582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrf8b71-1785673856977.webp",
+        "location": "",
+        "point_id": "hrf8b71",
+        "point_name": "おのみち​映画​資料館",
+        "remark": "就在资料馆门口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195135,
+          34.405573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfemnh-1785674119685.webp",
+        "location": "",
+        "point_id": "hrfemnh",
+        "point_name": "東第1踏切前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195076,
+          34.405503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfo8wb-1785674579241.webp",
+        "location": "",
+        "point_id": "hrfo8wb",
+        "point_name": "駅前商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.200831,
+          34.407937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfsi3f-1785674773145.webp",
+        "location": "",
+        "point_id": "hrfsi3f",
+        "point_name": "尾道絵のまち通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.198753,
+          34.410631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfzbpd-1785675222843.webp",
+        "location": "",
+        "point_id": "hrfzbpd",
+        "point_name": "千光寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.198746,
+          34.410491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrg3m82-1785675291501.webp",
+        "location": "",
+        "point_id": "hrg3m82",
+        "point_name": "千光寺本堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.198494,
+          34.410426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8452,
+        "bangumi_title": "玉响",
+        "ep_cut": 8.5,
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrgi2jq-1785675969225.webp",
+        "location": "",
+        "point_id": "hrgi2jq",
+        "point_name": "石鎚山鎖修行",
+        "remark": "8.5话后半爬山的画面都在这里"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

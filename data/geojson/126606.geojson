@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -177.373411,
+          28.208534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 126606,
+        "bangumi_title": "第三飞行少女队",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/126606/points/p7fspnquy-1729254275101.jpg",
+        "location": "",
+        "point_id": "p7fspnquy",
+        "point_name": "Midway Atoll",
+        "remark": "中途岛机场，在动画中被外星人占领"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

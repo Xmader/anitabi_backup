@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.833762,
+          34.740947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349441,
+        "bangumi_title": "机动战士高达 水星的魔女",
+        "ep_cut": "10集　流转的思绪",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/349441/points/f0xyz6y-1779719246598.jpg",
+        "location": "",
+        "point_id": "f0xyz6y",
+        "point_name": "浜の宮駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.834704,
+          34.735475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349441,
+        "bangumi_title": "机动战士高达 水星的魔女",
+        "ep_cut": "10集　流传的想法",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/349441/points/f289y28-1779796942634.jpg",
+        "location": "",
+        "point_id": "f289y28",
+        "point_name": "浜の宮公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.834572,
+          34.737196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349441,
+        "bangumi_title": "机动战士高达 水星的魔女",
+        "ep_cut": "10集　流传的想法",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/349441/points/f28j897-1779797430559.jpg",
+        "location": "",
+        "point_id": "f28j897",
+        "point_name": "加古川市立浜の宮小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

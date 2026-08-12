@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.085687,
+          41.308885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": "op",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/u3zqjxjfp-1743089433877.jpg",
+        "location": "",
+        "point_id": "u3zqjxjfp",
+        "point_name": "恐山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774576,
+          34.967051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": "op",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/u63592i6s-1743254750909.jpg",
+        "location": "",
+        "point_id": "u63592i6s",
+        "point_name": "伏見稲荷大社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701492,
+          35.694986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/bajynsd-1771593329479.jpg",
+        "location": "",
+        "point_id": "bajynsd",
+        "point_name": "新宿コマ劇場",
+        "remark": "东宝大厦前身为新宿コマ劇場，于2008年5月闭馆随后拆卸重建，动画第一季于2005年播出，剧场当时尚在营运"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76505,
+          35.671287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/band9rj-1771598921675.jpg",
+        "location": "",
+        "point_id": "band9rj",
+        "point_name": "銀座四丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636659,
+          35.70437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/bann93e-1771599442138.jpg",
+        "location": "",
+        "point_id": "bann93e",
+        "point_name": "阿佐谷パールセンター 商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70053,
+          35.659482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/bbbogeo-1771639733124.jpg",
+        "location": "",
+        "point_id": "bbbogeo",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791038,
+          35.732503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/bberxnw-1771644946218.jpg",
+        "location": "",
+        "point_id": "bberxnw",
+        "point_name": "三ノ輪橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792467,
+          35.731933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/bbeybw4-1771645330655.jpg",
+        "location": "",
+        "point_id": "bbeybw4",
+        "point_name": "梅沢写真会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776067,
+          35.67934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1260,
+        "bangumi_title": "地狱少女",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1260/points/bd0mjyh-1771742194905.jpg",
+        "location": "",
+        "point_id": "bd0mjyh",
+        "point_name": "センターホテル 東京",
+        "remark": "东京的中央酒店只有这间以前用绿色招牌，使用的字体也相近，第七估计指的是楼下的7-11便利店"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

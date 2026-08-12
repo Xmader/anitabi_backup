@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.331484,
+          48.877056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10261/na52kr9np_1723823462876.jpg",
+        "location": "",
+        "point_id": "na52kr9np",
+        "point_name": "Église de la Sainte-Trinité",
+        "remark": "建于19世纪中叶"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.339584,
+          48.847207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10261/na53tihhj_1723823596399.jpg",
+        "location": "",
+        "point_id": "na53tihhj",
+        "point_name": "Statue de Leconte de lisle",
+        "remark": "建于1897年，纪念法国诗人Leconte de lisle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.341902,
+          48.857775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10261/na538gakp_1723823510254.jpg",
+        "location": "",
+        "point_id": "na538gakp",
+        "point_name": "Pont Neuf",
+        "remark": "建于16世纪末，巴黎最古老的桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.336635,
+          48.865513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10261/na5ervy42_1723824195818.jpg",
+        "location": "",
+        "point_id": "na5ervy42",
+        "point_name": "Fontaine Molière",
+        "remark": "建于1844年，纪念法国剧作家莫里哀"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.295055,
+          48.873757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10261/na5fxc4kw_1723824266580.jpg",
+        "location": "",
+        "point_id": "na5fxc4kw",
+        "point_name": "Arc de Triomphe",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.331964,
+          48.87144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10261/na5grnb6w_1723824316217.jpg",
+        "location": "",
+        "point_id": "na5grnb6w",
+        "point_name": "Palais Garnier",
+        "remark": "建于1861年，《歌剧魅影》以此为背景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.340203,
+          48.862833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/10261/points/87tse5n5e-1723820088282.jpg",
+        "location": "",
+        "point_id": "87tse5n5e",
+        "point_name": "Galerie Véro-Dodat",
+        "remark": "汤音工作的铁艺店所在地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.336813,
+          48.841087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10261,
+        "bangumi_title": "异国迷宫的十字路口",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/10261/na5kr7bq7_1723824704216.jpg",
+        "location": "",
+        "point_id": "na5kr7bq7",
+        "point_name": "Fontaine des Quatre-Parties-du-Monde",
+        "remark": "建于1872年，象征欧亚美非四大洲"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.683108,
+          35.702517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 308936,
+        "bangumi_title": "东京复仇者",
+        "ep_cut": "22",
+        "image_url": "https://w.junreimap.com/images/user/1108/bangumi/308936/points/mksnk65p3-1721837717282.jpg",
+        "location": "",
+        "point_id": "mksnk65p3",
+        "point_name": "麦的回忆",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

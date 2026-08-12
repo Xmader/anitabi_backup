@@ -1,0 +1,385 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.767031,
+          35.701094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gr3n8h_1765521277784.jpg",
+        "location": "",
+        "point_id": "8gr3n8h",
+        "point_name": "天野屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767317,
+          35.701341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gr7eew_1765521301377.jpg",
+        "location": "",
+        "point_id": "8gr7eew",
+        "point_name": "明神そば きやり 神田明神前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520421,
+          35.623344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/428823/8grczem_1765521315850.jpg",
+        "location": "",
+        "point_id": "8grczem",
+        "point_name": "プールWAI",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759044,
+          34.986442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gwny3k_1765521329707.jpg",
+        "location": "",
+        "point_id": "8gwny3k",
+        "point_name": "京都駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.760298,
+          34.986094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gwpk6e_1765521374923.jpg",
+        "location": "",
+        "point_id": "8gwpk6e",
+        "point_name": "京都劇場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785021,
+          34.994719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gwrwjg_1765521385195.jpg",
+        "location": "",
+        "point_id": "8gwrwjg",
+        "point_name": "清水寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798345,
+          35.026469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gwuat6_1765521490050.jpg",
+        "location": "",
+        "point_id": "8gwuat6",
+        "point_name": "銀閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774926,
+          35.002497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gwvxis_1765521522092.jpg",
+        "location": "",
+        "point_id": "8gwvxis",
+        "point_name": "ぎおん徳屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767475,
+          35.00722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gx2jjg_1765521547082.jpg",
+        "location": "",
+        "point_id": "8gx2jjg",
+        "point_name": "ろっくんプラザ付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767287,
+          35.006468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gx3wue_1765521570196.jpg",
+        "location": "",
+        "point_id": "8gx3wue",
+        "point_name": "おふく本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767165,
+          35.007039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gx4l5g_1765521586950.jpg",
+        "location": "",
+        "point_id": "8gx4l5g",
+        "point_name": "京のふる里",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.790818,
+          35.007751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gx88ek_1765521608547.jpg",
+        "location": "",
+        "point_id": "8gx88ek",
+        "point_name": "蹴上疎水公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414059,
+          35.699409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxaebe_1765521626866.jpg",
+        "location": "",
+        "point_id": "8gxaebe",
+        "point_name": "買取専門店 おたからや 立川北口店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413673,
+          35.700438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxjoht_1765521638575.jpg",
+        "location": "",
+        "point_id": "8gxjoht",
+        "point_name": "シネマシティビル　シネマ・ワン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411144,
+          35.705558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxmkmy_1765521691979.jpg",
+        "location": "",
+        "point_id": "8gxmkmy",
+        "point_name": "IKEA立川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413795,
+          35.698802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxnprt_1765521718390.jpg",
+        "location": "",
+        "point_id": "8gxnprt",
+        "point_name": "立川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414746,
+          35.69966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxqf6h_1765521738752.jpg",
+        "location": "",
+        "point_id": "8gxqf6h",
+        "point_name": "猫カフェ MOCHA（モカ）立川店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772498,
+          35.626835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxtb5e_1765521753328.jpg",
+        "location": "",
+        "point_id": "8gxtb5e",
+        "point_name": "アクア​シティ​お台場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776016,
+          35.630579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428823,
+        "bangumi_title": "疑似后宫",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/428823/8gxuqe9_1765521763703.jpg",
+        "location": "",
+        "point_id": "8gxuqe9",
+        "point_name": "お台場海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

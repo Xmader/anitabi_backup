@@ -1,0 +1,305 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.788314,
+          35.551498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvqjfea_1785934944153.webp",
+        "location": "羽田机场",
+        "point_id": "hvqjfea",
+        "point_name": "羽田空港第2ターミナル 保安検査場B",
+        "remark": "实景照片见：https://www.aviationwire.jp/archives/269700，上方的大型电子显示屏在2023年被拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.479492,
+          43.768443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvtvlix_1785940350873.webp",
+        "location": "旭山动物园",
+        "point_id": "hvtvlix",
+        "point_name": "旭山動物園 ほっきょくぐま館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.478799,
+          43.767848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvty43i_1785940445948.webp",
+        "location": "旭山动物园",
+        "point_id": "hvty43i",
+        "point_name": "旭山動物園 \tもうじゅう館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.479056,
+          43.768654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvu9rnm_1785940962810.webp",
+        "location": "旭山动物园",
+        "point_id": "hvu9rnm",
+        "point_name": "旭山動物園 \tあざらし館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.974998,
+          43.718468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvsuhqd_1785939884701.webp",
+        "location": "上川郡",
+        "point_id": "hvsuhqd",
+        "point_name": "大雪山国立公園 流星の滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.007423,
+          43.190852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvtpfzi_1785940079015.webp",
+        "location": "小樽",
+        "point_id": "hvtpfzi",
+        "point_name": "小樽海関所灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.003328,
+          43.195766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvukz7o_1785941523775.webp",
+        "location": "小樽",
+        "point_id": "hvukz7o",
+        "point_name": "小樽出世前広場",
+        "remark": "https://maps.app.goo.gl/BeCT3b4yQMsLjZPM8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.999202,
+          43.19924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvux8zf_1785942177917.webp",
+        "location": "小樽",
+        "point_id": "hvux8zf",
+        "point_name": "小樽中央通",
+        "remark": "从路灯形状和道路宽度可以确认位于这条路。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001244,
+          43.2003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvv30t5_1785942332950.webp",
+        "location": "小樽",
+        "point_id": "hvv30t5",
+        "point_name": "中央橋街園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001381,
+          43.200263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvv4a9e_1785942381267.webp",
+        "location": "小樽",
+        "point_id": "hvv4a9e",
+        "point_name": "中央橋街園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001425,
+          43.200238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvv8xiw_1785942596221.webp",
+        "location": "小樽",
+        "point_id": "hvv8xiw",
+        "point_name": "中央橋街園",
+        "remark": "背景出现东北角的双头路灯。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001362,
+          43.200252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvvba4f_1785942698964.webp",
+        "location": "小樽",
+        "point_id": "hvvba4f",
+        "point_name": "中央橋街園",
+        "remark": "西北角。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001806,
+          43.199172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvvlagr_1785943181576.webp",
+        "location": "小樽",
+        "point_id": "hvvlagr",
+        "point_name": "小樽運河",
+        "remark": "远处是浅草桥。\nhttps://maps.app.goo.gl/AYMB9XJGpE3qnoUK8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.002169,
+          43.198797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvvm23a_1785943219714.webp",
+        "location": "小樽",
+        "point_id": "hvvm23a",
+        "point_name": "小樽運河",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.002106,
+          43.198889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292901,
+        "bangumi_title": "无法拒绝孤单女孩",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/292901/hvvnpfb_1785943290110.webp",
+        "location": "小樽",
+        "point_id": "hvvnpfb",
+        "point_name": "小樽運河",
+        "remark": "对面是びっくりドンキー小樽運河店。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

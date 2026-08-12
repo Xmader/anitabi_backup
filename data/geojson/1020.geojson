@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.210102,
+          34.325964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1020/points/vgfsfm4m9-1746885977748.jpg",
+        "location": "",
+        "point_id": "vgfsfm4m9",
+        "point_name": "式根岛",
+        "remark": "游戏《海猫鸣泣之时》六轩岛地理原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.215637,
+          34.334595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1020/points/af50lmd-1769693830915.jpg",
+        "location": "",
+        "point_id": "af50lmd",
+        "point_name": "式根岛",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.212129,
+          34.335323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1020/points/af58cfq-1769693979941.jpg",
+        "location": "",
+        "point_id": "af58cfq",
+        "point_name": "式根岛",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.195763,
+          34.321183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1020/points/af5dedl-1769694223866.jpg",
+        "location": "",
+        "point_id": "af5dedl",
+        "point_name": "式根岛",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767412,
+          35.709916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1020/points/aj3ynz4-1769933731903.jpg",
+        "location": "",
+        "point_id": "aj3ynz4",
+        "point_name": "都立旧岩崎邸庭園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.221646,
+          34.341659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1020/points/aj446xr-1769933960937.jpg",
+        "location": "",
+        "point_id": "aj446xr",
+        "point_name": "式根島",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767217,
+          35.709767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1020/points/aj41aiq-1769933847482.jpg",
+        "location": "",
+        "point_id": "aj41aiq",
+        "point_name": "都立旧岩崎邸庭園大厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767282,
+          35.709694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1020,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1020/points/gm0hrih-1783170045983.webp",
+        "location": "",
+        "point_id": "gm0hrih",
+        "point_name": "旧岩崎庭园",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

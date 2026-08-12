@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.565506,
+          25.035544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/akx3xo2_1770043175463.jpg",
+        "location": "",
+        "point_id": "akx3xo2",
+        "point_name": "台北101前",
+        "remark": "煙火時的背景，只有远处的布景比较像，这里没有圆形花坛"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.567023,
+          25.037469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/akx8c3m_1770043363753.jpg",
+        "location": "",
+        "point_id": "akx8c3m",
+        "point_name": "信義A9 香緹大道廣場",
+        "remark": "和芊帆逛街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.562831,
+          25.04329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/akxbjar_1770043480530.jpg",
+        "location": "",
+        "point_id": "akxbjar",
+        "point_name": "巷子(松菸/松山文化園區右邊)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.5601,
+          25.044242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/akxe0rm_1770043611229.jpg",
+        "location": "",
+        "point_id": "akxe0rm",
+        "point_name": "展覽(松菸/松山文化園區倉庫)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.549751,
+          25.041349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/akxqtu3_1770044218852.jpg",
+        "location": "",
+        "point_id": "akxqtu3",
+        "point_name": "捷運1(捷運忠孝敦化5號出口)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.556729,
+          25.041823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/akxtui7_1770044371946.jpg",
+        "location": "",
+        "point_id": "akxtui7",
+        "point_name": "捷運2(捷運國父紀念館1號出口)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.551938,
+          25.041318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 144284,
+        "bangumi_title": "花落冬阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/144284/aky7m5x_1770045006629.jpg",
+        "location": "",
+        "point_id": "aky7m5x",
+        "point_name": "街景（ZARA台北統領店对面）",
+        "remark": "提示牌、Zara和捷运站口"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

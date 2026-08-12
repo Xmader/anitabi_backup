@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -74.04448,
+          40.689054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 488539,
+        "bangumi_title": "亚刻奥特曼",
+        "ep_cut": "15",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/488539/points/r9d6680tc-1735047160166.jpg",
+        "location": "",
+        "point_id": "r9d6680tc",
+        "point_name": "Statue of liberty",
+        "remark": "16年前“怪兽之日”事件发生时，石油怪兽特贡出现在这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.396452,
+          43.723006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 488539,
+        "bangumi_title": "亚刻奥特曼",
+        "ep_cut": "15",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/488539/points/r9dfov7c3-1735047756820.jpg",
+        "location": "",
+        "point_id": "r9dfov7c3",
+        "point_name": "Torre pendente di PisaTorre di Pisa",
+        "remark": "16年前“怪兽之日”事件发生时，有翼怪兽强德拉和宇宙大怪兽贝蒙斯坦出现在这里"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

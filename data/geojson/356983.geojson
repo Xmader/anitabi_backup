@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          126.819754,
+          26.35163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "lubcv92l1",
+        "point_name": "久米岛",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.140633,
+          26.372198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/356983/lubgqb7db_1744646926771.jpg",
+        "location": "",
+        "point_id": "lubgqb7db",
+        "point_name": "渡名喜港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.650791,
+          26.208604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unnkierrv-1744630250143.jpg",
+        "location": "",
+        "point_id": "unnkierrv",
+        "point_name": "那覇空港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.683423,
+          26.224003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unnne6vp8-1744630479665.jpg",
+        "location": "",
+        "point_id": "unnne6vp8",
+        "point_name": "那覇港 泊ふ頭",
+        "remark": "久米島・渡名喜島・那覇定期航路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.753136,
+          26.341439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unnvcspcz-1744630880540.jpg",
+        "location": "",
+        "point_id": "unnvcspcz",
+        "point_name": "兼城​港​フェリー​ターミナル",
+        "remark": "2021年2月已新建"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.769267,
+          26.332402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unq7xg0n8-1744636025789.jpg",
+        "location": "",
+        "point_id": "unq7xg0n8",
+        "point_name": "儀間市街地1",
+        "remark": "和赤摘对话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.886596,
+          26.158757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unqqgs5ic-1744637145213.jpg",
+        "location": "",
+        "point_id": "unqqgs5ic",
+        "point_name": "久高殿",
+        "remark": "バイト終わり"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.761398,
+          26.337979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unqz37k2j-1744637675100.jpg",
+        "location": "",
+        "point_id": "unqz37k2j",
+        "point_name": "県立久米島高校",
+        "remark": "久久岛高中"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.770044,
+          26.331594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 356983,
+        "bangumi_title": "传述之魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/356983/points/unr75vrl3-1744638137280.jpg",
+        "location": "",
+        "point_id": "unr75vrl3",
+        "point_name": "儀間市街地2",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

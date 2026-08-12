@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.378039,
+          35.616327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 276402,
+        "bangumi_title": "爱因斯坦携爱敬上",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/276402/32g1t25_1753688650281.jpg",
+        "location": "",
+        "point_id": "32g1t25",
+        "point_name": "東京都立大学",
+        "remark": "北牧台学園"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.379891,
+          35.61406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 276402,
+        "bangumi_title": "爱因斯坦携爱敬上",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/276402/32g44r3_1753688738862.jpg",
+        "location": "",
+        "point_id": "32g44r3",
+        "point_name": "南大沢駅",
+        "remark": "北牧台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.389804,
+          35.613951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 276402,
+        "bangumi_title": "爱因斯坦携爱敬上",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/276402/32g7p73_1753688901064.jpg",
+        "location": "",
+        "point_id": "32g7p73",
+        "point_name": "別所一丁目",
+        "remark": "坂下唯々菜家附近（具体位置需确认）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.398691,
+          35.623151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 276402,
+        "bangumi_title": "爱因斯坦携爱敬上",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/276402/32g9yq7_1753689002104.jpg",
+        "location": "",
+        "point_id": "32g9yq7",
+        "point_name": "別所ふれあい公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

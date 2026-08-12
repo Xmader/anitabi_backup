@@ -1,0 +1,965 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.649194,
+          36.577888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/681d7a9c_1720169691354.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "681d7a9c",
+        "point_name": "金沢駅前",
+        "remark": "東口(兼六園口)にあるもてなしドーム、鼓門"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.655134,
+          36.571391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/b616b964_1720169691948.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "b616b964",
+        "point_name": "武蔵南交差点",
+        "remark": "近江町市場エムザ口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.656231,
+          36.571351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/15117538_1720169692559.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "15117538",
+        "point_name": "近江町市場①",
+        "remark": "いちば館の隣"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.656582,
+          36.571136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/10ec7ecf_1720169693007.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "10ec7ecf",
+        "point_name": "近江町市場②",
+        "remark": "大口水産前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.657071,
+          36.571145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/df284684_1720169693762.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "df284684",
+        "point_name": "金沢おでん いっぷくや",
+        "remark": "綴理がおでんを食べたお店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.655793,
+          36.571528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/05b76b89_1720169694310.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "05b76b89",
+        "point_name": "近江町海鮮丼家ひら井 いちば館店",
+        "remark": "いちば館２F　近江町海鮮丼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.657179,
+          36.570988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/aeb4215e_1720169694722.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "aeb4215e",
+        "point_name": "近江町市場　買い物通り口",
+        "remark": "【抱きしめる花びら】村野さやか　覚醒前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.653788,
+          36.563938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/1cf6118e_1720169695379.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "1cf6118e",
+        "point_name": "香林坊",
+        "remark": "プチパティシエール（大沢瑠璃乃）ホテルトラスティ前から南方向を見ています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.650143,
+          36.563757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/ff223319_1720169696278.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "ff223319",
+        "point_name": "長町武家屋敷跡",
+        "remark": "歌留多綴理  覚醒前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.653512,
+          36.560862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/144bb9c7_1720169696628.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "144bb9c7",
+        "point_name": "竪町通り",
+        "remark": "活動記録18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.651671,
+          36.556927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/68b817ed_1720169697097.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "68b817ed",
+        "point_name": "犀川沿い",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.655725,
+          36.559375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/68911acc_1720169697613.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "68911acc",
+        "point_name": "茜やアーカイブギャラリー",
+        "remark": "2024年度活動記録第1話。加賀友禅についての展示が行われています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.660172,
+          36.565561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/59de83fd_1720169698135.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "59de83fd",
+        "point_name": "金沢城公園",
+        "remark": "2023年11月度Fes場×LIVE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.656848,
+          36.565565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/a099eb83_1720169699054.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "a099eb83",
+        "point_name": "玉泉院丸庭園",
+        "remark": "PVカット。金沢城公園内。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.661841,
+          36.565027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/ad0eedb1_1720169700007.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "ad0eedb1",
+        "point_name": "石川橋",
+        "remark": "歌留多瑠璃乃  覚醒前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.66275,
+          36.563287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/d390f9f8_1720169700525.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "d390f9f8",
+        "point_name": "兼六園",
+        "remark": "歌留多さやか覚醒前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.663065,
+          36.563121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/e8b82fcf_1720169701188.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "e8b82fcf",
+        "point_name": "兼六園②",
+        "remark": "PVカット。霞ヶ池から空を見上げる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662777,
+          36.558729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/54216dc0_1720169701795.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "54216dc0",
+        "point_name": "石川県立歴史博物館",
+        "remark": "歌留多花帆  覚醒前。第1棟の中央階段。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662677,
+          36.571257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/f1aa4d09_1720169702130.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "f1aa4d09",
+        "point_name": "金沢蓄音器館",
+        "remark": "Pleasure Feather 乙宗梢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.663943,
+          36.572106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/aa87f5e2_1720169702490.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "aa87f5e2",
+        "point_name": "主計町茶屋街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.664541,
+          36.57208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/153aa1cf_1720169702880.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "153aa1cf",
+        "point_name": "浅野川大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.665374,
+          36.571758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/1ef35653_1720169703217.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "1ef35653",
+        "point_name": "浅野川沿い",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.666445,
+          36.572597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/a7ac0fa4_1720169703582.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "a7ac0fa4",
+        "point_name": "ひがし茶屋街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.666811,
+          36.572517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/e4dddf4b_1720169704417.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "e4dddf4b",
+        "point_name": "ひがし茶屋街②",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.667736,
+          36.572741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/efde9627_1720169705040.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "efde9627",
+        "point_name": "ひがし茶屋街③",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.673105,
+          36.578734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/059e07e1_1720169705493.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "059e07e1",
+        "point_name": "小坂神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.680068,
+          36.548693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/6bbca91e_1720169706301.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "6bbca91e",
+        "point_name": "石川県立図書館",
+        "remark": "2024年1月度Fes×LIVE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.676208,
+          36.565313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/975eb4c3_1720169707182.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "975eb4c3",
+        "point_name": "青少年総合研修センター前",
+        "remark": "PVカット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.677308,
+          36.567782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/98517344_1720169708112.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "98517344",
+        "point_name": "卯辰山公園 見晴らし台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.678715,
+          36.568328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "51df2549",
+        "point_name": "卯辰山公園 ふれあい広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.62723,
+          36.55485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/b0cd2d34_1720169709161.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "b0cd2d34",
+        "point_name": "健民スポレクプラザ",
+        "remark": "アイスリンクのモデル。一般利用者に配慮しましょう。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.61114,
+          36.53665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/8c1020e4_1720169710254.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "8c1020e4",
+        "point_name": "アピナ野々市バッティングスタジアム",
+        "remark": "瑠璃乃たちが訪れたバッティングセンターのモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.614718,
+          36.607937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/befd3f11_1720169710788.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "befd3f11",
+        "point_name": "金沢港クルーズターミナル",
+        "remark": "蓮ノ空女学院の体育館に形状が似ています"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.604471,
+          36.619077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/d7f55b68_1720169711524.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "d7f55b68",
+        "point_name": "大野からくり記念館",
+        "remark": "歌留多梢  覚醒前。入館料500円。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.526842,
+          36.535713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/a86129fb_1720169711895.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "a86129fb",
+        "point_name": "徳光海水浴場",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.413745,
+          36.402671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/fdb4d91f_1720169712328.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "fdb4d91f",
+        "point_name": "小松空港",
+        "remark": "瑠璃乃、帰国"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.363985,
+          36.293749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/77dbcc96_1720169712766.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "77dbcc96",
+        "point_name": "ゆのくに天祥（山代温泉）",
+        "remark": "活動記録11話でお手伝いをした旅館"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.371622,
+          36.241015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/c3fc56c2_1720169713442.jpg",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "c3fc56c2",
+        "point_name": "山中温泉 こおろぎ橋",
+        "remark": "加賀市・山中温泉"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.649878,
+          36.579286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "",
+        "location": " 「Link！Like！ラブライブ！」",
+        "point_id": "496ca387",
+        "point_name": "ラブライブ ! 蓮ノ空女学院スクールアイドルクラブ オフィシャルタイアップショップ by ゲーマーズ",
+        "remark": "金沢フォーラス4階。2023年9月までの期間限定で出店予定。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.656285,
+          36.572224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/4011f280_1720169713902.jpg",
+        "location": "LoveLive!Days",
+        "point_id": "4011f280",
+        "point_name": "かなざわはこまち入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.663428,
+          36.562097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/4b612aed_1720169714365.jpg",
+        "location": "LoveLive!Days",
+        "point_id": "4b612aed",
+        "point_name": "兼六園菊桜前",
+        "remark": "見頃は4月頃"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.660429,
+          36.56724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/f81ea059_1720169714789.jpg",
+        "location": "LoveLive!Days",
+        "point_id": "f81ea059",
+        "point_name": "金沢城公園新丸広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.635546,
+          36.57031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/16f76dcb_1720169715207.jpg",
+        "location": "LoveLive!Days",
+        "point_id": "16f76dcb",
+        "point_name": "まめだ簡易グラウンド前",
+        "remark": "北國花火"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.701667,
+          36.559255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/220dbc89_1720169716028.jpg",
+        "location": "CDジャケット等",
+        "point_id": "220dbc89",
+        "point_name": "奥卯辰山健民公園さくらひろば",
+        "remark": "Dream Believers"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.526412,
+          36.535967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/431741/c7df43fc_1720169716714.jpg",
+        "location": "CDジャケット等",
+        "point_id": "c7df43fc",
+        "point_name": "徳光海水浴場「LOVE」モニュメント",
+        "remark": "夏めきペイン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.663964,
+          36.572082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/431741/points/tpsthybng-1741977326622.jpg",
+        "location": "",
+        "point_id": "tpsthybng",
+        "point_name": "主計町茶屋街",
+        "remark": "歌留多 徒町小鈴 覚醒前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.724529,
+          37.13986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/431741/points/gnnmokb-1783269294573.webp",
+        "location": "",
+        "point_id": "gnnmokb",
+        "point_name": "道の駅 とぎ海街道",
+        "remark": "蓮ノ空能登コラボ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.724532,
+          37.139854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/431741/points/gnny9z4-1783269831066.webp",
+        "location": "",
+        "point_id": "gnny9z4",
+        "point_name": "道の駅 とぎ海街道",
+        "remark": "能登联动"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

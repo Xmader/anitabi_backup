@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.424713,
+          35.860993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l9voqa-1767887791341.jpg",
+        "location": "",
+        "point_id": "9l9voqa",
+        "point_name": "旧東中学校",
+        "remark": "現在は廃校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.424779,
+          35.86099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l9urm1-1767887750721.jpg",
+        "location": "",
+        "point_id": "9l9urm1",
+        "point_name": "旧東中学校",
+        "remark": "現在は廃校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.615167,
+          35.190631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l9czv3-1767886909175.jpg",
+        "location": "",
+        "point_id": "9l9czv3",
+        "point_name": "和田長浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.615115,
+          35.190635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l9cqzl-1767886897172.jpg",
+        "location": "",
+        "point_id": "9l9cqzl",
+        "point_name": "和田長浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.615068,
+          35.190642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l9ch60-1767886886118.jpg",
+        "location": "",
+        "point_id": "9l9ch60",
+        "point_name": "和田長浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614974,
+          35.190647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l9c1up-1767886871891.jpg",
+        "location": "",
+        "point_id": "9l9c1up",
+        "point_name": "和田長浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621161,
+          35.141777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l936op-1767886451497.jpg",
+        "location": "",
+        "point_id": "9l936op",
+        "point_name": "三崎１丁目１１",
+        "remark": "顶部是私人墓地，关系者外禁止进入，靠近会有广播通知离开"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621123,
+          35.141751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l8yd9y-1767886425440.jpg",
+        "location": "",
+        "point_id": "9l8yd9y",
+        "point_name": "三崎１丁目１１",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623584,
+          35.142451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332471,
+        "bangumi_title": "青と夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/332471/points/9l8v8bs-1767886126535.jpg",
+        "location": "",
+        "point_id": "9l8v8bs",
+        "point_name": "向ヶ崎町３",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

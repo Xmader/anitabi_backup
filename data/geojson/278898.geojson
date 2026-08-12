@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.260113,
+          36.148366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 278898,
+        "bangumi_title": "寻找见习魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/278898/points/pzyhzdls3-1731489105092.jpg",
+        "location": "",
+        "point_id": "pzyhzdls3",
+        "point_name": "高山祭屋台会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

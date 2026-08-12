@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.697312,
+          35.693394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315745,
+        "bangumi_title": "租借女友 2期",
+        "ep_cut": "第二季ed",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/315745/points/ho9lsxc6i-1708003871155.jpg",
+        "location": "",
+        "point_id": "ho9lsxc6i",
+        "point_name": "新都心歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480483,
+          35.307994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315745,
+        "bangumi_title": "租借女友 2期",
+        "ep_cut": "第二季ed",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/315745/points/ho9pueexm-1708004018167.jpg",
+        "location": "",
+        "point_id": "ho9pueexm",
+        "point_name": "片瀨海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792111,
+          35.653329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315745,
+        "bangumi_title": "租借女友 2期",
+        "ep_cut": "第二季ed",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/315745/points/ho9rk5ial-1708004119583.jpg",
+        "location": "",
+        "point_id": "ho9rk5ial",
+        "point_name": "春海橋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789448,
+          35.650113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315745,
+        "bangumi_title": "租借女友 2期",
+        "ep_cut": "第二季ed",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/315745/points/ho9syrcft-1708004218065.jpg",
+        "location": "",
+        "point_id": "ho9syrcft",
+        "point_name": "WILDMAGIC - The Rainbow Farm",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551106,
+          35.650114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315745,
+        "bangumi_title": "租借女友 2期",
+        "ep_cut": "第二季ed",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/315745/points/ho9vc3aef-1708004360145.jpg",
+        "location": "",
+        "point_id": "ho9vc3aef",
+        "point_name": "布田駅前広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699811,
+          35.7164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315745,
+        "bangumi_title": "租借女友 2期",
+        "ep_cut": "第二季ed",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/315745/points/ho9ysh4yv-1708004568673.jpg",
+        "location": "",
+        "point_id": "ho9ysh4yv",
+        "point_name": "下落合歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

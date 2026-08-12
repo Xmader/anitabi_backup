@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          130.177151,
+          33.030664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 402654,
+        "bangumi_title": "GINKA",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/402654/points/gc9yrop-1782581224700.webp",
+        "location": "GINKA",
+        "point_id": "gc9yrop",
+        "point_name": "Ōuo-jinja no Kaichū Torii",
+        "remark": "个人感觉最符合GINKA的鸟居。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.818476,
+          35.694557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2074,
+        "bangumi_title": "逮捕令",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2074/points/oszbrorzr-1728121453923.jpg",
+        "location": "",
+        "point_id": "oszbrorzr",
+        "point_name": "墨東病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.498828,
+          34.702511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 73955,
+        "bangumi_title": "半泽直树",
+        "ep_cut": "Season 1, Episode 1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73955/points/p8f6y-1747052834890.jpg",
+        "location": "",
+        "point_id": "p8f6y",
+        "point_name": "阪急",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

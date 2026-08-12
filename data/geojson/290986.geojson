@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.136953,
+          36.579346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290986,
+        "bangumi_title": "Study § Steady",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290986/points/11lkf5l-1749283910835.jpg",
+        "location": "游戏",
+        "point_id": "11lkf5l",
+        "point_name": "西町の石垣",
+        "remark": "スタディ§ステディ、スタディ§ステディ2通学路"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

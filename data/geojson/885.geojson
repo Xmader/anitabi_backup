@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.697876,
+          36.358122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 885,
+        "bangumi_title": "食灵-零-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oufsu",
+        "point_name": "めがね橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.82464,
+          36.599965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 885,
+        "bangumi_title": "食灵-零-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oufnc",
+        "point_name": "大谷資料館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.998999,
+          37.101437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 885,
+        "bangumi_title": "食灵-零-",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oufsv",
+        "point_name": "殺生石",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.811756,
+          35.997204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 885,
+        "bangumi_title": "食灵-零-",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/885/points/lqf55nld0-1719457501120.jpg",
+        "location": "",
+        "point_id": "lqf55nld0",
+        "point_name": "地底​探険​ミュージアム​龍Q館",
+        "remark": "特战四课与黄泉发生战斗之地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

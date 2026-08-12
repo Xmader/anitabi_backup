@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.016978,
+          34.57917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523664,
+        "bangumi_title": "摇曳露营△ 四期",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/523664/bnnmpk2_1772385373939.jpg",
+        "location": "田原市-爱知县",
+        "point_id": "bnnmpk2",
+        "point_name": "伊良湖港",
+        "remark": "热烈庆祝第四季定档2027！啪叽啪叽！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.64926,
+          35.640226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523664,
+        "bangumi_title": "摇曳露营△ 四期",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/523664/points/hquqoer-1785639556572.webp",
+        "location": "展览·商业活动",
+        "point_id": "hquqoer",
+        "point_name": "山梨県立博物館",
+        "remark": "2026.7.18-9.7 与博物馆限时联动特展。举办限时活动、售卖限定周边等。\n详见博物馆官网 http://www.museum.pref.yamanashi.jp/3nd_tenjiannai_26tokubetsu001.html \n博物馆周二公休，特展票1000日元，常展特展联票1260日元。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

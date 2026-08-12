@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          126.704135,
+          35.991638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45954,
+        "bangumi_title": "珍贵日子的梦想",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/45954/omajfxn03_1727596856928.jpg",
+        "location": "",
+        "point_id": "omajfxn03",
+        "point_name": "해망굴",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

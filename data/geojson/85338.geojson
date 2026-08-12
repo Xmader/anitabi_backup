@@ -1,0 +1,405 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          24.987033,
+          60.146134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/5gurqh8kn-1673569629554.jpg",
+        "location": "芬兰",
+        "point_id": "5gurqh8kn",
+        "point_name": "Paarlastihuone",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.987341,
+          60.144964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/5guv1vr90-1673569812018.jpg",
+        "location": "芬兰",
+        "point_id": "5guv1vr90",
+        "point_name": "Susisaaren silta",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.989993,
+          60.139638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/5guwo2r4y-1673569911340.jpg",
+        "location": "芬兰",
+        "point_id": "5guwo2r4y",
+        "point_name": "Kuninkaanportti",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.97278,
+          60.14862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/5guz3h0zz-1673570078277.jpg",
+        "location": "芬兰",
+        "point_id": "5guz3h0zz",
+        "point_name": "Helsingin ilmapuolustus 1939–1940 (muistomerkki)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.315819,
+          59.939036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7os7gk6y-1723631283489.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7os7gk6y",
+        "point_name": "Александровская колонна",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.331629,
+          59.937274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nwghjw7-1723629359715.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7nwghjw7",
+        "point_name": "А. С. Пушкину",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.300094,
+          59.922503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7oaqzuzc-1723630218835.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7oaqzuzc",
+        "point_name": "Никольский собор",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.298372,
+          59.922126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7oim3po2-1723630684676.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7oim3po2",
+        "point_name": "Колокольня Никольского собора",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.297595,
+          59.921848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7okp9ao8-1723630815384.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7okp9ao8",
+        "point_name": "набережная Крюкова канала",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.297883,
+          59.921527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7olkuz0w-1723630871786.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7olkuz0w",
+        "point_name": "набережная Крюкова канала",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.383879,
+          61.787111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7omvewd6-1723630960159.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7omvewd6",
+        "point_name": "Государственный Русский музей",
+        "remark": "В этой серии они летали в петрозаводск и это место должно быть тут. Это единственное место в этом городе с подобным видом"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.316448,
+          59.950218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nsrfd8n-1723629138058.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7nsrfd8n",
+        "point_name": "Петропавловский собор",
+        "remark": "502基地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.307284,
+          59.944287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nri41v0-1723629056633.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7nri41v0",
+        "point_name": "Стрелка Васильевского острова",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.302113,
+          59.936421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nqefy9b-1723628991805.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7nqefy9b",
+        "point_name": "Петру Великому",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.306135,
+          59.934039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7npa0rur-1723628925511.jpg",
+        "location": "圣彼得堡",
+        "point_id": "n7npa0rur",
+        "point_name": "Исаакиевский собор",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.702167,
+          33.179789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nkt1wfc-1723628660879.jpg",
+        "location": "日本",
+        "point_id": "n7nkt1wfc",
+        "point_name": "弓張岳展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.751781,
+          33.06152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7njadhor-1723628564007.jpg",
+        "location": "日本",
+        "point_id": "n7njadhor",
+        "point_name": "針尾瀬戸弁天島灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.69351,
+          33.131503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7ne0ckxh-1723628251458.jpg",
+        "location": "日本",
+        "point_id": "n7ne0ckxh",
+        "point_name": "九十九島展望台 展海峰",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.751478,
+          33.065933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nfuhppb-1723628354318.jpg",
+        "location": "日本",
+        "point_id": "n7nfuhppb",
+        "point_name": "針尾送信所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.766836,
+          33.053006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 85338,
+        "bangumi_title": "无畏魔女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/85338/points/n7nh89pmq-1723628429042.jpg",
+        "location": "日本",
+        "point_id": "n7nh89pmq",
+        "point_name": "七郎神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

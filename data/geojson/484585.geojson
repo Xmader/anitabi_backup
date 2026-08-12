@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.753992,
+          35.763138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 484585,
+        "bangumi_title": "灵视异闻 FILE25 通灵少女·黑铃澪的邂逅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/484585/7h0lmyg_1763276771425.jpg",
+        "location": "",
+        "point_id": "7h0lmyg",
+        "point_name": "豊島橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.798913,
+          35.709072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 484585,
+        "bangumi_title": "灵视异闻 FILE25 通灵少女·黑铃澪的邂逅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/484585/7h0fzp4_1763276975072.jpg",
+        "location": "",
+        "point_id": "7h0fzp4",
+        "point_name": "吾妻橋",
+        "remark": "崎泽留子尸体发现地。\nhttps://maps.app.goo.gl/GRXRs7tCMTYATrQH6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744291,
+          35.75873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 484585,
+        "bangumi_title": "灵视异闻 FILE25 通灵少女·黑铃澪的邂逅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/484585/7gr4oq8_1763276989808.jpg",
+        "location": "",
+        "point_id": "7gr4oq8",
+        "point_name": "豊島二丁目歩道橋",
+        "remark": "崎泽文坠桥地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745839,
+          35.760461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 484585,
+        "bangumi_title": "灵视异闻 FILE25 通灵少女·黑铃澪的邂逅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/484585/7gr8rzh_1763277021255.jpg",
+        "location": "",
+        "point_id": "7gr8rzh",
+        "point_name": "豊島中央通り商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

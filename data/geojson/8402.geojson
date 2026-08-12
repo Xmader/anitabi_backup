@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700714,
+          35.693903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8402,
+        "bangumi_title": "吊带袜天使",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/8402/3hi730_1747221153651.jpg",
+        "location": "",
+        "point_id": "3hi730",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

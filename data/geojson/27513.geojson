@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.794772,
+          35.672396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 27513,
+        "bangumi_title": "现在就想告诉哥哥，我是妹妹！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/25vl6ar-1751719435335.jpg",
+        "location": "",
+        "point_id": "25vl6ar",
+        "point_name": "稻濑路口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794178,
+          35.671579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 27513,
+        "bangumi_title": "现在就想告诉哥哥，我是妹妹！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/27513/points/25vqtcx-1751719584098.jpg",
+        "location": "",
+        "point_id": "25vqtcx",
+        "point_name": "清澄通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79806,
+          35.67021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 27513,
+        "bangumi_title": "现在就想告诉哥哥，我是妹妹！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/27513/points/25vuxjk-1751719800236.jpg",
+        "location": "",
+        "point_id": "25vuxjk",
+        "point_name": "巴橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782434,
+          35.626162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 27513,
+        "bangumi_title": "现在就想告诉哥哥，我是妹妹！",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "25vy2j2",
+        "point_name": "観覧車",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

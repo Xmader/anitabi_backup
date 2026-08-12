@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.195876,
+          34.706406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101518,
+        "bangumi_title": "狼少女与黑王子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/101518/51i527qny_1752673486680.jpg",
+        "location": "",
+        "point_id": "51i527qny",
+        "point_name": "新神戸駅前",
+        "remark": "#11「一触即発 -Judgement-」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.196552,
+          34.705308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101518,
+        "bangumi_title": "狼少女与黑王子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/101518/51i527qjx_1752673520461.jpg",
+        "location": "",
+        "point_id": "51i527qjx",
+        "point_name": "新布引橋",
+        "remark": "#11，#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.194973,
+          34.70621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101518,
+        "bangumi_title": "狼少女与黑王子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/101518/51i527qqp_1752673542029.jpg",
+        "location": "",
+        "point_id": "51i527qqp",
+        "point_name": "新神戸駅 新幹線2番ホーム",
+        "remark": "#12「愛及屋烏 -I love you-」"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

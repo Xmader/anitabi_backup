@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.766945,
+          34.999589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 255209,
+        "bangumi_title": "二十世纪电气目录",
+        "ep_cut": "CM",
+        "image_url": "https://w.junreimap.com/images/points/255209/4w4bf6a8x.jpg",
+        "location": "",
+        "point_id": "4w4bf6a8x",
+        "point_name": "京極町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771874,
+          35.003749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 255209,
+        "bangumi_title": "二十世纪电气目录",
+        "ep_cut": "CM",
+        "image_url": "https://w.junreimap.com/images/points/255209/4w4cng9u4.jpg",
+        "location": "",
+        "point_id": "4w4cng9u4",
+        "point_name": "四条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75808,
+          34.985469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 255209,
+        "bangumi_title": "二十世纪电气目录",
+        "ep_cut": "CM",
+        "image_url": "https://w.junreimap.com/images/points/255209/4w4dh0z0l.jpg",
+        "location": "",
+        "point_id": "4w4dh0z0l",
+        "point_name": "京都站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.76849,
+          34.968453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 255209,
+        "bangumi_title": "二十世纪电气目录",
+        "ep_cut": "CM",
+        "image_url": "https://w.junreimap.com/images/points/255209/4w4f1fbyd.jpg",
+        "location": "",
+        "point_id": "4w4f1fbyd",
+        "point_name": "稲荷大社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.906279,
+          34.97304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 255209,
+        "bangumi_title": "二十世纪电气目录",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "6xzg7pg",
+        "point_name": "瀬田橋",
+        "remark": "【预标点】「急がば回れ」の語源，见官网：https://www.kyotoanimation.co.jp/books/20thdenmoku/map/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789962,
+          35.008951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 255209,
+        "bangumi_title": "二十世纪电气目录",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "6yvdvj8",
+        "point_name": "蹴上铁道",
+        "remark": "见官网：https://www.kyotoanimation.co.jp/books/20thdenmoku/map/"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

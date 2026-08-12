@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          144.398202,
+          42.983797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119889,
+        "bangumi_title": "我老婆是学生会长",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/119889/51i53hvvl_1730614715350.jpg",
+        "location": "釧路",
+        "point_id": "51i53hvvl",
+        "point_name": "釧路仏舎利",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.385387,
+          42.980985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119889,
+        "bangumi_title": "我老婆是学生会长",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/119889/51i53hw4r_1730614764389.jpg",
+        "location": "釧路",
+        "point_id": "51i53hw4r",
+        "point_name": "幣舞橋",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.704723,
+          41.759402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119889,
+        "bangumi_title": "我老婆是学生会长",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/119889/51i53hvj0_1730614783361.jpg",
+        "location": "函館",
+        "point_id": "51i53hvj0",
+        "point_name": "函館山展望台",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

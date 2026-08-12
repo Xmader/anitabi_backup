@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.466309,
+          35.43141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": "op",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o3dvhlwbj-1726115325750.jpg",
+        "location": "",
+        "point_id": "o3dvhlwbj",
+        "point_name": "高座渋谷駅周辺",
+        "remark": "高座渋谷站周边是故事中的街景原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.461719,
+          35.470025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o47397jbr-1726178831798.jpg",
+        "location": "",
+        "point_id": "o47397jbr",
+        "point_name": "大和駅ビル プロス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.527875,
+          35.614535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o478e79xm-1726179082227.jpg",
+        "location": "",
+        "point_id": "o478e79xm",
+        "point_name": "読売ランド前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518855,
+          35.625428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o479riop5-1726179227584.jpg",
+        "location": "",
+        "point_id": "o479riop5",
+        "point_name": "よみうりランド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.226452,
+          34.83159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o47g493pi-1726179583466.jpg",
+        "location": "",
+        "point_id": "o47g493pi",
+        "point_name": "蒲郡市立図書館",
+        "remark": "此处应为作者参考了自己家乡的图书馆外形，所以应该并不能作为作品中地理位置距离的参考。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472662,
+          35.427208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o48qbnjs9-1726182446239.jpg",
+        "location": "",
+        "point_id": "o48qbnjs9",
+        "point_name": "県営​いちょう​下和田​団地​57​号棟",
+        "remark": "只野家"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466344,
+          35.429711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o48wivl7a-1726183002697.jpg",
+        "location": "",
+        "point_id": "o48wivl7a",
+        "point_name": "ローソン\n大和​高座​渋谷​東​店",
+        "remark": "差异不小，在能接受一定误差的情况下，考虑到地理位置与外形，大致可以确认为此处。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.459806,
+          35.467735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 335225,
+        "bangumi_title": "古见同学有交流障碍症",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/335225/points/o4bp4khks-1726189048496.jpg",
+        "location": "",
+        "point_id": "o4bp4khks",
+        "point_name": "中央１号公園",
+        "remark": "个人觉得不是很有说服力就是了。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.712403,
+          35.730203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 456080,
+        "bangumi_title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们",
+        "ep_cut": "PV2",
+        "image_url": "https://w.junreimap.com/images/points/456080/8zu7beq_1766591658461.jpg",
+        "location": "",
+        "point_id": "8zu7beq",
+        "point_name": "主视觉图&&PV2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.401779,
+          35.702931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 456080,
+        "bangumi_title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/456080/8zu9a7n_1766591777018.jpg",
+        "location": "",
+        "point_id": "8zu9a7n",
+        "point_name": "昭和纪念公园",
+        "remark": "来源：@ssslocation"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

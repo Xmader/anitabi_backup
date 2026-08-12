@@ -1,0 +1,205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.91832,
+          34.665971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/75702/p9hwuskwr_1729415292528.jpg",
+        "location": "",
+        "point_id": "p9hwuskwr",
+        "point_name": "岡山​駅",
+        "remark": "9話　仮想"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.800365,
+          34.286101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/75702/p9hxxlffs_1729415341314.jpg",
+        "location": "",
+        "point_id": "p9hxxlffs",
+        "point_name": "丸亀城",
+        "remark": "9話　仮想"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620722,
+          35.704787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/75702/kpx6ost5n_1729416026158.jpg",
+        "location": "",
+        "point_id": "kpx6ost5n",
+        "point_name": "荻窪駅前ロータリー",
+        "remark": "9話　Lumine荻窪店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620502,
+          35.70497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/75702/kpx6osu4p_1729415509010.jpg",
+        "location": "",
+        "point_id": "kpx6osu4p",
+        "point_name": "富士そば　荻窪北口店",
+        "remark": "9話　店内も大体再現されてます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620325,
+          35.705179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/75702/kpx6ostkt_1729417459739.jpg",
+        "location": "",
+        "point_id": "kpx6ostkt",
+        "point_name": "日高屋　荻窪北口店",
+        "remark": "9話　Noうどん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614741,
+          35.724427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/75702/kpx6ostuc_1729417717520.jpg",
+        "location": "",
+        "point_id": "kpx6ostuc",
+        "point_name": "井荻駅",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.556282,
+          35.32586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/75702/2lrp6kn_1752680260901.jpg",
+        "location": "",
+        "point_id": "2lrp6kn",
+        "point_name": "鶴岡八幡宮",
+        "remark": "#01（ep#03「萩月流出没注意」）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580223,
+          35.703317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/75702/f8d14437_1752680540397.jpg",
+        "location": "",
+        "point_id": "f8d14437",
+        "point_name": "JR吉祥寺駅 北口",
+        "remark": "#08（ep#25「ストリート・ポエム」）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618876,
+          35.70604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/75702/19943999_1752680622141.jpg",
+        "location": "",
+        "point_id": "19943999",
+        "point_name": "青梅街道（都道4号線）",
+        "remark": "#09（ep#29）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.619777,
+          35.705371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75702,
+        "bangumi_title": "归宅部活动记录",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/75702/4475c864_1752680630004.jpg",
+        "location": "",
+        "point_id": "4475c864",
+        "point_name": "SEIYU荻窪店＆荻窪タウンセブン",
+        "remark": "#09（ep#29「華麗なる合宿」）图右招牌"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

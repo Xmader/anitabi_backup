@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.575509,
+          36.316894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208825,
+        "bangumi_title": "少女与战车 最终章 第2话",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "alrzdtcnc",
+        "point_name": "大洗女校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.570639,
+          36.310488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208825,
+        "bangumi_title": "少女与战车 最终章 第2话",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208825/points/i2bfcybqq-1709104857068.jpg",
+        "location": "",
+        "point_id": "i2bfcybqq",
+        "point_name": "大洗​マリン​タワー",
+        "remark": "俯瞰大洗"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.567673,
+          36.308465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208825,
+        "bangumi_title": "少女与战车 最终章 第2话",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208825/points/i2boyc17v-1709105529659.jpg",
+        "location": "",
+        "point_id": "i2boyc17v",
+        "point_name": "サザーコーヒー 大洗店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.574328,
+          36.3155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208825,
+        "bangumi_title": "少女与战车 最终章 第2话",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208825/points/i2c4tjimo-1709106363824.jpg",
+        "location": "",
+        "point_id": "i2c4tjimo",
+        "point_name": "坂本文具店",
+        "remark": "河岛桃的家"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.574904,
+          36.315866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208825,
+        "bangumi_title": "少女与战车 最终章 第2话",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208825/points/i2cd5ie8n-1709106922475.jpg",
+        "location": "",
+        "point_id": "i2cd5ie8n",
+        "point_name": "祝町いささかりんりん通り",
+        "remark": "后方是御岳山神社鸟居"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

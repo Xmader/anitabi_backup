@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          44.537116,
+          48.742369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338953,
+        "bangumi_title": "原子之心",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1747/bangumi/338953/points/c8nacm-1747750531921.jpg",
+        "location": "",
+        "point_id": "c8nacm",
+        "point_name": "Родина-мать зовёт!",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

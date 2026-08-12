@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          25.84693,
+          66.54369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208826,
+        "bangumi_title": "少女与战车 最终章 第3话",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208826/points/kqoxqmswc-1716657726555.jpg",
+        "location": "",
+        "point_id": "kqoxqmswc",
+        "point_name": "Santa Claus Village",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.031115,
+          40.761944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208826,
+        "bangumi_title": "少女与战车 最终章 第3话",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208826/points/nq6c2dhhl-1725080046715.jpg",
+        "location": "",
+        "point_id": "nq6c2dhhl",
+        "point_name": "Chiesa Santa Maria delle Grazie",
+        "remark": "圣葛罗丽安娜vs安齐奥的意大利风格的小镇"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.417756,
+          36.400899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208826,
+        "bangumi_title": "少女与战车 最终章 第3话",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208826/points/nto6fhp26-1725354030919.jpg",
+        "location": "",
+        "point_id": "nto6fhp26",
+        "point_name": "小松空港",
+        "remark": " 桑德斯大学附属高中vs继续高中的比赛场地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

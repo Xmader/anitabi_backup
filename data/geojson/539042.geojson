@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.287988,
+          30.550075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 539042,
+        "bangumi_title": "泡芙爱情故事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/539042/tdi80f_1748786582410.jpg",
+        "location": "",
+        "point_id": "tdi80f",
+        "point_name": "武昌江滩",
+        "remark": "武汉长江大桥下"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.296141,
+          30.53853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 539042,
+        "bangumi_title": "泡芙爱情故事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/539042/tdlwk3_1748786766728.jpg",
+        "location": "",
+        "point_id": "tdlwk3",
+        "point_name": "复兴路人行天桥",
+        "remark": "位于武汉大学人民医院、复兴路地铁站附近（炒饭认证）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

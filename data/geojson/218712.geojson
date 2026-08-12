@@ -1,0 +1,1505 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.644641,
+          35.69767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tb8g_1672369741185.jpg",
+        "location": "高円寺編",
+        "point_id": "51i51tb8g",
+        "point_name": "リサイクルショップザック 高円寺店1",
+        "remark": "4カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644625,
+          35.697638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tazz_1672369742195.jpg",
+        "location": "高円寺編",
+        "point_id": "51i51tazz",
+        "point_name": "リサイクルショップザック 高円寺店2",
+        "remark": "1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644625,
+          35.697626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tbf6_1672369743414.jpg",
+        "location": "高円寺編",
+        "point_id": "51i51tbf6",
+        "point_name": "リサイクルショップザック 高円寺店3",
+        "remark": "1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644656,
+          35.697629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tb2z_1672369747579.jpg",
+        "location": "高円寺編",
+        "point_id": "51i51tb2z",
+        "point_name": "リサイクルショップザック 高円寺店4",
+        "remark": "1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64487,
+          35.697672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tbld_1672369748947.jpg",
+        "location": "高円寺編",
+        "point_id": "51i51tbld",
+        "point_name": "リサイクルショップザック 高円寺店5",
+        "remark": "1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644692,
+          35.697837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tb4c_1672369750286.jpg",
+        "location": "高円寺編",
+        "point_id": "51i51tb4c",
+        "point_name": "リサイクルショップザック 高円寺店6",
+        "remark": "1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.182712,
+          35.801521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tc0l_1672369751676.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tc0l",
+        "point_name": "JR青梅線 御嶽駅ホーム",
+        "remark": "第5話5カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.183057,
+          35.801424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tc2k_1672369752710.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tc2k",
+        "point_name": "御嶽駅周辺1",
+        "remark": "第5話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.183008,
+          35.80127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tc4n_1672369754009.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tc4n",
+        "point_name": "御嶽駅周辺2",
+        "remark": "横断歩道を挟んだカット第5話2カット第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.182838,
+          35.8014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51td01_1672369755048.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51td01",
+        "point_name": "御嶽駅周辺3",
+        "remark": "六花と目が合うカット第5話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.182884,
+          35.801342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51td28_1672369756587.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51td28",
+        "point_name": "御嶽駅周辺4",
+        "remark": "ジャンクが置いてあった場所第5話7カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.182996,
+          35.801364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tcfw_1672369757783.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tcfw",
+        "point_name": "御嶽駅周辺5",
+        "remark": "第5話10カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.183108,
+          35.80136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tciy_1672369759547.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tciy",
+        "point_name": "御嶽駅周辺6",
+        "remark": "第5話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.183747,
+          35.800865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tce2_1672369779541.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tce2",
+        "point_name": "御岳橋1",
+        "remark": "第5話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.185404,
+          35.800809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tcyt_1672369781026.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tcyt",
+        "point_name": "御岳橋2",
+        "remark": "第5話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.18485,
+          35.800598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51td2c_1672369782005.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51td2c",
+        "point_name": "御岳橋3",
+        "remark": "第5話1カット近くに河原に降りれる場所があったはず"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.184371,
+          35.80038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tduh_1672369784727.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tduh",
+        "point_name": "御岳橋4",
+        "remark": "第5話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.184347,
+          35.802303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tde6_1672369788348.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tde6",
+        "point_name": "御嶽の東方面",
+        "remark": "第5話1カットもしかした少し場所ズレてるかも"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.180953,
+          35.80118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tdl4_1672369791230.jpg",
+        "location": "御嶽編",
+        "point_id": "51i51tdl4",
+        "point_name": "コンセプト/多摩川ラフティング・東京カヤック・奥多摩SUP",
+        "remark": "第5話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626605,
+          35.70222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tfc8_1672369792234.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tfc8",
+        "point_name": "読書の森公園1",
+        "remark": "第3話1カット第12話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626582,
+          35.702295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tf0u_1672369795245.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tf0u",
+        "point_name": "読書の森公園2",
+        "remark": "六花とアンチが出会った場所第3話8カット最終話のラストシーン第12話6カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626689,
+          35.702451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tepo_1672369797481.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tepo",
+        "point_name": "読書の森公園3",
+        "remark": "第3話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621318,
+          35.704416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tfby_1672369800265.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tfby",
+        "point_name": "JR荻窪駅ホーム上",
+        "remark": "第12話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621532,
+          35.70513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51teu6_1672369802282.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51teu6",
+        "point_name": "荻窪北口駅前通商店街 北側入り口",
+        "remark": "グリッドマンが吹っ飛んできた場所第7話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.62215,
+          35.705078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tfpt_1672369804231.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tfpt",
+        "point_name": "荻窪銀座街",
+        "remark": "怪獣バジャックの腹部が見えた場所第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621978,
+          35.70461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tg6l_1672369807230.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tg6l",
+        "point_name": "JR荻窪駅北口近辺1",
+        "remark": "第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621107,
+          35.704793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tg4h_1672369810291.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tg4h",
+        "point_name": "JR荻窪駅北口近辺2",
+        "remark": "第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621675,
+          35.704685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tfyu_1672369813261.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tfyu",
+        "point_name": "JR荻窪駅北口近辺3",
+        "remark": "第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620812,
+          35.704796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tftr_1672369815232.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tftr",
+        "point_name": "JR荻窪駅北口近辺4",
+        "remark": "第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620407,
+          35.704856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tfxa_1672369816905.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tfxa",
+        "point_name": "JR荻窪駅北口近辺5",
+        "remark": "第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622294,
+          35.704336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tgz7_1672369818088.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tgz7",
+        "point_name": "JR荻窪駅南口近辺",
+        "remark": "第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.615478,
+          35.706409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tgmn_1672369819287.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tgmn",
+        "point_name": "上荻歩道橋",
+        "remark": "第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.616664,
+          35.707205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tga2_1672369820902.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tga2",
+        "point_name": "杉並公会堂付近1",
+        "remark": "第6話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.616402,
+          35.707032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tgj9_1672369821866.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tgj9",
+        "point_name": "杉並公会堂付近2",
+        "remark": "マックス＆キャリバーVSアンチの場所第6話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.616535,
+          35.706983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tgxd_1672369823275.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tgxd",
+        "point_name": "杉並公会堂付近3",
+        "remark": "マックス＆キャリバーVSアンチの場所第6話8カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60047,
+          35.704072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tgof_1672369824243.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tgof",
+        "point_name": "JR西荻窪駅前1",
+        "remark": "怪獣のカット第4話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.600318,
+          35.704142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tgko_1672369826235.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tgko",
+        "point_name": "JR西荻窪駅前2",
+        "remark": "六花とアカネが合コンで行った場所第4話3カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606005,
+          35.708671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thbj_1672369828231.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thbj",
+        "point_name": "善福寺川 SANパーク 杉並西荻1付近",
+        "remark": "バスが吹っ飛んできた場所第8話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.608116,
+          35.712265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thgv_1672369837234.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thgv",
+        "point_name": "桃井原っぱ公園",
+        "remark": "グリッドマンと怪獣ゴングリーが落ちてきた場所第4話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60782,
+          35.715398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51th26_1672369839235.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51th26",
+        "point_name": "荻窪病院1",
+        "remark": "六花が裕太を連れて行った病院第1話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60773,
+          35.715343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thrq_1672369841235.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thrq",
+        "point_name": "荻窪病院2",
+        "remark": "六花が裕太を連れて行った病院第1話3カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638013,
+          35.722435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thg3_1672369843234.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thg3",
+        "point_name": "西武新宿線鷺ノ宮駅付近",
+        "remark": "パワードゼノンと怪獣バジャックが見えた場所第9話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614334,
+          35.72449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thpc_1672369844235.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thpc",
+        "point_name": "西武新宿線井荻駅南口付近1",
+        "remark": "六花がユーチューバーを呼び出した場所第4話4カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614331,
+          35.72441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thtz_1672369848533.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thtz",
+        "point_name": "西武新宿線井荻駅南口付近2",
+        "remark": "第4話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60344,
+          35.725196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tici_1672369851236.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tici",
+        "point_name": "西武新宿線上井草駅1",
+        "remark": "車が吹っ飛んできた場所第1話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.603174,
+          35.725216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thu9_1672369853231.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thu9",
+        "point_name": "西武新宿線上井草駅2",
+        "remark": "駅名標第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.603588,
+          35.724959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tiio_1672369855232.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tiio",
+        "point_name": "西武新宿線上井草駅3",
+        "remark": "ツツジ台駅第5話1カット第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.603639,
+          35.725029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51ti1i_1672369857230.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51ti1i",
+        "point_name": "西武新宿線上井草駅4",
+        "remark": "第5話2カット第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.603862,
+          35.725387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51thx0_1672369860230.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51thx0",
+        "point_name": "西武新宿線上井草駅5",
+        "remark": "ツツジ台駅第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599507,
+          35.727584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tio2_1672369863553.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tio2",
+        "point_name": "東京都立井草高等学校1",
+        "remark": "裕太や六花たちが通う高校第1話1カット第8話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599507,
+          35.727654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tj7a_1672369865231.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tj7a",
+        "point_name": "東京都立井草高等学校2",
+        "remark": "第1話1カット第2話1カット第8話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599421,
+          35.72789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tioy_1672369868266.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tioy",
+        "point_name": "東京都立井草高等学校3",
+        "remark": "第8話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604893,
+          35.740306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tiz4_1672369870231.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tiz4",
+        "point_name": "石神井公園1",
+        "remark": "ゴミ箱を漁るアンチ第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604702,
+          35.740296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tiz2_1672369872231.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tiz2",
+        "point_name": "石神井公園2",
+        "remark": "第6話9カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60453,
+          35.740299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tj60_1672369874229.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tj60",
+        "point_name": "石神井公園3",
+        "remark": "第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604524,
+          35.739702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tiw9_1672369877229.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tiw9",
+        "point_name": "石神井公園4",
+        "remark": "池の対岸から第6話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665705,
+          35.70875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tje6_1672369879233.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tje6",
+        "point_name": "中野ブロードウェイ1",
+        "remark": "SEVENDARAKE第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665714,
+          35.70874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tk2u_1672369881232.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tk2u",
+        "point_name": "中野ブロードウェイ2",
+        "remark": "中野ブロードウェイ内の階段第9話5カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561261,
+          35.707189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tjhn_1672369883232.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tjhn",
+        "point_name": "シズラー 三鷹店1",
+        "remark": "どんぐりの木のモデル第3話、第10話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561343,
+          35.707214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tje1_1672369885229.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tje1",
+        "point_name": "シズラー 三鷹店2",
+        "remark": "どんぐりの木のモデル第3話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620133,
+          35.706663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tjpz_1672369887233.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tjpz",
+        "point_name": "やしろ食堂1",
+        "remark": "中華料理 龍亭のモデル第2話、第7話、第9話3カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.62016,
+          35.706665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tkkz_1672369890229.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tkkz",
+        "point_name": "やしろ食堂2",
+        "remark": "怪獣ヂリバーが見えた場所第7話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624492,
+          35.704707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tklc_1672369892470.jpg",
+        "location": "杉並区・中野区編",
+        "point_id": "51i51tklc",
+        "point_name": "青梅街道(中央線との交差付近の階段)",
+        "remark": "第2話6カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.813221,
+          35.745037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tl6u_1672369894249.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tl6u",
+        "point_name": "東武スカイツリーライン牛田駅付近1",
+        "remark": "第1話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.813208,
+          35.744776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tlhz_1672369895230.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tlhz",
+        "point_name": "東武スカイツリーライン牛田駅付近2",
+        "remark": "第1話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.81775,
+          35.7428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tl04_1672369897394.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tl04",
+        "point_name": "東武スカイツリーライン堀切駅付近1",
+        "remark": "キャリバーが飛び降りてショートカットした場所第2話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.817838,
+          35.742814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tl2a_1672369899422.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tl2a",
+        "point_name": "東武スカイツリーライン堀切駅付近2",
+        "remark": "怪獣のカット第2話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.817936,
+          35.74283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tlvl_1672369903233.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tlvl",
+        "point_name": "東武スカイツリーライン堀切駅付近3",
+        "remark": "怪獣を望むカット第2話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.811559,
+          35.748658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tm6r_1672369906330.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tm6r",
+        "point_name": "池田屋酒店横1",
+        "remark": "ラムネを飲んでいた場所第2話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.811494,
+          35.748634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tlwg_1672369909276.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tlwg",
+        "point_name": "池田屋酒店横2",
+        "remark": "第2話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.811504,
+          35.74868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tm0z_1672369911231.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tm0z",
+        "point_name": "池田屋酒店横3",
+        "remark": "第2話3カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.816071,
+          35.745719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tlwv_1672369912229.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tlwv",
+        "point_name": "柳原１丁目1",
+        "remark": "キャリバーが六花を連れ去った場所第3話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.816389,
+          35.745813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tlr4_1672369915233.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tlr4",
+        "point_name": "柳原１丁目2",
+        "remark": "キャリバーが六花を連れ去って飛び去るのが見える場所第3話1カットグリッドマンVS怪獣が見える場所第10話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.752577,
+          35.691344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/218712/51i51tmyn_1672369917231.jpg",
+        "location": "足立区・千代田区編",
+        "point_id": "51i51tmyn",
+        "point_name": "サイエンスホール",
+        "remark": "アカネと内海がデートしていた場所第9話1カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.815045,
+          35.743616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218712,
+        "bangumi_title": "SSSS.古立特",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/218712/aiaw5vd_1769884950698.jpg",
+        "location": "",
+        "point_id": "aiaw5vd",
+        "point_name": "新条茜家",
+        "remark": "私人住宅，文明巡礼"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

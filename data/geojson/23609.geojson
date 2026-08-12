@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -89.072163,
+          42.837116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23609,
+        "bangumi_title": "小浣熊",
+        "ep_cut": "14",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/23609/points/hih3r98-1785132777740.webp",
+        "location": "",
+        "point_id": "hih3r98",
+        "point_name": "Edgerton United Methodist Church",
+        "remark": "自诺斯（North）孩提时代以来，这座教堂显然经历过多次扩建与翻新；然而，仅凭屋顶轮廓，依然能轻易辨认出其最初的建筑格局。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.072884,
+          42.837249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23609,
+        "bangumi_title": "小浣熊",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/23609/points/hihj0y5-1785133683883.webp",
+        "location": "",
+        "point_id": "hihj0y5",
+        "point_name": "Sterling North Childhood Home",
+        "remark": "这是作家斯特林·诺斯（Sterling North）位于威斯康星州埃杰顿（Edgerton）的真实故居（他童年时期的家）。\n如需预约参观，请联系斯特林·诺斯协会（Sterling North Society）。\nhttps://sterlingnorthsociety.com/visit-the-museum/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.08951,
+          42.803451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23609,
+        "bangumi_title": "小浣熊",
+        "ep_cut": "13",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/23609/points/hihvtnx-1785134178904.webp",
+        "location": "",
+        "point_id": "hihvtnx",
+        "point_name": "Indianford Dam",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.080789,
+          42.824949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23609,
+        "bangumi_title": "小浣熊",
+        "ep_cut": "14",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/23609/points/hii01sq-1785134396154.webp",
+        "location": "",
+        "point_id": "hii01sq",
+        "point_name": "Fassett Cemetery",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

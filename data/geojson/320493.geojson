@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.112236,
+          36.095093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/nkofq2pqq-1724649319279.jpg",
+        "location": "",
+        "point_id": "nkofq2pqq",
+        "point_name": "長瀞駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.092097,
+          36.094435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/p9mtor4a3-1729425981731.jpg",
+        "location": "",
+        "point_id": "p9mtor4a3",
+        "point_name": "宝登山小動物園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083835,
+          35.989963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/p9mmql5j2-1729425601172.jpg",
+        "location": "",
+        "point_id": "p9mmql5j2",
+        "point_name": "西武秩父駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08362,
+          35.992343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/p9mow4mqa-1729425696243.jpg",
+        "location": "",
+        "point_id": "p9mow4mqa",
+        "point_name": "御花畑駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.115065,
+          36.09493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/p9mqfsaso-1729425784269.jpg",
+        "location": "",
+        "point_id": "p9mqfsaso",
+        "point_name": "長瀞",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.115503,
+          36.095172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/p9msfuz8e-1729425898748.jpg",
+        "location": "",
+        "point_id": "p9msfuz8e",
+        "point_name": "長瀞",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.114454,
+          36.083397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320493,
+        "bangumi_title": "天使降临到了我身边！Precious Friends",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320493/points/5x7rqdp-1759904782814.jpg",
+        "location": "",
+        "point_id": "5x7rqdp",
+        "point_name": "秩父鉄道荒川橋梁",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,445 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.000508,
+          34.282216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrht1r.jpg",
+        "location": "友ヶ島",
+        "point_id": "5plrht1r",
+        "point_name": "第２砲台跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.003306,
+          34.28395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrht7x.jpg",
+        "location": "友ヶ島",
+        "point_id": "5plrht7x",
+        "point_name": "砲台跡へ続く道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.014708,
+          34.284275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrht8v.jpg",
+        "location": "友ヶ島",
+        "point_id": "5plrht8v",
+        "point_name": "第４砲台跡",
+        "remark": "第６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.07271,
+          34.27433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhu2q.jpg",
+        "location": "加太",
+        "point_id": "5plrhu2q",
+        "point_name": "レンガ倉庫付近①",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.072916,
+          34.274266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhtvx.jpg",
+        "location": "加太",
+        "point_id": "5plrhtvx",
+        "point_name": "レンガ倉庫付近②",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.076205,
+          34.273697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhu26.jpg",
+        "location": "加太",
+        "point_id": "5plrhu26",
+        "point_name": "加太小学校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.073289,
+          34.275726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhuin.jpg",
+        "location": "加太",
+        "point_id": "5plrhuin",
+        "point_name": "民宿なかむら",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.148292,
+          34.186751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhuka.jpg",
+        "location": "田野",
+        "point_id": "5plrhuka",
+        "point_name": "奥和歌大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.147667,
+          34.189073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhubh.jpg",
+        "location": "田野",
+        "point_id": "5plrhubh",
+        "point_name": "雑賀崎漁港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.151353,
+          34.18373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhuhh.jpg",
+        "location": "田野",
+        "point_id": "5plrhuhh",
+        "point_name": "田ノ浦漁港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.153503,
+          34.186164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhu4w.jpg",
+        "location": "田野",
+        "point_id": "5plrhu4w",
+        "point_name": "田野の集落　俯瞰",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.05393,
+          34.422068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhv7c.jpg",
+        "location": "男木島",
+        "point_id": "5plrhv7c",
+        "point_name": "男木港①",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.167572,
+          34.236026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/326895/5plrhvat.jpg",
+        "location": "その他",
+        "point_id": "5plrhvat",
+        "point_name": "和歌山市駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.070425,
+          34.274373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/svrfqp568-1739623379504.jpg",
+        "location": "",
+        "point_id": "svrfqp568",
+        "point_name": "Y字路",
+        "remark": "在路口向南看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.166133,
+          34.236491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/svrs3mipi-1739624115863.jpg",
+        "location": "",
+        "point_id": "svrs3mipi",
+        "point_name": "和歌山市駅5のりば",
+        "remark": "理论上是从六站台向五站台拍的，但是指示牌是五站台的样式，制作的时候把两个样式拼在一起。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.166723,
+          34.236659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/svs35635c-1739624796422.jpg",
+        "location": "",
+        "point_id": "svs35635c",
+        "point_name": "和歌山市駅三のりば",
+        "remark": "去往加太（村子取景地）的尽头式站台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.070751,
+          34.274405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/svs8ogoci-1739625233850.jpg",
+        "location": "",
+        "point_id": "svs8ogoci",
+        "point_name": "小嶋一商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.074507,
+          34.27542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/tmcmebsqd-1741706924335.jpg",
+        "location": "",
+        "point_id": "tmcmebsqd",
+        "point_name": "キシモト商店付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.079592,
+          34.274839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/3qxt7gf-1755169658605.jpg",
+        "location": "",
+        "point_id": "3qxt7gf",
+        "point_name": "觀光案內所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.066812,
+          34.27451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/4zexg8m-1757860038341.jpg",
+        "location": "",
+        "point_id": "4zexg8m",
+        "point_name": "淡嶋神社旁沙滩",
+        "remark": "影子潮回忆中的海滩"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.066513,
+          34.273668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/60fz7m6-1760098085794.jpg",
+        "location": "",
+        "point_id": "60fz7m6",
+        "point_name": "淡嶋神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.066545,
+          34.274442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326895,
+        "bangumi_title": "夏日重现",
+        "ep_cut": "ep9",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326895/points/dws1yql-1777290599997.jpg",
+        "location": "",
+        "point_id": "dws1yql",
+        "point_name": "淡嶋神社旁沙滩",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

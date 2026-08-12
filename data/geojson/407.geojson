@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.395624,
+          35.633394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407,
+        "bangumi_title": "平成狸合战",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i53033x",
+        "point_name": "菩提餅山万福寺（ぼたもちさんまんぷくじ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.447365,
+          35.650888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407,
+        "bangumi_title": "平成狸合战",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5303n4",
+        "point_name": "聖蹟桜ヶ丘駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.392464,
+          35.611732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407,
+        "bangumi_title": "平成狸合战",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i53034t",
+        "point_name": "長池見附橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.36994,
+          35.611523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407,
+        "bangumi_title": "平成狸合战",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5303nx",
+        "point_name": "ベルコリーヌ南大沢",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.433721,
+          35.590033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407,
+        "bangumi_title": "平成狸合战",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i53033d",
+        "point_name": "動物注意の標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411241,
+          35.62585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407,
+        "bangumi_title": "平成狸合战",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5303mb",
+        "point_name": "府中カントリークラブ?",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.391072,
+          39.913803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159661,
+        "bangumi_title": "黑色残骸",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159661/points/ie8uwld2l-1710039670063.jpg",
+        "location": "",
+        "point_id": "ie8uwld2l",
+        "point_name": "故宫（太和门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.74541,
+          35.658455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525537,
+        "bangumi_title": "御手洗洁的问候",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "eq7npb8",
+        "point_name": "東京タワー",
+        "remark": "《数字锁》中，御手洗洁与石冈和己带宫田诚去东京塔观光。时间是1979年12月24日晚(平安夜)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

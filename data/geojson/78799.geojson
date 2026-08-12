@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.294491,
+          48.858279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 78799,
+        "bangumi_title": "精灵宝可梦XY",
+        "ep_cut": "第一集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/78799/points/nc5xjhmg6-1723982262994.jpg",
+        "location": "",
+        "point_id": "nc5xjhmg6",
+        "point_name": "La Tour Eiffel",
+        "remark": "密阿雷道馆（日文︰ミアレジム，英文︰Lumiose Gym），又称为棱镜塔（日文︰プリズムタワー，英文︰Prism Tower），是密阿雷市的官方道馆和市中心的标志性建筑物，擅长电属性宝可梦，道馆馆主为希特隆。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

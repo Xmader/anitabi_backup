@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.721101,
+          44.366937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2790/kpx6omjao_1753953888350.jpg",
+        "location": "",
+        "point_id": "kpx6omjao",
+        "point_name": "朝日大橋",
+        "remark": "2nd第4話　S字の橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.711187,
+          44.375404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omj9s",
+        "point_name": "羽幌大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.705008,
+          44.368042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2790/kpx6omj25_1753953849141.jpg",
+        "location": "",
+        "point_id": "kpx6omj25",
+        "point_name": "羽幌橋",
+        "remark": "第17話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.693377,
+          44.366569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omiq4",
+        "point_name": "サンセットビーチ",
+        "remark": "学校祭の打ち上げ後"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.697197,
+          44.362596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2790/kpx6omjxf_1728287351389_cblack.jpg",
+        "location": "",
+        "point_id": "kpx6omjxf",
+        "point_name": "羽幌神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.695244,
+          44.357534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2790/kpx6omjrb_1725001655913_cut.jpg",
+        "location": "",
+        "point_id": "kpx6omjrb",
+        "point_name": "羽幌高校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.706166,
+          44.361952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omjhh",
+        "point_name": "勤労青少年ホーム",
+        "remark": "仮装行列の審査ステージ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351189,
+          43.057042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2790/36uh4d9_1753954714461.jpg",
+        "location": "",
+        "point_id": "36uh4d9",
+        "point_name": "狸小路商店街",
+        "remark": "第18話　北幌サンセット商店街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.3531,
+          43.06262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2790,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2790/36ur6jn_1753955182255.jpg",
+        "location": "",
+        "point_id": "36ur6jn",
+        "point_name": "札幌市時計台前",
+        "remark": "2nd第5話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

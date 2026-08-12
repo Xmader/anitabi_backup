@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.719483,
+          26.217044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186220,
+        "bangumi_title": "快盗天使BREAK",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i522f78",
+        "point_name": "首里城公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.878013,
+          26.694338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186220,
+        "bangumi_title": "快盗天使BREAK",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i522f1p",
+        "point_name": "沖縄美ら海水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

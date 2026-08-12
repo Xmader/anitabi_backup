@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.765233,
+          35.671164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 375817,
+        "bangumi_title": "契约之吻",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/375817/points/tky8e7qmt-1741597283333.jpg",
+        "location": "",
+        "point_id": "tky8e7qmt",
+        "point_name": "晴海通り",
+        "remark": "动漫ed，基本都在这里，公园可能是东京塔下面的公园，也可能是附近的公园"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

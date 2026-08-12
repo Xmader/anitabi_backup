@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -106.482638,
+          35.135256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5337,
+        "bangumi_title": "绝命毒师",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/5337/points/ocyi8nq0t-1726865578959.jpg",
+        "location": "",
+        "point_id": "ocyi8nq0t",
+        "point_name": "4901 Cumbre Del Sur Ct NE",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

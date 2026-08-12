@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.950279,
+          42.352906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2974,
+        "bangumi_title": "名侦探柯南 银翼的魔术师",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2974/points/jp04vw6xk-1717156475214.jpg",
+        "location": "",
+        "point_id": "jp04vw6xk",
+        "point_name": "白鳥大橋",
+        "remark": "目暮警官一行人结束工作后来到附近的观景台观赏的大桥，随后迫降时飞机也以超低空掠过大桥桥顶。（大桥免费通行，在桥的南边有观景台）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.930496,
+          42.36607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2974,
+        "bangumi_title": "名侦探柯南 银翼的魔术师",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2974/points/jp00dwc2u-1717157191478.jpg",
+        "location": "",
+        "point_id": "jp00dwc2u",
+        "point_name": "崎守埠頭",
+        "remark": "飞机最终迫降在室兰港崎守码头。（现实中这里也停放着一些退役的火车机车，铁路迷可以考虑巡礼时顺便参观一下老机车）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.82165,
+          41.77041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2974,
+        "bangumi_title": "名侦探柯南 银翼的魔术师",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2974/points/jp08q13t5-1717156178533.jpg",
+        "location": "",
+        "point_id": "jp08q13t5",
+        "point_name": "函館​空港",
+        "remark": "IATA代码：HKD；ICAO代码：RJCH。飞机沿12号跑道降落（磁航向117°，ILS频率109.3 117° 识别码IHL），但是在遭遇雷击和大风后降落失败并复飞，机场也因为火灾被迫关闭。（现实中的函馆机场没有前往中国大陆的航班，可以从东京或者台北转机前往）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783338,
+          35.548668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2974,
+        "bangumi_title": "名侦探柯南 银翼的魔术师",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2974/points/kx1hn4314-1717154712271.jpg",
+        "location": "",
+        "point_id": "kx1hn4314",
+        "point_name": "東京​羽田​国際​空港",
+        "remark": "柯南一行人出发的地方。IATA代码：HND；ICAO代码：RJTT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.804788,
+          35.54017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2974,
+        "bangumi_title": "名侦探柯南 银翼的魔术师",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2974/points/kx1l2jbvy-1717154985410.jpg",
+        "location": "",
+        "point_id": "kx1l2jbvy",
+        "point_name": "東京国際空港34R",
+        "remark": "飞机从16L起飞，离地后在34R标识处附近收轮。（16L/34R跑道，也就是C跑道，全长3360米，宽60米）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.817388,
+          41.775066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2974,
+        "bangumi_title": "名侦探柯南 银翼的魔术师",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2974/points/kx1xq79fg-1717155674836.jpg",
+        "location": "",
+        "point_id": "kx1xq79fg",
+        "point_name": "国土​交通省​東京​航空​局​函館​空港​事務所",
+        "remark": "因气流原因导致飞机撞上的塔台并且失去一台发动机。（塔台频率118.35 126.2，离场频率127.9 121.0，D-ATIS 126.6）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

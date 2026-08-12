@@ -1,0 +1,805 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.837959,
+          34.98399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/301369/points/on49uwjt3-1727661578428.jpg",
+        "location": "",
+        "point_id": "on49uwjt3",
+        "point_name": "館山航空基地 隊員食堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.833501,
+          34.984627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/301369/points/on3xgziye-1727660877209.jpg",
+        "location": "",
+        "point_id": "on3xgziye",
+        "point_name": "館山航空基地 管制塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.824216,
+          34.981857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301369/df3c954b_1723172913071.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "df3c954b",
+        "point_name": "大賀海岸付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.852758,
+          34.991406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/301369/a90c7e0f_1723171558350.jpg",
+        "location": "アイキャッチ",
+        "point_id": "a90c7e0f",
+        "point_name": "館山夕日桟橋（モニュメント）",
+        "remark": "渚の駅　たてやま"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.861896,
+          34.995957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/301369/198ab3e4_1723171447676.jpg",
+        "location": "アイキャッチ",
+        "point_id": "198ab3e4",
+        "point_name": "JR館山駅（西口）",
+        "remark": "館山駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794428,
+          35.517531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/301369/points/on4mg9v0y-1727662319155.jpg",
+        "location": "",
+        "point_id": "on4mg9v0y",
+        "point_name": "浮島換気所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.834575,
+          35.490838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/301369/points/on4nxh1jd-1727662408340.jpg",
+        "location": "",
+        "point_id": "on4nxh1jd",
+        "point_name": "風の塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.873509,
+          35.464998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/301369/points/on4s6kabr-1727662666114.jpg",
+        "location": "",
+        "point_id": "on4s6kabr",
+        "point_name": "海ほたる西展望デッキ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.855799,
+          34.981456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/301369/4203ca06_1723171619778.jpg",
+        "location": "アイキャッチ",
+        "point_id": "4203ca06",
+        "point_name": "館山城（城山公園）八犬伝博物館",
+        "remark": "館山城"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.873007,
+          35.464814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/301369/32955b08_1723171646661.jpg",
+        "location": "アイキャッチ",
+        "point_id": "32955b08",
+        "point_name": "建設記念碑・カッターフェイス",
+        "remark": "海ほたる"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.837397,
+          35.037908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/301369/201026bc_1723172525867.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "201026bc",
+        "point_name": "道の駅 とみうら 枇杷倶楽部",
+        "remark": "海ほたるの調査任務が完了して枇杷ソフトを食べいたワルキューレたち"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.837296,
+          35.037424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/301369/n1u2rjfi9_1723172611885.jpg",
+        "location": "",
+        "point_id": "n1u2rjfi9",
+        "point_name": "道の駅 とみうら 枇杷倶楽部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.85842,
+          35.031583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/301369/b4d46458_1723172696814.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "b4d46458",
+        "point_name": "アズズ不時着地点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.826881,
+          34.989973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/301369/ab690f69_1723171711182.jpg",
+        "location": "アイキャッチ",
+        "point_id": "ab690f69",
+        "point_name": "沖ノ島海水浴場",
+        "remark": "沖ノ島海水浴場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.841125,
+          35.030918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/cafe6871_1723171735840.jpg",
+        "location": "アイキャッチ",
+        "point_id": "cafe6871",
+        "point_name": "大福寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.825807,
+          34.935591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/111a3d1b_1723171759992.jpg",
+        "location": "アイキャッチ",
+        "point_id": "111a3d1b",
+        "point_name": "たてやま温泉 千里の風",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.822295,
+          35.037404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/n1uda2utu_1723173237383.jpg",
+        "location": "",
+        "point_id": "n1uda2utu",
+        "point_name": "おさかな倶楽部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.822293,
+          35.037409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/9923bd70_1723173211798.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "9923bd70",
+        "point_name": "おさかな倶楽部",
+        "remark": "宮古たちワルキューレが決戦に備えて英気を養う為、新鮮な房総半島の海鮮を食している場面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.822273,
+          35.037469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/n1udzpfdr_1723173278194.jpg",
+        "location": "",
+        "point_id": "n1udzpfdr",
+        "point_name": "おさかな倶楽部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.822203,
+          35.037464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/n1udld3bx_1723173260984.jpg",
+        "location": "",
+        "point_id": "n1udld3bx",
+        "point_name": "おさかな倶楽部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.822235,
+          35.03748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/n1uejf7x2_1723173316919.jpg",
+        "location": "",
+        "point_id": "n1uejf7x2",
+        "point_name": "おさかな倶楽部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.820262,
+          35.038659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/301369/01f80bfe_1723173465629.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "01f80bfe",
+        "point_name": "園香ちゃんが基地に戻るシーン",
+        "remark": "山々の形は富浦の港からの背景で間違えなさそうだ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757563,
+          34.975312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/301369/b7b34d8b_1723171779314.jpg",
+        "location": "アイキャッチ",
+        "point_id": "b7b34d8b",
+        "point_name": "洲埼灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.883425,
+          34.990663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/301369/c526124e_1723171794327.jpg",
+        "location": "アイキャッチ",
+        "point_id": "c526124e",
+        "point_name": "館山いちご狩りセンター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.840766,
+          35.160298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301369/dadd7a5c_1723173521609.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "dadd7a5c",
+        "point_name": "鋸山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.814841,
+          35.040311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301369/5ad320ab_1723171830141.jpg",
+        "location": "アイキャッチ",
+        "point_id": "5ad320ab",
+        "point_name": "砲台跡地(大房岬)",
+        "remark": "大房岬自然公園砲台跡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.864066,
+          35.005546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301369/74da115b_1723171875923.jpg",
+        "location": "アイキャッチ",
+        "point_id": "74da115b",
+        "point_name": "ひふみ養蜂園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.841661,
+          34.981724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/301369/278861fb_1723171904067.jpg",
+        "location": "アイキャッチ",
+        "point_id": "278861fb",
+        "point_name": "赤山地下壕跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.856958,
+          34.983011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/301369/39216bbb_1723171921648.jpg",
+        "location": "アイキャッチ",
+        "point_id": "39216bbb",
+        "point_name": "おいしいお茶とだんごの店 里見茶屋",
+        "remark": "里見茶屋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791234,
+          34.953303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/301369/fa10c7f3_1723171964049.jpg",
+        "location": "アイキャッチ",
+        "point_id": "fa10c7f3",
+        "point_name": "房総フラワーライン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.850698,
+          35.003348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/301369/39318a9f_1723171998155.jpg",
+        "location": "アイキャッチ",
+        "point_id": "39318a9f",
+        "point_name": "館山湾花火大会",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.888367,
+          34.90206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/301369/8db5e8ea_1723172390740.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "8db5e8ea",
+        "point_name": "野島崎灯台※OP",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.81542,
+          35.040134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "アニメの聖地📌",
+        "point_id": "2c47ff0a",
+        "point_name": "大房岬公園?",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.8195,
+          35.156062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "アニメの聖地📌",
+        "point_id": "b57a0f1f",
+        "point_name": "内房なぎさライン?",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.888091,
+          34.900207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/301369/f45a6611_1723173811394.jpg",
+        "location": "アニメの聖地📌",
+        "point_id": "f45a6611",
+        "point_name": "野島崎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.841487,
+          34.985757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "☆その他",
+        "point_id": "f9974a0f",
+        "point_name": "館山航空基地正門",
+        "remark": "館山航空自衛隊基地、正門の前を走り去る日東交通バス。正門には、サイン入りのポスターが飾られています。※正門の撮影をする場合には、守衛の方に一言云いましょう。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.854443,
+          34.989713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "☆その他",
+        "point_id": "334c4213",
+        "point_name": "渚の駅たてやま・渚の博物館（休憩所）",
+        "remark": "※休憩所にはポスターの展示やpvも流れています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.862147,
+          34.996214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "☆その他",
+        "point_id": "fa941cb2",
+        "point_name": "ジェイアールバス関東 館山支店",
+        "remark": "営業所内に当日のコラボバスの運行表「ワルキューレたちのお仕事表」やシグルリ愛に溢れる物が展示されています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.862555,
+          34.996497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "☆その他",
+        "point_id": "f56f6305",
+        "point_name": "日東バス待合所市内線乗り場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.841661,
+          34.981724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301369,
+        "bangumi_title": "战翼的希格德莉法",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "☆その他",
+        "point_id": "b87b1b51",
+        "point_name": "赤山地下壕跡",
+        "remark": "園香ちゃんの缶バッジの背景になった地下壕"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

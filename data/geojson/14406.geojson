@@ -1,0 +1,725 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.681144,
+          42.78772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo73a",
+        "point_name": "新千歳空港",
+        "remark": "原作p114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351385,
+          43.068739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo7wp",
+        "point_name": "JR札幌駅",
+        "remark": "原作pp116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353514,
+          43.062575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo7qb",
+        "point_name": "札幌市時計台(内部1F2F)",
+        "remark": "原作p120,内部一周、階段、2F原寸大資料"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.354721,
+          43.062595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo8or",
+        "point_name": "時計台までの道のり（右折した交差点）",
+        "remark": "原作p120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353348,
+          43.062536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo8o3",
+        "point_name": "旭川に向かう美咲の車が走る道路",
+        "remark": "原作p134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353031,
+          43.060694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo91c",
+        "point_name": "大通公園噴水",
+        "remark": "原作p135、噴水、とうもろこし"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.355006,
+          43.061089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo9dh",
+        "point_name": "テレビ塔前交差点",
+        "remark": "原作p137、16時少し前、テレビ等に向かう途中、美術館に向かう美術科女子グループとすれ違う。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.356248,
+          43.061046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo9dq",
+        "point_name": "テレビ塔売店",
+        "remark": "原作p140、ソフトクリームを食べる（２回）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.356414,
+          43.061105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo9ij",
+        "point_name": "さっぽろテレビ塔",
+        "remark": "原作p141～148、札駅、大通、すすきのノルベサ方面展望、"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350089,
+          43.061171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo9s5",
+        "point_name": "大通美術館",
+        "remark": "原作p137、美術科女子グループの目的場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.348122,
+          43.063912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooag5",
+        "point_name": "赤レンガ北海道庁旧本庁舎",
+        "remark": "原作p148、館内見学"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.347522,
+          43.064508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooa01",
+        "point_name": "赤レンガ北海道庁旧本庁舎",
+        "remark": "原作p148、館内見学"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.342232,
+          43.072424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooaak",
+        "point_name": "北大総合博物館",
+        "remark": "原作p148、館内見学"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351897,
+          43.058912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oob81",
+        "point_name": "札幌市電",
+        "remark": "原作p148、ホテルに向かう途中利用した。ホテルは市電沿線付近かつ地下鉄東西線が最寄りではないところ。北大博物館→北１２条→大通→西４丁目→ホテル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.38584,
+          43.073027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oobcm",
+        "point_name": "雪印メグミルク札幌工場",
+        "remark": "原作p225、２日目午前中工場見学、前日までの予約要"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.993927,
+          43.197778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oobf9",
+        "point_name": "JR小樽駅",
+        "remark": "原作p228、ホテルはここから300m離れたところ。部屋は5F、部屋から海が見える。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001073,
+          43.19974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oob7d",
+        "point_name": "小樽運河前の交差点",
+        "remark": "原作p238、赤信号で止まる"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001501,
+          43.199833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oobo3",
+        "point_name": "運河の階段を下りる",
+        "remark": "原作p239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001995,
+          43.199095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooc0z",
+        "point_name": "ましろデッサン",
+        "remark": "原作p240、柵に張り付く感じで。近くのベンチに空太が座る。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.000008,
+          43.196295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooc3p",
+        "point_name": "ウォール街",
+        "remark": "原作p246、運河北"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.00001,
+          43.198996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oocy2",
+        "point_name": "小樽硝子本舗和蔵",
+        "remark": "原作p251、サンドブラスト製作体験"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.002221,
+          43.197216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oocqa",
+        "point_name": "北のウォール街",
+        "remark": "原作p246,"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001265,
+          43.197578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oocnv",
+        "point_name": "北のウォール街",
+        "remark": "原作p246、ここから硝子製作体験へ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.007394,
+          43.191743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oodq4",
+        "point_name": "北菓楼小樽本館（堺町本通り）",
+        "remark": "原作p256,バームクーヘン購入"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.007534,
+          43.190839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oodjl",
+        "point_name": "堺町本通りをこの交差点まで歩く",
+        "remark": "原作p256、空太がこけた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.003003,
+          43.19653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooegk",
+        "point_name": "小樽キャンドル工房",
+        "remark": "原作p256、キャンドルで有名なお店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.007797,
+          43.190581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooecu",
+        "point_name": "小樽オルゴール堂",
+        "remark": "原作p256、空太とましろが最後に寄ったお店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.704602,
+          41.759473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooeow",
+        "point_name": "函館山山頂展望台",
+        "remark": "原作p295,カバー写真、函館夜景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.704902,
+          41.759213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oof2l",
+        "point_name": "函館山ロープウェイ山頂駅",
+        "remark": "原作p333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.815796,
+          41.775637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooevt",
+        "point_name": "函館空港",
+        "remark": "原作p302、午後発羽田夕刻着"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.718898,
+          41.767761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooere",
+        "point_name": "ホテル・ラビスタ函館ベイ",
+        "remark": "原作p294,300,p304,p321,p322、最上階展望ラウンジ、2F朝食北の番屋、ホテルロビー"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.72672,
+          41.773499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oofhs",
+        "point_name": "函館駅前",
+        "remark": "原作p323、バスロータリー一角にある案内板前で七海が待つ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.714636,
+          41.761325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oofh6",
+        "point_name": "ロープウェイまでの坂道",
+        "remark": "原作p332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.714312,
+          41.760947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oogkh",
+        "point_name": "函館山ロープウェイ山麓駅",
+        "remark": "原作p333、切符購入・乗り込み"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.704753,
+          41.759056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oog6m",
+        "point_name": "メインの展望台よりちょっと低い広場",
+        "remark": "原作p333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.712257,
+          41.762834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14406,
+        "bangumi_title": "樱花庄的宠物女孩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ooh5i",
+        "point_name": "函館ハリストス正教会（仮）",
+        "remark": "原作p335,336、古い教会、門に桜の木、木製のドア金色のノブ、板張りの床、高い天井、二列に並んだ横長のイス、ステンドグラス、祭壇の前にましろ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

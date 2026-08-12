@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.15705,
+          39.157351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159690,
+        "bangumi_title": "魔法纪录 魔法少女小圆外传",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159690/points/ieaqfxrf7-1710043989383.jpg",
+        "location": "",
+        "point_id": "ieaqfxrf7",
+        "point_name": "天津西站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.681194,
+          39.015952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159690,
+        "bangumi_title": "魔法纪录 魔法少女小圆外传",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159690/points/ieazprkmo-1710044275831.jpg",
+        "location": "",
+        "point_id": "ieazprkmo",
+        "point_name": "天津滨海图书馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.977919,
+          41.008397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159690,
+        "bangumi_title": "魔法纪录 魔法少女小圆外传",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159690/points/ieb5ehbfe-1710044713895.jpg",
+        "location": "",
+        "point_id": "ieb5ehbfe",
+        "point_name": "Yerabatan Sarnıcı",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

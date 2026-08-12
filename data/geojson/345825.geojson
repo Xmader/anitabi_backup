@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          119.339959,
+          28.065358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 345825,
+        "bangumi_title": "剑来",
+        "ep_cut": "第8集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/345825/points/rtveemdhz-1736654132044.jpg",
+        "location": "",
+        "point_id": "rtveemdhz",
+        "point_name": "永和桥",
+        "remark": "动漫中在桥的下面有一把宝剑，现实中也有"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.116467,
+          28.074917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 345825,
+        "bangumi_title": "剑来",
+        "ep_cut": "第22集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/345825/points/rtvi6pm0d-1736654776985.jpg",
+        "location": "",
+        "point_id": "rtvi6pm0d",
+        "point_name": "千年老槐",
+        "remark": "在《剑来》中出现的千年老槐，现实原型是龙泉西街的老树"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

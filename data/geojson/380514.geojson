@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.141231,
+          30.262206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/ius026ree-1711335185968.jpg",
+        "location": "",
+        "point_id": "ius026ree",
+        "point_name": "西湖宝石山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.120775,
+          30.263596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/ius270y5u-1711335250315.jpg",
+        "location": "",
+        "point_id": "ius270y5u",
+        "point_name": "浙江大学玉泉校区正门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.119598,
+          30.263948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/ius36zdw9-1711335322270.jpg",
+        "location": "",
+        "point_id": "ius36zdw9",
+        "point_name": "浙江大学玉泉校区正门草坪",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.560886,
+          39.841044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/ius4hw6mq-1711335387782.jpg",
+        "location": "",
+        "point_id": "ius4hw6mq",
+        "point_name": "马家湾湿地公园栈桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.410042,
+          39.947371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/ius5ms887-1711335454301.jpg",
+        "location": "",
+        "point_id": "ius5ms887",
+        "point_name": "雍和宫肯德基",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.422933,
+          39.86408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/ius9mugcs-1711335702272.jpg",
+        "location": "",
+        "point_id": "ius9mugcs",
+        "point_name": "方庄购物中心二楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.814617,
+          36.064725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 380514,
+        "bangumi_title": "候鸟",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/380514/points/jjlt6udmp-1713281090832.jpg",
+        "location": "",
+        "point_id": "jjlt6udmp",
+        "point_name": "中山桥",
+        "remark": "老家县城，黄河上的桥"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

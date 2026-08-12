@@ -1,0 +1,725 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.016566,
+          36.743291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/7wv4g4b-1764235079185.jpg",
+        "location": "",
+        "point_id": "7wv4g4b",
+        "point_name": "ローソン 高岡駅前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.018954,
+          36.735886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "大室家 親愛的姊妹",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/8urcmfo-1766284561079.jpg",
+        "location": "",
+        "point_id": "8urcmfo",
+        "point_name": "下関小",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00932,
+          36.74883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9et76g1_1767597675341.jpg",
+        "location": "",
+        "point_id": "9et76g1",
+        "point_name": "イタリア惣菜店contorno（コントルノ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.02348,
+          36.75037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9et8v3h_1767597688387.jpg",
+        "location": "",
+        "point_id": "9et8v3h",
+        "point_name": "小竹藪広場 東",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.023,
+          36.75086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9et9pbf_1767597698124.jpg",
+        "location": "",
+        "point_id": "9et9pbf",
+        "point_name": "小竹藪広場 西",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00568,
+          36.73898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9etdyxh_1767597715255.jpg",
+        "location": "",
+        "point_id": "9etdyxh",
+        "point_name": "s. r-trois / エス エール トロワ 1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00572,
+          36.73908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9etf1iy_1767597726743.jpg",
+        "location": "",
+        "point_id": "9etf1iy",
+        "point_name": "s. r-trois / エス エール トロワ 2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00659,
+          36.73704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ethslx_1767597740186.jpg",
+        "location": "",
+        "point_id": "9ethslx",
+        "point_name": "ふじた花器 1",
+        "remark": "蓮美町4-30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00653,
+          36.73693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9etr30j_1767597753135.jpg",
+        "location": "",
+        "point_id": "9etr30j",
+        "point_name": "ふじた花器 2",
+        "remark": "清水町3丁目6-20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00643,
+          36.73683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9eu2axf_1767597764337.jpg",
+        "location": "",
+        "point_id": "9eu2axf",
+        "point_name": "はぴねすグループホームいずみ 1",
+        "remark": "清水町3丁目6-21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.0062,
+          36.73684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9eu3mp5_1767597773185.jpg",
+        "location": "",
+        "point_id": "9eu3mp5",
+        "point_name": "はぴねすグループホームいずみ 2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.999002,
+          36.73663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9euad9o_1767597786382.jpg",
+        "location": "",
+        "point_id": "9euad9o",
+        "point_name": "酒のハッスル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.999664,
+          36.73537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghm2f3_1767782047314.jpg",
+        "location": "OP",
+        "point_id": "9ghm2f3",
+        "point_name": "南星中 通学路 1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.999806,
+          36.73526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghov3f_1767782053824.jpg",
+        "location": "OP",
+        "point_id": "9ghov3f",
+        "point_name": "南星中 通学路 2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.000118,
+          36.73501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghpn63_1767782059589.jpg",
+        "location": "OP",
+        "point_id": "9ghpn63",
+        "point_name": "南星中 通学路 3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00041,
+          36.7348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghqi4r_1767782065354.jpg",
+        "location": "OP",
+        "point_id": "9ghqi4r",
+        "point_name": "南星中 通学路 4",
+        "remark": "エヌアイウエル（株）前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.000537,
+          36.73485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghupdt_1767782071884.jpg",
+        "location": "OP",
+        "point_id": "9ghupdt",
+        "point_name": "南星中 通学路 5",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00082,
+          36.73508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghwd9o_1767782078896.jpg",
+        "location": "OP",
+        "point_id": "9ghwd9o",
+        "point_name": "南星中 通学路 6",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.000954,
+          36.73519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9ghz1ua_1767782088041.jpg",
+        "location": "OP",
+        "point_id": "9ghz1ua",
+        "point_name": "南星中 通学路 7",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.001078,
+          36.7353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gi0sk2_1767782095716.jpg",
+        "location": "OP",
+        "point_id": "9gi0sk2",
+        "point_name": "南星中 通学路 8",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.001217,
+          36.73542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gi1gs9_1767782116171.jpg",
+        "location": "OP",
+        "point_id": "9gi1gs9",
+        "point_name": "南星中 通学路 9",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.001282,
+          36.7357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gi20or_1767782125056.jpg",
+        "location": "OP",
+        "point_id": "9gi20or",
+        "point_name": "南星中 通学路 10",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00212,
+          36.73572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gi305u_1767782132456.jpg",
+        "location": "OP",
+        "point_id": "9gi305u",
+        "point_name": "千保川桥梁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00264,
+          36.73564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gi7a2q_1767782144467.jpg",
+        "location": "OP",
+        "point_id": "9gi7a2q",
+        "point_name": "ライブタウン高岡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00404,
+          36.73552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gi8u2a_1767782164170.jpg",
+        "location": "OP",
+        "point_id": "9gi8u2a",
+        "point_name": "石崎美容室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.00483,
+          36.73546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gibym9_1767782172898.jpg",
+        "location": "OP",
+        "point_id": "9gibym9",
+        "point_name": "寺田矯正歯科医院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.005732,
+          36.73567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/448655/9gig2sp_1767782183897.jpg",
+        "location": "OP",
+        "point_id": "9gig2sp",
+        "point_name": "あぱはうす壱番館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.995245,
+          36.754736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4jsgr0-1782114046553.webp",
+        "location": "",
+        "point_id": "g4jsgr0",
+        "point_name": "高岡西部中",
+        "remark": "动画里镜像了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.001306,
+          36.735846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4kd0p5-1782114954116.webp",
+        "location": "",
+        "point_id": "g4kd0p5",
+        "point_name": "南星中 通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.001257,
+          36.735459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4kh3vp-1782115129818.webp",
+        "location": "",
+        "point_id": "g4kh3vp",
+        "point_name": "南星中 通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.000875,
+          36.735119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4kkp49-1782115304355.webp",
+        "location": "",
+        "point_id": "g4kkp49",
+        "point_name": "南星中 通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.000598,
+          36.734895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4knsx6-1782115445629.webp",
+        "location": "",
+        "point_id": "g4knsx6",
+        "point_name": "南星中 通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.016426,
+          36.743179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4l6kfe-1782116327118.webp",
+        "location": "",
+        "point_id": "g4l6kfe",
+        "point_name": "罗森 高冈站前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705578,
+          35.68987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4wyhmc-1782136124108.webp",
+        "location": "",
+        "point_id": "g4wyhmc",
+        "point_name": "東京都立新宿高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.005706,
+          36.739006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4xjw6n-1782137130132.webp",
+        "location": "",
+        "point_id": "g4xjw6n",
+        "point_name": "s. r-trois / エス エール トロワ 3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.006404,
+          36.736821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 448655,
+        "bangumi_title": "大室家 亲爱的姐妹们",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/448655/points/g4yb7yv-1782138398859.webp",
+        "location": "",
+        "point_id": "g4yb7yv",
+        "point_name": "はぴねすグループホームいずみ 3",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

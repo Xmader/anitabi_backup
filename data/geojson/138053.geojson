@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.441756,
+          35.631734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138053,
+        "bangumi_title": "Anne Happy♪",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5dxgkl",
+        "point_name": "乞田川大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

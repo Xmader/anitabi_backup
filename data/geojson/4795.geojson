@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.876232,
+          38.257144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4795,
+        "bangumi_title": "ジョジョの奇妙な冒険 (29)",
+        "ep_cut": "不滅鑽石17集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4795/points/tc2n3t639-1740901668631.jpg",
+        "location": "",
+        "point_id": "tc2n3t639",
+        "point_name": "ローソン\n仙台​柳町​通​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

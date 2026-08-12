@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.643623,
+          35.334912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2976,
+        "bangumi_title": "名侦探柯南 侦探们的镇魂歌",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2976/points/nu38kxis1-1725386785664.jpg",
+        "location": "",
+        "point_id": "nu38kxis1",
+        "point_name": "八景島シーパラダイス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.640952,
+          35.449787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2976,
+        "bangumi_title": "名侦探柯南 侦探们的镇魂歌",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2976/points/nu3bct04x-1725386910896.jpg",
+        "location": "",
+        "point_id": "nu3bct04x",
+        "point_name": "神奈川県​警察​本部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637226,
+          35.44965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2976,
+        "bangumi_title": "名侦探柯南 侦探们的镇魂歌",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2976/points/nu3fzvk71-1725387204758.jpg",
+        "location": "",
+        "point_id": "nu3fzvk71",
+        "point_name": "本町四丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

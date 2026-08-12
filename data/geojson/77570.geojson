@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.47618,
+          36.3709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 77570,
+        "bangumi_title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/77570/aac0ee6d_1752846148415.jpg",
+        "location": "",
+        "point_id": "aac0ee6d",
+        "point_name": "JR水戸駅 改札口",
+        "remark": "#01「（1）甘草奏の甘くない日常 （2）甘草奏の臭くない納豆」、#10「（1）人生は、選択の連続である（2）人生は、洗濯の連続である」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.476126,
+          36.372101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 77570,
+        "bangumi_title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/77570/c3f66581_1752846201510.jpg",
+        "location": "",
+        "point_id": "c3f66581",
+        "point_name": "デッキ撮影ポイント",
+        "remark": "#01、#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.47574,
+          36.36982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 77570,
+        "bangumi_title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/77570/86314d12_1752846044239.jpg",
+        "location": "",
+        "point_id": "86314d12",
+        "point_name": "納豆像",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.475836,
+          36.37014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 77570,
+        "bangumi_title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/77570/1bdee546_1752846253686.jpg",
+        "location": "",
+        "point_id": "1bdee546",
+        "point_name": "ヤマダ電機水戸店",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.476059,
+          36.371524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 77570,
+        "bangumi_title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/77570/944479c7_1752846238598.jpg",
+        "location": "",
+        "point_id": "944479c7",
+        "point_name": "JR水戸駅北口",
+        "remark": "#03「（1）がーるず&ぱんちらー（2）男物でもパンツが見たい?」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.476303,
+          36.37147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 77570,
+        "bangumi_title": "我的脑内选项正在全力妨碍学园恋爱喜剧",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/77570/67e04bc0_1752846091846.jpg",
+        "location": "",
+        "point_id": "67e04bc0",
+        "point_name": "水戸黄門御一行像",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

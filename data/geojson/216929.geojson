@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.61956,
+          35.386278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216929,
+        "bangumi_title": "恋语Amrilato",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/216929/points/917sgmx-1766675157185.jpg",
+        "location": "",
+        "point_id": "917sgmx",
+        "point_name": "新杉田駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624894,
+          35.382303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216929,
+        "bangumi_title": "恋语Amrilato",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/216929/points/9180p2w-1766675398999.jpg",
+        "location": "",
+        "point_id": "9180p2w",
+        "point_name": "新杉田公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.616094,
+          35.383355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216929,
+        "bangumi_title": "恋语Amrilato",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/216929/points/9184vei-1766675585455.jpg",
+        "location": "",
+        "point_id": "9184vei",
+        "point_name": "杉田駅　東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.619019,
+          35.384693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216929,
+        "bangumi_title": "恋语Amrilato",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/216929/points/918aw5r-1766675826982.jpg",
+        "location": "",
+        "point_id": "918aw5r",
+        "point_name": "杉田新道商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.61854,
+          35.402364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216929,
+        "bangumi_title": "恋语Amrilato",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/216929/points/918htyb-1766676208858.jpg",
+        "location": "",
+        "point_id": "918htyb",
+        "point_name": "磯子区役所",
+        "remark": "来源：https://note.com/zakarichan/n/nca5e171515f2#79f0a900-4d7a-4438-a118-aa42101b6a34\n通过谷歌地图查看觉得不太像，姑且搬过来做参考"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.616762,
+          35.381271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216929,
+        "bangumi_title": "恋语Amrilato",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/216929/points/918lyis-1766676352919.jpg",
+        "location": "",
+        "point_id": "918lyis",
+        "point_name": "岩崎商店",
+        "remark": "来源：https://note.com/zakarichan/n/nca5e171515f2#79f0a900-4d7a-4438-a118-aa42101b6a34 通过谷歌地图查看觉得不太像，姑且搬过来做参考"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

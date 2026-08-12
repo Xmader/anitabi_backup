@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.802316,
+          34.899291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211089,
+        "bangumi_title": "剧场版 吹响吧！上低音号～想要传达的旋律～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/211089/jyq9lfxe3_1714465899645.jpg",
+        "location": "",
+        "point_id": "jyq9lfxe3",
+        "point_name": "水管橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

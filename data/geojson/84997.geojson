@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          145.167829,
+          43.07731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84997,
+        "bangumi_title": "鲁邦三世 雾之谜",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/84997/points/51ln20r92-1720193490596.jpg",
+        "location": "",
+        "point_id": "51ln20r92",
+        "point_name": "湯沸岬灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

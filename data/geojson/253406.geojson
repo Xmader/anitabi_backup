@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.546548,
+          35.3153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253406,
+        "bangumi_title": "在世界终焉的花园",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "jexrfgx34",
+        "point_name": "六地蔵",
+        "remark": "来到这里，人和声音便一口气涌起。车子左右穿行，特别是左边的两车道上有车子嗖嗖地开过来。两条车道之间排着一列地藏菩萨，成了有名的观光景点，现在还有外来的人在拍照。尽管不是周末，游客仍不见少。——《在世界终焉的花园》 神之手"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.548627,
+          35.31398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253406,
+        "bangumi_title": "在世界终焉的花园",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "jexrfgx6l",
+        "point_name": "鎌倉市鎌倉体育館",
+        "remark": "那是在我走过商店街和市营体育馆，来到妇产科诊所后面的时候。在小学生都能翻过的低矮栅栏对面，有一块没人打理的空地。杂草长得茂盛，垃圾随地放置。——《在世界终焉的花园》 神之手"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.547763,
+          35.312515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253406,
+        "bangumi_title": "在世界终焉的花园",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "jexrfgxdl",
+        "point_name": "西井クリニック",
+        "remark": "那是在我走过商店街和市营体育馆，来到妇产科诊所后面的时候。在小学生都能翻过的低矮栅栏对面，有一块没人打理的空地。——《在世界终焉的花园》 神之手"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551044,
+          35.317016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253406,
+        "bangumi_title": "在世界终焉的花园",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "jexrfgxem",
+        "point_name": "大新 鎌倉店",
+        "remark": "我转了一圈环视四周。正直小长假，观光地的人数比平时还多。连农业合作社的直销点前都聚起人来，开在老旧红色建筑里的拉面店前排起长队，天知道这队要排到猴年马月去。——《在世界终焉的花园》 神之手"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551219,
+          35.31711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253406,
+        "bangumi_title": "在世界终焉的花园",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "jexrfgx05",
+        "point_name": "鎌倉市農協連即売所",
+        "remark": "我转了一圈环视四周。正直小长假，观光地的人数比平时还多。连农业合作社的直销点前都聚起人来，开在老旧红色建筑里的拉面店前排起长队，天知道这队要排到猴年马月去。——《在世界终焉的花园》 神之手"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

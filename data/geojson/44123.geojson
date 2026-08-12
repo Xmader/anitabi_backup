@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.578181,
+          55.639278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 44123,
+        "bangumi_title": "近月少女的礼仪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/44123/nmrh0lgku_1728212549113_c16v9.jpg",
+        "location": "",
+        "point_id": "nmrh0lgku",
+        "point_name": "AC Hotel Bella Sky Copenhagen",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714638,
+          35.66388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 44123,
+        "bangumi_title": "近月少女的礼仪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/44123/points/nr4hwqyok-1725154851553.jpg",
+        "location": "",
+        "point_id": "nr4hwqyok",
+        "point_name": "Prada Tokyo Aoyama",
+        "remark": "路口错误"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703166,
+          35.671406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 44123,
+        "bangumi_title": "近月少女的礼仪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/44123/points/nr4qona3o-1725154978944.jpg",
+        "location": "",
+        "point_id": "nr4qona3o",
+        "point_name": "吉野家\n原宿​竹​下口​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709032,
+          35.66707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 44123,
+        "bangumi_title": "近月少女的礼仪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/44123/points/oaa4ffpui-1726655619102.jpg",
+        "location": "",
+        "point_id": "oaa4ffpui",
+        "point_name": "表参道ヒルズ",
+        "remark": "4 Chome-12-10 Jingumae, Shibuya City, Tokyo 150-0001"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.877742,
+          49.356007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 44123,
+        "bangumi_title": "近月少女的礼仪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2098/bangumi/44123/points/otze3z992-1728199639931.jpg",
+        "location": "",
+        "point_id": "otze3z992",
+        "point_name": "Schloss Bartenstein",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

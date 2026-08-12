@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.916348,
+          36.497305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332250,
+        "bangumi_title": "超自然武装当哒当",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/332250/pevntbgbo_1729837008278.jpg",
+        "location": "",
+        "point_id": "pevntbgbo",
+        "point_name": "伊香保温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.91632,
+          36.497265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332250,
+        "bangumi_title": "超自然武装当哒当",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/332250/pevj3qaib_1729836757289.jpg",
+        "location": "",
+        "point_id": "pevj3qaib",
+        "point_name": "伊香保温泉石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916313,
+          36.497241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332250,
+        "bangumi_title": "超自然武装当哒当",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/332250/pevlxsy60_1729836922658.jpg",
+        "location": "",
+        "point_id": "pevlxsy60",
+        "point_name": "伊香保温泉石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.775408,
+          35.715036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332250,
+        "bangumi_title": "超自然武装当哒当",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/332250/pevqn9xxd_1729837176535.jpg",
+        "location": "",
+        "point_id": "pevqn9xxd",
+        "point_name": "国立西洋美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.775753,
+          35.715018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332250,
+        "bangumi_title": "超自然武装当哒当",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/332250/pevqweue7_1729837201797.jpg",
+        "location": "",
+        "point_id": "pevqweue7",
+        "point_name": "国立西洋美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

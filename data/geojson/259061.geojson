@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.424982,
+          35.62401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259061,
+        "bangumi_title": "美好的每一天 ～不连续的存在～全语音HD版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/259061/lx718qg4u_1719987878907.jpg",
+        "location": "",
+        "point_id": "lx718qg4u",
+        "point_name": "京王･小田急多摩センター駅 南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.423855,
+          35.621746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259061,
+        "bangumi_title": "美好的每一天 ～不连续的存在～全语音HD版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/259061/lx72z5b5q_1719987982523.jpg",
+        "location": "",
+        "point_id": "lx72z5b5q",
+        "point_name": "多摩センター中央第１",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.726135,
+          35.699932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259061,
+        "bangumi_title": "美好的每一天 ～不连续的存在～全语音HD版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/259061/lx77pejed_1719988268328.jpg",
+        "location": "",
+        "point_id": "lx77pejed",
+        "point_name": "飛龍五番館ビル",
+        "remark": "已改建"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.727737,
+          35.696306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259061,
+        "bangumi_title": "美好的每一天 ～不连续的存在～全语音HD版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/259061/p4zhzxndh_1729061746877.jpg",
+        "location": "",
+        "point_id": "p4zhzxndh",
+        "point_name": "新宿区立加賀公園",
+        "remark": "Looking-glass Insects"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700834,
+          35.659673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259061,
+        "bangumi_title": "美好的每一天 ～不连续的存在～全语音HD版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/259061/points/9mpk0il-1767974612965.jpg",
+        "location": "",
+        "point_id": "9mpk0il",
+        "point_name": "涩谷",
+        "remark": "来自xhs的攻略，根据左右的高楼也可以推断满足的条件，应该没问题"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.423882,
+          35.621813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259061,
+        "bangumi_title": "美好的每一天 ～不连续的存在～全语音HD版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/259061/points/hgvdn4z-1785035844595.webp",
+        "location": "",
+        "point_id": "hgvdn4z",
+        "point_name": "多摩センター中央第１",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

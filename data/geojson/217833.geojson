@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700506,
+          35.659468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 217833,
+        "bangumi_title": "蓝色时期",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/217833/points/4yr1ytrl1.jpg",
+        "location": "",
+        "point_id": "4yr1ytrl1",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772754,
+          35.717167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 217833,
+        "bangumi_title": "蓝色时期",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/217833/points/4yrccytmh.jpg",
+        "location": "",
+        "point_id": "4yrccytmh",
+        "point_name": "東京都美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.761965,
+          35.637101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131427,
+        "bangumi_title": "名侦探柯南 纯黑的恶梦",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/131427/points/pnpte4ftp-1730529704510.jpg",
+        "location": "",
+        "point_id": "pnpte4ftp",
+        "point_name": "レインボー​ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.387095,
+          43.642574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131427,
+        "bangumi_title": "名侦探柯南 纯黑的恶梦",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/131427/points/qs0yhw3hi-1733688801375.jpg",
+        "location": "",
+        "point_id": "qs0yhw3hi",
+        "point_name": "CN Tower",
+        "remark": "剧场版人物阿夸维特，黑暗组织代号“Aquavit”，加拿大CSIS派入组织的搜查官（曾潜入组织，后来成功脱离），表面身份为多伦多CN Tower的观光导游；因为身份曝露的缘故在带领游客参观国家电视塔时被香缇给枪杀身亡。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

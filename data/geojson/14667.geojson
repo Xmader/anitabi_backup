@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.060138,
+          37.258615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14667,
+        "bangumi_title": "丹特丽安的书架",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/14667/2q15bg9_1752938108008.jpg",
+        "location": "",
+        "point_id": "2q15bg9",
+        "point_name": "British Hill",
+        "remark": "修伊家原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

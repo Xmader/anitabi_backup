@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.777101,
+          35.003763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 303068,
+        "bangumi_title": "舞伎家的料理人",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/303068/points/22s5lql-1751532163222.jpg",
+        "location": "",
+        "point_id": "22s5lql",
+        "point_name": "四条通八坂神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

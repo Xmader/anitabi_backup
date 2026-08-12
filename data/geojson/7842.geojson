@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.541495,
+          35.312797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7842,
+        "bangumi_title": "侵略！乌贼娘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/7842/points/n840pc8i7-1723664446157.jpg",
+        "location": "",
+        "point_id": "n840pc8i7",
+        "point_name": "由比ヶ浜",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

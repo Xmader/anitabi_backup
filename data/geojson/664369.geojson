@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.426605,
+          34.948401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664369,
+        "bangumi_title": "LONA",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/664369/gdkzax5_1782660259510.webp",
+        "location": "",
+        "point_id": "gdkzax5",
+        "point_name": "SPring-8",
+        "remark": "8GeV能量级的同步辐射装置。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

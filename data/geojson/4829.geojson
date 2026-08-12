@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.57359,
+          35.728016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4829,
+        "bangumi_title": "萝莉的时间 OAD",
+        "ep_cut": "The Thing You Gave to Me",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4829/points/f56mr8x-1779975583498.jpg",
+        "location": "",
+        "point_id": "f56mr8x",
+        "point_name": "関町北４丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

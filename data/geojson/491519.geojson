@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          151.212764,
+          -33.860625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491519,
+        "bangumi_title": "Friend to Lover ～フレラバ～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/491519/points/a2ewna7-1768924667471.jpg",
+        "location": "",
+        "point_id": "a2ewna7",
+        "point_name": "Sydney Harbour Bridge",
+        "remark": "对面并非是仓库"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.210122,
+          -33.855123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491519,
+        "bangumi_title": "Friend to Lover ～フレラバ～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/491519/points/fhgq3h2-1780718107592.jpg",
+        "location": "",
+        "point_id": "fhgq3h2",
+        "point_name": "Hickson Rd",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.210574,
+          -33.855513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491519,
+        "bangumi_title": "Friend to Lover ～フレラバ～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/491519/points/fhgywn3-1780718519549.jpg",
+        "location": "",
+        "point_id": "fhgywn3",
+        "point_name": "悉尼海港大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

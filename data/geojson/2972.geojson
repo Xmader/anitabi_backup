@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124026,
+          51.507135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2972,
+        "bangumi_title": "名侦探柯南 贝克街的亡灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2972/nwgex1nrc_1725582949852_c16v9.jpg",
+        "location": "",
+        "point_id": "nwgex1nrc",
+        "point_name": "London Charing Cross",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.060837,
+          51.519576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2972,
+        "bangumi_title": "名侦探柯南 贝克街的亡灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/2972/nwgnoyx1e_1725582959617_c16v9.jpg",
+        "location": "",
+        "point_id": "nwgnoyx1e",
+        "point_name": "Whitechapel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.034689,
+          35.648166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2972,
+        "bangumi_title": "名侦探柯南 贝克街的亡灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2972/points/r74pmkydz-1734872042209.jpg",
+        "location": "",
+        "point_id": "r74pmkydz",
+        "point_name": "幕張​イベント​ホール​アリーナ",
+        "remark": "参考幕张展览馆建筑外形绘制\n【茧】的发布会场"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

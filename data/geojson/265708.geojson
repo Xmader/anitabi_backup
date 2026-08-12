@@ -1,0 +1,1305 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.46722,
+          35.745215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/00f2b7f1_1731421329846.jpg",
+        "location": "第1話",
+        "point_id": "00f2b7f1",
+        "point_name": "八坂駅",
+        "remark": "第1話、第5話、第6話、第7話、第8話、第10話、第11話、第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.465953,
+          35.745866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/564a9927_1731421880901.jpg",
+        "location": "第1話",
+        "point_id": "564a9927",
+        "point_name": "八坂駅歩道橋",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.465038,
+          35.746328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d92e5c27_1731421475048.jpg",
+        "location": "第1話",
+        "point_id": "d92e5c27",
+        "point_name": "西武国分寺線踏切",
+        "remark": "第1話、第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.464577,
+          35.74646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/ab52549d_1731421681079.jpg",
+        "location": "第1話",
+        "point_id": "ab52549d",
+        "point_name": "多摩自転車道(公園までの道中)",
+        "remark": "第1話、第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.463713,
+          35.74668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/55dda899_1731421658257.jpg",
+        "location": "第1話",
+        "point_id": "55dda899",
+        "point_name": "西武多摩線架橋",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.461242,
+          35.747229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d13b61cb_1731421939925.jpg",
+        "location": "第1話",
+        "point_id": "d13b61cb",
+        "point_name": "公園芝生エリア(東)",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.459371,
+          35.747976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d857530a_1731421922668.jpg",
+        "location": "第1話",
+        "point_id": "d857530a",
+        "point_name": "公園芝生エリア(中央)",
+        "remark": "第1話、第5話、第7話、第10話、ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.457965,
+          35.748359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/82bd3293_1731421737793.jpg",
+        "location": "第1話",
+        "point_id": "82bd3293",
+        "point_name": "公園遊具エリア①",
+        "remark": "第1話、第7話、第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.457802,
+          35.748846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/83915527_1731421757689.jpg",
+        "location": "第1話",
+        "point_id": "83915527",
+        "point_name": "公園ゲートボール場横",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.455463,
+          35.748677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d2575fb9_1731421768368.jpg",
+        "location": "第1話",
+        "point_id": "d2575fb9",
+        "point_name": "公園東屋",
+        "remark": "第1話、第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.455532,
+          35.748596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/ae47aa33_1731421970745.jpg",
+        "location": "第1話",
+        "point_id": "ae47aa33",
+        "point_name": "公園滝",
+        "remark": "第1話、第5話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.454456,
+          35.748902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/10def1d4_1731421437090.jpg",
+        "location": "第1話",
+        "point_id": "10def1d4",
+        "point_name": "東京都立東村山西高等学校",
+        "remark": "主人公たちが通う高校のモデル(位置)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.639591,
+          35.665324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/c8dfd0a2_1731422332088.jpg",
+        "location": "第1話",
+        "point_id": "c8dfd0a2",
+        "point_name": "世田谷区立松沢小学校",
+        "remark": "主人公たちが通う高校のモデル(外観)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.465205,
+          35.746173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/80c07f93_1731422098216.jpg",
+        "location": "第2話",
+        "point_id": "80c07f93",
+        "point_name": "ベンチ",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480038,
+          35.721677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/1fb978b7_1731422125571.jpg",
+        "location": "第2話",
+        "point_id": "1fb978b7",
+        "point_name": "一橋学園駅(南口)",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480076,
+          35.722294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/4b560020_1731422132782.jpg",
+        "location": "第2話",
+        "point_id": "4b560020",
+        "point_name": "一橋学園駅(駅構内)",
+        "remark": "第2話、第5話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466979,
+          35.743956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/2736f62b_1731422189789.jpg",
+        "location": "第2話",
+        "point_id": "2736f62b",
+        "point_name": "八坂交番",
+        "remark": "第2話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649017,
+          35.707368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/b980e3d5_1731422206816.jpg",
+        "location": "第2話",
+        "point_id": "b980e3d5",
+        "point_name": "高円寺北公園",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.457713,
+          35.747803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/4f0cd623_1731422171336.jpg",
+        "location": "第2話",
+        "point_id": "4f0cd623",
+        "point_name": "公園石碑",
+        "remark": "第2話、第5話、第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.923506,
+          33.879479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/07296182_1731422261348.jpg",
+        "location": "第2話",
+        "point_id": "07296182",
+        "point_name": "熊野市立入鹿中学校",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.468349,
+          35.745024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/4b29dc3b_1731422640717.jpg",
+        "location": "第3話",
+        "point_id": "4b29dc3b",
+        "point_name": "タイムズ東村山萩山町第２駐車場",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.46812,
+          35.744973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/6301a0c9_1731422423999.jpg",
+        "location": "第3話",
+        "point_id": "6301a0c9",
+        "point_name": "多摩自転車道(八坂駅近く)",
+        "remark": "第3話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.455823,
+          35.748366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d6059eb1_1731422398561.jpg",
+        "location": "第3話",
+        "point_id": "d6059eb1",
+        "point_name": "公園看板",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.456984,
+          35.748399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/a6144ab2_1731422409848.jpg",
+        "location": "第3話",
+        "point_id": "a6144ab2",
+        "point_name": "公園管理事務所",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.467089,
+          35.743443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/721b8f81_1731422492509.jpg",
+        "location": "第3話",
+        "point_id": "721b8f81",
+        "point_name": "イオンフードスタイル 小平店",
+        "remark": "第3話、第6話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.468552,
+          35.746651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/cd5a53da_1731422593196.jpg",
+        "location": "第3話",
+        "point_id": "cd5a53da",
+        "point_name": "旧丸正久米川八坂店",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.469035,
+          35.753423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/5464e3bd_1731422522262.jpg",
+        "location": "第3話",
+        "point_id": "5464e3bd",
+        "point_name": "Big-A東村山店",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466654,
+          35.758916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/59d47175_1731422530631.jpg",
+        "location": "第3話",
+        "point_id": "59d47175",
+        "point_name": "イトーヨーカドー 東村山店",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466058,
+          35.760344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/b22cb196_1731422552931.jpg",
+        "location": "第3話",
+        "point_id": "b22cb196",
+        "point_name": "東村山駅",
+        "remark": "第3話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472863,
+          35.786802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d31b4cb6_1731422559772.jpg",
+        "location": "第3話",
+        "point_id": "d31b4cb6",
+        "point_name": "所沢駅",
+        "remark": "第3話、第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.470567,
+          35.789227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/69ed0299_1731422683814.jpg",
+        "location": "第3話",
+        "point_id": "69ed0299",
+        "point_name": "イオン所沢店",
+        "remark": "第3話、第8話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.457201,
+          35.749502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/55e7c52f_1731422866831.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "55e7c52f",
+        "point_name": "都立東村山中央公園北の歩道橋",
+        "remark": "第4話、第6話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466769,
+          35.755889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/5eb92826_1731422877695.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "5eb92826",
+        "point_name": "ジョナサン 東村山店",
+        "remark": "第4話、第8話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.463166,
+          35.7451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/008c8bc3_1731423047032.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "008c8bc3",
+        "point_name": "公園南端",
+        "remark": "第4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.461878,
+          35.745614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/c11b2b22_1731423036888.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "c11b2b22",
+        "point_name": "公園南横断歩道",
+        "remark": "第4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.45735,
+          35.748607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/7b815627_1731423180263.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "7b815627",
+        "point_name": "公園遊具エリア②",
+        "remark": "第5話、第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.456294,
+          35.748079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/dde277ca_1731423005947.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "dde277ca",
+        "point_name": "公園南側道路",
+        "remark": "第5話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.454957,
+          35.804999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/16e3fdbc_1731423275232.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "16e3fdbc",
+        "point_name": "新所沢レッツシネパーク",
+        "remark": "第6話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472083,
+          35.788053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/9bdb5f0b_1731423478435.jpg",
+        "location": "第7話、第8話、第9話",
+        "point_id": "9bdb5f0b",
+        "point_name": "プロぺ通り",
+        "remark": "第7話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472368,
+          35.788093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第7話、第8話、第9話",
+        "point_id": "76b002ef",
+        "point_name": "タイトーステーション 所沢店",
+        "remark": "第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.463573,
+          35.746447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第7話、第8話、第9話",
+        "point_id": "8b9b31c2",
+        "point_name": "西武多摩線架橋",
+        "remark": "第7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479313,
+          35.746536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第7話、第8話、第9話",
+        "point_id": "ae10d800",
+        "point_name": "久米川東住宅",
+        "remark": "第7話、第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477618,
+          35.311511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/544d7709_1731423553603.jpg",
+        "location": "第7話、第8話、第9話",
+        "point_id": "544d7709",
+        "point_name": "片瀬西浜海水浴場",
+        "remark": "第8話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.467928,
+          35.744909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/b7acafdf_1731423320678.jpg",
+        "location": "第7話、第8話、第9話",
+        "point_id": "b7acafdf",
+        "point_name": "野火止用水",
+        "remark": "第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.475422,
+          35.753737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d1380f3c_1731423361529.jpg",
+        "location": "第7話、第8話、第9話",
+        "point_id": "d1380f3c",
+        "point_name": "ふれあいばし",
+        "remark": "第9話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480431,
+          35.718786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/2bfc03af_1731423408927.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "2bfc03af",
+        "point_name": "国土交通大学校前",
+        "remark": "第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482711,
+          35.716264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/a4586e85_1731423438126.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "a4586e85",
+        "point_name": "玉川上水",
+        "remark": "第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480116,
+          35.722938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/cb64f451_1731423668862.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "cb64f451",
+        "point_name": "一橋学園駅(南口)",
+        "remark": "第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480045,
+          35.723973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/915dec46_1731423377842.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "915dec46",
+        "point_name": "学園坂通り",
+        "remark": "第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479907,
+          35.722666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/bf858ef4_1731423681040.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "bf858ef4",
+        "point_name": "一橋学園駅(バス停)",
+        "remark": "第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483459,
+          35.714762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/3c2d203a_1731423447950.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "3c2d203a",
+        "point_name": "みよし児童公園",
+        "remark": "第10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.335932,
+          35.658518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265708/points/5430ec06-1749016012685.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "5430ec06",
+        "point_name": "八王子西放射線通り①",
+        "remark": "第11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.335382,
+          35.658913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265708/points/b117c3e2-1749016119562.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "b117c3e2",
+        "point_name": "八王子西放射線通り②",
+        "remark": "第11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.718025,
+          35.729907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/db1d5113_1731423495943.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "db1d5113",
+        "point_name": "池袋サンシャインシティ",
+        "remark": "第11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720609,
+          35.728459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/6c8e98ca_1731423510638.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "6c8e98ca",
+        "point_name": "文化会館ビル",
+        "remark": "第11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472951,
+          35.75011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/dcf15022_1731423340568.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "dcf15022",
+        "point_name": "久米川駅(北口)",
+        "remark": "第11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.490128,
+          35.728554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/6b51d0f9_1731423464967.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "6b51d0f9",
+        "point_name": "熊野宮",
+        "remark": "第11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.527808,
+          36.246228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/d2e47ea0_1731423565206.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "d2e47ea0",
+        "point_name": "館林駅",
+        "remark": "第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.401182,
+          36.307419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/a67b8a45_1731423580007.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "a67b8a45",
+        "point_name": "韮川駅踏切",
+        "remark": "第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.28123,
+          36.272981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/4667fed3_1731423601020.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "4667fed3",
+        "point_name": "世良田駅",
+        "remark": "第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.280318,
+          36.27228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/2ac3b52f_1731423607925.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "2ac3b52f",
+        "point_name": "世良田駅陸橋",
+        "remark": "第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.47763,
+          35.726172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265708/e98fce7d_1731423397309.jpg",
+        "location": "第10話、第11話、第12話",
+        "point_id": "e98fce7d",
+        "point_name": "西武多摩湖線沿線",
+        "remark": "第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.45724,
+          35.749204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第10話、第11話、第12話",
+        "point_id": "1a8b39d9",
+        "point_name": "公園歩道橋近く",
+        "remark": "第12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.467447,
+          35.745128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265708/points/x6gos4-1749016762130.jpg",
+        "location": "第1話",
+        "point_id": "x6gos4",
+        "point_name": " 八坂駅站台",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466955,
+          35.745336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265708,
+        "bangumi_title": "女高中生的无所事事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265708/points/x6x2n4-1749023569354.jpg",
+        "location": "第4話、第5話、第6話",
+        "point_id": "x6x2n4",
+        "point_name": "八坂駅歩道橋",
+        "remark": "第5話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

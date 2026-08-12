@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.727891,
+          35.658125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208370,
+        "bangumi_title": "续「刀剑乱舞-花丸-」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208370/points/eqb79mm-1779076318590.jpg",
+        "location": "",
+        "point_id": "eqb79mm",
+        "point_name": "専称寺",
+        "remark": "冲田总司墓所在寺庙，也是大和守安定极化修行过程中路过的地方"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

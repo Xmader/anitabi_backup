@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -43.210459,
+          -22.951919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16437,
+        "bangumi_title": "里约大冒险",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/16437/points/pj8buk22h-1730178076363.jpg",
+        "location": "",
+        "point_id": "pj8buk22h",
+        "point_name": "Cristo Redentor",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

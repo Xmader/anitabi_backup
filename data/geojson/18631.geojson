@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.621368,
+          35.905682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvqk3zv7d-1731158159928.jpg",
+        "location": "",
+        "point_id": "pvqk3zv7d",
+        "point_name": "Starbucks Coffee-大宮西口店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622673,
+          35.905463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvrelu59d-1731159939025.jpg",
+        "location": "",
+        "point_id": "pvrelu59d",
+        "point_name": "SOGO Omiya Store",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762692,
+          35.697674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvrh43cqd-1731160212610.jpg",
+        "location": "",
+        "point_id": "pvrh43cqd",
+        "point_name": "東京ＹＷＣＡフィットネスワオ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621427,
+          35.905713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvqubvwi3-1731158725529.jpg",
+        "location": "",
+        "point_id": "pvqubvwi3",
+        "point_name": "Starbucks Coffee-大宮西口店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762708,
+          35.697656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvrjy0qkc-1731160317915.jpg",
+        "location": "",
+        "point_id": "pvrjy0qkc",
+        "point_name": "東京ＹＷＣＡフィットネスワオ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621426,
+          35.905745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvqpjw8jg-1731158470017.jpg",
+        "location": "",
+        "point_id": "pvqpjw8jg",
+        "point_name": "Starbucks Coffee - 大宮西口店",
+        "remark": "星巴克前方的马路口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.763575,
+          35.70019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18631,
+        "bangumi_title": "灼眼的夏娜III -Final-",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/18631/points/pvs1uyb6p-1731161400361.jpg",
+        "location": "",
+        "point_id": "pvs1uyb6p",
+        "point_name": "御茶ノ水駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

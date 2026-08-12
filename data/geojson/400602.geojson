@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.600327,
+          36.403881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 400602,
+        "bangumi_title": "葬送的芙莉莲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1108/bangumi/400602/points/mlgnltjx4-1721890034274.jpg",
+        "location": "",
+        "point_id": "mlgnltjx4",
+        "point_name": "苍月草花海",
+        "remark": "温馨提示：若要前往巡礼，建议在三月下旬至五月上旬间前往！"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

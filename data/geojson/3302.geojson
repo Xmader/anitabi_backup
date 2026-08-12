@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.994523,
+          35.237678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3302,
+        "bangumi_title": "福音战士新剧场版：破",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265/2m71cf1kl_1725838996652_c16v9.jpg",
+        "location": "",
+        "point_id": "2m71cf1kl",
+        "point_name": "桃源台駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

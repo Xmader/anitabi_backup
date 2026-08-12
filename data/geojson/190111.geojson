@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.27927,
+          31.580423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 190111,
+        "bangumi_title": "全职法师",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/190111/points/pia6t707s-1730103761947.jpg",
+        "location": "",
+        "point_id": "pia6t707s",
+        "point_name": "无锡市第一高级中学",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.806414,
+          34.437537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 179798,
+        "bangumi_title": "午睡公主～我不为人知的故事～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i532laf",
+        "point_name": "田土浦坐神社",
+        "remark": "階段から田ノ浦港を見下ろしたカット。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

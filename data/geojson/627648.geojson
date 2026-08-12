@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          34.617359,
+          40.017749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 627648,
+        "bangumi_title": "天是红河岸",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/627648/points/grxyzhn-1783528692970.webp",
+        "location": "",
+        "point_id": "grxyzhn",
+        "point_name": "Hattuşaş",
+        "remark": "公元前17-13世纪间赫梯帝国（西臺帝國、ヒッタイト）的首都，在今土耳其乔鲁姆省Boğazkale。废弃于公元前12世纪。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

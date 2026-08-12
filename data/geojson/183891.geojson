@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.529955,
+          31.703045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183891,
+        "bangumi_title": "魔卡少女樱 透明牌篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/183891/points/59pe2e7lt-1673009405434.jpg",
+        "location": "",
+        "point_id": "59pe2e7lt",
+        "point_name": "البحر الميت ים המלח",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770061,
+          35.005889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183891,
+        "bangumi_title": "魔卡少女樱 透明牌篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183891/points/2049iiw-1751371101933.jpg",
+        "location": "",
+        "point_id": "2049iiw",
+        "point_name": "立誠​ガーデン​ヒューリック​京都",
+        "remark": "友枝中学"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

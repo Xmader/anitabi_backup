@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.220062,
+          51.513119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18182,
+        "bangumi_title": "Never Gonna Give You Up",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gihu82w-1782957294437.webp",
+        "location": "",
+        "point_id": "gihu82w",
+        "point_name": "The Harrow Club",
+        "remark": "MV内景拍摄地。平时作为青少年社区活动中心，有篮球场。平时不随意对外开放（每周有青少年篮球集训），建议在官网查询有哪些普通公众可参与的开放项目再巡礼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.219052,
+          51.512596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18182,
+        "bangumi_title": "Never Gonna Give You Up",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gihname-1782956927741.webp",
+        "location": "",
+        "point_id": "gihname",
+        "point_name": "154 Freston Rd",
+        "remark": "MV外景拍摄地，在无名铁路桥下，桥编号为HC13。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.21986,
+          51.513109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18182,
+        "bangumi_title": "Never Gonna Give You Up",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gjz5o9t-1783046835061.webp",
+        "location": "",
+        "point_id": "gjz5o9t",
+        "point_name": "The Harrow Club",
+        "remark": "不确定，但因为这里可以作为婚礼场地出租，所以可能存在吧台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.219191,
+          51.51286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18182,
+        "bangumi_title": "Never Gonna Give You Up",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gjz9bds-1783046986227.webp",
+        "location": "",
+        "point_id": "gjz9bds",
+        "point_name": "210 Freston Rd",
+        "remark": "疑似白房子拍摄地，从2012年街景可以看到；现在已翻新重建。Rick本人说MV的拍摄地点都很集中"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.21911,
+          51.512667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18182,
+        "bangumi_title": "Never Gonna Give You Up",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/18182/points/gjzceqw-1783047120948.webp",
+        "location": "",
+        "point_id": "gjzceqw",
+        "point_name": "214 Freston Rd",
+        "remark": "疑似拍摄地。由于多次翻新这里已经变成了路口，拍摄类似效果可以前往西北方向的Westway Tennis courts"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

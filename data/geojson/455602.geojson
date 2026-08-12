@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.758712,
+          32.447197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 455602,
+        "bangumi_title": "今日からここで暮らシマす!?",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/455602/points/7fjdca-1747459843157.jpg",
+        "location": "",
+        "point_id": "7fjdca",
+        "point_name": "青ヶ島港（三宝港）",
+        "remark": "西码头东侧台阶"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761371,
+          32.464992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 455602,
+        "bangumi_title": "今日からここで暮らシマす!?",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/455602/points/7g8x9n-1747460925682.jpg",
+        "location": "",
+        "point_id": "7g8x9n",
+        "point_name": "民宿 かいゆう丸",
+        "remark": "男主家的民宿「かいせい丸」的原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,1365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.629989,
+          36.506171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1102/bangumi/193378/points/ln83fcmv3-1719206786107.jpg",
+        "location": "",
+        "point_id": "ln83fcmv3",
+        "point_name": "久慈滨海水浴场，1 Chome-17 Kujichō, Hitachi, Ibaraki 319-1222日本",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593042,
+          36.337411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1102/bangumi/193378/points/lnbho0eay-1719213996416.jpg",
+        "location": "",
+        "point_id": "lnbho0eay",
+        "point_name": "海门町ふれあい公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996011,
+          43.19837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c8oxzm-1767341644300.jpg",
+        "location": "",
+        "point_id": "9c8oxzm",
+        "point_name": "稻橞2丁目",
+        "remark": "来源xhs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996107,
+          43.198093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c8t50g-1767341800371.jpg",
+        "location": "",
+        "point_id": "9c8t50g",
+        "point_name": "セントラルタウン都通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.994385,
+          43.19707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c977jc-1767342460472.jpg",
+        "location": "",
+        "point_id": "9c977jc",
+        "point_name": "小樽上空",
+        "remark": "无人机视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996817,
+          43.198653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c9nbzj-1767343218801.jpg",
+        "location": "",
+        "point_id": "9c9nbzj",
+        "point_name": "稻橞3丁目",
+        "remark": "根据限速牌与房子结构推出"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996977,
+          43.198774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c9qrzw-1767343386073.jpg",
+        "location": "",
+        "point_id": "9c9qrzw",
+        "point_name": "稻橞3丁目",
+        "remark": "电线杆的柱子还在"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.997072,
+          43.198802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c9the7-1767343521246.jpg",
+        "location": "",
+        "point_id": "9c9the7",
+        "point_name": "稻橞3丁目",
+        "remark": "旁边的限速牌"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.997032,
+          43.198798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9c9v7f4-1767343574464.jpg",
+        "location": "",
+        "point_id": "9c9v7f4",
+        "point_name": "稻橞3丁目",
+        "remark": "前面的建筑还有门框，就是不是红砖，因为是在同一视角拍摄，位置不会突变"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.592923,
+          36.337397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cb4o7o-1767345705400.jpg",
+        "location": "",
+        "point_id": "9cb4o7o",
+        "point_name": "海門橋",
+        "remark": "名场面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593159,
+          36.337401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cb68jq-1767345785186.jpg",
+        "location": "",
+        "point_id": "9cb68jq",
+        "point_name": "海門橋",
+        "remark": "下面没有防潮的石头，但视角只能这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.99818,
+          43.198898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cbl5si-1767346465562.jpg",
+        "location": "",
+        "point_id": "9cbl5si",
+        "point_name": "ローソン小樽​色内​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.99818,
+          43.198921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cbm2uf-1767346520749.jpg",
+        "location": "",
+        "point_id": "9cbm2uf",
+        "point_name": "ローソン小樽​色内​店",
+        "remark": "同一视角拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.744911,
+          34.538069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cfaitk-1767352688239.jpg",
+        "location": "",
+        "point_id": "9cfaitk",
+        "point_name": "栄​駅​自転車​駐車場",
+        "remark": "来源贴吧 天心无忧，时间都来到2020年了，跨越半个日本的巡礼，无敌了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.744846,
+          34.538601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cfb5qt-1767352862396.jpg",
+        "location": "",
+        "point_id": "9cfb5qt",
+        "point_name": "荣站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.744989,
+          34.537977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cffd7z-1767352921489.jpg",
+        "location": "",
+        "point_id": "9cffd7z",
+        "point_name": "荣站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.744958,
+          34.537956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cfg5je-1767352952024.jpg",
+        "location": "",
+        "point_id": "9cfg5je",
+        "point_name": "荣站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.7446,
+          34.538147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cfivn5-1767353120805.jpg",
+        "location": "",
+        "point_id": "9cfivn5",
+        "point_name": "荣站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.664697,
+          34.524411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cful35-1767353619515.jpg",
+        "location": "",
+        "point_id": "9cful35",
+        "point_name": "八幡集会所",
+        "remark": "这个位置不准，没去过，根据拍摄位置推断，北面拍摄是海，东面位置拍不了,或者焦段要很长只有这里可以"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.662113,
+          34.539908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cg8eih-1767354295826.jpg",
+        "location": "",
+        "point_id": "9cg8eih",
+        "point_name": "圆通寺公园",
+        "remark": "这个位置不准，没去过只能标一个点要是有人去了可以改位置更准一些，位置就是这个公园"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.662153,
+          34.539916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cgbbxa-1767354407154.jpg",
+        "location": "",
+        "point_id": "9cgbbxa",
+        "point_name": "圆通寺公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.662177,
+          34.539946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cgc0bn-1767354473764.jpg",
+        "location": "",
+        "point_id": "9cgc0bn",
+        "point_name": "圆通寺公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.92928,
+          34.662363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9ch9lff-1767355995633.jpg",
+        "location": "",
+        "point_id": "9ch9lff",
+        "point_name": "県庁通り",
+        "remark": "这个时间记不清了，各位可以补充，按照贴吧的说法是北海道小樽与冈山的结合"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996743,
+          43.198488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9chr1cs-1767356853222.jpg",
+        "location": "",
+        "point_id": "9chr1cs",
+        "point_name": "3丁目",
+        "remark": "右面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.99676,
+          43.198547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9ci17md-1767357307440.jpg",
+        "location": "",
+        "point_id": "9ci17md",
+        "point_name": "3丁目",
+        "remark": "女主就站着不动思考"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996767,
+          43.198554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9ci31in-1767357386577.jpg",
+        "location": "",
+        "point_id": "9ci31in",
+        "point_name": "3丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.001806,
+          43.196956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cii1wc-1767358270323.jpg",
+        "location": "",
+        "point_id": "9cii1wc",
+        "point_name": "似鳥美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.592893,
+          36.337376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cj26mw-1767359023156.jpg",
+        "location": "",
+        "point_id": "9cj26mw",
+        "point_name": "水门桥",
+        "remark": "10分钟都基本在这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593261,
+          36.337367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cj8xm9-1767359331450.jpg",
+        "location": "",
+        "point_id": "9cj8xm9",
+        "point_name": "水门桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593009,
+          36.33733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cjbt3g-1767359462951.jpg",
+        "location": "",
+        "point_id": "9cjbt3g",
+        "point_name": "水门桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.991193,
+          43.198651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "22",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9ckcuos-1767361229377.jpg",
+        "location": "",
+        "point_id": "9ckcuos",
+        "point_name": "船见板",
+        "remark": "情书经典位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.929723,
+          34.662382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9ckrbda-1767361893062.jpg",
+        "location": "",
+        "point_id": "9ckrbda",
+        "point_name": "路口",
+        "remark": "找到了的说，不在第二集"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.929696,
+          34.66283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9ckvsz5-1767362085800.jpg",
+        "location": "",
+        "point_id": "9ckvsz5",
+        "point_name": "冈山商业街",
+        "remark": "不知道具体位置，靠背是冈山"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996166,
+          43.198405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cnijy7-1767366493299.jpg",
+        "location": "",
+        "point_id": "9cnijy7",
+        "point_name": "中央通",
+        "remark": "就在这个人行道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.997318,
+          43.198903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "16",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cnyq67-1767367277698.jpg",
+        "location": "",
+        "point_id": "9cnyq67",
+        "point_name": "三丁目公交站前电话厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.998881,
+          43.199394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9coj9x2-1767368208598.jpg",
+        "location": "",
+        "point_id": "9coj9x2",
+        "point_name": "不动产门前",
+        "remark": "全在这个位置拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.998878,
+          43.199398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9com1tu-1767368365273.jpg",
+        "location": "",
+        "point_id": "9com1tu",
+        "point_name": "不动产门前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.99902,
+          43.199121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9convtp-1767368427877.jpg",
+        "location": "",
+        "point_id": "9convtp",
+        "point_name": "不动产对面",
+        "remark": "拍摄为50-85mm，马路对面拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.998747,
+          43.199321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9copc0z-1767368492432.jpg",
+        "location": "",
+        "point_id": "9copc0z",
+        "point_name": "不动产旁边",
+        "remark": "就马路旁边"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.998888,
+          43.199378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9coqdgj-1767368540652.jpg",
+        "location": "",
+        "point_id": "9coqdgj",
+        "point_name": "不动产门前",
+        "remark": "男主视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.998778,
+          43.199571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9corw6k-1767368621439.jpg",
+        "location": "",
+        "point_id": "9corw6k",
+        "point_name": "酒店门前",
+        "remark": "突起的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.99902,
+          43.199126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cou85y-1767368725221.jpg",
+        "location": "",
+        "point_id": "9cou85y",
+        "point_name": "不动产对面",
+        "remark": "跪下了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560654,
+          35.703622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cpdq4n-1767369635898.jpg",
+        "location": "",
+        "point_id": "9cpdq4n",
+        "point_name": "咖啡店前的树",
+        "remark": "树啊~~~~~~~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560929,
+          35.703613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cpg54g-1767369761619.jpg",
+        "location": "",
+        "point_id": "9cpg54g",
+        "point_name": "停车场前面人行道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560935,
+          35.703619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cphco1-1767369809487.jpg",
+        "location": "",
+        "point_id": "9cphco1",
+        "point_name": "停车场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560289,
+          35.703724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cpklxw-1767369960217.jpg",
+        "location": "",
+        "point_id": "9cpklxw",
+        "point_name": "银行",
+        "remark": "就在这里，没去不具体"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560478,
+          35.703487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cpvks5-1767370478075.jpg",
+        "location": "",
+        "point_id": "9cpvks5",
+        "point_name": "树前面",
+        "remark": "树啊树"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560381,
+          35.705288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cq969f-1767371108584.jpg",
+        "location": "",
+        "point_id": "9cq969f",
+        "point_name": "不动产前路口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593301,
+          36.337365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cqcvvj-1767371277022.jpg",
+        "location": "",
+        "point_id": "9cqcvvj",
+        "point_name": "海门桥",
+        "remark": "我只想要我的saki-狗头保命"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593366,
+          36.337357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cqef9b-1767371340219.jpg",
+        "location": "",
+        "point_id": "9cqef9b",
+        "point_name": "海门桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560416,
+          35.705065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cqjpbc-1767371597958.jpg",
+        "location": "",
+        "point_id": "9cqjpbc",
+        "point_name": "咖啡店",
+        "remark": "家人们觉得我会去咖啡馆嘛"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560496,
+          35.705066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cql3j8-1767371660483.jpg",
+        "location": "",
+        "point_id": "9cql3j8",
+        "point_name": "咖啡店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560392,
+          35.705022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cqn6o2-1767371753824.jpg",
+        "location": "",
+        "point_id": "9cqn6o2",
+        "point_name": "咖啡店路口",
+        "remark": "现实只有路口，没有小巷，不会像蕾塞一样被刀子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.56032,
+          35.705025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "21",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cqq8tb-1767371905469.jpg",
+        "location": "",
+        "point_id": "9cqq8tb",
+        "point_name": "咖啡店转角",
+        "remark": "没有小巷~~~~~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.998986,
+          43.199059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cr728a-1767372710410.jpg",
+        "location": "",
+        "point_id": "9cr728a",
+        "point_name": "房地产对面路口",
+        "remark": "boss观察地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561003,
+          35.700414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9crl09g-1767373412624.jpg",
+        "location": "",
+        "point_id": "9crl09g",
+        "point_name": "ktv",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561076,
+          35.700356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9crnjvf-1767373459743.jpg",
+        "location": "",
+        "point_id": "9crnjvf",
+        "point_name": "ktv对面",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.56101,
+          35.700514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9croscc-1767373498100.jpg",
+        "location": "",
+        "point_id": "9croscc",
+        "point_name": "ktv前面",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560996,
+          35.700431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cs5l6b-1767374306154.jpg",
+        "location": "",
+        "point_id": "9cs5l6b",
+        "point_name": "ktv男上加男",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560989,
+          35.7005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cs7g0x-1767374378046.jpg",
+        "location": "",
+        "point_id": "9cs7g0x",
+        "point_name": "ktv",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996806,
+          43.198735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cs92pl-1767374460093.jpg",
+        "location": "",
+        "point_id": "9cs92pl",
+        "point_name": "3丁目",
+        "remark": "boss            ss"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.996809,
+          43.198711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9csa31o-1767374504691.jpg",
+        "location": "",
+        "point_id": "9csa31o",
+        "point_name": "3丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.99686,
+          43.198707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9csb8ge-1767374546500.jpg",
+        "location": "",
+        "point_id": "9csb8ge",
+        "point_name": "3丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.92969,
+          34.662457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cscd2s-1767374605565.jpg",
+        "location": "",
+        "point_id": "9cscd2s",
+        "point_name": "冈山商业街",
+        "remark": "看桌椅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.590838,
+          36.337241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "23",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9csghm2-1767374806563.jpg",
+        "location": "",
+        "point_id": "9csghm2",
+        "point_name": "水门桥人行道",
+        "remark": "由于动漫下公交车站就是桥的交叉路口，然而现实没有直接链接，而是在桥下的人行道，就只能这里了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.590785,
+          36.33783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "23",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9csjiq5-1767374935196.jpg",
+        "location": "",
+        "point_id": "9csjiq5",
+        "point_name": "水门桥下路口",
+        "remark": "由于动漫公交车站背面是平地，还是草地，但现实没有公交车站，以及后面都是房子和海，考虑主角们下车就到路口，选择这里，如果有现实取景请更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.591405,
+          36.337183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": "23",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9csnmd4-1767375127782.jpg",
+        "location": "",
+        "point_id": "9csnmd4",
+        "point_name": "水道桥",
+        "remark": "不用多说"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.975504,
+          43.207263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193378,
+        "bangumi_title": "重启咲良田",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193378/points/9cttqkd-1767377157222.jpg",
+        "location": "",
+        "point_id": "9cttqkd",
+        "point_name": "長橋バイパス",
+        "remark": "还有一个取景城市总社市，这里基本都是乡下取景来自贴吧心优"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

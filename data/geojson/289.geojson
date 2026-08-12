@@ -1,0 +1,545 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.909161,
+          36.260633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/2ar4ldv-1723721976927.jpg",
+        "location": "",
+        "point_id": "2ar4ldv",
+        "point_name": "雛見沢を見下ろす展望台",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/615.html\n煌"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905817,
+          36.25476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/289/2ar4lga_1723720519866_half.jpg",
+        "location": "",
+        "point_id": "2ar4lga",
+        "point_name": "古手神社",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/633.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908644,
+          36.259594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/289/2ar4lf7_1723720003251.jpg",
+        "location": "",
+        "point_id": "2ar4lf7",
+        "point_name": "鉄平宅 (沙都子の家)",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/644.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903083,
+          36.27971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/289/2ar4lfl_1723725247165.jpg",
+        "location": "",
+        "point_id": "2ar4lfl",
+        "point_name": "白川クリーンセンター",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/657.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902929,
+          36.279385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/289/n8w5sqzbg_1723725697392.jpg",
+        "location": "",
+        "point_id": "n8w5sqzbg",
+        "point_name": "白川クリーンセンター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905829,
+          36.25471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/289/points/lqgp4tudk-1719460403481.jpg",
+        "location": "",
+        "point_id": "lqgp4tudk",
+        "point_name": "白川八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907511,
+          36.26035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8svjibsv-1723718541367.jpg",
+        "location": "",
+        "point_id": "n8svjibsv",
+        "point_name": "和田家 周辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905652,
+          36.254877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8tc4aj6l-1723719545451.jpg",
+        "location": "",
+        "point_id": "n8tc4aj6l",
+        "point_name": "二の鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905715,
+          36.254841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/289/n8vxlg6fj_1723725192174.jpg",
+        "location": "",
+        "point_id": "n8vxlg6fj",
+        "point_name": "白川八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905689,
+          36.254708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8tdq86io-1723719650326.jpg",
+        "location": "",
+        "point_id": "n8tdq86io",
+        "point_name": "荻町八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907932,
+          36.262982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uhjqoa8-1723722060186.jpg",
+        "location": "",
+        "point_id": "n8uhjqoa8",
+        "point_name": "嘘だ坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907128,
+          36.263072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uixawub-1723722126338.jpg",
+        "location": "",
+        "point_id": "n8uixawub",
+        "point_name": "荻町城跡展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906302,
+          36.255928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8ujxz3fd-1723722193985.jpg",
+        "location": "",
+        "point_id": "n8ujxz3fd",
+        "point_name": "明善寺 付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906684,
+          36.255811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8ulau3z7-1723722270063.jpg",
+        "location": "",
+        "point_id": "n8ulau3z7",
+        "point_name": "明善寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906315,
+          36.255937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8ulndw5h-1723722291251.jpg",
+        "location": "",
+        "point_id": "n8ulndw5h",
+        "point_name": "明善寺 付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905543,
+          36.257367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8ut1soft-1723722743177.jpg",
+        "location": "",
+        "point_id": "n8ut1soft",
+        "point_name": "本覺寺前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.90643,
+          36.256849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uucti50-1723722818051.jpg",
+        "location": "",
+        "point_id": "n8uucti50",
+        "point_name": "山楽堂裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906438,
+          36.256819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uut6moj-1723722845024.jpg",
+        "location": "",
+        "point_id": "n8uut6moj",
+        "point_name": "山楽堂裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906459,
+          36.256721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uxlrdj6-1723723017526.jpg",
+        "location": "",
+        "point_id": "n8uxlrdj6",
+        "point_name": "山楽堂裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.907659,
+          36.25616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8uyd97im-1723723060449.jpg",
+        "location": "",
+        "point_id": "n8uyd97im",
+        "point_name": "かんじや",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906567,
+          36.255409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8vdkqkwz-1723723984017.jpg",
+        "location": "",
+        "point_id": "n8vdkqkwz",
+        "point_name": "久松 付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906346,
+          36.257665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8ve45vjo-1723724021628.jpg",
+        "location": "",
+        "point_id": "n8ve45vjo",
+        "point_name": "さとう民芸品店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908459,
+          36.259727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/289/n8vqpldp4_1723724788429.jpg",
+        "location": "",
+        "point_id": "n8vqpldp4",
+        "point_name": "レナの家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908976,
+          36.259958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/289/n8vu7sy80_1723724994183.jpg",
+        "location": "",
+        "point_id": "n8vu7sy80",
+        "point_name": "梨花の家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902311,
+          36.255122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "u3z5savhg",
+        "point_name": "合掌造り民家園",
+        "remark": "animetourism88 圣地巡礼印章收集点（寒蝉鸣泣之时），印章位于合掌造り民家園入口购票窗口旁"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906878,
+          36.261999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "u3yzsxj46",
+        "point_name": "白川郷​バス​ターミナル",
+        "remark": "游客观光中心可以领取寒蝉卒/业的圣地巡礼地图一份"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905809,
+          36.254755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 289,
+        "bangumi_title": "寒蝉鸣泣之时",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/289/points/8s6ralh-1766129084784.jpg",
+        "location": "",
+        "point_id": "8s6ralh",
+        "point_name": "白川八幡宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

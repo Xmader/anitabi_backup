@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          115.488929,
+          33.863042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 391457,
+        "bangumi_title": "绍宋",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/391457/points/npa7zi8ej-1725010184951.jpg",
+        "location": "",
+        "point_id": "npa7zi8ej",
+        "point_name": "明道宫",
+        "remark": "历史穿越向小说改漫画《绍宋》，主角在第一话由明道宫井中魂穿，穿至同样跌入井里的宋高宗赵构之身。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.784843,
+          32.63521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 391457,
+        "bangumi_title": "绍宋",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/391457/points/npaeo81kj-1725010543816.jpg",
+        "location": "",
+        "point_id": "npaeo81kj",
+        "point_name": "八公山国家森林公园",
+        "remark": "历史穿越向小说改漫画《绍宋》，主角于八公山否决绥靖的整体战略，决定尝试向金国反攻。画面右侧为寿县古城，但漫画视角具体位置不详。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.752315,
+          42.743351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526514,
+        "bangumi_title": "缚戎人：唐建中十三年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/526514/sjgxsdtsf_1738662210796.jpg",
+        "location": "",
+        "point_id": "sjgxsdtsf",
+        "point_name": "柳中城遗址",
+        "remark": "又名柳城、鲁陈，故址在今吐鲁番市鄯善县鲁克沁镇。唐贞观十四年(640年)，灭高昌改置柳中县，属西州。唐贞元八年/西域建中十三年(792年)，地入吐蕃。现城墙仅存古城西南角50余米一段。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

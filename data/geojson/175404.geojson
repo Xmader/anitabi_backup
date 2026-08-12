@@ -1,0 +1,625 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.680097,
+          35.662104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/175404/points/51i5dzn7x-1743270324308.jpg",
+        "location": "",
+        "point_id": "51i5dzn7x",
+        "point_name": "旧前田侯爵邸洋館",
+        "remark": "御原家(りんねの家)の外観モデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255262,
+          34.372756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/cbd3ede0_1733389419871.jpg",
+        "location": "新島中心部",
+        "point_id": "cbd3ede0",
+        "point_name": "勤労福祉会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255797,
+          34.371514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/df4efe8b_1733389434032.jpg",
+        "location": "新島中心部",
+        "point_id": "df4efe8b",
+        "point_name": "十字路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255474,
+          34.374262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/33fc8516_1733389450062.jpg",
+        "location": "新島中心部",
+        "point_id": "33fc8516",
+        "point_name": "森田商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255083,
+          34.374804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/b5dce3c5_1733389463496.jpg",
+        "location": "新島中心部",
+        "point_id": "b5dce3c5",
+        "point_name": "栄寿司",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.254739,
+          34.37495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/529f2c8a_1733389477159.jpg",
+        "location": "新島中心部",
+        "point_id": "529f2c8a",
+        "point_name": "エレガンス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.254065,
+          34.373142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/8bc9669e_1733389488764.jpg",
+        "location": "新島中心部",
+        "point_id": "8bc9669e",
+        "point_name": "MARUMAN",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.252861,
+          34.372445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/5085f48a_1733389501454.jpg",
+        "location": "新島中心部",
+        "point_id": "5085f48a",
+        "point_name": "Jレンタ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.256907,
+          34.37903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/655e2c93_1733389513368.jpg",
+        "location": "新島中心部",
+        "point_id": "655e2c93",
+        "point_name": "十三社神社近く①",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255843,
+          34.379291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/ce356a4a_1733389524871.jpg",
+        "location": "新島中心部",
+        "point_id": "ce356a4a",
+        "point_name": "十三社神社近く②",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.259573,
+          34.375159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/60c42499_1733389540906.jpg",
+        "location": "新島中心部",
+        "point_id": "60c42499",
+        "point_name": "コーガ石波ロード",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.258412,
+          34.369665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/8758fede_1733389554356.jpg",
+        "location": "新島中心部",
+        "point_id": "8758fede",
+        "point_name": "新島高校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.255717,
+          34.369777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/09dccf0d_1733389566950.jpg",
+        "location": "新島中心部",
+        "point_id": "09dccf0d",
+        "point_name": "青峰山展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.243095,
+          34.369385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/909fcb10_1733389587579.jpg",
+        "location": "新島西部",
+        "point_id": "909fcb10",
+        "point_name": "新島港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.243681,
+          34.366621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/8f143826_1733389599343.jpg",
+        "location": "新島西部",
+        "point_id": "8f143826",
+        "point_name": "風と光と波の塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.242494,
+          34.364106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/74af8b4b_1733389611709.jpg",
+        "location": "新島西部",
+        "point_id": "74af8b4b",
+        "point_name": "湯の浜露天温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.244218,
+          34.366083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/823b1e75_1733389625435.jpg",
+        "location": "新島西部",
+        "point_id": "823b1e75",
+        "point_name": "誓いの塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.247513,
+          34.369471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/baa195b3_1733389637095.jpg",
+        "location": "新島西部",
+        "point_id": "baa195b3",
+        "point_name": "黒根港",
+        "remark": "連絡船発着場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.251174,
+          34.373638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/d77295c5_1733389648285.jpg",
+        "location": "新島西部",
+        "point_id": "d77295c5",
+        "point_name": "前浜海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.250227,
+          34.371613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/67330ae2_1733389661107.jpg",
+        "location": "新島西部",
+        "point_id": "67330ae2",
+        "point_name": "前浜海岸広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.251009,
+          34.372385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/745e9c5b_1733389679507.jpg",
+        "location": "新島西部",
+        "point_id": "745e9c5b",
+        "point_name": "前浜海岸周辺①",
+        "remark": "モヤイ像"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.252047,
+          34.373465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/75df330a_1733389697261.jpg",
+        "location": "新島西部",
+        "point_id": "75df330a",
+        "point_name": "前浜海岸周辺②",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.256343,
+          34.385858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/89be800a_1733389711690.jpg",
+        "location": "新島西部",
+        "point_id": "89be800a",
+        "point_name": "水平線に沈む夕日を眺める丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.273507,
+          34.378054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/59f68be2_1733389778269.jpg",
+        "location": "新島東部",
+        "point_id": "59f68be2",
+        "point_name": "羽伏浦公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.275539,
+          34.37646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/3c71f8f3_1733389793295.jpg",
+        "location": "新島東部",
+        "point_id": "3c71f8f3",
+        "point_name": "羽伏浦海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.274534,
+          34.376266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/5b6f9a7e_1733389805968.jpg",
+        "location": "新島東部",
+        "point_id": "5b6f9a7e",
+        "point_name": "羽伏浦海岸近く",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.269438,
+          34.374291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/e8645051_1733389821830.jpg",
+        "location": "新島東部",
+        "point_id": "e8645051",
+        "point_name": "潮見広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.273735,
+          34.361691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/92f5bfe5_1733389834027.jpg",
+        "location": "新島東部",
+        "point_id": "92f5bfe5",
+        "point_name": "シークレット",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.281666,
+          34.395991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/a104e46b_1733389857343.jpg",
+        "location": "新島東部",
+        "point_id": "a104e46b",
+        "point_name": "羽伏浦港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.283506,
+          34.423406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/845fc25c_1733389891934.jpg",
+        "location": "新島北部",
+        "point_id": "845fc25c",
+        "point_name": "宮造神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.281901,
+          34.420165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175404,
+        "bangumi_title": "ISLAND",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/175404/acc2a77a_1733389908677.jpg",
+        "location": "新島北部",
+        "point_id": "acc2a77a",
+        "point_name": "若郷駐在所",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

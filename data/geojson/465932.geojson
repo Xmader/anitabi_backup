@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.747042,
+          35.676249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465932,
+        "bangumi_title": "布莱泽奥特曼 大电影 大怪兽东京决战",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465932/points/r8wdvgaq7-1735010636314.jpg",
+        "location": "",
+        "point_id": "r8wdvgaq7",
+        "point_name": "国会議事堂",
+        "remark": "布莱泽奥特曼与妖骸魔兽贡吉尔刚的最终决战地，后在战斗中损毁"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.133892,
+          39.701554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325638,
+        "bangumi_title": "新干线变形机器人Z",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/325638/points/fas8rpi-1780314215820.jpg",
+        "location": "",
+        "point_id": "fas8rpi",
+        "point_name": "マリオス 20階展望室",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

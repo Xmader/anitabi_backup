@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          130.576029,
+          30.363767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 310,
+        "bangumi_title": "幽灵公主",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omvzn",
+        "point_name": "苔むす森",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.576029,
+          30.363767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 310,
+        "bangumi_title": "幽灵公主",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/310/points/as4nr0r7r-1688558804167.jpg",
+        "location": "",
+        "point_id": "as4nr0r7r",
+        "point_name": "苔むす森",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

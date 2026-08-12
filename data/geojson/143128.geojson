@@ -1,0 +1,785 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          130.753103,
+          32.212935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihpvl1op8-1710311898379.jpg",
+        "location": "御一夜",
+        "point_id": "ihpvl1op8",
+        "point_name": "青井阿苏神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.750999,
+          32.214942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihq02dbxa-1710312243075.jpg",
+        "location": "御一夜",
+        "point_id": "ihq02dbxa",
+        "point_name": "人吉駅石造車庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.751429,
+          32.214734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihq51393n-1710312385776.jpg",
+        "location": "御一夜",
+        "point_id": "ihq51393n",
+        "point_name": "人吉铁道博物馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.757439,
+          32.213988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihq6swxyg-1710312632641.jpg",
+        "location": "御一夜",
+        "point_id": "ihq6swxyg",
+        "point_name": "公衆温泉 新温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.755101,
+          32.212915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihqawdaxs-1710312768238.jpg",
+        "location": "御一夜",
+        "point_id": "ihqawdaxs",
+        "point_name": "熊本銀行",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.759858,
+          32.21502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihqerozhs-1710312953074.jpg",
+        "location": "御一夜",
+        "point_id": "ihqerozhs",
+        "point_name": "(資)渕田酒造場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.753377,
+          32.21584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ihqhleyjr-1710313192820.jpg",
+        "location": "御一夜",
+        "point_id": "ihqhleyjr",
+        "point_name": "人吉駅",
+        "remark": "因2020年水灾导致铁路停运，无法进入站台范围，但是可在跨线天桥上俯瞰"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.799409,
+          32.205657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ij5qi0q0r-1710424670130.jpg",
+        "location": "御一夜",
+        "point_id": "ij5qi0q0r",
+        "point_name": "球磨川第四大桥",
+        "remark": "此桥已于2020年毁于洪水"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.80002,
+          32.205036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne7isfysi_1724142240681.jpg",
+        "location": "御一夜",
+        "point_id": "ne7isfysi",
+        "point_name": "球磨川第四大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.766995,
+          32.214325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ij5utjl9j-1710424887538.jpg",
+        "location": "御一夜",
+        "point_id": "ij5utjl9j",
+        "point_name": "HASSENBAHITOYOSHI ​KUMAGAWA",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.7669,
+          32.214483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ij70irjxy-1710427406675.jpg",
+        "location": "御一夜",
+        "point_id": "ij70irjxy",
+        "point_name": "HASSENBA\nHITOYOSHI ​KUMAGAWA",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.760511,
+          32.216383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ij5x3ll6h-1710425037709.jpg",
+        "location": "御一夜",
+        "point_id": "ij5x3ll6h",
+        "point_name": "立山商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.75394,
+          32.215969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne7ccmi7d_1724142098767.jpg",
+        "location": "御一夜",
+        "point_id": "ne7ccmi7d",
+        "point_name": "くま鉄​ゲストハウス​くま​たび",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.75234,
+          32.215888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne7ha2cso_1724142147421.jpg",
+        "location": "御一夜",
+        "point_id": "ne7ha2cso",
+        "point_name": "くま川鉄道車庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.753728,
+          32.21625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne7watkbb_1724143067673.jpg",
+        "location": "御一夜",
+        "point_id": "ne7watkbb",
+        "point_name": "人吉温泉駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.772033,
+          32.214865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/jg2thenrp_1713004320882.jpg",
+        "location": "御一夜",
+        "point_id": "jg2thenrp",
+        "point_name": 29,
+        "remark": "此场景位于裸露的河床上，请勿擅自下水"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.979963,
+          32.281529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ij5vypyiy-1710424958271.jpg",
+        "location": "",
+        "point_id": "ij5vypyiy",
+        "point_name": "湯前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.62149,
+          32.503833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ij5zt7x4h-1710425198713.jpg",
+        "location": "",
+        "point_id": "ij5zt7x4h",
+        "point_name": "八代駅",
+        "remark": "具体位置在JR九州的八代站1站台，牌子目前已无，拆除前位置在通往2、3站台的天桥附近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.253105,
+          32.635174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ijzddjk6i-1710489158586.jpg",
+        "location": "",
+        "point_id": "ijzddjk6i",
+        "point_name": "废弃车站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.220346,
+          31.893208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne7jt5dns_1724142305438.jpg",
+        "location": "",
+        "point_id": "ne7jt5dns",
+        "point_name": "薩摩高城駅",
+        "remark": "由萨摩高城站下车，往海岸方向走100米即可看到面向大海的椅子，不过这个椅子和CG略有不同"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.250696,
+          32.648697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ik0kztikr-1710491866913.jpg",
+        "location": "",
+        "point_id": "ik0kztikr",
+        "point_name": "島原鉄道の旧常光寺前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.361302,
+          33.265718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/ix92dd67h-1711528975337.jpg",
+        "location": "",
+        "point_id": "ix92dd67h",
+        "point_name": "中央児童公園",
+        "remark": "蒸汽机车已经被转移到岩下コレクション，现在公园包括铁轨里什么都没有"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618064,
+          35.921091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/inhizz1y5-1710763751527.jpg",
+        "location": "",
+        "point_id": "inhizz1y5",
+        "point_name": "鉄道博物館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.71862,
+          38.745147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/is4ri6tqm-1711127850218.jpg",
+        "location": "",
+        "point_id": "is4ri6tqm",
+        "point_name": "鳴子镇",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.157544,
+          33.281525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne7y08t0z_1724143168509.jpg",
+        "location": "",
+        "point_id": "ne7y08t0z",
+        "point_name": "豊後森​機関​庫​公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.610065,
+          40.053858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/iryj9ytfw-1711114235245.jpg",
+        "location": "仲国线",
+        "point_id": "iquhqyl9s",
+        "point_name": "首都机场T3楼",
+        "remark": "实际取景地在三号航站楼一层东部大厅海关处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.509757,
+          39.99627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/inhqaetg9-1710764216538.jpg",
+        "location": "仲国线",
+        "point_id": "inhqaetg9",
+        "point_name": "中国鉄道博物館「東郊館」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.419457,
+          39.902141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/iryk1vxy3-1711172298658.jpg",
+        "location": "仲国线",
+        "point_id": "iryk1vxy3",
+        "point_name": "北京站售票厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.419208,
+          39.901456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/iryl5xa2n-1711114357220.jpg",
+        "location": "仲国线",
+        "point_id": "iryl5xa2n",
+        "point_name": "北京站三站台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.365231,
+          30.660392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/iryi6vzga-1711114168130.jpg",
+        "location": "仲国线",
+        "point_id": "iryi6vzga",
+        "point_name": "宜昌東駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.947717,
+          30.55995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/irybptie5-1711113792792.jpg",
+        "location": "仲国线",
+        "point_id": "irybptie5",
+        "point_name": "成都​双​流​国際​空港",
+        "remark": "原址目前正在改造，暂时无法巡回"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.13561,
+          30.742294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/iryd1m6dm-1711113863055.jpg",
+        "location": "仲国线",
+        "point_id": "iryd1m6dm",
+        "point_name": "成都大熊猫繁育研究基地",
+        "remark": "在太阳产房进大门牌的右手边，募捐点的左手边，但熊猫幼稚园牌已拆，并且现场摆放了铁马"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.946414,
+          29.205722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/iryfr8h79-1711114040412.jpg",
+        "location": "仲国线",
+        "point_id": "iryfr8h79",
+        "point_name": "犍为县城",
+        "remark": "路面已修整完毕，现已恢复原样"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.771691,
+          29.216647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143128/points/iqu554ifz-1711026306651.jpg",
+        "location": "仲国线",
+        "point_id": "iqu554ifz",
+        "point_name": "嘉阳小火车 亮水沱",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.602224,
+          32.888167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne8al3f0r_1724143970597.jpg",
+        "location": "池岛煤矿",
+        "point_id": "ne8al3f0r",
+        "point_name": "池岛煤矿矿车线路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.602477,
+          32.886324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne8h7o1xr_1724144339792.jpg",
+        "location": "池岛煤矿",
+        "point_id": "ne8h7o1xr",
+        "point_name": "池岛煤矿沉淀池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.593509,
+          32.881957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143128/ne9gqwayz_1724146509392.jpg",
+        "location": "池岛煤矿",
+        "point_id": "ne9gqwayz",
+        "point_name": "池岛煤炭废弃宿舍",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.075774,
+          30.661059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/3b1kr1u-1754208516410.jpg",
+        "location": "",
+        "point_id": "3b1kr1u",
+        "point_name": "老成都客栈",
+        "remark": "最基本的大床房分黄色和蓝色两种规格"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.94713,
+          29.204983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143128,
+        "bangumi_title": "爱上火车",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/143128/points/3d2wzrt-1754331678575.jpg",
+        "location": "",
+        "point_id": "3d2wzrt",
+        "point_name": "随便吃饭店",
+        "remark": "店铺标志性很强，整个店面都是红色的\n搜这个名字也许找不到，对面有一家百豪会所也许有帮助"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

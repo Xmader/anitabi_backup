@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.745007,
+          35.702068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300431,
+        "bangumi_title": "少年的深渊",
+        "ep_cut": "114",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300431/points/nxh0540ca-1725651905985.jpg",
+        "location": "少年的深渊",
+        "point_id": "nxh0540ca",
+        "point_name": "飯田橋",
+        "remark": "依据是最后一幅画上面有个JR飯的字样，而且打开实景地图后一模一样"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.91023,
+          33.429817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300431,
+        "bangumi_title": "少年的深渊",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300431/points/t0xxaab87-1740030789256.jpg",
+        "location": "",
+        "point_id": "t0xxaab87",
+        "point_name": "小鹿田焼の里",
+        "remark": "筱岡所住的以制陶闻名的村落"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.920578,
+          33.326262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300431,
+        "bangumi_title": "少年的深渊",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300431/points/t0yqw7ekg-1740031254653.jpg",
+        "location": "",
+        "point_id": "t0yqw7ekg",
+        "point_name": "光岡橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.919715,
+          33.328864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300431,
+        "bangumi_title": "少年的深渊",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300431/points/t0yw7a6fg-1740031434918.jpg",
+        "location": "",
+        "point_id": "t0yw7a6fg",
+        "point_name": "ミニストップ\n日田​光岡​店",
+        "remark": "凪打工的便利店"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,545 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.403373,
+          35.652702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qvse-1673608607240.jpg",
+        "location": "#01「さばんなちほー」，#02「じゃんぐるちほー」",
+        "point_id": "51i53qvse",
+        "point_name": "多摩動物公園 サーバルキャット舎",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.508775,
+          34.653664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qwfw-1673608704156.jpg",
+        "location": "#01「さばんなちほー」，#02「じゃんぐるちほー」",
+        "point_id": "51i53qwfw",
+        "point_name": "天王寺動物園 ジャガー舎",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710109,
+          36.022701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qwd1-1673608732456.jpg",
+        "location": "#01「さばんなちほー」，#02「じゃんぐるちほー」",
+        "point_id": "51i53qwd1",
+        "point_name": "東武動物公園 小動物舎（コツメカワウソ）",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.42104,
+          38.037187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qxp3-1673608775621.jpg",
+        "location": "#03「こうざん」，#04「さばくちほー」，#05「こはん」",
+        "point_id": "51i53qxp3",
+        "point_name": "佐渡市トキの森公園",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.047327,
+          37.126244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qygl-1673608814410.jpg",
+        "location": "#03「こうざん」，#04「さばくちほー」，#05「こはん」",
+        "point_id": "51i53qygl",
+        "point_name": "那須アルパカ牧場",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.315068,
+          35.638356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "#03「こうざん」，#04「さばくちほー」，#05「こはん」",
+        "point_id": "51i53qy7d",
+        "point_name": "つちのこ舘",
+        "remark": "#04（※背景モデルは実在しないので、参考）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708355,
+          36.022785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qy96-1673608869358.jpg",
+        "location": "#03「こうざん」，#04「さばくちほー」，#05「こはん」",
+        "point_id": "51i53qy96",
+        "point_name": "東武動物公園 アメリカビーバー舎",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.858438,
+          35.670955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qyco-1673608876304.jpg",
+        "location": "#03「こうざん」，#04「さばくちほー」，#05「こはん」",
+        "point_id": "51i53qyco",
+        "point_name": "江戸川区自然動物園 オグロプレーリードッグ舎",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709685,
+          36.022552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qzzo-1673608925410.jpg",
+        "location": "#06「へいげんちほー」，#07「じゃぱりとしょかん」",
+        "point_id": "51i53qzzo",
+        "point_name": "東武動物公園 ライオン舎",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.664706,
+          35.549806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qzmn-1673608934268.jpg",
+        "location": "#06「へいげんちほー」，#07「じゃぱりとしょかん」",
+        "point_id": "51i53qzmn",
+        "point_name": "夢見ヶ崎動物公園 ラマ舎（旧ヘラジカ舎）",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706164,
+          36.02338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53qzo7-1673611215034.jpg",
+        "location": "#06「へいげんちほー」，#07「じゃぱりとしょかん」",
+        "point_id": "51i53qzo7",
+        "point_name": "東武動物公園 シロフクロウ舎",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711586,
+          35.726918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53r09q-1673611198443.jpg",
+        "location": "#06「へいげんちほー」，#07「じゃぱりとしょかん」",
+        "point_id": "51i53r09q",
+        "point_name": "いけふくろうカフェ",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.878142,
+          35.090632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53r09v-1673611259657.jpg",
+        "location": "#08「ぺぱぷらいぶ」，#09「ゆきやまちほー」",
+        "point_id": "51i53r09v",
+        "point_name": "名古屋港水族館",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.530372,
+          38.040859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53r12d-1673611306125.jpg",
+        "location": "#08「ぺぱぷらいぶ」，#09「ゆきやまちほー」",
+        "point_id": "51i53r12d",
+        "point_name": "宮城蔵王キツネ村",
+        "remark": "#09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709897,
+          36.020572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53r1gi-1673611363895.jpg",
+        "location": "#10「ろっじ」，#11「せるりあん」",
+        "point_id": "51i53r1gi",
+        "point_name": "キリンのオウチ",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708733,
+          36.022206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/176478/points/51i53r0w8-1673611416724.jpg",
+        "location": "#10「ろっじ」，#11「せるりあん」",
+        "point_id": "51i53r0w8",
+        "point_name": "ヒグマの森",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484621,
+          35.666039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r2nh_1753091843469.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r2nh",
+        "point_name": "府中競馬正門前駅 連絡橋",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484632,
+          35.665473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r3sy_1753092158284.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r3sy",
+        "point_name": "3Fスタンド入口",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484927,
+          35.665264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r39i_1753092233550.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r39i",
+        "point_name": "馬モニュメント",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483999,
+          35.665368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r3ia_1753092205628.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r3ia",
+        "point_name": "3Fフロア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483699,
+          35.66507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r389_1753092519069.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r389",
+        "point_name": "ウエストホール",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483012,
+          35.665551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/lqfm212th_1753092187998.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "lqfm212th",
+        "point_name": "1F パドック",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488301,
+          35.665377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r36w_1753092256943.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r36w",
+        "point_name": "日吉が丘公園",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489943,
+          35.664575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r3w1_1753092305086.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r3w1",
+        "point_name": "乗馬センター",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483731,
+          35.664322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r3c3_1753092445061.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r3c3",
+        "point_name": "東京競馬場コース",
+        "remark": "#EX02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630823,
+          35.894761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r4kj_1753092451509.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r4kj",
+        "point_name": "さいたまスーパーアリーナ",
+        "remark": "#EX03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630373,
+          35.894196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 176478,
+        "bangumi_title": "动物朋友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/176478/51i53r42y_1753092459669.jpg",
+        "location": "#EX02「けいばじょう」，#EX03「あにさま」",
+        "point_id": "51i53r42y",
+        "point_name": "さいたまスーパーアリーナ Aゲート",
+        "remark": "#EX03"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

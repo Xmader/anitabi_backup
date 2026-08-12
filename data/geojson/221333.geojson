@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          119.46979,
+          29.211254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221333,
+        "bangumi_title": "昨日青空",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1120/bangumi/221333/points/lpaa5zaxy-1719368046529.jpg",
+        "location": "",
+        "point_id": "lpaa5zaxy",
+        "point_name": "西门城楼",
+        "remark": "兰江路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.470068,
+          29.210716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221333,
+        "bangumi_title": "昨日青空",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1120/bangumi/221333/points/lpamtckgv-1719368904147.jpg",
+        "location": "",
+        "point_id": "lpamtckgv",
+        "point_name": "兰江浮桥",
+        "remark": "为通航需求已拆除此岸浮桥，但对岸仍有三座浮桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.475042,
+          29.216044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221333,
+        "bangumi_title": "昨日青空",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1120/bangumi/221333/points/lpa38jcvq-1719367766146.jpg",
+        "location": "",
+        "point_id": "lpa38jcvq",
+        "point_name": "兰溪火车站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.479964,
+          29.205482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221333,
+        "bangumi_title": "昨日青空",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1120/bangumi/221333/points/lpakowb2y-1719368674708.jpg",
+        "location": "",
+        "point_id": "lpakowb2y",
+        "point_name": "云山电视塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.477878,
+          29.209037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221333,
+        "bangumi_title": "昨日青空",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1120/bangumi/221333/points/lpg5ptu1a-1719380874527.jpg",
+        "location": "文化墙",
+        "point_id": "lpg5ptu1a",
+        "point_name": "昨日青空文化墙",
+        "remark": "位于兰溪二中旁边小巷一整条巷子都是"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

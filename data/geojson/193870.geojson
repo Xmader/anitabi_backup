@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.209207,
+          30.244849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193870,
+        "bangumi_title": "国民老公带回家",
+        "ep_cut": "05",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193870/points/4cirumg-1756474630317.jpg",
+        "location": "",
+        "point_id": "4cirumg",
+        "point_name": "杭州市国际会议中心",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.389909,
+          39.991425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193870,
+        "bangumi_title": "国民老公带回家",
+        "ep_cut": "01",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/193870/points/4ci35fm-1756473555870.jpg",
+        "location": "",
+        "point_id": "4ci35fm",
+        "point_name": "鸟巢文化中心",
+        "remark": "OP(北京奥运会召开时鸟巢内某处)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

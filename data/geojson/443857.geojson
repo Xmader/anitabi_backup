@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.146923,
+          30.260756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 443857,
+        "bangumi_title": "白蛇：浮生",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/443857/points/pi9u3qgcw-1730102994772.jpg",
+        "location": "",
+        "point_id": "pi9u3qgcw",
+        "point_name": "断桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.410864,
+          32.217458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 443857,
+        "bangumi_title": "白蛇：浮生",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/443857/points/pj742zugk-1730175450832.jpg",
+        "location": "",
+        "point_id": "pj742zugk",
+        "point_name": "金山寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

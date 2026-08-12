@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.137545,
+          30.253235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 397481,
+        "bangumi_title": "被你忘记的那个夏天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/397481/ha30fs1_1784625420816.webp",
+        "location": "",
+        "point_id": "ha30fs1",
+        "point_name": "孤山石碑及台阶",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.144749,
+          30.258265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 397481,
+        "bangumi_title": "被你忘记的那个夏天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/397481/ha2yfqc_1784625294060.webp",
+        "location": "",
+        "point_id": "ha2yfqc",
+        "point_name": "北山街（白堤）",
+        "remark": "在白堤上，面向北山街、保俶塔方向"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.131675,
+          30.228016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 397481,
+        "bangumi_title": "被你忘记的那个夏天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/397481/ha34v2p_1784625594484.webp",
+        "location": "",
+        "point_id": "ha34v2p",
+        "point_name": "武状元坊",
+        "remark": "游戏宣传图"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

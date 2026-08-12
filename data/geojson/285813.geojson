@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -118.321626,
+          34.134095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285813,
+        "bangumi_title": "大欺诈师",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285813/points/fj7cube-1780823451198.jpg",
+        "location": "洛杉矶",
+        "point_id": "fj7cube",
+        "point_name": "Hollywood Sign",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.40354,
+          34.07242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285813,
+        "bangumi_title": "大欺诈师",
+        "ep_cut": "01",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285813/points/fj811sz-1780824485642.jpg",
+        "location": "洛杉矶",
+        "point_id": "fj811sz",
+        "point_name": "Beverly Hills Sign",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.408287,
+          33.94393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285813,
+        "bangumi_title": "大欺诈师",
+        "ep_cut": "01",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285813/points/fj7o0c0-1780823894884.jpg",
+        "location": "洛杉矶",
+        "point_id": "fj7o0c0",
+        "point_name": "Tom Bradley International Terminal",
+        "remark": "洛杉矶国际机场汤姆·布拉德利国际航站楼的到达出口，位于机场一楼。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.246274,
+          34.054858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285813,
+        "bangumi_title": "大欺诈师",
+        "ep_cut": "02",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285813/points/fj86zk7-1780824745788.jpg",
+        "location": "洛杉矶",
+        "point_id": "fj86zk7",
+        "point_name": "Los Angeles County Superior Court Stanley Mosk Courthouse",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

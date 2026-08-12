@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.624346,
+          35.723771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300,
+        "bangumi_title": "俗・再见绝望先生",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/300/ln73528vl_1719204804964.jpg",
+        "location": "",
+        "point_id": "ln73528vl",
+        "point_name": "下井草駅南口",
+        "remark": "下井草站是距离本作动画制作公司SHAFT最近的车站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624791,
+          35.723552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300,
+        "bangumi_title": "俗・再见绝望先生",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/300/ln73662xc_1719204895331.jpg",
+        "location": "",
+        "point_id": "ln73662xc",
+        "point_name": "ブティック ラコー",
+        "remark": "曾位于東京都杉並区下井草2丁目40-14的服装店。原址现为美容店BASSA。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.769956,
+          35.697379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300,
+        "bangumi_title": "俗・再见绝望先生",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/300/ln7ibmt63_1719205540968.jpg",
+        "location": "",
+        "point_id": "ln7ibmt63",
+        "point_name": "国鉄万世橋駅",
+        "remark": "曾位于神田站和御茶之水站之间的车站，动画中出现的是毁于1923年的初代站舍。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

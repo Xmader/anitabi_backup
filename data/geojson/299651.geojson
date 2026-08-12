@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.892653,
+          35.017444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 299651,
+        "bangumi_title": "海边的Q",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "fc5f786e",
+        "point_name": "長浜市民公園近く",
+        "remark": "1巻表紙"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.874423,
+          35.096307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 299651,
+        "bangumi_title": "海边的Q",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "8590f3da",
+        "point_name": "香貫山公園 香陵台",
+        "remark": "6話。キューと千穂がテニスをしていた公園。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.846292,
+          35.093509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 299651,
+        "bangumi_title": "海边的Q",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "9c7165db",
+        "point_name": "千本浜海岸",
+        "remark": "1話・3話・4話・5話など。堤防沿いや海岸など、もっとも多く登場するといっていい場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.873127,
+          35.094027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 299651,
+        "bangumi_title": "海边的Q",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "f84423b3",
+        "point_name": "廃墟",
+        "remark": "6話。千穂が香貫山を自転車で上っている最中に登場する廃墟。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.896408,
+          35.019839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 299651,
+        "bangumi_title": "海边的Q",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "22d2aac2",
+        "point_name": "伊豆・三津シーパラダイス",
+        "remark": "7話。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

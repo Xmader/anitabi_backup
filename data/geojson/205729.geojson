@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.70281,
+          35.657942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 205729,
+        "bangumi_title": "Golden Hour",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/205729/points/2nlzztd-1752791747023.jpg",
+        "location": "",
+        "point_id": "2nlzztd",
+        "point_name": "旧東急東横線駅舎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70281,
+          35.657942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 205729,
+        "bangumi_title": "Golden Hour",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/205729/points/2nmi0ln-1752792448721.jpg",
+        "location": "",
+        "point_id": "2nmi0ln",
+        "point_name": "渋谷駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701749,
+          35.66357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 205729,
+        "bangumi_title": "Golden Hour",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/205729/points/2nnn2sn-1752794362481.jpg",
+        "location": "",
+        "point_id": "2nnn2sn",
+        "point_name": "神宮前六丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

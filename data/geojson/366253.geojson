@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.774621,
+          35.626897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366253,
+        "bangumi_title": "Estab Life Great Escape",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/366253/points/5gsywfism-1673565718207.jpg",
+        "location": "",
+        "point_id": "5gsywfism",
+        "point_name": "FCGビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771836,
+          35.62786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366253,
+        "bangumi_title": "Estab Life Great Escape",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/366253/points/5gt13comf-1673565940179.jpg",
+        "location": "",
+        "point_id": "5gt13comf",
+        "point_name": "自由の女神像",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

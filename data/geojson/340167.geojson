@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.874818,
+          39.272555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/340167/ikdalvkdm_1710562615423.jpg",
+        "location": "",
+        "point_id": "ikdalvkdm",
+        "point_name": "三の橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.876642,
+          39.269276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/340167/ikdu7nfyw_1710562622987.jpg",
+        "location": "",
+        "point_id": "ikdu7nfyw",
+        "point_name": "日本製鉄（株） 北日本製鉄所釜石地区 釜石火力発電所",
+        "remark": "电影中出现的为釜石制铁所原厂址，已于90年代拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.459606,
+          36.124986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1058/bangumi/340167/points/ikwvetvhs-1710562128143.jpg",
+        "location": "",
+        "point_id": "ikwvetvhs",
+        "point_name": "鉄剣タロー跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.786517,
+          39.845199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/340167/ikwmhp0ar_1710562634087.jpg",
+        "location": "",
+        "point_id": "ikwmhp0ar",
+        "point_name": " 岩泉商工会（旧岩泉駅舎）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.555943,
+          34.587556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/340167/ikwbmydt7_1710562640624.jpg",
+        "location": "",
+        "point_id": "ikwbmydt7",
+        "point_name": "惣郷川橋梁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.69036,
+          34.347391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1058/bangumi/340167/points/ikw4hxksa-1710560654020.jpg",
+        "location": "",
+        "point_id": "ikw4hxksa",
+        "point_name": "神田橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.612473,
+          36.383725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340167,
+        "bangumi_title": "爱丽丝和特蕾丝的梦幻工厂",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1058/bangumi/340167/points/ikvlalggv-1710559421492.jpg",
+        "location": "",
+        "point_id": "ikvlalggv",
+        "point_name": "ひたちなか開運鐵道神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

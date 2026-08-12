@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.734004,
+          36.336515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148732,
+        "bangumi_title": "摇曳露营△",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8290/points/tn31tj7dw-1741764477304.jpg",
+        "location": "",
+        "point_id": "tn31tj7dw",
+        "point_name": "碓氷峠\n鉄道​文化​むら",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.685617,
+          36.354914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148732,
+        "bangumi_title": "摇曳露营△",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/207195/points/tn2vbfbd8-1741764102835.jpg",
+        "location": "",
+        "point_id": "tn2vbfbd8",
+        "point_name": "旧熊ノ平駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.698418,
+          36.357766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148732,
+        "bangumi_title": "摇曳露营△",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/207195/points/tn2xsaarv-1741764228737.jpg",
+        "location": "",
+        "point_id": "tn2xsaarv",
+        "point_name": "めがね橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916187,
+          36.496875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148732,
+        "bangumi_title": "摇曳露营△",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148732/4f9vtq5_1756641098839.jpg",
+        "location": "",
+        "point_id": "4f9vtq5",
+        "point_name": "伊香保温泉石段街",
+        "remark": "左：十一屋酒店，右：田中屋"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

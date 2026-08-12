@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.701016,
+          35.693846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 506922,
+        "bangumi_title": "测不准的阿波连同学 第二季",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/506922/points/uolgzc3cl-1744704067381.jpg",
+        "location": "",
+        "point_id": "uolgzc3cl",
+        "point_name": "歌舞伎町一番街的入口",
+        "remark": "大概。。。也许。。。可能。。。是这个吧。。。？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.904744,
+          36.943857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 506922,
+        "bangumi_title": "测不准的阿波连同学 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/506922/points/vc0f6wimw-1746538980564.jpg",
+        "location": "",
+        "point_id": "vc0f6wimw",
+        "point_name": "サンシャインシーガル号",
+        "remark": "原名シーフレンド1号，原为开行横须贺至猿岛的航线（即动画中出现的航线）的游船。该船于2024年6月22日退役，但是经本人在推特的调查该船疑似改名サンシャインシーガル号卖到福岛县磐城市小名滨港充当观光船去了。。。\nPS：漫画里这一段出现的船其实是那霸市至渡嘉敷岛的普速船，不知为何动画改掉了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692403,
+          35.285311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 506922,
+        "bangumi_title": "测不准的阿波连同学 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/506922/points/vc0r02awu-1746539667865.jpg",
+        "location": "",
+        "point_id": "vc0r02awu",
+        "point_name": "猿岛栈桥",
+        "remark": "漫画里这一段出现的其实是冲绳县渡嘉敷村的渡嘉敷岛，动画不知为何改掉了。。。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692777,
+          35.284685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 506922,
+        "bangumi_title": "测不准的阿波连同学 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/506922/points/vcjlnpl9m-1746580709368.jpg",
+        "location": "",
+        "point_id": "vcjlnpl9m",
+        "point_name": "猿岛海水浴场",
+        "remark": "总之肯定是这个沙滩没跑的...\n PS：漫画里这一段出现的海滩其实是冲绳县渡嘉敷村的阿波连海滩，不知为何动画改掉了。。。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692918,
+          35.28566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 506922,
+        "bangumi_title": "测不准的阿波连同学 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/506922/points/vcjqbphot-1746581138387.jpg",
+        "location": "",
+        "point_id": "vcjqbphot",
+        "point_name": "猿岛栈桥北侧的崖壁",
+        "remark": "大概也许可能是这个"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69319,
+          35.284592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 506922,
+        "bangumi_title": "测不准的阿波连同学 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/506922/points/vck51rw3g-1746581884375.jpg",
+        "location": "",
+        "point_id": "vck51rw3g",
+        "point_name": "租赁商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

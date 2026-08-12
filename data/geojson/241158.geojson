@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.755791,
+          35.695835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/241158/51i523m2v_1729406291162.jpg",
+        "location": "#01-12",
+        "point_id": "51i523m2v",
+        "point_name": "東京メトロ 神保町駅A1出口",
+        "remark": "#02「灯の友達」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629388,
+          35.483191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/241158/51i523msu_1729407471985.jpg",
+        "location": "#01-12",
+        "point_id": "51i523msu",
+        "point_name": "東急東横線 東白楽駅",
+        "remark": "#06「インタビューウィズヴァンパイア」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79396,
+          35.629944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/241158/51i523n3n_1729409130190.jpg",
+        "location": "#01-12",
+        "point_id": "51i523n3n",
+        "point_name": "東京ビッグサイト",
+        "remark": "#07「吸血鬼とすごす夏休み」灯的想象"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771073,
+          35.698849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/241158/51i523myq_1729410356043.jpg",
+        "location": "#01-12",
+        "point_id": "51i523myq",
+        "point_name": "秋葉原中央通り",
+        "remark": "#08「夏休み最後の日」SEGA已改名GIGO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771153,
+          35.699503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/241158/51i523n01_1729410288022.jpg",
+        "location": "#01-12",
+        "point_id": "51i523n01",
+        "point_name": "コミックZIN 秋葉原店",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618193,
+          35.704888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "#01-12",
+        "point_id": "51i523my6",
+        "point_name": "なごみの湯",
+        "remark": "#09？「吸血鬼VSヴァンパイアハンター」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665772,
+          35.706426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 241158,
+        "bangumi_title": "邻家的吸血鬼小妹",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/241158/51i523n9y_1729411709382.jpg",
+        "location": "#01-12",
+        "point_id": "51i523n9y",
+        "point_name": "中野サンモール",
+        "remark": "#11「風邪の季節」"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

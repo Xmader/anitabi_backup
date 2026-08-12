@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          55.790328,
+          -4.341433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 122847,
+        "bangumi_title": "战舰世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/122847/points/s7bdyv8ic-1737708454266.jpg",
+        "location": "",
+        "point_id": "s7bdyv8ic",
+        "point_name": "普拉兰岛",
+        "remark": "游戏《战舰世界》中出现的地图之一，原型位于塞舌尔共和国东北部的普拉兰岛，游戏中对岛屿及其周边的小岛进行了一定的改编。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

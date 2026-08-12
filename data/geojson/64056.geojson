@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.629431,
+          38.908647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64056,
+        "bangumi_title": "铠甲勇士",
+        "ep_cut": "32集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64056/points/yeorgm-1749092289067.jpg",
+        "location": "",
+        "point_id": "yeorgm",
+        "point_name": "劳动公园足球地标",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.627483,
+          38.905044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64056,
+        "bangumi_title": "铠甲勇士",
+        "ep_cut": "51集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64056/points/yg0ew0-1749093301368.jpg",
+        "location": "",
+        "point_id": "yg0ew0",
+        "point_name": "大连观光塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

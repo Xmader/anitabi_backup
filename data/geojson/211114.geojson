@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          131.417337,
+          34.412127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211114,
+        "bangumi_title": "猫猫日本史 第二季",
+        "ep_cut": "54",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/211114/points/2dk9mun-1752184043620.jpg",
+        "location": "",
+        "point_id": "2dk9mun",
+        "point_name": "松下村塾",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.199367,
+          39.132404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 112978,
+        "bangumi_title": "端脑",
+        "ep_cut": "02",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/112978/points/49fnk0i-1756288004051.jpg",
+        "location": "",
+        "point_id": "49fnk0i",
+        "point_name": "世纪钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

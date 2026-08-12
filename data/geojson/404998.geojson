@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.001546,
+          34.649608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404998,
+        "bangumi_title": "宇宙的音乐",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/404998/5eciowd_1758761832319.jpg",
+        "location": "",
+        "point_id": "5eciowd",
+        "point_name": "明石市立天文科学館 北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.008399,
+          34.656844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404998,
+        "bangumi_title": "宇宙的音乐",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/404998/5eclm7c_1758761960177.jpg",
+        "location": "",
+        "point_id": "5eclm7c",
+        "point_name": "明石高",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

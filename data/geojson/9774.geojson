@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.745406,
+          35.658512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9774,
+        "bangumi_title": "这个是僵尸吗？",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9774/points/o2lu4e42e-1726054251030.jpg",
+        "location": "",
+        "point_id": "o2lu4e42e",
+        "point_name": "東京タワー メインデッキ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

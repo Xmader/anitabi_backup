@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.771732,
+          34.987876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 502,
+        "bangumi_title": "再见绝望先生",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/502/ln8jx38ke_1719207736648.jpg",
+        "location": "",
+        "point_id": "ln8jx38ke",
+        "point_name": "三十三間堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625494,
+          35.724753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 502,
+        "bangumi_title": "再见绝望先生",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/502/ln81avk03_1719206567124.jpg",
+        "location": "",
+        "point_id": "ln81avk03",
+        "point_name": "下井草駅付近",
+        "remark": "该地图以下井草站北侧的地图为原型。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

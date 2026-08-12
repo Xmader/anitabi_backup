@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.648605,
+          35.447034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5cse4jft-1737554071144.jpg",
+        "location": "",
+        "point_id": "s5cse4jft",
+        "point_name": "山下公园",
+        "remark": "背景略有差异"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647866,
+          35.447345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5cwh4bky-1737554289948.jpg",
+        "location": "",
+        "point_id": "s5cwh4bky",
+        "point_name": "山下公园",
+        "remark": "实际中间无线"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65106,
+          35.44556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5cygd11n-1737554391796.jpg",
+        "location": "",
+        "point_id": "s5cygd11n",
+        "point_name": "氷川丸",
+        "remark": "船不太一样"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620422,
+          35.465616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5d76nk2t-1737554905507.jpg",
+        "location": "",
+        "point_id": "s5d76nk2t",
+        "point_name": "タカシマヤ",
+        "remark": "站在街对面拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631117,
+          35.45424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5dbyapde-1737555237360.jpg",
+        "location": "",
+        "point_id": "s5dbyapde",
+        "point_name": "royal park hotel",
+        "remark": "从空中步道往购物中心走，路上会经过"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631631,
+          35.454497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5da43il1-1737555107754.jpg",
+        "location": "",
+        "point_id": "s5da43il1",
+        "point_name": "横浜ランドマークタワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651009,
+          35.443878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8560,
+        "bangumi_title": "侦探歌剧 少女福尔摩斯",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/8560/points/s5df18kzd-1737555357939.jpg",
+        "location": "",
+        "point_id": "s5df18kzd",
+        "point_name": "横浜マリンタワー",
+        "remark": "嗯在哪拍都行"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

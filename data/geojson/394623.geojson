@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.417182,
+          35.55352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394623,
+        "bangumi_title": "怪兽8号",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394623/points/gxp8hmz-1783876753164.webp",
+        "location": "",
+        "point_id": "gxp8hmz",
+        "point_name": "イオン 相模原店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

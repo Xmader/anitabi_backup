@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.446644,
+          35.681848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220921,
+        "bangumi_title": "樱之刻 - 于樱花之森下漫步",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/220921/points/soshawim8-1739077358774.jpg",
+        "location": "",
+        "point_id": "soshawim8",
+        "point_name": "歌木駅",
+        "remark": "直哉去学校必经的车站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.256436,
+          35.275699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220921,
+        "bangumi_title": "樱之刻 - 于樱花之森下漫步",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/220921/points/sosoxg5id-1739077595212.jpg",
+        "location": "",
+        "point_id": "sosoxg5id",
+        "point_name": "夏目家の屋敷",
+        "remark": "夏目家的原型，细节上有差别"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.487709,
+          48.447234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220921,
+        "bangumi_title": "樱之刻 - 于樱花之森下漫步",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/220921/points/soswpdc78-1739078080621.jpg",
+        "location": "",
+        "point_id": "soswpdc78",
+        "point_name": "弓張学園",
+        "remark": "沙特尔大教堂，是一座中世纪的欧洲建筑，罗马圆形剧场仍在现场似乎有点奇怪。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.367926,
+          35.780364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220921,
+        "bangumi_title": "樱之刻 - 于樱花之森下漫步",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/220921/points/sot6cz6ds-1739078650128.jpg",
+        "location": "",
+        "point_id": "sot6cz6ds",
+        "point_name": "横たわる櫻",
+        "remark": "《卧樱》原型的樱花，据说这幅画是SCA-自桑自己画的"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

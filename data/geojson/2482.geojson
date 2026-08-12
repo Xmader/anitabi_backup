@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.574141,
+          35.726732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2482,
+        "bangumi_title": "萝莉的时间",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2482/points/f3z5xph-1779903737756.jpg",
+        "location": "",
+        "point_id": "f3z5xph",
+        "point_name": "井口稲荷大善神",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.57173,
+          35.726326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2482,
+        "bangumi_title": "萝莉的时间",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2482/points/f5768ce-1779976480143.jpg",
+        "location": "",
+        "point_id": "f5768ce",
+        "point_name": "グリーンパレス関町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.572177,
+          35.725811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2482,
+        "bangumi_title": "萝莉的时间",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2482/points/f57o3ie-1779977311405.jpg",
+        "location": "",
+        "point_id": "f57o3ie",
+        "point_name": "関町北３丁目",
+        "remark": "住宅区请保持礼仪，请勿随意拍照"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.571193,
+          35.726872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2482,
+        "bangumi_title": "萝莉的时间",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2482/points/f57ifs3-1779977041896.jpg",
+        "location": "",
+        "point_id": "f57ifs3",
+        "point_name": "関町北３丁目３０",
+        "remark": "住宅区请保持礼仪，请勿随意拍照"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.572858,
+          35.727875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2482,
+        "bangumi_title": "萝莉的时间",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2482/points/f56exwo-1779975253497.jpg",
+        "location": "",
+        "point_id": "f56exwo",
+        "point_name": "長者橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

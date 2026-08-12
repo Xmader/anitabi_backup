@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.294846,
+          48.873889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 137941,
+        "bangumi_title": "艾克斯奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/137941/points/r9c1ktleb-1735044786108.jpg",
+        "location": "",
+        "point_id": "r9c1ktleb",
+        "point_name": "L'Arc de Triomphe",
+        "remark": "受奥特·耀斑影响，地底怪兽马格拉在此出现"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.617246,
+          55.751302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 137941,
+        "bangumi_title": "艾克斯奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/137941/points/r9c6uktsl-1735045056861.jpg",
+        "location": "",
+        "point_id": "r9c6uktsl",
+        "point_name": "Патриаршие палаты",
+        "remark": "受奥特·耀斑影响，红色火焰怪兽巴尼拉和青色泡沫怪兽阿勃拉斯在此出现"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.860136,
+          1.288772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 137941,
+        "bangumi_title": "艾克斯奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/137941/points/r9erqphw6-1735050677044.jpg",
+        "location": "",
+        "point_id": "r9erqphw6",
+        "point_name": "Marina Bay Sands",
+        "remark": "受奥特·耀斑影响，冷冻怪兽佩吉拉出现在印度尼西亚并使当地下起暴风雪（设定中的，但实际拍摄的场景却在新加坡）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

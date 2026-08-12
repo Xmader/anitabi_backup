@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.611309,
+          53.227966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 911,
+        "bangumi_title": "Fate/hollow ataraxia",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/911/points/gf1hp8d-1782748419417.webp",
+        "location": "",
+        "point_id": "gf1hp8d",
+        "point_name": "Wellington Bedroom",
+        "remark": "伊莉雅的房间"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

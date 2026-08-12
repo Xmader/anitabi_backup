@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -73.978225,
+          40.752323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/ed9bseo-1778287243548.jpg",
+        "location": "",
+        "point_id": "ed9bseo",
+        "point_name": "Grand Central Terminal",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.995282,
+          40.703479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/ed9pssr-1778287725141.jpg",
+        "location": "",
+        "point_id": "ed9pssr",
+        "point_name": "Brooklyn Bridge Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.994289,
+          40.702833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/ed9usgh-1778287942267.jpg",
+        "location": "",
+        "point_id": "ed9usgh",
+        "point_name": "Brooklyn Bridge Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.993251,
+          40.702546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/ed9xzgn-1778288121352.jpg",
+        "location": "",
+        "point_id": "ed9xzgn",
+        "point_name": "No.1 Front Street",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.98146,
+          40.762376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/eda8lpq-1778288601070.jpg",
+        "location": "",
+        "point_id": "eda8lpq",
+        "point_name": "Sheraton New York Times Square Hotel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.992391,
+          40.704431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/eda2ei7-1778288307856.jpg",
+        "location": "",
+        "point_id": "eda2ei7",
+        "point_name": "Jane's Carousel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.993251,
+          40.702546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3631,
+        "bangumi_title": "东之伊甸 剧场版I The King of Eden",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3631/points/eda00hr-1778288185022.jpg",
+        "location": "",
+        "point_id": "eda00hr",
+        "point_name": "No.1 Front Street",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

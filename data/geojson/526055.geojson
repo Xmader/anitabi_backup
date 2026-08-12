@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.378239,
+          35.663364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526055,
+        "bangumi_title": "孤独的美食家2024除夕特别篇 从太平洋到日本海，五郎，向北去到那些人所在的地方。",
+        "ep_cut": "孤独のグルメ2024大晦日SP",
+        "image_url": "https://w.junreimap.com/images/points/526055/tl7ebv2w6_1741617395729.jpg",
+        "location": "",
+        "point_id": "tl7ebv2w6",
+        "point_name": "ピッコロレガーロ イタリア家庭料理",
+        "remark": "東京都日野市多摩平1-5-7 エンドレス多摩平 101\nJR豊田駅北口より徒歩10分"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.795506,
+          35.505434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526055,
+        "bangumi_title": "孤独的美食家2024除夕特别篇 从太平洋到日本海，五郎，向北去到那些人所在的地方。",
+        "ep_cut": "孤独のグルメ2024大晦日SP",
+        "image_url": "https://w.junreimap.com/images/points/526055/tl7nwtx7j_1741617858819.jpg",
+        "location": "",
+        "point_id": "tl7nwtx7j",
+        "point_name": "吉美焼肉店",
+        "remark": "長野県飯田市北方2454-2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906742,
+          37.230802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526055,
+        "bangumi_title": "孤独的美食家2024除夕特别篇 从太平洋到日本海，五郎，向北去到那些人所在的地方。",
+        "ep_cut": "孤独のグルメ2024大晦日SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/526055/points/s4w5cy7mq-1737518280550.jpg",
+        "location": "",
+        "point_id": "s4w5cy7mq",
+        "point_name": "ちゃんこ鍋​一品​料理​·力",
+        "remark": "石川県鳳珠郡穴水町川島イ-58"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

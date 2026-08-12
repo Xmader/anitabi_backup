@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.773485,
+          35.680752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 78319,
+        "bangumi_title": "暗芝居",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/78319/points/nsfk7x8gt-1725257402890.jpg",
+        "location": "",
+        "point_id": "nsfk7x8gt",
+        "point_name": "高島屋S.C.",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

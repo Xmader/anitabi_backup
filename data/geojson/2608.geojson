@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.749149,
+          35.693239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2608,
+        "bangumi_title": "乃木坂春香的秘密 purezza♪",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/2608/33oorqt_1753763596740.jpg",
+        "location": "",
+        "point_id": "33oorqt",
+        "point_name": "日本武道館",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

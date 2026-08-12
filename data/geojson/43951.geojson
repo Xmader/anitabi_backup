@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.203391,
+          34.678642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43951,
+        "bangumi_title": "魔法少女☆伊莉雅",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/109418/points/n80ilqt6s-1723656836524.jpg",
+        "location": "",
+        "point_id": "n80ilqt6s",
+        "point_name": "神戶大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.204005,
+          34.677208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43951,
+        "bangumi_title": "魔法少女☆伊莉雅",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/109418/points/n80jld4wi-1723656868290.jpg",
+        "location": "",
+        "point_id": "n80jld4wi",
+        "point_name": "ポートアイランド北公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.20399,
+          34.677145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43951,
+        "bangumi_title": "魔法少女☆伊莉雅",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/109418/points/n80k56q48-1723656901543.jpg",
+        "location": "",
+        "point_id": "n80k56q48",
+        "point_name": "ポートアイランド北公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

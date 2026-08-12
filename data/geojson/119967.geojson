@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          142.569646,
+          43.161634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119967,
+        "bangumi_title": "铁道员",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/119967/oblu98183_1726806397432_cblack.jpg",
+        "location": "",
+        "point_id": "oblu98183",
+        "point_name": "幾寅駅ホーム",
+        "remark": "电影中为幌舞駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.569963,
+          43.161807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119967,
+        "bangumi_title": "铁道员",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/119967/points/obm44tt0y-1726760033675.jpg",
+        "location": "",
+        "point_id": "obm44tt0y",
+        "point_name": "幾寅駅の外",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.570056,
+          43.161837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119967,
+        "bangumi_title": "铁道员",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/119967/obm1um4fo_1726806393162_cblack.jpg",
+        "location": "",
+        "point_id": "obm1um4fo",
+        "point_name": "だるま食堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,665 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.685921,
+          35.571151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/7883/pg8avyuvr_1729943610198.jpg",
+        "location": "",
+        "point_id": "pg8avyuvr",
+        "point_name": "下丸子駅",
+        "remark": "作品中为丸子站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.68588,
+          35.571116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/7883/pg8bqeyq1_1729943617632.jpg",
+        "location": "",
+        "point_id": "pg8bqeyq1",
+        "point_name": "下丸子駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686041,
+          35.570838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/7883/pg8d5wme2_1729943641561.jpg",
+        "location": "",
+        "point_id": "pg8d5wme2",
+        "point_name": "下丸子駅周辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685858,
+          35.570239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/7883/pg8ebg2u9_1729943645799.jpg",
+        "location": "",
+        "point_id": "pg8ebg2u9",
+        "point_name": "下丸子児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685828,
+          35.571141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/7883/pg8bsvjkr_1729943700676.jpg",
+        "location": "",
+        "point_id": "pg8bsvjkr",
+        "point_name": "下丸子駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691296,
+          35.563387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "pg7zxt912",
+        "point_name": "商店街入り口",
+        "remark": "作品中为丸子町商业街，现实中为武蔵新田商店街。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691678,
+          35.566596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "pg828fqn0",
+        "point_name": "羽田屋 伊東商店",
+        "remark": "该店铺即画面右侧写着金鱼的店铺。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691703,
+          35.566081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "pg85jwusw",
+        "point_name": "新田神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.682974,
+          35.571896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "pg86fu5y3",
+        "point_name": "都湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691498,
+          35.565778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "pg86rwmu0",
+        "point_name": "新田神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691664,
+          35.56727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "pg89bfdsl",
+        "point_name": "新田書店",
+        "remark": "作品中为本田书店。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691689,
+          35.566029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "pg89xydjn",
+        "point_name": "新田神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685961,
+          35.571377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot062",
+        "point_name": "バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686162,
+          35.571305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot0wv",
+        "point_name": "区民プラザ",
+        "remark": "猛の深夜デビュー"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685889,
+          35.570055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot1hu",
+        "point_name": "メイド喫茶シーサイド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685934,
+          35.569597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot1mh",
+        "point_name": "肉の村上+アンティーク亀井堂+バーバーソモザワ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686007,
+          35.569331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot2bv",
+        "point_name": "鮮魚真田（鮮魚魚清）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.683939,
+          35.571373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot2ay",
+        "point_name": "先生から逃走した時の街並み01",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.683177,
+          35.571582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot22v",
+        "point_name": "先生から逃走した時の街並み02",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.682595,
+          35.571681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot35r",
+        "point_name": "八百屋八百菊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.679151,
+          35.573007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot345",
+        "point_name": "世界のパンヤマブキ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692278,
+          35.568212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot3rq",
+        "point_name": "猛がエビちゃんにアイスを探してる店（ホームベーカリーみかわや）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691685,
+          35.567293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot40x",
+        "point_name": "本田書店（新田書店）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691696,
+          35.567064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot483",
+        "point_name": "荒井クリーニング（佐治クリーニング）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691599,
+          35.566523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot4cn",
+        "point_name": "中島屋（北島屋）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691846,
+          35.566547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot4j7",
+        "point_name": "紺先輩の住むアパート河合荘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691733,
+          35.565565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot58i",
+        "point_name": "居酒屋海月（居酒屋河童）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691607,
+          35.565388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot55v",
+        "point_name": "駄菓子屋すずや（小笠園茶店）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69165,
+          35.564651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot52g",
+        "point_name": "トリニティグリーン横掲示板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691272,
+          35.563447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot6de",
+        "point_name": "新田中央通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686004,
+          35.57002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot67a",
+        "point_name": "お好み焼き屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685929,
+          35.5698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot78n",
+        "point_name": "串かつ末広",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692224,
+          35.568094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7883,
+        "bangumi_title": "女仆咖啡厅",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ot78l",
+        "point_name": "東急多摩川線 武蔵新田駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

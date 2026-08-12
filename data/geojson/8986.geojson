@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.532404,
+          34.809447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8986,
+        "bangumi_title": "蜡笔小新：呼风唤雨！猛烈！大人帝国的反击",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8986/points/ieeh1k6lg-1710051949137.jpg",
+        "location": "",
+        "point_id": "ieeh1k6lg",
+        "point_name": "太陽の塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

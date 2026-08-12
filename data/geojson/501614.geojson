@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.625697,
+          35.155734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 501614,
+        "bangumi_title": "不良少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2168/bangumi/501614/points/5gfd5sm-1758887589268.jpg",
+        "location": "",
+        "point_id": "5gfd5sm",
+        "point_name": "四ヶ郷頭首工",
+        "remark": "该工程在县道396号线（旧国道1号线）富士川桥的上游。图为排砂門"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

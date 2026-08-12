@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.306662,
+          35.757047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/110630/27xynd6_1751844320377_c16v9.jpg",
+        "location": "",
+        "point_id": "27xynd6",
+        "point_name": "那賀樋管 东眺",
+        "remark": "远处的两座桥梁前为羽村堰下橋，后为羽村大桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.300277,
+          35.75915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/110630/27y6quo_1751844618410_c16v9.jpg",
+        "location": "",
+        "point_id": "27y6quo",
+        "point_name": "通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.312492,
+          35.754052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/110630/23xz7q4_1751602415433_c16v9.jpg",
+        "location": "",
+        "point_id": "23xz7q4",
+        "point_name": "通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.313004,
+          35.753759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/110630/27yigya_1751845163195_c16v9.jpg",
+        "location": "",
+        "point_id": "27yigya",
+        "point_name": "通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.312954,
+          35.753777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/110630/27yb938_1751844829305_c16v9.jpg",
+        "location": "",
+        "point_id": "27yb938",
+        "point_name": "通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.311369,
+          35.755418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/110630/23xi187_1751602412041_c16v9.jpg",
+        "location": "",
+        "point_id": "23xi187",
+        "point_name": "羽村堰入口前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.316212,
+          35.793412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/110630/26dqv9h_1751749837880.jpg",
+        "location": "",
+        "point_id": "26dqv9h",
+        "point_name": "カインズ 青梅インター店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.31621,
+          35.793405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 110630,
+        "bangumi_title": "渡君的XX即将崩坏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/110630/26drv3n_1751749887988_c16v9.jpg",
+        "location": "",
+        "point_id": "26drv3n",
+        "point_name": "カインズ 青梅インター店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

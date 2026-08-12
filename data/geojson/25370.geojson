@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.484715,
+          34.700231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/rl23vi2f4-1735963487482.jpg",
+        "location": "",
+        "point_id": "rl23vi2f4",
+        "point_name": "Kinrankai Junior High School 金蘭会高等学校・中学校",
+        "remark": "是女子学校，拍摄请注意"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.494512,
+          34.699771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/rl9tlfxjx-1735980266068.jpg",
+        "location": "",
+        "point_id": "rl9tlfxjx",
+        "point_name": "ハービスENT",
+        "remark": "HERBIS PLAZA ENT, 2 Chome-2-22 Umeda, Kita Ward, Osaka, 530-0001日本 地下b2\n请注意是地下，有天花板，参考旁边的建筑以及店铺"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.495107,
+          34.700363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/rlartxerm-1735982344961.jpg",
+        "location": "",
+        "point_id": "rlartxerm",
+        "point_name": "大阪駅前",
+        "remark": "视角偏差较大，实际是两张图的合成，坐标是推荐位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.484287,
+          34.700277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/rm36e1l6w-1736044134523.jpg",
+        "location": "",
+        "point_id": "rm36e1l6w",
+        "point_name": "月長学院寮",
+        "remark": "学校对面公寓"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.433375,
+          34.734304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/rmdce0vti-1736066431057.jpg",
+        "location": "",
+        "point_id": "rmdce0vti",
+        "point_name": "尼崎中央病院人行道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.428617,
+          34.734237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/rmds3s45b-1777958779983.jpg",
+        "location": "",
+        "point_id": "rmds3s45b",
+        "point_name": "关西国际大学步道桥",
+        "remark": "很像，晚上也不错"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.556729,
+          25.08387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25370,
+        "bangumi_title": "DRACU-RIOT!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/25370/points/br7ihu0-1772600275182.jpg",
+        "location": "",
+        "point_id": "br7ihu0",
+        "point_name": "美麗華百樂園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

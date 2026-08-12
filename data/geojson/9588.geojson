@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.485651,
+          31.238606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9588,
+        "bangumi_title": "金田一少年事件簿",
+        "ep_cut": "90",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9588/points/7.jpg",
+        "location": "",
+        "point_id": "4zo4tnf67",
+        "point_name": "江海关大楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.48569,
+          31.245233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9588,
+        "bangumi_title": "金田一少年事件簿",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9588/points/5bks90iz6-1673156048101.jpg",
+        "location": "",
+        "point_id": "5bks90iz6",
+        "point_name": "外白渡桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.495195,
+          31.241678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9588,
+        "bangumi_title": "金田一少年事件簿",
+        "ep_cut": "S01E91",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/9588/points/nuhfiomxd-1725417640959.jpg",
+        "location": "",
+        "point_id": "nuhfiomxd",
+        "point_name": "东方明珠电视塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.385416,
+          35.765096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9588,
+        "bangumi_title": "金田一少年事件簿",
+        "ep_cut": "S01E93",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/9588/points/nuhna6667-1725418122397.jpg",
+        "location": "",
+        "point_id": "nuhna6667",
+        "point_name": "成田国際空港",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

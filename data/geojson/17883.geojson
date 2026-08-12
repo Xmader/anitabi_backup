@@ -1,0 +1,825 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.004436,
+          36.324314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiwyb_1735404718746.jpg",
+        "location": "",
+        "point_id": "kpx6oiwyb",
+        "point_name": "スズラン百貨店高崎店付近",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.78427,
+          35.446966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/17883/points/kpx6oiwdx-1721918801406.jpg",
+        "location": "",
+        "point_id": "kpx6oiwdx",
+        "point_name": "長良公園",
+        "remark": "ＯＰ、１話、３話、５話、12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011718,
+          36.322717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiwz3_1735404729409.jpg",
+        "location": "",
+        "point_id": "kpx6oiwz3",
+        "point_name": "高崎駅西口",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011571,
+          36.322737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiw9k_1735404739433.jpg",
+        "location": "",
+        "point_id": "kpx6oiw9k",
+        "point_name": "高崎駅西口",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011576,
+          36.32257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oixm4_1735404752082.jpg",
+        "location": "",
+        "point_id": "kpx6oixm4",
+        "point_name": "高崎駅西口",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011407,
+          36.322259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oixff_1735404760722.jpg",
+        "location": "",
+        "point_id": "kpx6oixff",
+        "point_name": "高崎駅西口バス５番乗り場",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.012005,
+          36.322281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiwzg_1735404770025.jpg",
+        "location": "",
+        "point_id": "kpx6oiwzg",
+        "point_name": "高崎駅西口駅ビル（モントレー）５Ｆのエスカレーター",
+        "remark": "３話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011367,
+          36.321993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oixxj_1735404778634.jpg",
+        "location": "",
+        "point_id": "kpx6oixxj",
+        "point_name": "高崎駅西口",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011134,
+          36.322313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oixyn_1735404789553.jpg",
+        "location": "",
+        "point_id": "kpx6oixyn",
+        "point_name": "高崎駅西口",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.723762,
+          35.404786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oixsm_1735404997313.jpg",
+        "location": "",
+        "point_id": "kpx6oixsm",
+        "point_name": "西岐阜駅",
+        "remark": "６話詳しい位置は覚えていません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.72336,
+          35.404628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiyzn_1735405048537.jpg",
+        "location": "",
+        "point_id": "kpx6oiyzn",
+        "point_name": "西岐阜駅",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.723166,
+          35.404589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiz8i_1735405065513.jpg",
+        "location": "",
+        "point_id": "kpx6oiz8i",
+        "point_name": "西岐阜駅",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.722971,
+          35.404545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiyve_1735405074265.jpg",
+        "location": "",
+        "point_id": "kpx6oiyve",
+        "point_name": "西岐阜駅",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011855,
+          36.322287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj0gx_1735404823305.jpg",
+        "location": "",
+        "point_id": "kpx6oj0gx",
+        "point_name": "高崎駅西口（８話）",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.69334,
+          35.396161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiz5z_1735405143025.jpg",
+        "location": "",
+        "point_id": "kpx6oiz5z",
+        "point_name": "穂積駅",
+        "remark": "８話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.693233,
+          35.396108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiz93_1735405155641.jpg",
+        "location": "",
+        "point_id": "kpx6oiz93",
+        "point_name": "穂積駅",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.693316,
+          35.395953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oizov_1735405190049.jpg",
+        "location": "",
+        "point_id": "kpx6oizov",
+        "point_name": "穂積駅",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.693539,
+          35.395857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oizsq_1735405102066.jpg",
+        "location": "",
+        "point_id": "kpx6oizsq",
+        "point_name": "穂積駅",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.012772,
+          36.322475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oizdj_1735404801977.jpg",
+        "location": "",
+        "point_id": "kpx6oizdj",
+        "point_name": "高崎駅改札口",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.012003,
+          36.322417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oizkq_1735404810777.jpg",
+        "location": "",
+        "point_id": "kpx6oizkq",
+        "point_name": "高崎駅西口方面",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.237067,
+          36.399329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oix6p_1735404703457.jpg",
+        "location": "",
+        "point_id": "kpx6oix6p",
+        "point_name": "カリビアンビーチ",
+        "remark": "３話、８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.680162,
+          35.662115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj0o8_1735405526850.jpg",
+        "location": "",
+        "point_id": "kpx6oj0o8",
+        "point_name": "旧前田侯爵邸内",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.67958,
+          35.662269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj0jd_1735405540835.jpg",
+        "location": "",
+        "point_id": "kpx6oj0jd",
+        "point_name": "旧前田侯爵邸",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.679747,
+          35.662431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oiybq_1735404621232.jpg",
+        "location": "",
+        "point_id": "kpx6oiybq",
+        "point_name": "旧前田侯爵邸",
+        "remark": "６話、９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.679908,
+          35.662141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj0be_1735405611868.jpg",
+        "location": "",
+        "point_id": "kpx6oj0be",
+        "point_name": "旧前田侯爵邸正門",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.946366,
+          35.392059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1do_1735404927465.jpg",
+        "location": "",
+        "point_id": "kpx6oj1do",
+        "point_name": "犬山橋",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.991406,
+          35.067409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj15x_1735404582690.jpg",
+        "location": "",
+        "point_id": "kpx6oj15x",
+        "point_name": "中京競馬場（パノラマカー広場）",
+        "remark": "10話入場料無料"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.155552,
+          35.257013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1bv_1735404543241.jpg",
+        "location": "",
+        "point_id": "kpx6oj1bv",
+        "point_name": "小田原駅（13番線）",
+        "remark": "10話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.138362,
+          35.202812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1jk_1735404532594.jpg",
+        "location": "",
+        "point_id": "kpx6oj1jk",
+        "point_name": "根府川駅",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793853,
+          35.630137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj11h_1735404652249.jpg",
+        "location": "",
+        "point_id": "kpx6oj11h",
+        "point_name": "東京ビッグサイト",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793974,
+          35.631059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1p6_1735404665073.jpg",
+        "location": "",
+        "point_id": "kpx6oj1p6",
+        "point_name": "東京ビッグサイト",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794235,
+          35.631325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1xc_1735404675906.jpg",
+        "location": "",
+        "point_id": "kpx6oj1xc",
+        "point_name": "東京ビッグサイト",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011834,
+          36.322164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1yh_1735404840176.jpg",
+        "location": "",
+        "point_id": "kpx6oj1yh",
+        "point_name": "高崎駅西口（11話）",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011826,
+          36.321319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj1pk_1735404874729.jpg",
+        "location": "",
+        "point_id": "kpx6oj1pk",
+        "point_name": "高崎駅西口自転車駐車場付近1",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.011678,
+          36.321198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj2wz_1735404897538.jpg",
+        "location": "",
+        "point_id": "kpx6oj2wz",
+        "point_name": "高崎駅西口自転車駐車場付近2",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.758628,
+          35.406777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj2rg_1735404943090.jpg",
+        "location": "",
+        "point_id": "kpx6oj2rg",
+        "point_name": "加納天満宮",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.758311,
+          35.406397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj2rc_1735404953698.jpg",
+        "location": "",
+        "point_id": "kpx6oj2rc",
+        "point_name": "加納天満宮門",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.609687,
+          35.427062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/17883/kpx6oj2k0_1735406407315.jpg",
+        "location": "",
+        "point_id": "kpx6oj2k0",
+        "point_name": "横浜英和女学院",
+        "remark": "学校内部のモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.609542,
+          35.426611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/17883/rdy4gp0lh_1735406391988.jpg",
+        "location": "",
+        "point_id": "rdy4gp0lh",
+        "point_name": "横浜英和女学院　校舎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.609661,
+          35.426137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/17883/rdy25vc5l_1735406400660.jpg",
+        "location": "",
+        "point_id": "rdy25vc5l",
+        "point_name": "横浜英和女学院　ブリテンホール",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60905,
+          35.426729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17883,
+        "bangumi_title": "我的朋友很少",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/17883/rdy0713kd_1735405975403.jpg",
+        "location": "",
+        "point_id": "rdy0713kd",
+        "point_name": "横浜英和女学院　体育館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

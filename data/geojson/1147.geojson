@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.877007,
+          35.639023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/58085149_1754555808101.jpg",
+        "location": "",
+        "point_id": "58085149",
+        "point_name": "舞浜大橋-JR京葉線江戸川橋梁",
+        "remark": "#01「エンタングル」、#02「セレブラム」、#03「デフテラ領域」、#06「幻体」、#07「迷える魂 」、#08「水の向こう側」、#10「また、夏が来る」、#13「新たなるウィザード」、#15「リインカーネーション」、#20「イェル、シズノ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.878101,
+          35.640121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/a033d5e1_1754555827975.jpg",
+        "location": "",
+        "point_id": "a033d5e1",
+        "point_name": "旧江戸側河川敷",
+        "remark": "#01ほか"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.883552,
+          35.636232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/061af01e_1754560129308.jpg",
+        "location": "",
+        "point_id": "061af01e",
+        "point_name": "JR京葉線 舞浜駅",
+        "remark": "#04「上海サーバー 」、#06、#15、#20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857116,
+          35.643975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "c4640502",
+        "point_name": "ダイヤとは花の大観覧車",
+        "remark": "#05「デジャビュ」、#09「ウェットダメージ」、#10、#11「残るまぼろし」、#21「戦士たち…」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.119345,
+          35.611609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/264f8770_1754556625910.jpg",
+        "location": "",
+        "point_id": "264f8770",
+        "point_name": "モノレール軌道",
+        "remark": "#05，#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118584,
+          35.612985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/3gsu79g_1754556609991.jpg",
+        "location": "",
+        "point_id": "3gsu79g",
+        "point_name": "栄町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.886856,
+          35.663843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/95a4238e_1754555902460.jpg",
+        "location": "",
+        "point_id": "95a4238e",
+        "point_name": "東京メトロ東西線 第一江戸川橋梁",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.891641,
+          35.66257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/3f84a55b_1754560316347.jpg",
+        "location": "",
+        "point_id": "3f84a55b",
+        "point_name": "新橋",
+        "remark": "#10 第一江戸川橋梁摄影点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.114602,
+          35.612411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/db46da00_1754556095911.jpg",
+        "location": "",
+        "point_id": "db46da00",
+        "point_name": "千葉駅バスターミナル",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.115917,
+          35.612271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/8c3bdcda_1754556112485.jpg",
+        "location": "",
+        "point_id": "8c3bdcda",
+        "point_name": "地下道出口",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118561,
+          35.612568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/867b65ef_1754560227266.jpg",
+        "location": "",
+        "point_id": "867b65ef",
+        "point_name": "もずく通り",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.119554,
+          35.611513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/b17ccb0c_1754560000698.jpg",
+        "location": "",
+        "point_id": "b17ccb0c",
+        "point_name": "モノレール軌道　その２",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.119972,
+          35.610514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/c0d6357d_1754555947102.jpg",
+        "location": "",
+        "point_id": "c0d6357d",
+        "point_name": "セントラルアーチ",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.11854,
+          35.611011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/3c8808e2_1754555962933.jpg",
+        "location": "",
+        "point_id": "3c8808e2",
+        "point_name": "セントラルアーチ撮影ポイント",
+        "remark": "#01 从这里拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118218,
+          35.610998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/1a416339_1754556065640.jpg",
+        "location": "",
+        "point_id": "1a416339",
+        "point_name": "富士見東電前交差点",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757568,
+          34.975307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/3b70bec5_1754556300416.jpg",
+        "location": "",
+        "point_id": "3b70bec5",
+        "point_name": "洲崎灯台",
+        "remark": "#26「森羅万象（ありとあらゆるもの）」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759644,
+          34.974525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1147/bc874454_1754556284619.jpg",
+        "location": "",
+        "point_id": "bc874454",
+        "point_name": "洲崎灯台 付近の入り江",
+        "remark": "#26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757016,
+          34.974349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1147,
+        "bangumi_title": "ZEGAPAIN",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "73e5266a",
+        "point_name": "洲崎灯台周辺、有料駐車場",
+        "remark": "※この周辺に何箇所かあります"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

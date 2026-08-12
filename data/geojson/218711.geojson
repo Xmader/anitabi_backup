@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.70451,
+          35.65419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218711,
+        "bangumi_title": "DARLING in the FRANXX",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "tkxu1nyay",
+        "point_name": "t路口",
+        "remark": "由于时间问题没有拍摄下未来站的位置，下次给各位拍下照片"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702174,
+          35.661433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218711,
+        "bangumi_title": "DARLING in the FRANXX",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/218711/points/tkxyd9jpg-1741596646053.jpg",
+        "location": "",
+        "point_id": "tkxyd9jpg",
+        "point_name": "宫下公园人行天桥",
+        "remark": "10年发展，后面成了商业街，列车还在就是被挡了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70223,
+          35.66142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218711,
+        "bangumi_title": "DARLING in the FRANXX",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/218711/points/tky00xs4p-1741596797702.jpg",
+        "location": "",
+        "point_id": "tky00xs4p",
+        "point_name": "明治通り",
+        "remark": "这里需要大长焦，可能200mm都不够，而且早修好了，修架的早没了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701205,
+          35.66036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218711,
+        "bangumi_title": "DARLING in the FRANXX",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/218711/points/tky2ca9fp-1741596917474.jpg",
+        "location": "",
+        "point_id": "tky2ca9fp",
+        "point_name": "涩谷的车下人行洞",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693859,
+          35.657384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218711,
+        "bangumi_title": "DARLING in the FRANXX",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/218711/points/tky47ugk1-1741596999993.jpg",
+        "location": "",
+        "point_id": "tky47ugk1",
+        "point_name": "神泉站罗森",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

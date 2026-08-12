@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.708365,
+          39.659557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123281,
+        "bangumi_title": "西游记之大圣归来",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/123281/points/pj7ac411h-1730175794928.jpg",
+        "location": "",
+        "point_id": "pj7ac411h",
+        "point_name": "悬空寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.962218,
+          34.258679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504099,
+        "bangumi_title": "构想彼方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/504099/2tkgfus_1753164058950.jpg",
+        "location": "",
+        "point_id": "2tkgfus",
+        "point_name": "西安市第二十六中学",
+        "remark": "铭砂实验"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.966864,
+          34.25996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504099,
+        "bangumi_title": "构想彼方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/504099/2tkicvs_1753164072677.jpg",
+        "location": "",
+        "point_id": "2tkicvs",
+        "point_name": "西安环城公园 门口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

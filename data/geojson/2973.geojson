@@ -1,0 +1,645 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.785301,
+          34.994625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2973/points/nqk3dn7xh-1725109985621.jpg",
+        "location": "",
+        "point_id": "nqk3dn7xh",
+        "point_name": "清水寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759381,
+          34.987345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nw88kvo26-1725554359068.jpg",
+        "location": "",
+        "point_id": "nw88kvo26",
+        "point_name": "京都塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.756382,
+          35.020414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/2973/rgb4ai6e8_1735591275463.jpg",
+        "location": "",
+        "point_id": "rgb4ai6e8",
+        "point_name": "旧京都府警察本部本館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758857,
+          34.986192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2973/points/rg9bycwnu-1735587382807.jpg",
+        "location": "",
+        "point_id": "rg9bycwnu",
+        "point_name": "JR京都駅烏丸中央口",
+        "remark": "“京都到底是我们日本人的故乡”"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.766974,
+          34.995811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2973/points/rgagu2qgo-1735589833200.jpg",
+        "location": "",
+        "point_id": "rgagu2qgo",
+        "point_name": "牛若丸弁慶像",
+        "remark": "位于五条大桥西桥头"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767483,
+          34.995872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/ntd3rvvng-1725329865193.jpg",
+        "location": "",
+        "point_id": "ntd3rvvng",
+        "point_name": "五条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767644,
+          34.99603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nw8baid6l-1725554533700.jpg",
+        "location": "",
+        "point_id": "nw8baid6l",
+        "point_name": "五条大桥下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.754847,
+          34.998596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/ntd62brjn-1725329995936.jpg",
+        "location": "",
+        "point_id": "ntd62brjn",
+        "point_name": "五條天神宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.765888,
+          35.0087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/ntde1gz0b-1725330489639.jpg",
+        "location": "",
+        "point_id": "ntde1gz0b",
+        "point_name": "弁慶石",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785,
+          34.994827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/ntdfsgbo4-1725330584392.jpg",
+        "location": "",
+        "point_id": "ntdfsgbo4",
+        "point_name": "清水寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.790973,
+          35.007457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuwynci5r-1725451461610.jpg",
+        "location": "",
+        "point_id": "nuwynci5r",
+        "point_name": "蹴上義経地蔵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.76263,
+          35.120684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nw8dz8fyw-1725554686182.jpg",
+        "location": "",
+        "point_id": "nw8dz8fyw",
+        "point_name": "鞍马寺西门口",
+        "remark": "平次带着柯南到鞍马寺前停车的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770737,
+          35.118045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/ntcz4kwcc-1725452258422.jpg",
+        "location": "",
+        "point_id": "ntcz4kwcc",
+        "point_name": "鞍馬寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762814,
+          35.12084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuwb7kq1h-1725450154354.jpg",
+        "location": "",
+        "point_id": "nuwb7kq1h",
+        "point_name": "鞍马寺西门路标",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767311,
+          35.120021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuwf0fw7g-1725450269722.jpg",
+        "location": "",
+        "point_id": "nuwf0fw7g",
+        "point_name": "僧正谷不動堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.768032,
+          35.118949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nw8ftp50u-1725554804550.jpg",
+        "location": "",
+        "point_id": "nw8ftp50u",
+        "point_name": "木の根道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772541,
+          35.112957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuxcyfp5s-1725452315886.jpg",
+        "location": "",
+        "point_id": "nuxcyfp5s",
+        "point_name": "鞍馬駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.79164,
+          35.011053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/2973/rgb8u4uim_1735591553044.jpg",
+        "location": "",
+        "point_id": "rgb8u4uim",
+        "point_name": "南禅寺 中門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.792568,
+          35.011303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2973/points/rg9y8mnjr-1735588726332.jpg",
+        "location": "",
+        "point_id": "rg9y8mnjr",
+        "point_name": "南禅寺 三門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.780839,
+          34.998376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/2973/rgbhfr6mw_1735592084942.jpg",
+        "location": "",
+        "point_id": "rgbhfr6mw",
+        "point_name": "二年坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.746917,
+          34.986052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2973/points/rga2if6mr-1735588979846.jpg",
+        "location": "",
+        "point_id": "rga2if6mr",
+        "point_name": "梅小路公園",
+        "remark": "平次与黑衣人决斗"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.74725,
+          34.98598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/2973/rgaudrf0v_1735590744065.jpg",
+        "location": "",
+        "point_id": "rgaudrf0v",
+        "point_name": "梅小路公園",
+        "remark": "和叶背后隐藏的黑衣人"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.760252,
+          35.007331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuwk74cew-1725450576688.jpg",
+        "location": "",
+        "point_id": "nuwk74cew",
+        "point_name": "六角堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771467,
+          35.003821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuwmrzypd-1725450742706.jpg",
+        "location": "",
+        "point_id": "nuwmrzypd",
+        "point_name": "四条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75981,
+          35.003581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuxjzze5v-1725452805894.jpg",
+        "location": "",
+        "point_id": "nuxjzze5v",
+        "point_name": "四条通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763115,
+          35.000679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/ntdb64ynv-1725330314845.jpg",
+        "location": "",
+        "point_id": "ntdb64ynv",
+        "point_name": "佛光寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751877,
+          35.026311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/nuwraa4n5-1725451004217.jpg",
+        "location": "",
+        "point_id": "nuwraa4n5",
+        "point_name": "一条戻橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.713648,
+          35.02834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": "EP1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/v0l5c3h9o-1745643726170.jpg",
+        "location": "",
+        "point_id": "v0l5c3h9o",
+        "point_name": "仁和寺御殿廻廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.766336,
+          35.008655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": "EP1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/v0lbiq1qr-1745644063514.jpg",
+        "location": "",
+        "point_id": "v0lbiq1qr",
+        "point_name": "三条通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771092,
+          35.00454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": "EP1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/v0lf35jly-1745644424862.jpg",
+        "location": "",
+        "point_id": "v0lf35jly",
+        "point_name": "お茶屋 楠本",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.754118,
+          35.007349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": "EP1",
+        "image_url": "https://w.junreimap.com/images/user/2104/bangumi/2973/points/v0lm7hton-1745644722119.jpg",
+        "location": "",
+        "point_id": "v0lm7hton",
+        "point_name": "本能公園前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.789099,
+          35.010076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2973,
+        "bangumi_title": "名侦探柯南 迷宫的十字路口",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2973/points/67v0yb4-1760546543017.jpg",
+        "location": "",
+        "point_id": "67v0yb4",
+        "point_name": "蹴上インクラインは",
+        "remark": "作品中有樱花飞舞，若要还原，需春季前往"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

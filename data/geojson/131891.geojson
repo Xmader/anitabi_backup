@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.767402,
+          35.721509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131891,
+        "bangumi_title": "暗杀教室 第二季",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/131891/points/o1mp1mx4p-1725977720676.jpg",
+        "location": "",
+        "point_id": "o1mp1mx4p",
+        "point_name": "みかどパン脇のヒマラヤ杉の前",
+        "remark": "渚和业在放学回家的路上，在面包店“みかどパン”旁的喜马拉雅杉下讨论过毕业后的去向。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60266,
+          36.13589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131891,
+        "bangumi_title": "暗杀教室 第二季",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/131891/points/o1mvc2o2r-1725978069889.jpg",
+        "location": "",
+        "point_id": "o1mvc2o2r",
+        "point_name": "加須市民体育館",
+        "remark": "动画中，渚等人毕业典礼的举办场地，其原型是加须市民体育馆。作品中，角色们乘坐巴士离开会场的那个十字路口也得到了高度还原。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.338144,
+          35.653729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131891,
+        "bangumi_title": "暗杀教室 第二季",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/131891/points/o1n1u096r-1725978436900.jpg",
+        "location": "",
+        "point_id": "o1n1u096r",
+        "point_name": "八王子駅",
+        "remark": "乌间独白场景中所描绘的茅野枫主演的电视剧的海报所贴的车站是八王子站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702092,
+          35.662886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131891,
+        "bangumi_title": "暗杀教室 第二季",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/131891/points/o1n6ppgb7-1725978742966.jpg",
+        "location": "",
+        "point_id": "o1n6ppgb7",
+        "point_name": "明治通り宮下第2歩道橋",
+        "remark": "乌间在最后一幕向伊莉娜求婚？那里的人行天桥是明治通宫下第二人行天桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.601975,
+          36.135431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 131891,
+        "bangumi_title": "暗杀教室 第二季",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/131891/points/o1nar0rla-1725979010448.jpg",
+        "location": "",
+        "point_id": "o1nar0rla",
+        "point_name": "加須市民体育館前",
+        "remark": "渚毕业典礼的原型是加须市民体育馆。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

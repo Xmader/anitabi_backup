@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.767529,
+          35.669366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1849,
+        "bangumi_title": "Keroro军曹",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1849/33ns2m9_1753762089806.jpg",
+        "location": "",
+        "point_id": "33ns2m9",
+        "point_name": "歌舞伎座",
+        "remark": "#302"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

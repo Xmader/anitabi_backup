@@ -1,0 +1,565 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.901721,
+          35.855692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wmtz",
+        "point_name": "流鉄流山駅",
+        "remark": "OP,1,9,12,13話など。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.902509,
+          35.856729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wms1",
+        "point_name": "流山市役所",
+        "remark": "多数回登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.902432,
+          35.856803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wmtv",
+        "point_name": "流山市役所前",
+        "remark": "ED,13話など。県道278号方面（北向き）を向きながら。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.899817,
+          35.857481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wn7p",
+        "point_name": "呉服新川屋",
+        "remark": "OP。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.901898,
+          35.855248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wn8o",
+        "point_name": "流山駅南の歩道橋",
+        "remark": "4話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.898186,
+          35.855518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wngh",
+        "point_name": "清水屋本店",
+        "remark": "2話など。食レポで訪れた陣屋餅のモデルとなった陣屋もなかが名物の和菓子屋（外観内観は一致しません。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.911087,
+          35.840782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山市街地（本町・鰭ヶ崎）エリア",
+        "point_id": "51i51wnv2",
+        "point_name": "とんかつ洋食マツノ",
+        "remark": "13話など。作中ではとんかつのウメノ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.925169,
+          35.871012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山おおたかの森・初石エリア",
+        "point_id": "51i51wndy",
+        "point_name": "流山おおたかの森S・C",
+        "remark": "１話。水着の品定めに訪れたショッピングモール。３階のサーティワンアイスクリームの店も登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.936109,
+          35.868508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山おおたかの森・初石エリア",
+        "point_id": "51i51wnys",
+        "point_name": "諏訪神社",
+        "remark": "OP。参道が登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.922905,
+          35.883548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "流山おおたかの森・初石エリア",
+        "point_id": "51i51wo4d",
+        "point_name": "ケーキハウスエーデル",
+        "remark": "13話など。たぬケーキのモデルを提供するケーキ屋さん。（外観は練馬区の別の店。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.905339,
+          35.915832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51woav",
+        "point_name": "運河橋",
+        "remark": "1話など多数回。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.904097,
+          35.915435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wop1",
+        "point_name": "運河水辺公園南岸",
+        "remark": "OP,13話など。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.90509,
+          35.916286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wp2f",
+        "point_name": "ビリケン像",
+        "remark": "4,13話など。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.904859,
+          35.916201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wp02",
+        "point_name": "運河水辺公園北岸（１）",
+        "remark": "1,5,13話、EDなど。ビリケン像や利根運河の看板付近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.903741,
+          35.915854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wpdm",
+        "point_name": "運河水辺公園北岸（２）",
+        "remark": "13話など。不審者注意やバーベキュー注意の看板あたり。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.903226,
+          35.915706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wp2d",
+        "point_name": "運河水辺公園北岸（３）",
+        "remark": "5,13話など。ムルデル碑あたり。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.902762,
+          35.915839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wpfy",
+        "point_name": "お好焼運河亭前の道",
+        "remark": "ED。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.879099,
+          35.908346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "運河エリア",
+        "point_id": "51i51wp7z",
+        "point_name": "利根運河と江戸川合流地点",
+        "remark": "OP。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.880969,
+          35.170572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpxk",
+        "point_name": "名古屋駅新幹線ホーム",
+        "remark": "11話、12話。12話では上り14番線４，５号車の間付近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.884844,
+          35.168267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wq9g",
+        "point_name": "ナナちゃん人形",
+        "remark": "11話。なにゃちゃん人形ではありません（ぇ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.883222,
+          35.171239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpq6",
+        "point_name": "名古屋駅桜通口2F",
+        "remark": "12話。ペデストリアンデッキ上から。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.90697,
+          35.17009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpuf",
+        "point_name": "サンシャインサカエ",
+        "remark": "11話。名古屋城からタクシーで帰るシーン。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.90174,
+          35.184139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpyj",
+        "point_name": "名古屋城二の丸広場",
+        "remark": "11話。このあたりで、ロコドルフェスタ前夜祭の愛・地域物産展が行われていました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.898714,
+          35.183893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpm4",
+        "point_name": "名古屋城天守閣",
+        "remark": "11話。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.913595,
+          35.154955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpq4",
+        "point_name": "カフェレスト　ラディッシュ（※閉店済み）",
+        "remark": "12話冒頭に訪れた、水曜どうでしょうの対決列島にも登場した藤村Dのご実家の喫茶店。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.913198,
+          35.170142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "名古屋都心部（11,12話）",
+        "point_id": "51i51wpme",
+        "point_name": "中電ホール",
+        "remark": "11,12話。ロコドルフェスタ会場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116367,
+          35.673337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他（関東地方）",
+        "point_id": "51i51wr1c",
+        "point_name": "こてはし温水プール",
+        "remark": "1,13話。中は一致しない。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.58867,
+          35.738479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 94236,
+        "bangumi_title": "普通女高中生要做当地偶像",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他（関東地方）",
+        "point_id": "51i51wqt0",
+        "point_name": "ラ・プリムール カフェ",
+        "remark": "13話など。たぬケーキのヨーデル堂の外観モデル。四月は君の嘘3話などでも登場。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

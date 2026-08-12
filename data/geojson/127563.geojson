@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.651611,
+          35.670254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 127563,
+        "bangumi_title": "一拳超人",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/127563/points/5dtoqe4-1758730345752.jpg",
+        "location": "",
+        "point_id": "5dtoqe4",
+        "point_name": "三井のリパーク 松原１丁目第２ 駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651752,
+          35.670275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 127563,
+        "bangumi_title": "一拳超人",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/127563/points/5dtvoz2-1758730519391.jpg",
+        "location": "",
+        "point_id": "5dtvoz2",
+        "point_name": "三井のリパーク 松原１丁目第２ 駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65166,
+          35.670263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 127563,
+        "bangumi_title": "一拳超人",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/127563/points/5dty6e8-1758730634695.jpg",
+        "location": "",
+        "point_id": "5dty6e8",
+        "point_name": "三井のリパーク 松原１丁目第２ 駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579729,
+          35.703618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 127563,
+        "bangumi_title": "一拳超人",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/127563/points/5du4bmu-1758730918681.jpg",
+        "location": "",
+        "point_id": "5du4bmu",
+        "point_name": "吉祥寺 北口",
+        "remark": "到这里来的还可以顺便把P5R巡了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579749,
+          35.703425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 127563,
+        "bangumi_title": "一拳超人",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/127563/points/5du7n9k-1758731071857.jpg",
+        "location": "",
+        "point_id": "5du7n9k",
+        "point_name": "吉祥寺北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

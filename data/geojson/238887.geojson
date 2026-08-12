@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.122904,
+          39.282056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238887,
+        "bangumi_title": "咒术回战",
+        "ep_cut": "264话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238887/points/odjnagwce-1726911889613.jpg",
+        "location": "",
+        "point_id": "odjnagwce",
+        "point_name": "北上駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

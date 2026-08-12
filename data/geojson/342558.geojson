@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.364869,
+          34.816627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 342558,
+        "bangumi_title": "天上恋歌~金之公主与火之药师~",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/342558/points/567swq1-1758270253115.jpg",
+        "location": "",
+        "point_id": "567swq1",
+        "point_name": "开宝寺琉璃塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.358792,
+          34.77062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 342558,
+        "bangumi_title": "天上恋歌~金之公主与火之药师~",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/342558/points/5684rru-1758270752383.jpg",
+        "location": "",
+        "point_id": "5684rru",
+        "point_name": "繁塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

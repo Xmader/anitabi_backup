@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.450705,
+          35.541747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/295364/us8hnalqh_1764761776160.jpg",
+        "location": "",
+        "point_id": "us8hnalqh",
+        "point_name": "ハントリービル",
+        "remark": "诗樱学姐家附近的路口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.453513,
+          35.543223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/295364/points/us8ny96p8-1744989650105.jpg",
+        "location": "",
+        "point_id": "us8ny96p8",
+        "point_name": "ヒット税理士事務所",
+        "remark": "华乃家附近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.469001,
+          35.542705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/295364/points/us8ranrjg-1744989798891.jpg",
+        "location": "",
+        "point_id": "us8ranrjg",
+        "point_name": "弁天橋公園",
+        "remark": "公园靠近河的一端"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.464272,
+          35.565457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/295364/points/us8szbmo8-1744989932129.jpg",
+        "location": "",
+        "point_id": "us8szbmo8",
+        "point_name": "玉川大学",
+        "remark": "学校注意"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.523772,
+          33.125194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/295364/points/us9dd5g9g-1744991134077.jpg",
+        "location": "",
+        "point_id": "us9dd5g9g",
+        "point_name": "居村米穀店附近",
+        "remark": "途中所有原型店铺均已倒闭"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.573343,
+          32.432817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/295364/points/us9fzil68-1744991299525.jpg",
+        "location": "",
+        "point_id": "us9fzil68",
+        "point_name": "柳屋旅馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.448331,
+          35.541319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/437532/points/us8fl6uax-1744989145337.jpg",
+        "location": "",
+        "point_id": "us8fl6uax",
+        "point_name": "小陽生煎饅頭屋",
+        "remark": "站前商业街入口处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.44576,
+          35.543667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295364,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295364/points/us7jqajwl-1744987167320.jpg",
+        "location": "",
+        "point_id": "us7jqajwl",
+        "point_name": "町田駅前",
+        "remark": "站前的交叉路口"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

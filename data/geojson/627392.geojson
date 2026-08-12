@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.276066,
+          31.395416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 627392,
+        "bangumi_title": "钟塔",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/627392/b1kq7b6_1771050264068.jpg",
+        "location": "",
+        "point_id": "b1kq7b6",
+        "point_name": "嘉定区迎园中学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.249366,
+          31.388466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 627392,
+        "bangumi_title": "钟塔",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/627392/points/cvw75wx-1775060289007.jpg",
+        "location": "",
+        "point_id": "cvw75wx",
+        "point_name": "嘉定城隍庙",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.246645,
+          31.386277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 627392,
+        "bangumi_title": "钟塔",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/627392/points/cvwc2gz-1775060521205.jpg",
+        "location": "",
+        "point_id": "cvwc2gz",
+        "point_name": "州桥老街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.478758,
+          31.239128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 627392,
+        "bangumi_title": "钟塔",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/627392/points/d1gtwbb-1775397295962.jpg",
+        "location": "",
+        "point_id": "d1gtwbb",
+        "point_name": "百联ZX",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

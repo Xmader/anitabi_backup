@@ -1,0 +1,745 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.566678,
+          34.735697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/274/59y3hz1c2_1673028365705.jpg",
+        "location": "",
+        "point_id": "59y3hz1c2",
+        "point_name": "守口市",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.299155,
+          43.078522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/274/mkja0njit_1721816972477.jpg",
+        "location": "",
+        "point_id": "mkja0njit",
+        "point_name": "看奈雪的小拳拳",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.303126,
+          43.076341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1093/bangumi/274/points/l1n9mto2w-1717515561217.jpg",
+        "location": "",
+        "point_id": "l1n9mto2w",
+        "point_name": "北洋銀行",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.303206,
+          43.076295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/274/mlr9y6iv7_1721912682506.jpg",
+        "location": "",
+        "point_id": "mlr9y6iv7",
+        "point_name": "香里＆北川に遭遇",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.335715,
+          43.056768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/274/mkhzoitnb_1721814606957.jpg",
+        "location": "",
+        "point_id": "mkhzoitnb",
+        "point_name": "あゆと映画の後",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.361878,
+          43.032627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/274/mkg57dws0_1721810131678.jpg",
+        "location": "",
+        "point_id": "mkg57dws0",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.311493,
+          43.053168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/274/mlio40zfv_1721893955474.jpg",
+        "location": "",
+        "point_id": "mlio40zfv",
+        "point_name": "登山入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351084,
+          43.03805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/274/mkg6ndni4_1721810279616.jpg",
+        "location": "",
+        "point_id": "mkg6ndni4",
+        "point_name": "舞踏会翌日 名雪と登校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.400154,
+          35.70322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/274/mlit5mp28_1721894266826.jpg",
+        "location": "",
+        "point_id": "mlit5mp28",
+        "point_name": "栞とデート（屋台）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.398852,
+          35.703939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/274/mliyv5lbl_1721894733880.jpg",
+        "location": "",
+        "point_id": "mliyv5lbl",
+        "point_name": "栞とデート（おやつ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.40107,
+          35.702626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/274/mlisf2s23_1721894219665.jpg",
+        "location": "",
+        "point_id": "mlisf2s23",
+        "point_name": "栞とデート（噴水前）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.298148,
+          43.079137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/274/mlip6fwcx_1721894032227.jpg",
+        "location": "",
+        "point_id": "mlip6fwcx",
+        "point_name": "和栞走的桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.402648,
+          35.702917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/274/mlirq7wbo_1721894173368.jpg",
+        "location": "",
+        "point_id": "mlirq7wbo",
+        "point_name": "栞との出会い",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.396492,
+          35.705169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/274/mlj1wak7t_1721894782883.jpg",
+        "location": "",
+        "point_id": "mlj1wak7t",
+        "point_name": "时钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.400277,
+          35.703451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/274/mliw8bgkt_1721894464966.jpg",
+        "location": "",
+        "point_id": "mliw8bgkt",
+        "point_name": "栞とのデートの終わり",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353348,
+          43.048733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/274/mkhfxbp1q_1721813005505.jpg",
+        "location": "",
+        "point_id": "mkhfxbp1q",
+        "point_name": "あゆが駆けて行く道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353747,
+          43.048703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/274/mkhakzcta_1721812690792.jpg",
+        "location": "",
+        "point_id": "mkhakzcta",
+        "point_name": "あゆと渡る橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.33632,
+          43.056765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/274/mkhqhhgo1_1721813991885.jpg",
+        "location": "",
+        "point_id": "mkhqhhgo1",
+        "point_name": "医院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.299015,
+          43.081122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/points/274/mliq0674w_1721894075745.jpg",
+        "location": "",
+        "point_id": "mliq0674w",
+        "point_name": "和栞沿着海边散步",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.337277,
+          43.030581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/274/mkislhnxx_1721815868861.jpg",
+        "location": "",
+        "point_id": "mkislhnxx",
+        "point_name": "编组站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350803,
+          43.066263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/274/mkiuzu0tu_1721816066113.jpg",
+        "location": "",
+        "point_id": "mkiuzu0tu",
+        "point_name": "冬季的街道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.311124,
+          43.053082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/274/mlioq38lz_1721893987859.jpg",
+        "location": "",
+        "point_id": "mlioq38lz",
+        "point_name": "ものみの丘　鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.421535,
+          35.731531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/274/mlj7ggk3y_1721895123614.jpg",
+        "location": "",
+        "point_id": "mlj7ggk3y",
+        "point_name": "学校",
+        "remark": "图片来源于BD巡礼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.357359,
+          43.034888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop1e6",
+        "point_name": "真琴と登校　アンダーパス",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第8話[2007/5/1 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt1)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.355859,
+          43.035043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop0nk",
+        "point_name": "真琴を連れて一家で外食",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第10話[2007/5/1 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt2)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351954,
+          43.034784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop1af",
+        "point_name": "あゆと登校",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第20話[2007/5/1 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt3)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350141,
+          43.045169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop1fx",
+        "point_name": "真琴とデートの帰り道",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第13話[2007/5/1 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt5)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.346621,
+          43.048799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop25l",
+        "point_name": "ペットショップ Lia",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  -prelude-[2007/5/2 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt6)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.345033,
+          43.066301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop29e",
+        "point_name": "街の俯瞰風景",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第16話/第22話[2007/5/2 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-2.htm#txt9)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351074,
+          43.067931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop59r",
+        "point_name": "北国シネマフロンティア（チケットカウンター）",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第6話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-2.htm#txt12)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.362564,
+          43.064506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop58r",
+        "point_name": "北国シネマフロンティア（エスカレーター）",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第6話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-2.htm#txt13)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.315857,
+          43.055021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/274/points/5qaop5k2-1745410626269.jpg",
+        "location": "",
+        "point_id": "5qaop5k2",
+        "point_name": "名雪の駅伝スタート地点",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第19話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-3.htm#txt16)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.311131,
+          43.051736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop7mo",
+        "point_name": "ものみの丘　真琴の手を引いて",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第10話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-3.htm#txt19)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.311495,
+          43.051258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop88z",
+        "point_name": "消えた真琴への問いかけ",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第17話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-3.htm#txt20)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.31451,
+          43.039779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop8fh",
+        "point_name": "ものみの丘？",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第10話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-3.htm#txt21)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.301201,
+          43.077458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop94k",
+        "point_name": "香里帰宅路",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第17話[2007/5/5 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-4.htm#txt23)by USO9000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.298492,
+          43.078849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5qaop9u3",
+        "point_name": "栞と別れた道",
+        "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第17話[2007/5/4 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-4.htm#txt27)by USO9000"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

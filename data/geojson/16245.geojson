@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.776146,
+          35.711413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16245,
+        "bangumi_title": "世界上最NG的恋爱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16245/p7r7fk8tm_1729278779822.jpg",
+        "location": "",
+        "point_id": "p7r7fk8tm",
+        "point_name": "JR上野駅 広小路口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77565,
+          35.711778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16245,
+        "bangumi_title": "世界上最NG的恋爱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16245/p8cmuuh4o_1729325408558.jpg",
+        "location": "",
+        "point_id": "p8cmuuh4o",
+        "point_name": "JR上野駅 広小路口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

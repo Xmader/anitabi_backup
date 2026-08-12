@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.61214,
+          35.788236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129807,
+        "bangumi_title": "命运石之门 0",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/129807/u0uhb6oez_1742842917866.jpg",
+        "location": "",
+        "point_id": "u0uhb6oez",
+        "point_name": "和光市駅南口",
+        "remark": "伦太郎前往脑科学研究所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.610117,
+          35.780625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129807,
+        "bangumi_title": "命运石之门 0",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/129807/u0umve4ge_1742843250163.jpg",
+        "location": "",
+        "point_id": "u0umve4ge",
+        "point_name": "広沢バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.612356,
+          35.780267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129807,
+        "bangumi_title": "命运石之门 0",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/129807/points/u0hnozegg-1765446000147.jpg",
+        "location": "",
+        "point_id": "u0hnozegg",
+        "point_name": "理化学\n研究所",
+        "remark": "日本理化学研究所（RIKEN）内部，具体位置未知。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706286,
+          35.729325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129807,
+        "bangumi_title": "命运石之门 0",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10380/points/ko4rp4lmm-1716456655148.jpg",
+        "location": "",
+        "point_id": "ko4rp4lmm",
+        "point_name": "西池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.96162,
+          40.807833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129807,
+        "bangumi_title": "命运石之门 0",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10380/points/57jpqmd-1758352021265.jpg",
+        "location": "",
+        "point_id": "57jpqmd",
+        "point_name": "Victor Condria University",
+        "remark": "Victor Condria University is a fictional school in the United States, and is a university where Makise Chris attended. The school is modeled after Columbia University , a real university in New York, USA."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614464,
+          35.780956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129807,
+        "bangumi_title": "命运石之门 0",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/129807/points/8gv5lov-1765444490862.jpg",
+        "location": "",
+        "point_id": "8gv5lov",
+        "point_name": "理化学研究所正门",
+        "remark": "现实中是日本理化学研究所（RIKEN），下属的脑神经科学研究中心（RIKEN-CBS）也位于此处。正门写着\"理化学研究所\"而非\"脑科学研究所\"，但其余景观完全相同。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

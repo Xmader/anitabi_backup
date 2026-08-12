@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.299176,
+          30.407439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 405223,
+        "bangumi_title": "怪想售",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/405223/points/6ifxle2-1761187001214.jpg",
+        "location": "",
+        "point_id": "6ifxle2",
+        "point_name": "地铁临平站D口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

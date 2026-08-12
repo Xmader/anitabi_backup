@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.726345,
+          41.77388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294202,
+        "bangumi_title": "ARGONAVIS from BanG Dream! ANIMATION",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/294202/points/nqfaowqg3-1725101887413.jpg",
+        "location": "",
+        "point_id": "nqfaowqg3",
+        "point_name": "UR函館駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.71642,
+          41.766441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294202,
+        "bangumi_title": "ARGONAVIS from BanG Dream! ANIMATION",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/294202/points/nqig58qq8-1725106586363.jpg",
+        "location": "",
+        "point_id": "nqig58qq8",
+        "point_name": "函館ビヤホール",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353116,
+          43.057307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294202,
+        "bangumi_title": "ARGONAVIS from BanG Dream! ANIMATION",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/294202/points/nqjs0qo7i-1725109294986.jpg",
+        "location": "",
+        "point_id": "nqjs0qo7i",
+        "point_name": "狸小路",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

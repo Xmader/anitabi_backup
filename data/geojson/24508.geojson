@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.355714,
+          43.058761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24508,
+        "bangumi_title": "潜行吧！奈亚子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/24508/kpx6okwtc_1737726089466.jpg",
+        "location": "",
+        "point_id": "kpx6okwtc",
+        "point_name": "アニメイト札幌店前",
+        "remark": "ニャル子さん1期1話、2期1話舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523079,
+          35.735087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24508,
+        "bangumi_title": "潜行吧！奈亚子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/24508/kpx6ol0lb_1737726137770.jpg",
+        "location": "",
+        "point_id": "kpx6ol0lb",
+        "point_name": "スカイタワー西東京（田無タワー）",
+        "remark": "ニャル子さん2話舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480711,
+          35.699166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24508,
+        "bangumi_title": "潜行吧！奈亚子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/24508/kpx6ol1a1_1737726173298.jpg",
+        "location": "",
+        "point_id": "kpx6ol1a1",
+        "point_name": "国分寺駅南口",
+        "remark": "ニャル子さん9話舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712923,
+          35.730208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24508,
+        "bangumi_title": "潜行吧！奈亚子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/24508/kpx6ol1c6_1737726127274.jpg",
+        "location": "",
+        "point_id": "kpx6ol1c6",
+        "point_name": "池袋駅東口34番出口付近",
+        "remark": "ニャル子さん9話舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353391,
+          43.062398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24508,
+        "bangumi_title": "潜行吧！奈亚子",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/24508/points/kpx6ol0t4-1737034936282.jpg",
+        "location": "",
+        "point_id": "kpx6ol0t4",
+        "point_name": "札幌市時計台",
+        "remark": "ニャル子さん12話舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.352909,
+          43.064608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24508,
+        "bangumi_title": "潜行吧！奈亚子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/24508/kpx6ol194_1737726254354.jpg",
+        "location": "",
+        "point_id": "kpx6ol194",
+        "point_name": "北3条通り西2交差点",
+        "remark": "ニャル子さん12話舞台"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -61.338118,
+          12.697125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81373,
+        "bangumi_title": "侠盗猎车手OL",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81373/points/v74m5dyyv-1746156270253.jpg",
+        "location": "",
+        "point_id": "v74m5dyyv",
+        "point_name": "卡努安岛",
+        "remark": "啊哈CCMT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

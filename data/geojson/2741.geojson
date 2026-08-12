@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.361426,
+          34.722052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2741,
+        "bangumi_title": "棒球英豪",
+        "ep_cut": "101",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2741/points/utaafm1bu-1745071640335.jpg",
+        "location": "",
+        "point_id": "utaafm1bu",
+        "point_name": "阪神甲子園球場",
+        "remark": "めざせカッちゃん甲子園！"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -80.12022,
+          25.948183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 503983,
+        "bangumi_title": "异环",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/503983/g4o744b_1782121434254.webp",
+        "location": "",
+        "point_id": "g4o744b",
+        "point_name": "Porsche Design Tower",
+        "remark": "游戏中位于海特洛市新赫兰德区的一栋建筑，楼下为保时捷车行，楼上为玩家可购买的房产「天骏公阁」。原型为位于美国迈阿密的保时捷设计大厦（官方联动）。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -80.120784,
+          25.94798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 503983,
+        "bangumi_title": "异环",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/503983/g8o9qro_1782363376147.webp",
+        "location": "",
+        "point_id": "g8o9qro",
+        "point_name": "Porsche Design Tower",
+        "remark": "入口"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

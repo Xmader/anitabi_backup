@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.47268,
+          31.193231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221020,
+        "bangumi_title": "全职高手 特别篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221020/points/pj6gdn4r5-1730173960319.jpg",
+        "location": "",
+        "point_id": "pj6gdn4r5",
+        "point_name": "外滩",
+        "remark": "动画实际是把陆家嘴建筑群移到了可见视角，画面中桥为卢浦大桥，对面蝶形建筑为梅赛德斯奔驰文化中心"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.691719,
+          35.689498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 368116,
+        "bangumi_title": "尼尔：自动人形 Ver1.1a",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/368116/points/5g7zwd9va-1673520047209.jpg",
+        "location": "",
+        "point_id": "5g7zwd9va",
+        "point_name": "東京​都庁​第一​庁舎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.949564,
+          51.535142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 368116,
+        "bangumi_title": "尼尔：自动人形 Ver1.1a",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/368116/points/9vxvaar-1768532810181.jpg",
+        "location": "",
+        "point_id": "9vxvaar",
+        "point_name": "Bagger 1473",
+        "remark": "原型也可能是现在在服役的霸格293型/霸格288型挖掘机"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

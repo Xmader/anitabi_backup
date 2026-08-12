@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -118.277338,
+          33.741979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81281,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/81281/points/t6yxrd-1748775823985.jpg",
+        "location": "戦艦",
+        "point_id": "t6yxrd",
+        "point_name": "Battleship USS Iowa (BB-61)",
+        "remark": "衣阿华原型舰，现作为博物馆展出"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.286691,
+          22.689424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81281,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/208559/q9emzs_1759491850168.jpg",
+        "location": "駆逐",
+        "point_id": "q9emzs",
+        "point_name": "左營軍區故事館",
+        "remark": "丹阳号的舰钟陈列于其中"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

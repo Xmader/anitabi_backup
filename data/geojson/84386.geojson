@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.473906,
+          34.2452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84386,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/84386/51i527jmm_1672369418971.jpg",
+        "location": "",
+        "point_id": "51i527jmm",
+        "point_name": "海上自衛隊幹部候補生学校庁舎（海軍兵学校生徒館）",
+        "remark": "艦娘たちが学んでいる学校の外観のモデル。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.476009,
+          34.24434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84386,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/84386/51i527jjh_1672369419344.jpg",
+        "location": "",
+        "point_id": "51i527jjh",
+        "point_name": "１術校庁舎",
+        "remark": "2話より。この建物の屋根の上にあるラッパが2話に登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.548465,
+          34.225287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84386,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/84386/51i527jos_1672369419693.jpg",
+        "location": "",
+        "point_id": "51i527jos",
+        "point_name": "旧魚雷上げ下ろしクレーン",
+        "remark": "2話で吹雪がランニングしているシーンに出てくるクレーンのモデルと思われる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.549384,
+          34.226041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84386,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/84386/51i527jb9_1672369419967.jpg",
+        "location": "",
+        "point_id": "51i527jb9",
+        "point_name": "潜水艦桟橋",
+        "remark": "１話ＯＰで吹雪が座っている桟橋のモデルと思しき桟橋。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.560075,
+          34.236925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84386,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/84386/51i527jjd_1672369420312.jpg",
+        "location": "",
+        "point_id": "51i527jjd",
+        "point_name": "海上自衛隊呉地方総監部庁舎（旧呉鎮守府庁舎）",
+        "remark": "1話より。司令部があると思われる建物の外観モデル。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.563036,
+          34.238131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 84386,
+        "bangumi_title": "舰队Collection",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/84386/51i527jgp_1672369420530.jpg",
+        "location": "",
+        "point_id": "51i527jgp",
+        "point_name": "藤棚",
+        "remark": "1話から幾度か出てくる藤棚。作中では、学校の敷地内に存在しているが、この場所の藤棚がよく似ており、参考にしたのではないかと思われる。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

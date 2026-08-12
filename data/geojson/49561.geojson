@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.4608,
+          35.641936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49561,
+        "bangumi_title": "恋花绽放樱飞时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/49561/6gjo7f6_1761071555688.jpg",
+        "location": "",
+        "point_id": "6gjo7f6",
+        "point_name": "ゆうひの丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.425158,
+          35.624445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49561,
+        "bangumi_title": "恋花绽放樱飞时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/49561/6gjtgx8_1761071840454.jpg",
+        "location": "",
+        "point_id": "6gjtgx8",
+        "point_name": "多摩センター駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.42546,
+          35.623132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49561,
+        "bangumi_title": "恋花绽放樱飞时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/49561/6gk0kft_1761072128424.jpg",
+        "location": "",
+        "point_id": "6gk0kft",
+        "point_name": "パルテノン大通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796145,
+          35.625164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49561,
+        "bangumi_title": "恋花绽放樱飞时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/49561/6gkea5i_1761072769948.jpg",
+        "location": "",
+        "point_id": "6gkea5i",
+        "point_name": "東京港M-P岸壁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.392201,
+          35.612012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 49561,
+        "bangumi_title": "恋花绽放樱飞时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/49561/6gk41ed_1761072291299.jpg",
+        "location": "",
+        "point_id": "6gk41ed",
+        "point_name": "長池見附橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

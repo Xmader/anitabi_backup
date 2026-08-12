@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.46355,
+          40.608043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472661,
+        "bangumi_title": "欢迎来到日本，精灵小姐。",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/472661/points/ucobtdc6e-1743769946460.jpg",
+        "location": "",
+        "point_id": "ucobtdc6e",
+        "point_name": "弘前城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.894326,
+          35.701987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472661,
+        "bangumi_title": "欢迎来到日本，精灵小姐。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "6ywyo07",
+        "point_name": "藍屋 京葉谷河内店",
+        "remark": "（预标点，待补图）EP1中吃天妇罗的餐厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.04205,
+          36.039036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472661,
+        "bangumi_title": "欢迎来到日本，精灵小姐。",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "6yx5aic",
+        "point_name": "天然自家源泉 星音の湯",
+        "remark": "（预标点，待补图）EP8的温泉旅馆"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

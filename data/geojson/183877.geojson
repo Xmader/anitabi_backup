@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.670327,
+          35.662434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183877,
+        "bangumi_title": "雏子日记",
+        "ep_cut": "12集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183877/points/cn9pehb-1774538939862.jpg",
+        "location": "",
+        "point_id": "cn9pehb",
+        "point_name": "ザ・スズナリ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

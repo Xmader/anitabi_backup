@@ -1,0 +1,445 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          130.957535,
+          30.374759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "https://w.junreimap.com/images/points/36261/lye1l81sg_1720081544187.jpg",
+        "location": "",
+        "point_id": "lye1l81sg",
+        "point_name": "種子島宇宙センター 宇宙科学技術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637075,
+          35.65134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "7卷 68话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/36261/points/7c4154d4-1749122375015.jpg",
+        "location": "Untitled layer",
+        "point_id": "7c4154d4",
+        "point_name": "背景カット",
+        "remark": "7巻p3第68話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445686,
+          35.541865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "eca83b34",
+        "point_name": "町田駅",
+        "remark": "JR町田駅，小田急町田駅周辺は7,8巻メインロケ地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700258,
+          35.690921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "facf3bb9",
+        "point_name": "新宿駅",
+        "remark": "JR新宿駅．9巻星川演説場所．"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700475,
+          35.689313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "1c8acf3f",
+        "point_name": "星川演説地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.652737,
+          31.240795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "https://w.junreimap.com/images/points/36261/lyd8ur6ss_1720079825828.jpg",
+        "location": "",
+        "point_id": "lyd8ur6ss",
+        "point_name": "指宿港待合所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647292,
+          35.642907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/36261/points/3218de31-1749122473999.jpg",
+        "location": "Untitled layer",
+        "point_id": "3218de31",
+        "point_name": "プンプンパパ下車",
+        "remark": "7巻-p5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758287,
+          35.694125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "231d34a1",
+        "point_name": "小学館ビル",
+        "remark": "幸とプンプンは大江戸線に乗り換えて，神保町駅で下車．"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75812,
+          35.695492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "a80f5eef",
+        "point_name": "神保町駅",
+        "remark": "小学館ビル付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445768,
+          35.543057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "fc1a29f6",
+        "point_name": "三省堂書店",
+        "remark": "店長，運転免許本購入？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445376,
+          35.541562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "ac049647",
+        "point_name": "駐車場",
+        "remark": "プンプンと幸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.444891,
+          35.541872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "f221b11c",
+        "point_name": "デニーズ前",
+        "remark": "プンプンと幸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.446766,
+          35.541092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "e80a03cd",
+        "point_name": "地下道出入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.447188,
+          35.541574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "bef95557",
+        "point_name": "世界堂町田店",
+        "remark": "幸　画材購入場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.448765,
+          35.544198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "f7fe765f",
+        "point_name": "ジョナサン　町田駅東店",
+        "remark": "プンプンと三村が幸と蟹江におごってもらうetc"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.451858,
+          35.54774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "cd1d7107",
+        "point_name": "芹ケ谷公園",
+        "remark": "噴水とかいろいろプンプンと幸が雪合戦"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.570473,
+          35.696221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "Untitled layer",
+        "point_id": "ffe07605",
+        "point_name": "三鷹の森ジブリ美術館",
+        "remark": "10巻　愛子ちゃんと待ち合わせてデート"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.989893,
+          30.731611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "https://w.junreimap.com/images/points/36261/lyev70exq_1720083371185.jpg",
+        "location": "",
+        "point_id": "lyev70exq",
+        "point_name": "種•屋久高速船 西之表窓口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.544015,
+          31.583596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "https://w.junreimap.com/images/points/36261/mh8lzgkrp_1721558596488.jpg",
+        "location": "",
+        "point_id": "mh8lzgkrp",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.543756,
+          31.583473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "https://w.junreimap.com/images/points/36261/mh8n8gy5g_1721558698430.jpg",
+        "location": "",
+        "point_id": "mh8n8gy5g",
+        "point_name": 19,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.962433,
+          30.389886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "https://w.junreimap.com/images/points/36261/n7wh2mfka_1723648010474.jpg",
+        "location": "",
+        "point_id": "n7wh2mfka",
+        "point_name": "大崎海岸北眺 发射场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.542657,
+          31.583628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 36261,
+        "bangumi_title": "晚安，布布",
+        "ep_cut": "13卷",
+        "image_url": "",
+        "location": "",
+        "point_id": "n7xiblnma",
+        "point_name": "",
+        "remark": "因为站点改建，在13卷发表时站前阶梯已改建成封闭式，2018年画面左侧一番街也改建为购物中心。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

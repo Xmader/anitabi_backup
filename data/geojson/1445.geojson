@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.745574,
+          35.658669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1445,
+        "bangumi_title": "香格里拉",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1445/33mq9b3_1753760320587.jpg",
+        "location": "",
+        "point_id": "33mq9b3",
+        "point_name": "東京タワー",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

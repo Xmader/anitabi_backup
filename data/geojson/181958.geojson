@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.885708,
+          54.182014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 181958,
+        "bangumi_title": "战地1",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/181958/points/1d2i2io-1749977420787.jpg",
+        "location": "",
+        "point_id": "1d2i2io",
+        "point_name": "Helgoland",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.485422,
+          49.193942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 181958,
+        "bangumi_title": "战地1",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/181958/points/1d3gsgp-1749979185127.jpg",
+        "location": "",
+        "point_id": "1d3gsgp",
+        "point_name": "Château de Chantilly",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          5.470153,
+          49.200416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 181958,
+        "bangumi_title": "战地1",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/181958/points/1d9fxx2-1749989113642.jpg",
+        "location": "",
+        "point_id": "1d9fxx2",
+        "point_name": "Fort de Vaux",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.29675,
+          49.895577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 181958,
+        "bangumi_title": "战地1",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/181958/points/1d9nwaf-1749989448759.jpg",
+        "location": "",
+        "point_id": "1d9nwaf",
+        "point_name": "Amiens",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

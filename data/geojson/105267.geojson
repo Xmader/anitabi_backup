@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.675395,
+          35.44338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105267,
+        "bangumi_title": "沙漠中的男孩生活",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ncac0lshn",
+        "point_name": "岐阜第一高等学校",
+        "remark": "我为了保险起见报考的学校是私立的男校，所以体育馆里不管左看右看都是男生。\n——《沙漠中的男孩生活》 1『马头琴（暂定）之诗』\n\n校长的长篇大论结束后，开始介绍来自蒙古的留学生。他们是从合作学校过来的，听说目标是成为这里的柔道选手。\n——《沙漠中的男孩生活》 1『马头琴（暂定）之诗』"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.764284,
+          35.438678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105267,
+        "bangumi_title": "沙漠中的男孩生活",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ncacck02v",
+        "point_name": "想作新中華料理 昇龍",
+        "remark": "「昨天啊，我闲着没事，就在镇上到处乱晃。然后，我无意间走进一间中华料理店，结果有个穿旗袍的女生在招呼客人。看到她的时候，我心想『啊啊，这身打扮真棒』，还感动了一下。那女生确实很可爱，但即使忽视这点，那种布料的光泽也很棒。对吧？」\n——《沙漠中的男孩生活》 2『海市蜃楼的美女』"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

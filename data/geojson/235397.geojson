@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.190404,
+          36.006098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 235397,
+        "bangumi_title": "恋爱小行星",
+        "ep_cut": "74",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/235397/points/47tp7nx-1756191023281.jpg",
+        "location": "",
+        "point_id": "47tp7nx",
+        "point_name": "堂平天文台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

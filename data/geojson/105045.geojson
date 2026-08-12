@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.481909,
+          35.299977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105045,
+        "bangumi_title": "海街日记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/105045/mtnss7wkb_1725133061393.jpg",
+        "location": "",
+        "point_id": "mtnss7wkb",
+        "point_name": "文佐食堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.492403,
+          35.305464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105045,
+        "bangumi_title": "海街日记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/105045/mtnuks21k_1722532163561.jpg",
+        "location": "",
+        "point_id": "mtnuks21k",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510659,
+          35.305752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105045,
+        "bangumi_title": "海街日记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/105045/mtnx5ji7d_1722532299764.jpg",
+        "location": "",
+        "point_id": "mtnx5ji7d",
+        "point_name": 2,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510302,
+          35.30518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105045,
+        "bangumi_title": "海街日记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/105045/mtnxy46bu_1722532383603.jpg",
+        "location": "",
+        "point_id": "mtnxy46bu",
+        "point_name": 2,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521392,
+          35.3033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105045,
+        "bangumi_title": "海街日记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/105045/points/mto59yuzt-1754745136701.jpg",
+        "location": "",
+        "point_id": "mto59yuzt",
+        "point_name": "関東ふれあいの道",
+        "remark": "绫濑遥和男朋友分手的场地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

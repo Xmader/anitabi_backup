@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.127916,
+          37.909466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 485154,
+        "bangumi_title": "我的鬼女孩",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/485154/points/oqb6wmqlz-1727911837011.jpg",
+        "location": "",
+        "point_id": "oqb6wmqlz",
+        "point_name": "米沢駅",
+        "remark": "原片1分半处，男主走出地铁站口的机位俯拍视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.12808,
+          37.909593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 485154,
+        "bangumi_title": "我的鬼女孩",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/485154/points/oqbf196kt-1727912341065.jpg",
+        "location": "",
+        "point_id": "oqbf196kt",
+        "point_name": "米沢駅",
+        "remark": "原片1分20秒处开始，男主下车从米泽站西口出口离开时，摄像机向内拍摄的的室内景点处。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.125252,
+          37.913321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 485154,
+        "bangumi_title": "我的鬼女孩",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/485154/points/pks41nvab-1730299525435.jpg",
+        "location": "",
+        "point_id": "pks41nvab",
+        "point_name": "ヨークベニマル 米沢店",
+        "remark": "原型为米泽站西北方向的超市：ヨークベニマル 米沢店（York Benimaru Yonezawa），动漫中修改了商标图标和文字，并从超市东北角的T型路口向西南方拍摄。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.124588,
+          37.911663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 485154,
+        "bangumi_title": "我的鬼女孩",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/485154/points/pksaus3zx-1730299891560.jpg",
+        "location": "",
+        "point_id": "pksaus3zx",
+        "point_name": "大山祇神社",
+        "remark": "米泽站西北处的大山祇神社（镇座大山祇神社），动漫中仅拍摄了上半部分"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.120346,
+          37.910929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 485154,
+        "bangumi_title": "我的鬼女孩",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/485154/points/pkshawp9n-1730300377163.jpg",
+        "location": "",
+        "point_id": "pkshawp9n",
+        "point_name": "県道6号（住之江町通り）",
+        "remark": "处于米沢市立第一中学校南处的县道6号（住之江町通り）右侧人行道上，动漫中可见右侧的绿色护栏网，左侧远处建筑是株式会社 セノケンホームエステート建筑公司，从东向西拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.119344,
+          37.911093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 485154,
+        "bangumi_title": "我的鬼女孩",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/485154/points/pksqu335e-1730300847420.jpg",
+        "location": "",
+        "point_id": "pksqu335e",
+        "point_name": "住之江橋",
+        "remark": "位于住之江桥东处十字路口的右侧人行道，从东向西拍摄"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

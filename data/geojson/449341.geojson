@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          123.38999,
+          41.791545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449341,
+        "bangumi_title": "一人之下·锈铁重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4ho00ysf-1726201820780.jpg",
+        "location": "",
+        "point_id": "o4ho00ysf",
+        "point_name": "沈阳站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.404481,
+          41.794478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449341,
+        "bangumi_title": "一人之下·锈铁重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4i9r7dlo-1726203195053.jpg",
+        "location": "",
+        "point_id": "o4i9r7dlo",
+        "point_name": "中山广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.427946,
+          41.780383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449341,
+        "bangumi_title": "一人之下·锈铁重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4iipityt-1726203658080.jpg",
+        "location": "",
+        "point_id": "o4iipityt",
+        "point_name": "辽宁广播电视塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.437757,
+          41.814349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 449341,
+        "bangumi_title": "一人之下·锈铁重现",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/449341/points/o4il0z2w6-1726203848074.jpg",
+        "location": "",
+        "point_id": "o4il0z2w6",
+        "point_name": "方圆大厦",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

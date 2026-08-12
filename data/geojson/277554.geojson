@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.614224,
+          35.719088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277554,
+        "bangumi_title": "无职转生～在异世界认真地活下去～",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/277554/points/d5abjhb71-1695770921148.jpg",
+        "location": "",
+        "point_id": "d5abjhb71",
+        "point_name": "リブリ・​ドルチェ",
+        "remark": "東京都杉並区清水3丁目31-12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614329,
+          35.71894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277554,
+        "bangumi_title": "无职转生～在异世界认真地活下去～",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/277554/points/dc6c37kvm-1695771857208.jpg",
+        "location": "",
+        "point_id": "dc6c37kvm",
+        "point_name": "リブリ·ドルチェ",
+        "remark": "東京都杉並区清水3丁目31-12"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

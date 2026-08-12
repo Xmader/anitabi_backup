@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.821145,
+          35.124014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 348335,
+        "bangumi_title": "平家物语",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/348335/points/hj6zp53-1785176715758.webp",
+        "location": "",
+        "point_id": "hj6zp53",
+        "point_name": "寂光院",
+        "remark": "后白河法皇探视德子\n德子度过余生的寺庙"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.318133,
+          34.297301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 348335,
+        "bangumi_title": "平家物语",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/348335/points/hj80ojm-1785178076806.webp",
+        "location": "",
+        "point_id": "hj80ojm",
+        "point_name": "厳島神社大鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762146,
+          35.023828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 348335,
+        "bangumi_title": "平家物语",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/348335/points/hj90dow-1785179688416.webp",
+        "location": "",
+        "point_id": "hj90dow",
+        "point_name": "紫宸殿",
+        "remark": "安德天皇继位\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.887621,
+          33.675304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 348335,
+        "bangumi_title": "平家物语",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/348335/points/hj9buum-1785180251006.webp",
+        "location": "",
+        "point_id": "hj9buum",
+        "point_name": "那智の滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771734,
+          34.987853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 348335,
+        "bangumi_title": "平家物语",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/348335/points/hj9i7cw-1785180502481.webp",
+        "location": "",
+        "point_id": "hj9i7cw",
+        "point_name": "三十三間堂",
+        "remark": "平维盛出家"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.666735,
+          35.023496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 348335,
+        "bangumi_title": "平家物语",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/348335/points/hj9xkdc-1785181202099.webp",
+        "location": "",
+        "point_id": "hj9xkdc",
+        "point_name": "祗王寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.148133,
+          34.214838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1174,
+        "bangumi_title": "青空下的约定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1174/p7r03gjwo_1729278327840.jpg",
+        "location": "",
+        "point_id": "p7r03gjwo",
+        "point_name": "",
+        "remark": "大多数巡礼者乘船抵达"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

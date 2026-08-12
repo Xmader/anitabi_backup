@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700953,
+          35.693741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 69214,
+        "bangumi_title": "我不受欢迎，怎么想都是你们的错！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/69214/g8ljqk1_1782359043003.webp",
+        "location": "",
+        "point_id": "g8ljqk1",
+        "point_name": "歌舞伎町一番街前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019721,
+          35.689914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 69214,
+        "bangumi_title": "我不受欢迎，怎么想都是你们的错！",
+        "ep_cut": "EP4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g481g9l-1782094296444.webp",
+        "location": "",
+        "point_id": "g481g9l",
+        "point_name": "モリシア津田沼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.511128,
+          34.710781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 69214,
+        "bangumi_title": "我不受欢迎，怎么想都是你们的错！",
+        "ep_cut": "EP4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g48db7p-1782094821738.webp",
+        "location": "",
+        "point_id": "g48db7p",
+        "point_name": "天神橋筋商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.511245,
+          34.710799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 69214,
+        "bangumi_title": "我不受欢迎，怎么想都是你们的错！",
+        "ep_cut": "EP4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g48m3op-1782095244864.webp",
+        "location": "",
+        "point_id": "g48m3op",
+        "point_name": "天神橋筋商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700981,
+          35.69378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 69214,
+        "bangumi_title": "我不受欢迎，怎么想都是你们的错！",
+        "ep_cut": "EP5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/69214/points/g4etfh3-1782105660827.webp",
+        "location": "",
+        "point_id": "g4etfh3",
+        "point_name": "歌舞伎町一番街入り口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

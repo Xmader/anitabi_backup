@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.525649,
+          34.575845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 544004,
+        "bangumi_title": "风雨来记5",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/544004/points/fjb4utz-1780829680753.jpg",
+        "location": "",
+        "point_id": "fjb4utz",
+        "point_name": "松坂城跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.788296,
+          34.509348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 544004,
+        "bangumi_title": "风雨来记5",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/544004/points/fjb77kl-1780829797637.jpg",
+        "location": "",
+        "point_id": "fjb77kl",
+        "point_name": "夫婦岩",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.513214,
+          34.720669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 544004,
+        "bangumi_title": "风雨来记5",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/544004/points/fjbexyc-1780830138280.jpg",
+        "location": "",
+        "point_id": "fjbexyc",
+        "point_name": "観音寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

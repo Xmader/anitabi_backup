@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.757901,
+          35.674823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292024,
+        "bangumi_title": "樱色之云*绯色之恋",
+        "ep_cut": "樱云共通线",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292024/points/akbm5nr-1770007082475.jpg",
+        "location": "",
+        "point_id": "akbm5nr",
+        "point_name": "日比谷公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.190821,
+          34.694617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o5eahk_1768061648504.jpg",
+        "location": "",
+        "point_id": "9o5eahk",
+        "point_name": "生田神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.177645,
+          34.679719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o5i5hl_1768061891764.jpg",
+        "location": "",
+        "point_id": "9o5i5hl",
+        "point_name": "神戸駅",
+        "remark": "站前在维修，可能无法还原角度"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.183059,
+          34.680107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o5mnex_1768062254945.jpg",
+        "location": "",
+        "point_id": "9o5mnex",
+        "point_name": "umie",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.184979,
+          34.677977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o6blwd_1768063302846.jpg",
+        "location": "",
+        "point_id": "9o6blwd",
+        "point_name": "ハーバーガーデン遊歩道",
+        "remark": "灯的形状不同，另有出处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.183231,
+          34.678671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o6wts4_1768064307792.jpg",
+        "location": "",
+        "point_id": "9o6wts4",
+        "point_name": "神戸ガス燈通り",
+        "remark": "路灯的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.186845,
+          34.687763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o75nso_1768064642859.jpg",
+        "location": "",
+        "point_id": "9o75nso",
+        "point_name": "中華街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.126557,
+          34.643237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109158,
+        "bangumi_title": "由梦想与色彩编织而成",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109158/9o82cr9_1768066412483.jpg",
+        "location": "",
+        "point_id": "9o82cr9",
+        "point_name": "須磨海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

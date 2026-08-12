@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.487204,
+          31.228355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/5c45grtvm-1673198201906.jpg",
+        "location": "",
+        "point_id": "5c45grtvm",
+        "point_name": "九曲桥广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.474444,
+          31.230693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/5c3vl83mt-1673197732931.jpg",
+        "location": "",
+        "point_id": "5c3vl83mt",
+        "point_name": "大世界人行天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.486353,
+          31.238509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/iciexaoqd-1709903715382.jpg",
+        "location": "",
+        "point_id": "iciexaoqd",
+        "point_name": "外滩",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.495262,
+          31.241864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/iciat68fc-1709903455169.jpg",
+        "location": "",
+        "point_id": "iciat68fc",
+        "point_name": "东方明珠电视塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.486297,
+          31.230076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/ichr3hjtv-1709902414171.jpg",
+        "location": "",
+        "point_id": "ichr3hjtv",
+        "point_name": "老凤祥银楼（紫锦城商厦店）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.492455,
+          31.241403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/idqvescag-1710000482370.jpg",
+        "location": "",
+        "point_id": "idqvescag",
+        "point_name": "上海国际会议中心",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.453691,
+          31.240449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/l1o5pxe66-1717517807193.jpg",
+        "location": "",
+        "point_id": "l1o5pxe66",
+        "point_name": "光复路恒丰路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.471986,
+          31.2335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1952,
+        "bangumi_title": "迦南",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1952/points/l1oz6x4gg-1717519289592.jpg",
+        "location": "",
+        "point_id": "l1oz6x4gg",
+        "point_name": "西藏中路福州路",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

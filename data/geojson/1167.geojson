@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.835605,
+          34.225524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1167,
+        "bangumi_title": "水仙",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1167/points/8334mxbbe-1680954747236.jpg",
+        "location": "",
+        "point_id": "8334mxbbe",
+        "point_name": "灘黒岩水仙郷",
+        "remark": "阿东优和佐仓濑津美开车最后到达的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.030769,
+          34.62806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1167,
+        "bangumi_title": "水仙",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1167/points/833sqtxdg-1680955512902.jpg",
+        "location": "",
+        "point_id": "833sqtxdg",
+        "point_name": "明石海峡大橋",
+        "remark": "阿东优和佐仓濑津美最后合影的地方"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.595224,
+          35.715824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 475354,
+        "bangumi_title": "物语系列 外传季&怪物季",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/475354/points/tkyrnuaej-1741598433239.jpg",
+        "location": "",
+        "point_id": "tkyrnuaej",
+        "point_name": "井草八幡宫",
+        "remark": "动漫经常出现的北神山神社，抚子在的神社"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

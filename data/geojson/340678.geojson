@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -19.364784,
+          63.459109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340678,
+        "bangumi_title": "再见了，夏日冒险",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/340678/points/v53yob79r-1745998194918.jpg",
+        "location": "",
+        "point_id": "v53yob79r",
+        "point_name": "Path to Wrecked DC-3 Plane on Sólheimasandur, 871",
+        "remark": "Douglas DC-3（一说C-117）军用运输机，1973年因事故遗弃于索尔黑马沙滩"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

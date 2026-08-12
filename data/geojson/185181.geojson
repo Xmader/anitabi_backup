@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -18.985703,
+          63.419907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185181,
+        "bangumi_title": "死亡搁浅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/185181/qatpk5c5m_1732418760606_c16v9.jpg",
+        "location": "",
+        "point_id": "qatpk5c5m",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

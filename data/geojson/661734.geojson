@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.499674,
+          34.645536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 661734,
+        "bangumi_title": "地元最高！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/661734/g0r3pvg_1781885031704.jpg",
+        "location": "",
+        "point_id": "g0r3pvg",
+        "point_name": "居酒屋で覚醒剤を売るな（萩之茶屋商店街）",
+        "remark": "动画中出现的「居酒屋で覚醒剤を売るな」标语在现实中人称「日本治安最差地区」的大阪市西成区多处存在，设置人为当地企业社长利川文男。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.501791,
+          34.646324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 661734,
+        "bangumi_title": "地元最高！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/661734/g0r3pvg_1781885031704.jpg",
+        "location": "",
+        "point_id": "g0r7buv",
+        "point_name": "居酒屋で覚醒剤を売るな（マルマンパーキング萩之茶屋第２駐車場）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.501573,
+          34.645268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 661734,
+        "bangumi_title": "地元最高！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/661734/g0r3pvg_1781885031704.jpg",
+        "location": "",
+        "point_id": "g0reule",
+        "point_name": "居酒屋で覚醒剤を売るな（一福）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.504395,
+          34.646083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 661734,
+        "bangumi_title": "地元最高！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/661734/g0r3pvg_1781885031704.jpg",
+        "location": "",
+        "point_id": "g0r4ys4",
+        "point_name": "居酒屋で覚醒剤を売るな（動物園前商店街）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

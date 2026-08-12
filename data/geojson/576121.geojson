@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.757506,
+          35.669982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576121,
+        "bangumi_title": "落语朱音",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/576121/points/esgjyyk-1779206485541.jpg",
+        "location": "",
+        "point_id": "esgjyyk",
+        "point_name": "內幸町ホール前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70591,
+          35.691137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576121,
+        "bangumi_title": "落语朱音",
+        "ep_cut": "op",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/576121/points/esh264y-1779207043283.jpg",
+        "location": "",
+        "point_id": "esh264y",
+        "point_name": "新宿末広亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708623,
+          35.730317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576121,
+        "bangumi_title": "落语朱音",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/576121/points/eshbyjt-1779207625926.jpg",
+        "location": "",
+        "point_id": "eshbyjt",
+        "point_name": "東京芸術劇場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.418123,
+          34.66627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138829,
+        "bangumi_title": "终物语",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138829/points/60ss2tr-1760119438811.jpg",
+        "location": "",
+        "point_id": "60ss2tr",
+        "point_name": "此花大桥",
+        "remark": "羽川翼提醒阿良良木历应该要提防忍野扇的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780143,
+          35.657342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138829,
+        "bangumi_title": "终物语",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138829/points/60tbrfr-1760120365190.jpg",
+        "location": "",
+        "point_id": "60tbrfr",
+        "point_name": "トリトンブリッジ",
+        "remark": "羽川翼提醒阿良良木历应该要提防忍野扇的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693887,
+          35.657191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138829,
+        "bangumi_title": "终物语",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138829/points/60trkev-1760121111902.jpg",
+        "location": "",
+        "point_id": "60trkev",
+        "point_name": "神泉駅付近",
+        "remark": "动画的一处空境"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629048,
+          35.763037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138829,
+        "bangumi_title": "终物语",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138829/points/60u9l9a-1760121926984.jpg",
+        "location": "",
+        "point_id": "60u9l9a",
+        "point_name": "光が丘公園",
+        "remark": "忍野扇VS羽川翼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.457438,
+          35.748694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138829,
+        "bangumi_title": "终物语",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138829/points/60unqul-1760122586210.jpg",
+        "location": "",
+        "point_id": "60unqul",
+        "point_name": "都立東村山中央公園",
+        "remark": "忍野扇和羽川翼对老仓育家庭情况的推理"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

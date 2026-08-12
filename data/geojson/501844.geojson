@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.525594,
+          34.687348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 501844,
+        "bangumi_title": "怪兽8号 第二季",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/501844/points/2q7f9oc-1752948571879.jpg",
+        "location": "",
+        "point_id": "2q7f9oc",
+        "point_name": "大阪城天守阁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414197,
+          35.698766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 501844,
+        "bangumi_title": "怪兽8号 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/501844/points/59exz80-1758463629243.jpg",
+        "location": "",
+        "point_id": "59exz80",
+        "point_name": "ルミネ立川前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

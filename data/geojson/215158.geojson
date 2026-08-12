@@ -1,0 +1,1405 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.549971,
+          35.318744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xg83_1672367527771.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xg83",
+        "point_name": "鎌倉駅西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550109,
+          35.31887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xglf_1672367528942.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xglf",
+        "point_name": "江ノ電鎌倉駅の改札",
+        "remark": "可奈美と舞衣が美濃関学院の代表として、岐阜羽島から降り立った場所。 ※ちなみに、コミックス1巻だと鎌倉駅東口に降りています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550006,
+          35.319324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgqc_1672367530033.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgqc",
+        "point_name": "西口時計台（三角公園）",
+        "remark": "綾小路の生徒がいたのは、鎌倉駅西口の時計塔。地元では三角公園と呼ばれる場所。鎌倉民は実際に待ち合わせ場所に使う事も多々。春になると桜が見事です。みにとじのOPとも同じになります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.54985,
+          35.319145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgj2_1672367532230.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgj2",
+        "point_name": "鎌倉駅西口周辺",
+        "remark": "綾小路、長船と他の各伍箇伝の生徒がいたのは、鎌倉駅西口のロータリー。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549791,
+          35.319262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgzt_1672367534818.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgzt",
+        "point_name": "鎌倉靴",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551953,
+          35.324103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xh43_1672367536390.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xh43",
+        "point_name": "川喜多記念館周辺",
+        "remark": "2話の冒頭で可奈美と姫和、二人が折紙紫の暗殺に失敗して逃走する路として出てきました。※逃走方向から考えると御前試合が行われた折紙家のモデルはやはり鶴岡八幡宮になるのか？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550493,
+          35.323769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgv4_1672367537664.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgv4",
+        "point_name": "八坂大神社の鳥居前",
+        "remark": "可奈美と姫和は二人が逃げて来た先。寿福寺の隣の八坂大神社。八坂大神は扇ヶ谷の鎮守とされており、源頼朝公の鎌倉入りを進言した千葉常胤の子・相馬次郎師常の自宅の守り神として勧請したのが始まりとされる。ちなみに京都・祇園の八坂神社に神輿を模している。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550091,
+          35.32379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgil_1672367539109.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgil",
+        "point_name": "八坂大神社",
+        "remark": "八坂大神社に逃げてきた二人。初め見た時は何故に可奈美は姫和の手助けをしたの？？だったが… 篝宛に届いた手紙を御前試合の前にここ八坂大神社に隠していたようだ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.54333,
+          35.309181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgsl_1672367540371.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgsl",
+        "point_name": "由比ヶ浜海岸",
+        "remark": "薫とエレンの二人が湘南の海でバケーションをしていた場所。すまん休暇中だ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551023,
+          35.316805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgnq_1672367542092.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgnq",
+        "point_name": "小町のコンビニ",
+        "remark": "舞沙耶の聖地。コンビニの隣は住宅なので巡礼される場合には、近隣住民の迷惑にならないよう節度を持った巡礼を心懸けましょう！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551339,
+          35.318872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xgd2_1672367543279.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xgd2",
+        "point_name": "鎌倉駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552137,
+          35.318832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xh2l_1672367544724.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xh2l",
+        "point_name": "島森書店前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552648,
+          35.319831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xh1l_1672367545936.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xh1l",
+        "point_name": "段葛（二の鳥居）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553605,
+          35.321365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xh2i_1672367546901.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xh2i",
+        "point_name": "段葛",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.554922,
+          35.323617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhvq_1672367547928.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhvq",
+        "point_name": "段葛（三の鳥居前）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.555,
+          35.323752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhqn_1672367549522.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhqn",
+        "point_name": "三の鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.555133,
+          35.323959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhkk_1672367551073.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhkk",
+        "point_name": "太鼓橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.555507,
+          35.324518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhqe_1672367552035.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhqe",
+        "point_name": "鶴岡八幡宮 参道",
+        "remark": "舞衣沙耶と結芽が戦闘していた場所。結芽が吹っ飛ばれた石燈籠は源平池の方になります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510683,
+          35.305734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhfr_1672367555328.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhfr",
+        "point_name": "行合橋 R134号",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510553,
+          35.30533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xh8r_1672367558335.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xh8r",
+        "point_name": "七里ヶ浜海岸",
+        "remark": "舞沙耶の聖地。夏は大勢の海水浴客で賑わうため撮るなら朝早くか冬場がオススメです。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480339,
+          35.300681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhim_1672367560350.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhim",
+        "point_name": "江ノ島神社鳥居",
+        "remark": "8話、20年に起きた相模湾大災厄の冒頭で。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480436,
+          35.299406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhbx_1672367562333.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhbx",
+        "point_name": "中津宮階段",
+        "remark": "中津宮の手前の階段。中津宮には、市寸島比賣命（いちきしまひめのみこと）が祀られています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477637,
+          35.299596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhdb_1672367563333.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhdb",
+        "point_name": "山二つ",
+        "remark": "奥津宮に至る道中、山二つ。ここ少し歩けば奥津宮はもうすくです。階段のアップダウンがあるので注意を。反対側のお店ではチョコミントアイスが売っております♪"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481089,
+          35.302093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhm1_1672367564472.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhm1",
+        "point_name": "青銅鳥居",
+        "remark": "五人が無事に帰還した場所。青銅鳥居は、瑞心門前の江ノ島神社、朱色の鳥居までの間続く門前町です。仲見世商店街には、ずらりとお店が並んでいます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.475582,
+          35.299339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xh59_1672367566523.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xh59",
+        "point_name": "奥津宮",
+        "remark": "折紙紫・柊篝・藤原美奈都の三人が相模湾大災厄・大荒魂、タギツヒメ討伐しに来た場所が奥津宮です。 江ノ島神社、奥津宮に実際に祭られているのは、″タギリヒメ″です。（詳しくは自分のblog『刀使ノ巫女』×江ノ島の記事を参照して下さい。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480287,
+          35.300629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xhgm_1672367568586.jpg",
+        "location": "TVアニメ『刀使ノ巫女 』～鎌倉・江ノ島の聖地～",
+        "point_id": "51i53xhgm",
+        "point_name": "瑞心門前の階段",
+        "remark": "江ノ島神社、瑞心門の前は可奈美に美奈都が夢の中で剣術の稽古をする場所として度々出てきました。 この瑞心門はタギツヒメが祀られている江ノ島神社・辺津宮の参道になります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.819383,
+          34.457102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xi49_1672367571421.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xi49",
+        "point_name": "稲淵の棚田?",
+        "remark": "奈良の有名な棚田だと稲淵の棚田がある。Google見た限りだとここが姫和の家に近かったが完全一致はしなかった。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.685007,
+          35.316552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xil2_1672367573382.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xil2",
+        "point_name": "岐阜羽島の駅名表",
+        "remark": "東京方面、3両目から4両目の辺りの駅名表。ここから可奈美と舞衣が自由席に乗り鎌倉へと旅立ったのかもしれない。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.685224,
+          35.315359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xi91_1672367575344.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xi91",
+        "point_name": "岐阜羽島駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.685369,
+          35.315797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xi63_1672367577328.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xi63",
+        "point_name": "岐阜羽島",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.799008,
+          35.733354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xiig_1672367578333.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xiig",
+        "point_name": "南千住駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.80153,
+          35.723347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xiir_1672367580336.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xiir",
+        "point_name": "東浅草のバス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.922296,
+          34.855688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xi1n_1672367582340.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xi1n",
+        "point_name": "道の駅 天城越え",
+        "remark": "可奈美と姫和二人、塁の家から向かい降りた先が伊豆の天城の道の駅です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.62949,
+          35.968342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xih0_1672367583329.jpg",
+        "location": "TVアニメ『刀使ノ巫女』　～全国の聖地～",
+        "point_id": "51i53xih0",
+        "point_name": "鹿島神宮",
+        "remark": "姫和と篝の流派。鹿島新當流発祥の地とされるのが鹿島神宮です。雷神にして武の神、タケミカヅチがご祭神として祭られています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.829972,
+          34.443066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xjbi_1672367585417.jpg",
+        "location": "OP 「Save you Save me」",
+        "point_id": "51i53xjbi",
+        "point_name": "奥明日香?",
+        "remark": "実際に行ってみて確認したが姫和のお家と完全一致する芽葺きの屋根の家は無かった。この辺りが一番似ていたが再度探訪する必要あり。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.5506,
+          35.316872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xjbs_1672367587515.jpg",
+        "location": "OP 「Save you Save me」",
+        "point_id": "51i53xjbs",
+        "point_name": "下馬横須賀線高架下",
+        "remark": "沙耶香がOPで寄りかかっている場所。このアングルを撮りには下から撮らないといけない為、人通りも多いので中々厳しい。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.532268,
+          35.304855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xj0t_1672367589342.jpg",
+        "location": "OP 「Save you Save me」",
+        "point_id": "51i53xj0t",
+        "point_name": "坂ノ下護岸",
+        "remark": "鎌倉アニメではお馴染みの場所、坂ノ下護岸。ここは他の数々のアニメでも出てきました。（TARI TARI OP）最寄駅の長谷駅から約15分ほど歩きます。近くの御霊神社はハナヤマタや南鎌倉高校女子自転車部で登場しました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480324,
+          35.300679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xjd0_1672367591576.jpg",
+        "location": "OP 「Save you Save me」",
+        "point_id": "51i53xjd0",
+        "point_name": "江ノ島神社の階段前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.556227,
+          35.325802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xj6t_1672367594328.jpg",
+        "location": "OP 「Save you Save me」",
+        "point_id": "51i53xj6t",
+        "point_name": "鶴岡八幡宮の階段？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486456,
+          35.307683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xird_1672367596331.jpg",
+        "location": "OP 「Save you Save me」",
+        "point_id": "51i53xird",
+        "point_name": "片瀬東浜海岸",
+        "remark": "OP 最後の 全てを護りぬくよここから～の部分。 背景に映るは江ノ島タワー…相模湾大災厄の地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480279,
+          35.300648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkan_1672367597328.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkan",
+        "point_name": "瑞心門前の階段（江ノ島神社鳥居）",
+        "remark": "『みにとじ』の第一弾PVで可奈美と美炎、二人。楽しそうに相対しているシーンが冒頭に描かれていますね、"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.547955,
+          35.317887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xk9s_1672367599328.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xk9s",
+        "point_name": "今小路:御成小学校前 1",
+        "remark": "御成小学校前から鎌倉市役所前の交差点前の遠望。こちらの方が背景は似ているが…"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.547826,
+          35.3177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkj3_1672367601329.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkj3",
+        "point_name": "今小路:御成小学校前 2",
+        "remark": "薫｢俺ら働かされすぎだろう…｣ 今小路、御成小学校前の通りは、鎌倉駅西口から歩いて数分で行けます。土日になると車も多く更に道幅も狭いです。巡礼させる際には気を付けて下さい！ "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.54795,
+          35.317865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkoi_1672367612362.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkoi",
+        "point_name": "今小路:御成小学校前 3",
+        "remark": "″あの人たちが荒魂を倒した…！？″"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.548139,
+          35.318144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkp0_1672367614683.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkp0",
+        "point_name": "今小路:御成小学校前 4",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552421,
+          35.32182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkx6_1672367644643.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkx6",
+        "point_name": "鎌倉アイス工房",
+        "remark": "可奈美｢姫和ちゃんひと口チョコミントちょうだい！…不思議な味｣  アイスの種類が豊富よく修学旅行生や遠足で来る？学生が並んでる印象が強いです。併設している茶近で座って食べられます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551074,
+          35.319333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xklg_1672367645789.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xklg",
+        "point_name": "鎌倉駅東口",
+        "remark": "ちらりと映った鎌倉駅東口。八幡宮や小町通りに行く際にはこちらになります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552063,
+          35.314964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkt1_1672367656404.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkt1",
+        "point_name": "コトリ",
+        "remark": "美炎が可奈美の誕生日プレゼントを選んでいたお店。中には、可愛い雑貨や文房具がたくさん並んでいます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.546833,
+          35.335143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xkq8_1672367657636.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xkq8",
+        "point_name": "蔵屋～ギャラリー～",
+        "remark": "姫和が可奈美の為に見繕っていたお店。好物に相性が良いプレゼントとは!?"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.544872,
+          35.309033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xl42_1672367658541.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xl42",
+        "point_name": "由比ヶ浜海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484775,
+          35.307662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xll5_1672367660065.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xll5",
+        "point_name": "江ノ島入り口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482564,
+          35.308223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xlbg_1672367667554.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xlbg",
+        "point_name": "片瀬江ノ島駅入り口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484004,
+          35.306062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xlfz_1672367668832.jpg",
+        "location": "TVアニメ 『みにとじ』",
+        "point_id": "51i53xlfz",
+        "point_name": "東浜海岸（夜の）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549941,
+          35.319162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xm2r_1672367670267.jpg",
+        "location": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣",
+        "point_id": "51i53xm2r",
+        "point_name": "鎌倉駅西口ロータリー",
+        "remark": "本編と合わせるとぐるりと一周再現出来ますね！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552534,
+          35.31984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xlrq_1672367671485.jpg",
+        "location": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣",
+        "point_id": "51i53xlrq",
+        "point_name": "段葛（二の鳥居）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550027,
+          35.319323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xlsx_1672367672562.jpg",
+        "location": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣",
+        "point_id": "51i53xlsx",
+        "point_name": "西口時計台（三角公園）",
+        "remark": "TVアニメ版第1話で綾小路の生徒がいた場所と同じ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484726,
+          35.306907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xmah_1672367673939.jpg",
+        "location": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣",
+        "point_id": "51i53xmah",
+        "point_name": "片瀬東浜海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550101,
+          35.319075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xm7h_1672367675522.jpg",
+        "location": "OP ｢この番組はうら若き公務員たちの提供でお送りいたします｣",
+        "point_id": "51i53xm7h",
+        "point_name": "岐阜羽島駅か鎌倉駅西口改札？",
+        "remark": "アプリゲームだと二人が拳と拳を合わせ可奈美が代表として折紙家の御前試合に向かった場所が″岐阜羽島駅になります。なので岐阜羽島駅の方の可能性が高いと思われます。※改札の数が鎌倉駅西口改札に似ていたので保留"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.685103,
+          35.31567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xn26_1672367677106.jpg",
+        "location": "刀使ノ巫女 刻みし一閃の燈火",
+        "point_id": "51i53xn26",
+        "point_name": "岐阜羽島駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658986,
+          35.283629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xmkv_1672367678657.jpg",
+        "location": "刀使ノ巫女 刻みし一閃の燈火",
+        "point_id": "51i53xmkv",
+        "point_name": "ヴェルニー公園",
+        "remark": "JR横須賀駅から歩いてすぐです。ヴェルニー公園は、はいふりやたまゆらでも出てきましたね。南極観測船・しらせの母港がここ横須賀になります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.685489,
+          35.315861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xnuv_1672367680034.jpg",
+        "location": "OP『二重のキズナ』",
+        "point_id": "51i53xnuv",
+        "point_name": "岐阜羽島駅構内?",
+        "remark": "刀使ノ巫女 刻みし一閃の燈火のOP 二重のキズナ。おそらく、岐阜羽島駅構内だと思われるが…"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550727,
+          35.319069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xnf6_1672367680952.jpg",
+        "location": "コミック",
+        "point_id": "51i53xnf6",
+        "point_name": "鎌倉駅東口",
+        "remark": "コミック1巻 第3話 p80 可奈美と舞衣が鎌倉に降りたった場所。来ちゃったね、鎌倉！  ちなみに、地元民は東口の事を″表口″。西口の事を″裏口″と呼びます。  ※デートの際″裏口の三角公園に待ち合わせ！″というのが常套句です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.556231,
+          35.325816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xntn_1672367682104.jpg",
+        "location": "コミック",
+        "point_id": "51i53xntn",
+        "point_name": "八幡宮の階段？",
+        "remark": "1巻第3話 魂鎮めをする折紙紫"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551036,
+          35.319001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xnbq_1672367683738.jpg",
+        "location": "その他",
+        "point_id": "51i53xnbq",
+        "point_name": "スタンプラリー",
+        "remark": "２０１８年２月６日（火）～２５日（日）までJR東日本×『刀使ノ巫女』のコラボスタンプラリーが各駅で開催された。スタンプラリーの台紙のイラストとされたのが鎌倉駅東口です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.546902,
+          35.319275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xnz0_1672367685673.jpg",
+        "location": "その他",
+        "point_id": "51i53xnz0",
+        "point_name": "鎌府女学院？",
+        "remark": "伍箇伝の1つ鎌府。1話の俯瞰した地図を見る限り、鎌倉市役所 と御成小学校付近に鎌府がある事になっているが…"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.556423,
+          35.326124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他",
+        "point_id": "51i53xojo",
+        "point_name": "折紙家？（鶴岡八幡宮）",
+        "remark": "鶴岡八幡宮が折紙家のモデルではないかと思われる。※詳しくは自身のblogの『刀使ノ巫女』聖地2話の方で記述してあるので気になった方は見てください。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.916383,
+          35.481796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xo98_1672367687516.jpg",
+        "location": "その他",
+        "point_id": "51i53xo98",
+        "point_name": "関市鍛冶伝承館～美濃関学院報告書～",
+        "remark": "″美濃関学院報告書″と銘をうった聖地巡礼ノートが岐阜県関市鍛冶伝承館に設置されています。期間は2018/6/22～8/ 31まで。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479579,
+          35.300371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xotg_1672367688484.jpg",
+        "location": "その他",
+        "point_id": "51i53xotg",
+        "point_name": "辺津宮：タギツヒメ",
+        "remark": "瑞心門をくぐるとそこは、タギツヒメが祀られている江ノ島神社の一つ″辺津宮″に。元々は弁財天様が祀られていたので、現在でも女性の神様・パワースポットとしても有名です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480239,
+          35.299406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xo8n_1672367689972.jpg",
+        "location": "その他",
+        "point_id": "51i53xo8n",
+        "point_name": "中津宮：イチキシマヒメ",
+        "remark": "イチキシマヒメが祀られるのが″中津宮″。美人の神様としても知られ″綺麗になりたい女性″がそのご利益を得るために参拝される事も屡々。元々は江ノ島の水上を守護する神様として崇められてきました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.475596,
+          35.299363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215158,
+        "bangumi_title": "刀使的巫女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/215158/51i53xo76_1672367690761.jpg",
+        "location": "その他",
+        "point_id": "51i53xo76",
+        "point_name": "奥津宮：タギリヒメ",
+        "remark": "タギリヒメが祀られる江ノ島の神社一つ奥津宮。江ノ島の最奥の神社です。近くの″龍宮″の前の通りは、篝と美奈都の両名が倒れていた場所になります。 タキリヒメは、呼んで字のごとく″霧が深い航海の中を彷徨う人々を導く神様″として知られています。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

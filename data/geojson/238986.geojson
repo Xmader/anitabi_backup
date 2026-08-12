@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.238036,
+          23.109935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/lnqen7m1r-1719246689320.jpg",
+        "location": "",
+        "point_id": "lnqen7m1r",
+        "point_name": "沙面",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.328433,
+          23.113866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/lnqxvitse-1719247609769.jpg",
+        "location": "",
+        "point_id": "lnqxvitse",
+        "point_name": "猎德大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.325543,
+          23.113699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/lnr79kzcm-1719248175340.jpg",
+        "location": "",
+        "point_id": "lnr79kzcm",
+        "point_name": "海心沙附近水域",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.319156,
+          23.11952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/lnrbw3l4g-1719248426611.jpg",
+        "location": "",
+        "point_id": "lnrbw3l4g",
+        "point_name": "花城汇",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.450328,
+          31.271718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/238986/syw89qe0z_1739907065422_c16v9.jpg",
+        "location": "",
+        "point_id": "syw89qe0z",
+        "point_name": "风华初级中学西校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.512382,
+          39.922291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/h68v3d4-1784393374526.jpg",
+        "location": "",
+        "point_id": "h68v3d4",
+        "point_name": "青年路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.510806,
+          39.921698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/h68xg9i-1784393471230.jpg",
+        "location": "",
+        "point_id": "h68xg9i",
+        "point_name": "地铁青年路站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.507717,
+          39.907705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 238986,
+        "bangumi_title": "肆式青春",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/238986/points/h6901kv-1784393617512.jpg",
+        "location": "",
+        "point_id": "h6901kv",
+        "point_name": "地铁四惠东站露台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

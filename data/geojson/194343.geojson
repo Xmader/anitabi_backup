@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.635346,
+          36.343192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194343,
+        "bangumi_title": "月影之幻像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/194343/points/fkxsyc4-1780928211666.jpg",
+        "location": "",
+        "point_id": "fkxsyc4",
+        "point_name": "轻井泽",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

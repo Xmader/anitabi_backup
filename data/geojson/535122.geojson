@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.907416,
+          35.682816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 535122,
+        "bangumi_title": "vivid/stasis",
+        "ep_cut": "game start",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/535122/points/28wi4wi-1751902425348.jpg",
+        "location": "",
+        "point_id": "28wi4wi",
+        "point_name": "香取神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.76332,
+          31.215787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 535122,
+        "bangumi_title": "vivid/stasis",
+        "ep_cut": "Episode 12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/535122/points/2ritlrd-1753028286267.jpg",
+        "location": "",
+        "point_id": "2ritlrd",
+        "point_name": "根占港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.936614,
+          45.522921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 535122,
+        "bangumi_title": "vivid/stasis",
+        "ep_cut": "Episode 32 (5.0新版本剧情)",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/535122/points/5f9abfg-1758817048228.jpg",
+        "location": "",
+        "point_id": "5f9abfg",
+        "point_name": "Cape Sōya",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.339111,
+          35.656371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 535122,
+        "bangumi_title": "vivid/stasis",
+        "ep_cut": "Episode 25 (5.0新版本剧情)",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/535122/points/5f9g7da-1758817214750.jpg",
+        "location": "",
+        "point_id": "5f9g7da",
+        "point_name": "Hachiōji Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.981614,
+          30.717166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 535122,
+        "bangumi_title": "vivid/stasis",
+        "ep_cut": "Episode 1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/535122/points/5f9opxh-1758817614978.jpg",
+        "location": "",
+        "point_id": "5f9opxh",
+        "point_name": "鹿児島県 種子島警察署",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

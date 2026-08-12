@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.062258,
+          30.585055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 405136,
+        "bangumi_title": "汉化日记 第四季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/405136/points/s6rahargn-1737663947566.jpg",
+        "location": "",
+        "point_id": "s6rahargn",
+        "point_name": "成都金融城双子塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

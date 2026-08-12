@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.785219,
+          34.994734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14878,
+        "bangumi_title": "小魔女DoReMi 大合奏",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/14878/points/p4c67t1dn-1729011062498.jpg",
+        "location": "",
+        "point_id": "p4c67t1dn",
+        "point_name": "Kiyomizu Temple",
+        "remark": "S4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.678287,
+          35.013555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14878,
+        "bangumi_title": "小魔女DoReMi 大合奏",
+        "ep_cut": "S4 12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/14878/points/p4cbozvj6-1729011428439.jpg",
+        "location": "",
+        "point_id": "p4cbozvj6",
+        "point_name": "渡月橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

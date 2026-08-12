@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.714278,
+          35.734908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 474801,
+        "bangumi_title": "冻牌～地下麻将斗牌录～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/474801/ostf92g3x_1728108130819.jpg",
+        "location": "",
+        "point_id": "ostf92g3x",
+        "point_name": "豐島清掃工場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

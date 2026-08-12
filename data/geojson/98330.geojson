@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.385017,
+          30.455717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/98330/n8ok169q5_1723709144066.jpg",
+        "location": "",
+        "point_id": "n8ok169q5",
+        "point_name": "华中师范大学第一附属中学",
+        "remark": "主人公就读的高中原型（图为\"華\"字雕塑）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.28742,
+          30.549635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/98330/n8okifn0a_1723709174945.jpg",
+        "location": "",
+        "point_id": "n8okifn0a",
+        "point_name": "武汉长江大桥",
+        "remark": "从武昌一侧往汉阳方向看，远处是龟山电视塔"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.385029,
+          30.454721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/98330/points/ojt18kc3i-1727402263268.jpg",
+        "location": "",
+        "point_id": "ojt18kc3i",
+        "point_name": "华中师范大学第一附属中学",
+        "remark": "校门"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.384062,
+          30.45653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2130/bangumi/98330/points/p0c7ldbw2-1728697666614.jpg",
+        "location": "",
+        "point_id": "p0c7ldbw2",
+        "point_name": "5号教学楼",
+        "remark": "5号教学楼前庭院"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.088105,
+          24.442749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/98330/points/7qzwfnd-1763880511824.jpg",
+        "location": "",
+        "point_id": "7qzwfnd",
+        "point_name": "思明南路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.296619,
+          30.537251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/98330/points/9icej5h-1767710857206.jpg",
+        "location": "",
+        "point_id": "9icej5h",
+        "point_name": "紫阳金利屋",
+        "remark": "十年后罗小涵线小区原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.29986,
+          30.536835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/98330/points/9icvrbn-1767711802269.jpg",
+        "location": "",
+        "point_id": "9icvrbn",
+        "point_name": "首义广场",
+        "remark": "十年后罗小涵和高练结局亲吻地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.177244,
+          39.105006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 98330,
+        "bangumi_title": "高考恋爱100天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/98330/points/a9k0fiw-1769356027364.jpg",
+        "location": "",
+        "point_id": "a9k0fiw",
+        "point_name": "天津医科大学研究院",
+        "remark": "小涵线补习班学校所在地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

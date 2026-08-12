@@ -1,0 +1,1005 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.10518,
+          35.233456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mgfq_1753178724544.jpg",
+        "location": "#OP",
+        "point_id": "51i52mgfq",
+        "point_name": "湯本大橋",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.107428,
+          35.233993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mg9q_1753178757391.jpg",
+        "location": "#OP",
+        "point_id": "51i52mg9q",
+        "point_name": "湯本大橋撮影ポイント",
+        "remark": "OP 从这里拍汤本大桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.099149,
+          35.231343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mgy7_1753178919881.jpg",
+        "location": "#OP",
+        "point_id": "51i52mgy7",
+        "point_name": "熊野神社前階段",
+        "remark": "OP、#01、#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.513291,
+          35.716165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mgbr_1753178967647.jpg",
+        "location": "#OP",
+        "point_id": "51i52mgbr",
+        "point_name": "小金井公園 江戸東京たてもの園 高橋是清邸",
+        "remark": "OP、#02、#06、#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.040767,
+          35.205567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mgh6_1753179015344.jpg",
+        "location": "#OP",
+        "point_id": "51i52mgh6",
+        "point_name": "お玉ケ池",
+        "remark": "OP、#09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025561,
+          35.203642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mge4_1753179447969.jpg",
+        "location": "#OP",
+        "point_id": "51i52mge4",
+        "point_name": "箱根神社",
+        "remark": "OP、#13 第四鳥居"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.104523,
+          35.229449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mgwp_1753179553894.jpg",
+        "location": "#OP",
+        "point_id": "51i52mgwp",
+        "point_name": "早雲公園前バス停",
+        "remark": "OP、#09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025722,
+          35.202831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mhm7_1753179494184.jpg",
+        "location": "#OP",
+        "point_id": "51i52mhm7",
+        "point_name": "芦ノ湖 箱根神社 平和の鳥居",
+        "remark": "OP、#11、#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.994458,
+          35.23713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mh2f_1753179639206.jpg",
+        "location": "#OP",
+        "point_id": "51i52mh2f",
+        "point_name": "箱根海賊船 桃源台港 桟橋",
+        "remark": "OP、#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.044986,
+          35.248401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mh9j_1753179704058.jpg",
+        "location": "#OP",
+        "point_id": "51i52mh9j",
+        "point_name": "強羅公園",
+        "remark": "OP 圆形池"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.103347,
+          35.233051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mh9k_1753180008923.jpg",
+        "location": "#OP",
+        "point_id": "51i52mh9k",
+        "point_name": "箱根湯本駅階段",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.100088,
+          35.230731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mhlg_1753180509893.jpg",
+        "location": "#OP",
+        "point_id": "51i52mhlg",
+        "point_name": "吉池旅館前",
+        "remark": "OP、#02、#13 石造の壷源泉"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.09893,
+          35.231224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mhg0_1753179948155.jpg",
+        "location": "#01「ハコネちゃん降臨？」、#02「ハコネちゃんと秘密箱」",
+        "point_id": "51i52mhg0",
+        "point_name": "熊野神社境内",
+        "remark": "#01、#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.099967,
+          35.230908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mh7k_1753181156329.jpg",
+        "location": "#01「ハコネちゃん降臨？」、#02「ハコネちゃんと秘密箱」",
+        "point_id": "51i52mh7k",
+        "point_name": "井島商店前",
+        "remark": "#02、#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.099829,
+          35.230641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mh27_1753181041229.jpg",
+        "location": "#01「ハコネちゃん降臨？」、#02「ハコネちゃんと秘密箱」",
+        "point_id": "51i52mh27",
+        "point_name": "吉池旅館",
+        "remark": "#03、#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.048366,
+          35.184613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mihj_1753180135763.jpg",
+        "location": "#03「ハコネちゃんとハコネコ」、#04「ハコネちゃんと観光大使」",
+        "point_id": "51i52mihj",
+        "point_name": "箱根大観山展望台",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.099832,
+          35.231034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mi51_1753181353378.jpg",
+        "location": "#03「ハコネちゃんとハコネコ」、#04「ハコネちゃんと観光大使」",
+        "point_id": "51i52mi51",
+        "point_name": "和菓子菜の花",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.103681,
+          35.230919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mi6m_1753180082412.jpg",
+        "location": "#03「ハコネちゃんとハコネコ」、#04「ハコネちゃんと観光大使」",
+        "point_id": "51i52mi6m",
+        "point_name": "早雲公園 東屋",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.103141,
+          35.232985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mie8_1753180027734.jpg",
+        "location": "#03「ハコネちゃんとハコネコ」、#04「ハコネちゃんと観光大使」",
+        "point_id": "51i52mie8",
+        "point_name": "箱根湯本駅前",
+        "remark": "#04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.10382,
+          35.23322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mi2h_1753180339420.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52mi2h",
+        "point_name": "箱根湯本駅デッキ",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.103741,
+          35.233122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mhvx_1753180330762.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52mhvx",
+        "point_name": "箱根湯元駅前商店街",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.103674,
+          35.233061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mijh_1753180283919.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52mijh",
+        "point_name": "箱根温泉まんじゅう 丸嶋本店",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.100658,
+          35.231603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mid3_1753180223312.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52mid3",
+        "point_name": "交差点",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.100513,
+          35.231443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52miby_1753180243756.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52miby",
+        "point_name": "湯元橋手前",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.100389,
+          35.231355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138960/points/51i52mivm-1731939535208.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52mivm",
+        "point_name": "湯本橋",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.099681,
+          35.231951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52milx_1753239806874.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52milx",
+        "point_name": "旭橋",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.04542,
+          35.239371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138960/points/51i52minr-1734340497756.jpg",
+        "location": "#05「ハコネちゃんとハコネ様」、#07「ハコネちゃんと温泉プール」",
+        "point_id": "51i52minr",
+        "point_name": "箱根小涌園ユネッサン",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.048092,
+          35.250771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mk2o_1753240161015.jpg",
+        "location": "#08「ハコネちゃんと地獄谷」，#09「ハコネちゃんとお玉ケ池」",
+        "point_id": "51i52mk2o",
+        "point_name": "箱根登山ケーブルカー 強羅駅",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.035448,
+          35.246583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mjdb_1753240680506.jpg",
+        "location": "#08「ハコネちゃんと地獄谷」，#09「ハコネちゃんとお玉ケ池」",
+        "point_id": "51i52mjdb",
+        "point_name": "箱根ロープウェイ 早雲山駅",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.019033,
+          35.240127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mjeb_1753240480439.jpg",
+        "location": "#08「ハコネちゃんと地獄谷」，#09「ハコネちゃんとお玉ケ池」",
+        "point_id": "51i52mjeb",
+        "point_name": "大涌谷",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.01952,
+          35.243599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138960/points/51i52mjx6-1732023296227.jpg",
+        "location": "#08「ハコネちゃんと地獄谷」，#09「ハコネちゃんとお玉ケ池」",
+        "point_id": "51i52mjx6",
+        "point_name": "大涌谷黒たまご舘",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.048768,
+          35.202205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mjt5_1753179229704.jpg",
+        "location": "#08「ハコネちゃんと地獄谷」，#09「ハコネちゃんとお玉ケ池」",
+        "point_id": "51i52mjt5",
+        "point_name": "箱根二子山 甘酒茶屋",
+        "remark": "#09 温泉まんじゅう"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.046035,
+          35.248776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mkgm_1753179852125.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mkgm",
+        "point_name": "強羅公園 入口",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.044897,
+          35.248598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mkf1_1753179837301.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mkf1",
+        "point_name": "強羅公園 喫茶室Pic",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.044393,
+          35.248223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mkpv_1753179803917.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mkpv",
+        "point_name": "強羅公園 ローズガーデン",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.044205,
+          35.248175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mkfq_1753179783094.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mkfq",
+        "point_name": "強羅公園 音楽堂",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.103601,
+          35.233507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mkob_1753180887205.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mkob",
+        "point_name": "箱根登山電車 箱根湯本駅 ホーム",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.102943,
+          35.23282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mlkt_1753180423461.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mlkt",
+        "point_name": "箱根登山電車 軌道",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.048226,
+          35.250552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mlhj_1753240137992.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mlhj",
+        "point_name": "箱根登山電車 強羅駅",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.99456,
+          35.23736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mlje_1753179623911.jpg",
+        "location": "#10「ハコネちゃんと強羅公園」，#11「ハコネちゃんと鉄甲船」",
+        "point_id": "51i52mlje",
+        "point_name": "箱根海賊船 桃源台港",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.030446,
+          35.200977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mlxb_1753240733768.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mlxb",
+        "point_name": "箱根海賊船 元箱根港",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.030596,
+          35.201234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mmro_1753240760088.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mmro",
+        "point_name": "元箱根港 歩道",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.028584,
+          35.204249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mn0d_1753241684889.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mn0d",
+        "point_name": "箱根神社 参道入口",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.027181,
+          35.203936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mmiy_1753241470301.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mmiy",
+        "point_name": "箱根神社 参道",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025353,
+          35.204474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mmr7_1753242439346.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mmr7",
+        "point_name": "箱根神社 境内",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025548,
+          35.204421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mn41_1753242337385.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mn41",
+        "point_name": "箱根神社 絵馬殿",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025366,
+          35.204603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/138960/points/51i52mmfs-1721983638175.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mmfs",
+        "point_name": "箱根神社 神門",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025101,
+          35.204484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mmge_1753242328394.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mmge",
+        "point_name": "箱根神社 神楽殿",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025364,
+          35.204704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mn27_1753242401946.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mn27",
+        "point_name": "箱根神社 拝殿",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.025707,
+          35.202935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 138960,
+        "bangumi_title": "温泉幼精箱根酱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/138960/51i52mn3l_1753179514214.jpg",
+        "location": "#12「ハコネちゃんと新たな温泉精霊」，#13「ハコネちゃんとまた新しい日常」",
+        "point_id": "51i52mn3l",
+        "point_name": "箱根神社 平和の鳥居前",
+        "remark": "#13"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

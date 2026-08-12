@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.517215,
+          25.036891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 788,
+        "bangumi_title": "NOIR",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/788/points/n9t4izpsv-1723797454318.jpg",
+        "location": "",
+        "point_id": "n9t4izpsv",
+        "point_name": "中山南路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.334466,
+          48.853949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 788,
+        "bangumi_title": "NOIR",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/788/points/ct9erbn-1774901100556.jpg",
+        "location": "",
+        "point_id": "ct9erbn",
+        "point_name": "Église Saint-Germain des Prés",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.349838,
+          48.852338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 788,
+        "bangumi_title": "NOIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/788/g1g0y7g_1781926342346.jpg",
+        "location": "",
+        "point_id": "g1g0y7g",
+        "point_name": "ノートルダム寺院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.341985,
+          48.858065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 788,
+        "bangumi_title": "NOIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/788/g1gnh90_1781927415550.jpg",
+        "location": "",
+        "point_id": "g1gnh90",
+        "point_name": "Pont Neuf",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,265 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.189981,
+          34.69362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/4yd5jp8pb-1673346161565.jpg",
+        "location": "",
+        "point_id": "4yd5jp8pb",
+        "point_name": "ホテル​モン​トレ​神戸",
+        "remark": "Fate/Stay Night游戏中也有场景取景于此"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.749771,
+          47.55755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/ieocelr4k-1710073449704.jpg",
+        "location": "",
+        "point_id": "ieocelr4k",
+        "point_name": "新天鹅堡",
+        "remark": "爱因兹贝伦城"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.99178,
+          35.341522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/iepamaiwz-1710075431737.jpg",
+        "location": "",
+        "point_id": "iepamaiwz",
+        "point_name": "聖ザビエル天主堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.203617,
+          34.678183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/ift0reghl-1710162034933.jpg",
+        "location": "fate系列",
+        "point_id": "ift0reghl",
+        "point_name": "神戸大橋",
+        "remark": "op「oath sign」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.989165,
+          35.340911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/ii0usk8pk-1710335745544.jpg",
+        "location": "",
+        "point_id": "ii0usk8pk",
+        "point_name": "三重県庁舎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.98877,
+          35.347211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/ii16barsu-1710336427219.jpg",
+        "location": "",
+        "point_id": "ii16barsu",
+        "point_name": "帝国ホテル中央玄関",
+        "remark": "原为神户帝国酒店大门，1915年建造，酒店拆毁后大门迁至明治村保留至今"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.811715,
+          35.997059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/lqflx37np-1719458423329.jpg",
+        "location": "",
+        "point_id": "lqflx37np",
+        "point_name": "地底​探険​ミュージアム​龍Q館",
+        "remark": "Caster的据点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.20499,
+          34.677526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/oyw8era06-1728584489868.jpg",
+        "location": "",
+        "point_id": "oyw8era06",
+        "point_name": "ポートアイランド 北公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.652399,
+          35.439508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/rgalhtxom-1735590340816.jpg",
+        "location": "",
+        "point_id": "rgalhtxom",
+        "point_name": "横浜外国人墓地",
+        "remark": "绮礼从萝莉凛感受愉悦的场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.352678,
+          43.044274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10639/dwczzxr_1777265315915.jpg",
+        "location": "",
+        "point_id": "dwczzxr",
+        "point_name": "コンサート​ホール​キタラ",
+        "remark": "小圣杯所在地，最终决战的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.611445,
+          53.227543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/gf16qv2-1782747859474.webp",
+        "location": "",
+        "point_id": "gf16qv2",
+        "point_name": "Chatsworth House",
+        "remark": "爱因兹贝伦城堡内景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.611415,
+          53.22802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/gf1bw3d-1782748133859.webp",
+        "location": "",
+        "point_id": "gf1bw3d",
+        "point_name": "Chatsworth House",
+        "remark": "爱因兹贝伦城堡会议室"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.610693,
+          53.228209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10639,
+        "bangumi_title": "Fate/Zero",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10639/points/gf1e7oe-1782748240791.webp",
+        "location": "",
+        "point_id": "gf1e7oe",
+        "point_name": "Chatsworth House·State Bedroom",
+        "remark": "爱因兹贝伦城堡主卧"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

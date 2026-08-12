@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.718203,
+          35.729302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431325,
+        "bangumi_title": "布莱泽奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/431325/points/r8eejzy1i-1734971492900.jpg",
+        "location": "",
+        "point_id": "r8eejzy1i",
+        "point_name": "サンシャインシティ",
+        "remark": "布莱泽奥特曼在池袋市区与宇宙甲壳怪兽巴赞甲战斗时被波及的建筑之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.790837,
+          35.629283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431325,
+        "bangumi_title": "布莱泽奥特曼",
+        "ep_cut": "28",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/431325/points/92h5m2-1747558739283.jpg",
+        "location": "",
+        "point_id": "92h5m2",
+        "point_name": "水の広場公園（東京ビッグサイト）",
+        "remark": "瓦拉隆搭乘月球碎片前往地球并降落于此地将其摧毁"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

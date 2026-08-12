@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.350444,
+          43.067069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2567,
+        "bangumi_title": "学生会的一己之见",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/2567/35c96wz_1753863650849.jpg",
+        "location": "",
+        "point_id": "35c96wz",
+        "point_name": "JR札幌駅南口",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350284,
+          43.067767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2567,
+        "bangumi_title": "学生会的一己之见",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/2567/35cmcgn_1753864765924.jpg",
+        "location": "",
+        "point_id": "35cmcgn",
+        "point_name": "JR札幌駅西コンコース南口",
+        "remark": "#07　妙夢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.409748,
+          43.015118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2567,
+        "bangumi_title": "学生会的一己之见",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/2567/33o2d8n_1753762550005.jpg",
+        "location": "",
+        "point_id": "33o2d8n",
+        "point_name": "札幌ドーム",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780056,
+          35.654855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2567,
+        "bangumi_title": "学生会的一己之见",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2567/points/967seds-1766977453050.jpg",
+        "location": "",
+        "point_id": "967seds",
+        "point_name": "晴海グランドホテル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772597,
+          35.626728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2567,
+        "bangumi_title": "学生会的一己之见",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2567/points/968abz7-1766978330852.jpg",
+        "location": "",
+        "point_id": "968abz7",
+        "point_name": "アクアシティお台場・自販機前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781788,
+          35.624742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2567,
+        "bangumi_title": "学生会的一己之见",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2567/points/968rsow-1766979078955.jpg",
+        "location": "",
+        "point_id": "968rsow",
+        "point_name": "青海駅南出口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.174408,
+          41.40347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3031,
+        "bangumi_title": "剧场版 精灵宝可梦DP：帝牙卢卡VS帕路奇犽VS达克莱伊",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3031/points/84ig9rq2x-1681066183073.jpg",
+        "location": "",
+        "point_id": "84ig9rq2x",
+        "point_name": "Sagrada Família",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

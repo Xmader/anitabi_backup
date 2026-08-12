@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.04432,
+          35.637541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/214272/points/oex0gzgbn-1727018894032.jpg",
+        "location": "",
+        "point_id": "oex0gzgbn",
+        "point_name": "千葉市立美濱打瀨小學校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.198128,
+          39.626766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/214272/points/oex51810w-1727019545803.jpg",
+        "location": "",
+        "point_id": "oex51810w",
+        "point_name": "国际教养大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.198179,
+          39.626774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/214272/points/oexhv9b34-1727020231779.jpg",
+        "location": "",
+        "point_id": "oexhv9b34",
+        "point_name": "国际教养大学中嶋記念図書館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.529618,
+          35.685374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/214272/points/dad5pp-1747813862500.jpg",
+        "location": "",
+        "point_id": "dad5pp",
+        "point_name": "国際基督教大学食堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.379556,
+          35.810217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/214272/points/bot43ou-1772455057098.jpg",
+        "location": "",
+        "point_id": "bot43ou",
+        "point_name": "三井アウトレットパーク 入間",
+        "remark": "商场的入口处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.379643,
+          35.810077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/214272/points/bot4n7z-1772455081036.jpg",
+        "location": "",
+        "point_id": "bot4n7z",
+        "point_name": "三井アウトレットパーク 入間",
+        "remark": "谷歌实景图只有定点，应该是在这"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.378409,
+          35.810252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214272,
+        "bangumi_title": "欢迎来到实力至上主义教室",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/214272/points/bosyacu-1772455020701.jpg",
+        "location": "",
+        "point_id": "bosyacu",
+        "point_name": "三井アウトレットパーク 入間",
+        "remark": "俯瞰图"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

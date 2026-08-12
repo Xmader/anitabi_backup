@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.584051,
+          37.419874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2617,
+        "bangumi_title": "天降之物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2617/points/nyu6ycfvd-1725758905801.jpg",
+        "location": "",
+        "point_id": "nyu6ycfvd",
+        "point_name": "小沢の桜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.802722,
+          33.333365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2617,
+        "bangumi_title": "天降之物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2617/points/nzgln7om2-1725807689247.jpg",
+        "location": "",
+        "point_id": "nzgln7om2",
+        "point_name": "柳野橋 浮羽町東隈上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.656928,
+          33.412562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2617,
+        "bangumi_title": "天降之物",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2617/points/nzgrcbd58-1725808024156.jpg",
+        "location": "",
+        "point_id": "nzgrcbd58",
+        "point_name": "ファッションセンターしまむら 甘木店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.674623,
+          33.414343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2617,
+        "bangumi_title": "天降之物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2617/points/nzhfqma9w-1725809571822.jpg",
+        "location": "",
+        "point_id": "nzhfqma9w",
+        "point_name": "ジョイフル 甘木店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.590459,
+          36.809922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2617,
+        "bangumi_title": "天降之物",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/2617/points/nzhjjsnwc-1725809728079.jpg",
+        "location": "",
+        "point_id": "nzhjjsnwc",
+        "point_name": "宇奈月ダム",
+        "remark": "作中では左右反転しています"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

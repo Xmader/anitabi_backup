@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          151.694646,
+          -29.313851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 804,
+        "bangumi_title": "机动战士高达0083 星尘的回忆",
+        "ep_cut": "第1话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/804/points/hsq2sc8-1785752786508.jpg",
+        "location": "",
+        "point_id": "hsq2sc8",
+        "point_name": "トリントン基地/Torrington Memorial Park",
+        "remark": "欢迎来到特灵顿，现实中是个什么都没有的小村庄（即便以土澳的标准来说也非常小），这里没有任何军事设施，更没有藏核弹，北部是一片州立自然保护区，挺适合徒步的。\n不会得特灵顿综合症，也没有高达可以抢，村里有个酒坊和一个教堂，其他的没有了"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.377716,
+          52.516265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 317615,
+        "bangumi_title": "黑塔利亚 World★Stars",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/253046/points/nrft0neg8-1725179013113.jpg",
+        "location": "",
+        "point_id": "nrft0neg8",
+        "point_name": "Brandenburger Tor",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.430973,
+          50.078901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 317615,
+        "bangumi_title": "黑塔利亚 World★Stars",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/317615/points/nrj5lqfxb-1725186331592.jpg",
+        "location": "",
+        "point_id": "nrj5lqfxb",
+        "point_name": "Národní muzeum",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.256611,
+          43.773148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 317615,
+        "bangumi_title": "黑塔利亚 World★Stars",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/317615/points/nrjipqqhu-1725187105339.jpg",
+        "location": "",
+        "point_id": "nrjipqqhu",
+        "point_name": "Cattedrale di Santa Maria del Fiore",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

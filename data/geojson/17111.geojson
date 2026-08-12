@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          31.134251,
+          29.978905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17111,
+        "bangumi_title": "麦克斯奥特曼",
+        "ep_cut": "39",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/17111/points/r974uk8su-1735034020544.jpg",
+        "location": "",
+        "point_id": "r974uk8su",
+        "point_name": "هرم خوفو",
+        "remark": "巴萨库系统的尖塔的所在地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.294554,
+          48.858192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17111,
+        "bangumi_title": "麦克斯奥特曼",
+        "ep_cut": "39",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/17111/points/r978puins-1735034256666.jpg",
+        "location": "",
+        "point_id": "r978puins",
+        "point_name": "Tour Eiffel",
+        "remark": "巴萨库系统的尖塔的所在地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          37.620836,
+          55.75373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 17111,
+        "bangumi_title": "麦克斯奥特曼",
+        "ep_cut": "39",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/17111/points/r97a2h4f3-1735034334260.jpg",
+        "location": "",
+        "point_id": "r97a2h4f3",
+        "point_name": "Красная площадь",
+        "remark": "巴萨库系统的尖塔的所在地之一"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

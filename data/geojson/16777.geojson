@@ -1,0 +1,225 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          144.32028,
+          43.073476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxh4u78vn_1728473211235.jpg",
+        "location": "",
+        "point_id": "oxh4u78vn",
+        "point_name": "釧路湿原展望台",
+        "remark": "4巻P4 駐車場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.149061,
+          43.143352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhc4xzrb_1728473646565.jpg",
+        "location": "",
+        "point_id": "oxhc4xzrb",
+        "point_name": "阿寒​国際​ツルセンター",
+        "remark": "4巻P9 漫画では「丹頂の里 グルス」です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.145411,
+          43.143919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhe3of7w_1728473760889.jpg",
+        "location": "",
+        "point_id": "oxhe3of7w",
+        "point_name": "道​の​駅​阿寒​丹頂​の​里",
+        "remark": "4巻P10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.103053,
+          43.438462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhhtjj17_1728473997156.jpg",
+        "location": "",
+        "point_id": "oxhhtjj17",
+        "point_name": "阿寒湖",
+        "remark": "4巻P15 青い湖の向こうにそびえる雄阿寒岳を望む景色"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.090358,
+          43.433463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhn6gbej_1728474333629.jpg",
+        "location": "",
+        "point_id": "oxhn6gbej",
+        "point_name": "阿寒湖アイヌコタン",
+        "remark": "4巻P15 南側入り口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.089698,
+          43.433582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhqdi985_1728474499003.jpg",
+        "location": "",
+        "point_id": "oxhqdi985",
+        "point_name": "阿寒湖アイヌコタン",
+        "remark": "4巻P15 街の奥の部分"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.281802,
+          35.64219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhv1n5q3_1728474778187.jpg",
+        "location": "",
+        "point_id": "oxhv1n5q3",
+        "point_name": "JR高尾駅",
+        "remark": "4巻P42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.147474,
+          37.500025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxhz7sy05_1728475030522.jpg",
+        "location": "",
+        "point_id": "oxhz7sy05",
+        "point_name": "猪苗代湖畔駅",
+        "remark": "ほぼ廃駅状態"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.103059,
+          37.546514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxi2ux4cv_1728475327100.jpg",
+        "location": "",
+        "point_id": "oxi2ux4cv",
+        "point_name": "猪苗代駅",
+        "remark": "5.5话 アニメでは「某湖駅」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.102898,
+          37.546366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxi4gx31b_1728475391252.jpg",
+        "location": "",
+        "point_id": "oxi4gx31b",
+        "point_name": "猪苗代駅",
+        "remark": "5.5话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.115905,
+          37.521585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 16777,
+        "bangumi_title": "浪漫追星社",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/16777/oxie43pbw_1728475951624.jpg",
+        "location": "",
+        "point_id": "oxie43pbw",
+        "point_name": "猪苗代湖 天神浜",
+        "remark": "5.5话 桟橋はない"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

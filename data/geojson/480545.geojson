@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.599414,
+          35.639748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 480545,
+        "bangumi_title": "紫云寺家的兄弟姐妹",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/480545/points/upr9o71d3-1744795099957.jpg",
+        "location": "",
+        "point_id": "upr9o71d3",
+        "point_name": "成城学园前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599209,
+          35.639995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 480545,
+        "bangumi_title": "紫云寺家的兄弟姐妹",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/480545/points/uprfuki3n-1744795392417.jpg",
+        "location": "",
+        "point_id": "uprfuki3n",
+        "point_name": "成城学园前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599196,
+          35.640016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 480545,
+        "bangumi_title": "紫云寺家的兄弟姐妹",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/480545/upriacbzp_1744795522781.jpg",
+        "location": "",
+        "point_id": "upriacbzp",
+        "point_name": "成城学园前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.416326,
+          39.508702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 480545,
+        "bangumi_title": "紫云寺家的兄弟姐妹",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/480545/points/21p2iqf-1751466704254.jpg",
+        "location": "",
+        "point_id": "21p2iqf",
+        "point_name": "北京大兴国际机场",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

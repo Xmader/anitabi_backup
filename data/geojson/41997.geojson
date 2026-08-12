@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.714607,
+          35.382023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 41997,
+        "bangumi_title": "通灵王",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/41997/points/o2vzizqe0-1726076444805.jpg",
+        "location": "",
+        "point_id": "o2vzizqe0",
+        "point_name": "出雲文化伝承館",
+        "remark": "主角麻倉葉的家"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.655804,
+          36.562348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143834/points/iv7k61i7x-1711369117657.jpg",
+        "location": "",
+        "point_id": "iv7k61i7x",
+        "point_name": "石川​四高​記念​文化​交流​館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.388802,
+          35.844561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143834/points/iv7oi2jvu-1711369624561.jpg",
+        "location": "",
+        "point_id": "iv7oi2jvu",
+        "point_name": "旧​石川組​製​糸西​洋館",
+        "remark": "1F玄关楼梯处 （入館費用1人200円，开放日见入间市政府官网https://www.city.iruma.saitama.jp/soshiki/hakubutsukan/event/670.html）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.388823,
+          35.844539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143834/p6efi1imz_1729172759511.jpg",
+        "location": "",
+        "point_id": "p6efi1imz",
+        "point_name": "旧​石川組​製​糸西​洋館",
+        "remark": "2F舞厅会有复原的鹿鸣馆舞会表演"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.388953,
+          35.844661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143834/p6egzmzio_1729172813438.jpg",
+        "location": "",
+        "point_id": "p6egzmzio",
+        "point_name": "旧​石川組​製​糸西​洋館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.388905,
+          35.844516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143834/p6enjbosn_1729173108350.jpg",
+        "location": "",
+        "point_id": "p6enjbosn",
+        "point_name": "旧​石川組​製​糸西​洋館",
+        "remark": "作为休息室使用"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.388796,
+          35.844465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143834/p6enknd1f_1729173118397.jpg",
+        "location": "",
+        "point_id": "p6enknd1f",
+        "point_name": "旧​石川組​製​糸西​洋館",
+        "remark": "游戏中的校长室，实际沙发是反过来的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.388756,
+          35.844607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/143834/p6f5qr7hp_1729174181580.jpg",
+        "location": "",
+        "point_id": "p6f5qr7hp",
+        "point_name": "旧​石川組​製​糸西​洋館",
+        "remark": "供游览参考"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.38022,
+          35.810224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 143834,
+        "bangumi_title": "少女＊领域",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1053/bangumi/143834/points/iv7vps2hq-1711369666871.jpg",
+        "location": "",
+        "point_id": "iv7vps2hq",
+        "point_name": "三井​アウトレット​パーク​入間",
+        "remark": "商场的1楼室外空间"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

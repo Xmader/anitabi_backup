@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.716753,
+          29.882351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 334402,
+        "bangumi_title": "成龙历险记 第五季",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/1154/bangumi/334402/points/96eogdx-1766990036450.jpg",
+        "location": "",
+        "point_id": "96eogdx",
+        "point_name": "丰都老城",
+        "remark": "第五季第六集即总第88集；英语台词明说了是丰都；该巨型塑像真实存在但脸部现已被抹平。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

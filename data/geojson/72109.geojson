@@ -1,0 +1,785 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.321846,
+          35.590676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888veqp",
+        "point_name": "OP　1話　浦富海岸",
+        "remark": "遠浅で知られた山陰随一の海水浴場。海水の透明度も高い。付近には民宿が軒を並べる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.31249,
+          35.593686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72109/points/4t888vexu-1724650641091.jpg",
+        "location": "",
+        "point_id": "4t888vexu",
+        "point_name": "1話　田後港神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.31262,
+          35.592927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vf03",
+        "point_name": "1話　田後地区",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.311995,
+          35.592407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/4t888veqd-1724652229302.jpg",
+        "location": "",
+        "point_id": "4t888veqd",
+        "point_name": "1話　田後簡易郵便局",
+        "remark": "マンホール画像はこの付近から"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.311908,
+          35.593126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/4t888vezv-1724652304602.jpg",
+        "location": "",
+        "point_id": "4t888vezv",
+        "point_name": "1話　主人公の家（田後神社）",
+        "remark": "裏富海岸屈指の景勝地を眺望できる神社。毎年4月に豊漁と安全を願う例大祭が催される。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.312029,
+          35.593564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vf0u",
+        "point_name": "1話　田後公園展望台",
+        "remark": "田後北端の日和山に設けられた最も眺望のすぐれた展望台。菜種五島、城原海岸が一望出来る。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.3089,
+          35.591069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vfeo",
+        "point_name": "2話　菜種五島",
+        "remark": "蒲富海岸の絶景ポイント。先端の菜種島は、黒松の老樹が枝を広げ、春には野生のなの花が咲く。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.270375,
+          35.388735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vf2x",
+        "point_name": "3話　隼駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.335478,
+          35.574279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72109/points/4t888vf4n-1724639265534.jpg",
+        "location": "",
+        "point_id": "4t888vf4n",
+        "point_name": "3話　岩美駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.333153,
+          35.57799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888veox",
+        "point_name": "5話　ファミリーマートどい浦富店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.315316,
+          35.592988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vfk1",
+        "point_name": "5話　田後港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.294351,
+          35.582547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vfm1",
+        "point_name": "7話　網代隧道近く",
+        "remark": "大正元年に完成したトンネル。開通するまでは断崖を這うような細い道しかなかった。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.321315,
+          35.591097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/4t888vfzz-1724651104177.jpg",
+        "location": "",
+        "point_id": "4t888vfzz",
+        "point_name": "7話　荒砂神社",
+        "remark": "蒲富海水浴場近く、砂浜脇の岩場の上にある神社で、境内裏からの海の眺めが美しい。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.225942,
+          35.494679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 81,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/4t888vfio-1724651298157.jpg",
+        "location": "",
+        "point_id": "4t888vfio",
+        "point_name": "7話　鳥取駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.334877,
+          35.573094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vfjh",
+        "point_name": "9話　岩美町立観光会館",
+        "remark": "電動アシスト付レンタサイクルを借りれます。1日500円、9時から18時まで利用できます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.333082,
+          35.569918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/72109/4t888vg37_1724656430300.jpg",
+        "location": "",
+        "point_id": "4t888vg37",
+        "point_name": "10話　新井県道踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.715376,
+          34.989879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/4t888vg4u-1724651866778.jpg",
+        "location": "",
+        "point_id": "4t888vg4u",
+        "point_name": "12話　京都アクアリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.297991,
+          35.576358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/4t888vfz6-1724652017218.jpg",
+        "location": "",
+        "point_id": "4t888vfz6",
+        "point_name": "2期4話　日野神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.341071,
+          35.565711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4t888vfx4",
+        "point_name": "2期3話　錆びた人形の看板とバス亭",
+        "remark": "この付近らしいのですが未確定です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.316856,
+          35.592175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72109/points/87o6ixulw-1681315137001.jpg",
+        "location": "劇場版 Free! -Timeless Medley- 絆",
+        "point_id": "87o6ixulw",
+        "point_name": "岩美町鳥取県県道155",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.333676,
+          35.573084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "剧场版 High ☆Speed！-Free！Starting Days-",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72109/points/nkjjs37em-1724638680854.jpg",
+        "location": "",
+        "point_id": "nkjjs37em",
+        "point_name": "岩美病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.33018,
+          35.574799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72109/points/nkjvptv6e-1724639879745.jpg",
+        "location": "",
+        "point_id": "nkjvptv6e",
+        "point_name": "岩美中",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.208354,
+          -33.860526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95010/points/n9bf0x9ff-1723759070121.jpg",
+        "location": "悉尼",
+        "point_id": "n9bf0x9ff",
+        "point_name": "The Russell Boutique Hotel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.206462,
+          -33.883989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkpzr6l1u-1724652689522.jpg",
+        "location": "悉尼",
+        "point_id": "nkpzr6l1u",
+        "point_name": "Central",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.211774,
+          -33.870984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkq454p74-1724652957148.jpg",
+        "location": "悉尼",
+        "point_id": "nkq454p74",
+        "point_name": "Hyde park fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.276112,
+          -33.89105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqewosxe-1724653592939.jpg",
+        "location": "悉尼",
+        "point_id": "nkqewosxe",
+        "point_name": "Bondi graffiti wall crossing",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.215105,
+          -33.857092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqgrgc4q-1724653685427.jpg",
+        "location": "悉尼",
+        "point_id": "nkqgrgc4q",
+        "point_name": "Sydney Opera House",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.211814,
+          -33.849125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqo05t5g-1724654150353.jpg",
+        "location": "悉尼",
+        "point_id": "nkqo05t5g",
+        "point_name": "north sydney olympic swimming pool",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.210693,
+          -33.852299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqq06md7-1724654232420.jpg",
+        "location": "悉尼",
+        "point_id": "nkqq06md7",
+        "point_name": "Sydney Harbour Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.070667,
+          -33.846167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqs13h72-1724654374765.jpg",
+        "location": "悉尼",
+        "point_id": "nkqs13h72",
+        "point_name": "Olympic park station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.067322,
+          -33.8501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqtsio6h-1724654496922.jpg",
+        "location": "悉尼",
+        "point_id": "nkqtsio6h",
+        "point_name": "Sydney Aquatic Centre Training pool",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.06839,
+          -33.850721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkqxp3ez1-1724654729519.jpg",
+        "location": "悉尼",
+        "point_id": "nkqxp3ez1",
+        "point_name": "Sydney Aquatic Swimming Pool Gate",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.043369,
+          -33.863235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nkreybm6b-1724655846529.jpg",
+        "location": "悉尼",
+        "point_id": "nkreybm6b",
+        "point_name": "Tooheys Ln - Lidcombe Station Sprint Platform",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.221183,
+          -33.86926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nmqrbv7vu-1724811144217.jpg",
+        "location": "悉尼",
+        "point_id": "nmqrbv7vu",
+        "point_name": "Harry’s Cafe de Wheels",
+        "remark": "Harry’s Cafe de Wheels tiger pie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.204154,
+          -33.879383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 257,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nmqz8e388-1724811520575.jpg",
+        "location": "悉尼",
+        "point_id": "nmqz8e388",
+        "point_name": "Chinatown Sydney",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.063406,
+          -33.847133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nmr1citjt-1724811641123.jpg",
+        "location": "悉尼",
+        "point_id": "nmr1citjt",
+        "point_name": "Accor(ANZ) Stadium",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.185818,
+          -33.869215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nmr50farb-1724811858208.jpg",
+        "location": "悉尼",
+        "point_id": "nmr50farb",
+        "point_name": "Anzac Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.165232,
+          -33.936493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nms8lsneo-1724814325933.jpg",
+        "location": "悉尼",
+        "point_id": "nms8lsneo",
+        "point_name": "Sydney International airport arrival taxi rank",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.046204,
+          -33.864013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72109,
+        "bangumi_title": "Free!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1399/bangumi/72109/points/nsf2wuyaj-1725255831290.jpg",
+        "location": "",
+        "point_id": "nsf2wuyaj",
+        "point_name": "Lidcombe Station Sprint Platform",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

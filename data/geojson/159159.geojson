@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          11.25354,
+          43.767173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159159,
+        "bangumi_title": "偶像梦幻祭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159159/points/szf172862-1739909896700.jpg",
+        "location": "",
+        "point_id": "szf172862",
+        "point_name": "Via dei Bardi",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

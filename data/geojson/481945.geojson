@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.075226,
+          51.505742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 481945,
+        "bangumi_title": "箱中盛宴",
+        "ep_cut": "开服官图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/481945/points/vh3xmsu7v-1746938409719.jpg",
+        "location": "维尔汀",
+        "point_id": "vh3xmsu7v",
+        "point_name": "Tower Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

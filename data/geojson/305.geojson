@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.068585,
+          59.329338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305,
+        "bangumi_title": "魔女宅急便",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/305/points/51i53219p-1781070894154.jpg",
+        "location": "",
+        "point_id": "51i53219p",
+        "point_name": "Gustav II Adolf Statue Stockholm",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.294833,
+          57.634806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305,
+        "bangumi_title": "魔女宅急便",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5321sd",
+        "point_name": "スウェーデン ビスビュー Visby",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.094397,
+          42.650658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305,
+        "bangumi_title": "魔女宅急便",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5321db",
+        "point_name": "クロアチア ドブロヴニク Dubrovnik",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          147.493189,
+          -42.027626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305,
+        "bangumi_title": "魔女宅急便",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305/51i5322ji_1781080056083.jpg",
+        "location": "",
+        "point_id": "51i5322ji",
+        "point_name": "Ross Bakery，Tasmania",
+        "remark": "パン屋のモデル 面包房的原型之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          147.492606,
+          -42.029804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305,
+        "bangumi_title": "魔女宅急便",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305/51i53220z_1781080037719_c16v9.jpg",
+        "location": "",
+        "point_id": "51i53220z",
+        "point_name": "Bakery 31，Tasmania",
+        "remark": "パン屋のモデル 面包房的原型之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.968096,
+          -37.818023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305,
+        "bangumi_title": "魔女宅急便",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/305/points/nst0o4yhl-1725286180062.jpg",
+        "location": "",
+        "point_id": "nst0o4yhl",
+        "point_name": " Flinders Street Railway Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

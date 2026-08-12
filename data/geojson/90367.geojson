@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.710651,
+          41.765953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i530owg",
+        "point_name": "函館市旧イギリス領事館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.597736,
+          36.329466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/90367/points/51i530oxx-1746011430740.jpg",
+        "location": "",
+        "point_id": "51i530oxx",
+        "point_name": "旧朝吹山荘（睡鳩荘）",
+        "remark": "湿っ地屋敷"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.320612,
+          43.074155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/90367/51i530z00_1730618708514.jpg",
+        "location": "思い出のマーニー",
+        "point_id": "51i530z00",
+        "point_name": "釧路湿原展望台",
+        "remark": "オープニング俯瞰"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.837255,
+          43.057305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/90367/51i530ynz_1730619022515.jpg",
+        "location": "思い出のマーニー",
+        "point_id": "51i530ynz",
+        "point_name": "真竜神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.019227,
+          43.020861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/90367/51i530z6x_1730619307177.jpg",
+        "location": "思い出のマーニー",
+        "point_id": "51i530z6x",
+        "point_name": "藻散布沼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.164561,
+          43.078229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/90367/51i530ymd_1730619076066.jpg",
+        "location": "思い出のマーニー",
+        "point_id": "51i530ymd",
+        "point_name": "霧多布岬",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350763,
+          43.068606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90367,
+        "bangumi_title": "回忆中的玛妮",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/90367/51i530yvg_1730619194723.jpg",
+        "location": "思い出のマーニー",
+        "point_id": "51i530yvg",
+        "point_name": "JR札幌駅ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

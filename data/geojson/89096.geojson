@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.072969,
+          35.090956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 89096,
+        "bangumi_title": "New爱相随+",
+        "ep_cut": "热海旅行的住宿旅馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/89096/points/j0nfve8p9-1711795548552.jpg",
+        "location": "",
+        "point_id": "j0nfve8p9",
+        "point_name": "大野屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.718925,
+          36.818189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 89096,
+        "bangumi_title": "New爱相随+",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/89096/points/r16y4i0dg-1734408522942.jpg",
+        "location": "日光石，姐崎宁宁",
+        "point_id": "r16y4i0dg",
+        "point_name": "鬼怒川温泉",
+        "remark": "日光鬼怒川温泉2天1夜旅行"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

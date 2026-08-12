@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.730191,
+          34.706167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 225784,
+        "bangumi_title": "金辉恋曲四重奏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/225784/points/acg2qp5-1769530809431.jpg",
+        "location": "",
+        "point_id": "acg2qp5",
+        "point_name": "Q:FACE",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

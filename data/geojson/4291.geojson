@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.273507,
+          35.364944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4291,
+        "bangumi_title": "最后大魔王",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/4291/33oedyl_1753763101243.jpg",
+        "location": "",
+        "point_id": "33oedyl",
+        "point_name": "東海大学湘南キャンパス1号館前",
+        "remark": "#04"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

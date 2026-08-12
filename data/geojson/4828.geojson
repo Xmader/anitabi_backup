@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.620025,
+          35.472554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4828,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/4828/n7sn051y6_1725011015996_cblack.jpg",
+        "location": "",
+        "point_id": "n7sn051y6",
+        "point_name": "台町公園の東側",
+        "remark": "根据2021年动画化的地方来看，应位于神奈川区的台町公园。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647578,
+          35.447525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4828,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4828/points/n7stczwfb-1723640117938.jpg",
+        "location": "",
+        "point_id": "n7stczwfb",
+        "point_name": "山下公园",
+        "remark": "age社约会景点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604576,
+          35.437159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4828,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4828/points/n7swu13mm-1723640396522.jpg",
+        "location": "",
+        "point_id": "n7swu13mm",
+        "point_name": "清水ヶ丘公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636308,
+          35.455107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4828,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4828/points/n7t2rgjxg-1723640618507.jpg",
+        "location": "",
+        "point_id": "n7t2rgjxg",
+        "point_name": "よこはまコスモワールド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637959,
+          35.4601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4828,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4828/points/n7t3i0ufe-1723640664007.jpg",
+        "location": "",
+        "point_id": "n7t3i0ufe",
+        "point_name": "臨港パーク",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643766,
+          35.437849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4828,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4828/points/n7taf5wjw-1723641095253.jpg",
+        "location": "",
+        "point_id": "n7taf5wjw",
+        "point_name": "石川町站前邮局坂道",
+        "remark": "武爷专属起飞跑道"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

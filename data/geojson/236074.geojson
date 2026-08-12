@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.701275,
+          35.69239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236074,
+        "bangumi_title": "闪亮美妙☆频道",
+        "ep_cut": 40,
+        "image_url": "https://w.junreimap.com/images/points/236074/1phho2a_1750728175555.jpg",
+        "location": "",
+        "point_id": "1phho2a",
+        "point_name": "新宿アルタ",
+        "remark": "已于2025年2月停业拆除。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

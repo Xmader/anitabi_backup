@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.884069,
+          35.600096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 163046,
+        "bangumi_title": "迷家",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52utei",
+        "point_name": "中央自動車道初狩PA（上り）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.907055,
+          35.561386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 163046,
+        "bangumi_title": "迷家",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52utmb",
+        "point_name": "中央自動車道都留インターチェンジ付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.947691,
+          35.51198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 163046,
+        "bangumi_title": "迷家",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52ut96",
+        "point_name": "県道24号カーブ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.989448,
+          35.503462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 163046,
+        "bangumi_title": "迷家",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52uuof",
+        "point_name": "道の駅 どうし",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.056277,
+          35.53467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 163046,
+        "bangumi_title": "迷家",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52uu1j",
+        "point_name": "椿大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

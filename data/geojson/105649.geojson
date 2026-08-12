@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.35077,
+          48.852706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 105649,
+        "bangumi_title": "刺客信条：大革命",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/105649/points/nqk4ss5sc-1725110684417.jpg",
+        "location": "法国 巴黎 巴黎圣母院 刺客信条大革命序列3之记忆2忏悔",
+        "point_id": "nqk4ss5sc",
+        "point_name": "巴黎圣母院",
+        "remark": "亚诺·维克多·多里安在这里完成了刺客毕业后刺杀的第一位目标希维特"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

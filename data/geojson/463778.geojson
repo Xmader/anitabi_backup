@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.4104,
+          50.086609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 463778,
+        "bangumi_title": "在地下城寻求邂逅是否搞错了什么 第五季 丰饶的女神篇",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/463778/points/ar630ca-1770421270618.jpg",
+        "location": "",
+        "point_id": "ar630ca",
+        "point_name": "Kralův most",
+        "remark": "ダンまち中「英雄橋」的原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.7006,
+          35.65902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 359930,
+        "bangumi_title": "名侦探柯南 万圣节的新娘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/359930/points/hiiavog-1785134897234.webp",
+        "location": "",
+        "point_id": "hiiavog",
+        "point_name": "忠犬ハチ公像",
+        "remark": "在忠犬八公巷旁边的花坛上，柯南伸开双手挡住艾蕾妮卡的枪线"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70051,
+          35.659462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 359930,
+        "bangumi_title": "名侦探柯南 万圣节的新娘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/359930/points/hiim7yl-1785135384350.webp",
+        "location": "",
+        "point_id": "hiim7yl",
+        "point_name": "区渋谷交差点",
+        "remark": "柯南与少年侦探团汇合地点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701998,
+          35.658488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 359930,
+        "bangumi_title": "名侦探柯南 万圣节的新娘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/359930/points/hiiyl9c-1785135903379.webp",
+        "location": "",
+        "point_id": "hiiyl9c",
+        "point_name": "渋谷スカイ",
+        "remark": "降谷零和柯南汇合处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701419,
+          35.660392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 359930,
+        "bangumi_title": "名侦探柯南 万圣节的新娘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/359930/points/hij6arb-1785136300711.webp",
+        "location": "",
+        "point_id": "hij6arb",
+        "point_name": "涩谷过街隧道",
+        "remark": "片尾实景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702133,
+          35.658392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 359930,
+        "bangumi_title": "名侦探柯南 万圣节的新娘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/359930/points/hihst1u-1785134037099.webp",
+        "location": "",
+        "point_id": "hihst1u",
+        "point_name": "渋谷スカイ",
+        "remark": "柯南在踢球时观景台视角看球"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

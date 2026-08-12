@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          8.907163,
+          44.382089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/ab7ad3n61-1687232272635.jpg",
+        "location": "",
+        "point_id": "ab7ad3n61",
+        "point_name": "Porto di Genova",
+        "remark": "莱顿港的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.070667,
+          47.325562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/ab6er4qys-1687230478846.jpg",
+        "location": "",
+        "point_id": "ab6er4qys",
+        "point_name": "Château de Chenonceau",
+        "remark": "夏洛特公主的住地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.06979,
+          47.325511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/183878/qzohvdexq_1734288167762.jpg",
+        "location": "",
+        "point_id": "qzohvdexq",
+        "point_name": "Château de Chenonceau",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.071435,
+          47.326058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/htxmp7g-1785825879212.webp",
+        "location": "",
+        "point_id": "htxmp7g",
+        "point_name": "Jardin de Diane de Poitiers",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.069186,
+          47.325084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/htxgey6-1785825375804.webp",
+        "location": "",
+        "point_id": "htxgey6",
+        "point_name": "Jardin de Catherine de Médicis",
+        "remark": "动漫里取景在另一侧，但实地喷泉在这一侧的花园"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.463393,
+          47.57448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/ab6pzd50i-1687231497184.jpg",
+        "location": "",
+        "point_id": "ab6pzd50i",
+        "point_name": "Stiftsbibliothek Admont",
+        "remark": "沙赫尔天文台图书馆的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762256,
+          35.008575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/51i5dzbll-1687229959022.jpg",
+        "location": "",
+        "point_id": "51i5dzbll",
+        "point_name": "京都文化博物館",
+        "remark": "C·H 邮政公司大楼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.762559,
+          35.008588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 183878,
+        "bangumi_title": "紫罗兰永恒花园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/183878/points/o6mhfbzqq-1726369027396.jpg",
+        "location": "",
+        "point_id": "o6mhfbzqq",
+        "point_name": "京都​府​京都​文化​博物館​別館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

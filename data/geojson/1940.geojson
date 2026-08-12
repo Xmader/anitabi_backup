@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.429402,
+          34.654787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1940,
+        "bangumi_title": "魔卡少女樱",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1940/points/22yppn2-1751543287944.jpg",
+        "location": "",
+        "point_id": "22yppn2",
+        "point_name": "海遊館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745372,
+          35.658628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1940,
+        "bangumi_title": "魔卡少女樱",
+        "ep_cut": "40",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1940/points/22zak4y-1751544247907.jpg",
+        "location": "",
+        "point_id": "22zak4y",
+        "point_name": "東京タワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          142.056238,
+          43.548151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 245671,
+        "bangumi_title": "我们的七日战争",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/245671/points/7bv3ox2-1762965320825.jpg",
+        "location": "",
+        "point_id": "7bv3ox2",
+        "point_name": "住友赤平炭鉱立坑櫓",
+        "remark": "7日間のバースデーキャンプで守たちが立てこもった廃工場のモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.005153,
+          42.980299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 245671,
+        "bangumi_title": "我们的七日战争",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/245671/points/7bvahei-1762965549106.jpg",
+        "location": "",
+        "point_id": "7bvahei",
+        "point_name": "北海道夕張高等学校",
+        "remark": "守たちの通っていた高校のモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.006665,
+          42.985247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 245671,
+        "bangumi_title": "我们的七日战争",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/245671/points/7bvdt4m-1762965695932.jpg",
+        "location": "",
+        "point_id": "7bvdt4m",
+        "point_name": "そば​天国​南清水沢​駅",
+        "remark": "守が綾に7日間大人から逃げようと提案した里美駅のモデル。現在は廃駅となった駅舎の中で、蕎麦の専門店『そば天国夕張店』が営業しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.989043,
+          43.068283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 245671,
+        "bangumi_title": "我们的七日战争",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/245671/points/7bw18om-1762966783744.jpg",
+        "location": "",
+        "point_id": "7bw18om",
+        "point_name": "夕張市​石炭​博物館模擬坑道",
+        "remark": "守たちが山咲建設の職員とエレベーター付近で争ったシーン"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

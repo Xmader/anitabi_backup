@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.702419,
+          35.809718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 15237,
+        "bangumi_title": "神的记事本",
+        "ep_cut": "ep8",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/15237/points/kpx6ohtxe-1740114048186.jpg",
+        "location": "",
+        "point_id": "kpx6ohtxe",
+        "point_name": "川口総合病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

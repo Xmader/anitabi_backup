@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          129.856961,
+          29.859266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 433072,
+        "bangumi_title": "蜻蛉高球",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/433072/points/6q8f2q3-1761657739261.jpg",
+        "location": "",
+        "point_id": "6q8f2q3",
+        "point_name": "御岳",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.593568,
+          29.454968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 433072,
+        "bangumi_title": "蜻蛉高球",
+        "ep_cut": "9",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/433072/points/84bkcoq-1764686179155.jpg",
+        "location": "",
+        "point_id": "84bkcoq",
+        "point_name": "悪石島",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

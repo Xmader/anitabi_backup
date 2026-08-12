@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          109.55518,
+          31.043878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 134443,
+        "bangumi_title": "龙族Ⅰ : 火之晨曦",
+        "ep_cut": "第九幕 龙墓 Dragon Tomb",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/134443/points/h8oxk0c-1784541285752.webp",
+        "location": "",
+        "point_id": "h8oxk0c",
+        "point_name": "长江三峡瞿塘峡夔门",
+        "remark": "很多年以前，这个小洲是一座山，站在这里望出去，是如同神斧劈成的夔门，春来满眼都是绿色，风浩荡地吹起两个人的白袍。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

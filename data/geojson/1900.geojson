@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          30.057086,
+          51.406331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1900,
+        "bangumi_title": "使命召唤4：现代战争",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1900/points/nxuc93ioe-1725681038455.jpg",
+        "location": "",
+        "point_id": "nxuc93ioe",
+        "point_name": "Центральна площа",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

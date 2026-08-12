@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.791453,
+          35.668078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 19175,
+        "bangumi_title": "忌火起草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "oxe67r4i2",
+        "point_name": "東京海洋大学 越中島キャンパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793015,
+          35.666414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 19175,
+        "bangumi_title": "忌火起草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "oxeb9ceoj",
+        "point_name": "東京海洋大学 生活協同組合",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.973548,
+          35.329785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 19175,
+        "bangumi_title": "忌火起草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "oxe7tbnfh",
+        "point_name": "小山町フィルムコミッション",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.827599,
+          36.630984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 19175,
+        "bangumi_title": "忌火起草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "oxe8r1h9f",
+        "point_name": "クーリルージュ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580817,
+          35.706322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 19175,
+        "bangumi_title": "忌火起草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "oxe98pu8e",
+        "point_name": "吉祥寺バウスシアター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.583822,
+          35.682389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 19175,
+        "bangumi_title": "忌火起草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "oxeacufch",
+        "point_name": "カラオケ​プラザ​キタノ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

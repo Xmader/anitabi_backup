@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.605209,
+          38.907835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 344439,
+        "bangumi_title": "夏日花火",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/344439/248d2do_1751619849747.jpg",
+        "location": "",
+        "point_id": "248d2do",
+        "point_name": "恒隆广场",
+        "remark": "市中心"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.623976,
+          38.916371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 344439,
+        "bangumi_title": "夏日花火",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/344439/248ii2a_1751620125428.jpg",
+        "location": "",
+        "point_id": "248ii2a",
+        "point_name": "柏威年购物中心",
+        "remark": "商业街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.636148,
+          38.910952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 344439,
+        "bangumi_title": "夏日花火",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/344439/248nujl_1751620401482.jpg",
+        "location": "",
+        "point_id": "248nujl",
+        "point_name": "昆明街、七七街交叉路口",
+        "remark": "校门外"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.647701,
+          38.912242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 344439,
+        "bangumi_title": "夏日花火",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/344439/248zplk_1751620943417.jpg",
+        "location": "",
+        "point_id": "248zplk",
+        "point_name": "南山风情街某建筑",
+        "remark": "小区（具体位置不明）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.634696,
+          38.908171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 344439,
+        "bangumi_title": "夏日花火",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/344439/2497633_1751621326123.jpg",
+        "location": "",
+        "point_id": "2497633",
+        "point_name": "大连市二十四中学",
+        "remark": "柿树学园原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

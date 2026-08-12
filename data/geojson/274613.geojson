@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.188305,
+          22.305211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274613,
+        "bangumi_title": "爱、死亡和机器人",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1147/bangumi/274613/points/mcsuvzhuv-1721210890681.jpg",
+        "location": "紅磡",
+        "point_id": "mcsuvzhuv",
+        "point_name": "船塢街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.188425,
+          22.305139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274613,
+        "bangumi_title": "爱、死亡和机器人",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1147/bangumi/274613/points/mcspmn6dc-1721210628884.jpg",
+        "location": "紅磡",
+        "point_id": "mcspmn6dc",
+        "point_name": "紅磡道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.188032,
+          22.304391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274613,
+        "bangumi_title": "爱、死亡和机器人",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1147/bangumi/274613/points/md03ptmxi-1721226734517.jpg",
+        "location": "紅磡",
+        "point_id": "md03ptmxi",
+        "point_name": "紅磡道x德豐街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.188122,
+          22.304958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274613,
+        "bangumi_title": "爱、死亡和机器人",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/274613/me52ttnwb_1726478158736_cblack.jpg",
+        "location": "紅磡",
+        "point_id": "me52ttnwb",
+        "point_name": "黃埔花園金柏苑行人天橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.188499,
+          22.30473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274613,
+        "bangumi_title": "爱、死亡和机器人",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/274613/me5a9ulrr_1721316284127.jpg",
+        "location": "紅磡",
+        "point_id": "me5a9ulrr",
+        "point_name": "黃埔花園錦桃苑行人天橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

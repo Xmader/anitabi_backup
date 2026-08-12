@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          125.609328,
+          7.066189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243429,
+        "bangumi_title": "机动战士高达 闪光的哈萨维",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243429/51i52lofn_1747322905127.jpg",
+        "location": "",
+        "point_id": "51i52lofn",
+        "point_name": "Jollibee Davao Bolton",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.601274,
+          7.068687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243429,
+        "bangumi_title": "机动战士高达 闪光的哈萨维",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243429/51i52loes_1747323460454.jpg",
+        "location": "",
+        "point_id": "51i52loes",
+        "point_name": "Bankerohan Public Market",
+        "remark": "右侧建筑"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.415576,
+          7.185649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243429,
+        "bangumi_title": "机动战士高达 闪光的哈萨维",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243429/51i52loeb_1747324254935.jpg",
+        "location": "",
+        "point_id": "51i52loeb",
+        "point_name": "Philippine Eagle Center",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.622978,
+          7.082149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243429,
+        "bangumi_title": "机动战士高达 闪光的哈萨维",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243429/51i52lo5k_1747323421229.jpg",
+        "location": "",
+        "point_id": "51i52lo5k",
+        "point_name": "Agdao Public Market",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.645967,
+          7.129424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243429,
+        "bangumi_title": "机动战士高达 闪光的哈萨维",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243429/56gvmo_1747323616220.jpg",
+        "location": "",
+        "point_id": "56gvmo",
+        "point_name": "Davao Airport",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

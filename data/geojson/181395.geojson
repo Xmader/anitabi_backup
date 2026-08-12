@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.745404,
+          35.65857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 181395,
+        "bangumi_title": "欧布奥特曼",
+        "ep_cut": "24",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/181395/points/r8zkeeu9u-1735017607816.jpg",
+        "location": "",
+        "point_id": "r8zkeeu9u",
+        "point_name": "東京タワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

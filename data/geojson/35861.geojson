@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.511095,
+          48.635103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 35861,
+        "bangumi_title": "强袭魔女 OVA",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/35861/points/n7mq3s40m-1723627110359.jpg",
+        "location": "",
+        "point_id": "n7mq3s40m",
+        "point_name": "Mont Saint-Michel",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.743408,
+          35.001527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1930,
+        "bangumi_title": "PEACE MAKER 鐵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1930/lzu2x6wzo_1720243707326.jpg",
+        "location": "",
+        "point_id": "lzu2x6wzo",
+        "point_name": "壬生寺",
+        "remark": "新选组驻屯地，曾于1962年遭烧毁"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

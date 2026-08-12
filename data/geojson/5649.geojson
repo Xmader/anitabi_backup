@@ -1,0 +1,485 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.438616,
+          35.531025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/5649/points/iu952t5nt-1711294185130.jpg",
+        "location": "",
+        "point_id": "iu952t5nt",
+        "point_name": "相模大野",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.444445,
+          35.543316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/5649/points/2zn0gr4-1753519188671.jpg",
+        "location": "",
+        "point_id": "2zn0gr4",
+        "point_name": "小田急町田駅 3･4番ホーム",
+        "remark": "往相模大野方向拍摄，原作列车为小田急3000形。拍摄列车时请遵守站台工作人员指引。另外OVA中也复用了该镜头素材"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.437625,
+          35.532009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/5649/points/nvskr3ujp-1725520271291.jpg",
+        "location": "",
+        "point_id": "nvskr3ujp",
+        "point_name": "相模大野駅",
+        "remark": "下一站为小田急相模原（小田原线）和东林间（江之岛线）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758315,
+          34.984317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw5gho065_1725548326378.jpg",
+        "location": "",
+        "point_id": "nw5gho065",
+        "point_name": "JR京都駅 新幹線ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758725,
+          34.984506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw64b53o0_1725549762913.jpg",
+        "location": "",
+        "point_id": "nw64b53o0",
+        "point_name": "JR京都駅 13、14番線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758805,
+          34.985851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw61wvyce_1725549637948.jpg",
+        "location": "",
+        "point_id": "nw61wvyce",
+        "point_name": "JR京都駅内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758805,
+          34.9862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw65vkv5k_1725549842107.jpg",
+        "location": "",
+        "point_id": "nw65vkv5k",
+        "point_name": "JR京都駅口",
+        "remark": "远处为京都塔"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758357,
+          34.985981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw63hmcq4_1725549699789.jpg",
+        "location": "",
+        "point_id": "nw63hmcq4",
+        "point_name": "JR京都駅内 2階",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.729357,
+          35.039345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/50chhta2b_1672275976584.jpg",
+        "location": "",
+        "point_id": "50chhta2b",
+        "point_name": "金閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.729538,
+          35.039281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/50chsdfnk_1672275983328.jpg",
+        "location": "",
+        "point_id": "50chsdfnk",
+        "point_name": "金閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.730139,
+          35.039965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw6bqejbd_1725550289493.jpg",
+        "location": "",
+        "point_id": "nw6bqejbd",
+        "point_name": "金閣寺 帰りの階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767592,
+          35.010632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw6iapy9n_1725550619083.jpg",
+        "location": "",
+        "point_id": "nw6iapy9n",
+        "point_name": "本能寺御池門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771516,
+          35.009017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw6g0w1hq_1725550489323.jpg",
+        "location": "",
+        "point_id": "nw6g0w1hq",
+        "point_name": "三条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767187,
+          35.005673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw6n2g7q2_1725550892318.jpg",
+        "location": "",
+        "point_id": "nw6n2g7q2",
+        "point_name": "新京極商店街",
+        "remark": "後藤清高堂"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839825,
+          34.688975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw6w4lrd3_1725551440420.jpg",
+        "location": "",
+        "point_id": "nw6w4lrd3",
+        "point_name": "東大寺大仏殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767697,
+          35.008617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/5649/nw6l778ey_1725550773299.jpg",
+        "location": "",
+        "point_id": "nw6l778ey",
+        "point_name": "JEUGIA​三条​本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.43422,
+          35.532394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/5649/points/nw86vmecq-1725554260852.jpg",
+        "location": "",
+        "point_id": "nw86vmecq",
+        "point_name": "ロビーシティ前交差点",
+        "remark": "药店原为HAC DRUG，15年并入welcia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.760214,
+          34.738131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/5649/nxb5m7mtf_1725639086512.jpg",
+        "location": "",
+        "point_id": "nxb5m7mtf",
+        "point_name": "岩地海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637004,
+          35.707438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/5649/o4lugrdg6_1726210902720.jpg",
+        "location": "",
+        "point_id": "o4lugrdg6",
+        "point_name": "阿佐谷神明宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.650066,
+          35.705567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/5649/nyfuyk2pu_1725727701200.jpg",
+        "location": "",
+        "point_id": "nyfuyk2pu",
+        "point_name": "高円寺駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637255,
+          35.706285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/5649/o4lzjpn8g_1726211215191.jpg",
+        "location": "",
+        "point_id": "o4lzjpn8g",
+        "point_name": "鳥居前通路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637079,
+          35.706955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/5649/o4lrvgzhl_1726210746835.jpg",
+        "location": "",
+        "point_id": "o4lrvgzhl",
+        "point_name": "阿佐谷神明宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636998,
+          35.707161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/5649/o4ltimzon_1726210843417.jpg",
+        "location": "",
+        "point_id": "o4ltimzon",
+        "point_name": "阿佐谷神明宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637169,
+          35.706648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5649,
+        "bangumi_title": "妄想学生会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/5649/nyfvw5jlz_1725727740951.jpg",
+        "location": "",
+        "point_id": "nyfvw5jlz",
+        "point_name": "阿佐谷神明宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

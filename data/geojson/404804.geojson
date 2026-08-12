@@ -1,0 +1,445 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.796318,
+          35.710996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/9v1ygksnu-1685967093731.jpg",
+        "location": "浅草",
+        "point_id": "9v1ygksnu",
+        "point_name": "浅草寺 雷門前",
+        "remark": "浅草地区的地标，也是电动车赛线路起点。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770966,
+          35.70076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/404804/e7semuoff_1727620407783_c16v9.jpg",
+        "location": "秋叶原",
+        "point_id": "e7semuoff",
+        "point_name": "松井ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772873,
+          35.700358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/lc038ud4r-1727603367887.jpg",
+        "location": "秋叶原",
+        "point_id": "lc038ud4r",
+        "point_name": "秋葉原UDX ",
+        "remark": "天国大秘境第八集 宇佐美医生为星尾制作的病房位于此地 图中为星尾最后看到的天空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.361271,
+          35.662459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/om92lowfp-1727593646002.jpg",
+        "location": "第1话",
+        "point_id": "om92lowfp",
+        "point_name": "北原国際病院",
+        "remark": "现实里为北原国際病院，动画中改为“森山病院”。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795577,
+          35.710784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/om9dx692e-1727594361288.jpg",
+        "location": "浅草",
+        "point_id": "om9dx692e",
+        "point_name": "山野ビル",
+        "remark": "台東区雷門２丁目１７−８，春希登上这栋大楼观察赛车场周边情况。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792994,
+          35.711314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/om9vh4i6q-1727595467112.jpg",
+        "location": "浅草",
+        "point_id": "om9vh4i6q",
+        "point_name": "すしや通り",
+        "remark": "浅草地区步行街“すしや通り”（寿司屋大街）在雷門通り（雷门大街）上的入口，动画第3话的一段重要情节发生在寿司屋大街里。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792993,
+          35.711318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/oma0wyzb0-1727595745610.jpg",
+        "location": "浅草",
+        "point_id": "oma0wyzb0",
+        "point_name": "雷門通り",
+        "remark": "从寿司屋大街望向雷门大街。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79304,
+          35.711582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/oma4pfy59-1727595970733.jpg",
+        "location": "浅草",
+        "point_id": "oma4pfy59",
+        "point_name": "すしや通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.805536,
+          35.66878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omar2jp4q-1727597344800.jpg",
+        "location": "木场小镇",
+        "point_id": "omar2jp4q",
+        "point_name": "江東区木場５丁目",
+        "remark": "江东区木场5町目，姐弟二人搭乘番茄天国的货船返回东京后进入的第一个聚居地。5话魔境线的情节全部发生在此地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.805577,
+          35.669668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omb8bj1mx-1727598424617.jpg",
+        "location": "木场小镇",
+        "point_id": "omb8bj1mx",
+        "point_name": "ファミリー​マート\n木場​二丁目​店",
+        "remark": "真流被自警团挑衅的游戏厅在此。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770984,
+          35.697167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omcx2fnxs-1727602018681.jpg",
+        "location": "秋叶原",
+        "point_id": "omcx2fnxs",
+        "point_name": "万世橋",
+        "remark": "姐弟二人在附近的昭和シェル セルフ万世橋SS用油漆制作广告牌后，来到万世桥上一边钓鱼一边揽客。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772824,
+          35.70033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omdqq6s9g-1727603805484.jpg",
+        "location": "秋叶原",
+        "point_id": "omdqq6s9g",
+        "point_name": "秋葉原UDX",
+        "remark": "星尾灯看天空的天台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770139,
+          35.697243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omd9uno99-1727602799034.jpg",
+        "location": "秋叶原",
+        "point_id": "omd9uno99",
+        "point_name": "マーチエキュート神田万世橋",
+        "remark": "抵抗组织Liviuman的总部在此。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772669,
+          35.700592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omdf0p2bl-1727603098501.jpg",
+        "location": "秋叶原",
+        "point_id": "omdf0p2bl",
+        "point_name": "秋葉原UDX",
+        "remark": "秋叶原UDX，被宇佐美医生用作据点，也是不灭教团剧情的中心地点。图中为UDX大楼下的一座天桥，这座天桥也通往真流杀死星留美的天台。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792898,
+          35.676283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omcmwg95r-1727601459031.jpg",
+        "location": "木场小镇",
+        "point_id": "omcmwg95r",
+        "point_name": "江东区福住民宅",
+        "remark": "多多梨开设的旅馆，取材自江东区福住1町目7-13的一栋民宅。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.186534,
+          35.82325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/ome5alync-1727604737291.jpg",
+        "location": "",
+        "point_id": "ome5alync",
+        "point_name": "印西市立小林中学校",
+        "remark": "女性至上主义者团体的据点。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771119,
+          35.707175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/ome1tgxwb-1727604502865.jpg",
+        "location": "",
+        "point_id": "ome1tgxwb",
+        "point_name": "第２三倉ビル",
+        "remark": "高原学园上野分部在此。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.510915,
+          34.777085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": "漫画61话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/oi995isy4-1727280728495.jpg",
+        "location": "关西",
+        "point_id": "oi995isy4",
+        "point_name": "関西大学 千里山キャンパス 北門",
+        "remark": "新天国在此。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.584881,
+          36.492364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omof9zt8r-1727627099784.jpg",
+        "location": "东海村",
+        "point_id": "omof9zt8r",
+        "point_name": "竹瓦橋",
+        "remark": "茨城复兴省设定上位于“曽戸群比丘村小絵町”，现实中应当在茨城県那珂郡東海村取景，但较分散。图中为架在久慈川上的竹瓦桥，斩子在此过桥后前往大过滤装置。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.573385,
+          36.480984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omolskevv-1727627482510.jpg",
+        "location": "东海村",
+        "point_id": "omolskevv",
+        "point_name": "石神​コミュニティ​センター\n内宿​一区分​館",
+        "remark": "大过滤装置建筑外观取景为东海村石神​コミュニティ​センター，但位置移动到了村外的久慈川沿岸。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.327751,
+          35.40777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": "漫画49话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omphyh01z-1727629792623.jpg",
+        "location": "神奈川",
+        "point_id": "omphyh01z",
+        "point_name": "新日本​ウエックス​伊勢原​工場",
+        "remark": "2027年左右，未千佳、九九、奥玛前往东京寻找美美姬，似乎在神奈川活动了一段时间。图中为祷告钟曾经所在的一个地点。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.342484,
+          35.401689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": "漫画50话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/ompxaodv1-1727630355204.jpg",
+        "location": "神奈川",
+        "point_id": "ompxaodv1",
+        "point_name": "神奈川県伊勢原市歌川一丁目",
+        "remark": "未千佳和鹰在伊势原市歌川一丁目的一条街道上战斗，此处背景的店铺为すき家伊勢原歌川店。同一P，鹰背景的店铺为元祖からあげ本舗まるけん∞ふわたま辛麵専門店サンシン\n。\n"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

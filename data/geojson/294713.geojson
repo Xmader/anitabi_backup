@@ -1,0 +1,745 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.696731,
+          35.647048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "20fa830e",
+        "point_name": "朝日橋",
+        "remark": "姫が自宅から学校に通う時などに通る橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.695905,
+          35.650464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "b1e54c96",
+        "point_name": "西郷山公園",
+        "remark": "六條一子がよく休んでいる公園。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698319,
+          35.649284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "8516bbd1",
+        "point_name": "FREECITY",
+        "remark": "マリオの店（マリオネットランチマーケット）のモデル。ただし店名や建物内観は近隣の「HOLLYWOOD RANCH MARKET」がモデルの可能性がある。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699789,
+          35.648887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "e1706736",
+        "point_name": "代官山 蔦屋書店",
+        "remark": "コミック第1巻「たずねびと」など何度か登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697131,
+          35.641791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "b2b88d21",
+        "point_name": "目黒銀座商店街",
+        "remark": "作中で何度も登場する商店街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698544,
+          35.642878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "58d8c205",
+        "point_name": "伊勢脇花園",
+        "remark": "城路久美が勤めている生花店（※2019年に閉店し現存しない）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702934,
+          35.648006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "c180fe4b",
+        "point_name": "東急東横線・代官山駅",
+        "remark": "コミック第5巻「かってに白コマ」で筧亜美が東横線で帰宅。またコミック第7巻「逃走ラブストーリー」でも駅の入口が描かれている。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696528,
+          35.64728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "453e3d50",
+        "point_name": "目黒川沿いの小道",
+        "remark": "アニメ放送前にお花見壁紙で描かれた場所https://kakushigoto-anime.com/news/277/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698291,
+          35.649479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "7a36a014",
+        "point_name": "「都立第一商高」交差点",
+        "remark": "アニメの後藤可久士ビジュアルで描かれた交差点https://kakushigoto-anime.com/news/104/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70617,
+          35.636009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "4c2e5d0f",
+        "point_name": "「田道」交差点",
+        "remark": "アニメのキービジュアルで描かれた、歩道橋のある交差点https://kakushigoto-anime.com/news/225/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696839,
+          35.650673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "208a0599",
+        "point_name": "西郷橋",
+        "remark": "アニメのEDで姫が歩いていた場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691675,
+          35.649873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "45d86d8d",
+        "point_name": "中の橋",
+        "remark": "アニメのEDで可久士が渡っていた赤い橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69149,
+          35.646471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "7bb02a74",
+        "point_name": "「東山中学校」脇の坂",
+        "remark": "アニメのEDで可久士が駆け下りた坂"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69822,
+          35.649022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "60dffd66",
+        "point_name": "「美空ひばり記念館」横の坂",
+        "remark": "可久士が仕事場への通勤で使う坂（アニメで何度も登場。原作ではハッキリとは描かれていないが、設定的には原作でもここを通っているはず。）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699347,
+          35.648476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "cd6c1e45",
+        "point_name": "リストランテ ASO",
+        "remark": "アニメ1話Bパート「ねがいごと」で“めぐろ川たんていじむしょ”のメンバーがマリオに追いかけられた場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698189,
+          35.641368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中目黒の自宅と仕事場周辺",
+        "point_id": "c44f0ffa",
+        "point_name": "目黒区役所",
+        "remark": "アニメ8話Aパート「おれたちの下描き」でロクの“ご登録”をした役所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50013,
+          35.30705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "01e8785c",
+        "point_name": "「鎌倉高校前駅」裏手の階段",
+        "remark": "原作第1話時点の倉庫へ続く階段（後に七里ヶ浜駅近くの階段に設定変更され、TVアニメでは最初からそちらになる）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.509175,
+          35.306042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "0b900bc8",
+        "point_name": "「七里ヶ浜駅」裏手の階段",
+        "remark": "原作後半とアニメにおける倉庫へ続く階段"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510293,
+          35.306268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "d2c21c60",
+        "point_name": "江ノ島電鉄・七里ヶ浜駅",
+        "remark": "作中に何度も登場。原作後半とアニメにおける倉庫の最寄り駅。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531295,
+          35.30929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "88ff957f",
+        "point_name": "極楽寺切通しの階段",
+        "remark": "コミック第11巻の表紙"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552426,
+          35.29618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "f2d6b96b",
+        "point_name": "ロンハーマン カフェ逗子マリーナ店",
+        "remark": "コミック第5巻のカラーページで十丸院と羅砂が巡っていた場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.576869,
+          35.264967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "21dcbbf9",
+        "point_name": "神奈川県立近代美術館葉山",
+        "remark": "コミック第7巻～第9巻のカラーページで十丸院と羅砂が巡っていた場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.598365,
+          35.240707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "21ef636d",
+        "point_name": "立石公園駐車場",
+        "remark": "コミック第10巻の表紙"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745236,
+          35.25615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "f16a4f05",
+        "point_name": "観音埼灯台",
+        "remark": "コミック第1巻 p.73 の扉絵、および第3巻の表紙に描かれた灯台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502101,
+          35.306813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "8ba2572c",
+        "point_name": "日坂",
+        "remark": "アニメの後藤姫ビジュアルで描かれた坂https://kakushigoto-anime.com/news/115/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510222,
+          35.305569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "d571bf58",
+        "point_name": "bills 七里ヶ浜",
+        "remark": "アニメのOP冒頭で姫が駆けていた建物"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.510662,
+          35.306236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "554218cf",
+        "point_name": "「七里ヶ浜」駅近くの小橋",
+        "remark": "アニメ第1話アバンで描かれた、江ノ電の小さな橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.501749,
+          35.306566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "鎌倉の倉庫周辺",
+        "point_id": "11cba994",
+        "point_name": "鎌倉高校駅前の横断歩道",
+        "remark": "TVアニメ Blu-ray&DVD 第1巻の表紙"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792662,
+          35.655735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "817be093",
+        "point_name": "アーバンドック ららぽーと豊洲",
+        "remark": "コミック第3巻で行ったキッザニラとサイン会をした書店（※書店のモデルになった紀伊國屋は2020年1月に閉店）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.72008,
+          35.697022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "4a2729a8",
+        "point_name": "東京女子医科大学病院東病棟",
+        "remark": "可久士が入院していた病院"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794287,
+          35.629818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "606b0df6",
+        "point_name": "東京ビッグサイト",
+        "remark": "コミック第6巻「かぐかうちかじか」でスタッフ達が“家具を買いに”行っていた会場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.724067,
+          35.558782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "c54bf126",
+        "point_name": "大田区産業プラザPiO",
+        "remark": "コミック第8巻「JOSOの奇妙な冒険」で女装した十丸院が行った同人誌即売会の会場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.788499,
+          35.551453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "3271ae20",
+        "point_name": "羽田空港 第2ターミナル",
+        "remark": "コミック第9巻「がんばれ現地」で熊本に行く際に使った空港"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.923858,
+          34.89048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "4e2bed40",
+        "point_name": "湯ケ島温泉 湯本館",
+        "remark": "コミック第7巻「I\"S（伊豆）」で泊まった、川端康成ゆかりの宿（※外観はあまり似ていない）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.589243,
+          33.655177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "acc8067f",
+        "point_name": "JR予讃線・下灘駅",
+        "remark": "コミック第3巻 p.113 の扉絵。アニメのOPに出てきたホームもここと思われる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.716015,
+          31.801177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "ce84f75e",
+        "point_name": "鹿児島空港ビルディング",
+        "remark": "コミック第9巻「がんばれ現地」で熊本に行く際に降り立った空港"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.981156,
+          32.280744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294713,
+        "bangumi_title": "隐瞒之事",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他の場所",
+        "point_id": "21f5d462",
+        "point_name": "湯前まんが美術館",
+        "remark": "コミック第9巻「役職のネバーランド」で描かれた美術館。2015年11月の「2015ゆのまえ漫画フェスタ」でサイン会が、また2017年には「久米田康治のかくしごと展」が行われた場所でもある。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.031814,
+          35.646151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 524123,
+        "bangumi_title": "阳光马达棒球场！",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/524123/points/3h68atp-1754579145426.jpg",
+        "location": "",
+        "point_id": "3h68atp",
+        "point_name": "ZOZOマリンスタジアム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041915,
+          35.64878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 524123,
+        "bangumi_title": "阳光马达棒球场！",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/524123/points/3h6jvau-1754579659103.jpg",
+        "location": "",
+        "point_id": "3h6jvau",
+        "point_name": "海浜幕張駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.023777,
+          35.659452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 524123,
+        "bangumi_title": "阳光马达棒球场！",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/524123/points/3h7p5sv-1754581585369.jpg",
+        "location": "",
+        "point_id": "3h7p5sv",
+        "point_name": "さくら広場",
+        "remark": "休园日：每周一以及每年12.29-1.4\n开园时间：3月1日-10月31日：10：00~17：30（最后入园时间17：00）\n11月1日-2月末：10：00~16：30（最后入园时间16：00）\n注意不要跑空了"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

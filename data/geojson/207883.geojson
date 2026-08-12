@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.345932,
+          26.170278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 207883,
+        "bangumi_title": "测不准的阿波连同学",
+        "ep_cut": 86,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/207883/points/rvslp09s6-1736805093384.jpg",
+        "location": "",
+        "point_id": "rvslp09s6",
+        "point_name": "阿波連ビーチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.368054,
+          26.198632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 207883,
+        "bangumi_title": "测不准的阿波连同学",
+        "ep_cut": 87,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/207883/points/rvta7jgaw-1736806359555.jpg",
+        "location": "",
+        "point_id": "rvta7jgaw",
+        "point_name": "泊港至渡嘉敷港的轮渡船",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.367562,
+          26.199009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 207883,
+        "bangumi_title": "测不准的阿波连同学",
+        "ep_cut": 87,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/207883/points/4wj4xv0-1757684566849.jpg",
+        "location": "",
+        "point_id": "4wj4xv0",
+        "point_name": "渡嘉敷村船舶課",
+        "remark": "大概 也许 是这个 吧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.810716,
+          35.710057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 207883,
+        "bangumi_title": "测不准的阿波连同学",
+        "ep_cut": 96,
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/207883/points/u3pd0duwz-1743066841344.jpg",
+        "location": "",
+        "point_id": "u3pd0duwz",
+        "point_name": "東京​スカイ​ツリー",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

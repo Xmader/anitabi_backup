@@ -1,0 +1,205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.77574,
+          35.003917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526i7u",
+        "point_name": "四条通商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.776982,
+          35.003877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526is5",
+        "point_name": "八坂神社 祇園交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77473,
+          35.002054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526iwl",
+        "point_name": "花見小路通 京料理花郷前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774232,
+          35.001724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526i7e",
+        "point_name": "祇園ポウ前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774213,
+          35.00007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526iph",
+        "point_name": "建仁寺塔頭 両足院 ?",
+        "remark": "詳細位置不明"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77075,
+          34.9994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526ihi",
+        "point_name": "お茶屋みやき前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770799,
+          34.999642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526irj",
+        "point_name": "東山女子学園前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770347,
+          34.999699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526iki",
+        "point_name": "川端通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771426,
+          35.002917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526i9g",
+        "point_name": "四条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769315,
+          35.003782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 81674,
+        "bangumi_title": "三和",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i526isy",
+        "point_name": "河原町交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

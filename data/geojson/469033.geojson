@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.703225,
+          35.713703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 469033,
+        "bangumi_title": "触碰。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/469033/points/mlazyemff-1721877329209.jpg",
+        "location": "",
+        "point_id": "mlazyemff",
+        "point_name": "〒169-0075 Tokyo, Shinjuku City, Takadanobaba, 4-chōme−8−4IMOB ORAGAビル 一階 IMOB ソフトバンク取扱店附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

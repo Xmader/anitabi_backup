@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          25.31858,
+          53.095711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 63130,
+        "bangumi_title": "Code Geass 亡国的阿基德 第二章「翼龙折翅」",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/63130/points/ezrdkmv-1779648067920.jpg",
+        "location": "",
+        "point_id": "ezrdkmv",
+        "point_name": "Першамайская вуліца",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

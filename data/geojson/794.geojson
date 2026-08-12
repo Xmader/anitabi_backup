@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.671956,
+          35.707205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 794,
+        "bangumi_title": "电脑线圈",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/794/points/o66mvenj8-1726334946627.jpg",
+        "location": "",
+        "point_id": "o66mvenj8",
+        "point_name": "北野神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

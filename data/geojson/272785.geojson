@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -2.924502,
+          53.384353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272785,
+        "bangumi_title": "Penny Rain",
+        "ep_cut": "Penny Rain专辑封面",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272785/points/52b13cc-1758033915807.jpg",
+        "location": "",
+        "point_id": "52b13cc",
+        "point_name": "Penny Lane",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.922506,
+          53.385466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272785,
+        "bangumi_title": "Penny Rain",
+        "ep_cut": "Penny Rain歌词本照片",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272785/points/52cdkrp-1758035992957.jpg",
+        "location": "",
+        "point_id": "52cdkrp",
+        "point_name": "Penny Lane",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.922514,
+          53.385424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272785,
+        "bangumi_title": "Penny Rain",
+        "ep_cut": "Panny Rain歌词本照片",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272785/points/52cfzj9-1758036113758.jpg",
+        "location": "",
+        "point_id": "52cfzj9",
+        "point_name": "Penny Lane",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.92553,
+          53.386465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272785,
+        "bangumi_title": "Penny Rain",
+        "ep_cut": "Penny Rain歌词本照片",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272785/points/52chpjp-1758036226873.jpg",
+        "location": "",
+        "point_id": "52chpjp",
+        "point_name": "Greenbank Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.925494,
+          53.38605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 272785,
+        "bangumi_title": "Penny Rain",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272785/points/52cje2b-1758036285191.jpg",
+        "location": "",
+        "point_id": "52cje2b",
+        "point_name": "Greenbank Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

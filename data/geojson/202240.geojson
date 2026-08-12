@@ -1,0 +1,785 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.770394,
+          35.004319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lv8h6dmyr_1728569035786.jpg",
+        "location": "",
+        "point_id": "lv8h6dmyr",
+        "point_name": "真橋通西",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770544,
+          35.00426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lv8otuaym_1728569097028.jpg",
+        "location": "",
+        "point_id": "lv8otuaym",
+        "point_name": "木屋町通南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771055,
+          35.00655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyqbd41dq_1728571694894.jpg",
+        "location": "",
+        "point_id": "oyqbd41dq",
+        "point_name": "先斗町公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771036,
+          35.006573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/tmqbezqpb_1741736728003.jpg",
+        "location": "",
+        "point_id": "tmqbezqpb",
+        "point_name": "先斗町公園",
+        "remark": "公园西侧道路对面是围栏，围栏对面是非机动车停车场，靠北侧有一扇门，门对面是停车场的道路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771062,
+          35.006571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/tmqd4kcq8_1741736880145.jpg",
+        "location": "",
+        "point_id": "tmqd4kcq8",
+        "point_name": "先斗町公園",
+        "remark": "向北望道路右侧的房子就是男主遇到大叔并恳求赐予内裤的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770318,
+          35.004298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lv8rp8lue_1728569219440.jpg",
+        "location": "",
+        "point_id": "lv8rp8lue",
+        "point_name": "bar moon walk 四条木屋町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770339,
+          35.004294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyp92z5h4_1728572022970_c16v9.jpg",
+        "location": "",
+        "point_id": "oyp92z5h4",
+        "point_name": "bar moon walk 四条木屋町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770327,
+          35.004278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyp7hya26_1728572025810_c16v9.jpg",
+        "location": "",
+        "point_id": "oyp7hya26",
+        "point_name": "bar moon walk 四条木屋町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770366,
+          35.004658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvb1xs186_1728648612307.jpg",
+        "location": "",
+        "point_id": "lvb1xs186",
+        "point_name": "西木屋町通",
+        "remark": "应该在桥和路口的交叉处往河反方向拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782033,
+          35.028751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvb4l0gwd_1728572030636_c16v9.jpg",
+        "location": "",
+        "point_id": "lvb4l0gwd",
+        "point_name": "進々堂​京大​北​門前​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782015,
+          35.028702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyqiyguzk_1728572046177_c16v9.jpg",
+        "location": "",
+        "point_id": "oyqiyguzk",
+        "point_name": "進々堂​京大​北​門前​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782028,
+          35.028716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyqiilkqi_1728572035913_c16v9.jpg",
+        "location": "",
+        "point_id": "oyqiilkqi",
+        "point_name": "進々堂​京大​北​門前​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782029,
+          35.028691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyqio9qyj_1728572040247_c16v9.jpg",
+        "location": "",
+        "point_id": "oyqio9qyj",
+        "point_name": "進々堂​京大​北​門前​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.783999,
+          35.028686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvb7e8s47_1728569331505.jpg",
+        "location": "",
+        "point_id": "lvb7e8s47",
+        "point_name": "今出川通 Cafe Collection",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77222,
+          35.030499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvcv827sc_1728569673731.jpg",
+        "location": "",
+        "point_id": "lvcv827sc",
+        "point_name": "御蔭橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.778073,
+          35.03006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lve76fdvw_1728569754521.jpg",
+        "location": "",
+        "point_id": "lve76fdvw",
+        "point_name": "阿闍梨​餅​本舗​京菓子​司​満月",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769445,
+          35.004003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lveq8lwgn_1728572017816_c16v9.jpg",
+        "location": "",
+        "point_id": "lveq8lwgn",
+        "point_name": "四条河原町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769317,
+          35.00384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvev0pus1-1719848254255.jpg",
+        "location": "",
+        "point_id": "lvev0pus1",
+        "point_name": "京都河原町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771271,
+          35.003796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvextno9a_1728569463853.jpg",
+        "location": "",
+        "point_id": "lvextno9a",
+        "point_name": "賀茂大橋西",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77126,
+          35.003861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvf3c4xv5_1728569468911.jpg",
+        "location": "",
+        "point_id": "lvf3c4xv5",
+        "point_name": "賀茂大橋西の標識柱",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770547,
+          35.003795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvfinleoi_1728569473994.jpg",
+        "location": "",
+        "point_id": "lvfinleoi",
+        "point_name": "四条小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782026,
+          35.028525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvfnmtuj8-1719849937306.jpg",
+        "location": "",
+        "point_id": "lvfnmtuj8",
+        "point_name": "進々堂前 今出川通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.779705,
+          35.028819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvfpwmizz-1719850077040.jpg",
+        "location": "",
+        "point_id": "lvfpwmizz",
+        "point_name": "百万遍东",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.779179,
+          35.02886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvfslz0sa-1719850232218.jpg",
+        "location": "",
+        "point_id": "lvfslz0sa",
+        "point_name": "百万遍",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.779107,
+          35.028849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvfv6w8tj-1719850375479.jpg",
+        "location": "",
+        "point_id": "lvfv6w8tj",
+        "point_name": "今出川通の信号標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.780434,
+          35.025195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2128/bangumi/202240/points/lvg7v812e-1728648701988.jpg",
+        "location": "",
+        "point_id": "lvg7v812e",
+        "point_name": "京都大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782061,
+          35.027787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/tn3v734he_1741766231353.jpg",
+        "location": "",
+        "point_id": "tn3v734he",
+        "point_name": "京大工学部土木工学教室本館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.78044,
+          35.024622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvgatzwqz-1719851357620.jpg",
+        "location": "",
+        "point_id": "lvgatzwqz",
+        "point_name": "京都大学総人広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771086,
+          35.003155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvgfql1nt_1728569855525.jpg",
+        "location": "",
+        "point_id": "lvgfql1nt",
+        "point_name": "鴨川沿岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772251,
+          35.034732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvgokm252_1728648568400.jpg",
+        "location": "",
+        "point_id": "lvgokm252",
+        "point_name": "下鴨神社 礼の森",
+        "remark": "下鸭的礼の森每年都会举办三场古书祭，女主参加的则是七月那场，试图找到儿时的童话书拉达达达姆\n值得注意的是拉达达达姆确有其书，片中甚至出现过本书清晰的ISBN号，搜索后即可得知它是由法国作家 Peter Nickl于1973年所作。法文和英文书名为RaTaTaTaM，本书甚至出过中文版，名为《窟嚓嚓：小火车头奇遇记》，但封面风格和英法日版大相径庭不太好看，而且购买渠道只有当当网和其他童话书打包购买。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77227,
+          35.034688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oypkwtwfh_1728569941584.jpg",
+        "location": "",
+        "point_id": "oypkwtwfh",
+        "point_name": "下鴨神社 礼の森",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772582,
+          35.036853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/tmqn7tgm2_1741737465599.jpg",
+        "location": "",
+        "point_id": "tmqn7tgm2",
+        "point_name": "下鴨神社 礼の森 石桥",
+        "remark": "礼の森中部的石桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772272,
+          35.034632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oyph4vrbd_1728569712728.jpg",
+        "location": "",
+        "point_id": "oyph4vrbd",
+        "point_name": "下鴨神社 礼の森",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771032,
+          35.007794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/lvimo7qom_1728570925647.jpg",
+        "location": "",
+        "point_id": "lvimo7qom",
+        "point_name": "先斗町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771041,
+          35.007734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1127/bangumi/202240/points/lvhoyi9wx-1719854361643.jpg",
+        "location": "",
+        "point_id": "lvhoyi9wx",
+        "point_name": "先斗町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.7708,
+          35.005408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/oypvzad9r_1728570632951.jpg",
+        "location": "",
+        "point_id": "oypvzad9r",
+        "point_name": "先斗町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772976,
+          35.030497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/ozpmd8d7w_1728648403220.jpg",
+        "location": "",
+        "point_id": "ozpmd8d7w",
+        "point_name": 32,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772705,
+          35.030344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/ozpo26xck_1728648498731.jpg",
+        "location": "",
+        "point_id": "ozpo26xck",
+        "point_name": "川端通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772456,
+          35.036736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202240,
+        "bangumi_title": "春宵苦短，少女前进吧！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/202240/tn3glsblj_1741765576460.jpg",
+        "location": "",
+        "point_id": "tn3glsblj",
+        "point_name": "古书祭樋口师傅和凉子贩书的大树",
+        "remark": "（实际上没有动画里描绘得那么大）\n具体方位大概在糺之森靠西侧的主路，賀茂斎院御歴代斎王神霊社的东北方向，主路的东侧，正确拍摄视角是向南眺，主路出现在右侧，神社出现在右后方"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

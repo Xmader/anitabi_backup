@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.113304,
+          22.528304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47147,
+        "bangumi_title": "麦兜当当伴我心",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/47147/points/mt9pm7wst-1722501457691.jpg",
+        "location": "",
+        "point_id": "mt9pm7wst",
+        "point_name": "羅湖站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.547659,
+          22.170007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47147,
+        "bangumi_title": "麦兜当当伴我心",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/47147/points/mt9zqwpas-1722502046553.jpg",
+        "location": "",
+        "point_id": "mt9zqwpas",
+        "point_name": "嘉樂庇總督大橋",
+        "remark": "左上角的桥在海上有环形匝道，为友谊大桥。由此可知本截图主体为嘉乐庇总督大桥（澳氹大桥）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.561593,
+          22.147942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47147,
+        "bangumi_title": "麦兜当当伴我心",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/47147/points/mtadgrjhx-1722502822623.jpg",
+        "location": "",
+        "point_id": "mtadgrjhx",
+        "point_name": "澳门威尼斯人运河",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.535265,
+          22.186883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47147,
+        "bangumi_title": "麦兜当当伴我心",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/47147/points/mtambhoyw-1722503366281.jpg",
+        "location": "",
+        "point_id": "mtambhoyw",
+        "point_name": "西望洋聖堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.171472,
+          22.276307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47147,
+        "bangumi_title": "麦兜当当伴我心",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/47147/points/mtbjo198z-1722505390882.jpg",
+        "location": "",
+        "point_id": "mtbjo198z",
+        "point_name": "和昌大押",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

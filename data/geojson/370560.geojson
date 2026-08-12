@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.720194,
+          35.729166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 370560,
+        "bangumi_title": "一周一次买下同班同学的那些事",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/370560/points/4igff9n-1756833711568.jpg",
+        "location": "",
+        "point_id": "4igff9n",
+        "point_name": "天空企鹅",
+        "remark": "两人一起看企鹅的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720157,
+          35.728925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 370560,
+        "bangumi_title": "一周一次买下同班同学的那些事",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/370560/points/4igffbt-1756833711568.jpg",
+        "location": "",
+        "point_id": "4igffbt",
+        "point_name": "阳光水族馆",
+        "remark": "两人约好一起去的水族馆，作者在七卷后记证实原型是阳光水族馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.719816,
+          35.729058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 370560,
+        "bangumi_title": "一周一次买下同班同学的那些事",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/370560/points/4igff60-1756833711567.jpg",
+        "location": "",
+        "point_id": "4igff60",
+        "point_name": "Tully's Coffee Sunshine Aquarium Store",
+        "remark": "两人一起吃饭的咖啡厅，松饼的图案样式有企鹅和水獭，不可以自选。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.351637,
+          30.528318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/fryoab0-1781354551933.jpg",
+        "location": "",
+        "point_id": "fryoab0",
+        "point_name": "漫咖啡",
+        "remark": "银泰创意城漫咖啡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.354133,
+          30.52715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/frzoohk-1781354671729.jpg",
+        "location": "",
+        "point_id": "frzoohk",
+        "point_name": "过街天桥",
+        "remark": "珞喻路街道口附近的过街天桥，连接武汉大学和华中师范大学"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.417348,
+          30.609302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/frzugqv-1781354893112.jpg",
+        "location": "",
+        "point_id": "frzugqv",
+        "point_name": "武汉站西广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.287859,
+          30.549832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/g0jj115-1781871905758.jpg",
+        "location": "",
+        "point_id": "g0jj115",
+        "point_name": "武汉长江大桥东",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.404342,
+          30.479721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/heozmpa-1784904337394.webp",
+        "location": "",
+        "point_id": "heozmpa",
+        "point_name": "光谷天地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.287275,
+          30.548761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/hep6ero-1784904474852.webp",
+        "location": "",
+        "point_id": "hep6ero",
+        "point_name": "武汉长江大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.299479,
+          30.533086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 655286,
+        "bangumi_title": "胶囊恋人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/655286/points/hep7v47-1784904546663.webp",
+        "location": "",
+        "point_id": "hep7v47",
+        "point_name": "紫阳公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

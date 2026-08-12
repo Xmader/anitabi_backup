@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.630823,
+          35.960572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 192428,
+        "bangumi_title": "怪怪守护神",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/192428/a3149f2_1768961475374.jpg",
+        "location": "",
+        "point_id": "a3149f2",
+        "point_name": "白山神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623067,
+          35.965358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 192428,
+        "bangumi_title": "怪怪守护神",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/192428/a3194g3_1768961696680.jpg",
+        "location": "",
+        "point_id": "a3194g3",
+        "point_name": "日枝神社",
+        "remark": "白山神社の社殿のモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.632838,
+          35.953015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 192428,
+        "bangumi_title": "怪怪守护神",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/192428/a31kbfv_1768962259138.jpg",
+        "location": "",
+        "point_id": "a31kbfv",
+        "point_name": "日​高屋東​大宮​3丁目​店",
+        "remark": "ジョナサン大宮砂町店2023年1月9日（月）閉店"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

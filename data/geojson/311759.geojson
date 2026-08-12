@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.051876,
+          35.46963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311759,
+        "bangumi_title": "结城友奈是勇者 -大满开之章-",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/311759/points/3vqp6qv-1755460086485.jpg",
+        "location": "",
+        "point_id": "3vqp6qv",
+        "point_name": "県道37号",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.0524,
+          35.466094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311759,
+        "bangumi_title": "结城友奈是勇者 -大满开之章-",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/311759/points/3vr9ate-1755460988649.jpg",
+        "location": "",
+        "point_id": "3vr9ate",
+        "point_name": "宍道湖大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.051737,
+          35.468864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311759,
+        "bangumi_title": "结城友奈是勇者 -大满开之章-",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/311759/points/3vrjlgd-1755461523343.jpg",
+        "location": "",
+        "point_id": "3vrjlgd",
+        "point_name": "須衛都久神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

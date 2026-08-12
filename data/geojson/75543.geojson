@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          122.043476,
+          37.529343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75543,
+        "bangumi_title": "真恋~寄语枫秋~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/75543/points/o82o8as99-1726483778157.jpg",
+        "location": "",
+        "point_id": "o82o8as99",
+        "point_name": "海边",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

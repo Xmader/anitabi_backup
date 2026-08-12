@@ -1,0 +1,685 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.705735,
+          35.786637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/909/points/nmer7mgfn-1724784916400.jpg",
+        "location": "北赤羽駅",
+        "point_id": "nmer7mgfn",
+        "point_name": "北赤羽駅赤羽口周辺",
+        "remark": "在这边在河里，不在桥对面的河里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620908,
+          35.70505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/odjug0kfp-1726911814443.jpg",
+        "location": "荻窪駅",
+        "point_id": "odjug0kfp",
+        "point_name": "荻窪駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620428,
+          35.704701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/odjgiwanw-1726910996227.jpg",
+        "location": "荻窪駅",
+        "point_id": "odjgiwanw",
+        "point_name": " 荻窪駅北口周辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701985,
+          35.687063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ov1si",
+        "point_name": "高島屋付近（２Ｆ）",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710892,
+          35.788598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/909/points/kpx6ov6hs-1730830156178.jpg",
+        "location": "",
+        "point_id": "kpx6ov6hs",
+        "point_name": "「新河岸川」河川敷北",
+        "remark": "2ndOP\nPS：这个地方看起来离桥远，但是是对的，缩放开大一点。再往前走就不对了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.497,
+          36.684845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/909/points/kpx6ov7dq-1744908004019.jpg",
+        "location": "",
+        "point_id": "kpx6ov7dq",
+        "point_name": "志賀プリンスホテル",
+        "remark": "21話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.615699,
+          35.719154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/odk3tbvih-1726912746854.jpg",
+        "location": "",
+        "point_id": "odk3tbvih",
+        "point_name": "ジョナサン下井草店",
+        "remark": "第5集开头的餐厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707486,
+          35.786482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzntthiuj-1731465616505.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pzntthiuj",
+        "point_name": "テン薬局 北赤羽駅前店",
+        "remark": "テン薬局 北赤羽駅前店画面左侧的店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709028,
+          35.787297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pz568lga9-1731424993732.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pz568lga9",
+        "point_name": "北食堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700681,
+          35.689407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzsdacyb0-1731475488522.jpg",
+        "location": "",
+        "point_id": "pzsdacyb0",
+        "point_name": "新宿駅南口",
+        "remark": "新宿駅南口的购票处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70046,
+          35.689333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzs9zohl7-1731475343428.jpg",
+        "location": "",
+        "point_id": "pzs9zohl7",
+        "point_name": "新宿駅南口  JRで案内Information 旁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.677249,
+          35.763415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzriaijcp-1731473690465.jpg",
+        "location": "上板桥",
+        "point_id": "pzriaijcp",
+        "point_name": "焼鳥居酒屋ビッグ 上板橋店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.67699,
+          35.764047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzrfwdg74-1731473471646.jpg",
+        "location": "上板桥",
+        "point_id": "pzrfwdg74",
+        "point_name": "きらぼし銀行 上板橋支店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708951,
+          35.787959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pz50mlxyg-1731424658894.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pz50mlxyg",
+        "point_name": "ダイアパレス北赤羽",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706752,
+          35.78801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/odv19y8p6-1726936192345.jpg",
+        "location": "北赤羽駅",
+        "point_id": "odv19y8p6",
+        "point_name": "新河岸川 北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706716,
+          35.788004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzng820ag-1731464841487.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pzng820ag",
+        "point_name": "新河岸川 北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707074,
+          35.787334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzn25sv66-1731464360250.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pzn25sv66",
+        "point_name": "北商物流㈱ 旁",
+        "remark": "河对面的视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705836,
+          35.786541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pz5z6uwfd-1731426905314.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pz5z6uwfd",
+        "point_name": "新河岸川 河川敷南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704908,
+          35.785759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pz674tc1w-1731427224643.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pz674tc1w",
+        "point_name": "赤羽北二丁目ハイツ",
+        "remark": "站在地图点向西北方向看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705623,
+          35.787397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pz5l3mffw-1731425921993.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pz5l3mffw",
+        "point_name": "浮間橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676021,
+          35.763375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzrq5zn5d-1731474200790.jpg",
+        "location": "上板桥",
+        "point_id": "pzrq5zn5d",
+        "point_name": "上板桥南口银座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.676019,
+          35.763372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzrr3j4n5-1731474161510.jpg",
+        "location": "上板桥",
+        "point_id": "pzrr3j4n5",
+        "point_name": "上板桥南口银座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.67586,
+          35.763286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzry3mr67-1731474574320.jpg",
+        "location": "上板桥",
+        "point_id": "pzry3mr67",
+        "point_name": "7-Eleven 上板橋駅前店",
+        "remark": "7-Eleven店前的路灯，还是挺还原的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675565,
+          35.763006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qb0utr4kt-1732355966272.jpg",
+        "location": "上板桥",
+        "point_id": "qb0utr4kt",
+        "point_name": "となりの八百屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675563,
+          35.763004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qb0knrtfn-1732355498131.jpg",
+        "location": "上板桥",
+        "point_id": "qb0knrtfn",
+        "point_name": "となりの八百屋",
+        "remark": "上板桥出来往西南走"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707723,
+          35.786517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzo0gvxjo-1731466087479.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pzo0gvxjo",
+        "point_name": "アクトピア 壱番館モール 前",
+        "remark": "可惜左侧的津田たばこ2013年前就拆了，现在是栋三层的住所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708338,
+          35.787167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/pzmzj20ek-1731463779949.jpg",
+        "location": "北赤羽駅",
+        "point_id": "pzmzj20ek",
+        "point_name": "松月庵",
+        "remark": "在松月庵的南侧，画面中间那部分建筑已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.54395,
+          35.70573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qazqjviir-1732353848513.jpg",
+        "location": "",
+        "point_id": "qazqjviir",
+        "point_name": "東京味噌らーめん鶉(うずら)",
+        "remark": "牌匾2015年换了，还原度就不是很高了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636336,
+          35.702712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qb09tkore-1732354702663.jpg",
+        "location": "阿佐谷",
+        "point_id": "qb09tkore",
+        "point_name": "コルヌイエ南阿佐谷",
+        "remark": "原型店2019年拆掉了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.543943,
+          35.70574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qb01832he-1732354366732.jpg",
+        "location": "",
+        "point_id": "qb01832he",
+        "point_name": "東京味噌らーめん鶉(うずら)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.944671,
+          34.67886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qb460eynw-1732363332634.jpg",
+        "location": "",
+        "point_id": "qb460eynw",
+        "point_name": "伊豆急下田",
+        "remark": "车站出来往南走，找到黄色帐篷和车站立牌就OK了\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706509,
+          35.786703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qb4x490tc-1732364901546.jpg",
+        "location": "北赤羽駅",
+        "point_id": "qb4x490tc",
+        "point_name": "浮間橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636298,
+          35.702375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qbwvfmpm7-1732425761770.jpg",
+        "location": "阿佐谷",
+        "point_id": "qbwvfmpm7",
+        "point_name": "ア・ラ・カンパーニュ阿佐ヶ谷店",
+        "remark": "左后方的原型店是“FRESHNESS BURGER”2014年后倒闭"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636334,
+          35.702691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 909,
+        "bangumi_title": "龙与虎",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/909/points/qbx7171ad-1732426437177.jpg",
+        "location": "",
+        "point_id": "qbx7171ad",
+        "point_name": "コルヌイエ南阿佐谷",
+        "remark": "原型已拆除，现在应该是一栋公寓"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700657,
+          35.659256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zgbs_1672367310534.jpg",
+        "location": "ＯＰ東京",
+        "point_id": "51i53zgbs",
+        "point_name": "渋谷駅前交差点",
+        "remark": "ＯＰ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707151,
+          35.65707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zgid_1672367311950.jpg",
+        "location": "ＯＰ東京",
+        "point_id": "51i53zgid",
+        "point_name": "金王八幡宮",
+        "remark": "ＯＰ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707636,
+          35.65702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zgck_1672367313545.jpg",
+        "location": "ＯＰ東京",
+        "point_id": "51i53zgck",
+        "point_name": "金王神社前交差点",
+        "remark": "キービジュアル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.442221,
+          35.660461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zgot_1672367314575.jpg",
+        "location": "ＯＰ東京",
+        "point_id": "51i53zgot",
+        "point_name": "府中四谷橋北",
+        "remark": "ＯＰ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.670479,
+          42.792594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zhic_1672367315460.jpg",
+        "location": "第３話北海道",
+        "point_id": "51i53zhic",
+        "point_name": "新千歳空港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351439,
+          43.067124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zhci_1672367316405.jpg",
+        "location": "第３話北海道",
+        "point_id": "51i53zhci",
+        "point_name": "旧ロフト札幌店方面",
+        "remark": "第３話、消失"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.321979,
+          43.071709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zhi2_1672367317846.jpg",
+        "location": "第３話北海道",
+        "point_id": "51i53zhi2",
+        "point_name": "丼兵衛",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.320336,
+          43.070694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/213076/51i53zhid_1672367320615.jpg",
+        "location": "第３話北海道",
+        "point_id": "51i53zhid",
+        "point_name": "札幌場外市場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707304,
+          35.656721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 213076,
+        "bangumi_title": "如果有妹妹就好了。",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/213076/points/947j5cc-1766856158313.jpg",
+        "location": "",
+        "point_id": "947j5cc",
+        "point_name": "GF Bunko Offices",
+        "remark": "The building of the protagonist's publishing house"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

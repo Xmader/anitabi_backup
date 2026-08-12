@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.331074,
+          43.20341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2734,
+        "bangumi_title": "星空清理者",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "04397e31",
+        "point_name": "風車１",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.65707,
+          44.245762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2734,
+        "bangumi_title": "星空清理者",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2734/points/5594bcf5-1740316787956.jpg",
+        "location": "",
+        "point_id": "5594bcf5",
+        "point_name": "苫前町風車（ 上平・力昼バスターミナル間）",
+        "remark": "25話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

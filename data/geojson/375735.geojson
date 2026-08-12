@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.171146,
+          34.2947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 375735,
+        "bangumi_title": "恋爱FLOPS",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/375735/points/6studkc-1761814333252.jpg",
+        "location": "",
+        "point_id": "6studkc",
+        "point_name": "西畑公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

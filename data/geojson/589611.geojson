@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.668833,
+          27.777706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 589611,
+        "bangumi_title": "白线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/589611/points/dd1wof5-1776097925500.jpg",
+        "location": "",
+        "point_id": "dd1wof5",
+        "point_name": "瑞安市第四中学",
+        "remark": "游戏中名为“瑞州市瑞云中学”"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

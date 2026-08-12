@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.758486,
+          35.700292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/470660/points/5i1z60a-1758986095601.jpg",
+        "location": "",
+        "point_id": "5i1z60a",
+        "point_name": "女坂：カフェに向かう階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758644,
+          35.700298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/470660/points/5naoyp5-1765376490842.jpg",
+        "location": "",
+        "point_id": "5naoyp5",
+        "point_name": "コート女坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75828,
+          35.700083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/470660/points/5na3pq8-1765376458500.jpg",
+        "location": "",
+        "point_id": "5na3pq8",
+        "point_name": "葵ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759797,
+          35.697894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/470660/points/8fra7en-1765377437167.jpg",
+        "location": "",
+        "point_id": "8fra7en",
+        "point_name": "喫茶エル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759671,
+          35.697835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/470660/points/8fralw0-1765377468908.jpg",
+        "location": "",
+        "point_id": "8fralw0",
+        "point_name": "喫茶エル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757246,
+          35.697816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/470660/points/8frh5i8-1765377822568.jpg",
+        "location": "",
+        "point_id": "8frh5i8",
+        "point_name": "カトリック神田神社前",
+        "remark": "直接搜REZE Phone booth也能搜到\n谷歌地图搜索reze phone booth应该是在这里，实际电话亭也在这条路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.754494,
+          35.702043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 470660,
+        "bangumi_title": "剧场版 链锯人 蕾塞篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/470660/points/a3oy3g9-1769001695997.jpg",
+        "location": "",
+        "point_id": "a3oy3g9",
+        "point_name": "水道橋駅",
+        "remark": "所出现区域的远景，应该是这栋楼上拍摄的"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

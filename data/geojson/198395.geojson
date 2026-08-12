@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.800816,
+          35.676668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/omktu7428-1727619239576.jpg",
+        "location": "",
+        "point_id": "omktu7428",
+        "point_name": "木更木橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.798775,
+          35.682892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/omkonjpxt-1727618980573.jpg",
+        "location": "",
+        "point_id": "omkonjpxt",
+        "point_name": "清澄白河駅A2出口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.56956,
+          35.748511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/oml0d9m3p-1727619650631.jpg",
+        "location": "",
+        "point_id": "oml0d9m3p",
+        "point_name": "新光商事株式会社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.802942,
+          35.676038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/oml4jmpbk-1727619951735.jpg",
+        "location": "",
+        "point_id": "oml4jmpbk",
+        "point_name": "亀久橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.802821,
+          35.675723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/oml7zgkc4-1727620111777.jpg",
+        "location": "",
+        "point_id": "oml7zgkc4",
+        "point_name": "亀久橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.672793,
+          35.737211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/omlc2h08h-1727620338337.jpg",
+        "location": "",
+        "point_id": "omlc2h08h",
+        "point_name": "江古田駅 南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.616774,
+          35.739516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 198395,
+        "bangumi_title": "One Room",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/198395/points/omlku4ody-1727620939758.jpg",
+        "location": "",
+        "point_id": "omlku4ody",
+        "point_name": "都営南田中アパート 北児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

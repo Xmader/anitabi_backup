@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.685694,
+          39.701059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 440095,
+        "bangumi_title": "浪浪山小妖怪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/440095/points/gtz2ds3-1783651477600.webp",
+        "location": "",
+        "point_id": "gtz2ds3",
+        "point_name": "永安寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.29313,
+          40.085995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 440095,
+        "bangumi_title": "浪浪山小妖怪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/440095/points/gtzmiyt-1783652269954.webp",
+        "location": "",
+        "point_id": "gtzmiyt",
+        "point_name": "善化寺普贤阁",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

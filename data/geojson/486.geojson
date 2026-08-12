@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.545122,
+          35.654899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 486,
+        "bangumi_title": "娜娜",
+        "ep_cut": "46",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/486/points/epwiqjy-1779051895993.jpg",
+        "location": "",
+        "point_id": "epwiqjy",
+        "point_name": "ジャクソンホール",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

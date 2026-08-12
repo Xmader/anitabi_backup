@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          11.934587,
+          78.923312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 442114,
+        "bangumi_title": "罗小黑战记2",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/442114/6m0abnl_1761401864352.jpg",
+        "location": "",
+        "point_id": "6m0abnl",
+        "point_name": "黄河会馆",
+        "remark": "现实中为位于挪威斯瓦尔巴群岛的中国北极黄河站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.396703,
+          40.04409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 442114,
+        "bangumi_title": "罗小黑战记2",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1154/bangumi/442114/points/auy8te7-1770649987281.jpg",
+        "location": "",
+        "point_id": "auy8te7",
+        "point_name": "独乐寺观音阁",
+        "remark": "流石会馆大殿以独乐寺观音阁为原型，不过电影中一层较原型增大，因此外观不完全一致"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

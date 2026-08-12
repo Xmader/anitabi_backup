@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.877971,
+          26.694592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 5944,
+        "bangumi_title": "好想告诉你",
+        "ep_cut": "第三季第二集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/5944/points/sg2b6l11q-1738393328909.jpg",
+        "location": "",
+        "point_id": "sg2b6l11q",
+        "point_name": "沖縄​美ら​海​水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

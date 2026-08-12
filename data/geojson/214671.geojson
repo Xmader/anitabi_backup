@@ -1,0 +1,425 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.634581,
+          36.357646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/214671/8d9496b4_1721191123881.jpg",
+        "location": "軽井沢駅",
+        "point_id": "8d9496b4",
+        "point_name": "旧軽井沢銀座通り",
+        "remark": "#01「はじまりのどきどき」、#03、#05「かむりのふわふわ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635353,
+          36.343193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/214671/0f47cec5_1721140101783.jpg",
+        "location": "軽井沢駅",
+        "point_id": "0f47cec5",
+        "point_name": "軽井沢駅 北口デッキ",
+        "remark": "#01、#03、#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635734,
+          36.343553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/214671/c591440e_1721140144152.jpg",
+        "location": "軽井沢駅",
+        "point_id": "c591440e",
+        "point_name": "軽井沢駅 北口デッキ階段東側",
+        "remark": "#01、#03、#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634771,
+          36.359094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/214671/46c4358e_1721191333458.jpg",
+        "location": "軽井沢駅",
+        "point_id": "46c4358e",
+        "point_name": "チャーチストリート軽井沢",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.633052,
+          36.340382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/214671/8c713a72_1721193888902.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "8c713a72",
+        "point_name": "ツリーモール しばふの広場",
+        "remark": "#04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.632575,
+          36.340451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/214671/9a8cc4b1_1721198301397.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "9a8cc4b1",
+        "point_name": "ツリーモール",
+        "remark": "#04「2階のプレミア大会」、#10「サメのいとこ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635203,
+          36.340511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/214671/1a25caaa_1721197398908.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "1a25caaa",
+        "point_name": "ガーデンモール",
+        "remark": "#08、#12「スロウのスタート」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.636856,
+          36.340831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/214671/8f03080c_1721195058975.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "8f03080c",
+        "point_name": "晴れた空のテラス",
+        "remark": "#8、#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.634672,
+          36.341598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/214671/bbff7260_1721184525990.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "bbff7260",
+        "point_name": "軽井沢プリンスショッピングプラザ 出入口",
+        "remark": "#08「はなのともだち」、#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.633289,
+          36.340811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/214671/mcgj7yao1_1721193919491.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "mcgj7yao1",
+        "point_name": "ツリーモール COACH前",
+        "remark": "#04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635265,
+          36.34208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/214671/70857f0d_1721140270722.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "70857f0d",
+        "point_name": "軽井沢駅 南口ロータリー",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635311,
+          36.342365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/214671/da73c685_1721140201096.jpg",
+        "location": "軽井沢プリンスショッピングプラザ",
+        "point_id": "da73c685",
+        "point_name": "軽井沢駅 南口デッキ",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.55962,
+          36.336211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/214671/4b61379d_1721140429505.jpg",
+        "location": "しなの鉄道 信濃追分駅",
+        "point_id": "4b61379d",
+        "point_name": "しなの鉄道 信濃追分駅",
+        "remark": "#11「トマトのまつり」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.547728,
+          36.33188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/214671/023216fe_1721141140960.jpg",
+        "location": "しなの鉄道 信濃追分駅",
+        "point_id": "023216fe",
+        "point_name": "茂沢架道橋",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.594806,
+          36.349195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/214671/e1f55726_1721140316098.jpg",
+        "location": "長倉神社",
+        "point_id": "e1f55726",
+        "point_name": "長倉神社鳥居",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.595086,
+          36.350203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/214671/05d02641_1721140519834.jpg",
+        "location": "長倉神社",
+        "point_id": "05d02641",
+        "point_name": "長倉神社本殿",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794036,
+          35.630076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/214671/14e5be10_1721140818421.jpg",
+        "location": "東京ビッグサイトほか",
+        "point_id": "14e5be10",
+        "point_name": "東京ビッグサイト",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.070073,
+          36.391984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/214671/12f4b309_1721182990279.jpg",
+        "location": "東京ビッグサイトほか",
+        "point_id": "12f4b309",
+        "point_name": "スズラン百貨店 前橋店",
+        "remark": "#03"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.637848,
+          36.344534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/214671/02083129_1721140371360.jpg",
+        "location": "参考箇所",
+        "point_id": "02083129",
+        "point_name": "矢ケ崎公園",
+        "remark": "#03「なみだのぽろぽろ」（※参考）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.617726,
+          36.344474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/214671/79809562_1721140339723.jpg",
+        "location": "参考箇所",
+        "point_id": "79809562",
+        "point_name": "軽井沢高校 横",
+        "remark": "#07「ぐるぐるのてくび」（※参考）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.656194,
+          36.36744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 214671,
+        "bangumi_title": "Slow Start",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/214671/cd25f5e2_1721182981747.jpg",
+        "location": "参考箇所",
+        "point_id": "cd25f5e2",
+        "point_name": "見晴台",
+        "remark": "#07（※参考）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

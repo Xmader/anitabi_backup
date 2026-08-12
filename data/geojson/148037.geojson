@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.803638,
+          35.647859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148037,
+        "bangumi_title": "伤物语Ⅲ冷血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/148037/points/62ajgih-1760209742113.jpg",
+        "location": "",
+        "point_id": "62ajgih",
+        "point_name": "東雲キャナルコートＣＯＤＡＮ",
+        "remark": "羽川翼走路的一段空镜"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

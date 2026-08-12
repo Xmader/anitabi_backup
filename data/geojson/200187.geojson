@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -122.331342,
+          47.61333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 200187,
+        "bangumi_title": "最后生还者2",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/200187/points/pasjbdgry-1729517038337.jpg",
+        "location": "",
+        "point_id": "pasjbdgry",
+        "point_name": "Paramount Theatre",
+        "remark": "最后生还者第二部 艾莉在西雅图临时据点"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

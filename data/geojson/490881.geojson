@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.404071,
+          30.479294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 490881,
+        "bangumi_title": "贝果爱情故事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/490881/uw51lda57_1745295184266.jpg",
+        "location": "",
+        "point_id": "uw51lda57",
+        "point_name": "光谷有轨电车",
+        "remark": "L1光谷天地站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.378688,
+          30.478098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 490881,
+        "bangumi_title": "贝果爱情故事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/490881/uw565bn98_1745295452562.jpg",
+        "location": "",
+        "point_id": "uw565bn98",
+        "point_name": "财大小吃街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.299764,
+          30.536789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 490881,
+        "bangumi_title": "贝果爱情故事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/490881/points/giq9n0u-1782971564508.webp",
+        "location": "",
+        "point_id": "giq9n0u",
+        "point_name": "首义广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

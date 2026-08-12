@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.883003,
+          35.171277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "游戏内附赠特典动画",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/556847/points/dd1ca3i-1776096878460.jpg",
+        "location": "",
+        "point_id": "dd1ca3i",
+        "point_name": "JRCentralTowers",
+        "remark": "东侧航拍视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908553,
+          35.171221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/556847/did03np_1781484817789_c16v9.jpg",
+        "location": "",
+        "point_id": "did03np",
+        "point_name": "久屋大通公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.985044,
+          35.161048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/556847/did3aov_1781484826437_c16v9.jpg",
+        "location": "",
+        "point_id": "did3aov",
+        "point_name": "星之丘露台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.883135,
+          35.08976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/556847/did77be_1781484833920_c16v9.jpg",
+        "location": "",
+        "point_id": "did77be",
+        "point_name": "こども広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.909277,
+          35.170458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/556847/evfshhc_1781484838664_c16v9.jpg",
+        "location": "",
+        "point_id": "evfshhc",
+        "point_name": "Oasis21",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.918795,
+          35.155578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/556847/evfv59r_1781484845599_c16v9.jpg",
+        "location": "",
+        "point_id": "evfv59r",
+        "point_name": "鹤舞公园 喷水塔",
+        "remark": "外围的护栏 石块 路灯啥的都能对上 就是正中间的喷泉本体完全不像 emmmm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.885265,
+          35.090825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 556847,
+        "bangumi_title": "五等分的公主 ～幻想与深渊与魔法学院～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/556847/fsjejgm_1781484857503_c16v9.jpg",
+        "location": "",
+        "point_id": "fsjejgm",
+        "point_name": "HARBOR GARDEN",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

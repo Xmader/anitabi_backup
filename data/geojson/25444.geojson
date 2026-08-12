@@ -1,0 +1,845 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.402562,
+          35.64717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o6is_1672370808183.jpg",
+        "location": "",
+        "point_id": "51i51o6is",
+        "point_name": "祐太のアパート",
+        "remark": "祐太のアパートのモデル（ビニールハウス）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.402508,
+          35.646898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o7ro_1672370808618.jpg",
+        "location": "",
+        "point_id": "51i51o7ro",
+        "point_name": "OP　横断歩道",
+        "remark": "空と美羽が横断歩道を走って渡るシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.403898,
+          35.64454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o7yh_1672370809213.jpg",
+        "location": "",
+        "point_id": "51i51o7yh",
+        "point_name": "OP　モノレールのトンネル出入口",
+        "remark": "空と美羽が走ってトンネルに入っていくシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.408916,
+          35.641601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o7gf_1672370809615.jpg",
+        "location": "",
+        "point_id": "51i51o7gf",
+        "point_name": "OP　中央大学明星大学駅の階段",
+        "remark": "空と美羽が階段を駆け上がるシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.409063,
+          35.641549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o7hy_1672370810049.jpg",
+        "location": "",
+        "point_id": "51i51o7hy",
+        "point_name": "OP　中央大学明星大学駅前のフェンス（中大側）",
+        "remark": "仁村と佐古先輩がフェンスの前に立っているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.403517,
+          35.646233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o7zb_1672370810460.jpg",
+        "location": "",
+        "point_id": "51i51o7zb",
+        "point_name": "OP　モノレール沿線",
+        "remark": "織田先輩がレールの前で張り扇を持っているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.402578,
+          35.64685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o87q_1672370810817.jpg",
+        "location": "",
+        "point_id": "51i51o87q",
+        "point_name": "OP　看板前",
+        "remark": "看板の前で祐太がひなに引っ張られているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.402653,
+          35.646935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/25444/51i51o8g5_1672370811222.jpg",
+        "location": "",
+        "point_id": "51i51o8g5",
+        "point_name": "OP　横断歩道2",
+        "remark": "祐太・ひなと織田先輩が横断歩道ですれ違うシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.408272,
+          35.642238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o8kz",
+        "point_name": "OP（候補）　明星大学駐輪場",
+        "remark": "仁村と佐古先輩がフェンスの前に立っているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.407116,
+          35.640357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o8ex",
+        "point_name": "第01話　中大隧道",
+        "remark": "トンネル内です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.407449,
+          35.64047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o8wp",
+        "point_name": "第01話　中大隧道",
+        "remark": "トンネルの入り口です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.403924,
+          35.639079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o8ys",
+        "point_name": "第01話　中央大学正門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.408948,
+          35.641645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o9ev",
+        "point_name": "第01話　多摩モノレール 中央大学・明星大学駅",
+        "remark": "駅にモノレールが停車中"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.408763,
+          35.642033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o96c",
+        "point_name": "第01話　中央大学・明星大学駅",
+        "remark": "エスカレータの入り口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.407304,
+          35.642342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o9qf",
+        "point_name": "第01話　線路脇",
+        "remark": "姉からもらった荷物を持って歩いてるシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413395,
+          35.697236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o9w4",
+        "point_name": "第02話　立川南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.41379,
+          35.6979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51o9kj",
+        "point_name": "第03話　立川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413626,
+          35.697297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oawz",
+        "point_name": "第03話　立川駅 駅名",
+        "remark": "南口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413824,
+          35.696791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oat8",
+        "point_name": "第03話　横断歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.417663,
+          35.6915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oadj",
+        "point_name": "第03話　デニーズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.41379,
+          35.696667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oawl",
+        "point_name": "第03話　ビッグエコー",
+        "remark": "カラオケしたお店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.406505,
+          35.683004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oag9",
+        "point_name": "第03話　立日橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.408527,
+          35.641961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oavk",
+        "point_name": "第03話　中央大学明星大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.403836,
+          35.644191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51obsb",
+        "point_name": "第03話　トンネル出口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.402559,
+          35.646867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51ob43",
+        "point_name": "第03話　看板前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.392466,
+          35.611746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51obba",
+        "point_name": "第03話　長池見附橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.401843,
+          35.646567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51ob5e",
+        "point_name": "第04話　コンビニ",
+        "remark": "実際は駐車場です。コンビニはありません。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.403833,
+          35.644084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51ocjl",
+        "point_name": "第04話　トンネル入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.405703,
+          35.642676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51ocf6",
+        "point_name": "第04話　トンネル出口",
+        "remark": "先輩たちと話しているシーンバイト帰り、お腹が減っているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.402535,
+          35.646972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oc6w",
+        "point_name": "第04話　アパート前",
+        "remark": "夜、コンビニから戻ってくる祐太を空が待っているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.395808,
+          35.611395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51obxd",
+        "point_name": "第04話　ぐりーんうぉーく多摩",
+        "remark": "空に電話をしているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414809,
+          35.659166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oce3",
+        "point_name": "第05話",
+        "remark": "※ロケハン後に区画整理されているので、アニメと同じカットでは撮影することができません。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413596,
+          35.658966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51obus",
+        "point_name": "第05話　高幡図書館付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411933,
+          35.640631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51od50",
+        "point_name": "第05話",
+        "remark": "祐太が空を迎えに来るシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411746,
+          35.64047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51ocne",
+        "point_name": "第05話",
+        "remark": "祐太が空を迎えに来るシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413704,
+          35.659144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51od0e",
+        "point_name": "第05話　日野消防署",
+        "remark": "祐太と仁村が空を探しているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413519,
+          35.658883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51ocxc",
+        "point_name": "第05話　高幡図書館",
+        "remark": "祐太と仁村が空を探しているシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.419776,
+          35.612817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51oda8",
+        "point_name": "第05話　橋",
+        "remark": "買い物帰りに空が渡った橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.409463,
+          35.679429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51od0v",
+        "point_name": "第05話",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.410026,
+          35.679812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51od19",
+        "point_name": "第05話",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.396237,
+          35.611665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51odfa",
+        "point_name": "第05話　ぐりーんうぉーく多摩",
+        "remark": "祐太のバイト先、空が携帯電話を届けた場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.383631,
+          35.746033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 25444,
+        "bangumi_title": "听爸爸的话！",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "51i51odjy",
+        "point_name": "第05話　イオンモールむさし村山ミュー",
+        "remark": "バス停"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

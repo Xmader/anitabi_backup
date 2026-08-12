@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.134773,
+          22.834585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338424,
+        "bangumi_title": "雄狮少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/338424/points/bdg0t3s-1771767988512.jpg",
+        "location": "",
+        "point_id": "bdg0t3s",
+        "point_name": "堤围路木棉道",
+        "remark": "因为种植一排木棉树，该地属于小网红景点，不时有人在此停车打卡。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.127462,
+          22.833492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338424,
+        "bangumi_title": "雄狮少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/338424/points/bdj79ly-1771773326445.jpg",
+        "location": "",
+        "point_id": "bdj79ly",
+        "point_name": "尤氏大宗祠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.127261,
+          22.832024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338424,
+        "bangumi_title": "雄狮少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/338424/points/bdjcvx1-1771773554617.jpg",
+        "location": "",
+        "point_id": "bdjcvx1",
+        "point_name": "小训练场",
+        "remark": "不完全一致"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.11947,
+          22.847424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338424,
+        "bangumi_title": "雄狮少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/338424/points/bdjm2gu-1771774013101.jpg",
+        "location": "",
+        "point_id": "bdjm2gu",
+        "point_name": "送行阿娟地",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.299894,
+          29.175446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1w3asces_1720355897471.jpg",
+        "location": "",
+        "point_id": "m1w3asces",
+        "point_name": "",
+        "remark": "温太医告白甄嬛"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.298589,
+          29.179369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1w7k1vfc_1720356201031.jpg",
+        "location": "",
+        "point_id": "m1w7k1vfc",
+        "point_name": "太和殿",
+        "remark": "登基大典\n照片显然拍摄于太和殿前，背景是太和门和午门的反面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.298425,
+          29.183226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1wowjykh_1720357197629.jpg",
+        "location": "",
+        "point_id": "m1wowjykh",
+        "point_name": "坤宁门",
+        "remark": "秀女入宫（甄嬛初入宫）名门闺秀们纷纷入宫参加殿选。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.296408,
+          29.179374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1wxsarjl_1720357838119.jpg",
+        "location": "",
+        "point_id": "m1wxsarjl",
+        "point_name": "御花园",
+        "remark": "御花园 赐一丈红“奴婢听说，那枫叶要鲜血染就才红得好看...”“就算用她的血，为宫里的枫叶积点颜色...”"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.296529,
+          29.179483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1wzxdcl3_1720357873141.jpg",
+        "location": "",
+        "point_id": "m1wzxdcl3",
+        "point_name": "御花园2",
+        "remark": "甄嬛的秋千“那年杏花微雨，你说你是果郡王，或许一开始便都是错的...”"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.299616,
+          29.18134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1wm158tk_1720357044558.jpg",
+        "location": "",
+        "point_id": "m1wm158tk",
+        "point_name": "恭王府2",
+        "remark": "甄嬛夜游桐花台，偶遇果郡王。这里替代圆明园行宫畅春园桐花台场景，实际拍摄地还是在明清宫。不过横店有1:1还原的圆明园可以游玩。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.29943,
+          29.181347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 27,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1wk8knz3_1720356952065.jpg",
+        "location": "",
+        "point_id": "m1wk8knz3",
+        "point_name": "恭王府",
+        "remark": "甄嬛的生日皇上为嬛嬛庆生日 ，在圆明园牡丹亭办盛宴。实际拍摄地还是在明清宫安善堂。不过横店真的有1:1还原的圆明园可以游玩。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.298464,
+          29.181995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 123149,
+        "bangumi_title": "甄嬛传",
+        "ep_cut": 56,
+        "image_url": "https://w.junreimap.com/images/points/123149/m1wubti3z_1720357554705.jpg",
+        "location": "",
+        "point_id": "m1wubti3z",
+        "point_name": "交泰殿",
+        "remark": "甄嬛回宫“钮祜禄·甄嬛，毓质名门，温恭懋著，仰承皇太后慈谕，册为熹妃...”"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

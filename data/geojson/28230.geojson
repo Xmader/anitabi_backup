@@ -1,0 +1,305 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.143455,
+          35.342724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omkze_1731949159393.jpg",
+        "location": "",
+        "point_id": "kpx6omkze",
+        "point_name": "JR御殿場線 川音川橋梁",
+        "remark": "#01「私が…ゾンビに…なったら」橋梁を通過する列車はJR東海313系"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.134373,
+          35.342094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omlij_1731949136570.jpg",
+        "location": "",
+        "point_id": "kpx6omlij",
+        "point_name": "小田急小田原線 酒匂川橋梁",
+        "remark": "#01 千紘達が登校する時の背景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.726487,
+          35.641551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omlt0_1731948232690.jpg",
+        "location": "",
+        "point_id": "kpx6omlt0",
+        "point_name": "聖心女子学院",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.139673,
+          35.348941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6oml5c_1731949178849.jpg",
+        "location": "",
+        "point_id": "kpx6oml5c",
+        "point_name": "国道246号下",
+        "remark": "#02「成功…してた」 千紘が礼弥を屋敷の側まで送ってきて分かれるトンネル前。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.13039,
+          35.343823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/28230/q5vk908a3_1731952651473.jpg",
+        "location": "",
+        "point_id": "q5vk908a3",
+        "point_name": "酒匂川河川敷",
+        "remark": "#03「さんか…れあ」、#04「普通の…女の子…」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.139737,
+          35.344645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omlsq_1731949560553.jpg",
+        "location": "",
+        "point_id": "kpx6omlsq",
+        "point_name": "小田急小田原線 新松田駅 跨線橋",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.140416,
+          35.345049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6ommce_1731949584328.jpg",
+        "location": "",
+        "point_id": "kpx6ommce",
+        "point_name": "小田急小田原線 新松田駅 秦野側踏切",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.13484,
+          35.333954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omn5u_1731949371216.jpg",
+        "location": "",
+        "point_id": "kpx6omn5u",
+        "point_name": "足柄大橋 西側",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.140175,
+          35.344642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6ommi5_1731949602809.jpg",
+        "location": "",
+        "point_id": "kpx6ommi5",
+        "point_name": "小田急小田原線 新松田駅南口",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.133491,
+          35.333236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omn80_1731949417624.jpg",
+        "location": "",
+        "point_id": "kpx6omn80",
+        "point_name": "足柄大橋 側道",
+        "remark": "#05 蘭子が後輩ちゃんと会話しながら通る"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.136444,
+          35.351483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omlxr_1731949246313.jpg",
+        "location": "",
+        "point_id": "kpx6omlxr",
+        "point_name": "西平畑公園駐車場",
+        "remark": "#05「ゾンビって…コトは…」、#07「おさな…なじみ…」休日駐車料金は500円"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.132726,
+          35.342859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omn07_1731949323697.jpg",
+        "location": "",
+        "point_id": "kpx6omn07",
+        "point_name": "十文字大橋",
+        "remark": "#08「偽りの…自由…」蘭子が銭湯へ行く時の橋カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.605686,
+          34.632431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/28230/points/kpx6omne1-1731340563374.jpg",
+        "location": "",
+        "point_id": "kpx6omne1",
+        "point_name": "アリオ八尾",
+        "remark": "#08"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.690132,
+          35.589597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/28230/kpx6omnwe_1731949720203.jpg",
+        "location": "",
+        "point_id": "kpx6omnwe",
+        "point_name": "明神湯",
+        "remark": "#08 左王子が行っていた銭湯"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.734222,
+          35.195533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 28230,
+        "bangumi_title": "散华礼弥",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/28230/q5vojavqe_1731952971897.jpg",
+        "location": "",
+        "point_id": "q5vojavqe",
+        "point_name": "ナゴヤトーヨーボール跡地",
+        "remark": "ボーリング場の廃墟。2007年に解体（売土地）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

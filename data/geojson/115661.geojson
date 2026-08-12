@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.446604,
+          43.936496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115661,
+        "bangumi_title": "鲁邦三世 意大利的冒险",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/115661/points/sd21f0jsg-1738157527218.jpg",
+        "location": "第四季",
+        "point_id": "sd21f0jsg",
+        "point_name": "Repubblica di San Marino",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

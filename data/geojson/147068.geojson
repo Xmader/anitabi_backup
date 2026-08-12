@@ -1,0 +1,925 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.771737,
+          35.00904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5cpgtfw_1738164701173.jpg",
+        "location": "",
+        "point_id": "sd5cpgtfw",
+        "point_name": "三条大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798288,
+          35.026763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5rnfuhc_1738165604296.jpg",
+        "location": "",
+        "point_id": "sd5rnfuhc",
+        "point_name": "銀閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.757442,
+          34.987261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5wmb0nz_1738165919583.jpg",
+        "location": "",
+        "point_id": "sd5wmb0nz",
+        "point_name": "京都関電ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.760237,
+          35.007673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5zs2n9l_1738166105235.jpg",
+        "location": "",
+        "point_id": "sd5zs2n9l",
+        "point_name": "六角堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.768183,
+          35.01171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd61q9w7y_1738166214219.jpg",
+        "location": "",
+        "point_id": "sd61q9w7y",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.76744,
+          35.014398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd62qhlky_1738166275442.jpg",
+        "location": "",
+        "point_id": "sd62qhlky",
+        "point_name": "(株)​一保堂​茶舗",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767875,
+          35.011985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd63qvwfj_1738166336044.jpg",
+        "location": "",
+        "point_id": "sd63qvwfj",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758474,
+          34.98595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5iiz91e_1738165057395.jpg",
+        "location": "",
+        "point_id": "sd5iiz91e",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75831,
+          34.985344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5j48soy_1738165088851.jpg",
+        "location": "",
+        "point_id": "sd5j48soy",
+        "point_name": 27,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.706697,
+          35.014974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5k0sa0w_1738165146854.jpg",
+        "location": "",
+        "point_id": "sd5k0sa0w",
+        "point_name": "広隆寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785457,
+          35.671215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/147068/k5rxmzj5p_1730995822668.jpg",
+        "location": "",
+        "point_id": "k5rxmzj5p",
+        "point_name": "中央大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784489,
+          35.671047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/147068/t4aevyneh_1740291558549.jpg",
+        "location": "",
+        "point_id": "t4aevyneh",
+        "point_name": "中央大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709651,
+          35.67842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/147068/pfbedt4wc_1729871282477.jpg",
+        "location": "东京",
+        "point_id": "pfbedt4wc",
+        "point_name": "鸠森八幡神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709613,
+          35.678374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/147068/pfbganq1f_1729871380751.jpg",
+        "location": "东京",
+        "point_id": "pfbganq1f",
+        "point_name": "鳩森八幡神社前",
+        "remark": "要拍到同样的镜头显然要在街对面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709419,
+          35.677714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/147068/pfbl020x3_1729871665584.jpg",
+        "location": "东京",
+        "point_id": "pfbl020x3",
+        "point_name": "鳩森八幡神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70941,
+          35.677266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/147068/pfbopvwvr_1729871888788.jpg",
+        "location": "东京",
+        "point_id": "pfbopvwvr",
+        "point_name": "将棋会館",
+        "remark": "经过翻新，现在去已经看不到这面碑了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767627,
+          35.680786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd529q34o_1738164072582.jpg",
+        "location": "东京站",
+        "point_id": "sd529q34o",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767538,
+          35.680671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd53gi68r_1738164141460.jpg",
+        "location": "",
+        "point_id": "sd53gi68r",
+        "point_name": 23,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769378,
+          35.011723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5kwuuis_1738165200352.jpg",
+        "location": "",
+        "point_id": "sd5kwuuis",
+        "point_name": "ホテル​オークラ​京都",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769256,
+          35.011932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5lnwlx1_1738165242336.jpg",
+        "location": "",
+        "point_id": "sd5lnwlx1",
+        "point_name": "ホテル​オークラ​京都",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769552,
+          35.011761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5mp040c_1738165305017.jpg",
+        "location": "",
+        "point_id": "sd5mp040c",
+        "point_name": "ホテル​オークラ​京都",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769378,
+          35.011469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5mzfz5e_1738165322897.jpg",
+        "location": "",
+        "point_id": "sd5mzfz5e",
+        "point_name": "ホテル​オークラ​京都",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769569,
+          35.011533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd5n2argz_1738165327023.jpg",
+        "location": "",
+        "point_id": "sd5n2argz",
+        "point_name": "ホテル​オークラ​京都",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774215,
+          35.001718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/147068/sd6ii4x7u_1738167228575.jpg",
+        "location": "",
+        "point_id": "sd6ii4x7u",
+        "point_name": "祇をん",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783347,
+          35.667266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1t17clx-1750943019738.jpg",
+        "location": "",
+        "point_id": "1t17clx",
+        "point_name": "Tsukudako Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78227,
+          35.667603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1t1qf58-1750943632755.jpg",
+        "location": "",
+        "point_id": "1t1qf58",
+        "point_name": "佃煮天安",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782446,
+          35.668293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ueiueo-1751025750315.jpg",
+        "location": "中央区",
+        "point_id": "1ueiueo",
+        "point_name": "MQ9J+8X8 中央区 日本东京都",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782513,
+          35.668336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uetuoh-1751026045897.jpg",
+        "location": "中央区",
+        "point_id": "1uetuoh",
+        "point_name": "鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783838,
+          35.672621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ueyai7-1751026268530.jpg",
+        "location": "中央区",
+        "point_id": "1ueyai7",
+        "point_name": "中央大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784571,
+          35.671357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uf0sgk-1751026362119.jpg",
+        "location": "中央区",
+        "point_id": "1uf0sgk",
+        "point_name": "中央大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786058,
+          35.671486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uf5ed5-1751026583928.jpg",
+        "location": "中央区",
+        "point_id": "1uf5ed5",
+        "point_name": "中央区立石川島公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786012,
+          35.67152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uf8q1t-1751026733881.jpg",
+        "location": "中央区",
+        "point_id": "1uf8q1t",
+        "point_name": "中央区立石川島公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783662,
+          35.67261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ufk7gk-1751027286433.jpg",
+        "location": "中央区",
+        "point_id": "1ufk7gk",
+        "point_name": "中央大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783339,
+          35.667322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ufnsc7-1751027592464.jpg",
+        "location": "中央区",
+        "point_id": "1ufnsc7",
+        "point_name": "佃小桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783667,
+          35.665186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ufxtr6-1751027900559.jpg",
+        "location": "中央区",
+        "point_id": "1ufxtr6",
+        "point_name": "麦当劳",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784108,
+          35.665417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ugf0pe-1751028705095.jpg",
+        "location": "中央区",
+        "point_id": "1ugf0pe",
+        "point_name": "月岛站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783085,
+          35.666264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ughu2y-1751028942142.jpg",
+        "location": "中央区",
+        "point_id": "1ughu2y",
+        "point_name": "高架桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782308,
+          35.667926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1ugu7yb-1751029619626.jpg",
+        "location": "中央区",
+        "point_id": "1ugu7yb",
+        "point_name": "无",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782146,
+          35.667899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uh02ix-1751029683084.jpg",
+        "location": "中央区",
+        "point_id": "1uh02ix",
+        "point_name": "无",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782748,
+          35.671979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uh4pwc-1751029906680.jpg",
+        "location": "中央区",
+        "point_id": "1uh4pwc",
+        "point_name": "霊岸島検潮所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782611,
+          35.672131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uh5j8u-1751029938607.jpg",
+        "location": "中央区",
+        "point_id": "1uh5j8u",
+        "point_name": "霊岸島検潮所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783062,
+          35.671922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/147068/points/1uh798v-1751030023573.jpg",
+        "location": "中央区",
+        "point_id": "1uh798v",
+        "point_name": "霊岸島検潮所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.369641,
+          38.360014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/147068/points/5bt2e9p-1758608230629.jpg",
+        "location": "",
+        "point_id": "5bt2e9p",
+        "point_name": "天童站",
+        "remark": "岛田开的故乡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.369697,
+          38.359898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/147068/points/5bt4u9j-1758608331328.jpg",
+        "location": "",
+        "point_id": "5bt4u9j",
+        "point_name": "天童市",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.379049,
+          38.361582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/147068/points/5bt9w4r-1758608580104.jpg",
+        "location": "",
+        "point_id": "5bt9w4r",
+        "point_name": "天童市市民文化馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.370006,
+          38.360049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 147068,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/147068/points/5btfurm-1758608846387.jpg",
+        "location": "",
+        "point_id": "5btfurm",
+        "point_name": "天童站",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

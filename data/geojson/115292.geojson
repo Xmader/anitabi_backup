@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.654754,
+          35.737295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115292,
+        "bangumi_title": "东京喰种√A",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/115292/points/q018vcaf8-1731494909088.jpg",
+        "location": "",
+        "point_id": "q018vcaf8",
+        "point_name": "喫茶アンデス",
+        "remark": "“安定区”的原型，位于该建筑二楼的一家古典咖啡店，于2022年关店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700511,
+          35.659462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115292,
+        "bangumi_title": "东京喰种√A",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/115292/points/q083tjzuv-1731509772709.jpg",
+        "location": "",
+        "point_id": "q083tjzuv",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

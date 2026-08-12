@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.908542,
+          36.263143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/288/points/kpx6omqw0-1759546921282.jpg",
+        "location": "",
+        "point_id": "kpx6omqw0",
+        "point_name": "雛見沢を見下ろす展望台",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/615.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905817,
+          36.25476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omqeu",
+        "point_name": "古手神社",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/633.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908789,
+          36.259795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omr48",
+        "point_name": "梨花の家",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/644.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.900469,
+          36.279119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omrdw",
+        "point_name": "祭具殿",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/650.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902984,
+          36.279214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6omr6j",
+        "point_name": "前原屋敷",
+        "remark": "http://anime-culture.com/ja/pilgrimage/when-they-cry/657.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.904927,
+          36.256379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8t2sepli-1723718991585.jpg",
+        "location": "",
+        "point_id": "n8t2sepli",
+        "point_name": "今昔 付近",
+        "remark": "解"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.904444,
+          36.256675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8tawe833-1723719494241.jpg",
+        "location": "",
+        "point_id": "n8tawe833",
+        "point_name": "今昔 付近",
+        "remark": "解"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.908421,
+          36.259093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 288,
+        "bangumi_title": "寒蝉鸣泣之时 解",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/289/points/n8thqqomz-1723719889551.jpg",
+        "location": "",
+        "point_id": "n8thqqomz",
+        "point_name": "白川郷合掌文化館（旧松井家）付近",
+        "remark": "左侧为沙都子的家，这画面是咪啪从家里出来的镜头，位置有误"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

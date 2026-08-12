@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.990196,
+          35.686495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100405,
+        "bangumi_title": "HELLO!! 黄金拼图",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/57978/points/t0y182p5j-1740029565091.jpg",
+        "location": "",
+        "point_id": "t0y182p5j",
+        "point_name": "Lalaport Tokyo-bay",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

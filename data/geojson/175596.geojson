@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.835554,
+          35.612631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asbrrkn-1770491007021.jpg",
+        "location": "",
+        "point_id": "asbrrkn",
+        "point_name": "若洲海浜公園",
+        "remark": "在公园的最边角，灯塔前面。比较远有公交，但不多班次，走路到车站1小时"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.83558,
+          35.612665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asbu2bd-1770491122206.jpg",
+        "location": "",
+        "point_id": "asbu2bd",
+        "point_name": "若洲海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.835547,
+          35.612634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asbv0vt-1770491165585.jpg",
+        "location": "",
+        "point_id": "asbv0vt",
+        "point_name": "若洲海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.835554,
+          35.612687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asbvmzq-1770491195770.jpg",
+        "location": "",
+        "point_id": "asbvmzq",
+        "point_name": "黑仪",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.828984,
+          35.612049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asbxjfp-1770491276183.jpg",
+        "location": "",
+        "point_id": "asbxjfp",
+        "point_name": "无人机视角",
+        "remark": "记得报备"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.81971,
+          35.606129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asc0bee-1770491421649.jpg",
+        "location": "",
+        "point_id": "asc0bee",
+        "point_name": "桥",
+        "remark": "具体位置不清楚，但肯定在120mm左右或者以上了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.836138,
+          35.630518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175596,
+        "bangumi_title": "终物语（下）",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/175596/points/asc7ktf-1770491744878.jpg",
+        "location": "",
+        "point_id": "asc7ktf",
+        "point_name": "公园入口",
+        "remark": "一脚飞进公园"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

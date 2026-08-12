@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.646966,
+          35.443046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2042,
+        "bangumi_title": "橙路",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2042/points/lnnhcu89h-1719240308056.jpg",
+        "location": "",
+        "point_id": "lnnhcu89h",
+        "point_name": "中華街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651985,
+          35.444485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2042,
+        "bangumi_title": "橙路",
+        "ep_cut": 224,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2042/points/lnnrny3cg-1719241376760.jpg",
+        "location": "",
+        "point_id": "lnnrny3cg",
+        "point_name": "石のステージ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

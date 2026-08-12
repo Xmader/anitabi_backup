@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.253403,
+          35.267976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/14435/points/rjuwh3ii2-1735871254687.jpg",
+        "location": "",
+        "point_id": "rjuwh3ii2",
+        "point_name": "山の湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.08519,
+          35.074215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/1yjhkxb_1751275968809.jpg",
+        "location": "",
+        "point_id": "1yjhkxb",
+        "point_name": "外房黒潮ライン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480937,
+          35.301894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/1ykxc2p_1751278238131.jpg",
+        "location": "",
+        "point_id": "1ykxc2p",
+        "point_name": "弁財天仲見世通り 手作り箸工房遊膳前",
+        "remark": "仅左侧部分一致"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.666872,
+          36.572508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/1yl6sed_1751278964236.jpg",
+        "location": "",
+        "point_id": "1yl6sed",
+        "point_name": "ひがし茶屋街 志摩前",
+        "remark": "需左右反转"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.667925,
+          36.572445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/23ax0ra_1751563657315.jpg",
+        "location": "",
+        "point_id": "23ax0ra",
+        "point_name": "ひがし茶屋街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.986072,
+          34.659289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37755/points/lqktrgq2t-1724577690033.jpg",
+        "location": "",
+        "point_id": "oii997x03",
+        "point_name": "爪木崎灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.663825,
+          36.572006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/23acpx0_1751562708930.jpg",
+        "location": "",
+        "point_id": "23acpx0",
+        "point_name": "主計町茶屋街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.843564,
+          25.108623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/23amfs0_1751563215785.jpg",
+        "location": "",
+        "point_id": "23amfs0",
+        "point_name": "豎崎路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.845367,
+          25.109409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 14435,
+        "bangumi_title": "五彩斑斓的世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/14435/23au8p9_1751563529963.jpg",
+        "location": "",
+        "point_id": "23au8p9",
+        "point_name": "基山街",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

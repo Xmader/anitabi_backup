@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.172451,
+          39.10709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 617400,
+        "bangumi_title": "北洋花开-恋爱咏叹调",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/617400/c9lzsll_1773713272145.jpg",
+        "location": "",
+        "point_id": "c9lzsll",
+        "point_name": "天津大学东门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.169449,
+          39.107164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 617400,
+        "bangumi_title": "北洋花开-恋爱咏叹调",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/617400/c9m6cig_1773713292454.jpg",
+        "location": "",
+        "point_id": "c9m6cig",
+        "point_name": "天津大学北洋纪念亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

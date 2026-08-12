@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.940176,
+          39.944472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 70981,
+        "bangumi_title": "NOeSIS-虚伪记忆的物语-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/70981/points/p61fcln4s-1729144417498.jpg",
+        "location": "",
+        "point_id": "p61fcln4s",
+        "point_name": "松尾鉱山跡",
+        "remark": "开幕坠机场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.449486,
+          35.2081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 70981,
+        "bangumi_title": "NOeSIS-虚伪记忆的物语-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/70981/points/p62twiwj6-1729147412091.jpg",
+        "location": "",
+        "point_id": "p62twiwj6",
+        "point_name": "白石工業桑名工場跡",
+        "remark": "封面图，白石工业桑名工厂已于2013年全部拆除。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

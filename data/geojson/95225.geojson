@@ -1,0 +1,1345 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.041675,
+          35.648107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528yvc_1730969926363.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i528yvc",
+        "point_name": "海浜幕張駅南口",
+        "remark": "０話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.04084,
+          35.648771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528yo5_1730969981498.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i528yo5",
+        "point_name": "海浜幕張駅南口にある交差点",
+        "remark": "０話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.04136,
+          35.649317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528y7t_1730969964122.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i528y7t",
+        "point_name": "海浜幕張駅北口ペデストリアンデッキ",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.04177,
+          35.648947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528ytv_1730970032721.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i528ytv",
+        "point_name": "海浜幕張駅北口",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041402,
+          35.649806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528ynf_1730970040554.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i528ynf",
+        "point_name": "「海浜幕張駅北口」交差点",
+        "remark": "１話、12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.834741,
+          35.614186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290vy_1730971250634.jpg",
+        "location": "",
+        "point_id": "51i5290vy",
+        "point_name": "若洲海浜公園",
+        "remark": "０話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.915985,
+          35.181089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/51i528yxu-1725018440985.jpg",
+        "location": "",
+        "point_id": "51i528yxu",
+        "point_name": "旧豊田佐助邸",
+        "remark": "０話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.444801,
+          35.641124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528y7z_1731070354446.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528y7z",
+        "point_name": "多摩桜ヶ丘郵便局付近",
+        "remark": "０話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445128,
+          35.645479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528yck_1731070418027.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528yck",
+        "point_name": "いろは坂桜公園",
+        "remark": "０話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.448127,
+          35.647537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528zcu_1731070427547.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528zcu",
+        "point_name": "大栗川沿い",
+        "remark": "０話、１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.444705,
+          35.645366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528z5y_1731070439995.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528z5y",
+        "point_name": "いろは坂 1",
+        "remark": "０話、４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.439477,
+          35.637551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528yzo_1731070451282.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528yzo",
+        "point_name": "多摩市桜ヶ丘２丁目Ａ",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.43941,
+          35.637475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "桜ヶ丘",
+        "point_id": "51i528zew",
+        "point_name": "多摩市桜ヶ丘２丁目Ｂ",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.440005,
+          35.637593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/51i528z55-1683189873854.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528z55",
+        "point_name": "多摩市桜ヶ丘２丁目Ｃ",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.439796,
+          35.637784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/51i528zbs-1683189904046.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528zbs",
+        "point_name": "多摩市桜ヶ丘２丁目Ｄ",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.439271,
+          35.637671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "桜ヶ丘",
+        "point_id": "51i528z38",
+        "point_name": "多摩市桜ヶ丘２丁目Ｅ",
+        "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445142,
+          35.645708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528z1f_1731070487637.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i528z1f",
+        "point_name": "いろは坂 2",
+        "remark": "４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.438836,
+          35.637392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290hb_1731070558726.jpg",
+        "location": "桜ヶ丘",
+        "point_id": "51i5290hb",
+        "point_name": "「東寺方三丁目」バス停付近の交差点",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780619,
+          35.717437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528yw4_1730972876978.jpg",
+        "location": "上野",
+        "point_id": "51i528yw4",
+        "point_name": "ＪＲ東日本上野総合事務所前にある交差点",
+        "remark": "ＯＰ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774555,
+          35.711439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528yzn_1730972772905.jpg",
+        "location": "上野",
+        "point_id": "51i528yzn",
+        "point_name": "上野駅不忍口前にある交差点",
+        "remark": "ＯＰ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774596,
+          35.711376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/g7civ1ywd_1730973282146.jpg",
+        "location": "上野",
+        "point_id": "g7civ1ywd",
+        "point_name": "不忍口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776617,
+          35.711208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/51i528z9v-1703856742117.jpg",
+        "location": "上野",
+        "point_id": "51i528z9v",
+        "point_name": "上野駅ペデストリアンデッキ",
+        "remark": "ＯＰ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.576836,
+          35.703696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528zdf_1730971809274.jpg",
+        "location": "吉祥寺·新宿",
+        "point_id": "51i528zdf",
+        "point_name": "B-COMPANY Transit 吉祥寺・中道通り店",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579392,
+          35.702651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i52902j_1730971818073.jpg",
+        "location": "吉祥寺·新宿",
+        "point_id": "51i52902j",
+        "point_name": "旧ブックスいずみ（エクセルシオールカフェ 吉祥寺サンロード店）",
+        "remark": "12話　ブックスいずみは2014年7月18日に閉店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.57771,
+          35.703357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528zpa_1730971826905.jpg",
+        "location": "吉祥寺·新宿",
+        "point_id": "51i528zpa",
+        "point_name": "吉祥寺パルコ付近",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701025,
+          35.691446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528zrz_1730971858697.jpg",
+        "location": "吉祥寺·新宿",
+        "point_id": "51i528zrz",
+        "point_name": "TLIPルミネエスト新宿店",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670295,
+          35.608004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i528zrs_1730971460553.jpg",
+        "location": "自由が丘",
+        "point_id": "51i528zrs",
+        "point_name": "カフェ・アンセーニュ・ダングル 自由が丘店",
+        "remark": "12話　カフェ内部のモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.669367,
+          35.606765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i529037_1730971387250.jpg",
+        "location": "自由が丘",
+        "point_id": "51i529037",
+        "point_name": "茶乃子",
+        "remark": "12話　カフェ外観のモデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668627,
+          35.606568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i52906y_1730971454881.jpg",
+        "location": "自由が丘",
+        "point_id": "51i52906y",
+        "point_name": "MONCEAU FLEURS （モンソーフルール） 自由が丘本店とSHUTTERS 自由が丘",
+        "remark": "12話\n不是花店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668967,
+          35.606591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290f3_1730971441113.jpg",
+        "location": "自由が丘",
+        "point_id": "51i5290f3",
+        "point_name": "Caffe Bus muraccho （カフェバス ムラッチョ）",
+        "remark": "12話　完全一致を狙うなら営業時間が13時からと遅いので注意"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.669683,
+          35.606911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i529016_1730971539178.jpg",
+        "location": "自由が丘",
+        "point_id": "51i529016",
+        "point_name": "自由が丘MAST",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040981,
+          35.648674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i52905c_1730970798233.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i52905c",
+        "point_name": "海浜幕張駅南口 2",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041142,
+          35.64819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i52900y_1730970803465.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i52900y",
+        "point_name": "海浜幕張駅南口（タクシー乗り場）",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.042017,
+          35.650313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290l8_1730970746825.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i5290l8",
+        "point_name": "幕張テクノガーデン付近 1",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.042365,
+          35.650483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290y0_1730970764186.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i5290y0",
+        "point_name": "幕張テクノガーデン付近 2",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041539,
+          35.649928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i52912j_1730970909378.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i52912j",
+        "point_name": "「海浜幕張駅北口」交差点（北）",
+        "remark": "12話、21話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041145,
+          35.649529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i529100_1730971119138.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i529100",
+        "point_name": "海浜幕張駅北口ペデストリアンデッキ 夜",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041185,
+          35.650117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290iu_1730971124778.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i5290iu",
+        "point_name": "幕張テクノガーデン付近 夜",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041196,
+          35.649638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i52913x_1730971016321.jpg",
+        "location": "海浜幕張",
+        "point_id": "51i52913x",
+        "point_name": "「海浜幕張駅北口」交差点（西）",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.039331,
+          35.651901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/ptby4zpsh_1730969562243.jpg",
+        "location": "海浜幕張",
+        "point_id": "ptby4zpsh",
+        "point_name": "NTT幕張ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637497,
+          35.462077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/llf37vsa2_1730971622769.jpg",
+        "location": "",
+        "point_id": "llf37vsa2",
+        "point_name": "臨港パーク",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774643,
+          35.716596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/51i5290x6_1730973246523.jpg",
+        "location": "上野",
+        "point_id": "51i5290x6",
+        "point_name": "上野恩賜公園",
+        "remark": "21話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041239,
+          35.647949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5290oy",
+        "point_name": "海浜幕張駅南口（18話）",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041252,
+          35.649328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5290u3",
+        "point_name": "海浜幕張駅北口ペデストリアンデッキ（23話）",
+        "remark": "23話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.465197,
+          37.758972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/95225/points/51i5290pg-1730968040642.jpg",
+        "location": "",
+        "point_id": "51i5290pg",
+        "point_name": "日本基督教団福島教会（現存していません）",
+        "remark": "言峰教会内部のモデル　現存していません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.4885,
+          35.348217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/95225/points/51i5290xg-1730968393392.jpg",
+        "location": "",
+        "point_id": "51i5290xg",
+        "point_name": "遊行寺（柳洞寺）",
+        "remark": "6話、7話、12話、23話、24話、25話\n柳洞寺的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.728321,
+          35.567293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/ptd4zsrp3_1730972175561.jpg",
+        "location": "",
+        "point_id": "ptd4zsrp3",
+        "point_name": "梅屋敷商店街入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.039473,
+          35.643166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/ptd9oci8z_1730972460226.jpg",
+        "location": "",
+        "point_id": "ptd9oci8z",
+        "point_name": "見浜園 茶室 松籟亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.274889,
+          35.71766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/ptd86uglc_1730972353986.jpg",
+        "location": "",
+        "point_id": "ptd86uglc",
+        "point_name": "東京​サマー​ランド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.19068,
+          34.702947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/ieptj50rn-1753611274455.jpg",
+        "location": "",
+        "point_id": "ieptj50rn",
+        "point_name": "うろこの家",
+        "remark": "间桐家（外观）远坂家（内饰）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.189475,
+          34.701388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/il1yedbxe-1710573447674.jpg",
+        "location": "",
+        "point_id": "il1yedbxe",
+        "point_name": "風見鶏の館（旧トーマス住宅）",
+        "remark": "远坂家宅取景地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.189476,
+          34.701342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/ot47kqszj-1728131702992.jpg",
+        "location": "",
+        "point_id": "ot47kqszj",
+        "point_name": "風見鶏の館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.996989,
+          34.65866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/kntc0kopr-1725267435139.jpg",
+        "location": "",
+        "point_id": "kntc0kopr",
+        "point_name": "県立弓道場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.988423,
+          34.650143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/kntgphu2b-1725267283217.jpg",
+        "location": "",
+        "point_id": "kntgphu2b",
+        "point_name": "织田家长屋门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.203739,
+          34.678257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/ptdt2in2g_1730973632267.jpg",
+        "location": "",
+        "point_id": "ptdt2in2g",
+        "point_name": "神戸大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.714879,
+          51.146709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/109386/points/ktb9gqfat-1716869413450.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "llf3fdhrv",
+        "point_name": "亚瑟王墓",
+        "remark": "位于格拉斯顿伯里修道院的亚瑟王墓。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.716738,
+          51.146556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/95225/lwiiyxfrb_1719934535797.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "lwiiyxfrb",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.715067,
+          51.146587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/95225/lwimmniwf_1719934755897.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "lwimmniwf",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.715037,
+          51.146738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/95225/lwitoqyz4_1719935193250.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "lwitoqyz4",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.715104,
+          51.146751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/95225/cxtlaia_1775176825547.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "cxtlaia",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.715142,
+          51.146727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/95225/cxtlgt3_1775176833897.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "cxtlgt3",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.714831,
+          51.146801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/95225/lwiu9fa6g_1719935216397.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "lwiu9fa6g",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.714908,
+          51.146706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/95225/cxtkwui_1775176808716.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "cxtkwui",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.714908,
+          51.146726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/95225/cxtl12b_1775176814499.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "cxtl12b",
+        "point_name": "亚瑟王墓",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.715084,
+          51.146712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/5bnt6v4-1758599470076.jpg",
+        "location": "格拉斯顿伯里修道院",
+        "point_id": "5bnt6v4",
+        "point_name": "Glastonbury Abbey",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.123022,
+          51.494542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/95225/pume4svma_1731070662716.jpg",
+        "location": "",
+        "point_id": "pume4svma",
+        "point_name": "Lambeth Bridge",
+        "remark": "手前に見える橋がランビス橋で、奥に見える時計塔がビッグ・ベンです。\nアルバート・エンバンクメント 通り（Albert Embankment Street）側から撮影。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729276,
+          35.660287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95225,
+        "bangumi_title": "命运守护夜 无限剑制",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95225/points/3r4gx9a-1755181153835.jpg",
+        "location": "",
+        "point_id": "3r4gx9a",
+        "point_name": "六本木ヒルズ展望台",
+        "remark": "伪螺旋剑发射处"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.993856,
+          34.325485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121377,
+        "bangumi_title": "那就是声优！",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/121377/points/u7furi9ne-1743359624283.jpg",
+        "location": "",
+        "point_id": "u7furi9ne",
+        "point_name": "鬼無駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

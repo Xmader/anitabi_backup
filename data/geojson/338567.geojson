@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.834907,
+          1.261373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338567,
+        "bangumi_title": "战地2042",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338567/points/mticu8bjt-1722520227478.jpg",
+        "location": "",
+        "point_id": "mticu8bjt",
+        "point_name": "Brani Island",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -52.683089,
+          5.167667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338567,
+        "bangumi_title": "战地2042",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338567/points/mtisayc00-1722521135537.jpg",
+        "location": "",
+        "point_id": "mtisayc00",
+        "point_name": "97387 Rte de l'Espace, Kourou 97310",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.638811,
+          37.391901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338567,
+        "bangumi_title": "战地2042",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/338567/points/134cujd-1749375880591.jpg",
+        "location": "",
+        "point_id": "134cujd",
+        "point_name": "송도 센트럴파크",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          166.669921,
+          -77.843696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338567,
+        "bangumi_title": "战地2042",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338567/points/2a1i6kf-1751971164148.jpg",
+        "location": "",
+        "point_id": "2a1i6kf",
+        "point_name": "McMurdo Station",
+        "remark": "分崩离析"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.122368,
+          21.328898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338567,
+        "bangumi_title": "战地2042",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338567/points/2a2nbos-1751973090901.jpg",
+        "location": "",
+        "point_id": "2a2nbos",
+        "point_name": "Alang",
+        "remark": "废弃之地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

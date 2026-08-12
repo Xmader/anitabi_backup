@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          142.156885,
+          26.637083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304421,
+        "bangumi_title": "星空列车与白的旅行",
+        "ep_cut": "列车第三站-小笠原群岛沙滩",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/304421/points/nquiglcqr-1725132798526.jpg",
+        "location": "",
+        "point_id": "nquiglcqr",
+        "point_name": "Wakihama-Nagisa Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

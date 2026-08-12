@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.139427,
+          30.676172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 557825,
+        "bangumi_title": "男娘恋爱物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/557825/points/22jzxat-1751518492689.jpg",
+        "location": "",
+        "point_id": "22jzxat",
+        "point_name": "水上图书馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.141866,
+          30.680614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 557825,
+        "bangumi_title": "男娘恋爱物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/557825/points/22k1k4h-1751518521959.jpg",
+        "location": "",
+        "point_id": "22k1k4h",
+        "point_name": "成都自然博物馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

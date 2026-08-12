@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.411113,
+          31.219817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 422702,
+        "bangumi_title": "崩坏3 毕业旅行",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/422702/points/id1aggflq-1709946252513.jpg",
+        "location": "",
+        "point_id": "id1aggflq",
+        "point_name": "中山公园站",
+        "remark": "3、4号线共线段"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

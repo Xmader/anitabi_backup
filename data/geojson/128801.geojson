@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.930193,
+          38.138106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 128801,
+        "bangumi_title": "Wake Up, Girls! 超越深限",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/128801/points/r0mo6axds-1734362779823.jpg",
+        "location": "",
+        "point_id": "r0mo6axds",
+        "point_name": "仙台​空港​旅客​ターミナルビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.326945,
+          38.249216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 128801,
+        "bangumi_title": "Wake Up, Girls! 超越深限",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/128801/points/r0mvjho17-1734363018343.jpg",
+        "location": "",
+        "point_id": "r0mvjho17",
+        "point_name": "山形駅西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.328373,
+          38.248291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 128801,
+        "bangumi_title": "Wake Up, Girls! 超越深限",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/128801/points/r0myp9ulz-1734363209743.jpg",
+        "location": "",
+        "point_id": "r0myp9ulz",
+        "point_name": "山形駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.131147,
+          39.716661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 128801,
+        "bangumi_title": "Wake Up, Girls! 超越深限",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/128801/points/r0n0ownyn-1734363327233.jpg",
+        "location": "",
+        "point_id": "r0n0ownyn",
+        "point_name": "秋田駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

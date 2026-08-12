@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.287536,
+          35.675695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 418367,
+        "bangumi_title": "海滨的鲨鱼女仆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/418367/ewwkujt_1779474952770.jpg",
+        "location": "",
+        "point_id": "ewwkujt",
+        "point_name": "伊根町​観光​案内​所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.287619,
+          35.675658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 418367,
+        "bangumi_title": "海滨的鲨鱼女仆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/418367/ewx7iwx_1779476007795.jpg",
+        "location": "",
+        "point_id": "ewx7iwx",
+        "point_name": "伊根町​観光​案内​所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.287325,
+          35.66549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 418367,
+        "bangumi_title": "海滨的鲨鱼女仆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/418367/ewwlgwv_1779474987021.jpg",
+        "location": "",
+        "point_id": "ewwlgwv",
+        "point_name": "",
+        "remark": "男主与小鲨相遇的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.277391,
+          35.67053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 418367,
+        "bangumi_title": "海滨的鲨鱼女仆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/418367/ewx1plm_1779475792143.jpg",
+        "location": "",
+        "point_id": "ewx1plm",
+        "point_name": "日出駅 伊根湾めぐり遊覧船",
+        "remark": "图为10年前游览船等候室的样子，目前已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.287378,
+          35.676156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 418367,
+        "bangumi_title": "海滨的鲨鱼女仆",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/418367/ewxb4fb_1779476817868.jpg",
+        "location": "",
+        "point_id": "ewxb4fb",
+        "point_name": "伊根站",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

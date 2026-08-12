@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.798678,
+          34.924676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 286132,
+        "bangumi_title": "巴加的工作室 ～巴加眼中的海洋～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/286132/n4yyxlssp_1723418344388.jpg",
+        "location": "",
+        "point_id": "n4yyxlssp",
+        "point_name": "京都动画本社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798715,
+          34.924707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 286132,
+        "bangumi_title": "巴加的工作室 ～巴加眼中的海洋～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/286132/n4yz6xdtq_1723418388620.jpg",
+        "location": "",
+        "point_id": "n4yz6xdtq",
+        "point_name": "京都动画本社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798607,
+          34.924755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 286132,
+        "bangumi_title": "巴加的工作室 ～巴加眼中的海洋～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/286132/n4yzq19cc_1723418392333.jpg",
+        "location": "",
+        "point_id": "n4yzq19cc",
+        "point_name": "京都动画本社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798601,
+          34.924739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 286132,
+        "bangumi_title": "巴加的工作室 ～巴加眼中的海洋～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/286132/n4yztlgu8_1723418397279.jpg",
+        "location": "",
+        "point_id": "n4yztlgu8",
+        "point_name": "京都动画本社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798602,
+          34.924724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 286132,
+        "bangumi_title": "巴加的工作室 ～巴加眼中的海洋～",
+        "ep_cut": "封面",
+        "image_url": "https://w.junreimap.com/images/points/286132/5gr7zoa95_1723418310483.jpg",
+        "location": "",
+        "point_id": "n4z51z5mz",
+        "point_name": "京都动画本社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

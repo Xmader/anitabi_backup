@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.578155,
+          35.700451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 162846,
+        "bangumi_title": "火花",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/162846/points/5v78977-1759781175229.jpg",
+        "location": "东京",
+        "point_id": "5v78977",
+        "point_name": "井の頭公園",
+        "remark": "东京的主角固定集合点"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

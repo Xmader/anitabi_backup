@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.539653,
+          35.727707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 111231,
+        "bangumi_title": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/111231/points/a09vt69-1768794887683.jpg",
+        "location": "",
+        "point_id": "a09vt69",
+        "point_name": "田無戦災記念碑",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

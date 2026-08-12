@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.346277,
+          34.807433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 317680,
+        "bangumi_title": "歌剧少女！！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/317680/points/411iybr-1755780908277.jpg",
+        "location": "",
+        "point_id": "411iybr",
+        "point_name": "宝塚バウホール",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

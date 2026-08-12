@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.808316,
+          39.155235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 191302,
+        "bangumi_title": "少女与战车 最终章 第1话",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/191302/points/kqrsk680u-1716663433475.jpg",
+        "location": "",
+        "point_id": "kqrsk680u",
+        "point_name": "基辅号航母",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630641,
+          35.894282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 191302,
+        "bangumi_title": "少女与战车 最终章 第1话",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/191302/points/mi2wafcgt-1721624529664.jpg",
+        "location": "",
+        "point_id": "mi2wafcgt",
+        "point_name": "さいたま\nスーパー​アリーナ",
+        "remark": "无限轨道杯抽选会场"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.98847,
+          35.340815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejo8_1713233990832.jpg",
+        "location": "",
+        "point_id": "jizxjejo8",
+        "point_name": "明治村（旧制第八高等学校正門）",
+        "remark": "１話等莉子達が通っている藤女の校門のモデル未訪問"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.774099,
+          35.447628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejwm_1713233991220.jpg",
+        "location": "",
+        "point_id": "jizxjejwm",
+        "point_name": "佐鳴予備校長良校",
+        "remark": "４話等学習塾であるいりきみ塾のモデル未訪問"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.823376,
+          35.392549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejt8_1713233991524.jpg",
+        "location": "",
+        "point_id": "jizxjejt8",
+        "point_name": "イオンモール各務原",
+        "remark": "６話店内は撮影禁止未訪問"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.757389,
+          35.412378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejn0_1713233991827.jpg",
+        "location": "",
+        "point_id": "jizxjejn0",
+        "point_name": "フロンティア丸杉ビル横駐車場",
+        "remark": "６話等いりきみ塾の場所モデル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.758644,
+          35.410922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjeji9_1713233992095.jpg",
+        "location": "",
+        "point_id": "jizxjeji9",
+        "point_name": "「神田町10」交差点",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.758896,
+          35.410878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejp6_1713233992399.jpg",
+        "location": "",
+        "point_id": "jizxjejp6",
+        "point_name": "「神田町10」交差点",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.758676,
+          35.410745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejso_1713233992669.jpg",
+        "location": "",
+        "point_id": "jizxjejso",
+        "point_name": "「神田町10」交差点",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699142,
+          35.756112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejz6_1713233993177.jpg",
+        "location": "",
+        "point_id": "jizxjejz6",
+        "point_name": "ベンリー中板橋店",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698267,
+          35.660971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 58850,
+        "bangumi_title": "恋爱研究所",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/58850/jizxjejym_1713233993570.jpg",
+        "location": "",
+        "point_id": "jizxjejym",
+        "point_name": "渋谷センター街ちとせ会館前",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

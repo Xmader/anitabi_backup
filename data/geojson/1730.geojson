@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.155246,
+          39.700532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1730,
+        "bangumi_title": "简单易懂的现代魔法",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/1730/33nx9ts_1753762369286.jpg",
+        "location": "",
+        "point_id": "33nx9ts",
+        "point_name": "岩手​銀行​赤​レンガ​館",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

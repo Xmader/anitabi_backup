@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.713626,
+          35.71707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 765,
+        "bangumi_title": "秒速5センチメートル オリジナルサウンドトラック",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/765/points/5ukyt6b-1759743647426.jpg",
+        "location": "",
+        "point_id": "5ukyt6b",
+        "point_name": "シティテラス目白F棟",
+        "remark": "没有官方认证，个人觉得神似，大致是取景地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

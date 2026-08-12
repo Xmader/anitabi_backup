@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.706258,
+          35.720673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onwpp",
+        "point_name": "JR目白駅ホーム",
+        "remark": "#01「おにあい」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706638,
+          35.721343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onx4v",
+        "point_name": "JR目白駅改札",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706381,
+          35.721648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onws5",
+        "point_name": "目白通りから下りる階段",
+        "remark": "301"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706354,
+          35.721515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onxhw",
+        "point_name": "階段下",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706445,
+          35.721609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ony8r",
+        "point_name": "目白駅前交番",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704144,
+          35.719806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onxzc",
+        "point_name": "下落合三丁目",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702578,
+          35.717998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onxye",
+        "point_name": "おとめ山公園 入口",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703865,
+          35.713961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6onxzk",
+        "point_name": "高田馬場 さかえ通り商店街ゲート",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701285,
+          35.715119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 40339,
+        "bangumi_title": "就算是哥哥只要有爱就没问题对吧",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oo0oq",
+        "point_name": "東京富士大学",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

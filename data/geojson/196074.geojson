@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.342458,
+          30.55615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 196074,
+        "bangumi_title": "我和她的世界末日",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/196074/points/k23mqowwu-1714730577385.jpg",
+        "location": "",
+        "point_id": "k23mqowwu",
+        "point_name": "东湖路",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

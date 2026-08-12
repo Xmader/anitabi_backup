@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.569585,
+          39.320562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 494341,
+        "bangumi_title": "无口的柏田小姐与元气的太田君plus",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/494341/g7kf141_1782296488474.webp",
+        "location": "",
+        "point_id": "g7kf141",
+        "point_name": "武者溜広場",
+        "remark": "番外編秋田編。横手城下。雪屋会在每年横手の雪まつり搭建。机位在城下武者溜広場。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

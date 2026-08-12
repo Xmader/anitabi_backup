@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.48632,
+          31.238624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141013,
+        "bangumi_title": "剧场版 艾克斯奥特曼 来了！我们的奥特曼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/141013/points/r94yarpwn-1735029279915.jpg",
+        "location": "",
+        "point_id": "r94yarpwn",
+        "point_name": "外滩",
+        "remark": "阎魔兽赛格古召唤的暗剑迪玛迦的降落地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.134213,
+          29.979147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141013,
+        "bangumi_title": "剧场版 艾克斯奥特曼 来了！我们的奥特曼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/141013/points/r9cfoafj4-1735045563375.jpg",
+        "location": "",
+        "point_id": "r9cfoafj4",
+        "point_name": "هرم خوفو",
+        "remark": "阎魔兽赛格古召唤的暗剑迪玛迦的降落地之一"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

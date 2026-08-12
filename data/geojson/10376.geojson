@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.886312,
+          43.810652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10376,
+        "bangumi_title": "代号17",
+        "ep_cut": "05",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10376/points/6998d3p-1760631201245.jpg",
+        "location": "",
+        "point_id": "6998d3p",
+        "point_name": "五ヶ山​地区\n模範​牧場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

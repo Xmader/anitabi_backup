@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.114407,
+          51.504312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109386,
+        "bangumi_title": "命运守护之夜：无限剑制 第二季",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109386/points/1yvfi7n-1751295847215.jpg",
+        "location": "",
+        "point_id": "1yvfi7n",
+        "point_name": "11 York Rd",
+        "remark": "撷取自2012年6月街景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

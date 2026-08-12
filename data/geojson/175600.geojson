@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          79.849596,
+          6.93688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175600,
+        "bangumi_title": "剧场版 Fate/stay night [天之杯] III.春之歌",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/175600/points/1yq6veb-1751286988690.jpg",
+        "location": "",
+        "point_id": "1yq6veb",
+        "point_name": "Expographic Books",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.171792,
+          22.302663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 175600,
+        "bangumi_title": "剧场版 Fate/stay night [天之杯] III.春之歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/175600/points/1yvnvgx-1751296752523.jpg",
+        "location": "",
+        "point_id": "1yvnvgx",
+        "point_name": "彌敦道213號",
+        "remark": "撷取自2011年2月街景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

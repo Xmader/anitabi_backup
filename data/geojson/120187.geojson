@@ -1,0 +1,585 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.481081,
+          35.302115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fge7_1673366568620.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fge7",
+        "point_name": "青銅の鳥居 付近",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480561,
+          35.301161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgr2_1673366611323.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fgr2",
+        "point_name": "江島神社参道 あさひ本店前",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.339492,
+          35.657841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fglu_1673366440493.jpg",
+        "location": "八王子",
+        "point_id": "5e9f8fglu",
+        "point_name": "ヨドバシカメラ八王子店",
+        "remark": "#02「うまると海老名ちゃん」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.338327,
+          35.657319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgt8_1673366444292.jpg",
+        "location": "八王子",
+        "point_id": "5e9f8fgt8",
+        "point_name": "JR八王子駅北口商店街",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.337845,
+          35.65847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgrh_1673366500200.jpg",
+        "location": "八王子",
+        "point_id": "5e9f8fgrh",
+        "point_name": "アミューズメントスペース パーラライオン八王子店",
+        "remark": "#02，#04「うまるとライバル」、#05「うまると夏休み」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.33835,
+          35.65571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgb3_1673366516864.jpg",
+        "location": "八王子",
+        "point_id": "5e9f8fgb3",
+        "point_name": "JR八王子駅 ４番ホーム",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.338902,
+          35.655932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fg74_1673366510671.jpg",
+        "location": "八王子",
+        "point_id": "5e9f8fg74",
+        "point_name": "JR八王子駅 北口",
+        "remark": "#05、#07「うまるのお兄ちゃん」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700469,
+          35.690219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgel_1673366456336.jpg",
+        "location": "東京",
+        "point_id": "5e9f8fgel",
+        "point_name": "JR新宿駅中央通路",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700459,
+          35.690143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9glflvy_1673366486419.jpg",
+        "location": "東京",
+        "point_id": "5e9glflvy",
+        "point_name": "JR新宿駅中央通路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700457,
+          35.690115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9grkt23_1673366490570.jpg",
+        "location": "東京",
+        "point_id": "5e9grkt23",
+        "point_name": "JR新宿駅中央通路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700467,
+          35.690184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9gi977r_1673366476208.jpg",
+        "location": "東京",
+        "point_id": "5e9gi977r",
+        "point_name": "JR新宿駅中央通路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.739912,
+          35.62986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/120187/points/d5a48ivz7-1695231663421.jpg",
+        "location": "東京",
+        "point_id": "d5a48ivz7",
+        "point_name": "品川駅新幹線乗り場北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.313612,
+          35.663775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgcx_1673366524801.jpg",
+        "location": "八王子",
+        "point_id": "5e9f8fgcx",
+        "point_name": "多賀神社",
+        "remark": "#08「うまるとクリスマスと正月」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.313448,
+          35.663712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9hei9e5_1673366531398.jpg",
+        "location": "八王子",
+        "point_id": "5e9hei9e5",
+        "point_name": "多賀神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.313209,
+          35.663779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9hkphje_1673366539905.jpg",
+        "location": "八王子",
+        "point_id": "5e9hkphje",
+        "point_name": "多賀神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482004,
+          35.304037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgeg_1673366562199.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fgeg",
+        "point_name": "江ノ島弁天橋",
+        "remark": "#12「うまるとみんな」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478656,
+          35.299646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgb8_1673366627397.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fgb8",
+        "point_name": "江の島展望灯台",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478667,
+          35.299561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9j62v1y_1673366637394.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9j62v1y",
+        "point_name": "江の島展望灯台撮影ポイント",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.4771,
+          35.298757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9jntapz_1673366667446.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9jntapz",
+        "point_name": "恋人の丘「龍恋の鐘」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480288,
+          35.300643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fg8i_1673366621281.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fg8i",
+        "point_name": "江島神社 鳥居",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477145,
+          35.298758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgdq_1673366661165.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fgdq",
+        "point_name": "恋人の丘「龍恋の鐘」",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481087,
+          35.302094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9jyf0c7_1673366683324.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9jyf0c7",
+        "point_name": "貝作総本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481596,
+          35.302144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgg5_1673366679029.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fgg5",
+        "point_name": "貝作総本店",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477959,
+          35.311054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fg6j_1673366695163.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fg6j",
+        "point_name": "片瀬西浜海水浴場",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478062,
+          35.310928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9kcksjj_1673366705865.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9kcksjj",
+        "point_name": "片瀬西浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478026,
+          35.310981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9k7tdqq_1673366701687.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9k7tdqq",
+        "point_name": "片瀬西浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480176,
+          35.309348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9kotpzg_1673366727338.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9kotpzg",
+        "point_name": "新江ノ島水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480292,
+          35.309294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9f8fgff_1673366723867.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9f8fgff",
+        "point_name": "新江ノ島水族館",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478102,
+          35.310881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120187,
+        "bangumi_title": "干物妹！小埋",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/120187/5e9ke1c0y_1673366708870.jpg",
+        "location": "江ノ島",
+        "point_id": "5e9ke1c0y",
+        "point_name": "片瀬西浜海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.522081,
+          35.700822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63lheli-1760288601904.jpg",
+        "location": "",
+        "point_id": "63lheli",
+        "point_name": "のなか歯科医院旁",
+        "remark": "宇佐美瑞希去上学的路上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.526952,
+          35.702847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63lt9pt-1760289098636.jpg",
+        "location": "",
+        "point_id": "63lt9pt",
+        "point_name": "梶野公園東側",
+        "remark": "内卷同学对萝莉一见钟情了(名场面)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531886,
+          35.71027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63mf4np-1760290152240.jpg",
+        "location": "",
+        "point_id": "63mf4np",
+        "point_name": "第二防災公園附近",
+        "remark": "宇佐美同学骑在内卷同学脖子上拿气球(名场面)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531767,
+          35.709696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63mowp4-1760290591803.jpg",
+        "location": "",
+        "point_id": "63mowp4",
+        "point_name": "西一番通り（バス）",
+        "remark": "小妹妹向瑞希打招呼但她没注意到"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.529437,
+          35.710107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63n0v64-1760291203601.jpg",
+        "location": "",
+        "point_id": "63n0v64",
+        "point_name": "桜二の橋（バス）附近",
+        "remark": "绫濑香织追踪伊万莉同学 "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55037,
+          35.716116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63nubce-1760292521971.jpg",
+        "location": "",
+        "point_id": "63nubce",
+        "point_name": "五日市街道",
+        "remark": "宇佐美同学与内卷同学一起回家的路上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549072,
+          35.716497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63o0ffa-1760292807326.jpg",
+        "location": "",
+        "point_id": "63o0ffa",
+        "point_name": "千川歩道橋",
+        "remark": "宇佐美哭哭(名场面)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626217,
+          35.724853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 150746,
+        "bangumi_title": "这个美术社大有问题！",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/150746/points/63p6f1v-1760294763493.jpg",
+        "location": "",
+        "point_id": "63p6f1v",
+        "point_name": "下井草支店附近",
+        "remark": "宇佐美同学与内卷同学找到走丢的小孩"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

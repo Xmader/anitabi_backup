@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.849935,
+          37.006578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/pt9xpgyvb_1730965190049.jpg",
+        "location": "",
+        "point_id": "pt9xpgyvb",
+        "point_name": "湯本駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.817589,
+          36.993754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/pt9ym0whi_1730965243848.jpg",
+        "location": "",
+        "point_id": "pt9ym0whi",
+        "point_name": "ホテル​ハワイ​アンズ",
+        "remark": "动画主舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.816036,
+          36.993926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/ptauzo3cz_1730967256251.jpg",
+        "location": "",
+        "point_id": "ptauzo3cz",
+        "point_name": "スパ​リゾート​ハワイ​アンズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.925662,
+          37.070776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/pta319x1w_1730965607313.jpg",
+        "location": "",
+        "point_id": "pta319x1w",
+        "point_name": "いわき​回廊​美術館のステージ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.994988,
+          37.172745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/ptabdlbq4_1730966030656.jpg",
+        "location": "",
+        "point_id": "ptabdlbq4",
+        "point_name": "末続駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.995519,
+          37.172589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/ptac1o7ax_1730966050843.jpg",
+        "location": "",
+        "point_id": "ptac1o7ax",
+        "point_name": "末続駅内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.892256,
+          37.057969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 318543,
+        "bangumi_title": "扶桑花之舞",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/318543/ptahhlxox_1730966419441.jpg",
+        "location": "",
+        "point_id": "ptahhlxox",
+        "point_name": "いわき​駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

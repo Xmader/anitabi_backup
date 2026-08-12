@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -120.844157,
+          35.360487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309311,
+        "bangumi_title": "赛博朋克：边缘行者",
+        "ep_cut": "每一集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309311/points/ifv3998zg-1710166388032.jpg",
+        "location": "",
+        "point_id": "ifv3998zg",
+        "point_name": "Morro Bay",
+        "remark": "赛博朋克2077城市原型，架空世界观为填海造陆形成夜之城雏形后继一系列赛博朋克2077世界观（或许更早为赛博朋克2020）发生的政治变故变成现在的夜之城\nPS：David别藏了，Lucy已经在月球放着I Really Want Stay At Your House等你来了，我们都知道你只是没重出江湖罢了，我们会等你的😎"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

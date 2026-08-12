@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.44576,
+          35.543667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295364/points/us7jqajwl-1744987167320.jpg",
+        "location": "",
+        "point_id": "vi0v9gvhr",
+        "point_name": "町田駅前",
+        "remark": "站前交叉路口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.448331,
+          35.541319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/437532/points/us8fl6uax-1744989145337.jpg",
+        "location": "",
+        "point_id": "vi0v9gw8p",
+        "point_name": "小陽生煎饅頭屋",
+        "remark": "商业街入口处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.523771,
+          33.125188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/437532/points/85l0864-1764762268387.jpg",
+        "location": "",
+        "point_id": "85l0864",
+        "point_name": "居村米穀店附近",
+        "remark": "途中所有原型店铺均已倒闭"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.573337,
+          32.432825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/437532/points/85l2e4j-1764762414114.jpg",
+        "location": "",
+        "point_id": "85l2e4j",
+        "point_name": "柳屋旅馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.464293,
+          35.56545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/437532/points/85lbgc7-1764762779222.jpg",
+        "location": "",
+        "point_id": "85lbgc7",
+        "point_name": "玉川大学",
+        "remark": "学校注意"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.450723,
+          35.541745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/437532/points/85lejwz-1764762911858.jpg",
+        "location": "",
+        "point_id": "85lejwz",
+        "point_name": "ハントリービル",
+        "remark": "诗樱学姐家附近的路口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.453532,
+          35.543236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/437532/points/85lfpw8-1764762963854.jpg",
+        "location": "",
+        "point_id": "85lfpw8",
+        "point_name": "ヒット税理士事務所",
+        "remark": "华乃家附近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.468984,
+          35.542693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/437532/points/85lgmzp-1764763013779.jpg",
+        "location": "",
+        "point_id": "85lgmzp",
+        "point_name": "弁天橋公園",
+        "remark": "公园靠近河的一端"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.154207,
+          35.250595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 437532,
+        "bangumi_title": "常轨脱离Creative",
+        "ep_cut": "第八话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/437532/points/gocqs8c-1783311477617.jpg",
+        "location": "",
+        "point_id": "gocqs8c",
+        "point_name": "小田原城",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

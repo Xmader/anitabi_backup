@@ -1,0 +1,385 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.343626,
+          48.886148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/10dsigy-1749210338465.jpg",
+        "location": "",
+        "point_id": "10dsigy",
+        "point_name": "Basilique du Sacré-Cœur de Montmartre",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.294382,
+          48.87287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/10dvd1w-1749210478268.jpg",
+        "location": "",
+        "point_id": "10dvd1w",
+        "point_name": "Arc de Triomphe",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.576254,
+          49.005358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/10e06gb-1749210704261.jpg",
+        "location": "",
+        "point_id": "10e06gb",
+        "point_name": "Aéroport Paris-Charles-de-Gaulle",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.291948,
+          48.860794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/10eoad7-1749211840949.jpg",
+        "location": "",
+        "point_id": "10eoad7",
+        "point_name": "Seine La Rive Droite",
+        "remark": "实地无栏杆"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.486285,
+          31.239155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/113h4jn-1749253450702.jpg",
+        "location": "",
+        "point_id": "113h4jn",
+        "point_name": "外滩",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.327797,
+          48.859996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11795yj-1749259815235.jpg",
+        "location": "",
+        "point_id": "11795yj",
+        "point_name": "Musée d’Orsay",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.330638,
+          48.860548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/117b2d8-1749259950324.jpg",
+        "location": "",
+        "point_id": "117b2d8",
+        "point_name": "Pont Royal",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.329434,
+          48.860945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/117had4-1749260321467.jpg",
+        "location": "",
+        "point_id": "117had4",
+        "point_name": "port des tuileries",
+        "remark": "看两座桥的距离应该是这个位置，如果不是的话就是对面另一边，需要实地确认"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.291307,
+          48.861136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/118gad3-1749261808342.jpg",
+        "location": "",
+        "point_id": "118gad3",
+        "point_name": "Av. des Nations Unies",
+        "remark": "箭头方向与动画相反"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.329553,
+          48.862969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11idemc-1749278466319.jpg",
+        "location": "",
+        "point_id": "11idemc",
+        "point_name": "Jardin des Tuileries Grand Bassin Rond",
+        "remark": "花园内有两个喷水池，靠近卢浮宫那个才是动画里的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.030957,
+          48.650187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11kpijs-1749282392902.jpg",
+        "location": "",
+        "point_id": "11kpijs",
+        "point_name": "Grand Bé",
+        "remark": "退潮时可登岛"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.032364,
+          48.65087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11krg09-1749282520376.jpg",
+        "location": "",
+        "point_id": "11krg09",
+        "point_name": "Passage des Bés",
+        "remark": "大贝岛通道上远眺圣马洛城"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.033238,
+          48.653019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11kuou0-1749282632666.jpg",
+        "location": "",
+        "point_id": "11kuou0",
+        "point_name": "Tombeau de François René de Chateaubriand",
+        "remark": "出生于圣马洛的法国作家弗朗索瓦-勒内·德·夏多布里昂，安葬于大贝岛，墓穴面向大海。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.024615,
+          48.649186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11lg2r2-1749283639027.jpg",
+        "location": "",
+        "point_id": "11lg2r2",
+        "point_name": "Grand Rue",
+        "remark": "Grand Rue和Rue des Merciers的交叉路口，能看到圣马洛主教座堂，注意路灯作为定位即可"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.02371,
+          48.648968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11lkxnl-1749283895193.jpg",
+        "location": "",
+        "point_id": "11lkxnl",
+        "point_name": "La Grand' Porte de Saint-Malo",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.968061,
+          48.637949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11m2a4e-1749284676604.jpg",
+        "location": "",
+        "point_id": "11m2a4e",
+        "point_name": "Château Hôtel du Colombier",
+        "remark": "原型为城堡酒店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.024278,
+          48.645726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11mf4k8-1749285280160.jpg",
+        "location": "",
+        "point_id": "11mf4k8",
+        "point_name": "Cale de la bourse",
+        "remark": "船舶下水滑道附近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.02621,
+          48.649575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/11syjf5-1749296260140.jpg",
+        "location": "",
+        "point_id": "11syjf5",
+        "point_name": "Cathédrale Saint-Vincent de Saint-Malo",
+        "remark": "除了尖塔以外其他特征完全对不上，但圣马洛只有这一个这种规模的教堂，只能说魔改了吧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.301097,
+          48.87702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1966,
+        "bangumi_title": "交响情人梦 巴黎篇",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/1966/points/137hks4-1749381150476.jpg",
+        "location": "",
+        "point_id": "137hks4",
+        "point_name": "Salle Pleyel",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

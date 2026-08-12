@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.425299,
+          35.624342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 532962,
+        "bangumi_title": "我这渣滓一样的人生肯定全部都是狸猫的错",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/532962/3gr8v4u_1754553949578.jpg",
+        "location": "",
+        "point_id": "3gr8v4u",
+        "point_name": "小田急​多摩センター前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

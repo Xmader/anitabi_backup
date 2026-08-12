@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.886059,
+          40.668418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1127,
+        "bangumi_title": "Remember11：无限轮回的时光",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1127/lxfpmrsq4_1720007697001.jpg",
+        "location": "",
+        "point_id": "lxfpmrsq4",
+        "point_name": "朱倉岳",
+        "remark": "现实中为「赤倉岳」，海拔1298米。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.939736,
+          45.373414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1127,
+        "bangumi_title": "Remember11：无限轮回的时光",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1127/lxf6myntn_1720007857959.jpg",
+        "location": "",
+        "point_id": "lxf6myntn",
+        "point_name": "青鷺島",
+        "remark": "设定中为礼文岛以西5公里的无人岛，现实中不存在。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.911093,
+          43.015528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1127,
+        "bangumi_title": "Remember11：无限轮回的时光",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1127/lxfhne921_1720007954939.jpg",
+        "location": "",
+        "point_id": "lxfhne921",
+        "point_name": "北海道妃羽郡茂枝木村穂樽日鉱山跡",
+        "remark": "根据fanbook，现实中为「北海道余市郡赤井川村轟鉱山跡」。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.315419,
+          36.067817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4053,
+        "bangumi_title": "LEVEL5 -judgelight-",
+        "ep_cut": "MV",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4053/points/mab8pudfv-1721024879455.jpg",
+        "location": "",
+        "point_id": "mab8pudfv",
+        "point_name": "天主教青岛教区圣弥厄尔主教座堂天主堂",
+        "remark": "拍摄于2009年12月"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.327913,
+          36.064712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4053,
+        "bangumi_title": "LEVEL5 -judgelight-",
+        "ep_cut": "mv",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4053/points/o6jg70csn-1726363034155.jpg",
+        "location": "",
+        "point_id": "o6jg70csn",
+        "point_name": "青岛德国总督楼旧址博物馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

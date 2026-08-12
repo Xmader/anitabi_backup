@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.432901,
+          36.734772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211934,
+        "bangumi_title": "此花绮谭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/211934/points/n7wpg9fmk-1723648537944.jpg",
+        "location": "",
+        "point_id": "n7wpg9fmk",
+        "point_name": "金具屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

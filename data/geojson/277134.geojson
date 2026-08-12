@@ -1,0 +1,2925 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.748814,
+          35.977779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt797narx_1719675111196.jpg",
+        "location": "",
+        "point_id": "lt797narx",
+        "point_name": "昭和パーキング第３",
+        "remark": "设定上为神奈川县庆应大学日吉校区附近的停车场，实际使用的背景位于埼玉县春日部市，并进行了镜像处理。后续飙车内容的背景回到了神奈川县。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694356,
+          35.551234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt7fxaixd_1719675539469.jpg",
+        "location": "",
+        "point_id": "lt7fxaixd",
+        "point_name": "御幸公園交差点",
+        "remark": "远处可以看到多摩川大橋。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694475,
+          35.55167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt7llgxk7_1719675656610.jpg",
+        "location": "",
+        "point_id": "lt7llgxk7",
+        "point_name": "御幸公園交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749725,
+          35.978284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt7p9ghpv_1719675930834.jpg",
+        "location": "",
+        "point_id": "lt7p9ghpv",
+        "point_name": "中央町第四公園",
+        "remark": "设定上为神奈川县庆应大学日吉校区附近的公园，实际使用的背景位于埼玉县春日部市。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.725279,
+          35.967471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrwyfc5l7_1719574224773.jpg",
+        "location": "",
+        "point_id": "lrwyfc5l7",
+        "point_name": "鳥貴族 豊春店",
+        "remark": "漫画中出现的鸟家族原型。设定中为神奈川县庆应大学日吉校区附近的餐厅，实际使用的背景位于埼玉县春日部市。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.722569,
+          35.966575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt74h3cpu_1719676222957.jpg",
+        "location": "",
+        "point_id": "lt74h3cpu",
+        "point_name": "ルネ春日部5号棟",
+        "remark": "作品中「T团地」的外形原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.732533,
+          37.028811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrw3llrpk_1719572474950.jpg",
+        "location": "",
+        "point_id": "lrw3llrpk",
+        "point_name": "ナラ入沢渓流釣りキャンプ場",
+        "remark": "漫画中的露营剧情混合了栃木县日光市的钓鱼场和岛根县鹿足郡的深谷大桥，动画中删去了钓鱼场招牌的画面。考虑到与东京的距离，主角们实际露营地应为此处。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.812747,
+          35.756874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrvy81lup_1719571996197.jpg",
+        "location": "",
+        "point_id": "lrvy81lup",
+        "point_name": "荒川サイクリングロード",
+        "remark": "荒川北侧自行车道。漫画中可以看到右边的荒川橋梁和棒球场。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.282621,
+          35.777541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/390794/lty7e2hkq_1719733572942.jpg",
+        "location": "",
+        "point_id": "lty7e2hkq",
+        "point_name": "青梅市多摩川敷",
+        "remark": "动画中地图所示鬼军曹的存放地，与后续场景一致。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765427,
+          35.699237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": "漫画5卷特典",
+        "image_url": "https://w.junreimap.com/images/points/390794/ltxv2qmnv_1719732913272.jpg",
+        "location": "",
+        "point_id": "ltxv2qmnv",
+        "point_name": "JR御茶ノ水駅 聖橋口",
+        "remark": "背景中出现的旧圣桥入口于2020年3月28日关闭拆除，新入口2023年12月3日开放。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766956,
+          35.700906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": "漫画5卷特典",
+        "image_url": "https://w.junreimap.com/images/points/390794/ltxuaphnt_1719732962597.jpg",
+        "location": "神田明神",
+        "point_id": "ltxuaphnt",
+        "point_name": "神田明神",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767442,
+          35.701424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": "漫画5卷特典",
+        "image_url": "https://w.junreimap.com/images/points/390794/ltxxk8lx3_1719732975312.jpg",
+        "location": "神田明神",
+        "point_id": "ltxxk8lx3",
+        "point_name": "神田明神 隨神門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767464,
+          35.701726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": "漫画5卷特典",
+        "image_url": "https://w.junreimap.com/images/points/390794/ltxzd99hy_1719733090194.jpg",
+        "location": "神田明神",
+        "point_id": "ltxzd99hy",
+        "point_name": "神田明神文化交流館 EDOCCO",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767772,
+          35.701836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": "漫画5卷特典",
+        "image_url": "https://w.junreimap.com/images/points/390794/ltxy9xo5h_1719733102668.jpg",
+        "location": "神田明神",
+        "point_id": "ltxy9xo5h",
+        "point_name": "神田明神 本殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767877,
+          35.701938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": "漫画5卷特典",
+        "image_url": "https://w.junreimap.com/images/points/390794/lty0msg2i_1719733159296.jpg",
+        "location": "神田明神",
+        "point_id": "lty0msg2i",
+        "point_name": "神田明神 本殿内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700501,
+          35.659458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsq51ohip_1719637663655.jpg",
+        "location": "",
+        "point_id": "lsq51ohip",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": "主角从家中前往平将门首冢时前往的车站，动画中此处出现的是三轩茶屋站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700829,
+          35.659453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsqixn6nq_1719638502606.jpg",
+        "location": "",
+        "point_id": "lsqixn6nq",
+        "point_name": "渋谷駅 半蔵門線改札前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413342,
+          35.857442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsx46d4o2_1719653031740.jpg",
+        "location": "",
+        "point_id": "lsx46d4o2",
+        "point_name": "狭山市受胎告知の家",
+        "remark": "漫画中提到受胎告知之家位于埼玉县狭山市，并位于从富士山流向皇居的龙脉之上。但事实上狭山市并不在这条直线上。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774534,
+          34.954113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 34,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrz6l318k_1719579553094.jpg",
+        "location": "",
+        "point_id": "lrz6l318k",
+        "point_name": "京都医療センター",
+        "remark": "作品中为「京都中央病院」。动画中出现的病院原型是「京都民医連中央病院」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.761437,
+          34.97841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsxtmddd3_1719656759905.jpg",
+        "location": "",
+        "point_id": "lsxtmddd3",
+        "point_name": "京都の道路標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.826937,
+          34.880206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrr3tngwh_1719585179265.jpg",
+        "location": "天濑水坝",
+        "point_id": "lrr3tngwh",
+        "point_name": "天ヶ瀬ダム入口の監視員室",
+        "remark": "背后标语为「川のめぐみに愛の心で」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.827823,
+          34.880637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsxuba1tt_1719656784973.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsxuba1tt",
+        "point_name": "天ヶ瀬ダム上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.827925,
+          34.880847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsxumewab_1719657463022.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsxumewab",
+        "point_name": "天ヶ瀬ダム 管理用通路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.826353,
+          34.880457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsxvm2b2j_1719657582660.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsxvm2b2j",
+        "point_name": "天ヶ瀬ダム 乗入禁止標識前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.82991,
+          34.882129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsznt3bc8_1719658478401.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsznt3bc8",
+        "point_name": "天ヶ瀬ダム 天ヶ瀬森林公園 駐車場",
+        "remark": "https://maps.app.goo.gl/ehS5Xch3CecNyTpe6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828008,
+          34.880826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lszjv7b4c_1719844281709.jpg",
+        "location": "天濑水坝",
+        "point_id": "lszjv7b4c",
+        "point_name": "天ヶ瀬ダム 堤体内部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.828478,
+          34.880708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 35,
+        "image_url": "https://w.junreimap.com/images/points/390794/lszgib7d8_1719657975556.jpg",
+        "location": "天濑水坝",
+        "point_id": "lszgib7d8",
+        "point_name": "天ヶ瀬ダム 鳳凰湖",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.825989,
+          34.880243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsy0l5y6w_1719658536651.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsy0l5y6w",
+        "point_name": "天ヶ瀬ダム 駐車場",
+        "remark": "路南侧。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.822296,
+          34.881102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsy3f8z1j_1719658685380.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsy3f8z1j",
+        "point_name": "京都府道3号（宇治川ライン）",
+        "remark": "道路左侧有一段只有一条横杆的护栏。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.822101,
+          34.880886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsy52e9qg_1719658822881.jpg",
+        "location": "天濑水坝",
+        "point_id": "lsy52e9qg",
+        "point_name": "弑逆桔梗-过渡期的御灵设置地",
+        "remark": "位于道路左侧护栏尽头。现实中此处并没有空置神龛。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.6389,
+          34.986882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrrbu4peg_1719585162543.jpg",
+        "location": "首冢大明神",
+        "point_id": "lrrbu4peg",
+        "point_name": "首塚大明神 鳥居",
+        "remark": "首冢大明神位于小丘之上，此处为小丘下的入口鸟居。首冢前还有两个鸟居。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.742614,
+          34.999681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrrar0pzp_1719585182425.jpg",
+        "location": "",
+        "point_id": "lrrar0pzp",
+        "point_name": "壬生温泉 はなの湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.639428,
+          34.987159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrrdm0989_1719585284718.jpg",
+        "location": "首冢大明神",
+        "point_id": "lrrdm0989",
+        "point_name": "首塚大明神 本殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.638901,
+          34.986781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsntv7a7l_1719633230028.jpg",
+        "location": "首冢大明神",
+        "point_id": "lsntv7a7l",
+        "point_name": "弑逆桔梗-斋弄枭首魔设置地",
+        "remark": "位于首冢大明神入口附近。毕业生被设置在入口鸟居和石碑右侧的石壁中。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.636676,
+          34.988965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrro0jjg0_1719585455397.jpg",
+        "location": "首冢大明神",
+        "point_id": "lrro0jjg0",
+        "point_name": "首塚大明神 老ノ坂廃モーテル",
+        "remark": "位于首冢大明神附近山道上的废弃汽车旅馆，又被称作「9号廃モーテル」「殺人モーテル」。根据路旁的灯，店名应为「モーテルサンリバー」。开业时间在1976年~1982年之间，停业时间在2000年左右。据传曾发生过女性被杀的案件。https://maps.app.goo.gl/zS8YEXCeVr3vmDCJ8。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.745441,
+          35.030091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvg9ypqv_1719658889747.jpg",
+        "location": "ゲストハウス糸屋",
+        "point_id": "lsvg9ypqv",
+        "point_name": "ゲストハウス糸屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.745341,
+          35.030101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt03etedb_1719659466968.jpg",
+        "location": "ゲストハウス糸屋",
+        "point_id": "lt03etedb",
+        "point_name": "ゲストハウス糸屋 フリースペース",
+        "remark": "https://kyoto-itoya.com/room/index.html#free"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.745323,
+          35.030102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt050zpcs_1719659472115.jpg",
+        "location": "ゲストハウス糸屋",
+        "point_id": "lt050zpcs",
+        "point_name": "ゲストハウス糸屋 フリースペース",
+        "remark": "https://kyoto-itoya.com/room/index.html#free"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.745346,
+          35.030081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/lszxpfip8_1719659067830.jpg",
+        "location": "ゲストハウス糸屋",
+        "point_id": "lszxpfip8",
+        "point_name": "ゲストハウス糸屋 共用キッチン",
+        "remark": "https://kyoto-itoya.com/room/index.html#kit"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.745412,
+          35.030103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt0dnl5sk_1719659939564.jpg",
+        "location": "ゲストハウス糸屋",
+        "point_id": "lt0dnl5sk",
+        "point_name": "ゲストハウス糸屋 和室",
+        "remark": "https://kyoto-itoya.com/room/index.html#triple2，主角门居住的疑似为二楼的和室4。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.746036,
+          35.028692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvmheevi_1719660155324.jpg",
+        "location": "",
+        "point_id": "lsvmheevi",
+        "point_name": "コンセプトセイガンジーminiコインパーキング駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.63671,
+          34.989017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 39,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls29k3hpw_1719585816715.jpg",
+        "location": "首冢大明神",
+        "point_id": "ls29k3hpw",
+        "point_name": "老ノ坂廃モーテル",
+        "remark": "https://maps.app.goo.gl/NwQyz2MBAovtyz4f8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.639442,
+          34.98709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 40,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls2n6j5ob_1719586590121.jpg",
+        "location": "首冢大明神",
+        "point_id": "ls2n6j5ob",
+        "point_name": "首塚大明神 首塚",
+        "remark": "本殿后方围栏中为埋葬酒吞童子头颅之地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.639498,
+          34.987241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 40,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls2nf3aaw_1719586851209.jpg",
+        "location": "首冢大明神",
+        "point_id": "ls2nf3aaw",
+        "point_name": "首塚大明神 社務所",
+        "remark": "首冢大明神所在的小丘上的建筑，一般是无人的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.777223,
+          35.051423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 40,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrzm7sbpf_1719584857073.jpg",
+        "location": "",
+        "point_id": "lrzm7sbpf",
+        "point_name": "京都ノーザンチャーチ北山教会",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.639387,
+          34.987234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 40,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls2n7i968_1719586791597.jpg",
+        "location": "首冢大明神",
+        "point_id": "ls2n7i968",
+        "point_name": "首塚大明神",
+        "remark": "首冢大明神鸟居旁的树，树皮开裂，内部碳化。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.742779,
+          35.029894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrs71evf7_1719587080144.jpg",
+        "location": "",
+        "point_id": "lrs71evf7",
+        "point_name": "セブンイレブン 京都千本今出川店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.742644,
+          35.029813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrs71evf7_1719587014782.jpg",
+        "location": "",
+        "point_id": "lrs789dqp",
+        "point_name": "付近観光案内図",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751028,
+          35.028418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvkx4i72_1719660003894.jpg",
+        "location": "",
+        "point_id": "lsvkx4i72",
+        "point_name": "元誓願寺通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751803,
+          35.027719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrsah9g77_1719587122332.jpg",
+        "location": "晴明神社",
+        "point_id": "lrsah9g77",
+        "point_name": "晴明神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751599,
+          35.027699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsrrz711e_1719641238519.jpg",
+        "location": "晴明神社",
+        "point_id": "lsrrz711e",
+        "point_name": "晴明神社 旧·一條戻橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75165,
+          35.027733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrsckgvm9_1719587237967.jpg",
+        "location": "晴明神社",
+        "point_id": "lrsckgvm9",
+        "point_name": "晴明神社 日月柱",
+        "remark": "2012年设立。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751097,
+          35.027761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrsd3r0pv_1719587242003.jpg",
+        "location": "晴明神社",
+        "point_id": "lrsd3r0pv",
+        "point_name": "晴明神社 本殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751322,
+          35.027746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsrquix4q_1719641152751.jpg",
+        "location": "晴明神社",
+        "point_id": "lsrquix4q",
+        "point_name": "晴明神社 四神門内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751324,
+          35.027798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsritmdpl_1719640909859.jpg",
+        "location": "晴明神社",
+        "point_id": "lsritmdpl",
+        "point_name": "晴明神社 手水舎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751115,
+          35.027719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsra1md73_1719641115783.jpg",
+        "location": "晴明神社",
+        "point_id": "lsra1md73",
+        "point_name": "晴明神社 桔梗苑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75136,
+          35.027796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsra1md73_1719640895278.jpg",
+        "location": "晴明神社",
+        "point_id": "lsrisz3w2",
+        "point_name": "晴明神社 晴明井",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.683644,
+          34.901267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls30rv7hb_1719587619012.jpg",
+        "location": "天王山",
+        "point_id": "ls30rv7hb",
+        "point_name": "天王山トンネル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.682761,
+          34.896934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsrstm1jr_1719641270412.jpg",
+        "location": "天王山",
+        "point_id": "lsrstm1jr",
+        "point_name": "天王山登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.683113,
+          34.89671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls3atx0pd_1719587986618.jpg",
+        "location": "天王山",
+        "point_id": "ls3atx0pd",
+        "point_name": "天王山登山口石標",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.678579,
+          34.89834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls323p7u5_1719587719928.jpg",
+        "location": "天王山",
+        "point_id": "ls323p7u5",
+        "point_name": "天王山トンネル内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.682418,
+          34.89705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsnruoj4s_1719632496048.jpg",
+        "location": "天王山",
+        "point_id": "lsnruoj4s",
+        "point_name": "弑逆桔梗-邪经文大僧正设置地",
+        "remark": "位于天王山登山道，稻荷社一侧的路上。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751568,
+          35.027793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsrjyeam1_1719640847521.jpg",
+        "location": "晴明神社",
+        "point_id": "lsrjyeam1",
+        "point_name": "晴明神社 月の柱 & ベンチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741064,
+          35.041116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvnwfg89_1719660215620.jpg",
+        "location": "船冈山公园",
+        "point_id": "lsvnwfg89",
+        "point_name": "船岡山公園入り口前交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741096,
+          35.041003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrskrrnmh_1719588226190.jpg",
+        "location": "船冈山公园",
+        "point_id": "lrskrrnmh",
+        "point_name": "船岡山公園 北大路通入口",
+        "remark": "右侧写着「史跡 船岡山公園」的石碑已被拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741218,
+          35.040198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls3hm7psk_1719593155471.jpg",
+        "location": "船冈山公园",
+        "point_id": "lrsztdmm9",
+        "point_name": "船岡山公園 広場前入口内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.74205,
+          35.039669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrsnu2plo_1719593203417.jpg",
+        "location": "船冈山公园",
+        "point_id": "lrsnu2plo",
+        "point_name": "船岡山公園 野外ステージ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.74163,
+          35.039016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls5q8yqzx_1719593422118.jpg",
+        "location": "船冈山公园",
+        "point_id": "ls5q8yqzx",
+        "point_name": "船岡山公園 山頂広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.74174,
+          35.039051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrsp2dt2t_1719593507204.jpg",
+        "location": "船冈山公园",
+        "point_id": "lrsp2dt2t",
+        "point_name": "船岡山公園 サイレン塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.742785,
+          35.039275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 43,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrstfyyuf_1719593572432.jpg",
+        "location": "船冈山公园",
+        "point_id": "lrstfyyuf",
+        "point_name": "船岡山公園 ベンチ",
+        "remark": "https://maps.app.goo.gl/p3REhEhvtMXChPDo9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.74206,
+          35.038922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 43,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrswivwrn_1719593623078.jpg",
+        "location": "船冈山公园",
+        "point_id": "lrswivwrn",
+        "point_name": "船岡山公園 あずまや",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751834,
+          35.048358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 44,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrsy2swfp_1719593670788.jpg",
+        "location": "",
+        "point_id": "lrsy2swfp",
+        "point_name": "京都府北警察署",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.742573,
+          35.040498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls3hm7psk_1719593752894.jpg",
+        "location": "船冈山公园",
+        "point_id": "ls3hm7psk",
+        "point_name": "船岡山公園 船岡北通入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741251,
+          35.040837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls5zgh5w4_1719661729285.jpg",
+        "location": "船冈山公园",
+        "point_id": "ls5zgh5w4",
+        "point_name": "船岡山公園 北大路通入口内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741137,
+          35.04092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lt14ezy2p_1719661732815.jpg",
+        "location": "船冈山公园",
+        "point_id": "lt14ezy2p",
+        "point_name": "弑逆桔梗-千魂华严自刃童子设置地",
+        "remark": "位于船冈山公园北大路通入口内侧的下水道盖板之下。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.729653,
+          35.040181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrt3eebax_1719593991764.jpg",
+        "location": "金阁寺",
+        "point_id": "lrt3eebax",
+        "point_name": "金閣寺不動釜茶所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.728389,
+          35.039503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrt2ekwjq_1719593935332.jpg",
+        "location": "金阁寺",
+        "point_id": "lrt2ekwjq",
+        "point_name": "金閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.731872,
+          35.039262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrt7f58q9_1719594080975.jpg",
+        "location": "金阁寺",
+        "point_id": "lrt7f58q9",
+        "point_name": "金閣寺入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.731136,
+          35.039293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrt7f58q9_1719594040272.jpg",
+        "location": "金阁寺",
+        "point_id": "lrt6sosic",
+        "point_name": "豆政 金閣寺境内売店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741082,
+          35.0403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvsockbd_1719660286248.jpg",
+        "location": "船冈山公园",
+        "point_id": "lsvsockbd",
+        "point_name": "船岡山公園 駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.837424,
+          34.991593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrt9mujk6_1719596678538.jpg",
+        "location": "国道1号",
+        "point_id": "lrt9mujk6",
+        "point_name": "京阪電車 追分駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.841876,
+          34.990273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrtcxflb7_1719596703655.jpg",
+        "location": "国道1号",
+        "point_id": "lrtcxflb7",
+        "point_name": "国道1号 名神高速道路追分橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.842843,
+          34.990031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 45,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls7c54win_1719596766535.jpg",
+        "location": "国道1号",
+        "point_id": "ls7c54win",
+        "point_name": "国道1号 ファースト​リネン​サプライ​追分​工場附近駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.844784,
+          34.990939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrtrl45wz_1719594685263.jpg",
+        "location": "国道1号",
+        "point_id": "lrtrl45wz",
+        "point_name": "国道1号南侧民宅",
+        "remark": "https://maps.app.goo.gl/h8a5EwJbGyQjT9du6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.844399,
+          34.990832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrtt0ubs3_1719594688873.jpg",
+        "location": "国道1号",
+        "point_id": "lrtt0ubs3",
+        "point_name": "国道1号南侧民宅",
+        "remark": "https://maps.app.goo.gl/bwjJ1CDWZcfWzSSs6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.845502,
+          34.991113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrtr1xsw5_1719594695049.jpg",
+        "location": "国道1号",
+        "point_id": "lrtr1xsw5",
+        "point_name": "国道1号",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.849366,
+          34.992299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrtfesi23_1719594655051.jpg",
+        "location": "国道1号",
+        "point_id": "lrtfesi23",
+        "point_name": "国道1号 月心寺",
+        "remark": "作品中名为「日照寺」。寺庙内场景与现实中的月心寺不一致。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.852398,
+          34.994053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrthdxgw5_1719569589310.jpg",
+        "location": "国道1号",
+        "point_id": "lrthdxgw5",
+        "point_name": "国道1号南侧民宅（即身佛之家）",
+        "remark": "作品中被设定为隐藏即身佛的废屋，现实中应该只是普通民宅。https://maps.app.goo.gl/3vnXSX5k3JrePSdC6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798254,
+          35.026879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 46,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsnekanvi_1719633680399.jpg",
+        "location": "",
+        "point_id": "lsnekanvi",
+        "point_name": "東山慈照寺",
+        "remark": "疑为作品中东照寺的原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.849222,
+          34.992223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 48,
+        "image_url": "https://w.junreimap.com/images/points/390794/lruy47lvb_1719569753549.jpg",
+        "location": "国道1号",
+        "point_id": "lruy47lvb",
+        "point_name": "国道1号 月心寺前",
+        "remark": "面朝东。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.846992,
+          34.991483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 48,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrurqk9xe_1719569431255.jpg",
+        "location": "国道1号",
+        "point_id": "lrurqk9xe",
+        "point_name": "国道1号",
+        "remark": "面朝南，两个高台之间。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.848738,
+          34.992024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 49,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrubfardt_1719569825525.jpg",
+        "location": "国道1号",
+        "point_id": "lrubfardt",
+        "point_name": "国道1号",
+        "remark": "面朝西，左侧可以看到村松石材的建筑。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.844168,
+          34.990718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 49,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsp0zp9yh_1719635517640.jpg",
+        "location": "国道1号",
+        "point_id": "lsp0zp9yh",
+        "point_name": "国道1号 看板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.849045,
+          34.992106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 49,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrueuq287_1719569882904.jpg",
+        "location": "国道1号",
+        "point_id": "lrueuq287",
+        "point_name": "国道1号",
+        "remark": "面朝北。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.841275,
+          34.989284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsmqc5un1_1719630467552.jpg",
+        "location": "国道1号",
+        "point_id": "lsmqc5un1",
+        "point_name": "弑逆桔梗-月蚀尽绝黑阿修罗设置地",
+        "remark": "可能为附近工厂堆积石材之地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.935307,
+          34.664501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrziztpjj_1719582634050.jpg",
+        "location": "",
+        "point_id": "lrziztpjj",
+        "point_name": "岡山城",
+        "remark": "夺舍众据点原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.815831,
+          34.959142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrzul459e_1719582236980.jpg",
+        "location": "",
+        "point_id": "lrzul459e",
+        "point_name": "隨心院",
+        "remark": "阇弥弥子据点原型。图中前方大门为薬医門，后方阴影中为大玄関。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.835322,
+          35.60034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrzrg4vrp_1719582421149.jpg",
+        "location": "",
+        "point_id": "lrzrg4vrp",
+        "point_name": "若狭湾",
+        "remark": "后记中称为「弥生时代京都日本海某地」，实际地点是福井县北部，可以看到若狭湾的支湾世久见湾、矢代湾，以及远处的久須夜ヶ岳。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759433,
+          34.987524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 51,
+        "image_url": "https://w.junreimap.com/images/points/390794/lrv1bttd5_1719592811330.jpg",
+        "location": "京都站周边",
+        "point_id": "lrv1bttd5",
+        "point_name": "京都タワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763266,
+          35.021996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 52,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls1pwuin5_1719597560327.jpg",
+        "location": "京都御所",
+        "point_id": "ls1pwuin5",
+        "point_name": "京都御所",
+        "remark": "1331年光严天皇将此地作为居所之后到1869年日本天皇迁往东京之前，此地为历代天皇的居住地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763136,
+          35.017393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 52,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls1q3r3hq_1719597652800.jpg",
+        "location": "京都御所",
+        "point_id": "ls1q3r3hq",
+        "point_name": "京都御所 堺町御門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763249,
+          35.017581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 52,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls7mjfmmx_1719597733026.jpg",
+        "location": "京都御所",
+        "point_id": "ls7mjfmmx",
+        "point_name": "京都御所 堺町御門 京都御苑の看板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.761351,
+          35.01745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 52,
+        "image_url": "https://w.junreimap.com/images/points/390794/ls7m2483e_1719597736482.jpg",
+        "location": "京都御所",
+        "point_id": "ls7m2483e",
+        "point_name": "京都御所 間之町口 京都御苑の看板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75688,
+          35.017377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsk9kevt8_1719625630603.jpg",
+        "location": "京都御所附近道路",
+        "point_id": "lsk9kevt8",
+        "point_name": "丸太町通",
+        "remark": "プールトゥジュール波多野前。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.752961,
+          35.016181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvvpy2u3_1719661127130.jpg",
+        "location": "京都御所附近道路",
+        "point_id": "lsvvpy2u3",
+        "point_name": "竹屋町通",
+        "remark": "油小路西入西竹屋町507前。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.750116,
+          35.015749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvxfxlpj_1719661149396.jpg",
+        "location": "京都御所附近道路",
+        "point_id": "lsvxfxlpj",
+        "point_name": "竹屋町通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751317,
+          35.015778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvxymn5j_1719661168083.jpg",
+        "location": "京都御所附近道路",
+        "point_id": "lsvxymn5j",
+        "point_name": "竹屋町通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.747495,
+          35.015932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvwi71r9_1719661157925.jpg",
+        "location": "京都御所附近道路",
+        "point_id": "lsvwi71r9",
+        "point_name": "竹屋町通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.750014,
+          35.015835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 55,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvx54qnm_1719661164872.jpg",
+        "location": "京都御所附近道路",
+        "point_id": "lsvx54qnm",
+        "point_name": "竹屋町通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.243534,
+          34.435916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 55,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsoe4zwxb_1719633902934.jpg",
+        "location": "关西机场",
+        "point_id": "lsoe4zwxb",
+        "point_name": "関西空港駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.732138,
+          34.997372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 55,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsrx8a6ok_1719641550658.jpg",
+        "location": "西大路通",
+        "point_id": "lsrx8a6ok",
+        "point_name": "西大路通",
+        "remark": "安田内科医院前。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.638908,
+          34.98686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 55,
+        "image_url": "https://w.junreimap.com/images/points/390794/lso8i76aa_1719633526112.jpg",
+        "location": "首冢大明神",
+        "point_id": "lso8i76aa",
+        "point_name": "首塚大明神 鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741692,
+          35.039873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 56,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvyxq073_1719661274339.jpg",
+        "location": "船冈山公园",
+        "point_id": "lsvyxq073",
+        "point_name": "船岡山公園 広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.741884,
+          35.039755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 57,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsvyxq073_1719661212314.jpg",
+        "location": "船冈山公园",
+        "point_id": "lsvz7r60l",
+        "point_name": "船岡山公園 広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.76215,
+          35.019776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 58,
+        "image_url": "https://w.junreimap.com/images/points/390794/lssdas77v_1719643962073.jpg",
+        "location": "京都御所",
+        "point_id": "lssdas77v",
+        "point_name": "京都御所 建礼門前苑路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763128,
+          35.018278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 60,
+        "image_url": "https://w.junreimap.com/images/points/390794/lssdtqbfn_1719643113608.jpg",
+        "location": "京都御所",
+        "point_id": "lssdtqbfn",
+        "point_name": "京都御所 堺町御門内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.760497,
+          35.023381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 60,
+        "image_url": "https://w.junreimap.com/images/points/390794/lss74bcio_1719643701430.jpg",
+        "location": "京都御所",
+        "point_id": "lss74bcio",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.763793,
+          35.019626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 61,
+        "image_url": "https://w.junreimap.com/images/points/390794/lssef316x_1719643801463.jpg",
+        "location": "京都御所",
+        "point_id": "lssef316x",
+        "point_name": 181,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.761419,
+          35.021695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 61,
+        "image_url": "https://w.junreimap.com/images/points/390794/lsssbao79_1719643490043.jpg",
+        "location": "京都御所",
+        "point_id": "lsssbao79",
+        "point_name": "京都御所 白雲神社付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767288,
+          35.016952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 62,
+        "image_url": "https://w.junreimap.com/images/points/390794/ly3dh2oap_1720058363121.jpg",
+        "location": "下御灵神社",
+        "point_id": "ly3dh2oap",
+        "point_name": "寺町通 下御霊神社前",
+        "remark": "倒下的是路东侧的电线杆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767288,
+          35.016945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 62,
+        "image_url": "https://w.junreimap.com/images/points/390794/ly3flcq8z_1720058405893.jpg",
+        "location": "下御灵神社",
+        "point_id": "ly3flcq8z",
+        "point_name": "寺町通 下御霊神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762916,
+          35.687153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 63,
+        "image_url": "https://w.junreimap.com/images/points/390794/mu2b4ldfd_1722563660530.jpg",
+        "location": "将门冢",
+        "point_id": "mu2b4ldfd",
+        "point_name": "Otemachi One タワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.054489,
+          34.779171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 63,
+        "image_url": "https://w.junreimap.com/images/points/390794/mu2g3ic35_1722563961673.jpg",
+        "location": "兵庫耐震工学研究センター",
+        "point_id": "mu2g3ic35",
+        "point_name": "国立研究開発法人 防災科学技術研究所 兵庫耐震工学研究センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772737,
+          34.98167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 64,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8utaot8y_1746291804978.jpg",
+        "location": "京都第一赤十字病院",
+        "point_id": "v8utaot8y",
+        "point_name": "京都第一赤十字病院",
+        "remark": "僧人西净入住的医院。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772274,
+          35.032164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 65,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8twbueuj_1746289775459.jpg",
+        "location": "神代家",
+        "point_id": "v8twbueuj",
+        "point_name": "神代家",
+        "remark": "现实原型为旧三井家下鴨別邸。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772102,
+          35.032019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 65,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8tztunw8_1746289861114.jpg",
+        "location": "神代家",
+        "point_id": "v8tztunw8",
+        "point_name": "神代家",
+        "remark": "https://maps.app.goo.gl/1vbK1fbMMULLQEWX9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771849,
+          35.031488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 65,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8sycbq0j_1746289799851.jpg",
+        "location": "神代家",
+        "point_id": "v8sycbq0j",
+        "point_name": "神代家",
+        "remark": "现实原型为旧三井家下鴨別邸。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771757,
+          35.031696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 65,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8u246ujr_1746290008836.jpg",
+        "location": "神代家",
+        "point_id": "v8u246ujr",
+        "point_name": "神代家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.891715,
+          13.434867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/pmt8tkuu8_1730458800881.jpg",
+        "location": "塔布茏寺",
+        "point_id": "pmt8tkuu8",
+        "point_name": "តាព្រហ្ម",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772154,
+          35.03191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8uh0l860_1746290902009.jpg",
+        "location": "神代家",
+        "point_id": "v8uh0l860",
+        "point_name": "神代家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772117,
+          35.031913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8uihi4yr_1746290981388.jpg",
+        "location": "神代家",
+        "point_id": "v8uihi4yr",
+        "point_name": "神代家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772977,
+          35.038384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/pmtdzuur3_1730458997381.jpg",
+        "location": "下鸭神社",
+        "point_id": "pmtdzuur3",
+        "point_name": "下鴨神社 楼門",
+        "remark": "漫画中为下贺茂神社。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.773404,
+          35.039113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/pmvx55ykr_1730464501440.jpg",
+        "location": "下鸭神社",
+        "point_id": "pmvx55ykr",
+        "point_name": "下鴨神社 御手洗池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.773391,
+          35.03895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/pmvxzkvxf_1730464541060.jpg",
+        "location": "下鸭神社",
+        "point_id": "pmvxzkvxf",
+        "point_name": "下鴨神社 御手洗池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.751136,
+          35.02773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8ump74dc_1746291352179.jpg",
+        "location": "晴明神社",
+        "point_id": "v8ump74dc",
+        "point_name": "晴明神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772193,
+          35.008197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/pmxog2bvg_1730468313203.jpg",
+        "location": "三条大桥",
+        "point_id": "pmxog2bvg",
+        "point_name": "三条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771702,
+          35.009042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8uprz7pp_1746291428813.jpg",
+        "location": "三条大桥",
+        "point_id": "v8uprz7pp",
+        "point_name": "三条大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.755691,
+          34.981948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8v0ommcg_1746292120876.jpg",
+        "location": "京都站周边",
+        "point_id": "v8v0ommcg",
+        "point_name": "ニッポンレンタカー新幹線京都駅八条口 営業所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.745609,
+          34.95541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8v7qy8ov_1746292521459.jpg",
+        "location": "鸟羽大桥",
+        "point_id": "v8v7qy8ov",
+        "point_name": "鳥羽大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.288709,
+          35.315077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 67,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8vbwdbhj_1746292782061.jpg",
+        "location": "滋贺",
+        "point_id": "v8vbwdbhj",
+        "point_name": "東横INN米原駅新幹線西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.311391,
+          35.352169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 67,
+        "image_url": "https://w.junreimap.com/images/points/277134/v8vf3di84_1746292967075.jpg",
+        "location": "滋贺",
+        "point_id": "v8vf3di84",
+        "point_name": "東海道新幹線脱線事故",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621607,
+          35.673006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 67,
+        "image_url": "https://w.junreimap.com/images/points/277134/v9a2vkps6_1746325101253.jpg",
+        "location": "高井戸インター",
+        "point_id": "v9a2vkps6",
+        "point_name": "首都高4号新宿線下り「高井戸インター」出口",
+        "remark": "这个招牌应该只有从东京驶入首都高4号新宿线向西前进才能看到，与主角一行人从京都返回东京的方向相反。\nhttps://maps.app.goo.gl/UUmwQPq662Dpezmu7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.607367,
+          35.626456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 67,
+        "image_url": "https://w.junreimap.com/images/points/277134/v9aju5unb_1746325922400.jpg",
+        "location": "東名高速",
+        "point_id": "v9aju5unb",
+        "point_name": "東名高速上り出口まで1.2km標識",
+        "remark": "https://maps.app.goo.gl/q4LSddjUgvZAQNio6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710875,
+          35.96567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 67,
+        "image_url": "https://w.junreimap.com/images/points/277134/v9avx6ylr_1746326642895.jpg",
+        "location": "Cafeレストランガスト 東岩槻​店​",
+        "point_id": "v9avx6ylr",
+        "point_name": "Cafeレストランガスト 東岩槻​店​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715834,
+          35.985941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 67,
+        "image_url": "https://w.junreimap.com/images/points/277134/v9axuie6h_1746326749277.jpg",
+        "location": "岩槻光輪浄苑",
+        "point_id": "v9axuie6h",
+        "point_name": "岩槻光輪浄苑",
+        "remark": "宝月家墓地所在地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.271652,
+          35.821165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 277134,
+        "bangumi_title": "黑暗集会",
+        "ep_cut": 80,
+        "image_url": "https://w.junreimap.com/images/points/277134/f50ycfm_1779966059582.jpg",
+        "location": "荒田峠",
+        "point_id": "f50ycfm",
+        "point_name": "青梅市荒田峠",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

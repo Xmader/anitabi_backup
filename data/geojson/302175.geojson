@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.675416,
+          35.738015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302175,
+        "bangumi_title": "飞女刑事",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/302175/points/v7rwl0pah-1746207156366.jpg",
+        "location": "",
+        "point_id": "v7rwl0pah",
+        "point_name": "日本大学藝術学部　江古田キャンパス",
+        "remark": "鹰之羽学园所在地，原址已经被拆了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.667283,
+          35.739285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302175,
+        "bangumi_title": "飞女刑事",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/302175/points/v7s28n73m-1746207431998.jpg",
+        "location": "",
+        "point_id": "v7s28n73m",
+        "point_name": "桜台陸橋",
+        "remark": "女番长跳桥的地方"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

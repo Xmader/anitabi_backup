@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.701523,
+          35.65837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7tul78_1782312298170.webp",
+        "location": "",
+        "point_id": "g7tul78",
+        "point_name": "渋谷駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700017,
+          35.659549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7ufhdh_1782313269006.webp",
+        "location": "",
+        "point_id": "g7ufhdh",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": "远处可以看道涩谷109和优衣库的招牌。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701322,
+          35.660361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7t7ww2_1782313445899.webp",
+        "location": "",
+        "point_id": "g7t7ww2",
+        "point_name": "ES21 渋谷駅ハチ公口自転車駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698321,
+          35.693657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7vipvt_1782315183411.webp",
+        "location": "",
+        "point_id": "g7vipvt",
+        "point_name": "新宿大ガード西",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.505791,
+          34.651116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7p918x_1782316155480.webp",
+        "location": "",
+        "point_id": "g7p918x",
+        "point_name": "新世界",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.50154,
+          34.668747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7w971u_1782316321592.webp",
+        "location": "",
+        "point_id": "g7w971u",
+        "point_name": "かに道楽本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.501813,
+          34.668712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/336489/g7owtpd_1782316376061.webp",
+        "location": "",
+        "point_id": "g7owtpd",
+        "point_name": "道頓堀",
+        "remark": "由似和风羽子接吻的地方。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761903,
+          35.713359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "g7q1iqg",
+        "point_name": "安田講堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700446,
+          35.659453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 336489,
+        "bangumi_title": "谁叫她今天不在身边",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "g7q8klm",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

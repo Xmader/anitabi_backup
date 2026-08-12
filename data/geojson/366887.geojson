@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.914266,
+          36.85365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366887,
+        "bangumi_title": "雪国",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "h4hpbwj",
+        "point_name": "清水トンネル",
+        "remark": "穿过县界长长的隧道，便是雪国\n\n仍有JR上越线通行，而乘坐上越新干线从东京前往新潟，实际通过的会是1982年开通、更长的大清水隧道"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

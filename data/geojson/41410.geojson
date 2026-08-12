@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.745359,
+          35.658568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 41410,
+        "bangumi_title": "誓血龙骑士",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/41410/points/2q4avnf-1752943326239.jpg",
+        "location": "",
+        "point_id": "2q4avnf",
+        "point_name": "東京タワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

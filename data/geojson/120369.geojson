@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.457276,
+          41.90217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 120369,
+        "bangumi_title": "黑塔利亚 第6期",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/120369/points/nrf7kyepg-1725177843569.jpg",
+        "location": "",
+        "point_id": "nrf7kyepg",
+        "point_name": "Piazza San Pietro",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

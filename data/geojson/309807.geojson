@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.792016,
+          35.651861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309807,
+        "bangumi_title": "偶像大师 百万现场！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309807/points/q2ztp6ewi-1731726920395.jpg",
+        "location": "江東区",
+        "point_id": "q2ztp6ewi",
+        "point_name": "765ライブシアター",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

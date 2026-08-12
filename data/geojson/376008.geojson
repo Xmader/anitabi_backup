@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.602813,
+          35.453982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376008,
+        "bangumi_title": "佐佐木与宫野 剧场版 毕业篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/376008/mp2kxecsx_1722172385934.jpg",
+        "location": "",
+        "point_id": "mp2kxecsx",
+        "point_name": "天王町駅構内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.4778,
+          35.468059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376008,
+        "bangumi_title": "佐佐木与宫野 剧场版 毕业篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/376008/mp2mhejew_1722172486677.jpg",
+        "location": "",
+        "point_id": "mp2mhejew",
+        "point_name": "橋戸北第二公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477825,
+          35.467966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376008,
+        "bangumi_title": "佐佐木与宫野 剧场版 毕业篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/376008/mp2n84zux_1722172545852.jpg",
+        "location": "",
+        "point_id": "mp2n84zux",
+        "point_name": "橋戸北第二公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

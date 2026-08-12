@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.381764,
+          23.037132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432932,
+        "bangumi_title": "谷围南亭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432932/points/ce64sz5-1773988603425.jpg",
+        "location": "",
+        "point_id": "ce64sz5",
+        "point_name": "南亭村牌坊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.377635,
+          23.038615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432932,
+        "bangumi_title": "谷围南亭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432932/points/ey4rc9l-1779549189467.jpg",
+        "location": "",
+        "point_id": "ey4rc9l",
+        "point_name": "广州美术学院（大学城校区）正门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.378021,
+          23.038954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432932,
+        "bangumi_title": "谷围南亭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432932/points/ey4vctd-1779549371798.jpg",
+        "location": "",
+        "point_id": "ey4vctd",
+        "point_name": "广州美术学院（大学城校区）正门大楼梯",
+        "remark": "此处为广州美术学院楼梯上方，向东眺望南亭村"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.381807,
+          23.037686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432932,
+        "bangumi_title": "谷围南亭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432932/points/ey4z7zg-1779549533005.jpg",
+        "location": "",
+        "point_id": "ey4z7zg",
+        "point_name": "南亭村南亭大道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.382973,
+          23.039606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432932,
+        "bangumi_title": "谷围南亭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432932/points/ey5a53l-1779550092605.jpg",
+        "location": "",
+        "point_id": "ey5a53l",
+        "point_name": "南亭村南亭商业街",
+        "remark": "动画中的店铺与现实差异较大，但商业街棚顶的补丁清晰可见，且与现实中商业街改造前相似"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.382685,
+          23.039798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 432932,
+        "bangumi_title": "谷围南亭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/432932/points/ey5i4o5-1779550413907.jpg",
+        "location": "",
+        "point_id": "ey5i4o5",
+        "point_name": "南亭村南亭商业街",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.133616,
+          51.48019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43558,
+        "bangumi_title": "JOJO的奇妙冒险",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/43558/points/nrtz0x8a6-1725209879154.jpg",
+        "location": "",
+        "point_id": "nrtz0x8a6",
+        "point_name": "Ponton Rd",
+        "remark": "具体位置不详，大体位于伦敦南岸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.66747,
+          50.895945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43558,
+        "bangumi_title": "JOJO的奇妙冒险",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/43558/points/nru8cu78n-1725210439773.jpg",
+        "location": "",
+        "point_id": "nru8cu78n",
+        "point_name": "乔家大院",
+        "remark": "通过比对漫画与动漫中的细节，例如大乔去伦敦来回路程不过四天，零乔经商坐拥别墅应当靠近海岸。原作中提到乔家大院位于英国南部等得出大致位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.335937,
+          45.438045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43558,
+        "bangumi_title": "JOJO的奇妙冒险",
+        "ep_cut": "16集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/43558/points/bkp38zn-1772206521165.jpg",
+        "location": "",
+        "point_id": "bkp38zn",
+        "point_name": "Ponte di Rialto",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

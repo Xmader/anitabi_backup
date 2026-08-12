@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.605066,
+          35.5091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47764,
+        "bangumi_title": "足球小将GOAL!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/47764/points/gf31a5f-1782751231466.webp",
+        "location": "",
+        "point_id": "gf31a5f",
+        "point_name": "日産スタジアム(横浜インターナションナル スタジアム)",
+        "remark": "Road to 2002篇日本vs巴西比赛场地(现实是巴西vs德国的决赛场地)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606232,
+          35.50992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 47764,
+        "bangumi_title": "足球小将GOAL!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/47764/gf3i0c9_1782751760524.webp",
+        "location": "",
+        "point_id": "gf3i0c9",
+        "point_name": "日産スタジアム(横浜インターナションナル スタジアム)",
+        "remark": "Road to 2002篇日本vs巴西比赛场地(现实是巴西vs德国的决赛场地)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

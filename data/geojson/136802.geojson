@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          8.682156,
+          50.108063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/skll0ze8x-1738748753256.jpg",
+        "location": "",
+        "point_id": "skll0ze8x",
+        "point_name": "Eiserner Steg",
+        "remark": "rpk16被追杀的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.682123,
+          50.110265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/sklycs554-1738749411037.jpg",
+        "location": "",
+        "point_id": "sklycs554",
+        "point_name": "Römerberg",
+        "remark": "特别行动「卷积核」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.737881,
+          59.44061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/skma8v5p4-1738750117809.jpg",
+        "location": "",
+        "point_id": "skma8v5p4",
+        "point_name": "Tallink Ekspress",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.747885,
+          59.441323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/skmlwqfvw-1738750839699.jpg",
+        "location": "",
+        "point_id": "skmlwqfvw",
+        "point_name": "Oleviste kirik",
+        "remark": "裂变链接"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.465942,
+          44.811677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/slg47niwh-1738815087829.jpg",
+        "location": "",
+        "point_id": "slg47niwh",
+        "point_name": "Дом Народне скупштине Републике Србије",
+        "remark": "「异构体」贝尔格莱德 红色污染战区"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.047966,
+          59.351393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/slh2mqku1-1738817203530.jpg",
+        "location": "",
+        "point_id": "slh2mqku1",
+        "point_name": "Paldiski Pöhjasadam",
+        "remark": "「偏振光」潜艇基地\n——95%的格里芬人形深埋于此"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.171354,
+          55.95309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2169/bangumi/136802/points/slpopeupr-1738835893164.jpg",
+        "location": "誓约背景",
+        "point_id": "slpopeupr",
+        "point_name": "Holyrood Abbey",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.515935,
+          44.689115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/6fzevm0-1761037548620.jpg",
+        "location": "",
+        "point_id": "6fzevm0",
+        "point_name": "Споменик Незнаном јунаку",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.451355,
+          44.825108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136802,
+        "bangumi_title": "少女前线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/136802/points/6fzgb6z-1761037606645.jpg",
+        "location": "",
+        "point_id": "6fzgb6z",
+        "point_name": "Зиндан капија",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

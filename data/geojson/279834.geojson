@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -73.923634,
+          40.83581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 279834,
+        "bangumi_title": "小丑",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/279834/points/smp3yzyd6-1738913007325.jpg",
+        "location": "",
+        "point_id": "smp3yzyd6",
+        "point_name": "Joker Stairs",
+        "remark": "小丑楼梯舞"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

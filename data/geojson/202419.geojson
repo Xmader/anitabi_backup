@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.765172,
+          35.671155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202419,
+        "bangumi_title": "Re:CREATORS",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/202419/points/tkyanq3z8-1741597499170.jpg",
+        "location": "",
+        "point_id": "tkyanq3z8",
+        "point_name": "晴海通り",
+        "remark": "最后打阿尔泰尔的位置，这条路是金蝉脱壳的位置。这里还是东京esp的第一集战斗位置，三个人都是食零灵的人物，最右面的人位置在涩谷忠犬八公"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.806359,
+          35.759454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202419,
+        "bangumi_title": "Re:CREATORS",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/202419/points/tkyg84sqr-1741597948326.jpg",
+        "location": "",
+        "point_id": "tkyg84sqr",
+        "point_name": "荒川​千住​新橋​緑地",
+        "remark": "这个位置是两方会战的位置，没能去拍摄实景图，下次给各位补上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579926,
+          35.703617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 202419,
+        "bangumi_title": "Re:CREATORS",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/202419/points/tkyloab60-1741598047486.jpg",
+        "location": "",
+        "point_id": "tkyloab60",
+        "point_name": "吉祥寺商业街人口",
+        "remark": "阿尔泰尔作者自杀的车站，基本贯彻全文的车站"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

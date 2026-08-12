@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.665967,
+          35.706356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467641,
+        "bangumi_title": "魔法光源股份有限公司",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/467641/pp5u2ba74_1730642804646.jpg",
+        "location": "",
+        "point_id": "pp5u2ba74",
+        "point_name": "中野駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665775,
+          35.706261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467641,
+        "bangumi_title": "魔法光源股份有限公司",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/467641/pp5urvxk5_1730642840108.jpg",
+        "location": "",
+        "point_id": "pp5urvxk5",
+        "point_name": "中野駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665775,
+          35.706279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467641,
+        "bangumi_title": "魔法光源股份有限公司",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/467641/pp5v2c51g_1730642855201.jpg",
+        "location": "",
+        "point_id": "pp5v2c51g",
+        "point_name": "中野駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

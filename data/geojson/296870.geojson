@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.631105,
+          34.511821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296870,
+        "bangumi_title": "我们的重制人生",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/296870/points/7cr40vo96-1678890834205.jpg",
+        "location": "",
+        "point_id": "7cr40vo96",
+        "point_name": "大阪芸大",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.626609,
+          34.512951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296870,
+        "bangumi_title": "我们的重制人生",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/296870/points/7cri8cjqy-1678891416511.jpg",
+        "location": "",
+        "point_id": "7cri8cjqy",
+        "point_name": "東山橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.754596,
+          35.671935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5281vi-1719932556071.jpg",
+        "location": "#01-06",
+        "point_id": "51i5281vi",
+        "point_name": "日比谷図書文化舘",
+        "remark": "OP，#01「私はスキをあきらめない」，#02「このみが尽きても許さない」，#03「透明な嵐」，#05「あなたをヒトリジメにしたい」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.754183,
+          35.671818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i528231_1752673748909.jpg",
+        "location": "#01-06",
+        "point_id": "51i528231",
+        "point_name": "日比谷図書文化舘 裏側",
+        "remark": "#01，#02，#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.754036,
+          35.672067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i5282ub_1752673694654.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282ub",
+        "point_name": "日比谷野外大音楽場",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.755564,
+          35.671798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5282ov-1719933225247.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282ov",
+        "point_name": "日比谷公会堂",
+        "remark": "#01，#02，#06「月の娘と森の娘」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.731375,
+          35.723758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5282x0-1720290390369.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282x0",
+        "point_name": "大塚公園 露壇",
+        "remark": "#01，#02，#03，#05，#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.731654,
+          35.724216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i52838s-1719933011532.jpg",
+        "location": "#01-06",
+        "point_id": "51i52838s",
+        "point_name": "大塚公園 大噴水",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751471,
+          35.707771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5282og-1719933488081.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282og",
+        "point_name": "礫川公園 噴水",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751002,
+          35.707756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i5282q5_1752674333413.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282q5",
+        "point_name": "礫川公園 カスケード",
+        "remark": "#01，#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758038,
+          35.702119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i5282zs_1752674208613.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282zs",
+        "point_name": "元町公園 入口階段",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757936,
+          35.702224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i52834v_1752674222654.jpg",
+        "location": "#01-06",
+        "point_id": "51i52834v",
+        "point_name": "元町公園 カスケード",
+        "remark": "#01"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.731333,
+          35.724223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5282j3-1720291458031.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282j3",
+        "point_name": "大塚公園 四阿（きのこ屋根ベンチ）",
+        "remark": "#02，#03，#04「私はキスがもらえない」，#06，#08「箱の花嫁」，#09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.755345,
+          35.67167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i52835r_1752674459975.jpg",
+        "location": "#01-06",
+        "point_id": "51i52835r",
+        "point_name": "日比谷公会堂 駐車場",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.750672,
+          35.707778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i5282is_1752673945574.jpg",
+        "location": "#01-06",
+        "point_id": "51i5282is",
+        "point_name": "礫川公園 石碑前",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.750927,
+          35.707678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i52832b_1752674352677.jpg",
+        "location": "#01-06",
+        "point_id": "51i52832b",
+        "point_name": "礫川公園 カスケード横階段",
+        "remark": "#06"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758044,
+          35.702158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i5283le_1752674193777.jpg",
+        "location": "#01-06",
+        "point_id": "51i5283le",
+        "point_name": "元町公園 見下ろしカット",
+        "remark": "#09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756865,
+          35.673644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5283av-1720290499268.jpg",
+        "location": "#01-06",
+        "point_id": "51i5283av",
+        "point_name": "日比谷公園 大噴水",
+        "remark": "#09「あの娘たちの未来」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.754882,
+          35.67345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59825/points/51i5283pi-1719934538849.jpg",
+        "location": "#01-06",
+        "point_id": "51i5283pi",
+        "point_name": "日比谷公園 雲形池噴水",
+        "remark": "#09"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.755299,
+          35.673566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59825,
+        "bangumi_title": "百合熊风暴",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59825/51i528404_1752673878894.jpg",
+        "location": "#01-06",
+        "point_id": "51i528404",
+        "point_name": "日比谷公園 雲形池橋",
+        "remark": "#09"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

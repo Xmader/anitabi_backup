@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -72.09357,
+          -39.820808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221227,
+        "bangumi_title": "我的三体 罗辑传",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/221227/points/niz8v2qyx-1724516269985.jpg",
+        "location": "",
+        "point_id": "niz8v2qyx",
+        "point_name": "潘吉普伊湖",
+        "remark": "由B站UP主“胖胖的地球君”结合原著和网上信息推测出罗辑的庄园就位于智利潘普伊湖湖畔边的一座庄园"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -73.96761,
+          40.749545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 246001,
+        "bangumi_title": "我的三体 章北海传",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/246001/points/5he9g6qfr-1673612150414.jpg",
+        "location": "",
+        "point_id": "5he9g6qfr",
+        "point_name": "UN Security Council Chamber",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.24994,
+          38.803856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 246001,
+        "bangumi_title": "我的三体 章北海传",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/246001/points/5icee09ra-1673686350684.jpg",
+        "location": "",
+        "point_id": "5icee09ra",
+        "point_name": "旅顺军港",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700591,
+          35.65899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293049,
+        "bangumi_title": "辉夜大小姐想让我告白？～天才们的恋爱头脑战～",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/293049/points/51i51ugl0-1753782214356.jpg",
+        "location": "渋谷",
+        "point_id": "106ft7vg23",
+        "point_name": "渋谷駅ハチ公口",
+        "remark": "一行人出来购物，辉夜想拉近与圭的关系，然后打探该送会长什么礼物。八公雕像为一行人集合的地点"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

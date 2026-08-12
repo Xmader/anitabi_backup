@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -122.422899,
+          37.82671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2504,
+        "bangumi_title": "剧场版 超时空要塞F 虚空歌姬",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2504/points/kuv0xq7t8-1716984316398.jpg",
+        "location": "",
+        "point_id": "kuv0xq7t8",
+        "point_name": "Alcatraz Island",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.419274,
+          37.801863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2504,
+        "bangumi_title": "剧场版 超时空要塞F 虚空歌姬",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2504/points/kuvddoptx-1716985419225.jpg",
+        "location": "",
+        "point_id": "kuvddoptx",
+        "point_name": "Lombard Street",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -106.204368,
+          23.47964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9gp8b9_1782411136076.webp",
+        "location": "",
+        "point_id": "g9gp8b9",
+        "point_name": "Presa Picachos",
+        "remark": "Presa Picachos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -106.226694,
+          23.538456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9gy58j_1782411611273.webp",
+        "location": "",
+        "point_id": "g9gy58j",
+        "point_name": "Viejo San Marcos",
+        "remark": "Viejo San Marcos，因水坝建设废弃的村落。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.691463,
+          45.854258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9hp9g2_1782412819654.webp",
+        "location": "",
+        "point_id": "g9hp9g2",
+        "point_name": "Columbia River",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -119.880828,
+          45.833655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9hr1uf_1782412894015.webp",
+        "location": "",
+        "point_id": "g9hr1uf",
+        "point_name": "Columbia River",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -121.076842,
+          45.171836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9hld6c_1782412674803.webp",
+        "location": "",
+        "point_id": "g9hld6c",
+        "point_name": "Maupin  Bridge, Deschutes River",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.879881,
+          33.88627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9i4xkt_1782413562554.webp",
+        "location": "",
+        "point_id": "g9i4xkt",
+        "point_name": "北九州市小倉北区魚町ちゅうぎん通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.039219,
+          41.717771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": "第二卷番外",
+        "image_url": "https://w.junreimap.com/images/points/349330/g9irlr6_1782414601282.webp",
+        "location": "",
+        "point_id": "g9irlr6",
+        "point_name": "Bass Pro Shops, Bolingbrook",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.846495,
+          41.930088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 349330,
+        "bangumi_title": "用锅子挡子弹的同时",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/349330/g9iv0do_1782414755545.webp",
+        "location": "",
+        "point_id": "g9iv0do",
+        "point_name": "Gene and Jude's",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

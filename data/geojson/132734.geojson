@@ -1,0 +1,405 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.771793,
+          35.6263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100403/points/4yuvsuwlv.jpg",
+        "location": "",
+        "point_id": "oii990gqp",
+        "point_name": "台場駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711052,
+          35.730065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/m8nt7hnez-1720886541061.jpg",
+        "location": "",
+        "point_id": "m8nt7hnez",
+        "point_name": "JR池袋駅6·7番線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713875,
+          35.717227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/132734/kpx6oh3dx_1728288831571.jpg",
+        "location": "",
+        "point_id": "kpx6oh3dx",
+        "point_name": "のぞき坂",
+        "remark": "2期2、3、7、9、11話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713741,
+          35.717339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/132734/ov4i2z4zx_1728288979338.jpg",
+        "location": "",
+        "point_id": "ov4i2z4zx",
+        "point_name": "のぞき坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711547,
+          35.714473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/kpx6oh3l9-1725365309966.jpg",
+        "location": "",
+        "point_id": "kpx6oh3l9",
+        "point_name": "高土橋",
+        "remark": "1期OP、4話　2期3話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.717824,
+          35.724094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/kpx6oh2ll-1725374514251.jpg",
+        "location": "",
+        "point_id": "kpx6oh2ll",
+        "point_name": "都電雑司ヶ谷駅",
+        "remark": "2期3話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712496,
+          35.716533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/132734/ov4tbl9gn_1728291458941.jpg",
+        "location": "",
+        "point_id": "ov4tbl9gn",
+        "point_name": "学習院下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712523,
+          35.716356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/132734/kpx6oh32p_1728289671811.jpg",
+        "location": "",
+        "point_id": "kpx6oh32p",
+        "point_name": "学習院下駅",
+        "remark": "2期4，5，8話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.563437,
+          35.732104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/kpx6oh4ll-1725368420582.jpg",
+        "location": "",
+        "point_id": "kpx6oh4ll",
+        "point_name": "コメダ珈琲 保谷店",
+        "remark": "2期ED、5、7、9話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599861,
+          35.707553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100403/points/4yu9upzjy.jpg",
+        "location": "",
+        "point_id": "lqfm1ywcc",
+        "point_name": "井荻橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599589,
+          35.707565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100403/points/4yu7y1wcw.jpg",
+        "location": "",
+        "point_id": "lqfm1yuy9",
+        "point_name": "井荻橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.718963,
+          35.711874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/kpx6oh3tt-1720886855628.jpg",
+        "location": "",
+        "point_id": "kpx6oh3tt",
+        "point_name": "早稲田駅（都電）",
+        "remark": "2期7話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.728922,
+          35.730394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/kpx6oh21w-1725364967825.jpg",
+        "location": "",
+        "point_id": "kpx6oh21w",
+        "point_name": "タリーズコーヒー 大塚店",
+        "remark": "2期7話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729224,
+          35.731613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/kpx6oh1wj-1725368235480.jpg",
+        "location": "",
+        "point_id": "kpx6oh1wj",
+        "point_name": "大塚駅前停留場（都電荒川線）",
+        "remark": "2期7話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729466,
+          35.731672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/m8o3dzyp9-1720887069652.jpg",
+        "location": "",
+        "point_id": "m8o3dzyp9",
+        "point_name": "都電大塚駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713274,
+          35.713896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/5oe3513y5-1674161033550.jpg",
+        "location": "",
+        "point_id": "5oe3513y5",
+        "point_name": "曙橋",
+        "remark": "霞之丘诗羽毕业式后等待伦也的地点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713832,
+          35.718778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oh30w",
+        "point_name": "千登世橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713274,
+          35.713896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oh3pd",
+        "point_name": "曙橋",
+        "remark": "2期9話で登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714214,
+          35.713012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oh3nq",
+        "point_name": "面影橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770667,
+          35.626283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132734,
+        "bangumi_title": "路人女主的养成方法 ♭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132734/points/v3xv8f36z-1745906616609.jpg",
+        "location": "台场希尔顿",
+        "point_id": "v3xv8f36z",
+        "point_name": "ヒルトン​東京​お台場",
+        "remark": "第0集画泳装插画的地方，泳池在希尔顿酒店内部"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

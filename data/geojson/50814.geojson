@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.667439,
+          35.673782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otxiwibwg-1728195505706.jpg",
+        "location": "",
+        "point_id": "otxiwibwg",
+        "point_name": "京王​笹塚​駅​北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.667476,
+          35.673728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otxsxfvix-1728196032563.jpg",
+        "location": "",
+        "point_id": "otxsxfvix",
+        "point_name": "笹冢站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66746,
+          35.673728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otxtpaxns-1728196069079.jpg",
+        "location": "",
+        "point_id": "otxtpaxns",
+        "point_name": "笹冢站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.667468,
+          35.673598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otxvrag36-1728196195453.jpg",
+        "location": "",
+        "point_id": "otxvrag36",
+        "point_name": "笹塚駅 南口",
+        "remark": "根据图中的笹塚駅牌，确定是南口\n入口处的“笹塚駅”绿色指示牌已拆除\n背景里蓝色招牌KATORI原本是书店，2021年拆除，外观变化较大。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.667495,
+          35.674711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otya923d6-1728197073217.jpg",
+        "location": "",
+        "point_id": "otya923d6",
+        "point_name": "タイムズ笹塚駅前",
+        "remark": "《打魔》中为数不多未改变外观的取景地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66785,
+          35.674436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otydsvr0y-1728197439072.jpg",
+        "location": "",
+        "point_id": "otydsvr0y",
+        "point_name": "総栄ビル",
+        "remark": "位于人行天桥上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670933,
+          35.675329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/50814/points/otyw9ynp0-1728198409848.jpg",
+        "location": "",
+        "point_id": "otyw9ynp0",
+        "point_name": "Chiba Bldg.",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

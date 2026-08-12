@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.348656,
+          43.064039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1444,
+        "bangumi_title": "天才麻将少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1444/points/lro4afhiu-1719554894801.jpg",
+        "location": "",
+        "point_id": "lro4afhiu",
+        "point_name": "北海道庁旧本庁舎",
+        "remark": "南北海道大会会场原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.301002,
+          36.163244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1444,
+        "bangumi_title": "天才麻将少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1444/points/opmyzl9s7-1727859033373.jpg",
+        "location": "",
+        "point_id": "opmyzl9s7",
+        "point_name": "Tsumekakiamidado 爪かき阿弥陀堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.962189,
+          33.960828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1444,
+        "bangumi_title": "天才麻将少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1444/points/pio97bd9j-1730134369017.jpg",
+        "location": "",
+        "point_id": "pio97bd9j",
+        "point_name": "17巻 表紙カバー",
+        "remark": "漫画『咲-Saki-』 / 小林立 /2006～17巻表紙カバー(表)撮影：2017/11/03  だーはら さん17巻表紙カバー(表)撮影：2019/09/24  USO9000※魚眼17巻表紙カバー(裏)撮影：2019/09/24  USO9000※魚眼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.805609,
+          42.568656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1444,
+        "bangumi_title": "天才麻将少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1444/points/pip0g3tj6-1730136126417.jpg",
+        "location": "",
+        "point_id": "pip0g3tj6",
+        "point_name": "14巻 表紙カバー(表)",
+        "remark": "漫画『咲-Saki-』 / 小林立 /2006～第14巻 表紙カバー(表)撮影：2015/6/27  だーはら(@d_hara_standard) さん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.852956,
+          42.555791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1444,
+        "bangumi_title": "天才麻将少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1444/points/pip7g0aze-1730136417881.jpg",
+        "location": "",
+        "point_id": "pip7g0aze",
+        "point_name": "第139局 扉絵／14巻 裏表紙",
+        "remark": "漫画『咲-Saki-』 / 小林立 /2006～第139局 扉絵第14巻 P136-137 ／ 第14巻 裏表紙撮影：2015/2/20  だーはら さん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.843078,
+          42.56069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1444,
+        "bangumi_title": "天才麻将少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1444/points/pipdf2w9m-1730136840113.jpg",
+        "location": "",
+        "point_id": "pipdf2w9m",
+        "point_name": "第129局 回想シーン(4)",
+        "remark": "漫画『咲-Saki-』 / 小林立 /2006～第13巻 P183撮影：2014/7/18  だーはら さん"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

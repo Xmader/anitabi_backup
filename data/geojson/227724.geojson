@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.02794,
+          35.655132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227724,
+        "bangumi_title": "名侦探柯南 零的执行人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227724/points/r74w7ivw8-1734872447421.jpg",
+        "location": "",
+        "point_id": "r74w7ivw8",
+        "point_name": "COSTCO",
+        "remark": "安室透与梓一起逛costco的地点"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

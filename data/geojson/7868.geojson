@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.701758,
+          35.693776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7868,
+        "bangumi_title": "我们没有翅膀",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/7868/points/uvypwb9dw-1745281496020.jpg",
+        "location": "",
+        "point_id": "uvypwb9dw",
+        "point_name": "ドン・キホーテ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

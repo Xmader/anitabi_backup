@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          129.875301,
+          32.741504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 66262,
+        "bangumi_title": "穿透幻影的太阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/66262/q5whf7xvf_1731954647457.jpg",
+        "location": "",
+        "point_id": "q5whf7xvf",
+        "point_name": "長崎新地中華街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.870155,
+          32.734288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 66262,
+        "bangumi_title": "穿透幻影的太阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/66262/q5wiqlprr_1731954729049.jpg",
+        "location": "",
+        "point_id": "q5wiqlprr",
+        "point_name": "大浦天主堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.87006,
+          32.734715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 66262,
+        "bangumi_title": "穿透幻影的太阳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/66262/q5wkaxn4d_1731954830241.jpg",
+        "location": "",
+        "point_id": "q5wkaxn4d",
+        "point_name": "グラバー通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

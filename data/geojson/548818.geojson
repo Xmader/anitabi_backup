@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.088864,
+          35.174901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/bjy4gks-1772161568376.jpg",
+        "location": "",
+        "point_id": "bjy4gks",
+        "point_name": "愛・地球博記念公園 アイススケート場",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.088943,
+          35.174007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/bjyx2ma-1772162519382.jpg",
+        "location": "",
+        "point_id": "bjyx2ma",
+        "point_name": "愛・地球博記念公園 アイススケート場　ゲート",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.088503,
+          35.174391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/bjyz5xg-1772162568916.jpg",
+        "location": "",
+        "point_id": "bjyz5xg",
+        "point_name": "愛・​地球​博​記念​公園​アイス​スケート場　場内",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.077554,
+          36.026559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/bycjajy-1773031876573.jpg",
+        "location": "",
+        "point_id": "bycjajy",
+        "point_name": "諏訪湖SA 上り",
+        "remark": "20話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.077688,
+          36.027107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/bydcbvn-1773033250671.jpg",
+        "location": "",
+        "point_id": "bydcbvn",
+        "point_name": "諏訪湖SA 展望ウッドデッキ",
+        "remark": "20話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.27556,
+          35.397065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/ckecmt4-1774365243761.jpg",
+        "location": "",
+        "point_id": "ckecmt4",
+        "point_name": "屏風山 パーキングエリア (上り)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.427998,
+          40.511696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548818,
+        "bangumi_title": "金牌得主 第二季",
+        "ep_cut": "9",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/548818/points/cketbu6-1774365952294.jpg",
+        "location": "",
+        "point_id": "cketbu6",
+        "point_name": "フラット八戸",
+        "remark": "作品中的全日本花滑锦标赛举办地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

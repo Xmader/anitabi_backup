@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.643801,
+          35.45254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 286123,
+        "bangumi_title": "高达创形者 再起",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/286123/points/9zj01dk-1768749630865.jpg",
+        "location": "",
+        "point_id": "9zj01dk",
+        "point_name": "横浜​赤​レンガ​倉庫",
+        "remark": "实景中并没有高达"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

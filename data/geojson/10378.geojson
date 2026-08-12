@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.544099,
+          35.319974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10378,
+        "bangumi_title": "天空之艾斯嘉科尼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i528fdv",
+        "point_name": "鎌倉恩寵教会",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.538877,
+          35.324387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10378,
+        "bangumi_title": "天空之艾斯嘉科尼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i528f9x",
+        "point_name": "佐助稲荷神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531369,
+          35.309263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10378,
+        "bangumi_title": "天空之艾斯嘉科尼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i528fbq",
+        "point_name": "成就院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.540368,
+          35.321027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10378,
+        "bangumi_title": "天空之艾斯嘉科尼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i528f2m",
+        "point_name": "新佐助隨道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500587,
+          35.30672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10378,
+        "bangumi_title": "天空之艾斯嘉科尼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i528exv",
+        "point_name": "鎌倉高校前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

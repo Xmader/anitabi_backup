@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.618178,
+          35.920857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227240,
+        "bangumi_title": "新干线变形机器人",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227240/points/f83oa22-1780153762031.jpg",
+        "location": "",
+        "point_id": "f83oa22",
+        "point_name": "鉄道​博物館​(本館)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729101,
+          35.763369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227240,
+        "bangumi_title": "新干线变形机器人",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227240/points/f85cwht-1780154845500.jpg",
+        "location": "",
+        "point_id": "f85cwht",
+        "point_name": "黒松本舗 草月",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.727374,
+          35.76254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227240,
+        "bangumi_title": "新干线变形机器人",
+        "ep_cut": 66,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227240/points/f85n3mt-1780155587059.jpg",
+        "location": "",
+        "point_id": "f85n3mt",
+        "point_name": "地蔵坂の子育て地蔵尊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.131046,
+          39.716706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227240,
+        "bangumi_title": "新干线变形机器人",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227240/points/f85wvs1-1780155952585.jpg",
+        "location": "",
+        "point_id": "f85wvs1",
+        "point_name": "秋田駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73657,
+          35.754979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227240,
+        "bangumi_title": "新干线变形机器人",
+        "ep_cut": 48,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227240/points/f867sk7-1780156345680.jpg",
+        "location": "",
+        "point_id": "f867sk7",
+        "point_name": "北とぴあ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

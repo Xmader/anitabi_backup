@@ -1,0 +1,225 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.595223,
+          35.458787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht3d3ar_1785774848242.webp",
+        "location": "",
+        "point_id": "ht3d3ar",
+        "point_name": "星川四丁目",
+        "remark": "本作舞台设定在星川站东北的「星川四丁目」，现实中星川只有一到三丁目，星川站东北空间很小，本作舞台大部分为架空。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595067,
+          35.458556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/21681/ht2zvp9_1785774378183.webp",
+        "location": "",
+        "point_id": "ht2zvp9",
+        "point_name": "相鉄星川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.596406,
+          35.458424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/21681/ht37shn_1785774670812.webp",
+        "location": "",
+        "point_id": "ht37shn",
+        "point_name": "帷子川",
+        "remark": "背景中的大型建筑为ダイゴプラザ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.591327,
+          35.457679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第二卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht2vfmr_1785774028415.webp",
+        "location": "",
+        "point_id": "ht2vfmr",
+        "point_name": "星川二丁目",
+        "remark": "第二卷封面对应的现实位置。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.591254,
+          35.457665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/21681/ht30p2s_1785774245462.webp",
+        "location": "",
+        "point_id": "ht30p2s",
+        "point_name": "星川二丁目",
+        "remark": "从左下角的路线可确认两人的步行路线。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.58109,
+          35.467682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht3hptp_1785775060348.webp",
+        "location": "",
+        "point_id": "ht3hptp",
+        "point_name": "上星川町歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621418,
+          35.466776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht3rsza_1785775557805.webp",
+        "location": "",
+        "point_id": "ht3rsza",
+        "point_name": "横浜駅西口",
+        "remark": "横滨站西口的公交站区域，数字3即为站台标号。远处的建筑是CIAL横滨所在的横浜ステーションビル，已于2013年拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595065,
+          35.458426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht3v67g_1785775670859.webp",
+        "location": "",
+        "point_id": "ht3v67g",
+        "point_name": "相鉄星川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.550403,
+          35.459024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht4416w_1785776367029.webp",
+        "location": "",
+        "point_id": "ht4416w",
+        "point_name": "​団地",
+        "remark": "造型与左近山团地较为接近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.74101,
+          40.829697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht4clpx_1785776700085.webp",
+        "location": "",
+        "point_id": "ht4clpx",
+        "point_name": "青森ベイブリッジ",
+        "remark": "青森湾的大桥。该场景大概是从アスパム13階展望台眺望。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.722096,
+          40.82623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 21681,
+        "bangumi_title": "星川银座四丁目",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/points/21681/ht4gwui_1785776756229.webp",
+        "location": "",
+        "point_id": "ht4gwui",
+        "point_name": "国道7号青森西バイパス",
+        "remark": "图示路牌所在地。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

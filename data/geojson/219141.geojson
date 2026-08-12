@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.486293,
+          31.238937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219141,
+        "bangumi_title": "我为歌狂之旋律重启",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/219141/ppafouedv_1730653059692.jpg",
+        "location": "",
+        "point_id": "ppafouedv",
+        "point_name": "外滩",
+        "remark": "从江海关后方的高楼拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.477448,
+          31.296833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219141,
+        "bangumi_title": "我为歌狂之旋律重启",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/219141/odol9itt3_1765492944461_c16v9.jpg",
+        "location": "",
+        "point_id": "odol9itt3",
+        "point_name": "复旦大学附属复兴中学 北门",
+        "remark": "南华高级中学的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.488682,
+          31.191005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219141,
+        "bangumi_title": "我为歌狂之旋律重启",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/219141/odkzqqtfg_1765492950939_c16v9.jpg",
+        "location": "",
+        "point_id": "odkzqqtfg",
+        "point_name": "梅赛德斯-奔驰文化中心",
+        "remark": "沪海艺术中心的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.425212,
+          31.224379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219141,
+        "bangumi_title": "我为歌狂之旋律重启",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/219141/ppayuwmpz_1730653981291.jpg",
+        "location": "",
+        "point_id": "ppayuwmpz",
+        "point_name": "市三女中 西门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.426416,
+          31.225464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219141,
+        "bangumi_title": "我为歌狂之旋律重启",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/219141/ppb3a337i_1730654285024.jpg",
+        "location": "",
+        "point_id": "ppb3a337i",
+        "point_name": "市三女中 东楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

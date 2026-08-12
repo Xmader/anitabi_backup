@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.674438,
+          35.284496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74663,
+        "bangumi_title": "苍蓝钢铁的琶音",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74663/points/n6m4s3teh-1723547182173.jpg",
+        "location": "",
+        "point_id": "n6m4s3teh",
+        "point_name": "記念艦三笠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.12389,
+          32.679564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74663,
+        "bangumi_title": "苍蓝钢铁的琶音",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74663/points/qsubbmnd4-1733752753138.jpg",
+        "location": "",
+        "point_id": "qsubbmnd4",
+        "point_name": "Naval Base San Diego",
+        "remark": "动画中最后出现的军港的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653556,
+          35.286684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74663,
+        "bangumi_title": "苍蓝钢铁的琶音",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74663/points/qtn124xm4-1733814862721.jpg",
+        "location": "",
+        "point_id": "qtn124xm4",
+        "point_name": "United States Fleet Activities Yokosuka",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.524808,
+          33.261619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74663,
+        "bangumi_title": "苍蓝钢铁的琶音",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74663/points/qtngq9e6d-1733815774087.jpg",
+        "location": "",
+        "point_id": "qtngq9e6d",
+        "point_name": "高良台分屯基地",
+        "remark": "航空自卫队​高良台分屯基地，现实中隶属于西部航空方面队的第二高射群，第八高射队，在动漫中为卫星发射提供导弹拦截支持"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

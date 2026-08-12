@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.857182,
+          35.643912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100443,
+        "bangumi_title": "东京残响",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100443/points/bd03qsxzs-1690194751160.jpg",
+        "location": "",
+        "point_id": "bd03qsxzs",
+        "point_name": "ダイヤ​と​花​の​大​観覧車",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

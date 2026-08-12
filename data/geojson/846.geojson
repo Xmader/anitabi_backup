@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.88148,
+          38.259678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 846,
+        "bangumi_title": "女仆咖啡帕露菲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/846/p7r27d5fn_1729278461098.jpg",
+        "location": "",
+        "point_id": "p7r27d5fn",
+        "point_name": "仙台駅中央改札前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

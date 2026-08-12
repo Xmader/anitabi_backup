@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          8.682241,
+          50.107037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407515,
+        "bangumi_title": "名侦探柯南 黑铁的鱼影",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/899/points/l8kpn2v24-1718058563335.jpg",
+        "location": "",
+        "point_id": "l8kpn2v24",
+        "point_name": "Eiserner Steg",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.788303,
+          33.142859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407515,
+        "bangumi_title": "名侦探柯南 黑铁的鱼影",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/407515/points/o86jvgtxn-1726491188174.jpg",
+        "location": "",
+        "point_id": "o86jvgtxn",
+        "point_name": "リード​パーク​リゾート\n八丈島",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.025302,
+          14.554936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 407515,
+        "bangumi_title": "名侦探柯南 黑铁的鱼影",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/407515/points/cm3tz5k-1774468479968.jpg",
+        "location": "",
+        "point_id": "cm3tz5k",
+        "point_name": "The Peninsula Manila",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

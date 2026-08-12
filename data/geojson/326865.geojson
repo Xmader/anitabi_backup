@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          1.322815,
+          51.128455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326865,
+        "bangumi_title": "Muv-Luv photonflowers*",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/326865/points/n7tkm4yhy-1723641813963.jpg",
+        "location": "",
+        "point_id": "n7tkm4yhy",
+        "point_name": "Dover Castle",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.307672,
+          51.122741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326865,
+        "bangumi_title": "Muv-Luv photonflowers*",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/326865/points/n7tqe8eui-1723642040677.jpg",
+        "location": "",
+        "point_id": "n7tqe8eui",
+        "point_name": "Drop Redoubt Fort",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

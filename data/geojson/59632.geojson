@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700622,
+          35.658944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59632,
+        "bangumi_title": "人鱼又上钩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6os2qu",
+        "point_name": "ハチ公",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.648386,
+          35.453108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59632,
+        "bangumi_title": "人鱼又上钩",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6os2r6",
+        "point_name": "大さん橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

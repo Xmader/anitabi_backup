@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.781998,
+          35.028713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169070,
+        "bangumi_title": "御手洗潔と進々堂珈琲",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "epro08h",
+        "point_name": "进々堂 京大北门前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

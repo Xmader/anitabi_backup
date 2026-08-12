@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -80.681928,
+          28.524745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332261,
+        "bangumi_title": "JOJO的奇妙冒险 石之海",
+        "ep_cut": "35",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/332261/points/ieinzae95-1710061204392.jpg",
+        "location": "",
+        "point_id": "ieinzae95",
+        "point_name": "ケネディ宇宙センター・ビジター・コンプレックス",
+        "remark": "石之海最后一战"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

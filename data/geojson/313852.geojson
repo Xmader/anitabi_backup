@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.444962,
+          35.650232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 313852,
+        "bangumi_title": "街角魔族 2丁目",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272510/points/n7ehbox0c-1723609266232.jpg",
+        "location": "",
+        "point_id": "n7ehbox0c",
+        "point_name": "ホーム・ベース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.404312,
+          35.649086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 313852,
+        "bangumi_title": "街角魔族 2丁目",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/272510/cfdsbxdc8_1724029334928_cut.jpg",
+        "location": "",
+        "point_id": "cfdsbxdc8",
+        "point_name": "多摩動物公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.446663,
+          35.649548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 313852,
+        "bangumi_title": "街角魔族 2丁目",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/272510/points/ncb4n2xv6-1723993415374.jpg",
+        "location": "",
+        "point_id": "ncb4n2xv6",
+        "point_name": "アニメイト 聖蹟桜ヶ丘オーパ店",
+        "remark": "第二季momo带夏美子来的animate"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

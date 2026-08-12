@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.433637,
+          36.075561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 628184,
+        "bangumi_title": "【动画MV】人生不易部！「Dou-Da? DOING!」【生如百戏难！LOVELIVE! 青鸟】",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/628184/points/crmhh2t-1774802133889.jpg",
+        "location": "",
+        "point_id": "crmhh2t",
+        "point_name": "小舟渡駅",
+        "remark": "えちぜん鉄道 小舟渡駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.788698,
+          35.67092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 628184,
+        "bangumi_title": "【动画MV】人生不易部！「Dou-Da? DOING!」【生如百戏难！LOVELIVE! 青鸟】",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/628184/points/crmpgm3-1774802537355.jpg",
+        "location": "",
+        "point_id": "crmpgm3",
+        "point_name": "越中島公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

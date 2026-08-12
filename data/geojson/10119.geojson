@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.238613,
+          34.714287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6bigjnjy_1729166287798.jpg",
+        "location": "",
+        "point_id": "p6bigjnjy",
+        "point_name": "六甲道駅",
+        "remark": "实际画面左右反转"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.27654,
+          34.733809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6blx3fz7_1729166563575.jpg",
+        "location": "",
+        "point_id": "p6blx3fz7",
+        "point_name": "保久良夢ひろば",
+        "remark": "附近的山道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.278081,
+          34.734853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6braydow_1729166852078.jpg",
+        "location": "",
+        "point_id": "p6braydow",
+        "point_name": "保久良神社",
+        "remark": "虎太郎的神社，实际是白色鸟居"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.27827,
+          34.734888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6buo3n2p_1729167019861.jpg",
+        "location": "",
+        "point_id": "p6buo3n2p",
+        "point_name": "保久良神社",
+        "remark": "鸟居对面，俯瞰城市"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.274547,
+          34.732952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6by5qb8k_1729167308646.jpg",
+        "location": "",
+        "point_id": "p6by5qb8k",
+        "point_name": "岡本八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.478305,
+          34.716848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6c391rbf_1729167625615.jpg",
+        "location": "",
+        "point_id": "p6c391rbf",
+        "point_name": "大阪府立北野高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70072,
+          35.661162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10119,
+        "bangumi_title": "天神乱漫 -LUCKY or UNLUCKY!?-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10119/p6c7x0lns_1729167813516.jpg",
+        "location": "",
+        "point_id": "p6c7x0lns",
+        "point_name": "渋谷モディ",
+        "remark": "大厦名由〇ICITY改为MODI，且画面左右反转"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

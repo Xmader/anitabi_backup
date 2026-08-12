@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.510221,
+          25.055602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12696,
+        "bangumi_title": "东方神灵庙 ～ Ten Desires.",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/12696/points/ofpeg68tl-1727080661744.jpg",
+        "location": "",
+        "point_id": "ofpeg68tl",
+        "point_name": "霞海城隍廟",
+        "remark": "四面背景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.823369,
+          24.60337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298058,
+        "bangumi_title": "苗栗国的石虎少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298058/85ras5f_1764772800548.jpg",
+        "location": "",
+        "point_id": "85ras5f",
+        "point_name": "客家圓樓",
+        "remark": "建于高铁苗栗站前，为仿福建土楼样式的客家戏曲民乐文化馆。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

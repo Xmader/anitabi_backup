@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.843229,
+          35.706397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 55032,
+        "bangumi_title": "写真女友",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/55032/points/ig1ak7xjr-1710179939322.jpg",
+        "location": "",
+        "point_id": "ig1ak7xjr",
+        "point_name": "平井駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

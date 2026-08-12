@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          24.901687,
+          36.62752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 242216,
+        "bangumi_title": "剧场版 紫罗兰永恒花园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/242216/points/ab857wyni-1687234430335.jpg",
+        "location": "",
+        "point_id": "ab857wyni",
+        "point_name": "Folegandros",
+        "remark": "卡特尔岛的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.174058,
+          41.412713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 242216,
+        "bangumi_title": "剧场版 紫罗兰永恒花园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/242216/mhh4h4h2o_1721577136784.jpg",
+        "location": "",
+        "point_id": "mhh4h4h2o",
+        "point_name": "Hospital de la Santa Creu i Sant Pau",
+        "remark": "尤里斯住院的医院取景于此"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.174338,
+          41.410853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 242216,
+        "bangumi_title": "剧场版 紫罗兰永恒花园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/242216/307nh5h_1753553633089.jpg",
+        "location": "",
+        "point_id": "307nh5h",
+        "point_name": "Edifici d'Administració",
+        "remark": "尤里斯住院的医院"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

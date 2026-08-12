@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.541913,
+          35.340474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiub0",
+        "point_name": "権兵衛踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.545426,
+          35.337284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiull",
+        "point_name": "北鎌倉駅 2 番線 臨時改札口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.504176,
+          35.319308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiu7a",
+        "point_name": "西鎌倉駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.49278,
+          35.308502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiv60",
+        "point_name": "腰越駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.49293,
+          35.308395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiuuz",
+        "point_name": "腰越の電光表示",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.545178,
+          35.313639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiv4z",
+        "point_name": "和田塚駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.544958,
+          35.313674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1758,
+        "bangumi_title": "青之花",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oiv7p",
+        "point_name": "無心庵",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

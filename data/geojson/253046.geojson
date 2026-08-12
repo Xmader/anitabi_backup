@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.412446,
+          52.517233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253046,
+        "bangumi_title": "强袭魔女 通往柏林之路",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/253046/points/n7phka5a2-1723632803914.jpg",
+        "location": "德国柏林",
+        "point_id": "n7phka5a2",
+        "point_name": "Klosterstraße",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.392778,
+          52.513224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253046,
+        "bangumi_title": "强袭魔女 通往柏林之路",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/253046/points/n7pcve0tz-1723632526783.jpg",
+        "location": "德国柏林",
+        "point_id": "n7pcve0tz",
+        "point_name": "Gendarmenmarkt",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.378154,
+          52.516277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253046,
+        "bangumi_title": "强袭魔女 通往柏林之路",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/253046/points/n7pabbrsb-1723632400771.jpg",
+        "location": "德国柏林",
+        "point_id": "n7pabbrsb",
+        "point_name": "Brandenburger Tor",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.721888,
+          52.950952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253046,
+        "bangumi_title": "强袭魔女 通往柏林之路",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/253046/points/n7p7wv0x0-1723632216522.jpg",
+        "location": "荷兰",
+        "point_id": "n7p7wv0x0",
+        "point_name": "Fort Kijkduin",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.726503,
+          52.955297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 253046,
+        "bangumi_title": "强袭魔女 通往柏林之路",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/253046/points/n7p5l1bq1-1723632112338.jpg",
+        "location": "荷兰",
+        "point_id": "n7p5l1bq1",
+        "point_name": "Lange Jaap",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

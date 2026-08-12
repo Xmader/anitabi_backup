@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.244085,
+          37.1133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 145946,
+        "bangumi_title": "魔法少女育成计划",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i5330w7",
+        "point_name": "橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.300754,
+          42.726734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 145946,
+        "bangumi_title": "魔法少女育成计划",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "第6話",
+        "point_id": "51i533c76",
+        "point_name": "セイコーマート振内店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

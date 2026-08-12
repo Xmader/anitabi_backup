@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          125.836454,
+          39.078428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316756,
+        "bangumi_title": "少年将帅",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316756/points/84vilt19d-1681094534312.jpg",
+        "location": "",
+        "point_id": "84vilt19d",
+        "point_name": "대성산성",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

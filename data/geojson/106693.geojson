@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.654796,
+          35.737349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106693,
+        "bangumi_title": "学园孤岛",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/106693/points/7vn2jxgul-1680370561533.jpg",
+        "location": "",
+        "point_id": "7vn2jxgul",
+        "point_name": "練馬駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

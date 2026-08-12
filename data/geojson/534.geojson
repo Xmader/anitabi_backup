@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.472981,
+          34.709471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 534,
+        "bangumi_title": "她和她的猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/534/51i52uhgn_1672368344286.jpg",
+        "location": "",
+        "point_id": "51i52uhgn",
+        "point_name": "淀川右岸河川敷（下淀川橋梁上流側）",
+        "remark": "1話・ＯＰ・キービジュアルに登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.473162,
+          34.712812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 534,
+        "bangumi_title": "她和她的猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/534/51i52uhjw_1672368344793.jpg",
+        "location": "",
+        "point_id": "51i52uhjw",
+        "point_name": "塚本幼稚園（飛び出し坊や）",
+        "remark": "2話に登場。ダルとの出会いを描く回想に登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.469393,
+          34.711504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 534,
+        "bangumi_title": "她和她的猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/534/51i52uh4l_1672368345153.jpg",
+        "location": "",
+        "point_id": "51i52uh4l",
+        "point_name": "ヘアサロンハシモト",
+        "remark": "2話に登場。お母さんがダルを連れて帰ってくる時に通る場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.466376,
+          34.711009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 534,
+        "bangumi_title": "她和她的猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/534/51i52uh6g_1672368345513.jpg",
+        "location": "",
+        "point_id": "51i52uh6g",
+        "point_name": "豊ガスケット裏手の道路",
+        "remark": "2話に登場。ダルとの出会いを描くシーンで登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.469601,
+          34.709845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 534,
+        "bangumi_title": "她和她的猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/534/51i52uh62_1672368345904.jpg",
+        "location": "",
+        "point_id": "51i52uh62",
+        "point_name": "花川公園",
+        "remark": "2話に登場。ダルをいったん捨てようとした後に立ち寄る公園。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          115.983369,
+          29.71629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570769,
+        "bangumi_title": "终曲。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/570769/2yozkta_1753461768279.jpg",
+        "location": "",
+        "point_id": "2yozkta",
+        "point_name": "甘棠公园 东门",
+        "remark": "序章"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.986148,
+          29.725258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570769,
+        "bangumi_title": "终曲。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/570769/9dqq8no_1767432516902.jpg",
+        "location": "",
+        "point_id": "9dqq8no",
+        "point_name": "九江市外国语学校（第五中学）初中部",
+        "remark": "第一章（25年新盖的大门，不过这里不是高中）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.984802,
+          29.721136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570769,
+        "bangumi_title": "终曲。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/570769/9dqot2t_1767432378687.jpg",
+        "location": "",
+        "point_id": "9dqot2t",
+        "point_name": "半月亭（夕照坪）",
+        "remark": "第一章"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.079173,
+          29.7023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570769,
+        "bangumi_title": "终曲。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/570769/points/btc6tjb-1772728990141.jpg",
+        "location": "",
+        "point_id": "btc6tjb",
+        "point_name": "九江欢乐世界",
+        "remark": "白石、凛的约会地点（用高德地图查询地点）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

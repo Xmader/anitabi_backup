@@ -1,0 +1,205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.345109,
+          41.259545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/kpx6oiciv-1727946018132.jpg",
+        "location": "",
+        "point_id": "kpx6oiciv",
+        "point_name": "階段国道",
+        "remark": "雲のむこう、約束の場所舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.444477,
+          41.185404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/kpx6oicfq-1728036627080.jpg",
+        "location": "",
+        "point_id": "kpx6oicfq",
+        "point_name": "三厩駅",
+        "remark": "雲のむこう、約束の場所舞台\n温馨提示：该站已无列车运行"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.645868,
+          41.036332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/kpx6oictt-1727946117670.jpg",
+        "location": "",
+        "point_id": "kpx6oictt",
+        "point_name": "蟹田海岸",
+        "remark": "雲のむこう、約束の場所舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.64259,
+          41.038279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1707/points/kpx6oicl2-1747660498514.jpg",
+        "location": "",
+        "point_id": "kpx6oicl2",
+        "point_name": "蟹田駅",
+        "remark": "雲のむこう、約束の場所舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.73485,
+          40.828618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/kpx6oida1-1727946203301.jpg",
+        "location": "",
+        "point_id": "kpx6oida1",
+        "point_name": "青森駅",
+        "remark": "雲のむこう、約束の場所舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.490694,
+          41.179568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/oqr240ghw-1727946451778.jpg",
+        "location": "",
+        "point_id": "oqr240ghw",
+        "point_name": "今别駅",
+        "remark": "温馨提示：该站已无列车运行"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.648882,
+          41.007027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/p36bobc9q-1728919878753.jpg",
+        "location": "",
+        "point_id": "p36bobc9q",
+        "point_name": "濑边地站附近桥下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762156,
+          35.713249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1707/points/arfakz-1747661169336.jpg",
+        "location": "",
+        "point_id": "arfakz",
+        "point_name": "東大安田講堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760217,
+          35.710602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1707/points/arfav1-1747661265149.jpg",
+        "location": "",
+        "point_id": "arfav1",
+        "point_name": "東大赤門前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.487369,
+          41.181803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1707,
+        "bangumi_title": "云之彼端，约定的地方",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1707/points/1w283to-1751125863403.jpg",
+        "location": "",
+        "point_id": "1w283to",
+        "point_name": "高架下（JR今別駅北側）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

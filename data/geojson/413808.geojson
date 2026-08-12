@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.79595,
+          35.713915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 413808,
+        "bangumi_title": "Fate/Samurai Remnant",
+        "ep_cut": "第一章",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/413808/points/iheb6wfar-1710286993636.jpg",
+        "location": "",
+        "point_id": "iheb6wfar",
+        "point_name": "浅草寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

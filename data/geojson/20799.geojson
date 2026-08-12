@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.461041,
+          35.723403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 20799,
+        "bangumi_title": "爱杀宝贝",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/20799/points/ezm175d-1779638731934.jpg",
+        "location": "",
+        "point_id": "ezm175d",
+        "point_name": "鷹の台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.044849,
+          34.335002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 230465,
+        "bangumi_title": "孤独的美食家 2017除夕特别篇 濑户内出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/230465/79cffc30_1741428040687.jpg",
+        "location": "赞岐乌冬和可乐饼",
+        "point_id": "79cffc30",
+        "point_name": "中野町２−２",
+        "remark": "〒760-0008香川県高松市中野町2-2，https://www.matsushita-seimen.jp/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.773408,
+          33.830056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 230465,
+        "bangumi_title": "孤独的美食家 2017除夕特别篇 濑户内出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/230465/829e85b3_1741428221998.jpg",
+        "location": "爱媛县松山市的鲷鱼盖浇饭",
+        "point_id": "829e85b3",
+        "point_name": "祇園町３−２１",
+        "remark": "〒790-0965愛媛県松山市祇園町3-21，https://www.sakana-koubou.com/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.470741,
+          34.407247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 230465,
+        "bangumi_title": "孤独的美食家 2017除夕特别篇 濑户内出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/230465/82d59ce6_1741428475194.jpg",
+        "location": "广岛县广岛市的烤肉和拉面",
+        "point_id": "82d59ce6",
+        "point_name": "牛田南１丁目７−１",
+        "remark": "〒732-0064広島県広島市東区牛田南1-7-1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.318452,
+          35.784268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 230465,
+        "bangumi_title": "孤独的美食家 2017除夕特别篇 濑户内出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/230465/4403a2f8_1741428681739.jpg",
+        "location": "2017年12月31日放送",
+        "point_id": "4403a2f8",
+        "point_name": "本町３４５",
+        "remark": "东京电视台＆白吃作者直播"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

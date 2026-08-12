@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.573392,
+          29.559966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 229182,
+        "bangumi_title": "我是江小白",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/229182/points/k31zzs1oh-1714804948391.jpg",
+        "location": "",
+        "point_id": "k31zzs1oh",
+        "point_name": "抗战胜利纪功碑暨人民解放纪念碑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.570389,
+          29.556828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 229182,
+        "bangumi_title": "我是江小白",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/229182/points/k32pnqr7n-1714806747484.jpg",
+        "location": "",
+        "point_id": "k32pnqr7n",
+        "point_name": "合景·聚融广场",
+        "remark": "江小白任文筝杂志编辑时的工作地点原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.138897,
+          29.041697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 229182,
+        "bangumi_title": "我是江小白",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/229182/points/lo71zqsnd-1719282970931.jpg",
+        "location": "",
+        "point_id": "lo71zqsnd",
+        "point_name": "重庆市聚奎中学校",
+        "remark": "动画中主人公所就读高中的原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -109.792626,
+          40.871582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 137720,
+        "bangumi_title": "看火人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/137720/points/6k5s3ub-1761290357958.jpg",
+        "location": "",
+        "point_id": "6k5s3ub",
+        "point_name": "Ute Mountain Fire Tower",
+        "remark": "Ute Mountain Lookout是犹他州第一个也是最后一个地面以上设有生活区的火塔"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

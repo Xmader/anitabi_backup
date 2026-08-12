@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.492665,
+          31.242412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10844,
+        "bangumi_title": "「C」",
+        "ep_cut": "9",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10844/points/v572hq6tk-1746004952606.jpg",
+        "location": "",
+        "point_id": "v572hq6tk",
+        "point_name": "滨江大道",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.551217,
+          34.247839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 75748,
+        "bangumi_title": "海猿TV版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/75748/o2kg06wq0_1726063330112.jpg",
+        "location": "",
+        "point_id": "oii99ei5o",
+        "point_name": "両城の200階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

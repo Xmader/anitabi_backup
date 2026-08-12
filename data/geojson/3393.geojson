@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.785031,
+          34.99523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3393,
+        "bangumi_title": "I\"s Pure",
+        "ep_cut": "35话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3393/points/pgc5hfiph-1729951422351.jpg",
+        "location": "",
+        "point_id": "pgc5hfiph",
+        "point_name": "地主神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

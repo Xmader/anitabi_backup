@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.566219,
+          35.700832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/185762/51i53scav_1672382822569.jpg",
+        "location": "",
+        "point_id": "51i53scav",
+        "point_name": "むらさき橋 PV",
+        "remark": "4カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.572845,
+          35.700518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/185762/51i53scs1_1672382823478.jpg",
+        "location": "",
+        "point_id": "51i53scs1",
+        "point_name": "井の頭自然文化園前 OP",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.559015,
+          35.687684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/185762/51i53se7b_1672382825713.jpg",
+        "location": "",
+        "point_id": "51i53se7b",
+        "point_name": "コメダ珈琲店 三鷹上連雀店 1話",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.566226,
+          35.700873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/185762/51i53se0h_1672382826614.jpg",
+        "location": "",
+        "point_id": "51i53se0h",
+        "point_name": "むらさき橋 1話",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.571401,
+          35.694088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/185762/51i53sdna_1672382828259.jpg",
+        "location": "",
+        "point_id": "51i53sdna",
+        "point_name": "井の頭公園-遊びの広場- 2話",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638906,
+          35.453316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/185762/points/tkyn9j07j-1741598218366.jpg",
+        "location": "",
+        "point_id": "tkyn9j07j",
+        "point_name": "横滨人行道桥三号",
+        "remark": "男主寻找女主的路上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633879,
+          35.454794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 185762,
+        "bangumi_title": "政宗君的复仇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/185762/points/tkypx27bf-1741598306081.jpg",
+        "location": "",
+        "point_id": "tkypx27bf",
+        "point_name": "旋转木马",
+        "remark": "女主傲娇的旋转木马前面"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

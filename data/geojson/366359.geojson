@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          151.215242,
+          -33.856987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366359,
+        "bangumi_title": "德凯奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/366359/points/r9cilboyw-1735045837024.jpg",
+        "location": "",
+        "point_id": "r9cilboyw",
+        "point_name": "Sydney Opera House",
+        "remark": "斯菲亚王出现在上空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.012066,
+          40.696095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366359,
+        "bangumi_title": "德凯奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/366359/points/r9cvbif2l-1735046516721.jpg",
+        "location": "",
+        "point_id": "r9cvbif2l",
+        "point_name": "Hudson Estuary",
+        "remark": "斯菲亚王出现在上空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.294499,
+          48.858229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366359,
+        "bangumi_title": "德凯奥特曼",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/366359/points/r9cz47av9-1735046739626.jpg",
+        "location": "",
+        "point_id": "r9cz47av9",
+        "point_name": "Tour Eiffel",
+        "remark": "斯菲亚王出现在上空"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.134606,
+          29.97836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 366359,
+        "bangumi_title": "德凯奥特曼",
+        "ep_cut": "斯菲亚王出现在上空",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/366359/points/r9d21xm2s-1735046911131.jpg",
+        "location": "",
+        "point_id": "r9d21xm2s",
+        "point_name": "هرم خوفو",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

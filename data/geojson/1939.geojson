@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.51466,
+          34.654277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1939,
+        "bangumi_title": "网球王子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1939/points/nmjufozds-1724796099050.jpg",
+        "location": "",
+        "point_id": "nmjufozds",
+        "point_name": "四天王寺高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.288045,
+          35.512318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1939,
+        "bangumi_title": "网球王子",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1939/points/o6l9t91um-1726366480255.jpg",
+        "location": "",
+        "point_id": "o6l9t91um",
+        "point_name": "神奈川県",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

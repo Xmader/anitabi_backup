@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.638504,
+          35.455428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 581284,
+        "bangumi_title": "杀手青春",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/581284/points/gmi32gq-1783199531633.webp",
+        "location": "",
+        "point_id": "gmi32gq",
+        "point_name": "カップヌードルミュージアム 横浜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644096,
+          35.44306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 581284,
+        "bangumi_title": "杀手青春",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/581284/points/gmhz8vu-1783199349158.webp",
+        "location": "",
+        "point_id": "gmhz8vu",
+        "point_name": "善隣門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

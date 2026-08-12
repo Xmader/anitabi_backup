@@ -1,0 +1,305 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.6324,
+          35.695269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321rjz",
+        "point_name": "主人公達が通う学校近辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633154,
+          35.691875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321rub",
+        "point_name": "1話で鋭太と千和が登校していた辺り1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.642335,
+          35.685579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321rjk",
+        "point_name": "1話での登校していた辺り2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641839,
+          35.681871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321s6m",
+        "point_name": "1話で真涼と下校していた辺り？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.627479,
+          35.690677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321rz6",
+        "point_name": "2話で千和が鋭太たちに絡んだ辺り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.559376,
+          35.725181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321s9d",
+        "point_name": "3話で鋭太たちが下校していた辺り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480201,
+          35.672589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/43557/4sm321s38_1733303007096.jpg",
+        "location": "",
+        "point_id": "4sm321s38",
+        "point_name": "4話で千和が待ち合わせしていた辺り",
+        "remark": "府中駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.642418,
+          35.683433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321rvm",
+        "point_name": "5話で鋭太と真涼がベンチに座っていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.47916,
+          35.671801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321rum",
+        "point_name": "7話で冬海がおそとを走っていた近辺？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.47921,
+          35.675641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sm321run",
+        "point_name": "7話で冬海たちと一緒に帰ったシーン辺り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714316,
+          35.729442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/43557/4sm321rr0_1733302623286.jpg",
+        "location": "",
+        "point_id": "4sm321rr0",
+        "point_name": "8話で冬海たちと入った喫茶店",
+        "remark": "池袋ミルキーウェイ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515406,
+          35.903693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/43557/qn421eeoc_1733303439117.jpg",
+        "location": "",
+        "point_id": "qn421eeoc",
+        "point_name": "ユナイテッド・​シネマウニクス​南古谷",
+        "remark": "8話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515309,
+          35.903812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/43557/qn44ux47k_1733303531385.jpg",
+        "location": "",
+        "point_id": "qn44ux47k",
+        "point_name": "ユナイテッド・​シネマウニクス​南古谷入り口",
+        "remark": "8話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.365419,
+          35.626191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/43557/4sm321rqz.jpg",
+        "location": "",
+        "point_id": "4sm321rqz",
+        "point_name": "9話で冬海と一緒に見た水門？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.571171,
+          35.29342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 43557,
+        "bangumi_title": "我女友与青梅竹马的惨烈修罗场",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/43557/4sm321s1k_1733302580831.jpg",
+        "location": "",
+        "point_id": "4sm321s1k",
+        "point_name": "12話13話で訪れていた場所",
+        "remark": "逗子海岸"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

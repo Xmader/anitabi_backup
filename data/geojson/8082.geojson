@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          19.933979,
+          50.054409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8082,
+        "bangumi_title": "黑塔利亚 第4期",
+        "ep_cut": "95",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8082/points/s86w6kxrl-1737776251703.jpg",
+        "location": "",
+        "point_id": "s86w6kxrl",
+        "point_name": "Wawel Odzyskany",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

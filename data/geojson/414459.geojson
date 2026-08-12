@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.30902,
+          36.063353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 414459,
+        "bangumi_title": "我在终点线等你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/414459/points/38ettsm-1754050866236.jpg",
+        "location": "",
+        "point_id": "38ettsm",
+        "point_name": "青岛站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.301891,
+          36.058717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 414459,
+        "bangumi_title": "我在终点线等你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/414459/points/38ge0l3-1754052013943.jpg",
+        "location": "",
+        "point_id": "38ge0l3",
+        "point_name": "青岛第一中学",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

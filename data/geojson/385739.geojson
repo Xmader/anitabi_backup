@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.43565,
+          34.687155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385739,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385739/1ynvk5o_1751283116560.jpg",
+        "location": "",
+        "point_id": "1ynvk5o",
+        "point_name": "波浮港見晴台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.438889,
+          34.686687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385739,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385739/1ynx96z_1751283170640.jpg",
+        "location": "",
+        "point_id": "1ynx96z",
+        "point_name": "波浮港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793742,
+          35.629779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385739,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385739/1yo083o_1751283313164.jpg",
+        "location": "",
+        "point_id": "1yo083o",
+        "point_name": 2,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794165,
+          35.628536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 385739,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/385739/1yo0me9_1751283325556.jpg",
+        "location": "",
+        "point_id": "1yo0me9",
+        "point_name": 2,
+        "remark": "comitia一般情况下只会开放东四馆，跟随队伍从西侧进入"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

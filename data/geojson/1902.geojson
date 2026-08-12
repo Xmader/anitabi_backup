@@ -1,0 +1,345 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.487239,
+          34.698874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohoft",
+        "point_name": "将棋会館",
+        "remark": "62話王国①"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.486885,
+          34.698591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohokv",
+        "point_name": "横断歩道から見上げるビル",
+        "remark": "62話王国①"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.486858,
+          34.698922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohpeb",
+        "point_name": "EAWSON",
+        "remark": "62話王国①"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.487245,
+          34.698314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohpgg",
+        "point_name": "駅へ向かう",
+        "remark": "63話王国②"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75943,
+          34.987462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohpk1",
+        "point_name": "京都タワー",
+        "remark": "63話王国②"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767187,
+          35.003812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohpiv_1740938580305.jpg",
+        "location": "",
+        "point_id": "kpx6ohpiv",
+        "point_name": "新京極看板",
+        "remark": "63話王国②"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767192,
+          35.005697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohqj7_1740938643680.jpg",
+        "location": "",
+        "point_id": "kpx6ohqj7",
+        "point_name": "清水堂前",
+        "remark": "63話王国②実際の店舗名は清高堂のようです。直ぐ下の商店街の看板のコマもこの辺りから紅梅堂、永興堂の看板もこの辺りから"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767188,
+          35.005767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/tck7ll0w4_1740939810224.jpg",
+        "location": "",
+        "point_id": "tck7ll0w4",
+        "point_name": "紅梅堂、永興堂前",
+        "remark": "63話王国②"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767214,
+          35.00397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohq6t_1740938711095.jpg",
+        "location": "",
+        "point_id": "kpx6ohq6t",
+        "point_name": "新京極看板２",
+        "remark": "63話王国②この辺りから看板を狙う"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.770505,
+          35.00392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohq1i_1740938961593.jpg",
+        "location": "",
+        "point_id": "kpx6ohq1i",
+        "point_name": "四条大橋へ",
+        "remark": "63話王国②四条大橋へ向かう途中"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771385,
+          35.00392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohr1k_1740939235079.jpg",
+        "location": "",
+        "point_id": "kpx6ohr1k",
+        "point_name": "四条大橋",
+        "remark": "63話王国②ひなちゃんを探す"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771875,
+          35.004482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohqu4_1740939322824.jpg",
+        "location": "",
+        "point_id": "kpx6ohqu4",
+        "point_name": "四条大橋から",
+        "remark": "63話王国②四条大橋より鴨川土手を望む（左图）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771154,
+          35.004205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohr51_1740939395968.jpg",
+        "location": "",
+        "point_id": "kpx6ohr51",
+        "point_name": "四条大橋から２",
+        "remark": "63話王国②四条大橋よりこちらを望む（中图）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771283,
+          35.003988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohqod_1740939402728.jpg",
+        "location": "",
+        "point_id": "kpx6ohqod",
+        "point_name": "四条大橋下",
+        "remark": "63話王国②このあたりより東華菜館を望む（右图）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771661,
+          35.003922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohrxn_1740939358543.jpg",
+        "location": "",
+        "point_id": "kpx6ohrxn",
+        "point_name": "鴨川土手を望む",
+        "remark": "63話王国②鴨川沿いにいるひなちゃんを見つける"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771953,
+          35.004897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohrjk_1740939435151.jpg",
+        "location": "",
+        "point_id": "kpx6ohrjk",
+        "point_name": "鴨川沿い１",
+        "remark": "63話王国②階段"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772044,
+          35.006312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1902,
+        "bangumi_title": "3月的狮子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/147068/kpx6ohs6t_1740939468089.jpg",
+        "location": "",
+        "point_id": "kpx6ohs6t",
+        "point_name": "鴨川沿い３",
+        "remark": "63話王国②最後の一コマ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

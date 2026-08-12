@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.699706,
+          35.659565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 502499,
+        "bangumi_title": "GROTESQUE（仮）",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/502499/m0wf5vffi_1720278230990.jpg",
+        "location": "",
+        "point_id": "m0wf5vffi",
+        "point_name": "SHIBUYA109",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700474,
+          35.659477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 502499,
+        "bangumi_title": "GROTESQUE（仮）",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/502499/m15p7f3pm_1720298434390.jpg",
+        "location": "",
+        "point_id": "m15p7f3pm",
+        "point_name": "渋谷駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711925,
+          35.65875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 502499,
+        "bangumi_title": "GROTESQUE（仮）",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/502499/m15qdcse8_1720298525217.jpg",
+        "location": "",
+        "point_id": "m15qdcse8",
+        "point_name": "首都高速3号渋谷線",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

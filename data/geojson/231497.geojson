@@ -1,0 +1,465 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.71693,
+          35.715537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231497/points/lub8mqfp7-1725818784775.jpg",
+        "location": "",
+        "point_id": "oii992vpz",
+        "point_name": "富士見坂下",
+        "remark": "和实际地点有偏差，应该再往富士見坂的南边走一点，巡礼的时候给我看漏了😭\n其实谷歌地图标注的位置是对的，有对应的名字——冴えない彼女の育てかた Fine キスシーン、場所\n1 Chome-33-1 Takada, Toshima City, Tokyo 171-0033, Japan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.717342,
+          35.716133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cg22m1_1754293279344.jpg",
+        "location": "",
+        "point_id": "3cg22m1",
+        "point_name": "富士見坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713823,
+          35.717487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cg4gal_1754293392064.jpg",
+        "location": "",
+        "point_id": "3cg4gal",
+        "point_name": "のぞき坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7136,
+          35.715117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3chxlb0_1754296450097.jpg",
+        "location": "",
+        "point_id": "3chxlb0",
+        "point_name": "アドニス・​パセーニア前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711587,
+          35.714795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgdcgh_1754293802031.jpg",
+        "location": "",
+        "point_id": "3cgdcgh",
+        "point_name": "高戸橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711705,
+          35.714852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3chq7dx_1754296089618.jpg",
+        "location": "",
+        "point_id": "3chq7dx",
+        "point_name": "高戸橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.711639,
+          35.714729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3chq60w_1754296095592.jpg",
+        "location": "",
+        "point_id": "3chq60w",
+        "point_name": "高戸橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.718067,
+          35.724271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cfwcoq_1754293028950.jpg",
+        "location": "",
+        "point_id": "3cfwcoq",
+        "point_name": "都電雑司ヶ谷駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.717868,
+          35.724137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cfx7gu_1754293077673.jpg",
+        "location": "",
+        "point_id": "3cfx7gu",
+        "point_name": "都電雑司ヶ谷 踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714208,
+          35.72764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cfkw86_1754292582089.jpg",
+        "location": "",
+        "point_id": "3cfkw86",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714273,
+          35.727716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cfkqso_1754292573723.jpg",
+        "location": "",
+        "point_id": "3cfkqso",
+        "point_name": "南池袋公園 時計",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712555,
+          35.730617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231497/points/2naxuww-1752773115402.jpg",
+        "location": "",
+        "point_id": "2naxuww",
+        "point_name": "池袋东口北",
+        "remark": "彩蛋末尾伦也下来后惠等着的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712573,
+          35.730613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3chc72o_1754295548379.jpg",
+        "location": "",
+        "point_id": "3chc72o",
+        "point_name": "池袋东口北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.716253,
+          35.73433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3ch6v2r_1754295177572.jpg",
+        "location": "",
+        "point_id": "3ch6v2r",
+        "point_name": "六ツ又歩道橋前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.716072,
+          35.734533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgfdjb_1754293897549.jpg",
+        "location": "",
+        "point_id": "3cgfdjb",
+        "point_name": "六ツ又歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.716031,
+          35.734581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgi18e_1754294094408.jpg",
+        "location": "",
+        "point_id": "3cgi18e",
+        "point_name": "劇場版KV",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77004,
+          35.702228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cexqgn_1754291435541.jpg",
+        "location": "",
+        "point_id": "3cexqgn",
+        "point_name": "銀星",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770052,
+          35.702132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgz8vh_1754294831644.jpg",
+        "location": "",
+        "point_id": "3cgz8vh",
+        "point_name": "銀星前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770067,
+          35.702301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgzbjs_1754294837310.jpg",
+        "location": "",
+        "point_id": "3cgzbjs",
+        "point_name": "銀星前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.718069,
+          35.681655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cf1fdf_1754291562907.jpg",
+        "location": "",
+        "point_id": "3cf1fdf",
+        "point_name": "慶應義塾大病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700968,
+          35.692536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/2nan7br_1754293578793.jpg",
+        "location": "",
+        "point_id": "2nan7br",
+        "point_name": "16TAIPI",
+        "remark": "学姐意淫中男女主分手的餐厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.775268,
+          35.663721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgq8jn_1754294424629.jpg",
+        "location": "",
+        "point_id": "3cgq8jn",
+        "point_name": "隅田川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.775179,
+          35.663674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231497,
+        "bangumi_title": "路人女主的养成方法 Fine",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/231497/3cgtlxn_1754294577868.jpg",
+        "location": "",
+        "point_id": "3cgtlxn",
+        "point_name": "勝鬨橋付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

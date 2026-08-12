@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.795024,
+          35.717013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 580473,
+        "bangumi_title": "女仆小姐的贪吃日常",
+        "ep_cut": "PV",
+        "image_url": "https://w.junreimap.com/images/points/580473/8t9fh0d_1766194078860.jpg",
+        "location": "",
+        "point_id": "8t9fh0d",
+        "point_name": "かんがえるかんがるー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795023,
+          35.716987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 580473,
+        "bangumi_title": "女仆小姐的贪吃日常",
+        "ep_cut": "PV",
+        "image_url": "https://w.junreimap.com/images/points/580473/8t9hzp5_1766194088393.jpg",
+        "location": "",
+        "point_id": "8t9hzp5",
+        "point_name": "かんがえるかんがるー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795041,
+          35.717003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 580473,
+        "bangumi_title": "女仆小姐的贪吃日常",
+        "ep_cut": "PV",
+        "image_url": "https://w.junreimap.com/images/points/580473/8t9i4rt_1766194092607.jpg",
+        "location": "",
+        "point_id": "8t9i4rt",
+        "point_name": "かんがえるかんがるー",
+        "remark": "【待确认】只有这个是推断点位"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

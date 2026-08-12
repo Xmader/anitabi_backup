@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.71349,
+          35.648434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139221,
+        "bangumi_title": "~Dimension W~ 维度战记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/139221/points/n7w30c4fm-1723647187633.jpg",
+        "location": "",
+        "point_id": "n7w30c4fm",
+        "point_name": "明治通りの高千穂化学工業の前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64878,
+          35.703251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139221,
+        "bangumi_title": "~Dimension W~ 维度战记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/139221/points/n7w9beye6-1723647552898.jpg",
+        "location": "",
+        "point_id": "n7w9beye6",
+        "point_name": "高円寺パル商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794948,
+          35.660379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139221,
+        "bangumi_title": "~Dimension W~ 维度战记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/139221/points/n7wahbijm-1723647626588.jpg",
+        "location": "",
+        "point_id": "n7wahbijm",
+        "point_name": "芝浦工業大学 豊洲キャンパスでした",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

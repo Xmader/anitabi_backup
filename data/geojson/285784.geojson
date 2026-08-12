@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.390526,
+          39.991178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285784,
+        "bangumi_title": "一人之下3·入世篇",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285784/points/nojuzoroe-1724952746680.jpg",
+        "location": "",
+        "point_id": "nojuzoroe",
+        "point_name": "国家体育场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.384122,
+          39.991513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285784,
+        "bangumi_title": "一人之下3·入世篇",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285784/points/nojw2wfn3-1724952812210.jpg",
+        "location": "",
+        "point_id": "nojw2wfn3",
+        "point_name": "国家游泳中心",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.349435,
+          39.939242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285784,
+        "bangumi_title": "一人之下3·入世篇",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285784/points/nojy2v890-1724952939655.jpg",
+        "location": "",
+        "point_id": "nojy2v890",
+        "point_name": "西直门桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.390578,
+          39.92341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285784,
+        "bangumi_title": "一人之下3·入世篇",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285784/points/nojti7ego-1724952666411.jpg",
+        "location": "",
+        "point_id": "nojti7ego",
+        "point_name": "故宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.40966,
+          39.949515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285784,
+        "bangumi_title": "一人之下3·入世篇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/285784/nye4sdipm_1725723914498.jpg",
+        "location": "",
+        "point_id": "nye4sdipm",
+        "point_name": "金鼎轩（银鼎轩）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.396893,
+          39.932293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285784,
+        "bangumi_title": "一人之下3·入世篇",
+        "ep_cut": "一人之下第三季入世篇",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/285784/points/a9hfoke-1769351727344.jpg",
+        "location": "",
+        "point_id": "a9hfoke",
+        "point_name": "南锣鼓巷",
+        "remark": "南锣鼓巷地铁口出来就能看到"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

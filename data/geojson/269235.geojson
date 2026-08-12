@@ -1,0 +1,805 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.767205,
+          35.671353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/4ui73krdd-1723654022035.jpg",
+        "location": "銀座、門前仲町",
+        "point_id": "4ui73krdd",
+        "point_name": "朝日稲荷神社",
+        "remark": "参考までに。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700618,
+          35.694206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/4ui73krj7-1710234719464.jpg",
+        "location": "新宿、代々木、渋谷",
+        "point_id": "4ui73krj7",
+        "point_name": "マクドナルド西武新宿駅前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774585,
+          35.707724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/jwc91asrn-1714278675257.jpg",
+        "location": "",
+        "point_id": "jwc91asrn",
+        "point_name": "アメ横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757003,
+          35.740727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/jkqteu1qh-1713370162904.jpg",
+        "location": "",
+        "point_id": "jkqteu1qh",
+        "point_name": "田端六丁目",
+        "remark": "铁丝网全覆盖，基本拍不了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713463,
+          35.716689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/n83bof1bp-1723662946456.jpg",
+        "location": "",
+        "point_id": "n83bof1bp",
+        "point_name": "侦探坡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796316,
+          35.710894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/jwcqfl3pn-1714279706825.jpg",
+        "location": "",
+        "point_id": "jwcqfl3pn",
+        "point_name": "雷門通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729146,
+          35.660303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/4ui73kr9l-1722758856787.jpg",
+        "location": "六本木",
+        "point_id": "4ui73kr9l",
+        "point_name": "東京シティビュー",
+        "remark": "自从23年9月人身事故之后，露天展台目前仍未开放\n目前已開放 但進入須要提前預約"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78754,
+          35.676311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/4ui73kr7s-1714277365714.jpg",
+        "location": "銀座、門前仲町",
+        "point_id": "4ui73kr7s",
+        "point_name": "永代橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713851,
+          35.73386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/4ui73kr2z-1721905959858.jpg",
+        "location": "",
+        "point_id": "4ui73kr2z",
+        "point_name": "池袋大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.130271,
+          34.210151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/6c7cflyg2-1676026265532.jpg",
+        "location": "",
+        "point_id": "6c7cflyg2",
+        "point_name": "神津島港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771697,
+          35.627245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/k16vnpm17-1714658814518.jpg",
+        "location": "",
+        "point_id": "k16vnpm17",
+        "point_name": "お台場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483704,
+          35.665016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/lerxeth64-1718544556581.jpg",
+        "location": "",
+        "point_id": "lerxeth64",
+        "point_name": "東京競馬場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762021,
+          35.736756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/n26oa9hs2-1723200025877.jpg",
+        "location": "",
+        "point_id": "n26oa9hs2",
+        "point_name": "田端",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748824,
+          35.655331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/ouzqmg9l7-1728278742617.jpg",
+        "location": "",
+        "point_id": "ouzqmg9l7",
+        "point_name": "芝公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761906,
+          35.736902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/s33egb5f7-1737376848459.jpg",
+        "location": "",
+        "point_id": "s33egb5f7",
+        "point_name": "田端駅|南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735486,
+          35.705397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/swklxntjs-1739686869336.jpg",
+        "location": "",
+        "point_id": "swklxntjs",
+        "point_name": "ヒルサイドフラッツ２",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700611,
+          35.694194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/upfulo-1748867155933.jpg",
+        "location": "",
+        "point_id": "upfulo",
+        "point_name": "マクドナルド 西武新宿駅前店4层",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700603,
+          35.6942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/upjwo9-1748867289346.jpg",
+        "location": "",
+        "point_id": "upjwo9",
+        "point_name": "マクドナルド 西武新宿駅前店4F",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70062,
+          35.694197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/uplxm5-1748867385426.jpg",
+        "location": "",
+        "point_id": "uplxm5",
+        "point_name": "マクドナルド 西武新宿駅前店4F",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700612,
+          35.694196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/upnpoe-1748867460429.jpg",
+        "location": "",
+        "point_id": "upnpoe",
+        "point_name": "マクドナルド 西武新宿駅前店4F",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700625,
+          35.694199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/uppoc5-1748867564629.jpg",
+        "location": "",
+        "point_id": "uppoc5",
+        "point_name": "マクドナルド 西武新宿駅前店4F",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771551,
+          35.62764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/32hpjv6-1753691437158.jpg",
+        "location": "",
+        "point_id": "32hpjv6",
+        "point_name": "お台場海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699485,
+          35.693685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/36ndvmb-1753942828034.jpg",
+        "location": "新宿",
+        "point_id": "36ndvmb",
+        "point_name": "青梅街道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700986,
+          35.693796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/36o4m6k-1753944036478.jpg",
+        "location": "新宿",
+        "point_id": "36o4m6k",
+        "point_name": "歌舞伎町一番街入り口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762775,
+          35.736332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/3ezmz58-1754447197615.jpg",
+        "location": "",
+        "point_id": "3ezmz58",
+        "point_name": "田端駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699511,
+          35.693962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/9orz3j4-1768099592860.jpg",
+        "location": "",
+        "point_id": "9orz3j4",
+        "point_name": "新宿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735561,
+          35.705251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm62kwe-1772295595381.jpg",
+        "location": "",
+        "point_id": "bm62kwe",
+        "point_name": "米田ビル",
+        "remark": "疑似K&A公司的原型\n现为一家综合设施，包含宠物店，咖啡厅等等"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651145,
+          35.704722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm8j25y-1772299561184.jpg",
+        "location": "",
+        "point_id": "bm8j25y",
+        "point_name": "氷川神社",
+        "remark": "气象神社就在入口处左边的鸟居"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70316,
+          35.684402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm87q2n-1772299208216.jpg",
+        "location": "",
+        "point_id": "bm87q2n",
+        "point_name": "NTT​ドコモ​代々木​ビル",
+        "remark": "剧中楼顶有鸟居的建筑物原型-代代木废弃大楼已经拆除，只剩这个地标了，楼顶鸟居可以参考另一个地标-朝日稻荷神社"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651028,
+          35.70471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm8rk7i-1772299947128.jpg",
+        "location": "",
+        "point_id": "bm8rk7i",
+        "point_name": "気象神社",
+        "remark": "位于冰川神社内，绘马墙上有着差不多的天气祈愿"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699541,
+          35.693746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm3okzc-1772291576436.jpg",
+        "location": "",
+        "point_id": "bm3okzc",
+        "point_name": "都道302番",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699987,
+          35.698365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm3zbak-1772292263028.jpg",
+        "location": "",
+        "point_id": "bm3zbak",
+        "point_name": "山手線 湘南新宿ライン 埼京線の分岐点",
+        "remark": "从动漫前后场景来看，此时帆高应该是往山手线的方向跑了，因为此处只有山手线拐了出去，另两条线继续并行"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701867,
+          35.683441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bm906jk-1772300526416.jpg",
+        "location": "",
+        "point_id": "bm906jk",
+        "point_name": "代々木会館",
+        "remark": "原为剧中楼顶鸟居废弃大楼原型，现已经拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70719,
+          35.728505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bq0atq4-1772527596187.jpg",
+        "location": "",
+        "point_id": "bq0atq4",
+        "point_name": "警視庁池袋警察署",
+        "remark": "帆高和阳菜弟弟凪被捕时的警察局，随后二人出逃"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70854,
+          35.729308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bq0duws-1772528007665.jpg",
+        "location": "",
+        "point_id": "bq0duws",
+        "point_name": "ホテルヒソカ池袋",
+        "remark": "原为情侣酒店HOTEL Domani，但已于2021年8月閉館，现在的酒店是在原址上建立的，但内部设施变化挺大"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7053,
+          35.718053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/bq11chs-1772528993645.jpg",
+        "location": "",
+        "point_id": "bq11chs",
+        "point_name": "メゾン・ド・パラディ",
+        "remark": "夏美用摩托把帆高送到最远的地方，随后帆高翻越铁丝网爬上铁路（实际上这段并无铁丝网只有栅栏，铁丝网在前面目白站那一段设置）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703072,
+          35.696026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/f9gxh8n-1780234730993.jpg",
+        "location": "",
+        "point_id": "f9gxh8n",
+        "point_name": "アタミビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779622,
+          35.627042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/f9geerk-1780233937674.jpg",
+        "location": "",
+        "point_id": "f9geerk",
+        "point_name": "りんかい線 東京電訊車站  A出口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691973,
+          35.690456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/f9glcow-1780234159238.jpg",
+        "location": "",
+        "point_id": "f9glcow",
+        "point_name": "新宿中央公園前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.133721,
+          34.203778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/hvo42sv-1785930630813.jpg",
+        "location": "",
+        "point_id": "hvo42sv",
+        "point_name": "東屋（はるか展望台）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

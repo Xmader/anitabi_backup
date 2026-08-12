@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.708131,
+          35.685033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504678,
+        "bangumi_title": "摇滚乃是淑女的爱好",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/504678/points/1kn4ynj-1750435367123.jpg",
+        "location": "",
+        "point_id": "1kn4ynj",
+        "point_name": "新宿御苑 東屋遠景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708167,
+          35.684771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504678,
+        "bangumi_title": "摇滚乃是淑女的爱好",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/504678/points/1kn9uyn-1750435575765.jpg",
+        "location": "",
+        "point_id": "1kn9uyn",
+        "point_name": "新宿御苑 東屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.806647,
+          35.748919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504678,
+        "bangumi_title": "摇滚乃是淑女的爱好",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/504678/points/fuv436c-1781528361273.jpg",
+        "location": "",
+        "point_id": "fuv436c",
+        "point_name": "北千住",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.802941,
+          35.750523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504678,
+        "bangumi_title": "摇滚乃是淑女的爱好",
+        "ep_cut": "EP4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/504678/points/fuva2lr-1781528626853.jpg",
+        "location": "",
+        "point_id": "fuva2lr",
+        "point_name": "宿場町通り商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70054,
+          35.659427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 504678,
+        "bangumi_title": "摇滚乃是淑女的爱好",
+        "ep_cut": "EP8",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/504678/points/fuwaxtx-1781530354864.jpg",
+        "location": "",
+        "point_id": "fuwaxtx",
+        "point_name": "涩谷十字路口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

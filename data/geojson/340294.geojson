@@ -1,0 +1,345 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.888298,
+          35.632528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2jq005_1779816237294.jpg",
+        "location": "舞浜アンフィシアター",
+        "point_id": "f2jq005",
+        "point_name": "舞浜アンフィシアター",
+        "remark": "漫画第11话，新生ELM举办live的场地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483591,
+          35.923431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2kab0o_1779817118890.jpg",
+        "location": "川越",
+        "point_id": "f2kab0o",
+        "point_name": "時の鐘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488461,
+          35.927321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2kcvlu_1779817386818.jpg",
+        "location": "川越",
+        "point_id": "f2kcvlu",
+        "point_name": "川越氷川神社 二の鳥居",
+        "remark": "图中出现的是冰川神社二之鸟居。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48844,
+          35.927595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2ki69g_1779817651317.jpg",
+        "location": "川越",
+        "point_id": "f2ki69g",
+        "point_name": "川越氷川神社 絵馬トンネル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488448,
+          35.927625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2kmftn_1779817661743.jpg",
+        "location": "川越",
+        "point_id": "f2kmftn",
+        "point_name": "川越氷川神社 絵馬トンネル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488451,
+          35.927626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2kmmha_1779817670248.jpg",
+        "location": "川越",
+        "point_id": "f2kmmha",
+        "point_name": "川越氷川神社 絵馬トンネル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482712,
+          35.921429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f2kpdb4_1779843791228.jpg",
+        "location": "川越",
+        "point_id": "f2kpdb4",
+        "point_name": "川越アートカフェエレバート",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483519,
+          35.91909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f30w96e_1779845080351.jpg",
+        "location": "川越",
+        "point_id": "f30w96e",
+        "point_name": "川越熊野神社 二の鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483318,
+          35.91912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f311v4r_1779845269985.jpg",
+        "location": "川越",
+        "point_id": "f311v4r",
+        "point_name": "川越熊野神社 茅の輪",
+        "remark": "只有部分时间会设置。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483303,
+          35.919121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/340294/f312i9v_1779845283009.jpg",
+        "location": "川越",
+        "point_id": "f312i9v",
+        "point_name": "川越熊野神社 茅の輪",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703736,
+          35.691356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5d40i0_1779986472115.jpg",
+        "location": "新宿",
+        "point_id": "f5d40i0",
+        "point_name": "伊勢丹新宿店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70082,
+          35.659442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 29,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5de6hg_1779987004956.jpg",
+        "location": "涩谷",
+        "point_id": "f5de6hg",
+        "point_name": "渋谷駅ハチ公口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700512,
+          35.659454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 29,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5dgmwj_1779987040301.jpg",
+        "location": "涩谷",
+        "point_id": "f5dgmwj",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.888355,
+          35.632474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5dk6rc_1779987242477.jpg",
+        "location": "舞浜アンフィシアター",
+        "point_id": "f5dk6rc",
+        "point_name": "舞浜アンフィシアター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.240729,
+          34.761736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5dqmok_1779987504714.jpg",
+        "location": "六甲高山植物园",
+        "point_id": "f5dqmok",
+        "point_name": "六甲高山植物園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.241074,
+          34.762361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5dojhk_1779987431029.jpg",
+        "location": "六甲高山植物园",
+        "point_id": "f5dojhk",
+        "point_name": "六甲高山植物園",
+        "remark": "https://maps.app.goo.gl/xmGBU3xMDtouJbh36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.240995,
+          34.762295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 340294,
+        "bangumi_title": "月付房租 带院子带房东",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/340294/f5du2sd_1779987675862.jpg",
+        "location": "六甲高山植物园",
+        "point_id": "f5du2sd",
+        "point_name": "六甲高山植物園",
+        "remark": "https://maps.app.goo.gl/vat9oDoESA5czvXw8"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

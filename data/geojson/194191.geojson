@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.91404,
+          38.255558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194191,
+        "bangumi_title": "孤独的美食家 特别篇！真夏的东北・宫城出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/194191/fe16af41_1741373641715.jpg",
+        "location": "宫城县仙台市的牛舌套餐",
+        "point_id": "fe16af41",
+        "point_name": "牛たん萃萃",
+        "remark": "〒983-0043仙台市宮城野区萩野町2-12-1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.445699,
+          38.446499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194191,
+        "bangumi_title": "孤独的美食家 特别篇！真夏的东北・宫城出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/194191/8b5eeae8_1741373774041.jpg",
+        "location": "三陆女川町的海鲜五色盖饭",
+        "point_id": "8b5eeae8",
+        "point_name": "女川２丁目５−７",
+        "remark": "〒986-2265宮城県牡鹿郡女川町女川2丁目5-7，https://www.conori.jp/"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

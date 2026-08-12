@@ -1,0 +1,205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.732355,
+          35.709965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnad72mbs_1719211838507.jpg",
+        "location": "",
+        "point_id": "lnad72mbs",
+        "point_name": "江戸川橋電停",
+        "remark": "东京都电车（东京市电车）的停留所。位于関口1-21，原址现为东京地铁江户川桥站。设定中应为距离主角所在学校最近的车站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757185,
+          35.707415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/ln954srye_1719211835107.jpg",
+        "location": "",
+        "point_id": "ln954srye",
+        "point_name": "真砂町電停",
+        "remark": "东京都电车（东京市电车）的停留所，1971年3月18日废止。从江户川桥到真砂町的路线为39系统。木津千里居住于附近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757189,
+          35.707501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/ln93jnetu_1719211393007.jpg",
+        "location": "",
+        "point_id": "ln93jnetu",
+        "point_name": "宇都木家具店",
+        "remark": "曾位于東京都文京区本郷4-7的家具店，原址现为公寓ブリッサ本郷真砂。漫画中明确写出了全名，动画中只露出了家具店三字。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.750702,
+          35.712041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnbk7ux99_1719214136663.jpg",
+        "location": "",
+        "point_id": "lnbk7ux99",
+        "point_name": "小石川区 富坂町",
+        "remark": "小石川区是本作主舞台，现实中存在于1878年~1947年，后编入本乡区。富坂町范围相当于现在的小石川1丁目~2丁目。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.736021,
+          35.683913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnbg641ua_1719213888752.jpg",
+        "location": "",
+        "point_id": "lnbg641ua",
+        "point_name": "神田区 麹町",
+        "remark": "麹町现为千代田区的一个町。其前身为麹町区，存在于1978年~1947年，后与神田区合并为千代田区。麹町从未从属于神田区。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735597,
+          35.668143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnb9ncjw7_1719213516902.jpg",
+        "location": "",
+        "point_id": "lnb9ncjw7",
+        "point_name": "赤坂区 氷川町",
+        "remark": "冰川町存在于1869年~1966年。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.746059,
+          35.676112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnbbegzc7_1719213558592.jpg",
+        "location": "",
+        "point_id": "lnbbegzc7",
+        "point_name": "国会議事堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776889,
+          35.675572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnbbz06yt_1719213626880.jpg",
+        "location": "",
+        "point_id": "lnbbz06yt",
+        "point_name": "京橋区 八丁堀",
+        "remark": "京桥区存在于1878年~1947年。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.755351,
+          35.705631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnau0bnjl_1719212519837.jpg",
+        "location": "",
+        "point_id": "lnau0bnjl",
+        "point_name": "新坂（外記坂）",
+        "remark": "位于文京区本郷1-25和1-33之间的台阶。作中所写ゲキ坂指的是其别名外記坂，该别名源自内藤外記。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759111,
+          35.704762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2603,
+        "bangumi_title": "狱・再见绝望先生",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/points/2603/lnaoi65yj_1719212174751.jpg",
+        "location": "",
+        "point_id": "lnaoi65yj",
+        "point_name": "三河稲荷神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.652894,
+          35.88949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1267,
+        "bangumi_title": "王牌投手 振臂高挥",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1267/points/gz5kt7e-1783964585408.webp",
+        "location": "",
+        "point_id": "gz5kt7e",
+        "point_name": "埼玉县立浦和西高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658552,
+          35.870013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1267,
+        "bangumi_title": "王牌投手 振臂高挥",
+        "ep_cut": "8",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1267/points/gz5tz8w-1783965062133.webp",
+        "location": "",
+        "point_id": "gz5tz8w",
+        "point_name": "埼玉市营浦和球场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633541,
+          35.917459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1267,
+        "bangumi_title": "王牌投手 振臂高挥",
+        "ep_cut": "13",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1267/points/gz6eaeg-1783965939369.webp",
+        "location": "",
+        "point_id": "gz6eaeg",
+        "point_name": "大宮県営球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594347,
+          35.789957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1267,
+        "bangumi_title": "王牌投手 振臂高挥",
+        "ep_cut": "14",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1267/points/h20ea9b-1784137265345.webp",
+        "location": "",
+        "point_id": "h20ea9b",
+        "point_name": "中央公園野球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

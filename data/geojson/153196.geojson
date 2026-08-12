@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.152487,
+          30.261752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 153196,
+        "bangumi_title": "全职高手",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/153196/points/3y4s0yo-1755604698969.jpg",
+        "location": "",
+        "point_id": "3y4s0yo",
+        "point_name": "西湖圣塘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.143337,
+          30.263373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 153196,
+        "bangumi_title": "全职高手",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/153196/points/3y596e5-1755605390854.jpg",
+        "location": "",
+        "point_id": "3y596e5",
+        "point_name": "保俶塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.203617,
+          30.259983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 153196,
+        "bangumi_title": "全职高手",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/153196/points/3y5htkd-1755605809745.jpg",
+        "location": "",
+        "point_id": "3y5htkd",
+        "point_name": "庆新天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.380162,
+          36.061174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 153196,
+        "bangumi_title": "全职高手",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/153196/points/3y5ucl5-1755606396351.jpg",
+        "location": "",
+        "point_id": "3y5ucl5",
+        "point_name": "五四广场雕塑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.157527,
+          30.254566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 153196,
+        "bangumi_title": "全职高手",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/153196/points/3y61rxb-1755606728461.jpg",
+        "location": "",
+        "point_id": "3y61rxb",
+        "point_name": "西湖边码头",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

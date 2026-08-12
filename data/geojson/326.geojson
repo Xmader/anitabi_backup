@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.526254,
+          25.078704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326,
+        "bangumi_title": "攻壳机动队 S.A.C. 2nd GIG",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326/points/5guc3mnnn-1673568757457.jpg",
+        "location": "",
+        "point_id": "5guc3mnnn",
+        "point_name": "圓山大飯店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.239837,
+          25.083346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 326,
+        "bangumi_title": "攻壳机动队 S.A.C. 2nd GIG",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/326/points/ienlvhxgh-1710071803490.jpg",
+        "location": "",
+        "point_id": "ienlvhxgh",
+        "point_name": "台北桃园国际机场",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

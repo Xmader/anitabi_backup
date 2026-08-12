@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.505813,
+          35.700094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23684,
+        "bangumi_title": "黑子的篮球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oks9m",
+        "point_name": "小金井市民交流センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.506857,
+          35.701026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23684,
+        "bangumi_title": "黑子的篮球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6okso2",
+        "point_name": "武蔵小金井駅（１番線）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700534,
+          35.701403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23684,
+        "bangumi_title": "黑子的篮球",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oksf0",
+        "point_name": "新大久保駅高架下",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.513393,
+          34.646078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 565,
+        "bangumi_title": "名侦探柯南",
+        "ep_cut": "漫画第106卷 FILE.10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/565/points/zhncvh-1749156327673.jpg",
+        "location": "",
+        "point_id": "zhncvh",
+        "point_name": "あべのハルカス",
+        "remark": "平次和叶表白地点 (位于顶楼的 Harukas300 展望台)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.273279,
+          35.365532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526043,
+        "bangumi_title": "外星人姆姆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/526043/points/uj19gfim4-1744268235058.jpg",
+        "location": "",
+        "point_id": "uj19gfim4",
+        "point_name": "東海大学湘南キャンパス",
+        "remark": "原作者宮下裕樹的母校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445705,
+          35.542515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526043,
+        "bangumi_title": "外星人姆姆",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/526043/points/uj1hzc7s9-1744268774665.jpg",
+        "location": "",
+        "point_id": "uj1hzc7s9",
+        "point_name": "JR町田駅前 まほろデッキ",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.448351,
+          35.541322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526043,
+        "bangumi_title": "外星人姆姆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/526043/points/uj1qp889c-1744269264756.jpg",
+        "location": "",
+        "point_id": "uj1qp889c",
+        "point_name": "町田仲見世商店街",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.470971,
+          35.542438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526043,
+        "bangumi_title": "外星人姆姆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/526043/points/uj24ajo3r-1744270097057.jpg",
+        "location": "",
+        "point_id": "uj24ajo3r",
+        "point_name": "恩田川の桜",
+        "remark": "不完全相同"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710966,
+          35.428181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526043,
+        "bangumi_title": "外星人姆姆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/526043/points/uj2d1nq8p-1744270626584.jpg",
+        "location": "",
+        "point_id": "uj2d1nq8p",
+        "point_name": "横浜・川崎海岸",
+        "remark": "姆姆降落时的太空鸟瞰图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.272499,
+          35.365081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 526043,
+        "bangumi_title": "外星人姆姆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/526043/points/uj30cx9dc-1744272047350.jpg",
+        "location": "",
+        "point_id": "uj30cx9dc",
+        "point_name": "BaBレストラン8",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

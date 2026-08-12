@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.548635,
+          38.924911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 294873,
+        "bangumi_title": "猫之茗",
+        "ep_cut": "01",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/294873/points/48e4d6h-1756225023106.jpg",
+        "location": "",
+        "point_id": "48e4d6h",
+        "point_name": "观山·满庭芳",
+        "remark": "茉莉穿越之前的家"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

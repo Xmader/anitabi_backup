@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          49.104743,
+          55.798403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 259877,
+        "bangumi_title": "闪电十一人 俄里翁的刻印",
+        "ep_cut": "24",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/259877/points/ezsfby4-1779649587588.jpg",
+        "location": "",
+        "point_id": "ezsfby4",
+        "point_name": "Казанский кремль",
+        "remark": "The Kazan Kremlin (Russian: Казанский кремль; Tatar: Казан кирмәне) is the chief historic citadel of Kazan, a city in Russia.[2] It was built at the behest of Ivan the Terrible on the ruins of the former castle of Kazan khans. It was declared a World Heritage Site in 2000."
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

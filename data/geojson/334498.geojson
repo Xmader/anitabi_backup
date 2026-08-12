@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.455339,
+          40.902639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 334498,
+        "bangumi_title": "歌愈少女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/334498/points/ryserw80s-1737039816744.jpg",
+        "location": "",
+        "point_id": "ryserw80s",
+        "point_name": "太宰​治​記念館 斜陽​館",
+        "remark": "乌丸声音治疗院"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

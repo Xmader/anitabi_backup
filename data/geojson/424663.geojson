@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.622659,
+          35.920891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 424663,
+        "bangumi_title": "憧憬成为魔法少女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/424663/q25p73m8x_1731661243059.jpg",
+        "location": "",
+        "point_id": "q25p73m8x",
+        "point_name": "COCO'S\n大宮​赤芝​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623965,
+          35.906143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 424663,
+        "bangumi_title": "憧憬成为魔法少女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/424663/q25kygfva_1731661013235.jpg",
+        "location": "",
+        "point_id": "q25kygfva",
+        "point_name": "大宮駅の西",
+        "remark": "部分外观并未完全对应，但从大致轮廓和左下角的屋顶停车场等关键特征，以及其它点都位于大宫附近，可以判断此场景高度参考了大宫站西向的建筑群"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623589,
+          35.904366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 424663,
+        "bangumi_title": "憧憬成为魔法少女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/424663/q263411kz_1731662088414.jpg",
+        "location": "",
+        "point_id": "q263411kz",
+        "point_name": "アニメイト大宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620864,
+          35.905497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 424663,
+        "bangumi_title": "憧憬成为魔法少女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/424663/q264wp0e0_1731662186319.jpg",
+        "location": "",
+        "point_id": "q264wp0e0",
+        "point_name": "鐘塚公園",
+        "remark": "公园中心十分有特征的标志物"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

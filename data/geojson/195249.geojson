@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.760595,
+          35.028327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195249,
+        "bangumi_title": "避难所",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195249/points/e8el87o-1777993684519.jpg",
+        "location": "",
+        "point_id": "e8el87o",
+        "point_name": "Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.779948,
+          35.003798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195249,
+        "bangumi_title": "避难所",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195249/points/e8ev0q9-1777994056496.jpg",
+        "location": "",
+        "point_id": "e8ev0q9",
+        "point_name": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.778107,
+          35.003689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195249,
+        "bangumi_title": "避难所",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195249/points/e8ezmqt-1777994237645.jpg",
+        "location": "",
+        "point_id": "e8ezmqt",
+        "point_name": "625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77841,
+          34.998588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195249,
+        "bangumi_title": "避难所",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195249/points/e8f3sw5-1777994440971.jpg",
+        "location": "",
+        "point_id": "e8f3sw5",
+        "point_name": "〒605-0862 Kyoto, Higashiyama Ward, 清水八坂上町388",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

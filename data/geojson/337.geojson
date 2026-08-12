@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.181986,
+          22.282739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337,
+        "bangumi_title": "全金属狂潮 The Second Raid",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/337/sjyc26eoc_1739179171221.jpg",
+        "location": "",
+        "point_id": "sjyc26eoc",
+        "point_name": "海底隧道港島入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.150958,
+          22.28053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337,
+        "bangumi_title": "全金属狂潮 The Second Raid",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/337/sjymcolrl_1739178425597.jpg",
+        "location": "",
+        "point_id": "sjymcolrl",
+        "point_name": "輝煌豪園 Palatial Crest",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.190656,
+          22.331598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337,
+        "bangumi_title": "全金属狂潮 The Second Raid",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/337/sp6d89itk_1739180727194.jpg",
+        "location": "",
+        "point_id": "sp6d89itk",
+        "point_name": "九龍寨城公園 Kowloon Walled City Park",
+        "remark": "九龙寨城公园大门口\nmain door of the park"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.170266,
+          22.301298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 337,
+        "bangumi_title": "全金属狂潮 The Second Raid",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/337/sp6kg12le_1739180753887.jpg",
+        "location": "",
+        "point_id": "sp6kg12le",
+        "point_name": "九龍公園 kowloon park",
+        "remark": "九龙公园的圆形喷泉\nThe circle spring in the kowloon park"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

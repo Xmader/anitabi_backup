@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.759737,
+          35.695762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231722,
+        "bangumi_title": "邪神与厨二病少女",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231722/points/s240jmp7x-1737299861548.jpg",
+        "location": "",
+        "point_id": "s240jmp7x",
+        "point_name": "書泉グランデ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758408,
+          35.695311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231722,
+        "bangumi_title": "邪神与厨二病少女",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231722/points/s249yb68y-1737300517675.jpg",
+        "location": "",
+        "point_id": "s249yb68y",
+        "point_name": "神田すずらん通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759847,
+          35.696425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231722,
+        "bangumi_title": "邪神与厨二病少女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231722/points/s24g0pr6h-1737300820609.jpg",
+        "location": "",
+        "point_id": "s24g0pr6h",
+        "point_name": " JINSEI GEKIJYO",
+        "remark": "已于2021年停业。现为古书店“＠ワンダーJG”，但外部仍保留人生剧场的logo与部分灯箱。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758871,
+          35.695276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231722,
+        "bangumi_title": "邪神与厨二病少女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231722/points/s24obo62w-1737301237316.jpg",
+        "location": "",
+        "point_id": "s24obo62w",
+        "point_name": "橘昌文銭堂",
+        "remark": "营业时间10-18点，周日休息。店内有夹心酱漫画作者ユキヲ老师的亲笔。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757355,
+          35.695571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231722,
+        "bangumi_title": "邪神与厨二病少女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231722/points/s24pi6d2c-1737301360438.jpg",
+        "location": "",
+        "point_id": "s24pi6d2c",
+        "point_name": "欧風カレー　ボンディ　神保町本店",
+        "remark": "位于大楼2F，从大楼后方1F停车场进入。人均1700日元左右，仅接受现金付款。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758142,
+          35.695884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 231722,
+        "bangumi_title": "邪神与厨二病少女",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/231722/points/3y27s9e-1755600315238.jpg",
+        "location": "",
+        "point_id": "3y27s9e",
+        "point_name": "神保町",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

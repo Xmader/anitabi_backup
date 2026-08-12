@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.851432,
+          34.528903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321885,
+        "bangumi_title": "链锯人",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/321885/4t3lk8bu9.jpg",
+        "location": "",
+        "point_id": "4t3lk8bu9",
+        "point_name": "大神神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653916,
+          35.737582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321885,
+        "bangumi_title": "链锯人",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/321885/4t3osyzmz.jpg",
+        "location": "",
+        "point_id": "4t3osyzmz",
+        "point_name": "练马站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654701,
+          35.737592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321885,
+        "bangumi_title": "链锯人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/321885/uof9im9ju_1744690519364.jpg",
+        "location": "",
+        "point_id": "uof9im9ju",
+        "point_name": "练马站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654588,
+          35.73769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321885,
+        "bangumi_title": "链锯人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/321885/uofa0i6yk_1744690537123.jpg",
+        "location": "",
+        "point_id": "uofa0i6yk",
+        "point_name": "练马站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.642159,
+          35.738601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321885,
+        "bangumi_title": "链锯人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/321885/uofbxwiwi_1744690666635.jpg",
+        "location": "",
+        "point_id": "uofbxwiwi",
+        "point_name": "目白通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480202,
+          35.299399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321885,
+        "bangumi_title": "链锯人",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "csisxbghx",
+        "point_name": "江島神社中津宮",
+        "remark": "链锯人官方外传《梦幻江之岛》"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

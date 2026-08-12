@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.768152,
+          32.452936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 203526,
+        "bangumi_title": "来自深渊",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/203526/points/7cwk9qo-1763028142166.jpg",
+        "location": "",
+        "point_id": "7cwk9qo",
+        "point_name": "青ヶ島",
+        "remark": "来自深渊中abyss所在的岛屿的原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

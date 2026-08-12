@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          118.066116,
+          24.53958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576623,
+        "bangumi_title": "拆迁地球及爱情事故",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/576623/points/ezjdhxw-1779634311307.jpg",
+        "location": "",
+        "point_id": "ezjdhxw",
+        "point_name": "厦门岛鸟瞰",
+        "remark": "游戏设定为“海门市”，地标为视角位置，此图旋转180°再翻转即可"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.083725,
+          24.43836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576623,
+        "bangumi_title": "拆迁地球及爱情事故",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/576623/points/ezjoxbw-1779634713567.jpg",
+        "location": "",
+        "point_id": "ezjoxbw",
+        "point_name": "世茂海峡大厦",
+        "remark": "图中帆船型双塔建筑，需要翻转此图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.618617,
+          27.048008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576623,
+        "bangumi_title": "拆迁地球及爱情事故",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/1073/2026-06/1d183c39e5ce176048d99bd4d3f15abb.jpeg",
+        "location": "",
+        "point_id": "fpferll",
+        "point_name": "福建省福安第一中学溪北洋新校区",
+        "remark": "男主「许清北」老家的中学"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.070923,
+          24.492758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576623,
+        "bangumi_title": "拆迁地球及爱情事故",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/1073/2026-06/838935800573ea559a994c7f96960a16.jpeg",
+        "location": "",
+        "point_id": "fpglw1i",
+        "point_name": "海上世界购物中心摩天轮",
+        "remark": "需要翻转此图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.045792,
+          24.508388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576623,
+        "bangumi_title": "拆迁地球及爱情事故",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/1073/2026-06/fc09a2d30e52d1e4ae19e6f2c0b73610.jpeg",
+        "location": "",
+        "point_id": "fpgykk3",
+        "point_name": "海沧区 大屏山",
+        "remark": "从山上俯瞰海沧大桥，火烧屿，对面山上有海上明珠塔"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

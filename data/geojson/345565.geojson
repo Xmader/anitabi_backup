@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.464252,
+          38.030843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 345565,
+        "bangumi_title": "征服",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/345565/points/nyg8kk2rb-1725728914218.jpg",
+        "location": "",
+        "point_id": "nyg8kk2rb",
+        "point_name": "工农路与维明南大街交叉口",
+        "remark": "华强买瓜遗址。目前后面的楼都拆了，前面家属院刷了个漆还能看出来。水果摊儿今犹在，不见当年劈瓜人~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.45035,
+          38.051326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 345565,
+        "bangumi_title": "征服",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/345565/points/h1vv3p8-1784129936343.webp",
+        "location": "",
+        "point_id": "h1vv3p8",
+        "point_name": "西焦北路与新和街交叉口",
+        "remark": "华强买报纸遗址"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

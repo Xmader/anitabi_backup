@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.56651,
+          35.283119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 583138,
+        "bangumi_title": "「エガクミライ」アニメーションMV",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/89eqfd2-1764993757034.jpg",
+        "location": "",
+        "point_id": "89eqfd2",
+        "point_name": "葉山港堤防A 防波護岸入口",
+        "remark": "葉山港堤防有两个楼梯，此为还原度更高的一个"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

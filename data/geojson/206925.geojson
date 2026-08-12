@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.998117,
+          28.071262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 206925,
+        "bangumi_title": "一人之下 第二季",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/206925/points/npwffb6z8-1725058485797.jpg",
+        "location": "第二季全部",
+        "point_id": "npwffb6z8",
+        "point_name": "龙虎山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.030265,
+          28.046018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 206925,
+        "bangumi_title": "一人之下 第二季",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/206925/points/ba2qcw0-1771564240927.jpg",
+        "location": "",
+        "point_id": "ba2qcw0",
+        "point_name": "上清古镇府前街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.033123,
+          28.045664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 206925,
+        "bangumi_title": "一人之下 第二季",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/206925/points/ba5yamc-1771569711183.jpg",
+        "location": "",
+        "point_id": "ba5yamc",
+        "point_name": "上清古镇天师府",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

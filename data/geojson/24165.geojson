@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.853645,
+          34.376054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24165,
+        "bangumi_title": "咲-Saki- 阿知賀編 episode of side-A",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/24165/points/mcpmzga4h-1721203956863.jpg",
+        "location": "",
+        "point_id": "mcpmzga4h",
+        "point_name": "吉野駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.504093,
+          34.778885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24165,
+        "bangumi_title": "咲-Saki- 阿知賀編 episode of side-A",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/24165/points/mnwxm4iv6-1722081826996.jpg",
+        "location": "",
+        "point_id": "mnwxm4iv6",
+        "point_name": "千里山第一噴水",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.505313,
+          34.778742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 24165,
+        "bangumi_title": "咲-Saki- 阿知賀編 episode of side-A",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/24165/points/vgij5skp6-1746891946663.jpg",
+        "location": "",
+        "point_id": "vgij5skp6",
+        "point_name": "千里山駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,585 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.68,
+          35.602694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i80evm-1746148166656.jpg",
+        "location": "",
+        "point_id": "v70i80evm",
+        "point_name": "世田谷区立奥沢中学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691531,
+          35.613998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/j9poomvoe-1722482045953.jpg",
+        "location": "",
+        "point_id": "j9poomvoe",
+        "point_name": "ファミリー​マート\n原町​二丁目​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691596,
+          35.614009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/394260/5dgzm3h_1758708861096.jpg",
+        "location": "",
+        "point_id": "5dgzm3h",
+        "point_name": "ファミリーマート 原町二丁目店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691555,
+          35.615128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i803w3-1746148166653.jpg",
+        "location": "",
+        "point_id": "v70i803w3",
+        "point_name": "碑文谷警察署 原町交番",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694248,
+          35.610437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i7zltv-1746148166651.jpg",
+        "location": "",
+        "point_id": "v70i7zltv",
+        "point_name": "洗足駅",
+        "remark": "售票机前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691558,
+          35.615176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/441795/j9pqf3ua3_1726752596262_c16v9.jpg",
+        "location": "",
+        "point_id": "j9pqf3ua3",
+        "point_name": "碑文谷警察署 原町交番",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748716,
+          35.70053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": "EP 5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/2pwz5ag-1752930962520.jpg",
+        "location": "",
+        "point_id": "2pwz5ag",
+        "point_name": "ファミリー​マート\n飯田橋​三丁目​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749115,
+          35.700351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/hb1l2cba3-1706967711762.jpg",
+        "location": "",
+        "point_id": "hb1l2cba3",
+        "point_name": "秋田書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715628,
+          35.633306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/mt0wbthrj-1722482214076.jpg",
+        "location": "",
+        "point_id": "mt0wbthrj",
+        "point_name": "目黑駅（東京メトロ南北線）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715639,
+          35.633302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i7zue7-1746148166655.jpg",
+        "location": "",
+        "point_id": "v70i7zue7",
+        "point_name": "目黑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715641,
+          35.6333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i883pm-1746148166655.jpg",
+        "location": "",
+        "point_id": "v70i883pm",
+        "point_name": "目黑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715641,
+          35.6333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i80hf5-1746148166655.jpg",
+        "location": "",
+        "point_id": "v70i80hf5",
+        "point_name": "目黑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.679466,
+          35.602769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/j9qa6xsk7-1725113905141.jpg",
+        "location": "",
+        "point_id": "j9qa6xsk7",
+        "point_name": "奥沢中学",
+        "remark": "2026.6.25，学校正进行大规模翻新装修，被泡沫板墙和网给围住了，几乎拍不出动漫里的画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691625,
+          35.614019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/394260/5dgykiw_1758708829080.jpg",
+        "location": "",
+        "point_id": "5dgykiw",
+        "point_name": "ファミリーマート 原町二丁目店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69166,
+          35.614015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/394260/5dh0xsi_1758708921403.jpg",
+        "location": "",
+        "point_id": "5dh0xsi",
+        "point_name": "ファミリーマート 原町二丁目店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691678,
+          35.614017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/394260/5dh1kz2_1758708951431.jpg",
+        "location": "",
+        "point_id": "5dh1kz2",
+        "point_name": "ファミリーマート 原町二丁目店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691694,
+          35.614028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i80c6y-1746148166654.jpg",
+        "location": "",
+        "point_id": "v70i80c6y",
+        "point_name": "ファミリーマート 原町二丁目店",
+        "remark": "东侧建筑物前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691673,
+          35.61403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/394260/5dh1y62_1758708968779.jpg",
+        "location": "",
+        "point_id": "5dh1y62",
+        "point_name": "ファミリーマート 原町二丁目店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694366,
+          35.61041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/j4fx6i32h-1712092718906.jpg",
+        "location": "东京都目黑区",
+        "point_id": "j4fx6i32h",
+        "point_name": "洗足駅",
+        "remark": "我心里危险的东西男女主经常碰面的电车站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700575,
+          35.65905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/jkrfpujqx-1722482077063.jpg",
+        "location": "",
+        "point_id": "jkrfpujqx",
+        "point_name": "忠犬ハチ公",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69955,
+          35.662132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i7zqd2-1746148166655.jpg",
+        "location": "",
+        "point_id": "v70i7zqd2",
+        "point_name": "Grandma's GEORGES",
+        "remark": "约会吃饭的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.685492,
+          35.608155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/mt16n0w06-1722482806722.jpg",
+        "location": "",
+        "point_id": "mt16n0w06",
+        "point_name": "ガスト\n大岡山​駅​前​店​(から​好し​取扱店)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.684605,
+          35.611496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/mt1icswxj-1722483532849.jpg",
+        "location": "",
+        "point_id": "mt1icswxj",
+        "point_name": "コインランドリー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708122,
+          35.628513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/j9pztrg91-1717413213715.jpg",
+        "location": "",
+        "point_id": "j9pztrg91",
+        "point_name": "目黑不動尊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708341,
+          35.628007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i80006-1746148166652.jpg",
+        "location": "",
+        "point_id": "v70i80006",
+        "point_name": "目黑不動尊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708111,
+          35.628516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/394260/5dirmi6_1758711850579.jpg",
+        "location": "",
+        "point_id": "5dirmi6",
+        "point_name": "目黑不動尊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708186,
+          35.628523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/394260/5disoun_1758711898118.jpg",
+        "location": "",
+        "point_id": "5disoun",
+        "point_name": "目黑不動尊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708278,
+          35.628111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/1139/bangumi/394260/points/v70i807fp-1746148166654.jpg",
+        "location": "",
+        "point_id": "v70i807fp",
+        "point_name": "目黑不動尊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715637,
+          35.633305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 394260,
+        "bangumi_title": "我心里危险的东西",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/394260/points/dmkk8iw-1776673383045.jpg",
+        "location": "",
+        "point_id": "dmkk8iw",
+        "point_name": "目黑站",
+        "remark": "目黑站里目黑线旁的厕所"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

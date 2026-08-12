@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.700776,
+          26.227737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 315456,
+        "bangumi_title": "无限滑板",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/315456/points/815w5pt-1764495223235.jpg",
+        "location": "",
+        "point_id": "815w5pt",
+        "point_name": "Ａ&Ｗ 那覇新都心おもろ店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

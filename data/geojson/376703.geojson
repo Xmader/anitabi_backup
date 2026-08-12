@@ -1,0 +1,925 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.701998,
+          35.658694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/376703/98ae3010_1755588877607.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "98ae3010",
+        "point_name": "渋谷駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700678,
+          35.659377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/376703/547a8f10_1755589079469.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "547a8f10",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7039,
+          35.659857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": "KV",
+        "image_url": "https://w.junreimap.com/images/points/376703/16557b11_1718290504334.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "16557b11",
+        "point_name": "宮益御嶽神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704676,
+          35.659963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/ebe5cbf5-1733810825879.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "ebe5cbf5",
+        "point_name": "朝日生命宮益坂ビル付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69827,
+          35.659073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/376703/338b7634_1755589084941.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "338b7634",
+        "point_name": "ロッテリア 渋谷道玄坂店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698768,
+          35.656597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/5bf41595-1741063618562.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "5bf41595",
+        "point_name": "渋谷ブリッジ21",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696908,
+          35.655904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/376703/7476f290_1718290580666.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "7476f290",
+        "point_name": "すき家 渋谷南平台店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696912,
+          35.655904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/376703/lbjberill_1718290624427.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "lbjberill",
+        "point_name": "すき家 渋谷南平台店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69691,
+          35.655904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/376703/lbjbgneho_1718290629244.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "lbjbgneho",
+        "point_name": "すき家 渋谷南平台店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703093,
+          35.661736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/cfaf5e98-1741063422528.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "cfaf5e98",
+        "point_name": "渋谷１丁目１８−２７",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702595,
+          35.662822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/376703/4ed96d49_1755588933940.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "4ed96d49",
+        "point_name": "SHIBUYA CAST. GARDEN",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707014,
+          35.658705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/376703/61bae42b_1755588966771.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "61bae42b",
+        "point_name": "東建インターナショナルビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707954,
+          35.65765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/376703/ddffc2e5_1755588972308.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "ddffc2e5",
+        "point_name": "お酒販売・買取 LINXAS 東京渋谷店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706441,
+          35.657558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/3ab30436-1733811527776.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "3ab30436",
+        "point_name": "金王八幡宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70514,
+          35.655872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/07bfcbdd-1734361913235.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "07bfcbdd",
+        "point_name": "徒歩橋（渋谷川）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698798,
+          35.657987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/7b8ae73d-1734361868819.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "7b8ae73d",
+        "point_name": "セルリアンタワー通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701037,
+          35.656931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/7183904d-1734361433639.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "7183904d",
+        "point_name": "さくら坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701939,
+          35.65413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/2083364a-1734361706981.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "2083364a",
+        "point_name": "西村無線電機㈱",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702589,
+          35.654556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/d094b3b7-1734361786021.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "d094b3b7",
+        "point_name": "カレコ・カーシェアリングクラブ リパーク渋谷桜丘町第５",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693753,
+          35.654209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/e1556a0c-1731723775809.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "e1556a0c",
+        "point_name": "ベルサール渋谷ガーデン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6945,
+          35.653409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/7d396e06-1733812242481.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "7d396e06",
+        "point_name": "ナビパーク 南平台町第1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705218,
+          35.670078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/f4bdf2c5-1734361338554.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "f4bdf2c5",
+        "point_name": "皿噴水",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699904,
+          35.656202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/376703/5046b918_1755589144557.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "5046b918",
+        "point_name": "セルリアンタワー東急ホテル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706193,
+          35.6572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/2539aefa-1733811877794.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "2539aefa",
+        "point_name": "豊栄稲荷神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697925,
+          35.658694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/e822fcc9-1734361505864.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "e822fcc9",
+        "point_name": "長岩医院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698075,
+          35.65862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/35b6e1c7-1734361530559.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "35b6e1c7",
+        "point_name": "長岩医院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701096,
+          35.653824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/dfa8335a-1734361638144.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "dfa8335a",
+        "point_name": "鶯谷2号階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710556,
+          35.633708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/981c0b72-1731435690126.jpg",
+        "location": "目黒区",
+        "point_id": "981c0b72",
+        "point_name": "目黒新橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709013,
+          35.634613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/376703/a8deeec8_1755589511084.jpg",
+        "location": "目黒区",
+        "point_id": "a8deeec8",
+        "point_name": "目黒区民センター公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713962,
+          35.633212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "目黒区",
+        "point_id": "8a2534c9",
+        "point_name": "ホリプロA館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413333,
+          35.698655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/376703/6060a76b_1755589357508.jpg",
+        "location": "立川",
+        "point_id": "6060a76b",
+        "point_name": "立川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.41162,
+          35.70044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/f983eb72_1755589388286.jpg",
+        "location": "立川",
+        "point_id": "f983eb72",
+        "point_name": "Caffe Dolce & Pane",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411145,
+          35.701442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/78cc705d_1755589633900.jpg",
+        "location": "立川",
+        "point_id": "78cc705d",
+        "point_name": "立川市曙一丁目公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.403427,
+          35.702784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/3925cda1_1755589442958.jpg",
+        "location": "立川",
+        "point_id": "3925cda1",
+        "point_name": "昭和記念公園(立川口)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.401072,
+          35.702646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/e25c90c6_1755589471109.jpg",
+        "location": "立川",
+        "point_id": "e25c90c6",
+        "point_name": "噴水",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.392294,
+          35.712251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/42363ed4_1755589476350.jpg",
+        "location": "立川",
+        "point_id": "42363ed4",
+        "point_name": "月の丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.391895,
+          35.714732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/55f6765d_1755589528130.jpg",
+        "location": "立川",
+        "point_id": "55f6765d",
+        "point_name": "こどもの森",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.822419,
+          35.876574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/376703/104a61a5_1755589582413.jpg",
+        "location": "埼玉県",
+        "point_id": "104a61a5",
+        "point_name": "mipig cafe イオンレイクタウン店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.824171,
+          35.877159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/376703/7df7ee08_1755589587323.jpg",
+        "location": "埼玉県",
+        "point_id": "7df7ee08",
+        "point_name": "光の広場",
+        "remark": "3F"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.825279,
+          35.878174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/376703/1a788dad_1755589593501.jpg",
+        "location": "埼玉県",
+        "point_id": "1a788dad",
+        "point_name": "翼の広場",
+        "remark": "3F"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64182,
+          35.725558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/039c7d67_1755589338060.jpg",
+        "location": "中野区",
+        "point_id": "039c7d67",
+        "point_name": "DizzyPoint東京店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594692,
+          35.737565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/376703/e6b9bba0_1755589316029.jpg",
+        "location": "練馬区",
+        "point_id": "e6b9bba0",
+        "point_name": "厳島神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705068,
+          35.65649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/r0mgbdki8-1734362104659.jpg",
+        "location": "渋谷・原宿",
+        "point_id": "r0mgbdki8",
+        "point_name": "渋谷三丁目歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.20026,
+          35.397609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/tkwlu9a3e-1741593705076.jpg",
+        "location": "千葉県",
+        "point_id": "tkwlu9a3e",
+        "point_name": "笠森寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.46645,
+          36.682941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/tkwx7nj1q-1741594384790.jpg",
+        "location": "茨城県",
+        "point_id": "tkwx7nj1q",
+        "point_name": "竜神峡 第1駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.465663,
+          36.684073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 376703,
+        "bangumi_title": "偶像大师 灰姑娘女孩 U149",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/376703/points/tkx1axrw6-1741594638426.jpg",
+        "location": "茨城県",
+        "point_id": "tkx1axrw6",
+        "point_name": "竜神大吊橋",
+        "remark": "バンジージャパン 竜神バンジー"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

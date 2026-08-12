@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.600218,
+          35.704089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491569,
+        "bangumi_title": "忍者与杀手二人组的日常生活",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/491569/unqwxvo2r_1744637512768.jpg",
+        "location": "",
+        "point_id": "unqwxvo2r",
+        "point_name": "大戸屋\nごはん​処​西荻窪​北口​駅前​店",
+        "remark": "女主们初次相遇后就餐的餐厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.600191,
+          35.70412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491569,
+        "bangumi_title": "忍者与杀手二人组的日常生活",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/491569/uns90w0sp_1744640411853.jpg",
+        "location": "",
+        "point_id": "uns90w0sp",
+        "point_name": "大户屋内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.600195,
+          35.704119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491569,
+        "bangumi_title": "忍者与杀手二人组的日常生活",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/491569/unsa565yb_1744640474508.jpg",
+        "location": "",
+        "point_id": "unsa565yb",
+        "point_name": "大户屋内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6002,
+          35.704118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491569,
+        "bangumi_title": "忍者与杀手二人组的日常生活",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/491569/unsae2w1z_1744640487981.jpg",
+        "location": "",
+        "point_id": "unsae2w1z",
+        "point_name": "大户屋内",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

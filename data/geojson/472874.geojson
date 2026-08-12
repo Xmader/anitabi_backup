@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.084834,
+          46.698265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472874,
+        "bangumi_title": "Lushfoil Photography Sim",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/472874/points/brpn7nf-1772630883947.jpg",
+        "location": "Lago di Braies",
+        "point_id": "brpn7nf",
+        "point_name": "Lago di Braies",
+        "remark": "意大利，南蒂罗尔 (South Tyrol)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77461,
+          34.967059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472874,
+        "bangumi_title": "Lushfoil Photography Sim",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/472874/points/brrw584-1772634543407.jpg",
+        "location": "Fushimi Inari",
+        "point_id": "brrw584",
+        "point_name": "Fushimi Inari Shrine",
+        "remark": "日本，京都"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.08741,
+          -33.592808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472874,
+        "bangumi_title": "Lushfoil Photography Sim",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/472874/points/brs4m46-1772634852176.jpg",
+        "location": "Castle Rock Beach",
+        "point_id": "brs4m46",
+        "point_name": "Castle Rock Beach",
+        "remark": "西澳大利亚，米拉普 (Meelup)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -18.887908,
+          63.464543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 472874,
+        "bangumi_title": "Lushfoil Photography Sim",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/472874/points/brt3q18-1772636654027.jpg",
+        "location": "Mýrdalssandur",
+        "point_id": "brt3q18",
+        "point_name": "Mýrdalsjökull",
+        "remark": "冰岛，南部海岸"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

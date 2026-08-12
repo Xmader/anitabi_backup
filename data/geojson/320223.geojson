@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.498152,
+          31.240153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320223,
+        "bangumi_title": "上海故事",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320223/points/nx7bavlas-1725630957060.jpg",
+        "location": "",
+        "point_id": "nx7bavlas",
+        "point_name": "陆家嘴",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.629786,
+          35.434104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297264,
+        "bangumi_title": "亚托莉 -我挚爱的时光-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1070/bangumi/297264/points/jigsq0e4f-1713191532672.jpg",
+        "location": "",
+        "point_id": "jigsq0e4f",
+        "point_name": "出雲日御碕灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

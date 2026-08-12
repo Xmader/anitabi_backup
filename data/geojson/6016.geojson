@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.600748,
+          35.740765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u8m0023e2-1743451420887.jpg",
+        "location": "",
+        "point_id": "u8m0023e2",
+        "point_name": "清心幼稚院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.530512,
+          35.78125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u8mg0o9s8-1743452443976.jpg",
+        "location": "",
+        "point_id": "u8mg0o9s8",
+        "point_name": "珈琲るぽ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.38574,
+          35.764946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u8neadcrx-1743454534795.jpg",
+        "location": "",
+        "point_id": "u8neadcrx",
+        "point_name": "成田国際空港第１ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.191812,
+          36.642168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u95rmac9w-1743494460381.jpg",
+        "location": "",
+        "point_id": "u95rmac9w",
+        "point_name": "abn朝日新闻长野总局",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.181379,
+          36.650158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u95wygifo-1743494751381.jpg",
+        "location": "",
+        "point_id": "u95wygifo",
+        "point_name": "长野县厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644233,
+          35.480965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u968x7l9t-1743495495949.jpg",
+        "location": "",
+        "point_id": "u968x7l9t",
+        "point_name": "新浦岛町邮便局",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.473836,
+          35.80022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 6016,
+        "bangumi_title": "假面骑士空我",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/6016/points/u96fvddul-1743495984757.jpg",
+        "location": "",
+        "point_id": "u96fvddul",
+        "point_name": "所泽市民文化音乐厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

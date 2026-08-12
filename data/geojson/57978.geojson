@@ -1,0 +1,7245 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.064658,
+          35.684134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "hvqz7uh",
+        "point_name": "词条已大修，请点击此地标强制刷新",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.064558,
+          35.685337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6ordbi_1731308677818.jpg",
+        "location": "日本",
+        "point_id": "kpx6ordbi",
+        "point_name": "実籾本郷公園通学路",
+        "remark": "キービジュアル、ＥＤ、３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.189222,
+          35.721611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6ordbd_1731308134940.jpg",
+        "location": "日本",
+        "point_id": "kpx6ordbd",
+        "point_name": "佐倉そめい野インフォメーションプラザ 1",
+        "remark": "ＯＰ、４話、10話、11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.1892,
+          35.721851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orczs_1731308143500.jpg",
+        "location": "日本",
+        "point_id": "kpx6orczs",
+        "point_name": "佐倉そめい野インフォメーションプラザ 2",
+        "remark": "ＯＰ、10話、11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.181215,
+          35.729485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6ordtl_1731308169658.jpg",
+        "location": "日本",
+        "point_id": "kpx6ordtl",
+        "point_name": "臼井駅南口（OP）",
+        "remark": "ＯＰ、１話、２話、５話、６話、７話、12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.064526,
+          35.684111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6oreic_1731308711642.jpg",
+        "location": "日本",
+        "point_id": "kpx6oreic",
+        "point_name": "実籾本郷公園 1",
+        "remark": "ＯＰ、ＥＤ、３話、８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.062476,
+          35.68242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orezh_1731308729250.jpg",
+        "location": "日本",
+        "point_id": "kpx6orezh",
+        "point_name": "実籾高校",
+        "remark": "ＯＰ、１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.062745,
+          35.683021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orf54_1731309097403.jpg",
+        "location": "日本",
+        "point_id": "kpx6orf54",
+        "point_name": "実籾高校通学路 1",
+        "remark": "ＯＰ、ＥＤ、２話、４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.181033,
+          35.7296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orezk_1731308193035.jpg",
+        "location": "日本",
+        "point_id": "kpx6orezk",
+        "point_name": "臼井駅南口（1話）",
+        "remark": "１話、６話、12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.06485,
+          35.683788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orfjm_1731308967444.jpg",
+        "location": "日本",
+        "point_id": "kpx6orfjm",
+        "point_name": "実籾本郷公園 2",
+        "remark": "ＥＤ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.063351,
+          35.683117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orftk_1731308835371.jpg",
+        "location": "日本",
+        "point_id": "kpx6orftk",
+        "point_name": "実籾高校通学路 2",
+        "remark": "１話、ＥＤ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.181239,
+          35.729657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orfkb_1731308228084.jpg",
+        "location": "日本",
+        "point_id": "kpx6orfkb",
+        "point_name": "臼井駅南口（2話）",
+        "remark": "２話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.020798,
+          35.691356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orfcl_1731309162620.jpg",
+        "location": "日本",
+        "point_id": "kpx6orfcl",
+        "point_name": "津田沼駅北口 1",
+        "remark": "２話、10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.022638,
+          35.690267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orgo7_1731309175739.jpg",
+        "location": "日本",
+        "point_id": "kpx6orgo7",
+        "point_name": "AM PIA 津田沼店",
+        "remark": "２話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019387,
+          35.689977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6org7h_1731309185299.jpg",
+        "location": "日本",
+        "point_id": "kpx6org7h",
+        "point_name": "モリシア津田沼",
+        "remark": "２話、４話、10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.067422,
+          35.686756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6org3a_1731309051000.jpg",
+        "location": "日本",
+        "point_id": "kpx6org3a",
+        "point_name": "実籾駅（２番線）",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.068793,
+          35.687211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orgxi_1731309060443.jpg",
+        "location": "日本",
+        "point_id": "kpx6orgxi",
+        "point_name": "実籾駅北口",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.186043,
+          35.724808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orgvl_1731308507308.jpg",
+        "location": "日本",
+        "point_id": "kpx6orgvl",
+        "point_name": "ジョリーパスタ（3話）",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.189039,
+          35.721544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6oriaq_1731308371274.jpg",
+        "location": "日本",
+        "point_id": "kpx6oriaq",
+        "point_name": "染井野地区住宅地",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.189087,
+          35.721709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6ori8o_1731308389788.jpg",
+        "location": "日本",
+        "point_id": "kpx6ori8o",
+        "point_name": "佐倉そめい野インフォメーションプラザ 3",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.179976,
+          35.728126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orhn3_1731308401179.jpg",
+        "location": "日本",
+        "point_id": "kpx6orhn3",
+        "point_name": "中華喜楽",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019629,
+          35.690188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orhne_1731309213428.jpg",
+        "location": "日本",
+        "point_id": "kpx6orhne",
+        "point_name": "モリシア津田沼前 1",
+        "remark": "４話、10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.186255,
+          35.72486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orip5_1731308576347.jpg",
+        "location": "日本",
+        "point_id": "kpx6orip5",
+        "point_name": "ジョリーパスタ（4話）1",
+        "remark": "４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.186183,
+          35.724788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6oriqn_1731308585275.jpg",
+        "location": "日本",
+        "point_id": "kpx6oriqn",
+        "point_name": "ジョリーパスタ（4話）2",
+        "remark": "４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.186158,
+          35.724934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orjeh_1731308592507.jpg",
+        "location": "日本",
+        "point_id": "kpx6orjeh",
+        "point_name": "ジョリーパスタ（4話）3",
+        "remark": "４話、12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.18935,
+          35.721848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orjiy_1731308631553.jpg",
+        "location": "日本",
+        "point_id": "kpx6orjiy",
+        "point_name": "ウエルシア薬局佐倉染井野店 1",
+        "remark": "４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.190815,
+          35.722415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orjy0_1731309342275.jpg",
+        "location": "日本",
+        "point_id": "kpx6orjy0",
+        "point_name": "しらかし公園",
+        "remark": "５話、６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.181411,
+          35.729359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orkpg_1731309412780.jpg",
+        "location": "日本",
+        "point_id": "kpx6orkpg",
+        "point_name": "臼井駅南口（6話）",
+        "remark": "６話、７話、12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.020038,
+          35.690544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orkvb_1731309581148.jpg",
+        "location": "日本",
+        "point_id": "kpx6orkvb",
+        "point_name": "津田沼駅南口",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.066258,
+          35.686416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orl0z_1731309478364.jpg",
+        "location": "日本",
+        "point_id": "kpx6orl0z",
+        "point_name": "実籾駅付近京成本線沿い",
+        "remark": "９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.189331,
+          35.721737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orloq_1731309556884.jpg",
+        "location": "日本",
+        "point_id": "kpx6orloq",
+        "point_name": "ウエルシア薬局佐倉染井野店 2",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.188841,
+          35.721966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orm5r_1731309959157.jpg",
+        "location": "日本",
+        "point_id": "kpx6orm5r",
+        "point_name": "販売センター バス停",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.021286,
+          35.691086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orlzx_1731309822803.jpg",
+        "location": "日本",
+        "point_id": "kpx6orlzx",
+        "point_name": "津田沼駅北口 2",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019749,
+          35.690363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orm9r_1731309724492.jpg",
+        "location": "日本",
+        "point_id": "kpx6orm9r",
+        "point_name": "津田沼公園",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019591,
+          35.690071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6ormt1_1731309743499.jpg",
+        "location": "日本",
+        "point_id": "kpx6ormt1",
+        "point_name": "モリシア津田沼前 2",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.18831,
+          35.722478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orm9p_1731309769883.jpg",
+        "location": "日本",
+        "point_id": "kpx6orm9p",
+        "point_name": "染井野ヒルズひまわりの里 1",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.188417,
+          35.722567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6ormp5_1731309682117.jpg",
+        "location": "日本",
+        "point_id": "kpx6ormp5",
+        "point_name": "染井野ヒルズひまわりの里 2",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.185928,
+          35.724938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orng5_1731309883996.jpg",
+        "location": "日本",
+        "point_id": "kpx6orng5",
+        "point_name": "ジョリーパスタ（12話）",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.185874,
+          35.72518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/kpx6orn3r_1731309893172.jpg",
+        "location": "日本",
+        "point_id": "kpx6orn3r",
+        "point_name": "ジョリーパスタ付近住宅",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.748984,
+          35.002485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mcp31heax",
+        "point_name": "大宮通",
+        "remark": "角色（大宫 忍）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.750429,
+          35.002587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mcp2igsb7",
+        "point_name": "猪熊通",
+        "remark": "角色（猪熊 阳子）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.750553,
+          35.002445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mcp2hj6dl",
+        "point_name": "綾小路通",
+        "remark": "角色（小路 绫）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759809,
+          34.979542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mcp0calvg",
+        "point_name": "九条通",
+        "remark": "角色（九条 可怜）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.749253,
+          34.998766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mcp58wy5j",
+        "point_name": "松原通",
+        "remark": "角色（松原 穗乃花）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75972,
+          34.970669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mcoz0iyk6",
+        "point_name": "烏丸通",
+        "remark": "角色（乌丸 樱）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759616,
+          34.97054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/mcp31heax_1721212066523.jpg",
+        "location": "角色命名由来",
+        "point_id": "mco4h3twu",
+        "point_name": "久世橋通",
+        "remark": "角色（久世桥 朱里）命名由来。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.12362,
+          51.50095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf3q3d_1775152491636.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxf3q3d",
+        "point_name": "大本钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124453,
+          51.500737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqa4g9_1775171266505.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqa4g9",
+        "point_name": "大本钟",
+        "remark": "S02EP11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.123527,
+          51.500946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf38ji_1775152470812.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxf38ji",
+        "point_name": "ビッグベン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124573,
+          51.500696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/pm1s2bulf_1730398877564.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "pm1s2bulf",
+        "point_name": "ビッグベン",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.122707,
+          51.500905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqcqq6_1775171390579.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqcqq6",
+        "point_name": "ウェストミンスター・ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.122946,
+          51.500891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqd0dz_1775171400118.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqd0dz",
+        "point_name": "ウェストミンスター・ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124893,
+          51.501031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqeayd_1775171460618.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqeayd",
+        "point_name": "ウェストミンスター・ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.123263,
+          51.500821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqefpy_1775171478648.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqefpy",
+        "point_name": "大本钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124134,
+          51.500722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqd5nd_1775171407018.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqd5nd",
+        "point_name": "大本钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.12448,
+          51.500636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqdc5p_1775171415553.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqdc5p",
+        "point_name": "大本钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124405,
+          51.500673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqdfcl_1775171419744.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqdfcl",
+        "point_name": "大本钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.123911,
+          51.500559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqdl16_1775171426966.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqdl16",
+        "point_name": "大本钟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.123463,
+          51.500861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqdsrj_1775171436942.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqdsrj",
+        "point_name": "ウェストミンスター・ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.123153,
+          51.500927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqdz2b_1775171445300.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "cxqdz2b",
+        "point_name": "ウェストミンスター・ブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.141569,
+          51.50144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/pm1soark9_1730398921023.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "pm1soark9",
+        "point_name": "バッキンガム宮殿",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.119675,
+          51.503339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/57978/pm1sd7du2_1730398893427.jpg",
+        "location": "威敏寺周边-伦敦-英国",
+        "point_id": "pm1sd7du2",
+        "point_name": "ロンドン・アイ",
+        "remark": "S02ED1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.088006,
+          51.513709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/pm1vebpp6_1730399086772.jpg",
+        "location": "英格兰银行周边-伦敦-英国",
+        "point_id": "pm1vebpp6",
+        "point_name": "Bank of England",
+        "remark": "S02ED1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.077735,
+          51.508217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxl91ul_1775162826590.jpg",
+        "location": "伦敦塔周边-伦敦-英国",
+        "point_id": "cxl91ul",
+        "point_name": "伦敦塔",
+        "remark": "伦敦塔西侧纪念票商店的北侧位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.098571,
+          51.509717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/57978/794bceec_1775162889211.jpg",
+        "location": "千禧桥周边-伦敦-英国",
+        "point_id": "794bceec",
+        "point_name": "千禧桥",
+        "remark": "SO2ED1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.177301,
+          51.532063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/ea2ddd5d_1736968099259.jpg",
+        "location": "St John's Wood-伦敦-英国",
+        "point_id": "ea2ddd5d",
+        "point_name": "アビー・ロード",
+        "remark": "2期ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.487038,
+          51.471884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxez5tj_1775152279211.jpg",
+        "location": "希斯罗机场-伦敦-英国",
+        "point_id": "cxez5tj",
+        "point_name": "London Heathrow Airport T5",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.489286,
+          51.471951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxezkam_1775152297833.jpg",
+        "location": "希斯罗机场-伦敦-英国",
+        "point_id": "cxezkam",
+        "point_name": "London Heathrow Airport T5",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.48713,
+          51.472239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf08o9_1775152329601.jpg",
+        "location": "希斯罗机场-伦敦-英国",
+        "point_id": "cxf08o9",
+        "point_name": "London Heathrow Airport T5",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.48717,
+          51.472453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf1247_1775152366987.jpg",
+        "location": "希斯罗机场-伦敦-英国",
+        "point_id": "cxf1247",
+        "point_name": "London Heathrow Airport T5",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.487077,
+          51.472049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf17p2_1775152373991.jpg",
+        "location": "希斯罗机场-伦敦-英国",
+        "point_id": "cxf17p2",
+        "point_name": "London Heathrow Airport T5",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.174559,
+          51.515521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/433a2bb2_1736968063683.jpg",
+        "location": "帕丁顿站周边-伦敦-英国",
+        "point_id": "433a2bb2",
+        "point_name": "Sawyers Arms",
+        "remark": "1期1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.175808,
+          51.516408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/9b05947e_1736968069428.jpg",
+        "location": "帕丁顿站周边-伦敦-英国",
+        "point_id": "9b05947e",
+        "point_name": "Paddington Station",
+        "remark": "1期1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.177214,
+          51.516845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf953b_1775152746056.jpg",
+        "location": "帕丁顿站周边-伦敦-英国",
+        "point_id": "cxf953b",
+        "point_name": "Paddington Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.178127,
+          51.517416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf9e1r_1775152756207.jpg",
+        "location": "帕丁顿站周边-伦敦-英国",
+        "point_id": "cxf9e1r",
+        "point_name": "Paddington Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.177972,
+          51.517467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf9jq6_1775152762974.jpg",
+        "location": "帕丁顿站周边-伦敦-英国",
+        "point_id": "cxf9jq6",
+        "point_name": "Paddington Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.177817,
+          51.51753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf9pfz_1775152770966.jpg",
+        "location": "帕丁顿站周边-伦敦-英国",
+        "point_id": "cxf9pfz",
+        "point_name": "Paddington Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.134566,
+          51.509963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf5r3l_1775152595088.jpg",
+        "location": "爱神喷泉-伦敦-英国",
+        "point_id": "cxf5r3l",
+        "point_name": "Shaftesbury Memorial Fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.134477,
+          51.509914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf66tm_1775152606289.jpg",
+        "location": "爱神喷泉-伦敦-英国",
+        "point_id": "cxf66tm",
+        "point_name": "Shaftesbury Memorial Fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.134625,
+          51.509898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf6f63_1775152617718.jpg",
+        "location": "爱神喷泉-伦敦-英国",
+        "point_id": "cxf6f63",
+        "point_name": "Shaftesbury Memorial Fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.134552,
+          51.509888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf6jne_1775152622848.jpg",
+        "location": "爱神喷泉-伦敦-英国",
+        "point_id": "cxf6jne",
+        "point_name": "Shaftesbury Memorial Fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.134526,
+          51.509931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxf71c5_1775152646424.jpg",
+        "location": "爱神喷泉-伦敦-英国",
+        "point_id": "cxf71c5",
+        "point_name": "Shaftesbury Memorial Fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.139764,
+          51.511961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/f1b0ab9d_1736968066583.jpg",
+        "location": "牛津街周边-伦敦-英国",
+        "point_id": "f1b0ab9d",
+        "point_name": "Regent St.",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.142138,
+          51.515341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/551a2e51_1736968065270.jpg",
+        "location": "牛津街周边-伦敦-英国",
+        "point_id": "551a2e51",
+        "point_name": "オックスフォード・サーカス駅",
+        "remark": "1期1話、2期ED・3・11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.566749,
+          51.42471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "皇家霍洛威-伦敦-英国",
+        "point_id": "a6d23118",
+        "point_name": "Royal Holloway",
+        "remark": "Mama's meet here"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245316,
+          51.500853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxov0ee_1775168896403.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxov0ee",
+        "point_name": "Fosse Farmhouse 北侧",
+        "remark": "农舍外北侧三岔路口处向南越过围墙拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245439,
+          51.500651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk6tud_1775161036697.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxk6tud",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": "铁门外向花园内拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245416,
+          51.500643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxggjdc_1775154768716.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxggjdc",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": "铁门外向花园内拍摄。现实中，这里没有砖墙，而是绿化墙。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245427,
+          51.500633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxggej8_1775154763429.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxggej8",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": "铁门外向花园内拍摄。现实中，这里没有砖墙，而是绿化墙。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245402,
+          51.500633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgsqea_1775155339727.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgsqea",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": "铁门外向花园内拍摄。现实中，这里没有砖墙，而是绿化墙。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245478,
+          51.500613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpd5hv_1775169736883.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxpd5hv",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": "理论上应该在拜伯里的家门口原型，实际上比较接近的是农庄门口。但是左侧建筑物结构也不完全一致（少了个窗），且现实中未来样式不是砖墙而是绿化墙。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245396,
+          51.500689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgicag_1775154853332.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgicag",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": "铁门外向花园内拍摄。现实中，这里没有砖墙，而是绿化墙。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245408,
+          51.500656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfj8ft_1775153215257.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfj8ft",
+        "point_name": "Fosse Farmhouse 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245554,
+          51.500717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/6800d2fe_1775153032058.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "6800d2fe",
+        "point_name": "Fosse Farmhouse 主舍外 昼",
+        "remark": "梦开始的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245596,
+          51.50073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgrhh3_1775155280142.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgrhh3",
+        "point_name": "Fosse Farmhouse 主舍外 昼 差分",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245704,
+          51.500753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfzvlq_1775153991377.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfzvlq",
+        "point_name": "Fosse Farmhouse 主舍外 昼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245576,
+          51.500723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgdj74_1775154628249.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgdj74",
+        "point_name": "Fosse Farmhouse 主舍外 夜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245737,
+          51.500743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfvjpt_1775153789529.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfvjpt",
+        "point_name": "Fosse Farmhouse 主舍外 夜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245775,
+          51.500753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgfk68_1775154723168.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgfk68",
+        "point_name": "Fosse Farmhouse 主舍外 夜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245756,
+          51.50075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrnfc4_1775173566613.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxrnfc4",
+        "point_name": "Fosse Farmhouse 主舍外 夜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245734,
+          51.500919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxoxuj4_1775169112581.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxoxuj4",
+        "point_name": "Fosse Farmhouse 主舍 北侧",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245464,
+          51.500662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxflsj5_1775153334745.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxflsj5",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245492,
+          51.500677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfn4lh_1775153396713.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfn4lh",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245663,
+          51.500758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfmgpu_1775153371914.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfmgpu",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245599,
+          51.500758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxggm22_1775154771866.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxggm22",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245645,
+          51.500783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk73cd_1775161046496.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxk73cd",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": "椅子样式有点出入"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245625,
+          51.500813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgwrp0_1775155526457.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgwrp0",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245683,
+          51.500781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg5w80_1775154272722.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxg5w80",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245694,
+          51.500777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgwvgw_1775155531620.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgwvgw",
+        "point_name": "Fosse Farmhouse 花园 差分",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2457,
+          51.50077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxlcrrd_1775162992350.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxlcrrd",
+        "point_name": "Fosse Farmhouse 花园 差分",
+        "remark": "S02ED1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245674,
+          51.500788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxlc8iw_1775162967372.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxlc8iw",
+        "point_name": "Fosse Farmhouse 花园 差分",
+        "remark": "S02ED1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245644,
+          51.500809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxlceyj_1775162975900.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxlceyj",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": "S02ED1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245522,
+          51.500742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg647u_1775154282704.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxg647u",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245617,
+          51.500798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrlcrt_1775173469815.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxrlcrt",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245714,
+          51.500758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk76mw_1775161050362.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxk76mw",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24566,
+          51.500802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgskim_1775155329987.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgskim",
+        "point_name": "Fosse Farmhouse 花园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245755,
+          51.500785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk7cz6_1775161058652.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxk7cz6",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": "主舍红门入口处右侧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245763,
+          51.500779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfnl5i_1775153418031.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfnl5i",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245732,
+          51.50077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfly51_1775153342092.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfly51",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245756,
+          51.500772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgdetu_1775154623575.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgdetu",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245647,
+          51.500754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfn96l_1775153402773.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxfn96l",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245715,
+          51.50078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgseoe_1775155322406.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgseoe",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245761,
+          51.500768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqnad7_1775171883524.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxqnad7",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245737,
+          51.500764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqni3u_1775171890294.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxqni3u",
+        "point_name": "Fosse Farmhouse 主舍入口（红门） 差分",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245746,
+          51.500768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgrl6s_1775155284313.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxgrl6s",
+        "point_name": "Fosse Farmhouse 主舍入口（红门）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245782,
+          51.500786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfrakh_1775153591884.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxfrakh",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245767,
+          51.500785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfqz4k_1775153576283.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxfqz4k",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245772,
+          51.500781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfr6j8_1775153585995.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxfr6j8",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245779,
+          51.500777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfoezt_1775153458097.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxfoezt",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245794,
+          51.500796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrd0th_1775173080477.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxrd0th",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24581,
+          51.500803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxoyui6_1775169079468.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxoyui6",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245801,
+          51.500789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfo2yt_1775153450259.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxfo2yt",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245811,
+          51.500793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk7rdg_1775161077575.jpg",
+        "location": "Fosse Farmhouse主舍-英国",
+        "point_id": "cxk7rdg",
+        "point_name": "Fosse Farmhouse 玄关",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24568,
+          51.500705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrlpoo_1775173486827.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxrlpoo",
+        "point_name": "Fosse Farmhouse Living Room 北侧",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245779,
+          51.500682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk795t_1775161053459.jpg",
+        "location": "Fosse Farmhouse室外-英国",
+        "point_id": "cxk795t",
+        "point_name": "Fosse Farmhouse Living Room 外",
+        "remark": "不完全一致，现实里的房屋结构似乎没有这个烟囱？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245688,
+          51.500605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrq8zm_1775173698450.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxrq8zm",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245701,
+          51.500614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrqcsp_1775173703660.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxrqcsp",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24572,
+          51.500616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrqgnn_1775173707623.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxrqgnn",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245713,
+          51.500624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrqke1_1775173712442.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxrqke1",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245704,
+          51.500603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrqo1y_1775173717165.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxrqo1y",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245677,
+          51.500613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxp8806_1775169502014.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxp8806",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245687,
+          51.500613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxp8ks1_1775169533837.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxp8ks1",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245904,
+          51.500857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxffllz_1775153049949.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxffllz",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245901,
+          51.50086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk7yo8_1775161086775.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxk7yo8",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245903,
+          51.500847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk82s2_1775161092708.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxk82s2",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2459,
+          51.500855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg53y6_1775154236195.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxg53y6",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245911,
+          51.500838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfftp6_1775153056198.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxfftp6",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245897,
+          51.500853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg5lci_1775154258013.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxg5lci",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245898,
+          51.500858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgr77n_1775155266350.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxgr77n",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245913,
+          51.500843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrfktb_1775173199838.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrfktb",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245894,
+          51.500856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrfnvx_1775173203758.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrfnvx",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245907,
+          51.500841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrfty5_1775173211869.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrfty5",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245906,
+          51.500845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgrcb5_1775155273123.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxgrcb5",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2459,
+          51.50085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg5oze_1775154262605.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxg5oze",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245905,
+          51.500852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxri0w2_1775173316224.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxri0w2",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245921,
+          51.500841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxri6eb_1775173321585.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxri6eb",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245911,
+          51.500846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxricrv_1775173330022.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxricrv",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245916,
+          51.500839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxringk_1775173343856.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxringk",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245909,
+          51.500854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrircs_1775173348943.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrircs",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245918,
+          51.500844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrivgt_1775173354065.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrivgt",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245907,
+          51.500849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrizqb_1775173359500.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrizqb",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245912,
+          51.500851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrj45d_1775173364793.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrj45d",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245915,
+          51.500848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrj7n2_1775173369875.jpg",
+        "location": "Fosse Farmhouse Kitchen-英国",
+        "point_id": "cxrj7n2",
+        "point_name": "Fosse Farmhouse Kitchen",
+        "remark": "厨房为staff only，未经允许不可进入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24573,
+          51.500615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/rfpcb8yby_1775153618226.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "rfpcb8yby",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": "In a separate cottage from house. Can visit if there are no other guests in the cottage."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245651,
+          51.500629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg2vre_1775154132059.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxg2vre",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245716,
+          51.500606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg4b30_1775154198877.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxg4b30",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245675,
+          51.500603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgdvmu_1775154646355.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxgdvmu",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245663,
+          51.500616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxge07z_1775154650375.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxge07z",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245692,
+          51.500619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxge29b_1775154652935.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxge29b",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.2457,
+          51.500625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxge4tq_1775154656308.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxge4tq",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245683,
+          51.500637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxge7cu_1775154659550.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxge7cu",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245709,
+          51.500613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg4et8_1775154204650.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxg4et8",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24567,
+          51.500625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg4jju_1775154209076.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxg4jju",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245681,
+          51.500623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg308y_1775154137230.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxg308y",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245691,
+          51.50063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg331g_1775154140738.jpg",
+        "location": "Fosse Farmhouse Living Room - 英国",
+        "point_id": "cxg331g",
+        "point_name": "Fosse Farmhouse Living Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245808,
+          51.500762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/rfpkv7lir_1775153685115.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "rfpkv7lir",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245842,
+          51.500765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxftfxj_1775153692503.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxftfxj",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245819,
+          51.500763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfvs0e_1775153800398.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxfvs0e",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245816,
+          51.500759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrnugj_1775173585372.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxrnugj",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245834,
+          51.500772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrnxzw_1775173589972.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxrnxzw",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245831,
+          51.500774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxro3bf_1775173597143.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxro3bf",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245825,
+          51.500777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxro8tt_1775173604061.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxro8tt",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245829,
+          51.500771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfvvbp_1775153804223.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxfvvbp",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245821,
+          51.500765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfvxwx_1775153809847.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxfvxwx",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245824,
+          51.500763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfw2v9_1775153814025.jpg",
+        "location": "Fosse Farmhouse Dining Room - 英国",
+        "point_id": "cxfw2v9",
+        "point_name": "Fosse Farmhouse Dining Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245875,
+          51.500795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/57978/points/rfpluvw8b-1735544468264.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "rfpluvw8b",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": "忍的房间"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24588,
+          51.500791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxoyhnu_1775169130962.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxoyhnu",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245891,
+          51.500798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg0204_1775153999524.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxg0204",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245884,
+          51.500788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrpd7q_1775173656525.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxrpd7q",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245885,
+          51.500803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrpj1l_1775173663662.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxrpj1l",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245893,
+          51.500806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrpmpy_1775173669747.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxrpmpy",
+        "point_name": "Fosse Farmhouse Pine Room 床头灯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24588,
+          51.500813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgf15k_1775154700380.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxgf15k",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245875,
+          51.500817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgfatf_1775154710826.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxgfatf",
+        "point_name": "Fosse Farmhouse Pine Room 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245871,
+          51.5008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgfctd_1775154713118.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxgfctd",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245876,
+          51.500808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrdvr3_1775173120869.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxrdvr3",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245889,
+          51.500805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxre942_1775173138539.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxre942",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245866,
+          51.500796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrednx_1775173144749.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxrednx",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245878,
+          51.500793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrehlw_1775173148762.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxrehlw",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245891,
+          51.500808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgffg3_1775154716856.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxgffg3",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245807,
+          51.500846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg3td8_1775154175332.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxg3td8",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245843,
+          51.500848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/rfpnll0px_1775153772820.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "rfpnll0px",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "爱丽丝的房间"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245813,
+          51.500848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrr2ke_1775173738525.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxrr2ke",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245835,
+          51.500855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxovnjg_1775168918838.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxovnjg",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.24585,
+          51.500847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxow8tq_1775168938633.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxow8tq",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245829,
+          51.500843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxowela_1775168947368.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxowela",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245801,
+          51.500844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxowxee_1775168970736.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxowxee",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "S02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245835,
+          51.500848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqmbg4_1775171834535.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxqmbg4",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "从门口东望"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245808,
+          51.500838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqmlb9_1775171847216.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxqmlb9",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245812,
+          51.500841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqmogx_1775171851062.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxqmogx",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245904,
+          51.500825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxox6q3_1775168983220.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxox6q3",
+        "point_name": "Fosse Farmhouse Pine Room 前",
+        "remark": "S02，此处是pine room门口左侧的走廊。非常狭窄，需要用广角镜头拍摄。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245839,
+          51.500852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg3dev_1775154154969.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxg3dev",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245806,
+          51.50085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk0t6o_1775160753046.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxk0t6o",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245824,
+          51.500843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk0wfa_1775160757234.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxk0wfa",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245797,
+          51.500848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg3kg7_1775154163578.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxg3kg7",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245876,
+          51.500805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg3nw7_1775154168294.jpg",
+        "location": "Fosse Farmhouse Pine Room -英国",
+        "point_id": "cxg3nw7",
+        "point_name": "Fosse Farmhouse Pine Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245818,
+          51.500845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfvbm1_1775153778664.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxfvbm1",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245832,
+          51.50085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfvf2l_1775153783461.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxfvf2l",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245825,
+          51.500847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfzm58_1775153979116.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxfzm58",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245822,
+          51.500851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfv2gi_1775153767732.jpg",
+        "location": "Fosse Farmhouse Pink Room -英国",
+        "point_id": "cxfv2gi",
+        "point_name": "Fosse Farmhouse Pink Room",
+        "remark": "pink room的墙面布局与动画中不太一样。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245925,
+          51.500815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/rfpn7v1ta_1775153670564.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "rfpn7v1ta",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245928,
+          51.500812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgec4g_1775154665774.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxgec4g",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245927,
+          51.50082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgeegl_1775154669224.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxgeegl",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。厕纸位于北面墙上。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245935,
+          51.500819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgehd5_1775154672507.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxgehd5",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245948,
+          51.500814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgejbt_1775154675104.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxgejbt",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "从浴缸向东北望。现实中，此浴室与pine room相连，这个分镜中的浴室门常态闭锁。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245943,
+          51.500821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgen95_1775154680161.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxgen95",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连，这个分镜中的浴室门常态闭锁。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245935,
+          51.500814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgep6m_1775154682674.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxgep6m",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245954,
+          51.500817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxges1m_1775154686410.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxges1m",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.245941,
+          51.500816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxft3vz_1775153676534.jpg",
+        "location": "Fosse Farmhouse Bathroom -英国",
+        "point_id": "cxft3vz",
+        "point_name": "Fosse Farmhouse Bathroom",
+        "remark": "现实中，此浴室与pine room相连。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.228934,
+          51.492799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxl1m5w_1775162511083.jpg",
+        "location": "Fosse Farmhouse-英国",
+        "point_id": "cxl1m5w",
+        "point_name": "Castle Combe",
+        "remark": "实际上这个分镜更接近这个位置，从Fosse Farmhouse步行约半小时可到达"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.023161,
+          51.676664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfc8wu_1775152890023.jpg",
+        "location": "Kemble Station",
+        "point_id": "cxfc8wu",
+        "point_name": "Kemble Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.023142,
+          51.676575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfcou9_1775152909941.jpg",
+        "location": "Kemble Station",
+        "point_id": "cxfcou9",
+        "point_name": "Kemble Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.023238,
+          51.676448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfcvmg_1775152918465.jpg",
+        "location": "Kemble Station",
+        "point_id": "cxfcvmg",
+        "point_name": "Kemble Station",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.023256,
+          51.676585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/25814662_1736968072358.jpg",
+        "location": "Kemble Station",
+        "point_id": "25814662",
+        "point_name": "Kemble Station",
+        "remark": "1期1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834084,
+          51.759322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/7696ec38_1775153157120.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "7696ec38",
+        "point_name": "爱丽丝家附近",
+        "remark": "理论位置，实际上更接近Castle Combe。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834046,
+          51.75928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgg1gq_1775154750473.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxgg1gq",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834112,
+          51.759355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxggy29_1775154792091.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxggy29",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833958,
+          51.759204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk4l1f_1775160929082.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxk4l1f",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834013,
+          51.759264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxrs5jm_1775173786936.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxrs5jm",
+        "point_name": "爱丽丝家附近",
+        "remark": "S02EP12，虽然家门口原型没有这个拱门，但是附近可以找到近似建筑物与花园"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834262,
+          51.759599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgh6jh_1775154800032.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxgh6jh",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834095,
+          51.759398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfiqs7_1775153192331.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxfiqs7",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834355,
+          51.759727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/f2e84644_1736968089170.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "f2e84644",
+        "point_name": "爱丽丝家附近",
+        "remark": "1期1話（アリスが忍を見送ったシーン）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834374,
+          51.759741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgir72_1775154874025.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxgir72",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834305,
+          51.759652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfhbtw_1775153127100.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxfhbtw",
+        "point_name": "爱丽丝家附近",
+        "remark": "理论位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834342,
+          51.759687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxghrep_1775154825678.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxghrep",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833877,
+          51.75917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk8p63_1775161130983.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxk8p63",
+        "point_name": "爱丽丝家附近",
+        "remark": "理论位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833935,
+          51.759169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxr8cpx_1775172864131.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxr8cpx",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833892,
+          51.759142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxr8i8y_1775172870256.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxr8i8y",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834139,
+          51.759452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxr8ru2_1775172883690.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxr8ru2",
+        "point_name": "爱丽丝家附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834433,
+          51.75978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg6m9x_1775154307682.jpg",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "cxg6m9x",
+        "point_name": "爱丽丝家附近",
+        "remark": "理论位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833998,
+          51.759231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "拜伯里-爱丽丝家门前",
+        "point_id": "6ba1e974",
+        "point_name": "爱丽丝家门前原型",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834931,
+          51.76045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk5y3t_1775161003002.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxk5y3t",
+        "point_name": "The Swan Hotel 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834895,
+          51.760396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpo1r2_1775170246569.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxpo1r2",
+        "point_name": "The Swan Hotel 前",
+        "remark": "S02EP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834859,
+          51.76035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxppcce_1775170298468.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxppcce",
+        "point_name": "The Swan Hotel 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834875,
+          51.760368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxppqzf_1775170315193.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxppqzf",
+        "point_name": "The Swan Hotel 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834853,
+          51.760336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpq44t_1775170357577.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxpq44t",
+        "point_name": "The Swan Hotel 前",
+        "remark": "S02EP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834873,
+          51.760355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpqxwx_1775170370631.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxpqxwx",
+        "point_name": "The Swan Hotel 前",
+        "remark": "S02EP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834921,
+          51.760275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxprotf_1775170406522.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxprotf",
+        "point_name": "The Swan Hotel 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834853,
+          51.760312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpr9zh_1775170396090.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxpr9zh",
+        "point_name": "The Swan Hotel 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834801,
+          51.76029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpomdu_1775170269485.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxpomdu",
+        "point_name": "The Swan Hotel 前",
+        "remark": "S02EP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.835061,
+          51.760664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpf63h_1775169854042.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "cxpf63h",
+        "point_name": "The Swan Hotel 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834846,
+          51.760418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/1d865f22_1736968101462.jpg",
+        "location": "拜伯里-The swan hotel 前",
+        "point_id": "1d865f22",
+        "point_name": "The Swan Hotel 前",
+        "remark": "S02EP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.83396,
+          51.759053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk9093_1775161139330.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "cxk9093",
+        "point_name": "科恩河",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833657,
+          51.75892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk997q_1775161147069.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "cxk997q",
+        "point_name": "科恩河上的小桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833555,
+          51.758711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/89c7d697_1775155020743.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "89c7d697",
+        "point_name": "科恩河上的小桥",
+        "remark": "S01EP1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.82703,
+          51.755524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/4c7da2d0_1775154017874.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "4c7da2d0",
+        "point_name": "Bibury Path",
+        "remark": "先已禁止进入，但拜伯里周边大概还有其他平替农道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826969,
+          51.755618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgq9xf_1775155223916.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxgq9xf",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826952,
+          51.755665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgqngo_1775155240372.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxgqngo",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.82707,
+          51.755253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg187w_1775154054479.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxg187w",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.82709,
+          51.755179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg1b0e_1775154057831.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxg1b0e",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827007,
+          51.755205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgpe96_1775155181995.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxgpe96",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826972,
+          51.755252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkbcjg_1775161244539.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxkbcjg",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827071,
+          51.755213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkbfk6_1775161248385.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxkbfk6",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826927,
+          51.755211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkbilj_1775161253857.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxkbilj",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827041,
+          51.755304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkblya_1775161256684.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxkblya",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826965,
+          51.755293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkbog6_1775161260369.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxkbog6",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826896,
+          51.755267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkbubw_1775161267660.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxkbubw",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827066,
+          51.755059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgptc7_1775155201540.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxgptc7",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826946,
+          51.755163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg1h2l_1775154066393.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxg1h2l",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827098,
+          51.755122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg1ldp_1775154071338.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxg1ldp",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827014,
+          51.755174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg1np0_1775154074349.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxg1np0",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.827014,
+          51.755106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxg1s45_1775154080072.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxg1s45",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826911,
+          51.75592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqz24p_1775172430090.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxqz24p",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826914,
+          51.755874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqz6ta_1775172435071.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxqz6ta",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826812,
+          51.755215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqzcxe_1775172443521.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxqzcxe",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.826967,
+          51.755361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqzhbo_1775172448697.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxqzhbo",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.82678,
+          51.7553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxqzl58_1775172453999.jpg",
+        "location": "拜伯里-Bibury Path",
+        "point_id": "cxqzl58",
+        "point_name": "Bibury Path",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834282,
+          51.758571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/d81941fd_1775153902911.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "d81941fd",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834248,
+          51.758565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfy6ci_1775153911980.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxfy6ci",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834315,
+          51.758572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfyi18_1775153927574.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxfyi18",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834551,
+          51.75857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq7ga7_1775171141337.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxq7ga7",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834579,
+          51.758569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq7ka6_1775171146285.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxq7ka6",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834609,
+          51.758568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq7nvv_1775171150744.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxq7nvv",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834638,
+          51.758566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq7tsf_1775171171696.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxq7tsf",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834447,
+          51.758579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgrzb9_1775155302431.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxgrzb9",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834355,
+          51.758578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfyp2b_1775153946988.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxfyp2b",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834394,
+          51.75858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfz0f6_1775153951241.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxfz0f6",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834211,
+          51.758563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxfyc8o_1775153919984.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxfyc8o",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.834186,
+          51.758811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxka23w_1775161194461.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxka23w",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.8345,
+          51.758571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkadl7_1775161199245.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxkadl7",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.835045,
+          51.758566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkagqt_1775161203522.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxkagqt",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.835322,
+          51.758597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkamm4_1775161213350.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxkamm4",
+        "point_name": "Arlington Row",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.835971,
+          51.758646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxkaw2b_1775161223985.jpg",
+        "location": "拜伯里-Arilington Row",
+        "point_id": "cxkaw2b",
+        "point_name": "Arlington Row",
+        "remark": "理论位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.838703,
+          51.759113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/57978/165d9f8e_1736968103036.jpg",
+        "location": "拜伯里-Hawkers Hill",
+        "point_id": "165d9f8e",
+        "point_name": "Hawkers Hill",
+        "remark": "S02EP7，此处向西北方望"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.838704,
+          51.75915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpmg8m_1775170161468.jpg",
+        "location": "拜伯里-Hawkers Hill",
+        "point_id": "cxpmg8m",
+        "point_name": "Hawkers Hill",
+        "remark": "S02EP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.835937,
+          51.760388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/43c6499e_1775155073130.jpg",
+        "location": "拜伯里-Bibury Trout Farm",
+        "point_id": "43c6499e",
+        "point_name": "Bibury Trout Farm 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.836272,
+          51.760335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/214d1207_1775155046765.jpg",
+        "location": "拜伯里-Bibury Trout Farm",
+        "point_id": "214d1207",
+        "point_name": "Bibury Trout Farm",
+        "remark": "S01EP1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.829334,
+          51.756983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/07625b88_1775154969915.jpg",
+        "location": "拜伯里-Bibury Court Hotel",
+        "point_id": "07625b88",
+        "point_name": "Bibury Court Hotel",
+        "remark": "S01EP1/EP4，S02EP7，可怜家原型，现已关闭。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.829336,
+          51.757013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxgvk1q_1775155490178.jpg",
+        "location": "拜伯里-Bibury Court Hotel",
+        "point_id": "cxgvk1q",
+        "point_name": "Bibury Court Hotel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.83061,
+          51.758756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/57978/14679f5b_1775155154919.jpg",
+        "location": "拜伯里-Bibury Court Hotel",
+        "point_id": "14679f5b",
+        "point_name": "电话亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.829216,
+          51.757001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq94pf_1775171220690.jpg",
+        "location": "拜伯里-Bibury Court Hotel",
+        "point_id": "cxq94pf",
+        "point_name": "Bibury Court Hotel",
+        "remark": "可怜家原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833486,
+          51.758619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/57978/3d02160b_1775160884675.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "3d02160b",
+        "point_name": "Bibury Post Office",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833476,
+          51.758625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk1ts0_1775160800652.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "cxk1ts0",
+        "point_name": "Bibury Post Office",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833487,
+          51.758628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk1wgl_1775160808055.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "cxk1wgl",
+        "point_name": "Bibury Post Office",
+        "remark": "挺常见的款式，应该能在英国各地买到类似的信封"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.833495,
+          51.758626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/57978/cxk2dyo_1775160833392.jpg",
+        "location": "拜伯里-Arilington Row东侧",
+        "point_id": "cxk2dyo",
+        "point_name": "Bibury Post Office",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.968151,
+          51.716981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/ffc5c069_1736968084154.jpg",
+        "location": "赛伦塞斯特-英国",
+        "point_id": "ffc5c069",
+        "point_name": "Church of St John the Baptist",
+        "remark": "1期1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.967113,
+          51.717001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/60430dab_1775154585409.jpg",
+        "location": "赛伦塞斯特-英国",
+        "point_id": "60430dab",
+        "point_name": "Market Place",
+        "remark": "1期1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.968711,
+          51.716334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/f102ec35_1775154555344.jpg",
+        "location": "赛伦塞斯特-英国",
+        "point_id": "f102ec35",
+        "point_name": "Forum Toilets",
+        "remark": "1期1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.967914,
+          51.716332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/57978/103c507a_1775162141824.jpg",
+        "location": "赛伦塞斯特-英国",
+        "point_id": "103c507a",
+        "point_name": "Waterstone's",
+        "remark": "这里有家水石"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.321205,
+          51.39686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/96cc800f_1775170530366.jpg",
+        "location": "巴斯-英国",
+        "point_id": "96cc800f",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": "此处向东南望"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320873,
+          51.396701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpy3uq_1775170716050.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpy3uq",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320869,
+          51.396687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpyf3d_1775170722187.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpyf3d",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320917,
+          51.396789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpymm5_1775170729270.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpymm5",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320905,
+          51.39672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpysqx_1775170737040.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpysqx",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320899,
+          51.39667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpywnw_1775170742770.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpywnw",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320921,
+          51.396702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpy6dq_1775170708885.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpy6dq",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320909,
+          51.396688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpy9w3_1775170712653.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpy9w3",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.32088,
+          51.396755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpzeld_1775170766600.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpzeld",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320873,
+          51.396746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpzm9j_1775170777231.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpzm9j",
+        "point_name": "High Street (Kennet And Avon Canel)（差分）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320892,
+          51.396705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxpzw49_1775170792380.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxpzw49",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320886,
+          51.396723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq0btm_1775170808444.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq0btm",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320871,
+          51.396736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq0f5o_1775170820446.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq0f5o",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.32087,
+          51.39671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq0odh_1775170825107.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq0odh",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320866,
+          51.396726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq0tcm_1775170831063.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq0tcm",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320869,
+          51.396732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq0w7w_1775170834910.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq0w7w",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320874,
+          51.396741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq1052_1775170839897.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq1052",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320867,
+          51.396729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq15md_1775170846954.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq15md",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320869,
+          51.396737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq1fep_1775170860965.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq1fep",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.32087,
+          51.39674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq1ku8_1775170867177.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq1ku8",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320877,
+          51.396746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq1psf_1775170888394.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq1psf",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320871,
+          51.396716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq25gr_1775170893558.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq25gr",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.320864,
+          51.396731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq289n_1775170907764.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq289n",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.32088,
+          51.396711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/57978/cxq051z_1775170799684.jpg",
+        "location": "巴斯-英国",
+        "point_id": "cxq051z",
+        "point_name": "High Street (Kennet And Avon Canel)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.989554,
+          35.686184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwk5v1c-1785984464351.webp",
+        "location": "日本",
+        "point_id": "hwk5v1c",
+        "point_name": "Lalaport TOKYO-BAY 扶梯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.993427,
+          35.686197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwke215-1785984837695.webp",
+        "location": "日本",
+        "point_id": "hwke215",
+        "point_name": "LaLaport Tokyo-Bay付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.993192,
+          35.686125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwkm2oo-1785985212174.webp",
+        "location": "日本",
+        "point_id": "hwkm2oo",
+        "point_name": "LaLaport Tokyo-Bay付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.990182,
+          35.686004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwks2d9-1785985482079.webp",
+        "location": "日本",
+        "point_id": "hwks2d9",
+        "point_name": "ららぽーと TOKYO​-​BAY",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.021078,
+          35.691351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwlvnq9-1785987368183.webp",
+        "location": "日本",
+        "point_id": "hwlvnq9",
+        "point_name": "津田沼パルコ（閉店）",
+        "remark": "津田沼站北口天桥对面的百货店，2023年2月末闭店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.020795,
+          35.691818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwmsbhy-1785988880940.webp",
+        "location": "日本",
+        "point_id": "hwmsbhy",
+        "point_name": "マクドナルド 津田沼駅前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.021189,
+          35.691861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwmuqcs-1785989046966.webp",
+        "location": "日本",
+        "point_id": "hwmuqcs",
+        "point_name": "津田沼パルコ",
+        "remark": "閉店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.022742,
+          35.690247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwni2ci-1785990079495.webp",
+        "location": "日本",
+        "point_id": "hwni2ci",
+        "point_name": "新津田沼駅前＆Mina津田沼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019594,
+          35.690131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwnz17l-1785990837734.webp",
+        "location": "日本",
+        "point_id": "hwnz17l",
+        "point_name": "津田沼公園 階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019605,
+          35.690163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwo0zby-1785990952226.webp",
+        "location": "日本",
+        "point_id": "hwo0zby",
+        "point_name": "津田沼公園 階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.019608,
+          35.690175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwo2efo-1785992077604.webp",
+        "location": "日本",
+        "point_id": "hwo2efo",
+        "point_name": "津田沼公園 階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.31825,
+          35.785678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwp1jhn-1785992655404.webp",
+        "location": "日本",
+        "point_id": "hwp1jhn",
+        "point_name": "成田山新勝寺 大本堂",
+        "remark": "Pretty Days"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.317997,
+          35.785699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwpa50d-1785993047508.webp",
+        "location": "日本",
+        "point_id": "hwpa50d",
+        "point_name": "成田山絵馬",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.318446,
+          35.785599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwpys0e-1785994203451.webp",
+        "location": "日本",
+        "point_id": "hwpys0e",
+        "point_name": "成田山 三重塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.318978,
+          35.78449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwve866-1786003373164.webp",
+        "location": "日本",
+        "point_id": "hwve866",
+        "point_name": "鍋屋源五右衛門",
+        "remark": "中学生3人喝甘酒"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.068749,
+          35.68719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwxhb4g-1786006826068.webp",
+        "location": "日本",
+        "point_id": "hwxhb4g",
+        "point_name": "実籾駅北口2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.068911,
+          35.687019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwxkbr6-1786006977106.webp",
+        "location": "日本",
+        "point_id": "hwxkbr6",
+        "point_name": "実籾駅 踏切",
+        "remark": "不要停在道口内拍照，快速通过"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.068905,
+          35.686915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwxnxpl-1786007129692.webp",
+        "location": "日本",
+        "point_id": "hwxnxpl",
+        "point_name": "実籾駅 踏切（南侧）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.992227,
+          35.684514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwk1lj1-1785984266871.webp",
+        "location": "日本",
+        "point_id": "hwk1lj1",
+        "point_name": "Lalaport TOKYO-BAY",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.990409,
+          35.68595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 57978,
+        "bangumi_title": "黄金拼图",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/57978/points/hwkyqx2-1785985820885.webp",
+        "location": "日本",
+        "point_id": "hwkyqx2",
+        "point_name": "上島珈琲店 ららぽーとTOKYO-BAY店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

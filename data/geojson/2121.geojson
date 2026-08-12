@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          131.007219,
+          33.937539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2121,
+        "bangumi_title": "纯情房东俏房客",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1015/bangumi/2121/points/5z50cft-1760020070460.jpg",
+        "location": "",
+        "point_id": "5z50cft",
+        "point_name": "门司保安厅学校体育场",
+        "remark": "漫画第4卷第7页"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700455,
+          35.659481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2121,
+        "bangumi_title": "纯情房东俏房客",
+        "ep_cut": "EP.26",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2121/points/f9g89k4-1780233564238.jpg",
+        "location": "",
+        "point_id": "f9g89k4",
+        "point_name": "渋谷駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710102,
+          35.646691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2121,
+        "bangumi_title": "纯情房东俏房客",
+        "ep_cut": "EP.26",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2121/points/f9gevp7-1780233894279.jpg",
+        "location": "",
+        "point_id": "f9gevp7",
+        "point_name": "恵比寿",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

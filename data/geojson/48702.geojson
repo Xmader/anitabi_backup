@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.694294,
+          35.6927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 48702,
+        "bangumi_title": "闪亮的拓人 剧场版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/48702/points/2z5oxnq-1753489811911.jpg",
+        "location": "",
+        "point_id": "2z5oxnq",
+        "point_name": "「LOVE」ロバート・インディアナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694398,
+          35.692619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 48702,
+        "bangumi_title": "闪亮的拓人 剧场版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/48702/points/2z5szuv-1753490468087.jpg",
+        "location": "",
+        "point_id": "2z5szuv",
+        "point_name": "新宿警察署裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

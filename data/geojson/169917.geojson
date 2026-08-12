@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.343672,
+          48.850615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169917,
+        "bangumi_title": "机动战士高达独角兽 RE",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/169917/points/2ub7olw-1753196761108.jpg",
+        "location": "",
+        "point_id": "2ub7olw",
+        "point_name": "Musée de Cluny",
+        "remark": "淑女与独角兽（Tapisseries de la Dame a la licorne），大型刺绣挂毯，于1500年左右织成"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

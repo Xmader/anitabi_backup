@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.703618,
+          35.692955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 920,
+        "bangumi_title": "挪威的森林",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ghbehg8",
+        "point_name": "DUG jazz cafe & bar",
+        "remark": "出自第七章：德语课一结束，我们就乘上公共汽车来到新宿，钻进纪伊国书店后面的地下酒吧间 DUG，各自喝了两杯伏特加通宁。\n现已永久停业。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

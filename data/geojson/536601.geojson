@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.128476,
+          51.50827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 536601,
+        "bangumi_title": "跨越数千昼夜",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/536601/points/u4ulj170m-1743156825658.jpg",
+        "location": "",
+        "point_id": "u4ulj170m",
+        "point_name": "National Gallery ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.4877,
+          31.247985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 536601,
+        "bangumi_title": "跨越数千昼夜",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/536601/points/2jjwnbo-1752546228859.jpg",
+        "location": "",
+        "point_id": "2jjwnbo",
+        "point_name": "闵行路长治路",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

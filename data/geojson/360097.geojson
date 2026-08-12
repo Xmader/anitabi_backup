@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.973092,
+          45.814233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360097,
+        "bangumi_title": "崩坏：星穹铁道",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/360097/points/rtla7tjn9-1736632137361.jpg",
+        "location": "",
+        "point_id": "rtla7tjn9",
+        "point_name": "Gornji Grad - Medveščak",
+        "remark": "崩坏：星穹铁道，贝洛伯格，上城区与下城区的灵感来源"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          20.462399,
+          44.812949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360097,
+        "bangumi_title": "崩坏：星穹铁道",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/360097/points/2mvvod0-1752747746979.jpg",
+        "location": "地区",
+        "point_id": "2mvvod0",
+        "point_name": "Beograd",
+        "remark": "崩坏星穹铁道：贝洛伯格的原型之一，前南斯拉夫和塞尔维亚首都贝尔格莱德"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.389655,
+          43.848952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360097,
+        "bangumi_title": "崩坏：星穹铁道",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/360097/points/2mw4k5d-1752748258319.jpg",
+        "location": "地区",
+        "point_id": "2mw4k5d",
+        "point_name": "Sarajevo",
+        "remark": "《崩坏：星穹铁道》贝洛伯格下层区原型之一，萨拉热窝老街"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

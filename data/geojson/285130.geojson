@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.716048,
+          35.729941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285130,
+        "bangumi_title": "我们真的学不来！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/285130/points/2806mkj-1751848218941.jpg",
+        "location": "",
+        "point_id": "2806mkj",
+        "point_name": "プロジェクトアドアーズ池袋前",
+        "remark": "关城闲逛时路过的游戏厅，现已停止营业"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.615578,
+          35.683394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285130,
+        "bangumi_title": "我们真的学不来！",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/285130/points/280ntsr-1751848763471.jpg",
+        "location": "",
+        "point_id": "280ntsr",
+        "point_name": "高井户站旁",
+        "remark": "赶去机场的路上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789569,
+          35.550299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 285130,
+        "bangumi_title": "我们真的学不来！",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/285130/points/2811rqf-1751849412952.jpg",
+        "location": "",
+        "point_id": "2811rqf",
+        "point_name": "羽田机场T2出发",
+        "remark": "毕业一年后机场"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

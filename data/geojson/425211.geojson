@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.686677,
+          35.663286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425211,
+        "bangumi_title": "辉夜大小姐想让我告白-初吻不会结束-",
+        "ep_cut": "p4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/425211/points/8zx20v8-1766596628194.jpg",
+        "location": "",
+        "point_id": "8zx20v8",
+        "point_name": "富谷公园",
+        "remark": "kiss名场面，这一集基本都在这里，上传5张就够了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686739,
+          35.663262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425211,
+        "bangumi_title": "辉夜大小姐想让我告白-初吻不会结束-",
+        "ep_cut": "p4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/425211/points/8zxc2ds-1766596945092.jpg",
+        "location": "",
+        "point_id": "8zxc2ds",
+        "point_name": "富谷公园",
+        "remark": "中间位置基本都是这个公园，最后约会的位置在台场"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686749,
+          35.66333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425211,
+        "bangumi_title": "辉夜大小姐想让我告白-初吻不会结束-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/425211/points/8zxie6z-1766597242029.jpg",
+        "location": "",
+        "point_id": "8zxie6z",
+        "point_name": "富谷公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.68663,
+          35.66332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425211,
+        "bangumi_title": "辉夜大小姐想让我告白-初吻不会结束-",
+        "ep_cut": "p4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/425211/points/8zxj9cs-1766597275302.jpg",
+        "location": "",
+        "point_id": "8zxj9cs",
+        "point_name": "富谷公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.686599,
+          35.6633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425211,
+        "bangumi_title": "辉夜大小姐想让我告白-初吻不会结束-",
+        "ep_cut": "p4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/425211/points/8zxk6d7-1766597315105.jpg",
+        "location": "",
+        "point_id": "8zxk6d7",
+        "point_name": "富谷公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

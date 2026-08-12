@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.171643,
+          43.021352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 307,
+        "bangumi_title": "红猪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/307/points/nknajy5b2-1724646863390.jpg",
+        "location": "",
+        "point_id": "nknajy5b2",
+        "point_name": "Stiniva",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

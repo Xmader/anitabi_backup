@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.654604,
+          35.440693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 567684,
+        "bangumi_title": "迷宮のしおり",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/567684/23dgkxw_1751567965052.jpg",
+        "location": "",
+        "point_id": "23dgkxw",
+        "point_name": "港の見える丘公園 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637007,
+          35.455352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 567684,
+        "bangumi_title": "迷宮のしおり",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/567684/23dxre2_1751568734836_c16v9.jpg",
+        "location": "",
+        "point_id": "23dxre2",
+        "point_name": "よこはま​コスモ​ワールド",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.955147,
+          30.577222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 227775,
+        "bangumi_title": "蜡笔小新 爆盛！功夫男孩 ～拉面大乱～",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/227775/points/nkso94s74-1724658774323.jpg",
+        "location": "",
+        "point_id": "nkso94s74",
+        "point_name": "成都双流机场",
+        "remark": "双流机场“成都”大字在1、2号航站楼之间"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.849169,
+          47.996136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 282,
+        "bangumi_title": "狼与香辛料",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/282/points/nb2cpe1pf-1723895958656.jpg",
+        "location": "",
+        "point_id": "nb2cpe1pf",
+        "point_name": "Neues Rathaus",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.849219,
+          47.996422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 282,
+        "bangumi_title": "狼与香辛料",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/282/points/nb2fzbzme-1723896105703.jpg",
+        "location": "",
+        "point_id": "nb2fzbzme",
+        "point_name": "Altes Rathaus",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.346808,
+          48.856748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 282,
+        "bangumi_title": "狼与香辛料",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/282/points/o4fjm3xwp-1726197206950.jpg",
+        "location": "",
+        "point_id": "o4fjm3xwp",
+        "point_name": "Pont au Change",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.852656,
+          47.994973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 282,
+        "bangumi_title": "狼与香辛料",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/282/points/53myugl-1758114274469.jpg",
+        "location": "",
+        "point_id": "53myugl",
+        "point_name": "Historisches Kaufhaus",
+        "remark": "历史商人大街位于德国弗赖堡大教堂南侧，相比于当前网站中该截图对应的“弗赖堡旧市政厅”更接近剧中的建筑样式。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

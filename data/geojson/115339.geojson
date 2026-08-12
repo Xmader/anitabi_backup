@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.654484,
+          35.859976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115339,
+        "bangumi_title": "浦和小调",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/115339/points/o1fcnz6fe-1725961979829.jpg",
+        "location": "",
+        "point_id": "o1fcnz6fe",
+        "point_name": "浦和駅付近交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655003,
+          35.853664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115339,
+        "bangumi_title": "浦和小调",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/115339/points/o1ftmd8cf-1725962701955.jpg",
+        "location": "",
+        "point_id": "o1ftmd8cf",
+        "point_name": "調神社の前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655267,
+          35.85349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115339,
+        "bangumi_title": "浦和小调",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/115339/points/o1fvp68mm-1725962909996.jpg",
+        "location": "",
+        "point_id": "o1fvp68mm",
+        "point_name": "調神社の狛兎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655662,
+          35.853442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 115339,
+        "bangumi_title": "浦和小调",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/115339/points/o1g0k5gf2-1725963130921.jpg",
+        "location": "",
+        "point_id": "o1g0k5gf2",
+        "point_name": "調神社の本殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

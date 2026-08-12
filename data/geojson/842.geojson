@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.690278,
+          35.689722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 842,
+        "bangumi_title": "东京教父",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/842/points/9tw12q1-1768408865130.jpg",
+        "location": "",
+        "point_id": "9tw12q1",
+        "point_name": "新宿中央公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744786,
+          35.655026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 842,
+        "bangumi_title": "东京教父",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/842/points/9twrfe7-1768410213588.jpg",
+        "location": "",
+        "point_id": "9twrfe7",
+        "point_name": "赤羽橋駅 ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774945,
+          35.662368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 842,
+        "bangumi_title": "东京教父",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/842/points/9txm3rj-1768411647041.jpg",
+        "location": "",
+        "point_id": "9txm3rj",
+        "point_name": "勝鬨橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.73328,
+          35.708059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208415,
+        "bangumi_title": "BanG Dream! 少女乐团派对！",
+        "ep_cut": "游戏内商业街",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208415/points/jq6i7zw13-1725272653993.jpg",
+        "location": "",
+        "point_id": "jq6i7zw13",
+        "point_name": "サンエトワール​地蔵​通り​店",
+        "remark": "山吹面包店的原型，有巧可可螺"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700748,
+          35.659614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 393446,
+        "bangumi_title": "22/7 「阴云彼端 晴空万里」music video",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/393446/nf5a916pg_1724215753718.jpg",
+        "location": "",
+        "point_id": "nf5a916pg",
+        "point_name": "藤山産業(株) 天津甘栗店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700384,
+          35.659674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 393446,
+        "bangumi_title": "22/7 「阴云彼端 晴空万里」music video",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/393446/nf5awjgf6_1724215846447.jpg",
+        "location": "",
+        "point_id": "nf5awjgf6",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699656,
+          35.6596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 393446,
+        "bangumi_title": "22/7 「阴云彼端 晴空万里」music video",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/393446/nf5dl34x8_1724215936855.jpg",
+        "location": "",
+        "point_id": "nf5dl34x8",
+        "point_name": 2,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700536,
+          35.659677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 393446,
+        "bangumi_title": "22/7 「阴云彼端 晴空万里」music video",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/393446/nf5e788kp_1724215974306.jpg",
+        "location": "",
+        "point_id": "nf5e788kp",
+        "point_name": 2,
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

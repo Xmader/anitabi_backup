@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.617201,
+          55.751328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 32253,
+        "bangumi_title": "梦比优斯奥特曼",
+        "ep_cut": "48",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/32253/points/r903qf4fc-1735032264133.jpg",
+        "location": "",
+        "point_id": "umk0bunlw",
+        "point_name": "Патриаршие палаты",
+        "remark": "安培拉星人向地球派遣的13台英普莱扎的驻地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.036556,
+          38.897338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 32253,
+        "bangumi_title": "梦比优斯奥特曼",
+        "ep_cut": "48",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/32253/points/r96iv2wn6-1735032712844.jpg",
+        "location": "",
+        "point_id": "r96iv2wn6",
+        "point_name": "White House",
+        "remark": "安培拉星人向地球派遣的13台英普莱扎的驻地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.390829,
+          39.916694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 32253,
+        "bangumi_title": "梦比优斯奥特曼",
+        "ep_cut": "48",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/32253/points/r96l7n44t-1735032833027.jpg",
+        "location": "",
+        "point_id": "r96l7n44t",
+        "point_name": "故宫",
+        "remark": "安培拉星人向地球派遣的13台英普莱扎的驻地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.336403,
+          48.860865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 32253,
+        "bangumi_title": "梦比优斯奥特曼",
+        "ep_cut": "48",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/32253/points/r96mxp938-1735032958903.jpg",
+        "location": "",
+        "point_id": "r96mxp938",
+        "point_name": "Musée du Louvre",
+        "remark": "安培拉星人向地球派遣的13台英普莱扎的驻地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.124572,
+          51.500704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 32253,
+        "bangumi_title": "梦比优斯奥特曼",
+        "ep_cut": "48",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/32253/points/r96sasd43-1735033260323.jpg",
+        "location": "",
+        "point_id": "r96sasd43",
+        "point_name": "Big Ben",
+        "remark": "安培拉星人向地球派遣的13台英普莱扎的驻地之一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.215236,
+          -33.857094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 32253,
+        "bangumi_title": "梦比优斯奥特曼",
+        "ep_cut": "48",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/32253/points/r96v4ld8o-1735033445808.jpg",
+        "location": "",
+        "point_id": "r96v4ld8o",
+        "point_name": "Sydney Opera House",
+        "remark": "安培拉星人向地球派遣的13台英普莱扎的驻地之一"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

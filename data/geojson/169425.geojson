@@ -1,0 +1,1205 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.986308,
+          36.227914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520d2l",
+        "point_name": "見晴橋1(LETTER 1)",
+        "remark": "見晴橋の休憩所北側付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.986388,
+          36.22768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520dti",
+        "point_name": "見晴橋2(LETTER 1/PV/WEB)",
+        "remark": "見晴橋休憩所南側付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.986223,
+          36.22815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520e07",
+        "point_name": "見晴橋3（LETTER1）",
+        "remark": "見晴橋を外側から見たショット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.985733,
+          36.228045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520dvo",
+        "point_name": "薄川 堤防道路1(LETTER1)",
+        "remark": "見晴橋から見て西側。松商学園グラウンド裏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.989338,
+          36.228904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520e6e",
+        "point_name": "薄川 堤防道路2（LETTER1 ）",
+        "remark": "見晴橋から見て東側。打ちっぱなしの真向かい"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.987321,
+          36.228485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520eas",
+        "point_name": "薄川 堤防道路3（LETTER１）",
+        "remark": "鉄塔付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.986571,
+          36.227782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520exv",
+        "point_name": "薄川(LETTER1)",
+        "remark": "薄川アップショット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.984617,
+          36.227892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松商学園付近",
+        "point_id": "51i520ew9",
+        "point_name": "ネット裏（LETTER1/3/PV)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.981699,
+          36.231265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520f17",
+        "point_name": "公園入口（LETTER1）",
+        "remark": "あがたの森西側正門"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982545,
+          36.231337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520fn1",
+        "point_name": "並木道 西側（LETTER1/PV）",
+        "remark": "文化会館、高等学校記念館のある通り"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983555,
+          36.231392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520fix",
+        "point_name": "並木道 東側（LETTER1/2/6）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982239,
+          36.231409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520frm",
+        "point_name": "旧松本高等学校講堂（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982424,
+          36.23156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520f7o",
+        "point_name": "旧松本高等学校講堂別館（LETTER1)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983773,
+          36.231282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520f89",
+        "point_name": "東側駐車場出入口付近（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982753,
+          36.23157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520g0q",
+        "point_name": "西側駐車場付近（LETTER1)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.9841,
+          36.230925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520gda",
+        "point_name": "休憩所（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982883,
+          36.230325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520ggq",
+        "point_name": "彫像付近（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983243,
+          36.230757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520ghy",
+        "point_name": "公園内池（LETTER1/2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983133,
+          36.230906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520gih",
+        "point_name": "池 西側（LETTER2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983327,
+          36.230603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520gcs",
+        "point_name": "池 休憩所（LETTER2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983318,
+          36.230145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520g37",
+        "point_name": "南側休憩所（LETTER2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982726,
+          36.230839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520gjo",
+        "point_name": "文化会館 南東（LETTER2)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982836,
+          36.229796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "あがたの森公園",
+        "point_id": "51i520gqf",
+        "point_name": "南側路地トイレ近（LETTER2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.965834,
+          36.231189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松本駅周辺",
+        "point_id": "51i520h9x",
+        "point_name": "松本駅 東口（LETTER1/PV)）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.968465,
+          36.231968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松本駅周辺",
+        "point_id": "51i520gvs",
+        "point_name": "花時計公園（LETTER1/4/その他）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.968369,
+          36.232954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松本駅周辺",
+        "point_id": "51i520h44",
+        "point_name": "PARCO 表通り（LETTER4)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.968876,
+          36.232507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松本駅周辺",
+        "point_id": "51i520hrc",
+        "point_name": "開運堂本店（LETTER4)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.966724,
+          36.230984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "松本駅周辺",
+        "point_id": "51i520i1p",
+        "point_name": "タリーズコーヒー （LETTER4)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.970375,
+          36.23472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520i5o",
+        "point_name": "四柱神社（LETTER4/6)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.971236,
+          36.234521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520irc",
+        "point_name": "ナワテ通り東側（LETTER4)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.969956,
+          36.234389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520i7b",
+        "point_name": "田川（LETTER4/6)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.970493,
+          36.234343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520jgd",
+        "point_name": "幸橋（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.971496,
+          36.234395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520ix1",
+        "point_name": "中の橋（LETTER6)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.972483,
+          36.234534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520j8t",
+        "point_name": "千歳橋（LETTER6)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.971534,
+          36.233901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520jgi",
+        "point_name": "中西屋本店裏通路（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.970434,
+          36.233777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520iwz",
+        "point_name": "デリー前（LETTER6)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.970226,
+          36.233761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縄手通り周辺",
+        "point_id": "51i520jph",
+        "point_name": "クリヴィーレ増田前（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.95749,
+          36.244706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城山地区",
+        "point_id": "51i520ld4",
+        "point_name": "交差路（LETTER1/5）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.956116,
+          36.248327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城山地区",
+        "point_id": "51i520mkb",
+        "point_name": "公園北入口（LETTER2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.954327,
+          36.245728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城山地区",
+        "point_id": "51i520m15",
+        "point_name": "城山公園北アルプスの展望台（LETTER5)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.982649,
+          36.21329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520odr",
+        "point_name": "弘法山古墳（LETTER1/PV)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.983888,
+          36.211632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520p18",
+        "point_name": "弘法山古墳 駐車場（LETTER2）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.968108,
+          36.238807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520oih",
+        "point_name": "松本城天守閣周辺（LETTER6)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.967821,
+          36.242175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520oz4",
+        "point_name": "開智小学校前（LETTER1）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.916484,
+          36.1798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520ozp",
+        "point_name": "登場予定エリア アルウィン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.968472,
+          36.243113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520opd",
+        "point_name": "旧開智学校（LETTER5)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.967773,
+          36.243639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520of4",
+        "point_name": "図書館前橋（LETTER5）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.967092,
+          36.241972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "その他周辺地域",
+        "point_id": "51i520poc",
+        "point_name": "開智小学校前橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.968924,
+          36.232505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縁のあるお店など",
+        "point_id": "51i520qj9",
+        "point_name": "開運堂本店",
+        "remark": "原作扉絵や巻末に登場するアイスクリームがお薦め"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.971119,
+          36.234485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縁のあるお店など",
+        "point_id": "51i520q2u",
+        "point_name": "たい焼きふるさと",
+        "remark": "作者お薦めのたい焼き。ウィンナー入りやアイス入りなど面白たい焼きがあるのがポイント"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.966102,
+          36.230858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "縁のあるお店など",
+        "point_id": "51i520qmu",
+        "point_name": "フレッシュベーカリー ムラタ",
+        "remark": "実写劇場版に登場する梓が実家のパン屋から持ってきたパンを実際に作った店がここ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.001671,
+          36.198276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520rsg",
+        "point_name": "ENEOS（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.001596,
+          36.197508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520rq7",
+        "point_name": "中山小学校 表通り（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.002934,
+          36.196352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520rn2",
+        "point_name": "中山小学校 裏通り（LETTER13)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.002347,
+          36.194798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520s2u",
+        "point_name": "中山小学校南交差点（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.002626,
+          36.195317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520srf",
+        "point_name": "交差点前（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.003098,
+          36.193761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520sf3",
+        "point_name": "中山郵便局（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.000169,
+          36.193871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520spw",
+        "point_name": "池周辺（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.99798,
+          36.19762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520sid",
+        "point_name": "林道（LETTER13）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.99783,
+          36.197742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 169425,
+        "bangumi_title": "橘色奇迹",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "中山町周辺",
+        "point_id": "51i520sb6",
+        "point_name": "翔の移動ルート",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

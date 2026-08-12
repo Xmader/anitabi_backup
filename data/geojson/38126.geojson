@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.638813,
+          36.352454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38126,
+        "bangumi_title": "名侦探柯南 16名嫌疑犯！？",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5cpxu4mp-1746017234960.jpg",
+        "location": "",
+        "point_id": "v5cpxu4mp",
+        "point_name": "ささやきの小径",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.635775,
+          36.352065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38126,
+        "bangumi_title": "名侦探柯南 16名嫌疑犯！？",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5d3jci48-1746017994478.jpg",
+        "location": "",
+        "point_id": "v5d3jci48",
+        "point_name": "旧軽井沢礼拝堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.62685,
+          36.350668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38126,
+        "bangumi_title": "名侦探柯南 16名嫌疑犯！？",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5dg3h154-1746018759373.jpg",
+        "location": "",
+        "point_id": "v5dg3h154",
+        "point_name": "雲場池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.626969,
+          36.352916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38126,
+        "bangumi_title": "名侦探柯南 16名嫌疑犯！？",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/38126/points/v5dhq3b2f-1746018843522.jpg",
+        "location": "",
+        "point_id": "v5dhq3b2f",
+        "point_name": "雲場池　橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

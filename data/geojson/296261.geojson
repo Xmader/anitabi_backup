@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          63.564628,
+          45.995807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296261,
+        "bangumi_title": "新石纪 STONE WARS",
+        "ep_cut": "16",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/296261/points/6d7cyzhmt-1676104705045.jpg",
+        "location": "",
+        "point_id": "6d7cyzhmt",
+        "point_name": "Космодром Байконур",
+        "remark": "第一季的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.535727,
+          35.31682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296261,
+        "bangumi_title": "新石纪 STONE WARS",
+        "ep_cut": "第一季第三集season 1Episode 3",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/296261/points/sb72lpvs5-1738012005253.jpg",
+        "location": "",
+        "point_id": "sb72lpvs5",
+        "point_name": "鎌倉大仏殿高徳院",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

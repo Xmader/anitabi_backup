@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.751552,
+          35.661182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 374008,
+        "bangumi_title": "摄影部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/374008/paha1y1h5_1729492316318.jpg",
+        "location": "",
+        "point_id": "paha1y1h5",
+        "point_name": "御成門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.312757,
+          48.185738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9781,
+        "bangumi_title": "GOSICK",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "2q0s6cd",
+        "point_name": "Schloss Schönbrunn",
+        "remark": "聖瑪格麗特學院原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.367169,
+          48.205985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9781,
+        "bangumi_title": "GOSICK",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "2q0vfkn",
+        "point_name": "Prunksaal der Österreichischen Nationalbibliothek",
+        "remark": "圖書館原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

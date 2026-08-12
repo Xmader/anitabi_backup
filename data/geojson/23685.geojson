@@ -1,0 +1,765 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.638033,
+          35.453419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor5o",
+        "point_name": "ハルユキのマンション",
+        "remark": "ハルユキが住んでいるマンション"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63836,
+          35.453637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor0e",
+        "point_name": "ハルユキのマンション",
+        "remark": "ハルユキが住んでいるマンション"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.640763,
+          35.453753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdoqzf.jpg",
+        "location": "",
+        "point_id": "4uicdoqzf",
+        "point_name": "歩道橋の上に立つハルユキ達",
+        "remark": "OP2：ハルユキ、黒雪姫、タクム、チユリが歩道橋の上に立っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65436,
+          35.698011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor5p",
+        "point_name": "歩道橋を歩くハルユキとチユリ",
+        "remark": "1話：ハルユキがチユリと歩道橋を歩いてた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65444,
+          35.698351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqrf",
+        "point_name": "タクムと合流",
+        "remark": "1話：ハルユキとチユリがタクムと合流して歩いていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654515,
+          35.705029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqzn",
+        "point_name": "タクムと合流",
+        "remark": "1話：ハルユキとチユリがタクムと合流して歩いていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65451,
+          35.70524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor2v",
+        "point_name": "タクムたちと別れるハルユキ",
+        "remark": "1話：ハルユキがタクムとチユリと別れた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65448,
+          35.705428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor00",
+        "point_name": "高架下を走るハルユキ",
+        "remark": "1話：タクムとチユリと別れた後、ハルユキが走りながら帰っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647075,
+          35.697687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoraj",
+        "point_name": "歩道を歩くハルユキと黒雪姫",
+        "remark": "3話：ハルユキと黒雪姫が、チユリと別れた後、歩いていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647643,
+          35.697711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqo2",
+        "point_name": "信号待ちをするハルユキと黒雪姫",
+        "remark": "3話：ハルユキと黒雪姫が、チユリと別れた後、横断歩道で信号待ちをしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64822,
+          35.703925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqwz",
+        "point_name": "チユリへの疑い",
+        "remark": "3話：黒雪姫が、学内で執拗に対戦を挑んでくる正体はチユリかもしれないとハルユキに言った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.640881,
+          35.453952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqkj",
+        "point_name": "歩道橋でハルユキを見つけるタクム",
+        "remark": "3話：ハルユキが、チユリと直結すると言った事に後悔をしていた時に、タクムと出会った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.648062,
+          35.697676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqjj",
+        "point_name": "直結を後悔しながら登校するハルユキ",
+        "remark": "4話：ハルユキが、直結した事を後悔しながら登校してた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645503,
+          35.697608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor2z",
+        "point_name": "直結を後悔しながら登校するハルユキ",
+        "remark": "4話：ハルユキが、直結した事を後悔しながら登校してた場所。 黒雪姫と会った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6477,
+          35.697885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqkk",
+        "point_name": "事故現場",
+        "remark": "4話：ｌハルユキと黒雪姫に、荒谷が乗っている車が突っ込んできた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645428,
+          35.697772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqvt",
+        "point_name": "チユリについて話しながら帰るハルユキと黒雪姫",
+        "remark": "4話：ハルユキと黒雪姫が、チユリについて話しながら歩道橋を歩いて帰っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645546,
+          35.697854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor1a",
+        "point_name": "チユリについて話しながら帰るハルユキと黒雪姫",
+        "remark": "4話：ハルユキと黒雪姫が、チユリについて話しながら帰っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.639066,
+          35.706526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqv0",
+        "point_name": "病院に運ばれる黒雪姫",
+        "remark": "4話：黒雪姫が、運ばれた病院があった場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76359,
+          35.699769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdoqwy",
+        "point_name": "バウンサーに会いに行くハルユキ",
+        "remark": "6話：ハルユキが、バウンサーに会いに行く時に映った場所。タクムと別れた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.763137,
+          35.699244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdor7z",
+        "point_name": "バウンサーに会いに行くハルユキ",
+        "remark": "6話：ハルユキが、バウンサーに会いに行く時に映った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761927,
+          35.697412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdorr2",
+        "point_name": "バウンサーに会いに行くハルユキ",
+        "remark": "6話：ハルユキが、バウンサーに会いに行く時に歩いていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76208,
+          35.697175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdorg8",
+        "point_name": "バウンサーに会いに行くハルユキ",
+        "remark": "6話：ハルユキが、バウンサーに会いに行く時に映った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761221,
+          35.695785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdorxn",
+        "point_name": "バウンサーに会いに行くハルユキ",
+        "remark": "6話：ハルユキが、バウンサーに会いに行く時に信号待ちをしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761111,
+          35.695339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uicdorjo",
+        "point_name": "バウンサーに会うハルユキ",
+        "remark": "6話：ハルユキが、バウンサーに会った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64598,
+          35.697674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdoros.jpg",
+        "location": "",
+        "point_id": "4uicdoros",
+        "point_name": "3人での久しぶりの下校",
+        "remark": "7話：ハルユキとタクムとチユリが、仲良く学校から歩いて帰っていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638124,
+          35.45488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorxk.jpg",
+        "location": "",
+        "point_id": "4uicdorxk",
+        "point_name": "黒雪姫とニコと買い物",
+        "remark": "9話：ハルユキが、黒雪姫とニコと買い物をしていた時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.662181,
+          35.738536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorfv.jpg",
+        "location": "",
+        "point_id": "4uicdorfv",
+        "point_name": "チェリーの監視",
+        "remark": "10話：チェリーの監視をしていた時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.662208,
+          35.738359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorbt.jpg",
+        "location": "",
+        "point_id": "4uicdorbt",
+        "point_name": "チェリーの監視",
+        "remark": "10話：チェリーの監視をしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651535,
+          35.70406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorg2.jpg",
+        "location": "",
+        "point_id": "4uicdorg2",
+        "point_name": "公園で話すチユリとタクム",
+        "remark": "13話：チユリとタクムが、公園で話していた時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651513,
+          35.703768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorfd.jpg",
+        "location": "",
+        "point_id": "4uicdorfd",
+        "point_name": "公園で話すチユリとタクム",
+        "remark": "13話：チユリとタクムが、話していた公園がある場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.663294,
+          35.673143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorrm.jpg",
+        "location": "",
+        "point_id": "4uicdorrm",
+        "point_name": "アッシュに会いに行くハルユキ",
+        "remark": "15話：ハルユキが、ポイントを稼ぐためにアッシュに会いに行く途中で映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70063,
+          35.694147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorbr.jpg",
+        "location": "",
+        "point_id": "4uicdorbr",
+        "point_name": "楓子と会うハルユキ",
+        "remark": "16話：ハルユキが、楓子と会った場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700933,
+          35.693807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorcz.jpg",
+        "location": "",
+        "point_id": "4uicdorcz",
+        "point_name": "楓子と会うハルユキ",
+        "remark": "16話：ハルユキが、楓子と会い信号待ちをしていた場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.687981,
+          26.216138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorms_1753952465780.jpg",
+        "location": "沖縄修学旅行",
+        "point_id": "4uicdorms",
+        "point_name": "国際通り・むつみ橋交差点",
+        "remark": "18話：黒雪姫が、浜辺に居た時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.71917,
+          26.21699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdos0j_1753952500032.jpg",
+        "location": "沖縄修学旅行",
+        "point_id": "4uicdos0j",
+        "point_name": "首里城",
+        "remark": "18話：黒雪姫が、浜辺に居た時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.851064,
+          26.504595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/23685/4uicdorc7_1753952554866.jpg",
+        "location": "沖縄修学旅行",
+        "point_id": "4uicdorc7",
+        "point_name": "万座毛",
+        "remark": "18話：黒雪姫が、浜辺に居た時に映った風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.748043,
+          26.140389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/23685/36tcols_1753952825490.jpg",
+        "location": "沖縄修学旅行",
+        "point_id": "36tcols",
+        "point_name": "玉泉洞 入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653867,
+          35.705535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23685,
+        "bangumi_title": "加速世界",
+        "ep_cut": "EP24",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/23685/points/4xsa2ol-1757760400112.jpg",
+        "location": "",
+        "point_id": "4xsa2ol",
+        "point_name": "杉並芸術会館・座・高円寺前",
+        "remark": "春雪一夥人與Rain/Leopard分別地點"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

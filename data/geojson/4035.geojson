@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -122.344345,
+          47.613536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4035,
+        "bangumi_title": "摇滚新乐团",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/nuk8j9p4j-1725423864732.jpg",
+        "location": "",
+        "point_id": "nuk8j9p4j",
+        "point_name": "The Crocodile，Seattle",
+        "remark": "2200 2nd Ave, Seattle, WA 98121-2017"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696797,
+          35.65782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4035,
+        "bangumi_title": "摇滚新乐团",
+        "ep_cut": "1集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/rs8b17a37-1736526036392.jpg",
+        "location": "第一集拉面店原型",
+        "point_id": "rs8b17a37",
+        "point_name": "餃子​の​王将\n道玄坂​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.38563,
+          34.090671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4035,
+        "bangumi_title": "摇滚新乐团",
+        "ep_cut": "26集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/rsavv4ojb-1736531594513.jpg",
+        "location": "",
+        "point_id": "rsavv4ojb",
+        "point_name": "Whisky a Go Go",
+        "remark": "livehouse的名字"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.349052,
+          47.614624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4035,
+        "bangumi_title": "摇滚新乐团",
+        "ep_cut": "26",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4035/points/rt3lxz9sb-1736593919116.jpg",
+        "location": "",
+        "point_id": "rt3lxz9sb",
+        "point_name": "The Crocodile",
+        "remark": "取景实际来自The Crocodile酒吧旧址2200 2nd Ave, Seattle。该酒吧于2021年重新装修并搬迁至新址2505 1st Ave, Seattle"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

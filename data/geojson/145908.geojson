@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.250984,
+          35.137155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 145908,
+        "bangumi_title": "三者三叶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52w6du",
+        "point_name": "上総興津駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502098,
+          35.30665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 145908,
+        "bangumi_title": "三者三叶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52w5t3",
+        "point_name": "鎌倉高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.663189,
+          35.719895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 145908,
+        "bangumi_title": "三者三叶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52w6e9",
+        "point_name": "沼袋駅周辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618282,
+          35.704922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 145908,
+        "bangumi_title": "三者三叶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52w6fm",
+        "point_name": "温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

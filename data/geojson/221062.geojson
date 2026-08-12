@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700598,
+          35.659403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221062,
+        "bangumi_title": "女神异闻录5 the Animation",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/1042/bangumi/221062/points/idlgbsz0w-1709988853261.jpg",
+        "location": "",
+        "point_id": "idlgbsz0w",
+        "point_name": "渋谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.669404,
+          35.642831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221062,
+        "bangumi_title": "女神异闻录5 the Animation",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1042/bangumi/221062/points/idm0bxtde-1709990230475.jpg",
+        "location": "",
+        "point_id": "idm0bxtde",
+        "point_name": "New Marina",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675962,
+          35.700908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221062,
+        "bangumi_title": "女神异闻录5 the Animation",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1042/bangumi/221062/points/idnf3q1cs-1709992990884.jpg",
+        "location": "",
+        "point_id": "idnf3q1cs",
+        "point_name": "堀越高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

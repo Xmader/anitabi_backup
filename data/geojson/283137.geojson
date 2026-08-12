@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.266686,
+          23.125828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 283137,
+        "bangumi_title": "宅男的人间冒险",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/283137/sp1lmue2q_1739814806002_c16v9.jpg",
+        "location": "",
+        "point_id": "sp1lmue2q",
+        "point_name": "北京路步行街全家便利店",
+        "remark": "游戏主线发生在北京路附近，所以就在此处选了一家最合适的全家便利店"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

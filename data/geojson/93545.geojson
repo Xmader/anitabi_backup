@@ -1,0 +1,625 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.464827,
+          35.642214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kjen8ir61-1730706248175.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "kjen8ir61",
+        "point_name": "桜ヶ丘カントリークラブ",
+        "remark": "甘城光辉游乐园理论上的地理位置所在地，从空中来看右边是稻城市，实际上这块地方是樱丘乡村俱乐部的，游乐园本身参考了西武园游乐园"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.509335,
+          35.636939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kpwl1ngfy-1730646063982.jpg",
+        "location": "可儿江家区域",
+        "point_id": "kpwl1ngfy",
+        "point_name": "三沢川沿い",
+        "remark": "可儿江骑车回家路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500067,
+          35.63584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kpwl3aiyp-1730707176748.jpg",
+        "location": "甘城站区域",
+        "point_id": "kpwl3aiyp",
+        "point_name": "稲城駅",
+        "remark": "甘城站原型，动画中常出现的甘城站以及甘城站前公交站的广场实际是稲城駅和経堂駅前經堂CORTY两处圣地缝合出来的场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.499347,
+          35.635984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kjen8ir8l-1730636390044.jpg",
+        "location": "甘城站区域",
+        "point_id": "kjen8ir8l",
+        "point_name": "京王相模原線-稲城駅",
+        "remark": "甘城站原型，动画中常出现的甘城站以及甘城站前公交站的广场实际是稲城駅和経堂駅前經堂CORTY两处圣地的缝合"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637215,
+          35.651767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kjen8irpj-1730707440142.jpg",
+        "location": "甘城站区域",
+        "point_id": "kjen8irpj",
+        "point_name": "經堂CORTY",
+        "remark": "甘城站和甘城站前公交站台的广场实际上是稲城駅和經堂CORTY两处圣地缝合出的一个场景，图中五十铃和西也身后的建筑和公交站台分别是經堂CORTY和小田急小田原線的経堂駅前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500152,
+          35.636555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq0k3tf6z-1730709749549.jpg",
+        "location": "甘城站区域",
+        "point_id": "pq0k3tf6z",
+        "point_name": "京王​リトナード​稲城",
+        "remark": "可儿江左前方就是现实中的稲城駅和京王​リトナード​稲城"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466307,
+          35.6413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kpwl1ngfw-1730705791990.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "kpwl1ngfw",
+        "point_name": "桜ヶ丘カントリークラブ",
+        "remark": "甘辉正大门位置所在的前方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.442511,
+          35.768228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pr1cj2gsv-1730789858557.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pr1cj2gsv",
+        "point_name": "軽食・売店 ミルクホール",
+        "remark": "甘辉的露天餐区，现实中西武园游乐园的露天餐区，动画中的场景与圣地重合度几乎100%，这一点也可以成为西武园游乐园是真正的甘辉圣地的依据"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517264,
+          35.632938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kpwl1nfuu-1730646350800.jpg",
+        "location": "甘城站区域",
+        "point_id": "kpwl1nfuu",
+        "point_name": "京王よみうりランド駅（１番線）",
+        "remark": "可儿江手指方向为二号站台（这个甘城站缝了3个圣地，车站外是經堂CORTY，车站是稲城駅，车站内站台是京王读卖乐园駅）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517261,
+          35.633058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/kpwl1ng2e-1730646724577.jpg",
+        "location": "甘城站区域",
+        "point_id": "kpwl1ng2e",
+        "point_name": "京王よみうりランド駅（２番線）",
+        "remark": "千斗和可儿江所站站台为一号站台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.464714,
+          35.6405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/93545/kpwl1ng56_1734497056816.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "kpwl1ng56",
+        "point_name": "桜ヶ丘カントリークラブ",
+        "remark": "动画中的西太丸公交车站，也就是现在甘辉正门的公交车站，离非常有名的圣迹樱丘很近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517252,
+          35.635366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq0azg1vd-1730709472861.jpg",
+        "location": "可儿江家区域",
+        "point_id": "pq0azg1vd",
+        "point_name": "ストリームサイドスズキビル",
+        "remark": "动画中可儿江家的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637129,
+          35.651796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/ppzx69e2b-1730708787815.jpg",
+        "location": "甘城站区域",
+        "point_id": "ppzx69e2b",
+        "point_name": "経堂すずらん通り",
+        "remark": "动画中甘城站附近的商店街，莫夫鲁一行人经常去的居酒屋\"Savage\"就在其中"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636381,
+          35.651849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq8kw23v2-1730727216637.jpg",
+        "location": "甘城站区域",
+        "point_id": "pq8kw23v2",
+        "point_name": "ケンタッキーフライドチキン経堂店",
+        "remark": "动画中的甘城站附近，五十铃和西也闹别扭后放学路上坐电车去甘辉过马路时的场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.442966,
+          35.768318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq50h8ju1-1730719675086.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pq50h8ju1",
+        "point_name": "西武園​ゆうえん​ち",
+        "remark": "设定集中官方所说的游乐园美术参考地，但是可能由于其他圣地主要集中在稲城市一带，普遍前往稲城市京王读卖乐园作为圣地巡礼的比较多，大多数人认为京王读卖乐园才是甘辉的原型并前往圣地巡礼。但是实际上通过主题和游乐设施来考察对比，西武园游乐园确确实实是甘辉的真正圣地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.274829,
+          35.718098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq1661pv4-1730711013427.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pq1661pv4",
+        "point_name": "東京​サマー​ランド",
+        "remark": "明明游乐园原型西武园游乐园也有水上乐园，为什么没有选西武园游乐园的水上乐园反而跑这么远选东京Summerland呢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518991,
+          35.625536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/ppyfavj9a-1730705256841.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "ppyfavj9a",
+        "point_name": "よみうりランド",
+        "remark": "根据武本康弘在设定集中的自述，甘辉的原型其实是“西武园游乐园”和“东京summerland“，但是可能由于”京王读卖乐园“被其他圣地环绕，”西武园游乐园“距离主舞台较远，大部分粉丝以为京王读卖乐园是甘辉的原型前往圣地巡礼，但是甘辉原型实际上是”西武园游乐园“"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637944,
+          35.655325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq8cabjzj-1730726664593.jpg",
+        "location": "甘城市立高等学校区域",
+        "point_id": "pq8cabjzj",
+        "point_name": "デイ･ホーム赤堤前",
+        "remark": "第八话五十铃戴西也皮套替西也上学碰见椎菜时谈话的地方，动画中的甘城市立高等学校校门前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637833,
+          35.655508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq7q3oc2c-1730725299981.jpg",
+        "location": "甘城市立高等学校区域",
+        "point_id": "pq7q3oc2c",
+        "point_name": "世田谷区立赤堤小学校",
+        "remark": "五十铃和西也所在的甘城市立高等学校，这个基本上绝大部分的甘辉圣地巡礼都没有看到记载，实际上就在経堂駅附近，最后还好翻到一篇blog的图册中有这所学校圣地巡礼的图片，提供了线索省了很多寻找的时间，图册链接已在右下角链接中给出，非常感谢@ssslocation的贡献"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637935,
+          35.65519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/93545/r2ed59i5w_1734501244186.jpg",
+        "location": "甘城市立高等学校区域",
+        "point_id": "r2ed59i5w",
+        "point_name": "世田谷区立赤堤小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637932,
+          35.655419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/93545/r2efbdh82_1734501339445.jpg",
+        "location": "甘城市立高等学校区域",
+        "point_id": "r2efbdh82",
+        "point_name": "世田谷区立赤堤小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.660924,
+          35.633712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq5pgt6qf-1730721069612.jpg",
+        "location": "",
+        "point_id": "pq5pgt6qf",
+        "point_name": "コロッケ西郷亭 ",
+        "remark": "原作中教拉媞珐做可乐饼的师傅就是中野西乡亭可乐饼店的店主，在动画播出后西乡亭也和甘辉动画联动推出了徽章，店内直到去年闭店前还摆有甘辉的BD礼盒，可惜现在已经闭店，但是依旧有网上订餐，联动吧唧套餐也还在卖，点击右下角链接就可以前往购买，如果在日本的话更是可以品尝一下拉媞珐同款可乐饼~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622752,
+          35.466157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": "第三卷",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pq9growsg-1730729142836.jpg",
+        "location": "",
+        "point_id": "pq9growsg",
+        "point_name": "横浜",
+        "remark": "小说中前往魔法世界的入口之一就是横滨站的第十一，十二号站台，事实上现实中横滨站只有十号站台，十一十二号站台是类似于九又四分之三站台的存在"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637809,
+          35.656271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pr0rfp3dm-1730789080006.jpg",
+        "location": "甘城市立高等学校区域",
+        "point_id": "pr0rfp3dm",
+        "point_name": "世田谷区立赤堤小学校",
+        "remark": "校舍后，第八话爱意不达的修罗场之地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.527026,
+          35.664245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pqxeo6eky-1730781503936.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pqxeo6eky",
+        "point_name": "味の素​スタジアム",
+        "remark": "甘辉第二园区的体育场，根据对比东京都内大型体育场以及甘辉动画曾与此体育场足球赛联动为据，虽然有魔改成分，但是特征高度重合，所以光辉体育场应该以现实中调布市的味之素体育场为原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.528103,
+          35.663029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pqxqo51fa-1730781918983.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pqxqo51fa",
+        "point_name": "味の素スタジアム",
+        "remark": "光辉体育场的正门，现实中味之素体育场的入口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.440224,
+          35.768235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pr2w4tx1k-1730793233116.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pr2w4tx1k",
+        "point_name": "西武園",
+        "remark": "其实如果现在去西武园圣地巡礼的话已经看不到这个位置有过山车了，因为近几年西武园游乐园的过山车已经拆除。西武园游乐园的过山车规模和造型来看都比京王读卖乐园的更接近动画中的设定"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.441254,
+          35.767265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pr2zqqofn-1730793380337.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pr2zqqofn",
+        "point_name": "富士見展望塔",
+        "remark": "游乐设施\"自由落体\"的原型，但是现实中并不是跳楼机，而是一个瞭望塔，但是外型都基本一致"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.444345,
+          35.767627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pr3eooal8-1730794283491.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pr3eooal8",
+        "point_name": "西武园游乐园",
+        "remark": "甘辉摩天轮的原型，比起京王读卖乐园的摩天轮，西武园游乐园的摩天轮的红色配色，以及周围被树林环绕，都更符合动画中的设定"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.440566,
+          35.769011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/93545/points/pr3k5kdif-1730794580358.jpg",
+        "location": "甘城光辉游乐园主园区",
+        "point_id": "pr3k5kdif",
+        "point_name": "夕日の丘商店街",
+        "remark": "\"光辉集市\"原型，可儿江在动画中吐槽到里面的产品\"一股强烈的昭和气息\"，也非常贴合西武园游乐园的昭和主题"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.20632,
+          35.604836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 93545,
+        "bangumi_title": "甘城光辉游乐园",
+        "ep_cut": "第八卷",
+        "image_url": "https://w.junreimap.com/images/points/93545/r2ehcby36_1734501697970.jpg",
+        "location": "",
+        "point_id": "r2ehcby36",
+        "point_name": "さがみ​湖​リゾート\nプレジャー​フォレスト",
+        "remark": "小说中最后一卷佐波湖原型为相模湖，上下文提到的富士见高地乐园是现实中的富士急高地乐园，相同资本的佐波湖露营乐园是相模湖的さがみこ MORI MORI（相模湖度假村游乐森林），JR佐波湖站为JR相模湖站"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

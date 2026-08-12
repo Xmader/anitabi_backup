@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.757317,
+          41.787316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331480,
+        "bangumi_title": "明日同学的水手服",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/331480/points/51i52ia4k-1714024698678.jpg",
+        "location": "",
+        "point_id": "51i52ia4k",
+        "point_name": "遺愛女子中学校・高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.327097,
+          36.778181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331480,
+        "bangumi_title": "明日同学的水手服",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52i9x7",
+        "point_name": "旧上岡小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.601858,
+          36.334107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331480,
+        "bangumi_title": "明日同学的水手服",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1069/bangumi/331480/points/jt595h9xi-1714028376148.jpg",
+        "location": "",
+        "point_id": "jt595h9xi",
+        "point_name": "蕎麦志な乃",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

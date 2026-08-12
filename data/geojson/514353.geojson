@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.800647,
+          35.890721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 514353,
+        "bangumi_title": "小林家的龙女仆 孤独的龙",
+        "ep_cut": "PV",
+        "image_url": "https://w.junreimap.com/images/points/514353/ucknso61f_1743761952285.jpg",
+        "location": "",
+        "point_id": "ucknso61f",
+        "point_name": "東越谷七丁目しいの木公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

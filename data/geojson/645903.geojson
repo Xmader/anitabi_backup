@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.745451,
+          35.656836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 645903,
+        "bangumi_title": "阿索拉：星之祈愿",
+        "ep_cut": "角色介绍PV",
+        "image_url": "https://w.junreimap.com/images/points/645903/g66kzam_1782212747918.webp",
+        "location": "",
+        "point_id": "g66kzam",
+        "point_name": "芝公園 のびのび広場・いきいき広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.748957,
+          35.660083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 645903,
+        "bangumi_title": "阿索拉：星之祈愿",
+        "ep_cut": "角色介绍PV",
+        "image_url": "https://w.junreimap.com/images/points/645903/g66cme6_1782212346879.webp",
+        "location": "",
+        "point_id": "g66cme6",
+        "point_name": "港区芝公園三丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

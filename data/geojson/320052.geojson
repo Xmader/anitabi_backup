@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.479473,
+          35.470154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320052,
+        "bangumi_title": "佐佐木与宫野",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/320052/mp2dfw3d9_1722171941064.jpg",
+        "location": "",
+        "point_id": "mp2dfw3d9",
+        "point_name": "歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479554,
+          35.470104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320052,
+        "bangumi_title": "佐佐木与宫野",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/320052/mp2e6cj6p_1722172024570.jpg",
+        "location": "",
+        "point_id": "mp2e6cj6p",
+        "point_name": "歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.477913,
+          35.468013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320052,
+        "bangumi_title": "佐佐木与宫野",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/320052/mp2sgkdc8_1722172845942.jpg",
+        "location": "",
+        "point_id": "mp2sgkdc8",
+        "point_name": "橋戸北第二公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

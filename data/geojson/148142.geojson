@@ -1,0 +1,725 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.094555,
+          34.985551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/148142/points/7nr2x6nhz-1679757052407.jpg",
+        "location": "",
+        "point_id": "7nr2x6nhz",
+        "point_name": "伊東マリンタウン 太陽のステージ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078369,
+          35.103478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/0e63983c_1755762253834.jpg",
+        "location": "熱海",
+        "point_id": "0e63983c",
+        "point_name": "家康の湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.075748,
+          35.095299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/6061050d_1755760591315.jpg",
+        "location": "熱海",
+        "point_id": "6061050d",
+        "point_name": "熱海親水公園",
+        "remark": "漫画封面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.075136,
+          35.09677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/f75b651d_1755762895867.jpg",
+        "location": "熱海",
+        "point_id": "f75b651d",
+        "point_name": "欧風レストラン クレール",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.074707,
+          35.096165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/58da1780_1755761741064.jpg",
+        "location": "熱海",
+        "point_id": "58da1780",
+        "point_name": "熱海商工会議所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.074346,
+          35.096377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/2ea0cbee_1755761851842.jpg",
+        "location": "熱海",
+        "point_id": "2ea0cbee",
+        "point_name": "熱海銀座商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.072542,
+          35.096611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/55fd5a6c_1755761910338.jpg",
+        "location": "熱海",
+        "point_id": "55fd5a6c",
+        "point_name": "本町商店街（バス）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.065571,
+          35.098703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "熱海",
+        "point_id": "a0937c0a",
+        "point_name": "来宮駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.062883,
+          35.086731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "熱海",
+        "point_id": "e1934b8b",
+        "point_name": "ポイント 6",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.064139,
+          35.046645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "伊豆多賀",
+        "point_id": "2857e306",
+        "point_name": "熱海市立多賀中学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.094097,
+          34.985659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/d16fe92c_1755763288201.jpg",
+        "location": "伊東・川奈",
+        "point_id": "d16fe92c",
+        "point_name": "道の駅 伊東マリンタウン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.096111,
+          34.975556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/f296a383_1755762227482.jpg",
+        "location": "伊東・川奈",
+        "point_id": "f296a383",
+        "point_name": "伊東オレンジビーチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.092218,
+          34.97461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/906188b7_1755760774522.jpg",
+        "location": "伊東・川奈",
+        "point_id": "906188b7",
+        "point_name": "伊東駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097,
+          34.971687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/f9157c5c_1755761080571.jpg",
+        "location": "伊東・川奈",
+        "point_id": "f9157c5c",
+        "point_name": "東海館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.098706,
+          34.970939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/d1cb1572_1755761053250.jpg",
+        "location": "伊東・川奈",
+        "point_id": "d1cb1572",
+        "point_name": "八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.10046,
+          34.972901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/55cc1e83_1755761108825.jpg",
+        "location": "伊東・川奈",
+        "point_id": "55cc1e83",
+        "point_name": "なぎさ公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.127863,
+          34.968666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/6bc56db1_1755761200465.jpg",
+        "location": "伊東・川奈",
+        "point_id": "6bc56db1",
+        "point_name": "汐吹公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.079145,
+          34.947297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "伊東・川奈",
+        "point_id": "f7e6e3ca",
+        "point_name": "山神宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.131252,
+          34.953837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/933c028c_1755761374515.jpg",
+        "location": "伊東・川奈",
+        "point_id": "933c028c",
+        "point_name": "海女の小屋海上亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.109322,
+          34.970751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/b612ece2_1755761175825.jpg",
+        "location": "伊東・川奈",
+        "point_id": "b612ece2",
+        "point_name": "新井神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.088883,
+          34.936286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "伊東・川奈",
+        "point_id": "0565ced2",
+        "point_name": "モン・リーブ 荻店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.105672,
+          34.9297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "伊東・川奈",
+        "point_id": "2b11531a",
+        "point_name": "一碧湖(大池)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.096291,
+          34.904176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "1d81c2bc",
+        "point_name": "大室山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.132129,
+          34.897331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "aa24a4bc",
+        "point_name": "温泉丸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.139921,
+          34.891048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "c7e64531",
+        "point_name": "城ヶ崎海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.122445,
+          34.900227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/726ea7de_1755761385499.jpg",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "726ea7de",
+        "point_name": "和むら",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.1203,
+          34.89686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "e098638a",
+        "point_name": "光の村（バス）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.095806,
+          34.891145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "9246e6d8",
+        "point_name": "南大室台入口（バス）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.106891,
+          34.882589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "af1d7270",
+        "point_name": "桜並木",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.099967,
+          34.878155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "cd4b7e48",
+        "point_name": "八幡宮来宮神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.108187,
+          34.877534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/21ed0939_1755761565330.jpg",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "21ed0939",
+        "point_name": "伊豆高原駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.113098,
+          34.878455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/b4ec318b_1755763594120.jpg",
+        "location": "城ヶ崎・伊豆高原",
+        "point_id": "b4ec318b",
+        "point_name": "雑貨＆カフェ伊豆高原ローズテラス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.824998,
+          35.023014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大瀬崎",
+        "point_id": "40603736",
+        "point_name": "ポイント 2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.818757,
+          35.023154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大瀬崎",
+        "point_id": "baa3a41b",
+        "point_name": "ポイント 3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.786554,
+          35.024498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/9fceaf50_1755763695136.jpg",
+        "location": "大瀬崎",
+        "point_id": "9fceaf50",
+        "point_name": "大瀬海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.102978,
+          34.958925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148142,
+        "bangumi_title": "蓝海少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/148142/40rsrm2_1755764287862.jpg",
+        "location": "伊東・川奈",
+        "point_id": "40rsrm2",
+        "point_name": "伊東高校前（バス）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

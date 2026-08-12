@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.794054,
+          35.629845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 408883,
+        "bangumi_title": "LoveLive！虹咲学园学园偶像同好会 NEXT SKY",
+        "ep_cut": "2023 OVA 海报",
+        "image_url": "https://w.junreimap.com/images/user/1032/bangumi/408883/points/ekwbiai8a-1699276774458.jpg",
+        "location": "",
+        "point_id": "ekwbiai8a",
+        "point_name": "東京ビッグサイト",
+        "remark": "坐标是大致参考位置，请以实际为准"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.078269,
+          51.504183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 408883,
+        "bangumi_title": "LoveLive！虹咲学园学园偶像同好会 NEXT SKY",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/408883/points/j7dga9gvx-1712322654906.jpg",
+        "location": "",
+        "point_id": "j7dga9gvx",
+        "point_name": "Potters Fields Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

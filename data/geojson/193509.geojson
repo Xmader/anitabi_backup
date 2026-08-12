@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.659087,
+          35.283503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193509,
+        "bangumi_title": "高校舰队 OVA",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/144843/points/3wu9kn2-1755526553459.jpg",
+        "location": "",
+        "point_id": "3wu9kn2",
+        "point_name": "ヴェルニー公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66748,
+          35.281822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193509,
+        "bangumi_title": "高校舰队 OVA",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/144843/points/3yafj7v-1755614230614.jpg",
+        "location": "",
+        "point_id": "3yafj7v",
+        "point_name": "ヨコスカシェル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65908,
+          35.283621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193509,
+        "bangumi_title": "高校舰队 OVA",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/144843/points/3wuy2mv-1755527713487.jpg",
+        "location": "",
+        "point_id": "3wuy2mv",
+        "point_name": "ヴェルニー公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65689,
+          35.24972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193509,
+        "bangumi_title": "高校舰队 OVA",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/144843/points/3wt0lxl-1755524453595.jpg",
+        "location": "",
+        "point_id": "3wt0lxl",
+        "point_name": "衣笠山公園展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.663125,
+          35.280735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193509,
+        "bangumi_title": "高校舰队 OVA",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/144843/points/3wwehqi-1755530070291.jpg",
+        "location": "",
+        "point_id": "3wwehqi",
+        "point_name": "モアイ＆カピー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670987,
+          35.278571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 193509,
+        "bangumi_title": "高校舰队 OVA",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/144843/points/3wvxxbb-1755530181948.jpg",
+        "location": "",
+        "point_id": "3wvxxbb",
+        "point_name": "さかくら総本家 横須賀中央駅前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

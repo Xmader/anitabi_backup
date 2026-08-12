@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.117272,
+          29.656697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4583,
+        "bangumi_title": "机动战士高达 逆袭的夏亚",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4583/points/nv1omeng7-1725461740198.jpg",
+        "location": "",
+        "point_id": "nv1omeng7",
+        "point_name": "布达拉宫 ཕོ་བྲང་པོ་ཏ་ལ།",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.559849,
+          35.911159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 73083,
+        "bangumi_title": "钻石王牌",
+        "ep_cut": 27,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73083/points/d6z6lonhw-1695364903878.jpg",
+        "location": "",
+        "point_id": "d6z6lonhw",
+        "point_name": "琦玉栄高等学校スポーツ研修センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.193732,
+          34.404731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 73083,
+        "bangumi_title": "钻石王牌",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73083/points/ji89cnsql-1713172893854.jpg",
+        "location": "车站",
+        "point_id": "ji89cnsql",
+        "point_name": "尾道",
+        "remark": "国中毕业前往东京，与朋友分别的车站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.193623,
+          34.404783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 73083,
+        "bangumi_title": "钻石王牌",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73083/points/ji8depp9z-1713173128672.jpg",
+        "location": "车站",
+        "point_id": "ji8depp9z",
+        "point_name": "尾道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.193623,
+          34.404783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 73083,
+        "bangumi_title": "钻石王牌",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73083/points/ji8fb8d1o-1713173273025.jpg",
+        "location": "车站",
+        "point_id": "ji8fb8d1o",
+        "point_name": "尾道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.361546,
+          34.721446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 73083,
+        "bangumi_title": "钻石王牌",
+        "ep_cut": "Act2 1话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73083/points/ngvbko4or-1724350823836.jpg",
+        "location": "",
+        "point_id": "ngvbko4or",
+        "point_name": "甲子園球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

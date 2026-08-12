@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.50006,
+          31.558598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 247,
+        "bangumi_title": "银魂",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/247/59pqzmesn_1673010117562.jpg",
+        "location": "",
+        "point_id": "59pqzmesn",
+        "point_name": "البحر الميت ים המלח",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70102,
+          35.69387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 247,
+        "bangumi_title": "银魂",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/247/points/ohdc7hizg-1727211160457.jpg",
+        "location": "",
+        "point_id": "ohdc7hizg",
+        "point_name": "歌舞伎町一番街アーチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

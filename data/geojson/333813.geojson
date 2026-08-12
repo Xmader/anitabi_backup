@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.821329,
+          35.651698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333813,
+        "bangumi_title": "真 流行之神3",
+        "ep_cut": "第二話「悪魔の人形」",
+        "image_url": "https://w.junreimap.com/images/points/333813/p8rturpc9_1729359357377.jpg",
+        "location": "",
+        "point_id": "p8rturpc9",
+        "point_name": "モネの池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.821346,
+          35.651706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333813,
+        "bangumi_title": "真 流行之神3",
+        "ep_cut": "第二話「悪魔の人形」",
+        "image_url": "https://w.junreimap.com/images/points/333813/p8sa76fkh_1729359465730.jpg",
+        "location": "",
+        "point_id": "p8sa76fkh",
+        "point_name": "モネの池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.415177,
+          34.718733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333813,
+        "bangumi_title": "真 流行之神3",
+        "ep_cut": "第三話「人間シチュー」",
+        "image_url": "https://w.junreimap.com/images/points/333813/p8s4fcqw7_1729359400366.jpg",
+        "location": "",
+        "point_id": "p8s4fcqw7",
+        "point_name": "さきタワー・サンクタス尼崎駅前",
+        "remark": "高29层的高级公寓。设定中位于G站（岐阜站）前，其原型实际上位于兵库县尼崎市。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.96127,
+          36.245423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333813,
+        "bangumi_title": "真 流行之神3",
+        "ep_cut": "愛染刹那編「悪魔のメルヘンカルタ」",
+        "image_url": "https://w.junreimap.com/images/points/333813/p8sqy6sen_1729360487694.jpg",
+        "location": "",
+        "point_id": "p8sqy6sen",
+        "point_name": "松本市営葬祭センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

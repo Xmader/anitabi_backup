@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.400464,
+          34.802869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgkrds3r_1736856961316.jpg",
+        "location": "",
+        "point_id": "rwgkrds3r",
+        "point_name": "柑子橋（こうじばし）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.400437,
+          34.802836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgmvn3t7_1736857071487.jpg",
+        "location": "",
+        "point_id": "rwgmvn3t7",
+        "point_name": "柑子橋（こうじばし）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.400304,
+          34.803485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgl7k17k_1736856970427.jpg",
+        "location": "",
+        "point_id": "rwgl7k17k",
+        "point_name": "柑子橋（こうじばし）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.400356,
+          34.803455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgm0o1ai_1736857028373.jpg",
+        "location": "",
+        "point_id": "rwgm0o1ai",
+        "point_name": "柑子橋（こうじばし）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.365187,
+          34.791679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgpae09u_1736857264584.jpg",
+        "location": "",
+        "point_id": "rwgpae09u",
+        "point_name": "豊川放水路橋梁",
+        "remark": "二つ目の橋は柑子橋から河口に向かってかなり移動した地点にある(google map)。飯田線の電車が走る鉄橋、「豊川放水路橋りょう」。フリクリ６話でマミ美がターミナルコアのタッくんに出会う橋。このすぐ向こう側にもJRの鉄橋があるって点がアニメとは違うね。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.363773,
+          34.791179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgqy4p7e_1736857335795.jpg",
+        "location": "",
+        "point_id": "rwgqy4p7e",
+        "point_name": "豊川放水路橋梁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.40068,
+          34.802758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 822,
+        "bangumi_title": "FLCL",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/822/rwgwuyw3u_1736857699660.jpg",
+        "location": "",
+        "point_id": "rwgwuyw3u",
+        "point_name": "",
+        "remark": "和实际地图几乎一致"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

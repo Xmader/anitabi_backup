@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.707283,
+          35.730038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324273,
+        "bangumi_title": "孤独的美食家 2020除夕特别篇～我的饮食没有秘密，孤独的烟花大作战！～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/324273/5db6b08b_1741540481366.jpg",
+        "location": "2020年12月31日放送",
+        "point_id": "5db6b08b",
+        "point_name": "高柳ビル",
+        "remark": "また担々麵"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.750193,
+          35.668955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324273,
+        "bangumi_title": "孤独的美食家 2020除夕特别篇～我的饮食没有秘密，孤独的烟花大作战！～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/324273/cd5b41a4_1741540863779.jpg",
+        "location": "东京都虎之门的炸虾",
+        "point_id": "cd5b41a4",
+        "point_name": "第二ジェスペールビル 1f",
+        "remark": "閉店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.599038,
+          35.570653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324273,
+        "bangumi_title": "孤独的美食家 2020除夕特别篇～我的饮食没有秘密，孤独的烟花大作战！～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/324273/6642cbf0_1741541061708.jpg",
+        "location": "神奈川县北山田的烤肉",
+        "point_id": "6642cbf0",
+        "point_name": "焼肉 清月苑",
+        "remark": "神奈川県川崎市宮前区野川4179"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083874,
+          35.991606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 324273,
+        "bangumi_title": "孤独的美食家 2020除夕特别篇～我的饮食没有秘密，孤独的烟花大作战！～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/324273/39655f17_1741541242119.jpg",
+        "location": "埼玉县稚父的炒饭饺子",
+        "point_id": "39655f17",
+        "point_name": "東町２４−５",
+        "remark": "埼玉県秩父市東町24-5"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.11937,
+          35.998176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1154,
+        "bangumi_title": "东方风神录 ～ Mountain of Faith.",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1154/points/m10bhd9t7-1782992248800.webp",
+        "location": "",
+        "point_id": "m10bhd9t7",
+        "point_name": "諏訪大社 上社 本宮",
+        "remark": "守矢神社原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

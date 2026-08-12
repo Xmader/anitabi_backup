@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.798642,
+          34.924702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220188,
+        "bangumi_title": "巴加的工作室",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/220188/points/5gr3r7z9n-1673561736637.jpg",
+        "location": "",
+        "point_id": "5gr3r7z9n",
+        "point_name": "京都动画本社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

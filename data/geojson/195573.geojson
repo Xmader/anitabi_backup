@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -92.990977,
+          38.980299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195573,
+        "bangumi_title": "荒野大镖客：救赎2",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195573/points/nyh0vvhzn-1725730409439.jpg",
+        "location": "",
+        "point_id": "nyh0vvhzn",
+        "point_name": "Main St",
+        "remark": "密苏里州黑水镇是大镖客里面黑水镇的原型，游戏设计师曾在此考察，目前仍然保留着1890年代的老酒店（120$一晚）、警察局、仓谷。值得打卡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.775963,
+          30.004232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195573,
+        "bangumi_title": "荒野大镖客：救赎2",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/195573/pax4lvipy_1729526760232.jpg",
+        "location": "",
+        "point_id": "pax4lvipy",
+        "point_name": "Oak Alley Plantation House",
+        "remark": "布雷斯韦特庄园原型"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

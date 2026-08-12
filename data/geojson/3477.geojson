@@ -1,0 +1,525 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -2.136787,
+          40.067153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4ui7g7sdz",
+        "point_name": "クエンカ駅（在来線）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.15096,
+          40.039148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4ui7g7sh8",
+        "point_name": "クエンカ駅（新幹線AVE）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128313,
+          40.078097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1007/bangumi/3477/points/4ui7g7swd-1716305660948.jpg",
+        "location": "",
+        "point_id": "4ui7g7swd",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128902,
+          40.080387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7ss2_1716305869621.jpg",
+        "location": "",
+        "point_id": "4ui7g7ss2",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.130205,
+          40.077015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sj5_1716305915733.jpg",
+        "location": "",
+        "point_id": "4ui7g7sj5",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128631,
+          40.077841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sky_1716305932096.jpg",
+        "location": "",
+        "point_id": "4ui7g7sky",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.12997,
+          40.077852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sey_1716305947886.jpg",
+        "location": "",
+        "point_id": "4ui7g7sey",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.127945,
+          40.08136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7s8u_1716306139778.jpg",
+        "location": "",
+        "point_id": "4ui7g7s8u",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.129422,
+          40.078188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sjt_1716306168305.jpg",
+        "location": "",
+        "point_id": "4ui7g7sjt",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.130098,
+          40.078684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sc7_1716306280232.jpg",
+        "location": "",
+        "point_id": "4ui7g7sc7",
+        "point_name": "第01話 水かけ祭（雑踏）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.129787,
+          40.07853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7snb_1716306444454.jpg",
+        "location": "",
+        "point_id": "4ui7g7snb",
+        "point_name": "第01話 水かけ祭「カナタ」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.130055,
+          40.078252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7st0_1716306481172.jpg",
+        "location": "",
+        "point_id": "4ui7g7st0",
+        "point_name": "第01話 水かけ祭「カナタ」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.127885,
+          40.078311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sd7_1716306581059.jpg",
+        "location": "",
+        "point_id": "4ui7g7sd7",
+        "point_name": "第01話 宙吊りの家（カナタの入浴）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.127635,
+          40.078301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7suv_1716306618219.jpg",
+        "location": "",
+        "point_id": "4ui7g7suv",
+        "point_name": "第01話 到着を待つクレハ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.12837,
+          40.078105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7ssb_1716306737081.jpg",
+        "location": "",
+        "point_id": "4ui7g7ssb",
+        "point_name": "第01話 バルコニーに出るカナタ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128259,
+          40.081366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7swp_1716306791838.jpg",
+        "location": "",
+        "point_id": "4ui7g7swp",
+        "point_name": "第01話 再び歩き出すカナタ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.126906,
+          40.081724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7syy_1716306818301.jpg",
+        "location": "",
+        "point_id": "4ui7g7syy",
+        "point_name": "第01話 セーズの門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128923,
+          40.080273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sph_1716306852939.jpg",
+        "location": "",
+        "point_id": "4ui7g7sph",
+        "point_name": "炎の乙女像",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128456,
+          40.081778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7s82_1716306975312.jpg",
+        "location": "",
+        "point_id": "4ui7g7s82",
+        "point_name": "第01話 水かけ祭「リオ」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.131492,
+          40.076963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sdn_1716307207729.jpg",
+        "location": "",
+        "point_id": "4ui7g7sdn",
+        "point_name": "時告げ砦（塔）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.126353,
+          40.079198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sx1_1716307728680.jpg",
+        "location": "",
+        "point_id": "4ui7g7sx1",
+        "point_name": "時告げ砦（内部）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.126474,
+          40.07896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sur.jpg",
+        "location": "",
+        "point_id": "4ui7g7sur",
+        "point_name": "カルヴァドス倉庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.130539,
+          40.076274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sbj.jpg",
+        "location": "",
+        "point_id": "4ui7g7sbj",
+        "point_name": "買い物（ノエル＆カナタ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.130556,
+          40.078313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sha.jpg",
+        "location": "",
+        "point_id": "4ui7g7sha",
+        "point_name": "リオとカナタの別れ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.130467,
+          40.078634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sro_1716307543387.jpg",
+        "location": "",
+        "point_id": "4ui7g7sro",
+        "point_name": "ED 階段（リオ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.128991,
+          40.079858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3477,
+        "bangumi_title": "空之音",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/3477/4ui7g7sem_1716307457592.jpg",
+        "location": "",
+        "point_id": "4ui7g7sem",
+        "point_name": "ED 展望台（ノエル＆カナタ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

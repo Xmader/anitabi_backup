@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -157.396784,
+          1.875277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38040,
+        "bangumi_title": "Little Busters!",
+        "ep_cut": "19",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/38040/points/m0pyabw9h-1720264864571.jpg",
+        "location": "",
+        "point_id": "m0pyabw9h",
+        "point_name": "Kiritimati",
+        "remark": "库特的出生地，Tebwa共和国其中一个岛屿的作画原型，卫星图视角，可在地图上巡礼，现实中拜访该舞台需要借助航空手段才可识别"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735461,
+          35.655144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38040,
+        "bangumi_title": "Little Busters!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/38040/points/sd5pczxlc-1738165528952.jpg",
+        "location": "",
+        "point_id": "sd5pczxlc",
+        "point_name": "麻布十番",
+        "remark": "路中间公园处"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

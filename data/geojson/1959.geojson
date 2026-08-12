@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          6.775537,
+          51.224895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbymn1ful-1729608397671.jpg",
+        "location": "",
+        "point_id": "pbymn1ful",
+        "point_name": "Düsseldorf",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.706229,
+          49.41132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbwcs4htk-1729603451024.jpg",
+        "location": "",
+        "point_id": "pbwcs4htk",
+        "point_name": "Universität Heidelberg",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.709415,
+          49.41353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbwffodae-1729603651289.jpg",
+        "location": "",
+        "point_id": "pbwffodae",
+        "point_name": "Alte Brücke",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.715274,
+          49.41052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbwkiv1pp-1729603900309.jpg",
+        "location": "",
+        "point_id": "pbwkiv1pp",
+        "point_name": "Heidelberger Schloss",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.58045,
+          48.149162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbvz3dlwe-1729602912544.jpg",
+        "location": "",
+        "point_id": "pbvz3dlwe",
+        "point_name": "St. Ludwig München",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.579849,
+          48.150494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbw57c6uo-1729603045229.jpg",
+        "location": "",
+        "point_id": "pbw57c6uo",
+        "point_name": "Ludwig-Maximilians-Universität",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.777157,
+          51.213615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": 63,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1959/points/pbwqlwpu8-1729604380727.jpg",
+        "location": "",
+        "point_id": "pbwqlwpu8",
+        "point_name": "Ministerium des Innern des Landes NRW",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.413705,
+          50.08615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/1959/points/p1it8qefw-1744201214941.jpg",
+        "location": "",
+        "point_id": "p1it8qefw",
+        "point_name": "Karlův most",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.429669,
+          50.088667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1959,
+        "bangumi_title": "怪物",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/1959/ui71pibmo_1744207092693.jpg",
+        "location": "",
+        "point_id": "ui71pibmo",
+        "point_name": "Náměstí Republiky",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

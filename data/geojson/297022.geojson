@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -2.359698,
+          51.381028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297022,
+        "bangumi_title": "忧国的莫里亚蒂",
+        "ep_cut": "ova1",
+        "image_url": "https://w.junreimap.com/images/points/297022/iuacysbau_1723295408467.jpg",
+        "location": "",
+        "point_id": "iuacysbau",
+        "point_name": "ローマン・バス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.12434,
+          51.500495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297022,
+        "bangumi_title": "忧国的莫里亚蒂",
+        "ep_cut": "13",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297022/points/rb6bwkl7a-1735189036947.jpg",
+        "location": "",
+        "point_id": "rb6bwkl7a",
+        "point_name": "Big Ben",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.576263,
+          54.77542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297022,
+        "bangumi_title": "忧国的莫里亚蒂",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297022/points/f0rs01s-1779708798560.jpg",
+        "location": "",
+        "point_id": "f0rs01s",
+        "point_name": "University College",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

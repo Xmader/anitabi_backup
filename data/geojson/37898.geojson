@@ -1,0 +1,705 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.09491,
+          35.597717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctg2b.jpg",
+        "location": "",
+        "point_id": "4uiqctg2b",
+        "point_name": "千葉ポートパーク",
+        "remark": "オープニングにて登場。千葉ポートパーク南側。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.100376,
+          35.598791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctfvn.jpg",
+        "location": "",
+        "point_id": "4uiqctfvn",
+        "point_name": "千葉ポートパーク",
+        "remark": "第01話冒頭で登場。千葉ポートタワー東側。『日本サイロ』と書かれた貯蔵庫が目印。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.111317,
+          35.619957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctg4h.jpg",
+        "location": "",
+        "point_id": "4uiqctg4h",
+        "point_name": "千葉公園護国神社横",
+        "remark": "第01話・第05話にて登場。真横は住宅地なので、配慮が必要。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118116,
+          35.618131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctfqw.jpg",
+        "location": "",
+        "point_id": "4uiqctfqw",
+        "point_name": "千葉公園",
+        "remark": "オープニングで登場。黒猫と京介の帰り道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.117885,
+          35.618771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctg75.jpg",
+        "location": "",
+        "point_id": "4uiqctg75",
+        "point_name": "千葉公園",
+        "remark": "オープニングで登場。黒猫カット。背景に写っている円錐屋根の建物は『蓮華亭』というもの。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116882,
+          35.618789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctgc1.jpg",
+        "location": "",
+        "point_id": "4uiqctgc1",
+        "point_name": "千葉公園",
+        "remark": "OP及び第01話にて登場。撮影ポイントの蓮華亭へ続く歩道は9時よりオープンの為、注意が必要。大賀ハスが咲く時期(7月半ば)は早朝より入ることができるが、花を撮影する方が多い。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.04898,
+          35.657279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctgch.jpg",
+        "location": "",
+        "point_id": "4uiqctgch",
+        "point_name": "幕張舟溜跡公園",
+        "remark": "通称あやせ公園。住宅地の真ん中の公園の為、配慮が必要です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.111977,
+          35.618826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctfna.jpg",
+        "location": "",
+        "point_id": "4uiqctfna",
+        "point_name": "千葉公園護国神社入口",
+        "remark": "第一期でも同様の場所が登場。住宅地横の為、配慮が必要。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.114669,
+          35.612593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctg54_1725165077660.jpg",
+        "location": "",
+        "point_id": "4uiqctg54",
+        "point_name": "千葉駅前",
+        "remark": "第05話にて登場。桐乃と京介の待ち合わせ場所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116041,
+          35.61121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/5436/points/nqrc6ufc2-1725126794470.jpg",
+        "location": "",
+        "point_id": "nqrc6ufc2",
+        "point_name": "千葉ショッピングセンターC･one",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.114855,
+          35.612097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctfqh_1725163907050.jpg",
+        "location": "",
+        "point_id": "4uiqctfqh",
+        "point_name": "千葉駅",
+        "remark": "第05話にて登場。桐乃と京介がデートしている所を麻奈実に見られてしまう。駅舎方面は午前中順光。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116282,
+          35.610924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctgdm.jpg",
+        "location": "",
+        "point_id": "4uiqctgdm",
+        "point_name": "ゲームセンター前",
+        "remark": "第05話にて登場。第一期でも登場したゲームセンター。向かいのC-ONEは改装工事の為に閉鎖されています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118231,
+          35.607707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctg61.jpg",
+        "location": "",
+        "point_id": "4uiqctg61",
+        "point_name": "京成ローザ入り口",
+        "remark": "第05話にて登場。桐乃と京介が映画を見た場所。京成千葉中央駅と直結しています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.111791,
+          35.619048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctgc2.jpg",
+        "location": "",
+        "point_id": "4uiqctgc2",
+        "point_name": "護国神社鳥居",
+        "remark": "第05話にて登場。护国神社已于2022年2月25日迁移，鸟居也一并被移走。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.111555,
+          35.618826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/37898/4uiqctg24.jpg",
+        "location": "",
+        "point_id": "4uiqctg24",
+        "point_name": "護国神社前",
+        "remark": "第05話にて登場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118164,
+          35.618103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/5436/nqll6wjs2_1725113244717.jpg",
+        "location": "千叶公园",
+        "point_id": "nqll6wjs2",
+        "point_name": "千葉公園",
+        "remark": "京介和黑猫表白的场景，第二视角，位于千叶公园东侧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118138,
+          35.618137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/5436/points/nql5rzq7s-1725112407049.jpg",
+        "location": "千叶公园",
+        "point_id": "nql5rzq7s",
+        "point_name": "千叶公园",
+        "remark": "京介与黑猫表白的地方，原型位于千叶公园东侧。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.117593,
+          35.615957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/5436/points/nqmjsc0rs-1725115468753.jpg",
+        "location": "",
+        "point_id": "nqmjsc0rs",
+        "point_name": "そば処一蕎",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.11761,
+          35.615986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/5436/points/nqm9ju7tk-1725114941964.jpg",
+        "location": "",
+        "point_id": "nqm9ju7tk",
+        "point_name": "レストラン川波",
+        "remark": "京介和黑猫牵手的地方，镜头方向自北向南。\n地址：日本〒260-0045 Chiba, Chuo Ward, Benten, 2 Chome−19−20 ロイアルビル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.109643,
+          35.620479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/4uiqctfz9-1778690695161.jpg",
+        "location": "",
+        "point_id": "4uiqctfz9",
+        "point_name": "県立千葉商業高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.109329,
+          35.62062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/4uiqctgbu-1778690829190.jpg",
+        "location": "",
+        "point_id": "4uiqctgbu",
+        "point_name": "県立千葉商業高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.108798,
+          35.620847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/4uiqctg4e-1736757980496.jpg",
+        "location": "",
+        "point_id": "4uiqctg4e",
+        "point_name": "県立千葉商業高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.109182,
+          35.619319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctg0c",
+        "point_name": "パール商会前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.117505,
+          35.615823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/4uiqctfoq-1778688722355.jpg",
+        "location": "",
+        "point_id": "4uiqctfoq",
+        "point_name": "出前専門そば処一蕎",
+        "remark": "根据前边‘そば処一蕎’这一出地点可以推算出是在这个位置时间点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116408,
+          35.618104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/4uiqctg8d-1726562435365.jpg",
+        "location": "",
+        "point_id": "4uiqctg8d",
+        "point_name": "千葉公園荒木山",
+        "remark": "京介と黒猫がお弁当を食べていた場所。第16話では麻奈実との最終決戦の場でもあります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.037789,
+          35.646041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctfp3",
+        "point_name": "メッセ交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040777,
+          35.648705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctg1u",
+        "point_name": "海浜幕張駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.035805,
+          35.644202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctgcd",
+        "point_name": "幕張海浜公園交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.101422,
+          35.626426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctgdd",
+        "point_name": "千葉大学正門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.102248,
+          35.626871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctfyp",
+        "point_name": "千葉大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.048175,
+          35.654886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 13,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctgcv",
+        "point_name": "昭和学院秀英中学・高校横",
+        "remark": "桐乃とあやせの通学路。実在する学校の通学路となっている為、配慮が必要。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.113833,
+          35.620788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 14,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctfug",
+        "point_name": "千葉公園水泳プール",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.113889,
+          35.617936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "4uiqctg7z",
+        "point_name": "千葉中央図書館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116953,
+          35.618328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": "op",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/3xokkpv-1755577465204.jpg",
+        "location": "",
+        "point_id": "3xokkpv",
+        "point_name": "千葉公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.813674,
+          35.697787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37898,
+        "bangumi_title": "我的妹妹哪有这么可爱。二期",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/37898/points/artqk11-1770460862185.jpg",
+        "location": "",
+        "point_id": "artqk11",
+        "point_name": "墨田区东京都 錦糸町三丁目 北斎通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

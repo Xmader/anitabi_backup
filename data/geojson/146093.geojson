@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.41095,
+          35.842402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 146093,
+        "bangumi_title": "亚人",
+        "ep_cut": "亚人/ 漫画 第54回 大义",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/146093/points/r9zlkco7l-1735096112795.jpg",
+        "location": "",
+        "point_id": "r9zlkco7l",
+        "point_name": "入間​航空​基地",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

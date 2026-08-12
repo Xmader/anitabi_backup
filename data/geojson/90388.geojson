@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.242961,
+          35.80822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90388,
+        "bangumi_title": "龙娘七七七埋藏的宝藏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/90388/points/n7l72eh1h-1723623483071.jpg",
+        "location": "",
+        "point_id": "n7l72eh1h",
+        "point_name": "下呂温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

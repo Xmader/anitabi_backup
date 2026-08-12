@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.575067,
+          35.699258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37311,
+        "bangumi_title": "虚之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/37311/points/szck7g1pa-1739904423944.jpg",
+        "location": "",
+        "point_id": "szck7g1pa",
+        "point_name": "井の頭公園桜の木の下で",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.826019,
+          37.706725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37311,
+        "bangumi_title": "虚之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/37311/points/szcstk1nj-1739904933586.jpg",
+        "location": "",
+        "point_id": "szcstk1nj",
+        "point_name": "彌彦神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.90542,
+          36.255205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37311,
+        "bangumi_title": "虚之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/37311/points/szcx6nhqj-1739905203237.jpg",
+        "location": "",
+        "point_id": "szcx6nhqj",
+        "point_name": "白川郷",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.574773,
+          35.699421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 37311,
+        "bangumi_title": "虚之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/37311/points/szchvy6mf-1739904274928.jpg",
+        "location": "",
+        "point_id": "szchvy6mf",
+        "point_name": "井の頭公園弁財天",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

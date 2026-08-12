@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.788109,
+          35.551587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mlrk_1752573842493.jpg",
+        "location": "#02「神様、纏いました」",
+        "point_id": "51i53mlrk",
+        "point_name": "羽田空港 第二ターミナル出発フロア 3番時計前",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789074,
+          35.550084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mluq_1752573798646.jpg",
+        "location": "#02「神様、纏いました」",
+        "point_id": "51i53mluq",
+        "point_name": "羽田空港 第二ターミナル Aゲート",
+        "remark": "#02"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784465,
+          35.550629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53ml7w_1752573790713.jpg",
+        "location": "#02「神様、纏いました」",
+        "point_id": "51i53ml7w",
+        "point_name": "羽田空港 第一ターミナル P1駐車場",
+        "remark": "P2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70269,
+          35.670387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53ml8b_1752574441830.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53ml8b",
+        "point_name": "JR原宿駅 駅舎",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702886,
+          35.671611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mlfb_1752574449813.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mlfb",
+        "point_name": "JR原宿駅 竹下口",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703146,
+          35.671561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mmn1_1752573358703.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mmn1",
+        "point_name": "原宿竹下通り ゲート",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703571,
+          35.671524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mm5h_1752573295350.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mm5h",
+        "point_name": "PARISKID'S原宿店",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703491,
+          35.671536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mm1z_1752573328104.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mm1z",
+        "point_name": "マクドナルド原宿竹下通り店",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703832,
+          35.671387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mmag_1752573337598.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mmag",
+        "point_name": "WONDER ROCKET 原宿店前",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70249,
+          35.669825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mmd6_1752573407182.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mmd6",
+        "point_name": "神宮橋",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701835,
+          35.670219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mm82_1752573451431.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mm82",
+        "point_name": "明治神宮 南参道鳥居",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701741,
+          35.673402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mm2l_1752573481501.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mm2l",
+        "point_name": "明治神宮 参道 葡萄酒樽",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70195,
+          35.673409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mmbb_1752573547775.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mmbb",
+        "point_name": "明治神宮 参道 清酒菰樽",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699421,
+          35.675904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mmij_1752573630103.jpg",
+        "location": "#05「特別な普通」",
+        "point_id": "51i53mmij",
+        "point_name": "明治神宮 本殿",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.617321,
+          35.506789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mmhm_1752574259446.jpg",
+        "location": "#11「いってきます」",
+        "point_id": "51i53mmhm",
+        "point_name": "JR新横浜駅 コンコース",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.617723,
+          35.507619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mndi_1752574197740.jpg",
+        "location": "#11「いってきます」",
+        "point_id": "51i53mndi",
+        "point_name": "JR新横浜駅 新幹線１-2番線ホーム",
+        "remark": "#11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.387914,
+          35.773414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mnfe_1752574152029.jpg",
+        "location": "#12「普通がいちばん」",
+        "point_id": "51i53mnfe",
+        "point_name": "成田空港 第２ターミナル 出発フロア",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.383859,
+          35.765458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 187112,
+        "bangumi_title": "装神少女小缠",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/187112/51i53mnau_1752574119760.jpg",
+        "location": "#12「普通がいちばん」",
+        "point_id": "51i53mnau",
+        "point_name": "成田空港 第１ターミナル展望デッキ",
+        "remark": "#12"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

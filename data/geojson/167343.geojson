@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.471031,
+          35.693458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 167343,
+        "bangumi_title": "恋狱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/167343/points/o2svrzwyl-1726069491918.jpg",
+        "location": "",
+        "point_id": "o2svrzwyl",
+        "point_name": "武蔵国分寺",
+        "remark": "35°41'36.6\"N 139°28'15.8\"E"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.471902,
+          35.693609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 167343,
+        "bangumi_title": "恋狱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/167343/tcgn9t16a_1740932041436.jpg",
+        "location": "",
+        "point_id": "tcgn9t16a",
+        "point_name": "國分寺本堂",
+        "remark": "千里教"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771366,
+          35.712197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 167343,
+        "bangumi_title": "恋狱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/167343/tch2ypx80_1740932996813.jpg",
+        "location": "",
+        "point_id": "tch2ypx80",
+        "point_name": "不忍池辩天堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759866,
+          35.030073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 167343,
+        "bangumi_title": "恋狱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/167343/tcgxffumk_1740932659589.jpg",
+        "location": "",
+        "point_id": "tcgxffumk",
+        "point_name": "同志社大学 彰栄館",
+        "remark": "私立华阳学园"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.05869,
+          37.138794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 167343,
+        "bangumi_title": "恋狱",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/167343/points/qyfn973qj-1734190553734.jpg",
+        "location": "",
+        "point_id": "qyfn973qj",
+        "point_name": "旧筒石漁港 舟屋群",
+        "remark": "海之光 由良的归处"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

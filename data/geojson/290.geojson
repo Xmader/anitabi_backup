@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -1.610574,
+          53.22797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290,
+        "bangumi_title": "Fate/stay night",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290/points/gf1jxbv-1782748566826.webp",
+        "location": "",
+        "point_id": "gf1jxbv",
+        "point_name": "Chatsworth House·Garden",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.611503,
+          53.227882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290,
+        "bangumi_title": "Fate/stay night",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/290/points/gf1n569-1782748642941.webp",
+        "location": "",
+        "point_id": "gf1n569",
+        "point_name": "Chatsworth House",
+        "remark": "爱因兹贝伦城堡内景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

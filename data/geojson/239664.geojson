@@ -1,0 +1,765 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.09886,
+          33.889638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1012/bangumi/239664/points/eby8u55bi-1698575891713.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u55bi",
+        "point_name": "熊野市駅",
+        "remark": "Vol.1 p152-157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.105518,
+          33.896349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54u8_1698575361475.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54u8",
+        "point_name": "三重県立木本高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.004547,
+          33.949992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u551v_1698575362810.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u551v",
+        "point_name": "神上中学校前",
+        "remark": "Vol.1 p31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.003112,
+          33.952437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54oe_1698575363839.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54oe",
+        "point_name": "神上リバーサイドトイレ付近",
+        "remark": "Vol.1 p32-42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.101266,
+          33.891296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u552v_1698575365238.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u552v",
+        "point_name": "ローソン 熊野木本町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.055145,
+          33.828125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u55a1_1698575365751.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u55a1",
+        "point_name": "紀伊市木駅前（旧駅舎反転）",
+        "remark": "Vol.1 p97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.062585,
+          33.840097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u551d_1698575366750.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u551d",
+        "point_name": "神志山駅",
+        "remark": "Vol.1 p98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.105361,
+          33.89444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54rn_1698575367682.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54rn",
+        "point_name": "木本高校前",
+        "remark": "Vol.1 p145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.105724,
+          33.894018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54pi_1698575368194.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54pi",
+        "point_name": "木本高校付近",
+        "remark": "Vol.1 p146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.105893,
+          33.893548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u551v_1698575368717.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "lqfm25dmz",
+        "point_name": "岩倉稲荷大明神付近交差点",
+        "remark": "Vol.1 p146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.104694,
+          33.891896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u55a1_1698575369366.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "lqfm25dsj",
+        "point_name": "三十三銀行 熊野支店前",
+        "remark": "Vol.1 p147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.103942,
+          33.891841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u55dg_1698575369906.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u55dg",
+        "point_name": "志ら玉屋前",
+        "remark": "Vol.1 p147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.103738,
+          33.891775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u554t_1698575370629.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u554t",
+        "point_name": "かたおか書店前",
+        "remark": "Vol.1 p148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.10296,
+          33.891544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54x6_1698575371660.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54x6",
+        "point_name": "記念通り",
+        "remark": "Vol.1 p149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.098677,
+          33.887397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u556c_1698575372967.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u556c",
+        "point_name": "亀齢橋",
+        "remark": "Vol.1 p160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.100134,
+          33.890859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54nl_1698575373649.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54nl",
+        "point_name": "２２世紀へのメッセージ（タイムカプセル）",
+        "remark": "Vol.2 p98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.118597,
+          33.902345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u559u_1698575374734.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u559u",
+        "point_name": "大泊駅",
+        "remark": "Vol.2 p101-103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.118984,
+          33.901957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54ta_1698575375376.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54ta",
+        "point_name": "大泊駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.118996,
+          33.900157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u559i_1698575375955.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u559i",
+        "point_name": "大泊海水浴場前",
+        "remark": "Vol.2 p104-105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.118234,
+          33.89933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54xq_1698575376682.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54xq",
+        "point_name": "大泊海水浴場",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.118033,
+          33.899534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u5550_1698575377425.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u5550",
+        "point_name": "大泊海水浴場階段",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.106124,
+          33.891028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u554g_1698575378627.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u554g",
+        "point_name": "木本町交差点付近",
+        "remark": "Vol.2 p121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.10459,
+          33.891792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54y2_1698575379302.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54y2",
+        "point_name": "三十三銀行付近",
+        "remark": "Vol.1 p121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.103291,
+          33.891931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u557x_1698575380080.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u557x",
+        "point_name": "COFFEE 花の樹付近",
+        "remark": "Vol.2 p122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.928766,
+          33.876766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u556o_1698575380650.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u556o",
+        "point_name": "熊野市立入鹿小学校",
+        "remark": "Vol.2 p140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.927532,
+          33.876995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54pj_1698575381398.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54pj",
+        "point_name": "入鹿小学校前",
+        "remark": "Vol.2 p143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.926357,
+          33.87661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54vn_1698575382230.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54vn",
+        "point_name": "入鹿八幡宮付近",
+        "remark": "Vol.2 p144、153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.928001,
+          33.877318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u5574_1698575382763.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u5574",
+        "point_name": "入鹿小学校前",
+        "remark": "Vol.2 p145、156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.926522,
+          33.876529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54vu_1698575383707.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54vu",
+        "point_name": "入鹿八幡宮前",
+        "remark": "Vol.2 p152、161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.11454,
+          33.894078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u55bt_1698575384571.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u55bt",
+        "point_name": "鬼ヶ城入口",
+        "remark": "Vol.2 p166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.116423,
+          33.890624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54oq_1698575385216.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54oq",
+        "point_name": "鬼ヶ城",
+        "remark": "Vol.2 p166-167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.104415,
+          33.891993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54ma_1698575386133.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54ma",
+        "point_name": "記念通り",
+        "remark": "Vol.3 p11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.096592,
+          33.887893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54rv_1698575387116.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54rv",
+        "point_name": "ビジネスホテル河上前",
+        "remark": "Vol.3 p14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.097096,
+          33.887501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54sn_1698575388179.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54sn",
+        "point_name": "ビジネスホテル河上付近",
+        "remark": "Vol.3 p15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.046598,
+          33.832099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54nc_1698575389250.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54nc",
+        "point_name": "御浜小学校",
+        "remark": "Vol.3 p33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.097777,
+          33.884479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u54r6_1698575390109.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u54r6",
+        "point_name": "獅子岩交差点付近",
+        "remark": "Vol.7 p88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099244,
+          33.889651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u5551_1698575390786.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u5551",
+        "point_name": "熊野市駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.104367,
+          33.890661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 239664,
+        "bangumi_title": "恬淡晴天",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/239664/eby8u551g_1698575391428.jpg",
+        "location": "徒然日和 MAP",
+        "point_id": "eby8u551g",
+        "point_name": "本町通り",
+        "remark": "5話Vol.1 p133"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

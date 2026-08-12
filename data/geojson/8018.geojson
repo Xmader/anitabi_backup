@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.406963,
+          36.051282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8018,
+        "bangumi_title": "假面骑士剑",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8018/points/u96ue17yu-1743497759364.jpg",
+        "location": "",
+        "point_id": "u96ue17yu",
+        "point_name": "キッチン・カフェ クランボン",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

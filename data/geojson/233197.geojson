@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          142.174694,
+          27.037883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233197/points/ryk51249q-1737021518955.jpg",
+        "location": "",
+        "point_id": "ryk51249q",
+        "point_name": "扇池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.193808,
+          27.094744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233197/points/ryki24uz1-1737022420859.jpg",
+        "location": "",
+        "point_id": "ryki24uz1",
+        "point_name": "スーパー小祝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.193228,
+          27.094002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233197/points/5xtg0eh-1759939130667.jpg",
+        "location": "",
+        "point_id": "5xtg0eh",
+        "point_name": "大村海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

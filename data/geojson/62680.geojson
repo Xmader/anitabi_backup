@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          151.215295,
+          -33.857252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 62680,
+        "bangumi_title": "机动战士高达 THE ORIGIN",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/62680/points/ifok5g9zh-1710152292983.jpg",
+        "location": "激战 鲁姆会战",
+        "point_id": "ifok5g9zh",
+        "point_name": "Sydney Opera House",
+        "remark": "现实中悉尼的地标性建筑物，在机动战士高达系列中，因遭到殖民卫星残骸撞击被完全摧毁，与悉尼地区一同变为了“悉尼海”。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

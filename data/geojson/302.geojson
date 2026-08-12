@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.421178,
+          35.78008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/302/points/o1icr2jn9-1725968333533.jpg",
+        "location": "",
+        "point_id": "o1icr2jn9",
+        "point_name": "狭山丘陵",
+        "remark": "狭山丘陵横跨东京和埼玉，其风景让人想起龙猫的世界，据说也是《龙猫》的主要场景。\n它被亲切地称为“トトロの森”，并且还提供步行地图。这里已成为前往龙猫圣地朝圣的必去之地。\n〒359-1153 埼玉県所沢市上山口雑魚入351"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.421735,
+          35.796391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/302/points/o1ii7tjgz-1725968551186.jpg",
+        "location": "",
+        "point_id": "o1ii7tjgz",
+        "point_name": "白旗塚",
+        "remark": "据说白旗塚是梅发现龙猫的森林“冢森”的原型。\n〒359-1152 埼玉県所沢市北野2丁目12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489925,
+          35.785595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/302/points/o1ingcxvz-1725968854812.jpg",
+        "location": "",
+        "point_id": "o1ingcxvz",
+        "point_name": "稲荷町停留所",
+        "remark": "稲荷町停留所被认为是《龙猫》中，小梅将父亲的雨伞借给龙猫的“稻荷前”巴士站的原型。作为猫巴士首次登场的场景，这个地方给许多人留下了深刻的印象。\n〒359-0025 埼玉県所沢市上安松597-2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.461973,
+          35.771023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/302/points/o1iri1br5-1725969088165.jpg",
+        "location": "",
+        "point_id": "o1iri1br5",
+        "point_name": "新山手病院",
+        "remark": "这里就是《龙猫》中，小梅和梅对的妈妈住院的七国山病院的取景地。\n由于是医院，前往圣地巡礼时请务必小心，以免打扰他人。\n〒189-0021 東京都東村山市諏訪町3丁目6-1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.407066,
+          35.791213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52ztws",
+        "point_name": "クロスケの家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.570432,
+          35.696238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52zu8c",
+        "point_name": "三鷹の森ジブリ美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.092851,
+          35.169321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 302,
+        "bangumi_title": "龙猫",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52zub6",
+        "point_name": "サツキとメイの家",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

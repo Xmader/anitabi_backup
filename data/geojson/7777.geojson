@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          165.547836,
+          11.626196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7777,
+        "bangumi_title": "海绵宝宝 第一季",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7777/points/p8jqmpzij-1729341010827.jpg",
+        "location": "",
+        "point_id": "p8jqmpzij",
+        "point_name": "Bikini",
+        "remark": "比奇堡，原型为马绍尔群岛，埃尼威托克岛比基尼环礁"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

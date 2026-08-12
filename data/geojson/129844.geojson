@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.717383,
+          35.674414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129844,
+        "bangumi_title": "钻石王牌 第二季",
+        "ep_cut": "97",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/73083/points/ngvhcvmiq-1724351188458.jpg",
+        "location": "",
+        "point_id": "ngvhcvmiq",
+        "point_name": "神宮球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857449,
+          35.662231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 129844,
+        "bangumi_title": "钻石王牌 第二季",
+        "ep_cut": "80",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/129844/points/gz72zlr-1783967105348.webp",
+        "location": "",
+        "point_id": "gz72zlr",
+        "point_name": "江戸川区球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

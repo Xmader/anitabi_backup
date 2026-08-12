@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          129.701383,
+          33.179738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 270739,
+        "bangumi_title": "舰队Collection 总有一天，在那片海",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/270739/points/ds6xh4z-1777013234661.jpg",
+        "location": "",
+        "point_id": "ds6xh4z",
+        "point_name": "弓張岳展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.751571,
+          33.066665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 270739,
+        "bangumi_title": "舰队Collection 总有一天，在那片海",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/270739/points/ds60i4v-1777012459812.jpg",
+        "location": "",
+        "point_id": "ds60i4v",
+        "point_name": "針尾送信所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.71355,
+          33.173862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 270739,
+        "bangumi_title": "舰队Collection 总有一天，在那片海",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/270739/points/ds6nl4x-1777012859750.jpg",
+        "location": "",
+        "point_id": "ds6nl4x",
+        "point_name": "海上自衛隊 佐世保史料館（旧佐世保水交社)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.71475,
+          33.173732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 270739,
+        "bangumi_title": "舰队Collection 总有一天，在那片海",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/270739/points/ds6t0dn-1777013040570.jpg",
+        "location": "",
+        "point_id": "ds6t0dn",
+        "point_name": "旧佐世保鎮守府凱旋記念館（佐世保市民文化ホール）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

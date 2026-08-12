@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          129.882707,
+          32.74909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 403379,
+        "bangumi_title": "复仇者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/403379/points/5i3vxt0-1758989336466.jpg",
+        "location": "",
+        "point_id": "5i3vxt0",
+        "point_name": "中島川石橋群",
+        "remark": "从光永寺对岸往北看到的古町桥，西岸上的是当时光永寺的院墙。动画中桥的样子参照的是明治后期～大正中期的明信片，与现在的样子不同。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.882718,
+          32.749437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 403379,
+        "bangumi_title": "复仇者",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/403379/points/5i4d677-1758990006577.jpg",
+        "location": "",
+        "point_id": "5i4d677",
+        "point_name": "中島川石橋群",
+        "remark": "古町桥底，画面左侧的是一览桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.879934,
+          32.747197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 403379,
+        "bangumi_title": "复仇者",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/403379/points/5kfwecu-1759130407805.jpg",
+        "location": "",
+        "point_id": "5kfwecu",
+        "point_name": "眼鏡橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.885989,
+          32.746153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 403379,
+        "bangumi_title": "复仇者",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/403379/points/5i3lgm4-1758988779482.jpg",
+        "location": "",
+        "point_id": "5i3lgm4",
+        "point_name": "風頭公園　展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.879818,
+          32.752785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 403379,
+        "bangumi_title": "复仇者",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/403379/5jhojp3_1759072923043.jpg",
+        "location": "",
+        "point_id": "5jhojp3",
+        "point_name": "長崎奉行所立山役所 書院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.655232,
+          22.826973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 403379,
+        "bangumi_title": "复仇者",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/403379/points/5gmo6wm-1758899827098.jpg",
+        "location": "",
+        "point_id": "5gmo6wm",
+        "point_name": "銷毀鴉片煙池",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

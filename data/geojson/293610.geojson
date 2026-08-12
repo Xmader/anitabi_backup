@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.303673,
+          26.228993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293610,
+        "bangumi_title": "海边的异邦人",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/293610/points/ov02dda85-1728279350373.jpg",
+        "location": "",
+        "point_id": "ov02dda85",
+        "point_name": "民宿あかばなー",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.456207,
+          35.807105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100449,
+        "bangumi_title": "月刊少女野崎君",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/100449/points/3haod0k-1754586600020.jpg",
+        "location": "",
+        "point_id": "3haod0k",
+        "point_name": "新所沢駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.456201,
+          35.8071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100449,
+        "bangumi_title": "月刊少女野崎君",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/100449/points/3haplae-1754586680673.jpg",
+        "location": "",
+        "point_id": "3haplae",
+        "point_name": "新所沢駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.38485,
+          35.746465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100449,
+        "bangumi_title": "月刊少女野崎君",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/100449/3hb18l1_1754587191125.jpg",
+        "location": "",
+        "point_id": "3hb18l1",
+        "point_name": "イオン​モール​むさし​村山",
+        "remark": "电影院在3F（谷歌说的）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.38485,
+          35.746461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100449,
+        "bangumi_title": "月刊少女野崎君",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/100449/3hb2btd_1754587211445.jpg",
+        "location": "",
+        "point_id": "3hb2btd",
+        "point_name": "イオン​モール​むさし​村山",
+        "remark": "电影院在3F（谷歌说的）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.384856,
+          35.746501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100449,
+        "bangumi_title": "月刊少女野崎君",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/100449/3hb9xrs_1754587580249.jpg",
+        "location": "",
+        "point_id": "3hb9xrs",
+        "point_name": "イオン​モール​むさし​村山",
+        "remark": "电影院在3F（谷歌说的）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.385037,
+          35.746534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100449,
+        "bangumi_title": "月刊少女野崎君",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/100449/3hbap73_1754587601390.jpg",
+        "location": "",
+        "point_id": "3hbap73",
+        "point_name": "イオン​モール​むさし​村山",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

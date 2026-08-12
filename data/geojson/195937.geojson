@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.84848,
+          34.298382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 195937,
+        "bangumi_title": "结城友奈是勇者 -鹫尾须美之章-/-勇者之章-",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/195937/points/aq5l8yi-1770359812282.jpg",
+        "location": "",
+        "point_id": "aq5l8yi",
+        "point_name": "国道438号",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

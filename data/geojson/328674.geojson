@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.218614,
+          34.698604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/328674/lllwwvnoy_1719079903840.jpg",
+        "location": "",
+        "point_id": "lllwwvnoy",
+        "point_name": "兵庫縣立美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.218473,
+          34.698918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/328674/lllg2o8jj_1719079867773.jpg",
+        "location": "",
+        "point_id": "lllg2o8jj",
+        "point_name": "兵庫縣立美術館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.780951,
+          35.025334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "Z会联动广告",
+        "image_url": "https://w.junreimap.com/images/points/328674/lllk0u7n5_1719080465680.jpg",
+        "location": "",
+        "point_id": "lllk0u7n5",
+        "point_name": "京都大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.780958,
+          35.025222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "Z会联动广告",
+        "image_url": "https://w.junreimap.com/images/points/328674/lllr8tmf4_1719080466432.jpg",
+        "location": "",
+        "point_id": "lllr8tmf4",
+        "point_name": "京都大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.596769,
+          34.576911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "Z会联动广告",
+        "image_url": "https://w.junreimap.com/images/points/328674/lllqcsxbv_1719080467167.jpg",
+        "location": "",
+        "point_id": "lllqcsxbv",
+        "point_name": "京都​大学​大学院​理学​研究​科​岡山​天文台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.596871,
+          34.576803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "Z会联动广告",
+        "image_url": "https://w.junreimap.com/images/points/328674/lllo6od4v_1719080467790.jpg",
+        "location": "",
+        "point_id": "lllo6od4v",
+        "point_name": "京都​大学​大学院​理学​研究​科​岡山​天文台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.85064,
+          34.780931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 328674,
+        "bangumi_title": "夏日幽灵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/328674/points/oh714daj1-1727197402850.jpg",
+        "location": "",
+        "point_id": "oh714daj1",
+        "point_name": "加古川市道新加古川左岸線",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

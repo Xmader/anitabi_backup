@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.565915,
+          35.711737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7843,
+        "bangumi_title": "魔法禁书目录 第二季",
+        "ep_cut": "EP2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7843/points/nqfqe3hhu-1725100547484.jpg",
+        "location": "",
+        "point_id": "nqfqe3hhu",
+        "point_name": "武蔵野市民文化会館",
+        "remark": "薄明座"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.112847,
+          36.082192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7843,
+        "bangumi_title": "魔法禁书目录 第二季",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/7843/5drrlh7_1758816460678.jpg",
+        "location": "筑波市",
+        "point_id": "5drrlh7",
+        "point_name": "つくばセンター（つくば駅）ペデストリアンデッキ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.1121,
+          36.082462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7843,
+        "bangumi_title": "魔法禁书目录 第二季",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/7843/5ds0waw_1758816476151.jpg",
+        "location": "筑波市",
+        "point_id": "5ds0waw",
+        "point_name": "つくばセンター（つくば駅）１番バスのりば",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.102226,
+          36.092536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7843,
+        "bangumi_title": "魔法禁书目录 第二季",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/7843/5a4lwy0_1758816502520.jpg",
+        "location": "筑波市",
+        "point_id": "5a4lwy0",
+        "point_name": "筑波大学附属病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.1013,
+          36.09182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7843,
+        "bangumi_title": "魔法禁书目录 第二季",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/7843/5a51url_1758816526288.jpg",
+        "location": "筑波市",
+        "point_id": "5a51url",
+        "point_name": "筑波大学病院 バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.280135,
+          45.213094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7843,
+        "bangumi_title": "魔法禁书目录 第二季",
+        "ep_cut": "EP14",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7843/points/no1zagiw3-1724913899774.jpg",
+        "location": "",
+        "point_id": "no1zagiw3",
+        "point_name": "Chioggia",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

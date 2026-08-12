@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.705429,
+          35.668888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236196,
+        "bangumi_title": "Anima Yell!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/236196/51i51pnmw_1729401389667.jpg",
+        "location": "原宿-明治神宮前",
+        "point_id": "51i51pnmw",
+        "point_name": "ラフォーレ原宿",
+        "remark": "#07「トップは高所恐怖症」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703124,
+          35.669727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236196,
+        "bangumi_title": "Anima Yell!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/236196/51i51po2u_1729401572852.jpg",
+        "location": "原宿-明治神宮前",
+        "point_id": "51i51po2u",
+        "point_name": "東京メトロ 明治神宮前駅3番出口",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703041,
+          35.67111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236196,
+        "bangumi_title": "Anima Yell!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/236196/51i51po4p_1729401986050.jpg",
+        "location": "原宿-明治神宮前",
+        "point_id": "51i51po4p",
+        "point_name": "スケッチャーズ原宿店",
+        "remark": "#07 实际是蓝底白字招牌"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705366,
+          35.668479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236196,
+        "bangumi_title": "Anima Yell!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/236196/51i51powi_1729402670627.jpg",
+        "location": "原宿-明治神宮前",
+        "point_id": "51i51powi",
+        "point_name": "神宮前交差点",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712301,
+          35.665184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236196,
+        "bangumi_title": "Anima Yell!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/236196/51i51pnrj_1729402825406.jpg",
+        "location": "原宿-明治神宮前",
+        "point_id": "51i51pnrj",
+        "point_name": "東京メトロ 表参道駅B4出口",
+        "remark": "#07"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.661439,
+          35.624993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236196,
+        "bangumi_title": "Anima Yell!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/236196/51i51ppbz_1729403021603.jpg",
+        "location": "駒沢オリンピック公園",
+        "point_id": "51i51ppbz",
+        "point_name": "駒沢オリンピック公園運動場体育館",
+        "remark": "#12「One for All, All for One」"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

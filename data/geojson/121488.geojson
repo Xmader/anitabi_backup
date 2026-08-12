@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.993781,
+          34.905615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/121488/ay66b1j_1770845197834.jpg",
+        "location": "",
+        "point_id": "ay66b1j",
+        "point_name": "太田川ダム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.780464,
+          33.972476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/121488/ay6b7nm_1770845154733.jpg",
+        "location": "",
+        "point_id": "ay6b7nm",
+        "point_name": "祖谷口駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.780317,
+          33.972383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/121488/ay6e6ho_1770845163960.jpg",
+        "location": "",
+        "point_id": "ay6e6ho",
+        "point_name": "祖谷口駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.001442,
+          34.649418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/121488/ay6fhts_1770845213533.jpg",
+        "location": "",
+        "point_id": "ay6fhts",
+        "point_name": "明石市立天文科学馆",
+        "remark": "装修中，预计时间2025年10月1日 - 2026年夏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.458277,
+          35.563671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/121488/ay6shw6_1770846644874.jpg",
+        "location": "",
+        "point_id": "ay6shw6",
+        "point_name": "富士川町​民俗​資料館",
+        "remark": "仅建筑部分相似"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.470243,
+          35.940966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/121488/ay7vypd_1770847293464.jpg",
+        "location": "",
+        "point_id": "ay7vypd",
+        "point_name": "国立​天文台\n野辺山​電波​天文台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.780694,
+          33.97245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/121488/points/g73focn-1782269583388.webp",
+        "location": "",
+        "point_id": "g73focn",
+        "point_name": "ショッピングストア-サキカワ",
+        "remark": "祖谷口（见晴台）站前的小商店。游戏中的早乙女商店在另一站（三香月）前，两者可能并无关联。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.435783,
+          34.98482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 121488,
+        "bangumi_title": "抬头看看吧，看那天上的繁星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/121488/points/g74asq0-1782269403068.webp",
+        "location": "",
+        "point_id": "g74asq0",
+        "point_name": "JR三日月駅",
+        "remark": "可能是游戏中三香月站（读音都是mikazuki）。相似度不高。站前没有类似的商店。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

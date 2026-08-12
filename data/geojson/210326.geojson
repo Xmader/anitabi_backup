@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.756604,
+          34.930017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 210326,
+        "bangumi_title": "我想吃掉你的胰脏 真人电影版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/210326/namwbfhyw_1724029904943.jpg",
+        "location": "",
+        "point_id": "namwbfhyw",
+        "point_name": "伏见见爱桥",
+        "remark": "电影版\n12:59\n83:18\n83:39\n96:01"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -79.432151,
+          43.67679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 426983,
+        "bangumi_title": "歪小子斯科特",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/426983/points/nn7mpjqyy-1724847960847.jpg",
+        "location": "",
+        "point_id": "nn7mpjqyy",
+        "point_name": "65 Alberta Ave",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

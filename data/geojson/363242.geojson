@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.642981,
+          35.452369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363242,
+        "bangumi_title": "古见同学有交流障碍症 第二季",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/363242/points/o4cacmhn6-1726190160445.jpg",
+        "location": "",
+        "point_id": "o4cacmhn6",
+        "point_name": "横浜​赤​レンガ​倉庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.617176,
+          35.507779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363242,
+        "bangumi_title": "古见同学有交流障碍症 第二季",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/363242/points/o4cf1ggbw-1726190431900.jpg",
+        "location": "",
+        "point_id": "o4cf1ggbw",
+        "point_name": "新横浜駅",
+        "remark": "哈哈，这个我会"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

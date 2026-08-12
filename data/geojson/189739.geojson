@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.776256,
+          35.625521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 189739,
+        "bangumi_title": "9-nine-九次九日九重色",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/189739/points/ujkbjb69h-1744309749206.jpg",
+        "location": "",
+        "point_id": "ujkbjb69h",
+        "point_name": "Round 1 Stadium ラウンドワンスタジアム ダイバーシティ東京 プラザ店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.671098,
+          35.016768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295320,
+        "bangumi_title": "美少女万华镜 -理与迷宫的少女-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/295320/points/uguds9hv5-1744096530062.jpg",
+        "location": "",
+        "point_id": "uguds9hv5",
+        "point_name": "岚山竹林小径",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.577724,
+          35.700062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295320,
+        "bangumi_title": "美少女万华镜 -理与迷宫的少女-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/295320/uguledmop_1744097232085.jpg",
+        "location": "",
+        "point_id": "uguledmop",
+        "point_name": "井之头自然文化园分园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579776,
+          35.703631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295320,
+        "bangumi_title": "美少女万华镜 -理与迷宫的少女-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/295320/ugv66ud8x_1744098225353.jpg",
+        "location": "",
+        "point_id": "ugv66ud8x",
+        "point_name": "吉祥寺站北",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.673686,
+          35.463967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 482706,
+        "bangumi_title": "18TRIP",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/482706/points/mz27zogwl-1722955277035.jpg",
+        "location": "〈0区／大黒ふ頭だいこく　とう〉大黒可不可",
+        "point_id": "mz27zogwl",
+        "point_name": "横浜ベイブリッジスカイウォーク　スカイプロムナード",
+        "remark": "是位于横滨海湾大桥下层的约320米的步行道。\n可以一览横滨的建筑群，晴朗的话还能看到富士山。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675327,
+          35.500872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 482706,
+        "bangumi_title": "18TRIP",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/482706/points/mz1zz0ywl-1722954804866.jpg",
+        "location": "〈1区／鶴見区〉叢雲添",
+        "point_id": "mz1zz0ywl",
+        "point_name": "国道",
+        "remark": "〇国道駅こくどうえき 〒230-0051 神奈川県横浜市鶴見区鶴見中央５丁目２６，恆常卡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.611566,
+          35.455965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 482706,
+        "bangumi_title": "18TRIP",
+        "ep_cut": "朝班主线B01",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/482706/points/na73catnr-1723827974592.jpg",
+        "location": "",
+        "point_id": "na73catnr",
+        "point_name": "横浜​イングリッシュ​ガーデン",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

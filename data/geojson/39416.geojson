@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.239781,
+          52.514628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 39416,
+        "bangumi_title": "三个阿道夫",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/39416/pkigw3ppr_1730278491866.jpg",
+        "location": "",
+        "point_id": "pkigw3ppr",
+        "point_name": "Olympiastadion Berlin",
+        "remark": "第一章 P8-9"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

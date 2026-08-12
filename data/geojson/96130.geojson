@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.482527,
+          41.90591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96130,
+        "bangumi_title": "少女与战车 这次是真正的安齐奥战！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/40310/points/i3k17cmph-1723565893631.jpg",
+        "location": "安齐奥",
+        "point_id": "i3k17cmph",
+        "point_name": "Scalinata della Trinità dei Monti",
+        "remark": "安齐奥战OVA，向上通往三一教堂"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.483387,
+          41.906165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96130,
+        "bangumi_title": "少女与战车 这次是真正的安齐奥战！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/40310/points/i3kbj50l3-1723565848352.jpg",
+        "location": "安齐奥",
+        "point_id": "i3kbj50l3",
+        "point_name": "Trinita dei Monti",
+        "remark": "安齐奥战OVA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.491536,
+          41.88971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96130,
+        "bangumi_title": "少女与战车 这次是真正的安齐奥战！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/40310/points/i3kivo4od-1723565925685.jpg",
+        "location": "安齐奥",
+        "point_id": "i3kivo4od",
+        "point_name": "Colosseo",
+        "remark": "安齐奥战OVA"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          21.447083,
+          41.990668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 605701,
+        "bangumi_title": "斯科普里83：湮灭前夕",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/605701/points/75w94l6-1762604534121.jpg",
+        "location": "",
+        "point_id": "75w94l6",
+        "point_name": "Железничка станица Скопје",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

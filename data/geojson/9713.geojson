@@ -1,0 +1,865 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.616854,
+          35.18199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "d1670c40",
+        "point_name": "カフェ・アルファ",
+        "remark": "作品全般"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706955,
+          35.263422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ed64d109",
+        "point_name": "馬堀海岸",
+        "remark": "第２８話「縁」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.62872,
+          35.163775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "9b89b094",
+        "point_name": "小網代の入り江",
+        "remark": "第２話「入り江のミサゴ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643526,
+          35.196519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "16f91cb5",
+        "point_name": "日枝神社",
+        "remark": "第９０話「冬の中」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.628549,
+          35.129667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "fcd22677",
+        "point_name": "城ヶ島",
+        "remark": "第６話「プレ寝正月」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.662709,
+          35.225201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "9cc32669",
+        "point_name": "ＮＴＴ通研",
+        "remark": "第１２話「ナビ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.673213,
+          35.276101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "58d4b8c1",
+        "point_name": "北の町の高台",
+        "remark": "第２２話「ヨコスカ巡航」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631392,
+          35.454701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "48dc504b",
+        "point_name": "ランドマークタワー",
+        "remark": "初話「ヨコハマ買い出し紀行」、他"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.62519,
+          35.450952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "abfdb230",
+        "point_name": "紅葉坂",
+        "remark": "初話「ヨコハマ買い出し紀行」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.555861,
+          35.325166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ace887c2",
+        "point_name": "鎌倉の神社",
+        "remark": "第６６話「柿」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.481564,
+          35.298875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ad66600c",
+        "point_name": "江ノ島",
+        "remark": "第１２話「ナビ」、他"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414659,
+          35.354896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "2a5e81ec",
+        "point_name": "湘南湖",
+        "remark": "第６６話「柿」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.541388,
+          35.309382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ed4613ba",
+        "point_name": "鎌倉花火",
+        "remark": "第１３話「鎌倉花火」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.613121,
+          35.671818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "8ee22488",
+        "point_name": "かんぱち辻の茶",
+        "remark": "第１８話「古都ムサシノ」、他"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701719,
+          35.212807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "b27873e5",
+        "point_name": "子海石医院",
+        "remark": "第４話「雨とその後」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594978,
+          35.243507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "83feb9af",
+        "point_name": "ドパーン・コーナー",
+        "remark": "第１５話「砂の道」秋谷のカーブとも"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579754,
+          35.253802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "986050b0",
+        "point_name": "北の大崩れ",
+        "remark": "第１２話「ナビ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.673191,
+          35.276097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "1c9a527b",
+        "point_name": "北の町の高台",
+        "remark": "第２２話「ヨコスカ巡航」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.617863,
+          35.141318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "6d9cace8",
+        "point_name": "南の町",
+        "remark": "第４５話「みんなの船」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625625,
+          35.449602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "41083bf7",
+        "point_name": "トテテ坂",
+        "remark": "第３３話「横浜買い出し」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622841,
+          35.444991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5774fda9",
+        "point_name": "野毛丘",
+        "remark": "初話「ヨコハマ買い出し紀行」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66876,
+          35.585293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "46813b4f",
+        "point_name": "丸子橋",
+        "remark": "「丸子」の名前の由来？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.9932,
+          35.68205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "393586f5",
+        "point_name": "船橋のスキー場",
+        "remark": "第２８話「縁」 ※作中に出てきた「スキードームザウス」は平成１４年９月３０日をもって閉館、その後取り壊されました。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626832,
+          35.190084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "d7526395",
+        "point_name": "初声町",
+        "remark": "「初瀬野アルファ」の「初瀬野」はこの付近の地名「初声」から来た物と思われる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.601963,
+          35.237785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "23e3769c",
+        "point_name": "子産石",
+        "remark": "「子海石アルファ」「子海石先生」の「子海石」はこの辺りにある市民文化財「子産石」から来ていると思われる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.910789,
+          35.40808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ad8e2854",
+        "point_name": "ハニーとうもろこし三国峠店",
+        "remark": "第７３話「チョコレートケーキ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645278,
+          35.15153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "8a46486f",
+        "point_name": "ここらで一番高い丘",
+        "remark": "ココネと遊びに来てアルファさんが寝てしまう場所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.672444,
+          35.157986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "00879a83",
+        "point_name": "海岸道路",
+        "remark": "第72話「ササゲ」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647467,
+          35.213403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "d2fcf93e",
+        "point_name": "須軽谷のESSO跡",
+        "remark": "各話：おじさんのスタンドのモデルの1つ(消滅済み"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.710975,
+          35.211545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "6f7ea2a2",
+        "point_name": "オレンジフット",
+        "remark": "第15話「砂の道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670978,
+          35.218557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "7a259c44",
+        "point_name": "「ナビ」の撮影ポイント",
+        "remark": "第12話「ナビ」アルファさんが通研を撮影しようとしていたポイント"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.67999,
+          35.238609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "1f3192fc",
+        "point_name": "ココネのお迎え待ち合わせ場所",
+        "remark": "第9話「一粒300枚」未確定(みずにー氏が横横道路延長前に一度確認)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665399,
+          35.256343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "092be68b",
+        "point_name": "衣笠",
+        "remark": "各話：きぬがさ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668746,
+          35.260338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "a068b3bc",
+        "point_name": "ヨコスカ巡航のカーブ",
+        "remark": "第101話「ヨコスカ巡航」旧版コミック3巻106Ｐ右下のコマ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620688,
+          35.172931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "9330268a",
+        "point_name": "初声の集落",
+        "remark": "タカヒロやマッキの集落のモデルと思われるエリアここの旧JOMOのスタンドもおじさんのスタンドと良く似ている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622147,
+          35.182262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "bb65c6ce",
+        "point_name": "黒崎台地の電柱列",
+        "remark": "よくアルファさんがスクーターで出撃する際に見られる畑の風景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630133,
+          35.163564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "f54c4536",
+        "point_name": "マッキ橋",
+        "remark": "マッキがミサゴと出会う橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641795,
+          35.166862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "39039c28",
+        "point_name": "第三叉路",
+        "remark": "ときどきせりふに出てくる第三叉路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700847,
+          35.210283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "1744fbfa",
+        "point_name": "子海石病院からの帰り道",
+        "remark": "アルファさんの髪がびよーーーんってなる話のアレ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.589009,
+          35.329691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "e8c2a8da",
+        "point_name": "朝比奈峠",
+        "remark": "各話で出てくる朝比奈峠。ただし、コミックの風景と現在の朝比奈峠はロケーションが違う。鎌倉霊園の手前、鎌倉側の住宅街は、コミックの風景と同じ。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.611316,
+          35.450497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4a879255",
+        "point_name": "ランドマークが見える商店街",
+        "remark": "初話「ヨコハマ買い出し」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.455099,
+          35.318487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5d73885e",
+        "point_name": "海岸道路",
+        "remark": "第15話「砂の道」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.628162,
+          35.249544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9713,
+        "bangumi_title": "横滨购物纪行",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "2d31e4d6",
+        "point_name": "大楠山展望台",
+        "remark": "第63話「私の場所」大楠山自体は各話で背景に出ている。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

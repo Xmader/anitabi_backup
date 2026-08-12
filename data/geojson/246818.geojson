@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          166.648612,
+          19.288885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 246818,
+        "bangumi_title": "战地5",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/246818/points/13455d8-1749375500780.jpg",
+        "location": "",
+        "point_id": "13455d8",
+        "point_name": "Wake Island",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.32728,
+          24.773921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 246818,
+        "bangumi_title": "战地5",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/246818/points/134qney-1749376501429.jpg",
+        "location": "",
+        "point_id": "134qney",
+        "point_name": "硫黄島",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.491707,
+          51.91881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 246818,
+        "bangumi_title": "战地5",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2186/bangumi/246818/points/1d30hlc-1749978672723.jpg",
+        "location": "",
+        "point_id": "1d30hlc",
+        "point_name": "Witte Huis",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

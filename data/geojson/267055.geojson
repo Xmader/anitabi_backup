@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.708743,
+          35.696589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 267055,
+        "bangumi_title": "最终幻想14 暗影之逆焰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/267055/points/2q3cflf-1752941823859.jpg",
+        "location": "",
+        "point_id": "2q3cflf",
+        "point_name": "(株)スクウェア･エニックス",
+        "remark": "图片中巨大横向的方形物体为SE本社大楼"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.51505,
+          35.71661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 108004,
+        "bangumi_title": "临时女友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i525uoc",
+        "point_name": "江戸東京たてもの園（子宝湯）",
+        "remark": "４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.568896,
+          35.620395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 108004,
+        "bangumi_title": "临时女友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i525ufx",
+        "point_name": "小田急登戸駅（４番線）",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.522097,
+          35.612868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 108004,
+        "bangumi_title": "临时女友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i525utj",
+        "point_name": "百合ヶ丘駅付近の小田急線沿線",
+        "remark": "３話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701815,
+          35.668867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 108004,
+        "bangumi_title": "临时女友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i525uvv",
+        "point_name": "代々木体育館",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796358,
+          35.710988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 108004,
+        "bangumi_title": "临时女友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i525vbg",
+        "point_name": "浅草寺（雷門）",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793161,
+          35.630913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 108004,
+        "bangumi_title": "临时女友",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i525v2v",
+        "point_name": "ビッグサイト",
+        "remark": "12話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

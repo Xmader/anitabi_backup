@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700779,
+          35.692677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 513793,
+        "bangumi_title": "姐妹星再闪耀～siSTAR resiSTAR～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/513793/oxm9dg36n_1728484432012.jpg",
+        "location": "",
+        "point_id": "oxm9dg36n",
+        "point_name": "クロス新宿スペース",
+        "remark": "登场地点：第二话\n明良生活窘困时向曾经的家人求助的地方\n画面中显示着大幅偶像广告的巨幕实际为新宿东口的大型肉眼3D显示屏，被称为「新宿東口の猫」，大多时候会投映巨型3d猫猫"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701692,
+          35.691383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 513793,
+        "bangumi_title": "姐妹星再闪耀～siSTAR resiSTAR～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/513793/oxmma9w2q_1728485203329.jpg",
+        "location": "",
+        "point_id": "oxmma9w2q",
+        "point_name": "",
+        "remark": "登场地点：第二话\n疑似从新宿乘坐小田原线回到老家"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.140287,
+          35.155169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 513793,
+        "bangumi_title": "姐妹星再闪耀～siSTAR resiSTAR～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/513793/p2i8ohf6d_1728867425831.jpg",
+        "location": "",
+        "point_id": "p2i8ohf6d",
+        "point_name": "",
+        "remark": "比对港口形状后可以初步确认是真鹤"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.139787,
+          35.154993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 513793,
+        "bangumi_title": "姐妹星再闪耀～siSTAR resiSTAR～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/513793/p2j120mlt_1728869177492.jpg",
+        "location": "",
+        "point_id": "p2j120mlt",
+        "point_name": "小学校下［まなづる小］（バス）",
+        "remark": "登场地点：第二话\n女主回家乘坐公交时的到达站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.139575,
+          35.155381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 513793,
+        "bangumi_title": "姐妹星再闪耀～siSTAR resiSTAR～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/513793/p2j28j4zu_1728869356726.jpg",
+        "location": "",
+        "point_id": "p2j28j4zu",
+        "point_name": "",
+        "remark": "暂定。逻辑来说一本道到港口的路线只有这一条，而阶梯段只有公交站上方和下方两段。但漫画中并不存在道中的栏杆"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

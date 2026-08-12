@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.135147,
+          22.285755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 312783,
+        "bangumi_title": "月球坠落时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/312783/points/ioyr0itao-1710879751665.jpg",
+        "location": "",
+        "point_id": "ioyr0itao",
+        "point_name": "香港大学山道天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

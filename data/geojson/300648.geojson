@@ -1,0 +1,625 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.486078,
+          31.22989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/qdgsdfgld-1732547383899.jpg",
+        "location": "中国",
+        "point_id": "qdgsdfgld",
+        "point_name": "丽水路与福佑路交口",
+        "remark": "仅背景楼栋。现实中不存在ATM。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.695555,
+          35.693576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfkj09uds_1732724403786.jpg",
+        "location": "新宿",
+        "point_id": "qfkj09uds",
+        "point_name": "損保ジャパン本社ビル",
+        "remark": "仅背景远方大楼。大楼附近景色与游戏背景CG不一致。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697231,
+          35.693227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfkvybfeq_1732724407934.jpg",
+        "location": "新宿",
+        "point_id": "qfkvybfeq",
+        "point_name": "損保ジャパン本社ビル",
+        "remark": "仅背景远方大楼。大楼附近景色原型在秋叶原万世桥十字路口。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771163,
+          35.697626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfkvybfeq_1732724407934.jpg",
+        "location": "秋叶原",
+        "point_id": "qfl423z4y",
+        "point_name": "万世橋交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700341,
+          35.659424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/300648/qfh1qgh6e_1732704705451.jpg",
+        "location": "涩谷",
+        "point_id": "qfh1qgh6e",
+        "point_name": "MAGNET by SHIBUYA109",
+        "remark": "游戏背景中场景与现实原型镜像相反，建筑物楼层加高。红色部分是现实中的广告屏「グリコビジョン」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699096,
+          35.659786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "2nd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfixh6c6n_1732708799979.jpg",
+        "location": "涩谷",
+        "point_id": "qfixh6c6n",
+        "point_name": "サンルイビル",
+        "remark": "PV中场景与现实原型镜像相反。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700431,
+          35.659679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "2nd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfher95qp_1732705464554.jpg",
+        "location": "涩谷",
+        "point_id": "qfher95qp",
+        "point_name": "QFRONT ビジョン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700498,
+          35.659553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "2nd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfhfgdure_1732705498471.jpg",
+        "location": "涩谷",
+        "point_id": "qfhfgdure",
+        "point_name": "QFRONT ビジョン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703558,
+          35.657636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "3rd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfkea6hdt_1732711960429.jpg",
+        "location": "涩谷",
+        "point_id": "qfkea6hdt",
+        "point_name": "明治通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700631,
+          35.659729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "3rd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfjbzgdai_1732709657001.jpg",
+        "location": "涩谷",
+        "point_id": "qfjbzgdai",
+        "point_name": "MAGNET by SHIBUYA109",
+        "remark": "左侧施工围栏内为广告屏「グリコビジョン」。车站入口为涩谷站A7a口。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.226028,
+          35.493868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "3rd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfqkukhgl_1732725433243.jpg",
+        "location": "鸟取",
+        "point_id": "qfqkukhgl",
+        "point_name": "鳥取駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700293,
+          35.659724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "3rd PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfhqsp0uj_1732707705620.jpg",
+        "location": "涩谷",
+        "point_id": "qfhqsp0uj",
+        "point_name": "QFRONT ビジョン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700448,
+          35.659494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "4th PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfh7gstsh_1732705017808.jpg",
+        "location": "涩谷",
+        "point_id": "qfh88yt94",
+        "point_name": "渋谷",
+        "remark": "画面左侧的BA招牌现实中为UC招牌，中间的QADVD和kanon现实中为Hisamitsu和サロンパス。右侧为QFRONT的屏幕。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765543,
+          35.699848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "5th PV",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfli2aj2y_1732714427683.jpg",
+        "location": "秋叶原",
+        "point_id": "qfli2aj2y",
+        "point_name": "聖橋から秋葉原方向",
+        "remark": "远处的桥为松住町架道橋。PV中场景与现实原型镜像相反"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700966,
+          35.691956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "1.5周年纪念动画",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfl5n7hcs_1732713752750.jpg",
+        "location": "新宿",
+        "point_id": "qfl5n7hcs",
+        "point_name": "ルミネエスト新宿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772509,
+          35.699561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "便利屋68动画PV",
+        "image_url": "https://w.junreimap.com/images/points/416777/lrl93ovug_1719550021961.jpg",
+        "location": "秋叶原",
+        "point_id": "lrl93ovug",
+        "point_name": "秋葉原UDX前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771331,
+          35.698147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qflavqn4m_1732724351237.jpg",
+        "location": "秋叶原",
+        "point_id": "qflavqn4m",
+        "point_name": "中央通り",
+        "remark": "秋叶原悠星官店联动图。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796371,
+          35.711348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qflob3r9i_1732714859687.jpg",
+        "location": "浅草",
+        "point_id": "qflob3r9i",
+        "point_name": "仲見世通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.0381,
+          35.650345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfluv0qot_1732715141251.jpg",
+        "location": "幕张",
+        "point_id": "qfluv0qot",
+        "point_name": "幕張メッセ国際展示場 ホール9-11",
+        "remark": "日服3周年纪念活动KV。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.035376,
+          35.647221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfq2f3mh6_1732724327011.jpg",
+        "location": "幕张",
+        "point_id": "qfq2f3mh6",
+        "point_name": "幕張メッセ国際展示場 ホール7-8",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.291387,
+          35.667034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/300648/qfq8l3qyt_1732724785940.jpg",
+        "location": "京都",
+        "point_id": "qfq8l3qyt",
+        "point_name": "慈眼寺前階段",
+        "remark": "位于京都府与謝郡伊根町亀島887通往慈眼寺的台阶上。2023年6月活动「夏の特殊作戦！RABBIT小隊と消えたエビの謎」主视觉图取景处。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.708237,
+          33.873553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "序章剧情cg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/s9om9hwf6-1737893221118.jpg",
+        "location": "",
+        "point_id": "s9om9hwf6",
+        "point_name": "伊予铁道高滨线 梅津寺-港山段",
+        "remark": "疑似游戏序章会长乘坐电车时的场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.643977,
+          49.759667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/300648/points/9et1wwu-1767496763894.jpg",
+        "location": "",
+        "point_id": "9et1wwu",
+        "point_name": "Porta Nigra",
+        "remark": "阿里乌斯分校原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.490959,
+          78.235731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "主线Ex篇第二章炎之剑23话开头",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/f57v4hs-1779978334081.jpg",
+        "location": "",
+        "point_id": "f57v4hs",
+        "point_name": "Svalbard globale frøhvelv",
+        "remark": "图片中和现实的差别是没有铁路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.589603,
+          33.655435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/f05oj2q-1779671682774.jpg",
+        "location": "",
+        "point_id": "f05oj2q",
+        "point_name": "下灘駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.141205,
+          51.501548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/g1r5ypn-1781945017306.jpg",
+        "location": "三一综合学园",
+        "point_id": "g1r5ypn",
+        "point_name": "Buckingham Palace",
+        "remark": "三一校园大门"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.140876,
+          51.501733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/g1rg4os-1781945497165.jpg",
+        "location": "三一综合学园",
+        "point_id": "g1rg4os",
+        "point_name": "Buckingham Palace",
+        "remark": "应该是以三一校园主楼为基础，在其之上进行的魔改。在西敏范围内，这应该是最接近游戏内建筑形状的地方了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.12205,
+          51.50078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/g1s1xn2-1781946648335.jpg",
+        "location": "三一综合学园",
+        "point_id": "g1s1xn2",
+        "point_name": "Westminster Bridge",
+        "remark": "该地点的视角仅包括大本钟和维多利亚塔，不包括三一学园主建筑（原型白金汉宫）。【最符合游戏内画面的视角应该是从伦敦眼上看，但主播没买票上摩天轮（）。】"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.120207,
+          51.499055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/g1skfij-1781947389198.jpg",
+        "location": "三一综合学园",
+        "point_id": "g1skfij",
+        "point_name": "Albert Embankment",
+        "remark": "从这里可以看到维多利亚塔和大本钟，游戏内画面对此进行了水平翻转处理。\n更多可供巡礼的背景图片和CG可见基沃托斯古书馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.798499,
+          51.064963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/g1sxkh1-1781947983762.jpg",
+        "location": "三一综合学园",
+        "point_id": "g1sxkh1",
+        "point_name": "Salisbury Cathedral",
+        "remark": "三一大教堂。\n信息来源@SideburnG https://www.reddit.com/r/BlueArchive/comments/1pgl48k/blue_archive_locations_in_uk_if_anyone_could/\nCG来源于基沃托斯图书馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.444729,
+          35.64374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 300648,
+        "bangumi_title": "蔚蓝档案",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/300648/points/cyitg80-1775219398169.jpg",
+        "location": "",
+        "point_id": "cyitg80",
+        "point_name": "アビドスのある階段",
+        "remark": "「陽ひらく彼女たちの小夜曲」で、ヒナが歌う「夢路の花」のMVに使われた背景。その後、対策委員会編第3章でも登場しました。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

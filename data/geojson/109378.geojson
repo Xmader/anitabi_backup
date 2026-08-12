@@ -1,0 +1,2925 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.004892,
+          40.360486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3k04bf8r-1743055172182.jpg",
+        "location": "中国",
+        "point_id": "u3k04bf8r",
+        "point_name": "长城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.005062,
+          40.360329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3gowaxma-1743047963476.jpg",
+        "location": "中国",
+        "point_id": "u3gowaxma",
+        "point_name": "八达岭长城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.390523,
+          39.915429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3l9e0py6-1743057913082.jpg",
+        "location": "中国",
+        "point_id": "u3l9e0py6",
+        "point_name": "故宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.448196,
+          24.993171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3ksh071z-1743056890034.jpg",
+        "location": "中国",
+        "point_id": "u3ksh071z",
+        "point_name": "漓江",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.55848,
+          30.910299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3kvqi0ix-1743057084404.jpg",
+        "location": "中国",
+        "point_id": "u3kvqi0ix",
+        "point_name": "青城山老君阁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.560729,
+          30.906859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/1lnntes-1750496738634.jpg",
+        "location": "中国",
+        "point_id": "1lnntes",
+        "point_name": "青城山",
+        "remark": "毛妹飞到老君阁转场到此，可判断为青城山。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.556673,
+          45.774391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3l6qbiuw-1743057758402.jpg",
+        "location": "中国",
+        "point_id": "u3l6qbiuw",
+        "point_name": "中国·哈尔滨冰雪大世界",
+        "remark": "具体位置自己看看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.556836,
+          45.775455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3l5ea4yv-1743057668156.jpg",
+        "location": "中国",
+        "point_id": "u3l5ea4yv",
+        "point_name": "中国·哈尔滨冰雪大世界",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.797297,
+          51.064985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "Lostbelt No.6 妖精圆桌领域 阿瓦隆·勒·菲",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109378/points/o3teh8i7i-1726149037059.jpg",
+        "location": "欧洲",
+        "point_id": "o3teh8i7i",
+        "point_name": "Salisbury Cathedral",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -1.797884,
+          51.064477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "Lostbelt No.6 妖精圆桌领域 阿瓦隆·勒·菲/关卡配置",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109378/points/o3tk1gy26-1726149319744.jpg",
+        "location": "欧洲",
+        "point_id": "o3tk1gy26",
+        "point_name": "The Cloisters",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.693961,
+          34.839413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/sbh176wfl-1738033433423.jpg",
+        "location": "",
+        "point_id": "sbh176wfl",
+        "point_name": "姬路城",
+        "remark": "《盈月剑风帖》FSR联动活动"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796676,
+          35.714735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/sbhsofqhk-1738035112854.jpg",
+        "location": "",
+        "point_id": "sbhsofqhk",
+        "point_name": "浅草寺",
+        "remark": "《盈月剑风帖》FSR联动活动"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.590534,
+          36.576972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td126so0d-1740976470908.jpg",
+        "location": "",
+        "point_id": "td126so0d",
+        "point_name": "立山有料道路",
+        "remark": "紫发老。。。。姐姐"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.999792,
+          37.425879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td1aernqe-1740976976275.jpg",
+        "location": "",
+        "point_id": "td1aernqe",
+        "point_name": "白米千枚田",
+        "remark": "小麻雀"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.125543,
+          36.237629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td1da209f-1740977147859.jpg",
+        "location": "",
+        "point_id": "td1da209f",
+        "point_name": "東尋坊",
+        "remark": "虞姬虞姬虞姬"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.879479,
+          40.465675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td1q32jtf-1740977930020.jpg",
+        "location": "",
+        "point_id": "td1q32jtf",
+        "point_name": " 十和田湖",
+        "remark": "阿比~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.069096,
+          38.369019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td20eauoh-1740978573008.jpg",
+        "location": "",
+        "point_id": "td20eauoh",
+        "point_name": "朱紅福浦橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766692,
+          39.929325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td23grwht-1740978725792.jpg",
+        "location": "",
+        "point_id": "td23grwht",
+        "point_name": "なまはげ館",
+        "remark": "女儿可爱捏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.432723,
+          38.153312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td28uaz73-1740979075496.jpg",
+        "location": "",
+        "point_id": "td28uaz73",
+        "point_name": "蔵王の樹氷(山形県)",
+        "remark": "皇女可爱捏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.592364,
+          37.471366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td2d0ef81-1740979306968.jpg",
+        "location": "",
+        "point_id": "td2d0ef81",
+        "point_name": "霧幻峡",
+        "remark": "燕青哥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.454514,
+          36.375033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td2fvjz4d-1740979493716.jpg",
+        "location": "",
+        "point_id": "td2fvjz4d",
+        "point_name": "偕乐园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502359,
+          36.738135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td2iahnhs-1740979648177.jpg",
+        "location": "",
+        "point_id": "td2iahnhs",
+        "point_name": "華厳滝",
+        "remark": "唐僧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.236584,
+          36.93192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td2nno1u7-1740979951509.jpg",
+        "location": "",
+        "point_id": "td2nno1u7",
+        "point_name": "尾瀬ヶ原Ozegahara",
+        "remark": "小贝"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.810221,
+          35.995766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td2t4nv1i-1740980292635.jpg",
+        "location": "",
+        "point_id": "td2t4nv1i",
+        "point_name": "防災地下神殿(首都圏外郭放水路)",
+        "remark": "凛可爱捏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.05941,
+          35.185185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td2xewkgx-1740980540275.jpg",
+        "location": "",
+        "point_id": "td2xewkgx",
+        "point_name": "濃溝の滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702151,
+          35.658438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td31q12ns-1740980816850.jpg",
+        "location": "",
+        "point_id": "td31q12ns",
+        "point_name": "shibuya sky",
+        "remark": "小茄子~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744996,
+          35.651822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td3i567xr-1740981823112.jpg",
+        "location": "",
+        "point_id": "td3i567xr",
+        "point_name": "桜田通り 三田一丁目",
+        "remark": "吾王"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643195,
+          35.452484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td3lg65u1-1740981987860.jpg",
+        "location": "",
+        "point_id": "td3lg65u1",
+        "point_name": " 横浜赤レンガ倉庫",
+        "remark": "达芬奇酱"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.755474,
+          35.494243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td3oosfez-1740982206171.jpg",
+        "location": "",
+        "point_id": "td3oosfez",
+        "point_name": "鏡池《逆富士 inverted image of Mt. Fuji》",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.647665,
+          36.342158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td3radqnh-1740982352648.jpg",
+        "location": "",
+        "point_id": "td3radqnh",
+        "point_name": "槍ケ岳",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.716533,
+          35.221148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td497paa6-1740983479636.jpg",
+        "location": "",
+        "point_id": "td497paa6",
+        "point_name": "富士山",
+        "remark": "富士山南麓的一个茶园，地图上无全景。但位置就在丸火自然公园和综合运动公园之间的这块区域。具体可以谷歌检索“静岡の原風景 - 「富士山南麓の茶園」”查一下具体位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.77835,
+          36.792898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td53cxhxv-1740985247158.jpg",
+        "location": "",
+        "point_id": "td53cxhxv",
+        "point_name": "苗場スキー場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.906218,
+          36.257813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td54u9plp-1740985354835.jpg",
+        "location": "",
+        "point_id": "td54u9plp",
+        "point_name": " 白川郷",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.893981,
+          33.671009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td5ilykv4-1740986186752.jpg",
+        "location": "",
+        "point_id": "td5ilykv4",
+        "point_name": "大門坂",
+        "remark": "安娜走的这个应该就是熊野古道代表性景色的大門坂，但具体是哪个位置到了在对着照片拍拍吧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.9216,
+          35.109841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td5lhy9b0-1740986362595.jpg",
+        "location": "",
+        "point_id": "td5lhy9b0",
+        "point_name": "浮御堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.780131,
+          34.998125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td5ogcli0-1740986560484.jpg",
+        "location": "",
+        "point_id": "td5ogcli0",
+        "point_name": "法观寺（八坂之塔）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.505902,
+          34.651358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td5t7henb-1740986816142.jpg",
+        "location": "",
+        "point_id": "td5t7henb",
+        "point_name": "通天阁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.693788,
+          34.839361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td5udd0hx-1740986885749.jpg",
+        "location": "",
+        "point_id": "td5udd0hx",
+        "point_name": "姬路城",
+        "remark": "不行姬"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.795777,
+          35.013725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3jhwr4pt-1743054114254.jpg",
+        "location": "",
+        "point_id": "u3jhwr4pt",
+        "point_name": "臥龍廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.906853,
+          34.536058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td5xeofvi-1740987063640.jpg",
+        "location": "",
+        "point_id": "td5xeofvi",
+        "point_name": "長谷寺本堂",
+        "remark": "老爷子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.174571,
+          33.914273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td603ad2m-1740987229168.jpg",
+        "location": "",
+        "point_id": "td603ad2m",
+        "point_name": "道成寺",
+        "remark": "清姬可爱捏~"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.225521,
+          35.543707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td620xsc4-1740987342986.jpg",
+        "location": "",
+        "point_id": "td620xsc4",
+        "point_name": "鳥取砂丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.965146,
+          36.100626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td66oob51-1740987632571.jpg",
+        "location": "",
+        "point_id": "td66oob51",
+        "point_name": "島根県通天橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.771773,
+          34.595821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td69lw9km-1740987801159.jpg",
+        "location": "",
+        "point_id": "td69lw9km",
+        "point_name": "中橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.322665,
+          34.294937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6b34mko-1740987915574.jpg",
+        "location": "",
+        "point_id": "td6b34mko",
+        "point_name": "紅葉谷公園",
+        "remark": "兰陵王"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.931138,
+          33.933543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6d7kb9r-1740988032237.jpg",
+        "location": "",
+        "point_id": "td6d7kb9r",
+        "point_name": "武蔵の伝馬船",
+        "remark": "传说小次郎和宫本武藏的决战之地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.09263,
+          33.865731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6fqbywu-1740988171547.jpg",
+        "location": "",
+        "point_id": "td6fqbywu",
+        "point_name": "剣山",
+        "remark": "塔猫可爱捏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.26973,
+          34.470919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6h6rqz2-1740988261522.jpg",
+        "location": "",
+        "point_id": "td6h6rqz2",
+        "point_name": "小豆島​オリーブ​園",
+        "remark": "武藏亲"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.786389,
+          33.85217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6jo7e73-1740988423543.jpg",
+        "location": "",
+        "point_id": "td6jo7e73",
+        "point_name": "道後温泉本館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.576619,
+          33.498195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6lo7869-1740988533830.jpg",
+        "location": "",
+        "point_id": "td6lo7869",
+        "point_name": "桂浜",
+        "remark": "从版本龙马像下面远望龙王宫，需要长焦拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.408048,
+          33.590686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6praqgp-1740988789768.jpg",
+        "location": "",
+        "point_id": "td6praqgp",
+        "point_name": "Dai-chan　大ちゃん",
+        "remark": "x毛可爱捏 \n路边摊不稳定。认准后面那棵树把"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.084193,
+          32.887085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6zmpagf-1740989399256.jpg",
+        "location": "",
+        "point_id": "td6zmpagf",
+        "point_name": "阿蘇山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.791977,
+          33.089705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6yhn6d0-1740989327212.jpg",
+        "location": "",
+        "point_id": "td6yhn6d0",
+        "point_name": "ハウステンボス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.245275,
+          33.26877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td6ul43oz-1740989077979.jpg",
+        "location": "",
+        "point_id": "td6ul43oz",
+        "point_name": "嘉瀬川野球グラウンド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.523925,
+          32.984727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td762cbj2-1740989783593.jpg",
+        "location": "",
+        "point_id": "td762cbj2",
+        "point_name": "沈堕発電所跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.332923,
+          31.36611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td78oifzx-1740989927901.jpg",
+        "location": "",
+        "point_id": "td78oifzx",
+        "point_name": "都井岬",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.538552,
+          30.355779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td79q3mct-1740989987133.jpg",
+        "location": "",
+        "point_id": "td79q3mct",
+        "point_name": "屋久島",
+        "remark": "b叔帅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.077735,
+          24.426128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/td7cybi7i-1740990189777.jpg",
+        "location": "",
+        "point_id": "td7cybi7i",
+        "point_name": "Osaki Beach (Tachii Beach)",
+        "remark": "铁拳圣女可爱捏"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -157.826049,
+          21.276546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "迦摩幕间物语以及各种泳装活动",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/tczpha8f1-1740973542760.jpg",
+        "location": "美国",
+        "point_id": "tczpha8f1",
+        "point_name": "Kalākaua Ave",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.006323,
+          40.746177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3jor3qq5-1743054486013.jpg",
+        "location": "美国",
+        "point_id": "u3jor3qq5",
+        "point_name": "W 20th St",
+        "remark": "详细见来源链接\nbilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.847246,
+          27.997335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3ibtgw2m-1743051543550.jpg",
+        "location": "亚洲",
+        "point_id": "u3ibtgw2m",
+        "point_name": "Everest Base Camp Trek",
+        "remark": "详细见来源链接 bilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          24.555603,
+          60.293557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3i5ga1xi-1743051144675.jpg",
+        "location": "欧洲",
+        "point_id": "u3i5ga1xi",
+        "point_name": "Haltian tapahtumakenttä",
+        "remark": "详细见来源链接 bilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.109099,
+          42.639642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3iuim0ck-1743052658617.jpg",
+        "location": "欧洲",
+        "point_id": "u3iuim0ck",
+        "point_name": "Crkva sv. Ignacija",
+        "remark": "详细见来源链接\nbilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          25.375705,
+          36.461177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3jdsd4ii-1743053848385.jpg",
+        "location": "欧洲",
+        "point_id": "u3jdsd4ii",
+        "point_name": "Blue Domed Church Santorini",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          30.74142,
+          46.485493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3j29ur8m-1743053132028.jpg",
+        "location": "欧洲",
+        "point_id": "u3j29ur8m",
+        "point_name": "Одеський національний академічний театр опери та балету",
+        "remark": "详细见来源链接\nbilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.329105,
+          48.860103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/375hbt2-1753973237244.jpg",
+        "location": "欧洲",
+        "point_id": "375hbt2",
+        "point_name": "Pont Royal",
+        "remark": "迪昂一破"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.329173,
+          48.860124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/375jmf2-1753973289604.jpg",
+        "location": "欧洲",
+        "point_id": "375jmf2",
+        "point_name": "Pont Royal",
+        "remark": "迪昂二破"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.329326,
+          48.860131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/375kgp5-1753973318935.jpg",
+        "location": "欧洲",
+        "point_id": "375kgp5",
+        "point_name": "Pont Royal",
+        "remark": "迪昂三破"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.138292,
+          29.974725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3j9fy2vf-1743053560246.jpg",
+        "location": "非洲",
+        "point_id": "u3j9fy2vf",
+        "point_name": "Valley Temple of Khafre",
+        "remark": "详细见来源链接\nbilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.416216,
+          -33.905183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3if9o0wz-1743051738243.jpg",
+        "location": "非洲",
+        "point_id": "u3if9o0wz",
+        "point_name": "New Somerset Hospital",
+        "remark": "详细见来源链接\nbilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.179122,
+          -22.915286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3ix9h0qj-1743052867262.jpg",
+        "location": "南美",
+        "point_id": "u3ix9h0qj",
+        "point_name": "Rua Manoel Carneiro",
+        "remark": "详细见来源链接\nbilibili uid11912371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766035,
+          35.681388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3xxb60i4-1743085484457.jpg",
+        "location": "",
+        "point_id": "u3xxb60i4",
+        "point_name": "东京站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780061,
+          35.625975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u3zy7y6fd-1743089908522.jpg",
+        "location": "",
+        "point_id": "u3zy7y6fd",
+        "point_name": "VenusFort",
+        "remark": "2022年3月27日 关了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.689489,
+          35.68981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u4r9y9dh9-1743149368224.jpg",
+        "location": "",
+        "point_id": "u4r9y9dh9",
+        "point_name": "新宿中央公園",
+        "remark": "剧情中明确指出这里为新宿中央公園"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694409,
+          35.692625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u4rphe7ds-1743150331035.jpg",
+        "location": "",
+        "point_id": "u4rphe7ds",
+        "point_name": "新宿中心大厦附近十字路口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.773451,
+          34.967313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u548td75a-1743177600166.jpg",
+        "location": "",
+        "point_id": "u548td75a",
+        "point_name": "権殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.0594,
+          35.185157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u549wfee2-1743177669198.jpg",
+        "location": "",
+        "point_id": "u549wfee2",
+        "point_name": "濃溝の滝",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.42752,
+          43.419267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u556b5gnc-1743179649431.jpg",
+        "location": "",
+        "point_id": "u556b5gnc",
+        "point_name": "倖の畑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.427298,
+          43.419083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u557bmw9z-1743179766977.jpg",
+        "location": "",
+        "point_id": "u557bmw9z",
+        "point_name": "富田农场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.427496,
+          43.419201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u55b19x9j-1743179937560.jpg",
+        "location": "",
+        "point_id": "u55b19x9j",
+        "point_name": "倖の畑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774645,
+          34.967052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u542jbj4d-1743177247538.jpg",
+        "location": "",
+        "point_id": "u542jbj4d",
+        "point_name": "千本鸟居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.77403,
+          34.967271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u548db23q-1743177581367.jpg",
+        "location": "",
+        "point_id": "u548db23q",
+        "point_name": "権殿",
+        "remark": "在稻荷大社的正后方\n上个修正位置有偏差，此位置在伏见稻荷大社本殿的背后，从本殿左边的楼梯通道上去，达到第二个平台就能看见（请跟随谷歌地图，到达奥宫这个小神殿）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781413,
+          35.626805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u61yc787m-1743263420599.jpg",
+        "location": "",
+        "point_id": "u61yc787m",
+        "point_name": "调色板城大摩天轮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780929,
+          35.627189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/u67t892b2-1743263726223.jpg",
+        "location": "",
+        "point_id": "u67t892b2",
+        "point_name": "调色板城大摩天轮",
+        "remark": "永久停业"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780133,
+          35.626021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/udxndtvn6-1743868694020.jpg",
+        "location": "",
+        "point_id": "udxndtvn6",
+        "point_name": "VenusFort",
+        "remark": "约会邀请"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780217,
+          35.625171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/udxyvfoan-1743869213701.jpg",
+        "location": "",
+        "point_id": "udxyvfoan",
+        "point_name": "東京リベンジャーズ イマーシブ・エスケープ",
+        "remark": "约会地点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779989,
+          35.62596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/udxqwlgiq-1743868753408.jpg",
+        "location": "",
+        "point_id": "udxqwlgiq",
+        "point_name": "VenusFort",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774324,
+          35.628176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/hg88v5-1748065727892.jpg",
+        "location": "",
+        "point_id": "hg88v5",
+        "point_name": "United Cinemas Aqua City Odaiba ユナイテッド・シネマ アクアシティお台場",
+        "remark": "黑玛丽约会电影院"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.390595,
+          39.915923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "サーヴァントと巡る世界展 - Re:Collection - Lostbelt No.3 オンラインムービー",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/146w8g1-1749440595630.jpg",
+        "location": "中国",
+        "point_id": "146w8g1",
+        "point_name": "故宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.390624,
+          39.91579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "サーヴァントと巡る世界展 - Re:Collection - Lostbelt No.3 オンラインムービー",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/146xzt3-1749440666090.jpg",
+        "location": "中国",
+        "point_id": "146xzt3",
+        "point_name": "故宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.391038,
+          39.915837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "サーヴァントと巡る世界展 - Re:Collection - Lostbelt No.3 オンラインムービー",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/146ydcx-1749440687187.jpg",
+        "location": "中国",
+        "point_id": "146ydcx",
+        "point_name": "故宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.390853,
+          39.915834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "サーヴァントと巡る世界展 - Re:Collection - Lostbelt No.3 オンラインムービー",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/146yrwd-1749440702305.jpg",
+        "location": "中国",
+        "point_id": "146yrwd",
+        "point_name": "故宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765864,
+          35.681409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "Fate/Grand Order 全国縦断広告企画「OVER THE SAME SKY」 キービジュアル解禁映像",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/1ld8uo7-1750479182705.jpg",
+        "location": "",
+        "point_id": "1ld8uo7",
+        "point_name": "東京駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662774,
+          36.563286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/375s5u0-1753973688604.jpg",
+        "location": "",
+        "point_id": "375s5u0",
+        "point_name": "徽軫灯籠",
+        "remark": "图应该是拼接的，找不到绝对一样的机位，以徽軫灯籠为视角去拍吧，后面的桥也是兼六园很出名的桥。但确实没有一个机位可以排满，但应该就是这没错。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662759,
+          36.563278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3764uc1-1753974272922.jpg",
+        "location": "",
+        "point_id": "3764uc1",
+        "point_name": "徽軫灯籠",
+        "remark": "图应该是拼接的，找不到绝对一样的机位，以徽軫灯籠为视角去拍吧，后面的桥也是兼六园很出名的桥。但确实没有一个机位可以排满，但应该就是这没错。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662751,
+          36.563275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3765gvv-1753974300772.jpg",
+        "location": "",
+        "point_id": "3765gvv",
+        "point_name": "兼六园",
+        "remark": "图应该是拼接的，找不到绝对一样的机位，以徽軫灯籠为视角去拍吧，后面的桥也是兼六园很出名的桥。但确实没有一个机位可以排满，但应该就是这没错。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.66276,
+          36.563276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3766jlt-1753974349333.jpg",
+        "location": "",
+        "point_id": "3766jlt",
+        "point_name": "兼六园",
+        "remark": "图应该是拼接的，找不到绝对一样的机位，以徽軫灯籠为视角去拍吧，后面的桥也是兼六园很出名的桥。但确实没有一个机位可以排满，但应该就是这没错。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.662757,
+          36.563271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/376722q-1753974375011.jpg",
+        "location": "",
+        "point_id": "376722q",
+        "point_name": "兼六园",
+        "remark": "图应该是拼接的，找不到绝对一样的机位，以徽軫灯籠为视角去拍吧，后面的桥也是兼六园很出名的桥。但确实没有一个机位可以排满，但应该就是这没错。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.12689,
+          25.08115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「BB主办☆名流夏日体验!~逆袭的迪 拜~」TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3fua6xf-1754498603409.jpg",
+        "location": "迪拜",
+        "point_id": "3fua6xf",
+        "point_name": "Ain Dubai عين دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.12374,
+          25.080235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3fud2ul-1754498720169.jpg",
+        "location": "迪拜",
+        "point_id": "3fud2ul",
+        "point_name": "Ain Dubai عين دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.351227,
+          25.249252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3l8upjj-1754825364997.jpg",
+        "location": "迪拜",
+        "point_id": "3l8upjj",
+        "point_name": "迪拜机场",
+        "remark": "地点就在迪拜机场，但不知道是不是魔改太多了就找到这个最像了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.351364,
+          25.249153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3l91htc-1754825680303.jpg",
+        "location": "迪拜",
+        "point_id": "3l91htc",
+        "point_name": "迪拜机场",
+        "remark": "地点就在迪拜机场，但不知道是不是魔改太多了就找到这个最像了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.351166,
+          25.249262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3l921vq-1754825725927.jpg",
+        "location": "迪拜",
+        "point_id": "3l921vq",
+        "point_name": "迪拜机场",
+        "remark": "地点就在迪拜机场，但不知道是不是魔改太多了就找到这个最像了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.351053,
+          25.249317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3l92szc-1754825740995.jpg",
+        "location": "迪拜",
+        "point_id": "3l92szc",
+        "point_name": "迪拜机场",
+        "remark": "地点就在迪拜机场，但不知道是不是魔改太多了就找到这个最像了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.258018,
+          25.185426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3l9khqy-1754826571515.jpg",
+        "location": "迪拜",
+        "point_id": "3l9khqy",
+        "point_name": "فندق جي دبليو ماريوت ماركي دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.258047,
+          25.185408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3l9lk78-1754826623359.jpg",
+        "location": "迪拜",
+        "point_id": "3l9lk78",
+        "point_name": "فندق جي دبليو ماريوت ماركي دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.188176,
+          25.141456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mymcrc-1754929124965.jpg",
+        "location": "迪拜",
+        "point_id": "3mymcrc",
+        "point_name": "Jumeirah Burj Al Arab",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.187872,
+          25.141416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3myn4j5-1754929144360.jpg",
+        "location": "迪拜",
+        "point_id": "3myn4j5",
+        "point_name": "Jumeirah Burj Al Arab",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.187843,
+          25.141537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mynhny-1754929159244.jpg",
+        "location": "迪拜",
+        "point_id": "3mynhny",
+        "point_name": "Jumeirah Burj Al Arab",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.187937,
+          25.141434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3myntjs-1754929178093.jpg",
+        "location": "迪拜",
+        "point_id": "3myntjs",
+        "point_name": "Jumeirah Burj Al Arab",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.187726,
+          25.141383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3myo9pp-1754929198525.jpg",
+        "location": "迪拜",
+        "point_id": "3myo9pp",
+        "point_name": "Jumeirah Burj Al Arab",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.258075,
+          25.18546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mxn9w7-1754927519249.jpg",
+        "location": "迪拜",
+        "point_id": "3mxn9w7",
+        "point_name": "فندق جي دبليو ماريوت ماركي دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.25797,
+          25.185407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mxoub6-1754927580300.jpg",
+        "location": "迪拜",
+        "point_id": "3mxoub6",
+        "point_name": "فندق جي دبليو ماريوت ماركي دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.257911,
+          25.185444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mxpwxs-1754927596811.jpg",
+        "location": "迪拜",
+        "point_id": "3mxpwxs",
+        "point_name": "فندق جي دبليو ماريوت ماركي دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.257989,
+          25.18541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mxqo0g-1754927627958.jpg",
+        "location": "迪拜",
+        "point_id": "3mxqo0g",
+        "point_name": "万豪酒店 餐厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.257993,
+          25.185385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3mxswz8-1754927733358.jpg",
+        "location": "迪拜",
+        "point_id": "3mxswz8",
+        "point_name": "فندق جي دبليو ماريوت ماركي دبي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.280006,
+          25.196945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o6wftj-1755003491845.jpg",
+        "location": "迪拜",
+        "point_id": "3o6wftj",
+        "point_name": "Dubai Mall",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.279821,
+          25.197049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o73tcb-1755003847490.jpg",
+        "location": "迪拜",
+        "point_id": "3o73tcb",
+        "point_name": "The Dubai Mall",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.279509,
+          25.197051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o75kb4-1755003909372.jpg",
+        "location": "迪拜",
+        "point_id": "3o75kb4",
+        "point_name": "The Dubai Mall",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.279969,
+          25.196947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o760am-1755003928450.jpg",
+        "location": "迪拜",
+        "point_id": "3o760am",
+        "point_name": "The Dubai Mall",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.280072,
+          25.197046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o76fqx-1755003948108.jpg",
+        "location": "迪拜",
+        "point_id": "3o76fqx",
+        "point_name": "The Dubai Mall",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.279018,
+          25.197297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o77wux-1755004017338.jpg",
+        "location": "迪拜",
+        "point_id": "3o77wux",
+        "point_name": "Dubai Aquarium & Underwater Zoo",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.278788,
+          25.19754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o78fqm-1755004042665.jpg",
+        "location": "迪拜",
+        "point_id": "3o78fqm",
+        "point_name": "Dubai Aquarium & Underwater Zoo",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.279037,
+          25.197575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o79dbv-1755004083868.jpg",
+        "location": "迪拜",
+        "point_id": "3o79dbv",
+        "point_name": "Dubai Aquarium & Underwater Zoo",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.275172,
+          25.195129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o7aogh-1755004203405.jpg",
+        "location": "迪拜",
+        "point_id": "3o7aogh",
+        "point_name": "نَافُورَة بُرْجِ خَلِيفَةِ دُبَي",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.258034,
+          25.185392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~|TVCM",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3o7ey5o-1755004387905.jpg",
+        "location": "迪拜",
+        "point_id": "3o7ey5o",
+        "point_name": "万豪酒店（走廊）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.300082,
+          25.23633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3r78tl0-1755185460565.jpg",
+        "location": "",
+        "point_id": "3r78tl0",
+        "point_name": "迪拜金相框",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.300191,
+          25.236301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3r79p86-1755185500689.jpg",
+        "location": "",
+        "point_id": "3r79p86",
+        "point_name": "迪拜金相框",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.300132,
+          25.236256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3r7ad1z-1755185535695.jpg",
+        "location": "",
+        "point_id": "3r7ad1z",
+        "point_name": "迪拜金相框",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.300376,
+          25.236166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3r7b09z-1755185558500.jpg",
+        "location": "",
+        "point_id": "3r7b09z",
+        "point_name": "迪拜金相框",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.577251,
+          24.876621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3t981cr-1755309752299.jpg",
+        "location": "",
+        "point_id": "3t981cr",
+        "point_name": "Dubai Desert Conservation Reserve",
+        "remark": "看地图为这个离市中心最近的沙漠"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.577502,
+          24.876822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3t9aczj-1755309821342.jpg",
+        "location": "",
+        "point_id": "3t9aczj",
+        "point_name": "Dubai Desert Conservation Reserve",
+        "remark": "看游戏内地图为这个离市中心最近的沙漠"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.578109,
+          24.876965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "「B B主办☆名流夏日体验!~逆袭的迪拜~」举办!",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3t9bmvk-1755309880020.jpg",
+        "location": "",
+        "point_id": "3t9bmvk",
+        "point_name": "Dubai Desert Conservation Reserve",
+        "remark": "看游戏内地图为这个离市中心最近的沙漠"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.625642,
+          25.177968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3uplmwm-1755397687198.jpg",
+        "location": "",
+        "point_id": "3uplmwm",
+        "point_name": "Al Khayma Camp “Elite Camping & Dining Experience.”",
+        "remark": "迪拜沙漠中很常见的一类营地形式"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          55.625778,
+          25.177879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "BB主办☆名流夏日体验!~逆袭的迪 拜~",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/3upngoi-1755397773449.jpg",
+        "location": "",
+        "point_id": "3upngoi",
+        "point_name": "Al Khayma Camp “Elite Camping & Dining Experience.”",
+        "remark": "迪拜沙漠中很常见的一类营地形式"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771295,
+          35.699605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "Fgo十周年 英灵星行：贞德Alter",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109378/points/48znumh-1756261570980.jpg",
+        "location": "",
+        "point_id": "48znumh",
+        "point_name": "中央通り",
+        "remark": "十周年纪念礼装"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.904736,
+          35.159406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109378/points/6blwvea-1760773029401.jpg",
+        "location": "",
+        "point_id": "6blwvea",
+        "point_name": "コンパル​大須​本店",
+        "remark": "fgo 10周年企划 Over the same sky"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765966,
+          35.681716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "04：34",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/944uv7s-1766851445214.jpg",
+        "location": "",
+        "point_id": "944uv7s",
+        "point_name": "东京站 ",
+        "remark": "丸之内中央口前广场\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765985,
+          35.681711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "04：36",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/9453cb3-1766851817211.jpg",
+        "location": "",
+        "point_id": "9453cb3",
+        "point_name": "东京站",
+        "remark": "丸之内中央口前广场"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765998,
+          35.681709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "04：41",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/94546ig-1766851859544.jpg",
+        "location": "",
+        "point_id": "94546ig",
+        "point_name": "东京站",
+        "remark": "丸之内中央口前广场"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765944,
+          35.680472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "04：11",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/945qf28-1766852890805.jpg",
+        "location": "",
+        "point_id": "945qf28",
+        "point_name": "东京站 丸之内南口检票闸机外",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76578,
+          35.680517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "04：14",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/945rre3-1766852956569.jpg",
+        "location": "",
+        "point_id": "945rre3",
+        "point_name": "东京站 丸之内南口检票闸机外",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765513,
+          35.680565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "2.0终章结束动画",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/945vg34-1766853126142.jpg",
+        "location": "",
+        "point_id": "945vg34",
+        "point_name": "丸の内南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765616,
+          35.681582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "2.0终章结束动画",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/9464jns-1766853561558.jpg",
+        "location": "",
+        "point_id": "9464jns",
+        "point_name": "丸之内中央口前广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765588,
+          35.681562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "2.0终章结束动画",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/9466166-1766853620190.jpg",
+        "location": "",
+        "point_id": "9466166",
+        "point_name": "东京站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.764627,
+          35.680862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109378,
+        "bangumi_title": "命运-冠位指定",
+        "ep_cut": "2.0终章结束动画",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/109378/points/946dqms-1766853979826.jpg",
+        "location": "",
+        "point_id": "946dqms",
+        "point_name": "Ashley",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

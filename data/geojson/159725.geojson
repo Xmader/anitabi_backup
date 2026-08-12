@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.610271,
+          39.923106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159725,
+        "bangumi_title": "罗小黑战记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159725/points/u.jpg",
+        "location": "",
+        "point_id": "50f44fsnu",
+        "point_name": "草房地铁站",
+        "remark": "小黑被叶子和阿赫掳走后，无限冲入地铁轨道的场景。草房站的墙面主要颜色为绿色，若需要还原颜色可能需要前往物资学院路站或潞城站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.076339,
+          30.660445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 159725,
+        "bangumi_title": "罗小黑战记",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/159725/points/il32gobvz-1710575569769.jpg",
+        "location": "",
+        "point_id": "il32gobvz",
+        "point_name": "春熙路王府井百货门口天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

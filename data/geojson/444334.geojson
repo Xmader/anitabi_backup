@@ -1,0 +1,925 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.693427,
+          35.853328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/444334/points/qgldha6gr-1732792658597.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qgldha6gr",
+        "point_name": "円正寺緑道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69311,
+          35.854612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qglrv5yyr_1732793426740.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qglrv5yyr",
+        "point_name": "明花公園横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693934,
+          35.854359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgm698s42_1732794266024.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qgm698s42",
+        "point_name": "明花公園 遠景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693064,
+          35.854526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qglu6pdec_1732793486858.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qglu6pdec",
+        "point_name": "明花公園横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693058,
+          35.854571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qglv0koa0_1732793510671.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qglv0koa0",
+        "point_name": "明花公園前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693132,
+          35.854772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qglxnpidp_1732793670953.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qglxnpidp",
+        "point_name": "明花公園 交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693027,
+          35.854609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qglzexvfy_1732793777346.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qglzexvfy",
+        "point_name": "明花公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693128,
+          35.854553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgm0hkuev_1732793844798.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qgm0hkuev",
+        "point_name": "明花公園 街灯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693041,
+          35.854483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgm22aja1_1732793936687.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qgm22aja1",
+        "point_name": "明花公園横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693135,
+          35.854671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgm2egerq_1732793957871.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qgm2egerq",
+        "point_name": "明花公園横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693021,
+          35.854454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgm3j7fhn_1732794026679.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qgm3j7fhn",
+        "point_name": "明花公園横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693029,
+          35.854467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj18k899p_1732983716744.jpg",
+        "location": "さいたま-東浦和エリア",
+        "point_id": "qj18k899p",
+        "point_name": "明花公園 石の障害物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658869,
+          35.857977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgr42j6a1_1732804946604.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qgr42j6a1",
+        "point_name": "浦和駅東口バス停付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.657489,
+          35.85692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgr6j7h03_1732805103422.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qgr6j7h03",
+        "point_name": "エイペックスタワー​浦和",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658701,
+          35.858208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgr775vqn_1732805166243.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qgr775vqn",
+        "point_name": "浦和駅東口駅前市民広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658591,
+          35.857814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgraqsmto_1732805347085.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qgraqsmto",
+        "point_name": "NBF浦和ビル前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658944,
+          35.857983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj1nqtpls_1732984640251.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qj1nqtpls",
+        "point_name": "浦和駅東口バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653899,
+          35.857992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qgrihyf2z_1732805817535.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qgrihyf2z",
+        "point_name": "matsukiyoLAB前 交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653846,
+          35.858057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj1qdfhck_1732984794808.jpg",
+        "location": "さいたま-浦和エリア",
+        "point_id": "qj1qdfhck",
+        "point_name": "マツモトキヨシ matsukiyoLAB 浦和高砂店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631073,
+          35.867657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/444334/qhv0tiave_1732891820219.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhv0tiave",
+        "point_name": "南与野駅 2番ホーム側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631095,
+          35.867602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/points/444334/qhv1ytnz9_1732891887325.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhv1ytnz9",
+        "point_name": "南与野駅 2番ホーム側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631147,
+          35.867416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhv5jn380_1732892151353.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhv5jn380",
+        "point_name": "南与野駅 プラウド南与野前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631202,
+          35.867423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhv71tmbk_1732892197412.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhv71tmbk",
+        "point_name": "南与野駅 出口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630229,
+          35.868241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvc1y7uk_1732892501809.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvc1y7uk",
+        "point_name": "南与野駅 西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630974,
+          35.868011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvco99lk_1732892533908.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvco99lk",
+        "point_name": "南与野駅 改札前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630949,
+          35.868093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvibqok4_1732892875651.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvibqok4",
+        "point_name": "南与野駅 案内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630994,
+          35.868059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvip210h_1732892897885.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvip210h",
+        "point_name": "南与野駅 ロッカー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630922,
+          35.868037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvitp18c_1732892905380.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvitp18c",
+        "point_name": "南与野駅 券売機",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630946,
+          35.868016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj1sct6k7_1732984911684.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qj1sct6k7",
+        "point_name": "南与野駅 時刻表",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631074,
+          35.868186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvkzayy8_1732893040001.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvkzayy8",
+        "point_name": "南与野駅 階段前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631135,
+          35.868139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvljot4z_1732893072863.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvljot4z",
+        "point_name": "南与野駅 階段南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63109,
+          35.868223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvlwdds8_1732893091494.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvlwdds8",
+        "point_name": "南与野駅 階段北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631256,
+          35.868237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qhvnfd74l_1732893184969.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qhvnfd74l",
+        "point_name": "鈴谷東公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63123,
+          35.86792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj219xrba_1732985478573.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qj219xrba",
+        "point_name": "南与野駅 高架",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631595,
+          35.865587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj24zlfg7_1732985682270.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qj24zlfg7",
+        "point_name": "南与野駅から南下した高架下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631931,
+          35.86565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj25cuqkf_1732985693698.jpg",
+        "location": "さいたま-南与野エリア",
+        "point_id": "qj25cuqkf",
+        "point_name": "南与野駅から南下した高架下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654014,
+          35.709833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qiyig2q75_1732978222319.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qiyig2q75",
+        "point_name": "大和陸橋 信号機",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653984,
+          35.709817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qiyqa1mya_1732978256104.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qiyqa1mya",
+        "point_name": "大和陸橋 交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654108,
+          35.709834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qiys5avfo_1732978384555.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qiys5avfo",
+        "point_name": "大和陸橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65436,
+          35.709849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qiyz2xlme_1732978786586.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qiyz2xlme",
+        "point_name": "大和陸橋 まいばすけっと 高円寺大和陸橋店前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653974,
+          35.709513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qizkwpvwp_1732980103806.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qizkwpvwp",
+        "point_name": "アエリア高円寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654238,
+          35.70984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qizrzn0nf_1732980531441.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qizrzn0nf",
+        "point_name": "大和陸橋 信号機",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653999,
+          35.709583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qizz8akhs_1732980971074.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qizz8akhs",
+        "point_name": "大和陸橋 交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654019,
+          35.709885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj0033g7w_1732981020439.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qj0033g7w",
+        "point_name": "大和陸橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653934,
+          35.709851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj00u3flp_1732981098305.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qj00u3flp",
+        "point_name": "レガリス高円寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653938,
+          35.709767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444334,
+        "bangumi_title": "指尖相触，恋恋不舍",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/444334/qj01xprpn_1732981134735.jpg",
+        "location": "東京-高円寺エリア",
+        "point_id": "qj01xprpn",
+        "point_name": "大和陸橋 交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

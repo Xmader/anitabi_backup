@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.808376,
+          34.929863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2453,
+        "bangumi_title": "黑岩射手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/22179/points/4hr619b-1756791365984.jpg",
+        "location": "",
+        "point_id": "4hr619b",
+        "point_name": "御蔵山バス停前交差点(五叉路)",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

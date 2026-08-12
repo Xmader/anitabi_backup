@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.638871,
+          35.455462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 111468,
+        "bangumi_title": "话说当时我还不是主角",
+        "ep_cut": "第1卷 第2話　俺には妹がいない",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/111468/points/a7avst8-1769220224885.jpg",
+        "location": "",
+        "point_id": "a7avst8",
+        "point_name": "カップ​ヌードル​ミュージアム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63712,
+          35.45491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 111468,
+        "bangumi_title": "话说当时我还不是主角",
+        "ep_cut": "第1卷 第2话 俺には妹がいない",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/111468/points/a7ce630-1769222359081.jpg",
+        "location": "",
+        "point_id": "a7ce630",
+        "point_name": "ワンダーアミューズ・ゾーン",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

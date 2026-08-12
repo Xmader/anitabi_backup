@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          151.208354,
+          -33.860526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 95010,
+        "bangumi_title": "Free!-Eternal Summer-",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/95010/points/n9bf0x9ff-1723759070121.jpg",
+        "location": "",
+        "point_id": "oii99h2zf",
+        "point_name": "The Russell Boutique Hotel",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

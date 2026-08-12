@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.78468,
+          35.67083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13552,
+        "bangumi_title": "机动警察 NEW OVA",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13552/points/3be4np9-1754229614150.jpg",
+        "location": "",
+        "point_id": "3be4np9",
+        "point_name": "佃",
+        "remark": "第一小队与黑色labor交战地"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,805 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.75006,
+          35.69512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wasak2_1768788212351.jpg",
+        "location": "",
+        "point_id": "9wasak2",
+        "point_name": "九段下駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749373,
+          35.693119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wau5ty_1768788219978.jpg",
+        "location": "",
+        "point_id": "9wau5ty",
+        "point_name": "日本武道館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74895,
+          35.69484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/68031/9waux7h_1768788229742.jpg",
+        "location": "",
+        "point_id": "9waux7h",
+        "point_name": "高​燈籠​(常​燈明​台)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7404,
+          35.69549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wawazq_1768788237730.jpg",
+        "location": "",
+        "point_id": "9wawazq",
+        "point_name": "法政大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735931,
+          35.69125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/68031/9waxpna_1768788244786.jpg",
+        "location": "",
+        "point_id": "9waxpna",
+        "point_name": "麴町警察署 市ケ谷見付交番",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.18449,
+          34.82542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wdb0bu_1768788259171.jpg",
+        "location": "",
+        "point_id": "9wdb0bu",
+        "point_name": "蓬莱橋​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76546,
+          35.700014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wazocn_1768788275685.jpg",
+        "location": "",
+        "point_id": "9wazocn",
+        "point_name": "聖橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7364,
+          35.69187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wb1rt9_1768788285117.jpg",
+        "location": "",
+        "point_id": "9wb1rt9",
+        "point_name": "市ヶ谷駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74,
+          35.69488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wb3cnj_1768788296266.jpg",
+        "location": "",
+        "point_id": "9wb3cnj",
+        "point_name": "外濠公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74202,
+          35.69036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wb5fkt_1768788305763.jpg",
+        "location": "",
+        "point_id": "9wb5fkt",
+        "point_name": "㈱三響社 岡田ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.752236,
+          35.695842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wb724v_1768788313762.jpg",
+        "location": "",
+        "point_id": "9wb724v",
+        "point_name": "スターバックス​コーヒー​九段下​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.733641,
+          35.69172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wb85lp_1768788325202.jpg",
+        "location": "",
+        "point_id": "9wb85lp",
+        "point_name": "ホテルグランドヒル​市ヶ谷 市谷八幡町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75258,
+          35.69899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wba4bj_1768788336922.jpg",
+        "location": "",
+        "point_id": "9wba4bj",
+        "point_name": "新川橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7656,
+          35.69983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbcwhh_1768788345649.jpg",
+        "location": "",
+        "point_id": "9wbcwhh",
+        "point_name": "聖橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73556,
+          35.69112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbeala_1768788365997.jpg",
+        "location": "",
+        "point_id": "9wbeala",
+        "point_name": "ニュー​デイズ\n市ヶ谷",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73702,
+          35.69185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbfwrp_1768788375087.jpg",
+        "location": "",
+        "point_id": "9wbfwrp",
+        "point_name": "保育園ドルチェ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73943,
+          35.69416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbgtry_1768788384587.jpg",
+        "location": "",
+        "point_id": "9wbgtry",
+        "point_name": "外濠公園（九段北4丁目側）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.51695,
+          35.62437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbvnbg_1768788398675.jpg",
+        "location": "",
+        "point_id": "9wbvnbg",
+        "point_name": "よみうりランド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518451,
+          35.62487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wc4xoc_1768788410115.jpg",
+        "location": "",
+        "point_id": "9wc4xoc",
+        "point_name": "シーチキンGO！",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.51732,
+          35.62513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbxc4k_1768788418871.jpg",
+        "location": "",
+        "point_id": "9wbxc4k",
+        "point_name": "メリーゴーランドドッグ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74243,
+          35.69039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbku92_1768788431710.jpg",
+        "location": "",
+        "point_id": "9wbku92",
+        "point_name": "花泉歯科医院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.562167,
+          35.830968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wc7smc_1768788443441.jpg",
+        "location": "",
+        "point_id": "9wc7smc",
+        "point_name": "柳瀬川駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50727,
+          35.70216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcamf0_1768788455814.jpg",
+        "location": "",
+        "point_id": "9wcamf0",
+        "point_name": "みずほ​銀行\n小金井​支店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73951,
+          35.69166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbnzc5_1768788491283.jpg",
+        "location": "",
+        "point_id": "9wbnzc5",
+        "point_name": "弦楽器 Tonica",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73921,
+          35.69147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wbp563_1768788498616.jpg",
+        "location": "",
+        "point_id": "9wbp563",
+        "point_name": "新橋やきとん市ヶ谷店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580641,
+          35.70332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcd48u_1768788509404.jpg",
+        "location": "",
+        "point_id": "9wcd48u",
+        "point_name": "吉祥寺駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69873,
+          35.6892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcf045_1768788519426.jpg",
+        "location": "",
+        "point_id": "9wcf045",
+        "point_name": "三菱​UFJ​信託​銀行\n新宿​支店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08589,
+          35.00766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wd2afu_1768788534028.jpg",
+        "location": "",
+        "point_id": "9wd2afu",
+        "point_name": "宇佐美海水浴場駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.082911,
+          35.0023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wd4aod_1768788541393.jpg",
+        "location": "",
+        "point_id": "9wd4aod",
+        "point_name": "RAMEN VILLAGE CAFE",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.09126,
+          35.01335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wd6dj7_1768788549723.jpg",
+        "location": "",
+        "point_id": "9wd6dj7",
+        "point_name": "山哲釣具店付近　新​宇佐美​トンネル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.81388,
+          35.69752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcng10_1768788581691.jpg",
+        "location": "",
+        "point_id": "9wcng10",
+        "point_name": "錦糸町駅北口​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.18477,
+          34.82568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wd98jf_1768788633801.jpg",
+        "location": "",
+        "point_id": "9wd98jf",
+        "point_name": "蓬莱橋​やく​なし​茶屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.5063,
+          35.70043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wchg1g_1768788648093.jpg",
+        "location": "",
+        "point_id": "9wchg1g",
+        "point_name": "小金井​宮地​楽器​ホール",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50741,
+          35.70087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wciqoj_1768788665169.jpg",
+        "location": "",
+        "point_id": "9wciqoj",
+        "point_name": "ファミリー​マート\n武蔵小金井​駅​南口​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50839,
+          35.70099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wckesc_1768788703844.jpg",
+        "location": "",
+        "point_id": "9wckesc",
+        "point_name": "Cycle DAICHI No.34 武蔵小金井駅駐輪場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60007,
+          35.70418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcrku6_1768788714184.jpg",
+        "location": "",
+        "point_id": "9wcrku6",
+        "point_name": "カラオケ​館​西荻窪​駅前​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.72681,
+          35.63832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcztvf_1768788723404.jpg",
+        "location": "",
+        "point_id": "9wcztvf",
+        "point_name": "白金台駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60121,
+          35.70634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcugij_1768788737097.jpg",
+        "location": "",
+        "point_id": "9wcugij",
+        "point_name": "寿庵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60136,
+          35.70641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcvmom_1768788745096.jpg",
+        "location": "",
+        "point_id": "9wcvmom",
+        "point_name": "ローソン​ストア​100\n西荻​北​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.600754,
+          35.707721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 68031,
+        "bangumi_title": "青春纪行",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/68031/9wcwxa2_1768788750522.jpg",
+        "location": "",
+        "point_id": "9wcwxa2",
+        "point_name": "サステイン西荻　善福寺川",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

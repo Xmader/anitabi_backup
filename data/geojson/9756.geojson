@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          133.625718,
+          34.559823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9756,
+        "bangumi_title": "天地无用!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9756/points/823oum0c1-1680876942820.jpg",
+        "location": "",
+        "point_id": "823oum0c1",
+        "point_name": "太老神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.766129,
+          34.723208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9756,
+        "bangumi_title": "天地无用!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9756/points/8tqdcpb-1766222902567.jpg",
+        "location": "",
+        "point_id": "8tqdcpb",
+        "point_name": "鬼の差上げ岩",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

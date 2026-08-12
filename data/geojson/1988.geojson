@@ -1,0 +1,885 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.338924,
+          35.655792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "倾物语",
+        "point_id": "3a24454c",
+        "point_name": "1.八王子駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.338285,
+          35.657017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "倾物语",
+        "point_id": "e2b77a4b",
+        "point_name": "7.八王子北口駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903628,
+          35.160435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "倾物语",
+        "point_id": "f2c1638b",
+        "point_name": "2.赤門通信号機",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.748207,
+          34.668357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "倾物语",
+        "point_id": "ddfbd68c",
+        "point_name": "3.遠州灘海浜公園 中田島北地区",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.039474,
+          35.651778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "倾物语",
+        "point_id": "be095aa1",
+        "point_name": "4.NTT幕張ビル前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.403638,
+          33.602539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "倾物语",
+        "point_id": "2fbb07f7",
+        "point_name": "6.築港本町交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.558937,
+          35.702664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "5fe66a52",
+        "point_name": "三鷹通り トンネル歩道",
+        "remark": "猫物語（黒） 「つばさファミリー」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729199,
+          35.664998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "69eaa0ca",
+        "point_name": "六本木 階段",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646857,
+          35.447902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "4fb210b3",
+        "point_name": "横浜 山下公園",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644049,
+          35.447414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "70429c95",
+        "point_name": "横浜開港資料館 旧居留地90番地の大砲",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.669603,
+          35.606802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "39f2d24d",
+        "point_name": "東急東横線 自由が丘駅南口側 MAST",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.678607,
+          35.620195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "60505d8f",
+        "point_name": "柿の木坂 稲荷橋",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705262,
+          35.64979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "407511e2",
+        "point_name": "恵比寿西２丁目交差点",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.861962,
+          35.639979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1988/points/bd677704-1751879921187.jpg",
+        "location": "猫物语",
+        "point_id": "bd677704",
+        "point_name": "葛西臨海水族園",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780791,
+          35.657209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "3ba2267d",
+        "point_name": "晴海トリトンスクエア",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675455,
+          35.500885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "1ead04f8",
+        "point_name": "JR鶴見線 国道駅",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784428,
+          35.628785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "cb24777d",
+        "point_name": "お台場プロムナード",
+        "remark": "猫物語（黒）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.466606,
+          35.758772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "a058c5b7",
+        "point_name": "イトーヨーカドー東村山店",
+        "remark": "2ndシーズン #01「つばさタイガー其ノ壹」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769964,
+          34.743702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "b548da55",
+        "point_name": "国立国会図書館 関西館",
+        "remark": "2ndシーズン #04「つばさタイガー其ノ肆」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.555351,
+          35.702444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "6b9f5093",
+        "point_name": "三鷹跨線橋",
+        "remark": "2ndシーズン #05「つばさタイガー其ノ伍」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.558722,
+          35.702797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "3d653e6c",
+        "point_name": "三鷹 信号",
+        "remark": "2ndシーズン #05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55718,
+          35.702461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "6ea6442b",
+        "point_name": "三鷹 架線柱、高圧電流",
+        "remark": "2ndシーズン #05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.443931,
+          35.767578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "30f5d6f7",
+        "point_name": "西武園ゆうえんち 観覧車",
+        "remark": "2ndシーズン #08「まよいキョンシー其ノ貳」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703201,
+          35.664572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "4276c36c",
+        "point_name": "神宮前６丁目 中洲部",
+        "remark": "2ndシーズン #12「なでこメデューサ其ノ壹」，#15「なでこメドゥーサ其ノ肆」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703321,
+          35.664695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "a8c8f51c",
+        "point_name": "神宮前６丁目 中州北側",
+        "remark": "2ndシーズン #12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702893,
+          35.664196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "b9953c5c",
+        "point_name": "神宮前６丁目 中州南側",
+        "remark": "2ndシーズン #12、#15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694409,
+          35.692625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "fd100b53",
+        "point_name": "新宿警察署裏交差点",
+        "remark": "2ndシーズン #12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759097,
+          35.762848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "1d92fc0b",
+        "point_name": "江北橋（都道307号線）",
+        "remark": "2ndシーズン#13「なでこメドゥーサ其ノ貳」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6788,
+          35.620586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "6e430c01",
+        "point_name": "柿の木坂",
+        "remark": "2ndシーズン #17「しのぶタイム 其ノ壹」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713881,
+          35.71763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "3d2c8b6d",
+        "point_name": "のぞき坂",
+        "remark": "2ndシーズン#17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765427,
+          35.69974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1988/points/c6fef20e-1760044594945.jpg",
+        "location": "猫物语",
+        "point_id": "c6fef20e",
+        "point_name": "聖橋",
+        "remark": "2ndシーズン#17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579994,
+          35.704112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "5bd46272",
+        "point_name": "吉祥寺サンロード",
+        "remark": "2ndシーズン#22「ひたぎエンド其ノ貳」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606365,
+          35.743817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "00b2a945",
+        "point_name": "西武池袋線 石神井公園駅ホーム",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606127,
+          35.743337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "bafdb2a1",
+        "point_name": "西武池袋線 石神井公園駅南口",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560716,
+          35.70234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "27388553",
+        "point_name": "JR三鷹駅南口ペデストリアンデッキ 駅入口前",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560772,
+          35.702098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "cd06f424",
+        "point_name": "JR三鷹駅南口ペデストリアンデッキ バス乗り場案内板",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560867,
+          35.702165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "0f647bca",
+        "point_name": "JR三鷹駅南口ペデストリアンデッキ 公衆電話",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560821,
+          35.702086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "0170fff2",
+        "point_name": "JR三鷹駅南口ペデストリアンデッキ 階段",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.560957,
+          35.702322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "a4cee5a6",
+        "point_name": "JR三鷹駅南口ペデストリアンデッキ 南側道路方向カット",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7714,
+          35.693459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "b16eca41",
+        "point_name": "JR神田駅 中央線沿い",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771551,
+          35.693263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "188ac5ba",
+        "point_name": "JR神田駅 ガード下",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768416,
+          35.698334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "85cf36dc",
+        "point_name": "JR御茶ノ水駅 中央線ガード下飲食店",
+        "remark": "2ndシーズン#22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580693,
+          35.703198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "61ec1e19",
+        "point_name": "JR吉祥寺駅 中央北口",
+        "remark": "2ndシーズン#23「ひたぎエンド其ノ參」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.577555,
+          35.705302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1988,
+        "bangumi_title": "物语系列",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "猫物语",
+        "point_id": "d5c790e8",
+        "point_name": "スターバックスコーヒー吉祥寺東急店",
+        "remark": "2ndシーズン#23"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

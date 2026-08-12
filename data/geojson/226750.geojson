@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          143.201509,
+          42.918752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 226750,
+        "bangumi_title": "刀剑神域外传 Gun Gale Online",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/226750/51i53yu47_1753948783308.jpg",
+        "location": "帯広",
+        "point_id": "51i53yu47",
+        "point_name": "ＪＲ帯広駅北口",
+        "remark": "ＪＲイン帯広から撮影"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.205704,
+          42.916764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 226750,
+        "bangumi_title": "刀剑神域外传 Gun Gale Online",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/226750/51i53yttb_1753948791708.jpg",
+        "location": "帯広",
+        "point_id": "51i53yttb",
+        "point_name": "ペペサーレ帯広店",
+        "remark": "第２話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.202211,
+          42.919098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 226750,
+        "bangumi_title": "刀剑神域外传 Gun Gale Online",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/226750/51i53yu51_1672382887964.jpg",
+        "location": "帯広",
+        "point_id": "51i53yu51",
+        "point_name": "手話のオブジェ",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.202211,
+          42.920666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 226750,
+        "bangumi_title": "刀剑神域外传 Gun Gale Online",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/226750/51i53yui5_1672382889593.jpg",
+        "location": "帯広",
+        "point_id": "51i53yui5",
+        "point_name": "カラオケまねきねこ帯広駅前店",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

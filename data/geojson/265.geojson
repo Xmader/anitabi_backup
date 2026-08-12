@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.02014,
+          35.244137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265/points/2m71cf0nh-1720917941978.jpg",
+        "location": "箱根",
+        "point_id": "2m71cf0nh",
+        "point_name": "大涌谷",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.002473,
+          35.279381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265/2m71cf0bh_1750934277221.jpg",
+        "location": "箱根",
+        "point_id": "2m71cf0bh",
+        "point_name": "公時神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.104056,
+          35.233189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265/points/2m71cf11x-1725815885738.jpg",
+        "location": "箱根",
+        "point_id": "2m71cf11x",
+        "point_name": "箱根湯本駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.006702,
+          35.267841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/265/miylrhzih_1750932520419.jpg",
+        "location": "箱根",
+        "point_id": "miylrhzih",
+        "point_name": "仙石原中学校跡",
+        "remark": "第3新东京市立第壱中学校的原型。\n因为现在改成大学了，所以进入请先征得工作人员同意。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.485956,
+          31.239498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "上海站",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/265/points/17u3t7l-1749661017851.jpg",
+        "location": "遇见EVA",
+        "point_id": "17u3t7l",
+        "point_name": "外滩",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.319037,
+          23.075927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "广州站",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/265/points/tv6drh1fc-1742398667869.jpg",
+        "location": "遇见EVA",
+        "point_id": "tv6drh1fc",
+        "point_name": "海珠湖公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.455557,
+          39.913974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "北京站",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/265/points/17srosi-1749659497965.jpg",
+        "location": "遇见EVA",
+        "point_id": "17srosi",
+        "point_name": "东三环",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

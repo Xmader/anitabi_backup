@@ -1,0 +1,1005 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.171491,
+          39.760289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8530ev_1780154359809.jpg",
+        "location": "北松园",
+        "point_id": "f8530ev",
+        "point_name": "北松園2丁目",
+        "remark": "十字路口自东向西拍摄。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171466,
+          39.760295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f851e7f_1780154283339.jpg",
+        "location": "北松园",
+        "point_id": "f851e7f",
+        "point_name": "北松園2丁目",
+        "remark": "背景是十字路口西北角。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171392,
+          39.760286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84s67b_1780153921598.jpg",
+        "location": "北松园",
+        "point_id": "f84s67b",
+        "point_name": "北松園2丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171479,
+          39.760288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84vmmm_1780154015630.jpg",
+        "location": "北松园",
+        "point_id": "f84vmmm",
+        "point_name": "北松園2丁目",
+        "remark": "此页咲希蹲在十字路口西北角，奏音自北向南离开。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171474,
+          39.76013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84xwfk_1780154180296.jpg",
+        "location": "北松园",
+        "point_id": "f84xwfk",
+        "point_name": "北松園2丁目",
+        "remark": "背景中的栏杆是2丁目11−9的栏杆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.141509,
+          39.722983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84gag5_1780153320666.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f84gag5",
+        "point_name": "盛岡誠桜高等学校",
+        "remark": "本作主角就读的高中。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.139575,
+          39.721853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84k628_1780153504665.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f84k628",
+        "point_name": "盛岡誠桜高等学校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.139186,
+          39.722095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84lua5_1780153570000.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f84lua5",
+        "point_name": "盛岡高松郵便局",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.139167,
+          39.722042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84p6vk_1780153720885.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f84p6vk",
+        "point_name": "盛岡高松郵便局",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.139042,
+          39.722743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/338969/f84qeth_1780153774726.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f84qeth",
+        "point_name": "西郷歯科医院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.141555,
+          39.723003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8555rr_1780154457037.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f8555rr",
+        "point_name": "盛岡誠桜高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171033,
+          39.75881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/338969/f859x7j_1780154779558.jpg",
+        "location": "北松园",
+        "point_id": "f859x7j",
+        "point_name": "北松園2丁目",
+        "remark": "建筑为2丁目10−12，此处为奏音家附近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.154543,
+          39.749151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/338969/f96ke5q_1780217350461.jpg",
+        "location": "西松园",
+        "point_id": "f96ke5q",
+        "point_name": "松園バスターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.144578,
+          39.702997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/338969/f85f43b_1780154970863.jpg",
+        "location": "盛冈大通",
+        "point_id": "f85f43b",
+        "point_name": "MOSS",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.144896,
+          39.702489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8tk0kh_1780195480501.jpg",
+        "location": "盛冈大通",
+        "point_id": "f8tk0kh",
+        "point_name": "ジュンク堂書店 盛岡店",
+        "remark": "https://maps.app.goo.gl/6cXk99VEGCbNsr8i8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.144868,
+          39.702487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8tnjpu_1780195626713.jpg",
+        "location": "盛冈大通",
+        "point_id": "f8tnjpu",
+        "point_name": "ジュンク堂書店 盛岡店",
+        "remark": "墙上出现了ジュンク堂書店的猫头鹰logo。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.144743,
+          39.703472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8tqibm_1780195797376.jpg",
+        "location": "盛冈大通",
+        "point_id": "f8tqibm",
+        "point_name": "カラオケ JOYSOUND盛岡大通り店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.173758,
+          39.760067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8tw55d_1780196035253.jpg",
+        "location": "北松园",
+        "point_id": "f8tw55d",
+        "point_name": "松園東近隣公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.173821,
+          39.759972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8u0imb_1780196268737.jpg",
+        "location": "北松园",
+        "point_id": "f8u0imb",
+        "point_name": "松園東近隣公園",
+        "remark": "背后的石围墙和现实中形状一致，但是现实中似乎没有有靠背的长椅。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171031,
+          39.76027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8v5klk_1780198180554.jpg",
+        "location": "北松园",
+        "point_id": "f8v5klk",
+        "point_name": "北松園2丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171015,
+          39.760204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8vlmh9_1780198901949.jpg",
+        "location": "北松园",
+        "point_id": "f8vlmh9",
+        "point_name": "北松園2丁目",
+        "remark": "从路口南侧向北。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.171014,
+          39.760334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8vmt4s_1780198955169.jpg",
+        "location": "北松园",
+        "point_id": "f8vmt4s",
+        "point_name": "北松園2丁目",
+        "remark": "从路口北侧向南。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.1659,
+          39.75837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8vpm9w_1780199114951.jpg",
+        "location": "东松园",
+        "point_id": "f8vpm9w",
+        "point_name": "ファミリーマート 盛岡東松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.165844,
+          39.75854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8vqz7k_1780199149539.jpg",
+        "location": "东松园",
+        "point_id": "f8vqz7k",
+        "point_name": "ファミリーマート 盛岡東松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.14667,
+          39.701361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8vvjtj_1780199423429.jpg",
+        "location": "映画馆通周边",
+        "point_id": "f8vvjtj",
+        "point_name": "映画館通り",
+        "remark": "盛冈市区内有多家电影院的一条路。右侧建筑是岩手県盛岡市菜園2丁目2−23 石川ビル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.145626,
+          39.701422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8wkdmv_1780200881453.jpg",
+        "location": "映画馆通周边",
+        "point_id": "f8wkdmv",
+        "point_name": "菜園交番前",
+        "remark": "https://maps.app.goo.gl/SGM4VyCUe16jxH7JA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.146117,
+          39.701396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8wrojj_1780200867698.jpg",
+        "location": "映画馆通周边",
+        "point_id": "f8wrojj",
+        "point_name": "一風堂盛岡店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.146334,
+          39.701377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8wzmb0_1780201234290.jpg",
+        "location": "映画馆通周边",
+        "point_id": "f8wzmb0",
+        "point_name": "878ビル前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.146431,
+          39.701388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/338969/f8x4eqx_1780201479146.jpg",
+        "location": "映画馆通周边",
+        "point_id": "f8x4eqx",
+        "point_name": "石川ビル",
+        "remark": "背景为路口西南的石川ビル，上方广告牌现已拆除。\nhttps://maps.app.goo.gl/8D7kUGGT2doKFHMC9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.137044,
+          39.702241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93537l_1780211599645.jpg",
+        "location": "盛冈站",
+        "point_id": "f93537l",
+        "point_name": "盛岡​駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.97365,
+          35.700842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93oufz_1780212531631.jpg",
+        "location": "船桥市",
+        "point_id": "f93oufz",
+        "point_name": "海神町2丁目公園",
+        "remark": "本页复用了舞台设定为船桥市的《我和嫂嫂的同居生活》的背景素材。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.17103,
+          39.76021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93ehd3_1780212005024.jpg",
+        "location": "北松园",
+        "point_id": "f93ehd3",
+        "point_name": "北松園2丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172924,
+          39.760977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93cdgs_1780211925370.jpg",
+        "location": "北松园",
+        "point_id": "f93cdgs",
+        "point_name": "ユニバース サンタウン松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172263,
+          39.760649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93ezg1_1780212034918.jpg",
+        "location": "北松园",
+        "point_id": "f93ezg1",
+        "point_name": "ユニバース サンタウン松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172137,
+          39.760567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93i9j1_1780212190987.jpg",
+        "location": "北松园",
+        "point_id": "f93i9j1",
+        "point_name": "ユニバース サンタウン松園店 くつろぎコーナー",
+        "remark": "超市里的休息区。\nhttps://maps.app.goo.gl/crwzxfmADpvDnais5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.175234,
+          39.760568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93s94l_1780212655453.jpg",
+        "location": "北松园",
+        "point_id": "f93s94l",
+        "point_name": "盛岡市立北松園中学校",
+        "remark": "奏音、凛音、绫乃就读的初中。作中有提到奏音的初中为「北中」，咲希的初中为「南中」，此处北中对应北松园中学，南中应当对应松园中学。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.175007,
+          39.759812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/338969/f93v1sc_1780212779176.jpg",
+        "location": "北松园",
+        "point_id": "f93v1sc",
+        "point_name": "北松園​風の子​保育園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172827,
+          39.760323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/338969/f94nuuw_1780214115598.jpg",
+        "location": "北松园",
+        "point_id": "f94nuuw",
+        "point_name": "ユニバース サンタウン松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172657,
+          39.760266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/338969/f94pkit_1780214205594.jpg",
+        "location": "北松园",
+        "point_id": "f94pkit",
+        "point_name": "ユニバース サンタウン松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172651,
+          39.760335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/338969/f94rrmz_1780214298628.jpg",
+        "location": "北松园",
+        "point_id": "f94rrmz",
+        "point_name": "ユニバース サンタウン松園店",
+        "remark": "背景是盛岡市立北松園小学校的围墙和建筑。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.172692,
+          39.76031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/338969/f94t6yf_1780214368561.jpg",
+        "location": "北松园",
+        "point_id": "f94t6yf",
+        "point_name": "ユニバース サンタウン松園店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.141474,
+          39.72294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/338969/f94ybjy_1780214619269.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f94ybjy",
+        "point_name": "盛岡誠桜高等学校",
+        "remark": "左后方的建筑是学校旁边的教会。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.137077,
+          39.702077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/338969/f95a2of_1780215174460.jpg",
+        "location": "盛冈站",
+        "point_id": "f95a2of",
+        "point_name": "盛岡​駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.136593,
+          39.702536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/338969/f95bdzu_1780215964016.jpg",
+        "location": "盛冈站",
+        "point_id": "f95bdzu",
+        "point_name": "盛岡​駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.136682,
+          39.702096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/338969/f95l8z7_1780215680856.jpg",
+        "location": "盛冈站",
+        "point_id": "f95l8z7",
+        "point_name": "盛岡​駅前​バス​案内​所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.138051,
+          39.701979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/points/338969/f95optw_1780215846094.jpg",
+        "location": "盛冈站",
+        "point_id": "f95optw",
+        "point_name": "岩手​リオン​補聴器​センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.175038,
+          39.760485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/338969/f965eku_1780216626626.jpg",
+        "location": "北松园",
+        "point_id": "f965eku",
+        "point_name": "盛岡市立北松園中学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.176428,
+          39.760566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/338969/f966kcx_1780216677383.jpg",
+        "location": "北松园",
+        "point_id": "f966kcx",
+        "point_name": "盛岡市立北松園中学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.173747,
+          39.760095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/338969/f96c24l_1780216927190.jpg",
+        "location": "北松园",
+        "point_id": "f96c24l",
+        "point_name": "松園東近隣公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.141926,
+          39.723374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338969,
+        "bangumi_title": "雨夜之月",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/338969/f96d4f1_1780216993845.jpg",
+        "location": "盛冈诚樱高中",
+        "point_id": "f96d4f1",
+        "point_name": "盛岡誠桜高等学校 体育館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

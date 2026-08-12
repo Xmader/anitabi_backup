@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          131.158536,
+          32.853893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12544,
+        "bangumi_title": "萤火之森",
+        "ep_cut": "封面",
+        "image_url": "https://w.junreimap.com/images/points/12544/szboig5in_1739902489504.jpg",
+        "location": "",
+        "point_id": "szboig5in",
+        "point_name": "上色見熊野神社",
+        "remark": "宣传封面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.158461,
+          32.853913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12544,
+        "bangumi_title": "萤火之森",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/12544/szbonqcey_1739902497036.jpg",
+        "location": "",
+        "point_id": "szbonqcey",
+        "point_name": "上色見熊野神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.158526,
+          32.853935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12544,
+        "bangumi_title": "萤火之森",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/12544/szboqd44q_1739902506429.jpg",
+        "location": "",
+        "point_id": "szboqd44q",
+        "point_name": "上色見熊野神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.158591,
+          32.853927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12544,
+        "bangumi_title": "萤火之森",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/12544/szbow8k37_1739902513298.jpg",
+        "location": "",
+        "point_id": "szbow8k37",
+        "point_name": "上色見熊野神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.158479,
+          32.853955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12544,
+        "bangumi_title": "萤火之森",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/12544/szbp11ehz_1739902529725.jpg",
+        "location": "",
+        "point_id": "szbp11ehz",
+        "point_name": "上色見熊野神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

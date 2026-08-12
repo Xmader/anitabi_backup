@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.654743,
+          35.440345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52avmo",
+        "point_name": "港の見える丘公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649829,
+          35.439344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52aw3p",
+        "point_name": "代官坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651272,
+          35.438238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52avvr",
+        "point_name": "元町公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.643815,
+          35.452944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52awvb",
+        "point_name": "赤レンガ倉庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638446,
+          35.45526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52awio",
+        "point_name": "コスモワールド 撮影地点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649335,
+          35.437237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52awcl",
+        "point_name": "代官坂トンネル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633269,
+          35.441232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52awia",
+        "point_name": "伊勢佐木長者町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.652227,
+          35.442023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52awr6",
+        "point_name": "港の見える丘公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647061,
+          35.436542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 106292,
+        "bangumi_title": "伊斯卡",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "横浜",
+        "point_id": "51i52awnp",
+        "point_name": "カトリック山手教会",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

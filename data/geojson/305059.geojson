@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.74925,
+          35.693122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/ooo6inf30_1727783277029.jpg",
+        "location": "",
+        "point_id": "ooo6inf30",
+        "point_name": "日本武道館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.833438,
+          35.159189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/ox5pvrzur_1728448436749.jpg",
+        "location": "",
+        "point_id": "ox5pvrzur",
+        "point_name": "鋸山 地獄のぞき",
+        "remark": "舞台剧剧情，RAS五人元旦去千叶县锯山看日出"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.718531,
+          35.706728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/ooobr0e3x_1727783587386.jpg",
+        "location": "",
+        "point_id": "ooobr0e3x",
+        "point_name": "穴八幡宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.387259,
+          35.764162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/oooeg79so_1727783773748.jpg",
+        "location": "",
+        "point_id": "oooeg79so",
+        "point_name": "成田国际机场T1航站楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.806086,
+          13.492805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/oooj6brt3_1727784032809.jpg",
+        "location": "",
+        "point_id": "oooj6brt3",
+        "point_name": "Guam International Airport",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.735967,
+          13.416958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/oosv5hbyc_1727793538547.jpg",
+        "location": "",
+        "point_id": "oosv5hbyc",
+        "point_name": "Leo Palace",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.788157,
+          13.50459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/oosuav5sn_1727793426461.jpg",
+        "location": "",
+        "point_id": "oosuav5sn",
+        "point_name": "Ypao Beach",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.664618,
+          13.267764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/oosx49nw9_1727793654474.jpg",
+        "location": "",
+        "point_id": "oosx49nw9",
+        "point_name": "Merizo Pier Park",
+        "remark": "位于南部的关岛礁岩，是通往可可岛的门户"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.715332,
+          13.46001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 305059,
+        "bangumi_title": "剧场版 BanG Dream! Poppin'Dream！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/305059/ootanh8l0_1727794439597.jpg",
+        "location": "",
+        "point_id": "ootanh8l0",
+        "point_name": "Asan Bay Overlook",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

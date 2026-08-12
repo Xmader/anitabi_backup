@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.294468,
+          48.858212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4442,
+        "bangumi_title": "大铁人 地球静止之日",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4442/points/eupq4fz-1779342521321.jpg",
+        "location": "",
+        "point_id": "eupq4fz",
+        "point_name": "埃菲尔铁塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

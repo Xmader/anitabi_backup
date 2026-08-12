@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.313412,
+          35.310969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 510010,
+        "bangumi_title": "as:9-nine- ARTEISIA",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2183/bangumi/510010/points/gaawv76-1782462050267.webp",
+        "location": "",
+        "point_id": "gaawv76",
+        "point_name": "大磯駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

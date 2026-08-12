@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.73373,
+          35.881893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 422126,
+        "bangumi_title": "冬之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/422126/points/39wzy39-1754140417980.jpg",
+        "location": "",
+        "point_id": "39wzy39",
+        "point_name": "JFE条鋼（株）鹿島製造所",
+        "remark": "工厂不对外开放，除非有参观预约或拍摄预约。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

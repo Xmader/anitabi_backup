@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.273242,
+          35.526898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 140001,
+        "bangumi_title": "Re:从零开始的异世界生活",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/140001/6b5e6bbd_1725956935068.jpg",
+        "location": "",
+        "point_id": "6b5e6bbd",
+        "point_name": "ミニストップあすみが丘東店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

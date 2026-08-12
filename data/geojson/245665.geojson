@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.944192,
+          35.855534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 245665,
+        "bangumi_title": "鬼灭之刃",
+        "ep_cut": "鬼灭之刃第一集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/245665/points/aak48cn-1769416837197.jpg",
+        "location": "",
+        "point_id": "aak48cn",
+        "point_name": "雲取山",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          129.87491,
+          32.736497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t6bz03jsm-1740451765477.jpg",
+        "location": "",
+        "point_id": "t6bz03jsm",
+        "point_name": "宗教法人 カトリック・マリア会 海星修道院 海星志願院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.87015,
+          32.73422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t6c3ed47i-1740451960282.jpg",
+        "location": "",
+        "point_id": "t6c3ed47i",
+        "point_name": "大浦天主堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.871998,
+          32.752235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t7j06usrp-1740545425763.jpg",
+        "location": "",
+        "point_id": "t7j06usrp",
+        "point_name": "長崎駅前",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.880038,
+          32.74721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t7j65o30j-1740545754579.jpg",
+        "location": "",
+        "point_id": "t7j65o30j",
+        "point_name": "眼鏡橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.849533,
+          32.752539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t7j90eva1-1740545891374.jpg",
+        "location": "",
+        "point_id": "t7j90eva1",
+        "point_name": "稲佐山山頂展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.871561,
+          32.73997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t7jd6rq73-1740546162618.jpg",
+        "location": "",
+        "point_id": "t7jd6rq73",
+        "point_name": "Cafe lx 水辺の森店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.849446,
+          32.721075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 798,
+        "bangumi_title": "sola",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/798/points/t7jh7xvcs-1740546460118.jpg",
+        "location": "",
+        "point_id": "t7jh7xvcs",
+        "point_name": "長崎港の港口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

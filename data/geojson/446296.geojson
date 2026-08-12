@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          0.116433,
+          52.201226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 446296,
+        "bangumi_title": "拉撒路",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/446296/points/mlhho6-1748376888048.jpg",
+        "location": "",
+        "point_id": "mlhho6",
+        "point_name": "University Centre",
+        "remark": "该房间位于SU lounge四楼，窗外背景为Queen’ College"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.116433,
+          52.201226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 446296,
+        "bangumi_title": "拉撒路",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/446296/points/mlsfba-1748377219739.jpg",
+        "location": "",
+        "point_id": "mlsfba",
+        "point_name": "University Centre",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

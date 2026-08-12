@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.80663,
+          42.826911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 515103,
+        "bangumi_title": "羊蹄山之魂",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/515103/points/skrrmm8z9-1738762064963.jpg",
+        "location": "",
+        "point_id": "skrrmm8z9",
+        "point_name": "羊蹄山​(蝦夷​富士)",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

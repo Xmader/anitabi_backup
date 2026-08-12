@@ -1,0 +1,3085 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.518989,
+          35.33298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngc7.jpg",
+        "location": "",
+        "point_id": "3aa8ngc7",
+        "point_name": "湘南深沢駅ホーム",
+        "remark": "メインビジュアル,1話 "
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.495533,
+          35.317226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfy8.jpg",
+        "location": "",
+        "point_id": "3aa8nfy8",
+        "point_name": "片瀬山駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523792,
+          35.339862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng9s.jpg",
+        "location": "",
+        "point_id": "3aa8ng9s",
+        "point_name": "湘南モノレール 車内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521536,
+          35.335311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngcq.jpg",
+        "location": "",
+        "point_id": "3aa8ngcq",
+        "point_name": "湘南深沢駅北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520509,
+          35.336062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngau.jpg",
+        "location": "",
+        "point_id": "3aa8ngau",
+        "point_name": "陽斗の団地",
+        "remark": "1話,2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519256,
+          35.333179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nglk.jpg",
+        "location": "",
+        "point_id": "3aa8nglk",
+        "point_name": "湘南深沢駅に入線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.51867,
+          35.332697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngge.jpg",
+        "location": "",
+        "point_id": "3aa8ngge",
+        "point_name": "湘南深沢駅階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518434,
+          35.3325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfzy.jpg",
+        "location": "",
+        "point_id": "3aa8nfzy",
+        "point_name": "湘南深沢駅前",
+        "remark": "1話,4話,10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517867,
+          35.330252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngh1.jpg",
+        "location": "",
+        "point_id": "3aa8ngh1",
+        "point_name": "深沢交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523097,
+          35.327513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng6w.jpg",
+        "location": "",
+        "point_id": "3aa8ng6w",
+        "point_name": "梶原口 バス停前",
+        "remark": "1話,5話,11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517316,
+          35.331001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfzd.jpg",
+        "location": "",
+        "point_id": "3aa8nfzd",
+        "point_name": "深沢支所西交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515515,
+          35.329858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngmy.jpg",
+        "location": "",
+        "point_id": "3aa8ngmy",
+        "point_name": "菅原外科医院前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.504228,
+          35.331927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfwb.jpg",
+        "location": "",
+        "point_id": "3aa8nfwb",
+        "point_name": "深沢高校前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52023,
+          35.3303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng4j.jpg",
+        "location": "",
+        "point_id": "3aa8ng4j",
+        "point_name": "深沢小学校南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518523,
+          35.332445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng80.jpg",
+        "location": "",
+        "point_id": "3aa8ng80",
+        "point_name": "湘南深沢駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520771,
+          35.32958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfzl.jpg",
+        "location": "",
+        "point_id": "3aa8nfzl",
+        "point_name": "OP,ED,7話 深沢小学校前バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524974,
+          35.324651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6.5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngac.jpg",
+        "location": "",
+        "point_id": "3aa8ngac",
+        "point_name": "OP,7話,11話 瑛太の城マンション入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52093,
+          35.330026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngec.jpg",
+        "location": "",
+        "point_id": "3aa8ngec",
+        "point_name": "OP 深沢小学校南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472735,
+          35.364352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng4h.jpg",
+        "location": "",
+        "point_id": "3aa8ng4h",
+        "point_name": "善行駅入口交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486086,
+          35.34007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng3w.jpg",
+        "location": "",
+        "point_id": "3aa8ng3w",
+        "point_name": "藤沢銀座通り交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.5235,
+          35.329843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngci.jpg",
+        "location": "",
+        "point_id": "3aa8ngci",
+        "point_name": "美緒の家付近",
+        "remark": "2話,3話,7話,11話,12話\n\n从旁深泽中学南巡礼点旁的小路走上来，不要直接谷歌导航"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.484122,
+          35.308185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nggt.jpg",
+        "location": "",
+        "point_id": "3aa8nggt",
+        "point_name": "弁天橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483532,
+          35.308739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng5n.jpg",
+        "location": "",
+        "point_id": "3aa8ng5n",
+        "point_name": "片瀬江ノ島駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480099,
+          35.309426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfzw.jpg",
+        "location": "",
+        "point_id": "3aa8nfzw",
+        "point_name": "新江ノ島水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487177,
+          35.364085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngh2.jpg",
+        "location": "",
+        "point_id": "3aa8ngh2",
+        "point_name": "ED 境川河原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521456,
+          35.329258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfxl.jpg",
+        "location": "",
+        "point_id": "3aa8nfxl",
+        "point_name": "ED 7-Eleven鎌倉常盤店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521657,
+          35.32957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng1r.jpg",
+        "location": "",
+        "point_id": "3aa8ng1r",
+        "point_name": "ED 上耕地橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.494706,
+          35.306878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng6a.jpg",
+        "location": "",
+        "point_id": "3aa8ng6a",
+        "point_name": "小動交差点(Cut001)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549139,
+          35.305788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfwq.jpg",
+        "location": "",
+        "point_id": "3aa8nfwq",
+        "point_name": "材木座海岸(Cut002)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48813,
+          35.31168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngb9.jpg",
+        "location": "",
+        "point_id": "3aa8ngb9",
+        "point_name": "湘南江の島駅脇(Cut003)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488681,
+          35.338472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng06.jpg",
+        "location": "",
+        "point_id": "3aa8ng06",
+        "point_name": "藤沢ダイヤモンド(Cut007)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524454,
+          35.327154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngkf.jpg",
+        "location": "",
+        "point_id": "3aa8ngkf",
+        "point_name": "グルメシティ鎌倉店(Cut008~)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519745,
+          35.336803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngj3.jpg",
+        "location": "",
+        "point_id": "3aa8ngj3",
+        "point_name": "陽斗の団地(Cut031)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52421,
+          35.326992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nggo.jpg",
+        "location": "",
+        "point_id": "3aa8nggo",
+        "point_name": "グルメシティ鎌倉店(Cut057~)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521315,
+          35.329433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng45.jpg",
+        "location": "",
+        "point_id": "3aa8ng45",
+        "point_name": "7-Eleven鎌倉常盤店 (Cut068)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.485517,
+          35.36274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngal.jpg",
+        "location": "",
+        "point_id": "3aa8ngal",
+        "point_name": "葉月宅前(Cut071)",
+        "remark": "3話，8話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521622,
+          35.338724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nged.jpg",
+        "location": "",
+        "point_id": "3aa8nged",
+        "point_name": "湘南町屋付近(Cut120)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519439,
+          35.336834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngf5.jpg",
+        "location": "",
+        "point_id": "3aa8ngf5",
+        "point_name": "陽斗の団地西(Cut122~)",
+        "remark": "3話,12話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519306,
+          35.335406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfyz.jpg",
+        "location": "",
+        "point_id": "3aa8nfyz",
+        "point_name": "泣塔前(Cut136)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520401,
+          35.334317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfx8.jpg",
+        "location": "",
+        "point_id": "3aa8nfx8",
+        "point_name": "富士塚小学校入口交差点(Cut138~)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486871,
+          35.363748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng3g.jpg",
+        "location": "",
+        "point_id": "3aa8ng3g",
+        "point_name": "境川河原(Cut146…)",
+        "remark": "Cut146，171，189，191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517085,
+          35.331066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng3z.jpg",
+        "location": "",
+        "point_id": "3aa8ng3z",
+        "point_name": "湘南ボウル脇(Cut149)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523092,
+          35.346865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfxx.jpg",
+        "location": "",
+        "point_id": "3aa8nfxx",
+        "point_name": "山崎跨線橋(Cut159)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.51945,
+          35.350409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng0u.jpg",
+        "location": "",
+        "point_id": "3aa8ng0u",
+        "point_name": "県道402号龍寶寺トンネル(Cut164)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487642,
+          35.339232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngf6.jpg",
+        "location": "",
+        "point_id": "3aa8ngf6",
+        "point_name": "藤沢駅北口(Cut166,174~183)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.507192,
+          35.349747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngb7.jpg",
+        "location": "",
+        "point_id": "3aa8ngb7",
+        "point_name": "さくら歯科医院付近(Cut173)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500026,
+          35.349007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngn8.jpg",
+        "location": "",
+        "point_id": "3aa8ngn8",
+        "point_name": "藤ヶ岡中学校入口(Cut184)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.496324,
+          35.349135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng9n.jpg",
+        "location": "",
+        "point_id": "3aa8ng9n",
+        "point_name": "7-Eleven藤沢藤が岡店(Cut192)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483748,
+          35.341476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngjo.jpg",
+        "location": "",
+        "point_id": "3aa8ngjo",
+        "point_name": "Denny's藤沢北口店(Cut201~)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489923,
+          35.346465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng65.jpg",
+        "location": "",
+        "point_id": "3aa8ng65",
+        "point_name": "山王神社付近(Cut225)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486389,
+          35.361777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngmu.jpg",
+        "location": "",
+        "point_id": "3aa8ngmu",
+        "point_name": "未登場？ 立石橋 (Cut227)",
+        "remark": "本編には未登場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487004,
+          35.345756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngga.jpg",
+        "location": "",
+        "point_id": "3aa8ngga",
+        "point_name": "藤沢橋(Cut229)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486346,
+          35.362393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng60.jpg",
+        "location": "",
+        "point_id": "3aa8ng60",
+        "point_name": "境川河原(Cut233~260)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524321,
+          35.327045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng7t.jpg",
+        "location": "",
+        "point_id": "3aa8ng7t",
+        "point_name": "グルメシティ鎌倉店(Cut261~)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.530855,
+          35.334357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212278/points/3aa8ngbj-1760602672975.jpg",
+        "location": "",
+        "point_id": "3aa8ngbj",
+        "point_name": "鎌倉中央公園",
+        "remark": "疎林広場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523666,
+          35.332048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngbn.jpg",
+        "location": "",
+        "point_id": "3aa8ngbn",
+        "point_name": "深沢中学上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521531,
+          35.329335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngi2.jpg",
+        "location": "",
+        "point_id": "3aa8ngi2",
+        "point_name": "7-Eleven鎌倉常盤店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.47875,
+          35.350569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng3m.jpg",
+        "location": "",
+        "point_id": "3aa8ng3m",
+        "point_name": "白旗神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479209,
+          35.350186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng3p.jpg",
+        "location": "",
+        "point_id": "3aa8ng3p",
+        "point_name": "白旗神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480222,
+          35.350856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng1p.jpg",
+        "location": "",
+        "point_id": "3aa8ng1p",
+        "point_name": "御殿辺公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524356,
+          35.327179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nghh.jpg",
+        "location": "",
+        "point_id": "3aa8nghh",
+        "point_name": "グルメシティ鎌倉店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488212,
+          35.348322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngba.jpg",
+        "location": "",
+        "point_id": "3aa8ngba",
+        "point_name": "遊行寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.540989,
+          35.329752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng11.jpg",
+        "location": "",
+        "point_id": "3aa8ng11",
+        "point_name": "葛原岡神社付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.541349,
+          35.328741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfxp.jpg",
+        "location": "",
+        "point_id": "3aa8nfxp",
+        "point_name": "葛原岡神社付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.542724,
+          35.328935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngcs.jpg",
+        "location": "",
+        "point_id": "3aa8ngcs",
+        "point_name": "葛原岡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.543046,
+          35.32874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng4e.jpg",
+        "location": "",
+        "point_id": "3aa8ng4e",
+        "point_name": "葛原岡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.540675,
+          35.328871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng00.jpg",
+        "location": "",
+        "point_id": "3aa8ng00",
+        "point_name": "帰り道の階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.474418,
+          35.351941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng14.jpg",
+        "location": "",
+        "point_id": "3aa8ng14",
+        "point_name": "三共自動車学校付近",
+        "remark": "陽斗告白スポット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500519,
+          35.332916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng30.jpg",
+        "location": "",
+        "point_id": "3aa8ng30",
+        "point_name": "川名交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.493568,
+          35.334972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngim.jpg",
+        "location": "",
+        "point_id": "3aa8ngim",
+        "point_name": "新川名橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487665,
+          35.338542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngan.jpg",
+        "location": "",
+        "point_id": "3aa8ngan",
+        "point_name": "小田急藤沢駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486985,
+          35.337706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfyc.jpg",
+        "location": "",
+        "point_id": "3aa8nfyc",
+        "point_name": "Tully's Coffee藤沢オーパ店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487079,
+          35.337868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng10.jpg",
+        "location": "",
+        "point_id": "3aa8ng10",
+        "point_name": "湘南藤沢オーパ前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.453069,
+          35.387034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng7w.jpg",
+        "location": "",
+        "point_id": "3aa8ng7w",
+        "point_name": "桐原公園野球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488542,
+          35.338334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngch.jpg",
+        "location": "",
+        "point_id": "3aa8ngch",
+        "point_name": "古久家 藤沢店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487642,
+          35.338266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngii.jpg",
+        "location": "",
+        "point_id": "3aa8ngii",
+        "point_name": "藤沢駅南口バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520771,
+          35.334948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfvp.jpg",
+        "location": "",
+        "point_id": "3aa8nfvp",
+        "point_name": "陽斗の団地付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52093,
+          35.335298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngjr.jpg",
+        "location": "",
+        "point_id": "3aa8ngjr",
+        "point_name": "陽斗の団地付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521083,
+          35.335564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngdf.jpg",
+        "location": "",
+        "point_id": "3aa8ngdf",
+        "point_name": "陽斗の団地付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.493191,
+          35.335142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfxd.jpg",
+        "location": "",
+        "point_id": "3aa8nfxd",
+        "point_name": "新川名橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483787,
+          35.341447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngju.jpg",
+        "location": "",
+        "point_id": "3aa8ngju",
+        "point_name": "Denny's藤沢北口店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487456,
+          35.339124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfz6.jpg",
+        "location": "",
+        "point_id": "3aa8nfz6",
+        "point_name": "藤沢駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486837,
+          35.36293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ng1v.jpg",
+        "location": "",
+        "point_id": "3aa8ng1v",
+        "point_name": "境川河原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48733,
+          35.363864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nfxv.jpg",
+        "location": "",
+        "point_id": "3aa8nfxv",
+        "point_name": "境川河原 水管橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.525775,
+          35.323657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngh7.jpg",
+        "location": "",
+        "point_id": "3aa8ngh7",
+        "point_name": "瑛太の城マンション前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517774,
+          35.331206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngg6.jpg",
+        "location": "",
+        "point_id": "3aa8ngg6",
+        "point_name": "深沢郵便局",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486267,
+          35.361957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhcu.jpg",
+        "location": "",
+        "point_id": "3aa8nhcu",
+        "point_name": "立石橋北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524508,
+          35.327105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngwc.jpg",
+        "location": "",
+        "point_id": "3aa8ngwc",
+        "point_name": "グルメシティ鎌倉店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52385,
+          35.328806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh3e.jpg",
+        "location": "",
+        "point_id": "3aa8nh3e",
+        "point_name": "梶原こぶし公園前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.522659,
+          35.329446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngo3.jpg",
+        "location": "",
+        "point_id": "3aa8ngo3",
+        "point_name": "美緒家付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.522232,
+          35.329597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngq3.jpg",
+        "location": "",
+        "point_id": "3aa8ngq3",
+        "point_name": "美緒家付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521475,
+          35.329742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngxr.jpg",
+        "location": "",
+        "point_id": "3aa8ngxr",
+        "point_name": "上耕地橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520865,
+          35.329905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhba.jpg",
+        "location": "",
+        "point_id": "3aa8nhba",
+        "point_name": "深沢小学校南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520754,
+          35.329682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngnx.jpg",
+        "location": "",
+        "point_id": "3aa8ngnx",
+        "point_name": "深沢小学校前バス停付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520452,
+          35.329766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh5e.jpg",
+        "location": "",
+        "point_id": "3aa8nh5e",
+        "point_name": "深沢小学校前バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487418,
+          35.338914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhco.jpg",
+        "location": "",
+        "point_id": "3aa8nhco",
+        "point_name": "JR藤沢駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487865,
+          35.33918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh41.jpg",
+        "location": "",
+        "point_id": "3aa8nh41",
+        "point_name": "藤沢駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50843,
+          35.331214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh2f.jpg",
+        "location": "",
+        "point_id": "3aa8nh2f",
+        "point_name": "手広バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.503328,
+          35.332161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhbv.jpg",
+        "location": "",
+        "point_id": "3aa8nhbv",
+        "point_name": "ラーメンガキ大将前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.528305,
+          35.349681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh9i.jpg",
+        "location": "",
+        "point_id": "3aa8nh9i",
+        "point_name": "東海道線鎌倉踏切",
+        "remark": "E233-3000"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621414,
+          35.483607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngs1.jpg",
+        "location": "",
+        "point_id": "3aa8ngs1",
+        "point_name": "神奈川大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633205,
+          35.478469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhcg.jpg",
+        "location": "",
+        "point_id": "3aa8nhcg",
+        "point_name": "東神奈川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.494448,
+          35.323995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngu4.jpg",
+        "location": "",
+        "point_id": "3aa8ngu4",
+        "point_name": "藤沢片瀬山郵便局",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487336,
+          35.337282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh4f.jpg",
+        "location": "",
+        "point_id": "3aa8nh4f",
+        "point_name": "江ノ電珈琲屋さん【閉店】",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487689,
+          35.338373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh85.jpg",
+        "location": "",
+        "point_id": "3aa8nh85",
+        "point_name": "藤沢駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.473257,
+          35.362772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngoz.jpg",
+        "location": "",
+        "point_id": "3aa8ngoz",
+        "point_name": "善行駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487504,
+          35.338014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngt3.jpg",
+        "location": "",
+        "point_id": "3aa8ngt3",
+        "point_name": "藤沢駅南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.517115,
+          35.330447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngoe.jpg",
+        "location": "",
+        "point_id": "3aa8ngoe",
+        "point_name": "深沢バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518156,
+          35.331953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh8y.jpg",
+        "location": "",
+        "point_id": "3aa8nh8y",
+        "point_name": "深沢小入口交差点付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518617,
+          35.332442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngqn.jpg",
+        "location": "",
+        "point_id": "3aa8ngqn",
+        "point_name": "湘南深沢駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.518841,
+          35.332842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngsm.jpg",
+        "location": "",
+        "point_id": "3aa8ngsm",
+        "point_name": "湘南深沢駅ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.496098,
+          35.317267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhbd.jpg",
+        "location": "",
+        "point_id": "3aa8nhbd",
+        "point_name": "片瀬山駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.49477,
+          35.317284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh55.jpg",
+        "location": "",
+        "point_id": "3aa8nh55",
+        "point_name": "片瀬山駅付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.49167,
+          35.314124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngsa.jpg",
+        "location": "",
+        "point_id": "3aa8ngsa",
+        "point_name": "目白山下駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482541,
+          35.305256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh5d.jpg",
+        "location": "",
+        "point_id": "3aa8nh5d",
+        "point_name": "江ノ島",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480594,
+          35.299472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhf3.jpg",
+        "location": "",
+        "point_id": "3aa8nhf3",
+        "point_name": "江島神社 中津宮前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480666,
+          35.299214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhec.jpg",
+        "location": "",
+        "point_id": "3aa8nhec",
+        "point_name": "江ノ島エスカ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.479915,
+          35.29917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh8o.jpg",
+        "location": "",
+        "point_id": "3aa8nh8o",
+        "point_name": "江の島サムエル・コッキング苑入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.475203,
+          35.313276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh35.jpg",
+        "location": "",
+        "point_id": "3aa8nh35",
+        "point_name": "湘南海岸公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.49979,
+          35.332798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhah.jpg",
+        "location": "",
+        "point_id": "3aa8nhah",
+        "point_name": "川名交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.486827,
+          35.336659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngvw.jpg",
+        "location": "",
+        "point_id": "3aa8ngvw",
+        "point_name": "江ノ電藤沢駅下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524727,
+          35.32535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngpt.jpg",
+        "location": "",
+        "point_id": "3aa8ngpt",
+        "point_name": "星乃珈琲鎌倉常磐店裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.5223,
+          35.322849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh6n.jpg",
+        "location": "",
+        "point_id": "3aa8nh6n",
+        "point_name": "瑛太の城マンションの遠景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519042,
+          35.31577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngpb.jpg",
+        "location": "",
+        "point_id": "3aa8ngpb",
+        "point_name": "鎌倉山夜景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.452849,
+          35.387776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh9e.jpg",
+        "location": "",
+        "point_id": "3aa8nh9e",
+        "point_name": "桐原公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.453125,
+          35.386884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngta.jpg",
+        "location": "",
+        "point_id": "3aa8ngta",
+        "point_name": "桐原公園野球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472841,
+          35.36282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngtb.jpg",
+        "location": "",
+        "point_id": "3aa8ngtb",
+        "point_name": "善行駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.569461,
+          35.321394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhe7.jpg",
+        "location": "",
+        "point_id": "3aa8nhe7",
+        "point_name": "報国寺入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514783,
+          35.318408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh87.jpg",
+        "location": "",
+        "point_id": "3aa8nh87",
+        "point_name": "見晴バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52091,
+          35.335864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngrf.jpg",
+        "location": "",
+        "point_id": "3aa8ngrf",
+        "point_name": "上町屋公園付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520598,
+          35.334895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngt2.jpg",
+        "location": "",
+        "point_id": "3aa8ngt2",
+        "point_name": "陽斗の団地付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520433,
+          35.335825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhdf.jpg",
+        "location": "",
+        "point_id": "3aa8nhdf",
+        "point_name": "上町屋公園上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521143,
+          35.329428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhcm.jpg",
+        "location": "",
+        "point_id": "3aa8nhcm",
+        "point_name": "7-Eleven鎌倉常盤店付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52441,
+          35.329814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngzi.jpg",
+        "location": "",
+        "point_id": "3aa8ngzi",
+        "point_name": "美緒家前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524823,
+          35.330155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh7z.jpg",
+        "location": "",
+        "point_id": "3aa8nh7z",
+        "point_name": "美緒家付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524791,
+          35.330996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh1d.jpg",
+        "location": "",
+        "point_id": "3aa8nh1d",
+        "point_name": "深沢中学東側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524721,
+          35.331298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh81.jpg",
+        "location": "",
+        "point_id": "3aa8nh81",
+        "point_name": "深沢中学東側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531108,
+          35.353417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhdw.jpg",
+        "location": "",
+        "point_id": "3aa8nhdw",
+        "point_name": "大船駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.476431,
+          35.347845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhdx.jpg",
+        "location": "",
+        "point_id": "3aa8nhdx",
+        "point_name": "藤沢本町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531276,
+          35.357285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngxi.jpg",
+        "location": "",
+        "point_id": "3aa8ngxi",
+        "point_name": "笠間跨線橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.731178,
+          35.683768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngpm.jpg",
+        "location": "",
+        "point_id": "3aa8ngpm",
+        "point_name": "上智大学校門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.512944,
+          35.33686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngp3.jpg",
+        "location": "",
+        "point_id": "3aa8ngp3",
+        "point_name": "県道304号",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523699,
+          35.337496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh06.jpg",
+        "location": "",
+        "point_id": "3aa8nh06",
+        "point_name": "湘南町屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.520933,
+          35.335639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh79.jpg",
+        "location": "",
+        "point_id": "3aa8nh79",
+        "point_name": "陽斗の団地付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.516473,
+          35.329899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhc8.jpg",
+        "location": "",
+        "point_id": "3aa8nhc8",
+        "point_name": "菅原外科医院裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515763,
+          35.329837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nhd6.jpg",
+        "location": "",
+        "point_id": "3aa8nhd6",
+        "point_name": "菅原外科医院前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.516804,
+          35.330155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh4e.jpg",
+        "location": "",
+        "point_id": "3aa8nh4e",
+        "point_name": "湘南モノレール車内？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521337,
+          35.329829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngnw.jpg",
+        "location": "",
+        "point_id": "3aa8ngnw",
+        "point_name": "深沢小学校南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.522416,
+          35.330153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8ngrj.jpg",
+        "location": "",
+        "point_id": "3aa8ngrj",
+        "point_name": "深沢中学南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.523018,
+          35.329993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/212278/3aa8nh5y.jpg",
+        "location": "",
+        "point_id": "3aa8nh5y",
+        "point_name": "深沢中学南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.504258,
+          35.331553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212278/points/hpx9o3yvi-1708133671706.jpg",
+        "location": "",
+        "point_id": "hpx9o3yvi",
+        "point_name": "深沢高中前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.470831,
+          35.383578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2198/bangumi/212278/points/5gldkxf-1758897680892.jpg",
+        "location": "",
+        "point_id": "5gldkxf",
+        "point_name": "六会日大前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.521563,
+          35.329313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212278/points/68skvfa-1760602825748.jpg",
+        "location": "",
+        "point_id": "68skvfa",
+        "point_name": "7-Eleven鎌倉常盤店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.475255,
+          35.313301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212278,
+        "bangumi_title": "Just Because!",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212278/points/696b7xs-1760625865106.jpg",
+        "location": "",
+        "point_id": "696b7xs",
+        "point_name": "湘南海岸公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

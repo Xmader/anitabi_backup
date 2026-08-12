@@ -1,0 +1,245 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.539099,
+          35.741484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/46826/8b7d2122_1728722095083.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "8b7d2122",
+        "point_name": "西東京いこいの森公園",
+        "remark": "03話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.540145,
+          35.727584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/46826/e21e4f64_1728722163729.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "e21e4f64",
+        "point_name": "田無駅北口バス停",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.539738,
+          35.727989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/46826/965dcf26_1728722224125.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "965dcf26",
+        "point_name": "田無駅北口ロータリー",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.538936,
+          35.72761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/46826/b31c8777_1728722299705.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "b31c8777",
+        "point_name": "田無駅北口SMBC前",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.538815,
+          35.728235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/46826/707cba80_1728722343276.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "707cba80",
+        "point_name": "武蔵野茶房田無本店",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.537093,
+          35.727164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/46826/1e034799_1728722385832.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "1e034799",
+        "point_name": "田無駅北口西側線路沿い",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.539241,
+          35.727031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/46826/46362f39_1728722414431.jpg",
+        "location": "田無駅・西東京いこいの森公園編",
+        "point_id": "46362f39",
+        "point_name": "田無駅南口",
+        "remark": "05話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620464,
+          35.70477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "荻窪・渋谷編",
+        "point_id": "1a6a5c7f",
+        "point_name": "荻窪駅北口",
+        "remark": "03話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.62004,
+          35.704807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "荻窪・渋谷編",
+        "point_id": "9d584f72",
+        "point_name": "荻窪駅北口",
+        "remark": "03話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.619638,
+          35.704374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "荻窪・渋谷編",
+        "point_id": "f5e2dcf3",
+        "point_name": "ルミネ荻窪屋上",
+        "remark": "04話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.619169,
+          35.70462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "荻窪・渋谷編",
+        "point_id": "8402be9d",
+        "point_name": "JR荻窪駅西側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700737,
+          35.659236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 46826,
+        "bangumi_title": "幻想玩偶",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "荻窪・渋谷編",
+        "point_id": "c9b67f16",
+        "point_name": "渋谷",
+        "remark": "04話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

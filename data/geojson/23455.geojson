@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -73.950133,
+          40.755626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 23455,
+        "bangumi_title": "疑犯追踪 第一季",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/23455/points/vc8h8nnot-1746556745898.jpg",
+        "location": "",
+        "point_id": "vc8h8nnot",
+        "point_name": "Queensbridge Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

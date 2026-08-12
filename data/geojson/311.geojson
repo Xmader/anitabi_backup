@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.843606,
+          25.108622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/311/points/51i532a1i-1725038829874.jpg",
+        "location": "",
+        "point_id": "51i532a1i",
+        "point_name": "九份 阿妹茶酒館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.773778,
+          36.68634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i532b6m",
+        "point_name": "積善館本館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.786424,
+          33.852055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i532avl",
+        "point_name": "道後温泉本館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515038,
+          35.716726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i532as3",
+        "point_name": "江戸東京たてもの園 子宝湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.531497,
+          38.569295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i532al7",
+        "point_name": "銀山温泉 能登屋旅館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713536,
+          35.632004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i532ao1",
+        "point_name": "目黒雅叙園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.340281,
+          -33.635756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/311/points/51i532bn0-1724649321266.jpg",
+        "location": "",
+        "point_id": "51i532bn0",
+        "point_name": "Busselton Jetty バッセルトン桟橋 ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.661215,
+          35.031602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 311,
+        "bangumi_title": "千与千寻",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/311/points/6o8o3ac-1761536843536.jpg",
+        "location": "",
+        "point_id": "6o8o3ac",
+        "point_name": "愛宕念仏寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

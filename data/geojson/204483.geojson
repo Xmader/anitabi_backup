@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.241086,
+          35.286056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pafj3r_1755069928448.jpg",
+        "location": "",
+        "point_id": "3pafj3r",
+        "point_name": "県立​大多喜​高等​学校",
+        "remark": "右侧为大多喜​城​"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.243642,
+          35.285461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pakd65_1755070293444.jpg",
+        "location": "",
+        "point_id": "3pakd65",
+        "point_name": "いすみ鉄道大多喜駅付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.244066,
+          35.286796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pap5l9_1755070336310.jpg",
+        "location": "",
+        "point_id": "3pap5l9",
+        "point_name": "大多喜駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.244022,
+          35.286163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pb823n_1755071233911.jpg",
+        "location": "",
+        "point_id": "3pb823n",
+        "point_name": "大手門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.2493,
+          35.285617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pbni8s_1755071958595.jpg",
+        "location": "",
+        "point_id": "3pbni8s",
+        "point_name": "赤い橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.247256,
+          35.285742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pbbmj1_1755071439477.jpg",
+        "location": "",
+        "point_id": "3pbbmj1",
+        "point_name": "毎日​新聞​大多喜​(販)​小安​新聞​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.123304,
+          35.605055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 204483,
+        "bangumi_title": "动作女主 水果应援团",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/204483/3pbrzge_1755072184667.jpg",
+        "location": "",
+        "point_id": "3pbrzge",
+        "point_name": "千葉県庁",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.809903,
+          35.709929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/257720/hvxr34o_1785946871861.webp",
+        "location": "墨田水族馆",
+        "point_id": "hvxr34o",
+        "point_name": "すみだ水族館 6F サンゴ礁",
+        "remark": "https://www.sumida-aquarium.com/about/floor/coral-reefs/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.809873,
+          35.709974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/257720/hvxvzyi_1785947079405.webp",
+        "location": "墨田水族馆",
+        "point_id": "hvxvzyi",
+        "point_name": "すみだ水族館 5F アクアスコープ",
+        "remark": "https://www.sumida-aquarium.com/about/floor/ogasawara/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.78457,
+          26.133542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 42,
+        "image_url": "https://w.junreimap.com/images/points/257720/hvxfc22_1785946299089.webp",
+        "location": "冲绳",
+        "point_id": "hvxfc22",
+        "point_name": "浜辺の茶屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.938356,
+          35.248291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 47,
+        "image_url": "https://w.junreimap.com/images/points/257720/hvydmjh_1785947893483.webp",
+        "location": "母亲牧场",
+        "point_id": "hvydmjh",
+        "point_name": "マザー牧場 うしの牧場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.93882,
+          35.247006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 47,
+        "image_url": "https://w.junreimap.com/images/points/257720/hvyfhfu_1785947962020.webp",
+        "location": "母亲牧场",
+        "point_id": "hvyfhfu",
+        "point_name": "マザー牧場 こぶたスタジアム",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

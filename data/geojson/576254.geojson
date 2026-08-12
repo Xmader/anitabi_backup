@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.35389,
+          43.060756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576254,
+        "bangumi_title": "札幌少女饭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/576254/3b60a4b2_1754386321714.jpg",
+        "location": "",
+        "point_id": "3b60a4b2",
+        "point_name": "大通公園２丁目（さっぽろテレビ塔）",
+        "remark": "１軒目"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.354018,
+          43.056127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576254,
+        "bangumi_title": "札幌少女饭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/576254/ef12d870_1754386338258.jpg",
+        "location": "",
+        "point_id": "ef12d870",
+        "point_name": "醸造'S BAR the WINE CLUB",
+        "remark": "ニュー北星ビル9Ｆ、１軒目"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.322196,
+          43.022314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576254,
+        "bangumi_title": "札幌少女饭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/576254/18847a36_1754386354017.jpg",
+        "location": "",
+        "point_id": "18847a36",
+        "point_name": "もいわ山ロープウェイ",
+        "remark": "１軒目"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.35095,
+          43.056111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576254,
+        "bangumi_title": "札幌少女饭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/576254/31e11177_1754386713785.jpg",
+        "location": "",
+        "point_id": "31e11177",
+        "point_name": "ノルベサ・Ｍａｓｈブロード店",
+        "remark": "１軒目"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.354303,
+          43.05479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576254,
+        "bangumi_title": "札幌少女饭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/576254/cfee02ea_1754386637735.jpg",
+        "location": "",
+        "point_id": "cfee02ea",
+        "point_name": "弟子屈ラーメン ラーメン横丁店",
+        "remark": "１軒目"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.35161,
+          43.056585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 576254,
+        "bangumi_title": "札幌少女饭",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/576254/f4435af2_1754386704330.jpg",
+        "location": "",
+        "point_id": "f4435af2",
+        "point_name": "ノルベサ外観",
+        "remark": "1軒目"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

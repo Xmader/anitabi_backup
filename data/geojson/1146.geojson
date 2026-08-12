@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.866057,
+          36.651277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1146,
+        "bangumi_title": "东方红魔乡 ～ the Embodiment of Scarlet Devil.",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1146/points/m0zyj52pr-1765943595604.jpg",
+        "location": "",
+        "point_id": "m0zyj52pr",
+        "point_name": "城嶺神社",
+        "remark": "博丽神社原型，15年地震倒塌，已经迁移到旁边的新社了"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

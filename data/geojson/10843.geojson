@@ -1,0 +1,545 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.895573,
+          35.158953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogcec_1756288665368.jpg",
+        "location": "",
+        "point_id": "kpx6ogcec",
+        "point_name": "大須小学校周辺",
+        "remark": "２話、４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.8893,
+          35.172344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogds9_1756283562274.jpg",
+        "location": "",
+        "point_id": "kpx6ogds9",
+        "point_name": "国際センター駅１出口付近",
+        "remark": "２話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.905964,
+          35.165257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogdi9_1756281709828.jpg",
+        "location": "",
+        "point_id": "kpx6ogdi9",
+        "point_name": "ユニクロ名古屋栄店",
+        "remark": "２話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.880636,
+          35.165928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogdcx_1756283946379.jpg",
+        "location": "",
+        "point_id": "kpx6ogdcx",
+        "point_name": "イオンタウン太閤ショッピングセンター",
+        "remark": "２話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.881012,
+          35.170204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6oge2n_1756284135193.jpg",
+        "location": "",
+        "point_id": "kpx6oge2n",
+        "point_name": "名古屋駅（桜通線西改札口付近の階段）",
+        "remark": "２話詳しい位置までは分かりません太閤口すぐの階段を下りるとつくと思います"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.897443,
+          35.168901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6oge1p_1756284256748.jpg",
+        "location": "",
+        "point_id": "kpx6oge1p",
+        "point_name": "伏見駅４番線（鶴舞線）",
+        "remark": "２話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.900077,
+          35.172179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogea8_1756281774252.jpg",
+        "location": "",
+        "point_id": "kpx6ogea8",
+        "point_name": "八木兵株式会社",
+        "remark": "２話、９話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.882256,
+          35.170598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6oge1w_1756284324442.jpg",
+        "location": "",
+        "point_id": "kpx6oge1w",
+        "point_name": "名古屋駅（桜通線）",
+        "remark": "２話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.889021,
+          35.172116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogf50",
+        "point_name": "国際センター駅",
+        "remark": "３話詳しい位置までは分かりません"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.890644,
+          35.176297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogf7p_1756284009993.jpg",
+        "location": "",
+        "point_id": "kpx6ogf7p",
+        "point_name": "円頓寺通",
+        "remark": "４話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901453,
+          35.158604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogew0",
+        "point_name": "「仁王門通本町」交差点",
+        "remark": "４話、７話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.895721,
+          35.159479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogg1b_1756288703796.jpg",
+        "location": "",
+        "point_id": "kpx6ogg1b",
+        "point_name": "大須小学校周辺",
+        "remark": "４話、６話、10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.904567,
+          35.158854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogfwu_1756281600636.jpg",
+        "location": "",
+        "point_id": "kpx6ogfwu",
+        "point_name": "生鮮食品館サノヤ万松寺店",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903958,
+          35.15869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oghdz",
+        "point_name": "万松寺通と仁天門通の間",
+        "remark": "７話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903899,
+          35.158352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogfvv",
+        "point_name": "仁王門通",
+        "remark": "６話、７話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.903805,
+          35.1581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oggu2",
+        "point_name": "仁王門通",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902563,
+          35.159455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oghd5",
+        "point_name": "大須公園",
+        "remark": "７話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.471757,
+          35.710912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogfpf",
+        "point_name": "ジョナサン東恋ヶ窪店付近",
+        "remark": "５話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.555936,
+          35.704408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogge6",
+        "point_name": "「けやき橋西」交差点",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.556472,
+          35.704391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oggma",
+        "point_name": "「けやき橋西」交差点",
+        "remark": "６話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.539456,
+          35.727371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oghg4",
+        "point_name": "田無駅住宅地",
+        "remark": "６話※マーカーは最寄り駅を指してます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.557459,
+          35.725792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6oghfs_1756288981049.jpg",
+        "location": "",
+        "point_id": "kpx6oghfs",
+        "point_name": "東伏見稲荷神社",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55743,
+          35.726045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogi0r_1756288987424.jpg",
+        "location": "",
+        "point_id": "kpx6ogi0r",
+        "point_name": "東伏見稲荷神社",
+        "remark": "８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.667333,
+          35.596644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6oghvk",
+        "point_name": "田園調布駅住宅地",
+        "remark": "８話※マーカーは最寄り駅を指してます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480271,
+          35.699682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogifr",
+        "point_name": "国分寺駅南方面",
+        "remark": "９話※マーカーは最寄り駅を指してます"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901042,
+          35.159205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10843/kpx6ogi34_1756283516443.jpg",
+        "location": "",
+        "point_id": "kpx6ogi34",
+        "point_name": "富士浅間神社",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.904116,
+          35.161308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10843,
+        "bangumi_title": "白兔糖",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ogiyd",
+        "point_name": "裏門前公園",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

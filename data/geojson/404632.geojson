@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.732578,
+          35.880283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404632,
+        "bangumi_title": "KICK BACK",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404632/points/39wp5t1-1754140070685.jpg",
+        "location": "",
+        "point_id": "39wp5t1",
+        "point_name": "JFE条鋼（株）鹿島製造所",
+        "remark": "园区不对外开放，仅与工厂有参观预约、或与茨城县神栖市政府有拍摄预约等情况才可进入。若有幸能参观，进入时需按工厂方要求佩戴安全设备。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

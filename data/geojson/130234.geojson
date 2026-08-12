@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.271726,
+          42.288765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 130234,
+        "bangumi_title": "灰色的乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/130234/potcrrikr_1730615656636.jpg",
+        "location": "",
+        "point_id": "potcrrikr",
+        "point_name": "ドライブイン​ゆう​ら​っ​ぷ",
+        "remark": "第4話カプリスの繭Ⅳ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.271866,
+          42.288781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 130234,
+        "bangumi_title": "灰色的乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/130234/potdfgtji_1730615671698.jpg",
+        "location": "",
+        "point_id": "potdfgtji",
+        "point_name": "ドライブイン​ゆう​ら​っ​ぷ 内景",
+        "remark": "第4話カプリスの繭Ⅳ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          26.043376,
+          50.750519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 130234,
+        "bangumi_title": "灰色的乐园",
+        "ep_cut": "1, 2, 3 Ending 黄昏のスタアライト",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/130234/points/b0n6qgn-1770997069254.jpg",
+        "location": "",
+        "point_id": "b0n6qgn",
+        "point_name": "Тунель Кохання",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

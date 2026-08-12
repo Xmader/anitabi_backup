@@ -1,0 +1,1005 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.740388,
+          35.552301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "52djnmn",
+        "point_name": "【说明用地标】",
+        "remark": "【若出现异常点位请手动刷新数据】\n本地点合集是为了收录《maimai》及《maimaiDX》各代中出现的专属曲、OST曲的独占封面或独占MV视频的现实原型。\n非独占曲目（如术、动画联动等）请在各自的专辑/动画等作品中填写地标。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743304,
+          35.551906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/554zq0u_1758205501526.jpg",
+        "location": "若い力",
+        "point_id": "554zq0u",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "SEGA前本社（1号馆）所在地。于2018年拆除，现为酒店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.740171,
+          35.552273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/3fe00e3d_1758037850440.jpg",
+        "location": "otorii INNOVATED -[i]3-",
+        "point_id": "3fe00e3d",
+        "point_name": "大鳥居駅",
+        "remark": "《otorii INNOVATED -[i]3-》的曲名来源"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742665,
+          35.552039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/a5535d01_1758037856875.jpg",
+        "location": "otorii INNOVATED -[i]3-",
+        "point_id": "a5535d01",
+        "point_name": "セガ大鳥居駅2号館",
+        "remark": "2018年拆除。现为トヨタレンタカー 羽田空港（国内線）店；疑似《otorii INNOVATED -[i]3-》歌曲封面背景左侧的大楼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743258,
+          35.551885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/2036e6ab_1758203729134.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "2036e6ab",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "疑似SEGA大鸟居1号馆（本社）内（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743265,
+          35.551831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/5550oj4_1758205507221.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "5550oj4",
+        "point_name": "セガ大鳥居旧本社 社内",
+        "remark": "已拆除。游玩的曲目为《We Gonna Party》。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743471,
+          35.551471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f3e1fb51_1758203827485.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "f3e1fb51",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "很可能是SEGA内部道路（已拆除）。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743183,
+          35.551472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/cf123141_1758205511862.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "cf123141",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "可能位于绿化带外铁轨旁"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743196,
+          35.551828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f77241e2_1758205519462.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "f77241e2",
+        "point_name": "セガ大鳥居旧本社 1F",
+        "remark": "疑似1号馆-2号馆之间廊道（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743257,
+          35.551859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/a58f25c6_1758203860937.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "a58f25c6",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "疑似楼内车库（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743381,
+          35.551785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/e1b6dcb1_1758205523451.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "e1b6dcb1",
+        "point_name": "セガ大鳥居旧本社 7F",
+        "remark": "疑似本社1号馆西侧楼天台上东侧楼的外部楼梯（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743361,
+          35.551772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/a3511b40_1758205526802.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "a3511b40",
+        "point_name": "セガ大鳥居旧本社 7F",
+        "remark": "疑似本社1号馆西侧楼天台上东侧楼的外部楼梯（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743218,
+          35.551821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/27960f11_1758205530370.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "27960f11",
+        "point_name": "セガ大鳥居旧本社 1F",
+        "remark": "疑似1号馆-2号馆之间廊道（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743394,
+          35.551758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/2ec079a9_1758205537740.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "2ec079a9",
+        "point_name": "セガ大鳥居旧本社 屋上",
+        "remark": "疑似本社1号馆楼顶（已拆除）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743426,
+          35.551817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/b532dd08_1758205542903.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "b532dd08",
+        "point_name": "セガ大鳥居旧本社 屋上",
+        "remark": "向东南方向的多摩川入海口拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74341,
+          35.551805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/5547zaw_1758205547117.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "5547zaw",
+        "point_name": "セガ大鳥居旧本社 屋上",
+        "remark": "向西北方向拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743435,
+          35.551806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/91ad7ea1_1758120332320.jpg",
+        "location": "遺伝子レベル∞スパイラル",
+        "point_id": "91ad7ea1",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "向西侧拍摄，可见当时SEGA大鸟居2号馆的LOGO。此地与SEGA大鸟居2号馆均已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74343,
+          35.551789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/578dx6j_1758331653332.jpg",
+        "location": "OTOGEMA",
+        "point_id": "578dx6j",
+        "point_name": "セガ大鳥居旧本社",
+        "remark": "已于2018年拆除（爆破）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.716037,
+          35.730123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/578ozto_1758332132364.jpg",
+        "location": "OTOGEMA",
+        "point_id": "578ozto",
+        "point_name": "SEGA 池袋GiGO",
+        "remark": "建筑物外观于2022年翻新，池袋GiGO1号馆搬到了马路对面。现该地为池袋GiGO2号馆。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.800541,
+          33.629176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/702d0809_1758205570102.jpg",
+        "location": "炭★坑★節",
+        "point_id": "702d0809",
+        "point_name": "炭坑節発祥の地",
+        "remark": "封面原型+歌曲原型歌词的石碑"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.814998,
+          33.641467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/a4e88530_1758205641034.jpg",
+        "location": "炭★坑★節",
+        "point_id": "a4e88530",
+        "point_name": "旧三井田川鉱業所伊田竪坑櫓",
+        "remark": "封面原型所在地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.775237,
+          35.628675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/434bfd4f_1758205657827.jpg",
+        "location": "HALFPIPE TOKYO",
+        "point_id": "434bfd4f",
+        "point_name": "Tokyo Joypolis",
+        "remark": "《記憶、記録》等大量旧框曲子的联动出处，源自园区内的“HALFPIPE TOKYO”体感音游项目。《記憶、記録》的封面角色 LOPIT 为该园区吉祥物。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.705834,
+          32.806185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/535f9e2a_1758205766255.jpg",
+        "location": "おても☆Yan",
+        "point_id": "535f9e2a",
+        "point_name": "熊本城",
+        "remark": "封面/PV的日式城堡原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.68811,
+          32.79018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/e76a3eac_1758205795714.jpg",
+        "location": "おても☆Yan",
+        "point_id": "e76a3eac",
+        "point_name": "熊本民謡「おてもやん」銅像",
+        "remark": "封面角色姿势出处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.806821,
+          42.826976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/83007b1d_1758205826069.jpg",
+        "location": "ソーラン☆節",
+        "point_id": "83007b1d",
+        "point_name": "羊蹄山",
+        "remark": "疑似封面原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.709126,
+          43.248163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/aa9af103_1758205845789.jpg",
+        "location": "ソーラン☆節",
+        "point_id": "aa9af103",
+        "point_name": "ソーラン節発祥之地碑",
+        "remark": "歌曲原型纪念碑"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789488,
+          35.630327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/39469f3a_1758206023697.jpg",
+        "location": "welcome to maimai!! with マイマイマー",
+        "point_id": "39469f3a",
+        "point_name": "TFTビル 西館",
+        "remark": "《maimai LIVE 2014 ～洗濯祭～》的场地；也是《welcome to maimai!! with マイマイマー》的机台内PV拍摄地。详见：https://amfes.sega.jp/outline.html"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.798151,
+          35.708632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/1b7537bc_1758206127454.jpg",
+        "location": "花と、雪と、ドラムンベース。",
+        "point_id": "1b7537bc",
+        "point_name": "駒形橋",
+        "remark": "位于河上向西南方向拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796359,
+          35.711083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/56k04yc_1758290660995.jpg",
+        "location": "STREAK",
+        "point_id": "56k04yc",
+        "point_name": "雷門",
+        "remark": "封面及PV内绿色建筑的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700511,
+          35.659479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/578tyg8_1758332368433.jpg",
+        "location": "群青シグナル",
+        "point_id": "578tyg8",
+        "point_name": "渋谷駅前",
+        "remark": "天空街区域MV的常用背景素材"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700976,
+          35.692679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/5794438_1758332845604.jpg",
+        "location": "トノサマビーム",
+        "point_id": "5794438",
+        "point_name": "クロス新宿スペース",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857112,
+          35.637568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f59s2gu_1779980854593.jpg",
+        "location": "ソテリア",
+        "point_id": "f59s2gu",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "海滩上向西南方向拍摄，天气好可以看到图中右侧的突起建筑（若洲海浜公園北端展望台）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857097,
+          35.637572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5al6kj_1779982206078.jpg",
+        "location": "ソテリア",
+        "point_id": "f5al6kj",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857083,
+          35.637571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5aqg02_1779982448890.jpg",
+        "location": "ソテリア",
+        "point_id": "f5aqg02",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857069,
+          35.637564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5aqu0g_1779982466518.jpg",
+        "location": "ソテリア",
+        "point_id": "f5aqu0g",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "拉近景拍东南侧防波堤"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857062,
+          35.637551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5arm99_1779982505321.jpg",
+        "location": "ソテリア",
+        "point_id": "f5arm99",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857062,
+          35.637541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f59ymiq_1779981156629.jpg",
+        "location": "ソテリア",
+        "point_id": "f59ymiq",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "向东南拍摄防波堤，不要拍到东侧的建筑"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857071,
+          35.637529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5ai7gt_1779982065782.jpg",
+        "location": "ソテリア",
+        "point_id": "f5ai7gt",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857083,
+          35.637524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5aixd3_1779982103210.jpg",
+        "location": "ソテリア",
+        "point_id": "f5aixd3",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "镜头偏正东，露出左后方树木"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857099,
+          35.637519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5akbxg_1779982163643.jpg",
+        "location": "ソテリア",
+        "point_id": "f5akbxg",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857114,
+          35.637514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5akkpc_1779982185350.jpg",
+        "location": "ソテリア",
+        "point_id": "f5akkpc",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857132,
+          35.637505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5b90ly_1779983320889.jpg",
+        "location": "ソテリア",
+        "point_id": "f5b90ly",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "向西拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.856982,
+          35.637581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5b9x65_1779983363026.jpg",
+        "location": "ソテリア",
+        "point_id": "f5b9x65",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "卵石台阶旁拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857368,
+          35.637439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5bc3ty_1779983465759.jpg",
+        "location": "ソテリア",
+        "point_id": "f5bc3ty",
+        "point_name": "葛西海浜公園 東側なぎさ",
+        "remark": "向北拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857142,
+          35.63886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5a33sy_1779981365071.jpg",
+        "location": "ソテリア",
+        "point_id": "f5a33sy",
+        "point_name": "葛西渚橋",
+        "remark": "站在桥上，向东偏南拍摄岛礁和圆形建筑（舞浜ビューホテル）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857318,
+          35.639294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5agh5k_1779981985006.jpg",
+        "location": "ソテリア",
+        "point_id": "f5agh5k",
+        "point_name": "葛西渚橋",
+        "remark": "向西拍摄水面平台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.857341,
+          35.639249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5b439o_1779983088173.jpg",
+        "location": "ソテリア",
+        "point_id": "f5b439o",
+        "point_name": "葛西渚橋",
+        "remark": "向东拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.859619,
+          35.640589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5avgo8_1779982702980.jpg",
+        "location": "ソテリア",
+        "point_id": "f5avgo8",
+        "point_name": "展望レストハウス クリスタルビュー",
+        "remark": "建筑外侧阳台向防波堤拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.859619,
+          35.640579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f5azu0t_1779982905244.jpg",
+        "location": "ソテリア",
+        "point_id": "f5azu0t",
+        "point_name": "展望レストハウス クリスタルビュー",
+        "remark": "不确定具体位置 疑似建筑3F向外拍？"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.752226,
+          35.768828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 149496,
+        "bangumi_title": "舞萌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/149496/f9e88je_1780230508318.jpg",
+        "location": "きらっせ☆ウッド村ファーム",
+        "point_id": "f9e88je",
+        "point_name": "ウッド村ファーム",
+        "remark": "铫子市民营农场ウッド村ファーム的主题曲，2017年3月收录进maimai。此处为ウッド村ファーム事务所兼私宅，谢绝个人访问。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          37.356302,
+          -3.058953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2667,
+        "bangumi_title": "机动战士Z高达",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2667/points/ev6me4j-1779370937607.jpg",
+        "location": "",
+        "point_id": "ev6me4j",
+        "point_name": "乞力马扎罗山",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

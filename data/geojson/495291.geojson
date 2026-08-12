@@ -1,0 +1,2805 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.863706,
+          35.005218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1zqx9nu_1751348772406.jpg",
+        "location": "航拍",
+        "point_id": "1zqx9nu",
+        "point_name": "大津自行车道线",
+        "remark": "画面前景几栋高楼位于此处，须航拍，画面中出现：大津NTT，琵琶湖酒店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.897497,
+          34.989291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1znealt_1751342788031.jpg",
+        "location": "膳所・晴岚之道",
+        "point_id": "1znealt",
+        "point_name": "膳所・晴嵐の道",
+        "remark": "背后为近江大桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.88947,
+          34.995042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1zs5skn_1751350789322_c16v9.jpg",
+        "location": "膳所本町站",
+        "point_id": "1zs5skn",
+        "point_name": "膳所本町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.060665,
+          35.01009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1zrwmxf_1751350697284_c16v9.jpg",
+        "location": "平和堂石部店",
+        "point_id": "1zrwmxf",
+        "point_name": "平和堂石部店",
+        "remark": "https://maps.app.goo.gl/NXpca1kFaD2ebRPeA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.06048,
+          35.010685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/bl6spsh_1772236224163.jpg",
+        "location": "平和堂石部店",
+        "point_id": "bl6spsh",
+        "point_name": "平和堂石部店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.889131,
+          35.004707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1zmmygb_1751341518963.jpg",
+        "location": "航拍",
+        "point_id": "1zmmygb",
+        "point_name": "びわ湖​大津​プリンス​ホテル",
+        "remark": "左侧为大津王子大饭店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.031573,
+          35.21946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1znfieh_1751342807772.jpg",
+        "location": "航拍",
+        "point_id": "1znfieh",
+        "point_name": "琵琶湖",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909145,
+          34.988344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1znvizl_1751343563992.jpg",
+        "location": "近江八幡大津线",
+        "point_id": "1znvizl",
+        "point_name": "近江八幡大津線",
+        "remark": "栏杆形状判断"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909132,
+          34.988217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1znwea5_1751343596707.jpg",
+        "location": "近江八幡大津线",
+        "point_id": "1znwea5",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895943,
+          34.995706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": "PV1",
+        "image_url": "https://w.junreimap.com/images/points/495291/1zozvtz_1751345448170.jpg",
+        "location": "膳所城迹公园",
+        "point_id": "1zozvtz",
+        "point_name": "膳所城跡公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.838827,
+          35.051294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gnqcx75_1783274151983.webp",
+        "location": "宇佐山",
+        "point_id": "goyq1m1",
+        "point_name": "夢見が丘展望台",
+        "remark": "远处的桥是近江大桥，右下角的建筑是プレサンスレジェンド​琵琶湖。如果想要还原这个角度，除航拍以外应当只能爬上宇佐山远望，如此处的展望台，又如https://yamap.com/activities/9046629。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895657,
+          34.991532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gt9wos1_1783609077047.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "gt9wos1",
+        "point_name": "膳所・晴嵐の道",
+        "remark": "从南侧的晴岚一直通往膳所城迹公园的游步道，茉里每天在这条路上晨练。远处的圆筒形建筑是膳所浄水場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89568,
+          34.991542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gt9zwe1_1783609182025.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "gt9zwe1",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.214123,
+          35.168049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gnq4k4w_1783273491730.webp",
+        "location": "爱知郡",
+        "point_id": "gnqo3nx",
+        "point_name": "平和堂愛知川店",
+        "remark": "平和堂是滋贺本地企业，在滋贺有相当多的分店。滋贺县与湖南省在1983年结为友好地区，因此平和堂也曾在湖南开设多家分店，目前仅余长沙五一广场一家。\nhttps://maps.app.goo.gl/FSoafbBNYsxKKgA3A"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865983,
+          35.013337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gnr9qmf_1783275703582.webp",
+        "location": "大津港",
+        "point_id": "gnr9qmf",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": "https://maps.app.goo.gl/XZwKzCozuB3cGxqFA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.86591,
+          35.013369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gnrb2x6_1783275722102.webp",
+        "location": "大津港",
+        "point_id": "gnrb2x6",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865905,
+          35.013363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/495291/gnrbd5j_1783275728835.webp",
+        "location": "大津港",
+        "point_id": "gnrbd5j",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865937,
+          35.013347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67rl95_1784391498782.webp",
+        "location": "大津港",
+        "point_id": "h67rl95",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865777,
+          35.01328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67s12d_1784391527781.webp",
+        "location": "大津港",
+        "point_id": "h67s12d",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": "井上武吉创作的雕塑「my sky hole 97-2 水面への回廊、琵琶湖」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90551,
+          34.978202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h667ify_1784388878981.webp",
+        "location": "濑田川大桥",
+        "point_id": "h667ify",
+        "point_name": "瀬田川大橋西",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905515,
+          34.978262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/6wz1xj1_1784388782111.webp",
+        "location": "濑田川大桥",
+        "point_id": "6wz1xj1",
+        "point_name": "瀬田川大橋西",
+        "remark": "设定上大津家位于此处河边，现实中这里没有建筑。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905726,
+          34.97803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h668p44_1784388946114.webp",
+        "location": "濑田川大桥",
+        "point_id": "h668p44",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905663,
+          34.978021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h6694uo_1784388960339.webp",
+        "location": "濑田川大桥",
+        "point_id": "h6694uo",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905659,
+          34.978021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h669fhx_1784388967979.webp",
+        "location": "濑田川大桥",
+        "point_id": "h669fhx",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905649,
+          34.978054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h681s3v_1784391976771.webp",
+        "location": "濑田川大桥",
+        "point_id": "h681s3v",
+        "point_name": "瀬田川大橋下",
+        "remark": "现实中此处没有教堂，但前景的桥的一部分是存在的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.590602,
+          55.684776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h685fgd_1784392146496.webp",
+        "location": "丹麦",
+        "point_id": "h685fgd",
+        "point_name": "Frederiks Kirke",
+        "remark": "《小美人鱼》的故乡丹麦首都哥本哈根的教堂，建于18世纪。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90552,
+          34.978184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h66e8xk_1784389195232.webp",
+        "location": "濑田川大桥",
+        "point_id": "h66e8xk",
+        "point_name": "瀬田川大橋西",
+        "remark": "河对面能看到ニトリ的绿色招牌。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90555,
+          34.978172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h66daiz_1784389150460.webp",
+        "location": "濑田川大桥",
+        "point_id": "h66daiz",
+        "point_name": "瀬田川大橋西",
+        "remark": "远处能看到JR琵琶湖线的铁道桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.86574,
+          35.013253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h689gh0_1784392332122.webp",
+        "location": "大津港",
+        "point_id": "h689gh0",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.057134,
+          35.200415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67tm9n_1784391595758.webp",
+        "location": "冲岛",
+        "point_id": "h67tm9n",
+        "point_name": "沖島",
+        "remark": "琵琶湖最大的湖心岛，岛上居民仅两百余人，右侧建筑是沖島漁業会館。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.05686,
+          35.200313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67w8dd_1784391756425.webp",
+        "location": "冲岛",
+        "point_id": "h67w8dd",
+        "point_name": "沖島",
+        "remark": "望向北侧。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.904214,
+          34.979837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68b6qd_1784392446977.webp",
+        "location": "濑田川大桥",
+        "point_id": "h68b6qd",
+        "point_name": "JR琵琶湖線アンダーパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894133,
+          34.997863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68d93l_1784392558231.webp",
+        "location": "膳所港",
+        "point_id": "h68d93l",
+        "point_name": "近江大橋西詰",
+        "remark": "https://maps.app.goo.gl/odjeCti1opFzJGRc9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.900723,
+          34.979287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h66wz6f_1784390087042.webp",
+        "location": "石山​站",
+        "point_id": "h66wz6f",
+        "point_name": "石山​駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.868617,
+          35.008908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68i7qf_1784392749578.webp",
+        "location": "大津港",
+        "point_id": "h68i7qf",
+        "point_name": "島の関西交差点",
+        "remark": "https://maps.app.goo.gl/NyRn4i8YkvqijGx69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.86576,
+          35.013265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h2jf33b_1784391407357.webp",
+        "location": "大津港",
+        "point_id": "h2jf33b",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.866564,
+          35.013007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h2jkryn_1784391416285.webp",
+        "location": "大津港",
+        "point_id": "h2jkryn",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": "动画镜头在码头，实际机位的路被封了进不去，可以在旁边拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865839,
+          35.013327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68jl0z_1784392805753.webp",
+        "location": "大津港",
+        "point_id": "h68jl0z",
+        "point_name": "大津港シンボル緑地公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.869491,
+          35.010468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68la2s_1784392934814.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68la2s",
+        "point_name": "おまつり広場",
+        "remark": "左侧建筑是琵琶湖ホテル和浜大津アーカス。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870552,
+          35.010081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68n4vv_1784392989197.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68n4vv",
+        "point_name": "おまつり広場",
+        "remark": "向东南。远处建筑是琵琶湖文化館，2008年起一直处于关闭状态，"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870674,
+          35.010092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68nubb_1784392999024.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68nubb",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870644,
+          35.010071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68qj7u_1784393166739.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68qj7u",
+        "point_name": "おまつり広場",
+        "remark": "向东北，远处是おまつり広場的栈桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870656,
+          35.010097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68rn97_1784393179229.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68rn97",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870645,
+          35.010111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68rto0_1784393185043.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68rto0",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870668,
+          35.010071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h6908m5_1784393581828.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h6908m5",
+        "point_name": "おまつり広場",
+        "remark": "背景是栈桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870789,
+          35.010026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68yxfn_1784393523332.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68yxfn",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870697,
+          35.010079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68zg1s_1784393543118.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68zg1s",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.868994,
+          35.010837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68x9u4_1784393449738.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68x9u4",
+        "point_name": "おまつり広場 街灯",
+        "remark": "附近有多个相同造型的路灯。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870302,
+          35.010209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h68zt8x_1784393559395.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h68zt8x",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.870246,
+          35.010235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h690t6a_1784393610799.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h690t6a",
+        "point_name": "おまつり広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.86647,
+          35.012734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h6728f4_1784390320405.webp",
+        "location": "大津港",
+        "point_id": "h6728f4",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865917,
+          35.01282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h676do5_1784390506303.webp",
+        "location": "大津港",
+        "point_id": "h676do5",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865827,
+          35.012638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h676q73_1784390526135.webp",
+        "location": "大津港",
+        "point_id": "h676q73",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865897,
+          35.012685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h675drl_1784390512268.webp",
+        "location": "大津港",
+        "point_id": "h675drl",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": "现实中柱子旁边并没有长椅，长椅区域在旁边。\nhttps://maps.app.goo.gl/XuYQYHddLPRsVHEX9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865894,
+          35.012635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67897a_1784390595384.webp",
+        "location": "大津港",
+        "point_id": "h67897a",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865902,
+          35.012683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h6791h7_1784390629825.webp",
+        "location": "大津港",
+        "point_id": "h6791h7",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865868,
+          35.012638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h679uva_1784390672723.webp",
+        "location": "大津港",
+        "point_id": "h679uva",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865882,
+          35.012653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h679opn_1784390659801.webp",
+        "location": "大津港",
+        "point_id": "h679opn",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865871,
+          35.012624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67ac1e_1784390689310.webp",
+        "location": "大津港",
+        "point_id": "h67ac1e",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865863,
+          35.012628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67ax7n_1784390730958.webp",
+        "location": "大津港",
+        "point_id": "h67ax7n",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865857,
+          35.012632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67b056_1784390752836.webp",
+        "location": "大津港",
+        "point_id": "h67b056",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865856,
+          35.012576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67bwow_1784390762913.webp",
+        "location": "大津港",
+        "point_id": "h67bwow",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865932,
+          35.012624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67d8nh_1784390826291.webp",
+        "location": "大津港",
+        "point_id": "h67d8nh",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865958,
+          35.012625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67edsq_1784390879278.webp",
+        "location": "大津港",
+        "point_id": "h67edsq",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865858,
+          35.012646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67erkp_1784390919155.webp",
+        "location": "大津港",
+        "point_id": "h67erkp",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865878,
+          35.012623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67f3q6_1784390912639.webp",
+        "location": "大津港",
+        "point_id": "h67f3q6",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865955,
+          35.01275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67i3cn_1784391051934.webp",
+        "location": "大津港",
+        "point_id": "h67i3cn",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": "北侧的窗户。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865981,
+          35.012778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67j40c_1784391102089.webp",
+        "location": "大津港",
+        "point_id": "h67j40c",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865864,
+          35.01263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67mr62_1784391268680.webp",
+        "location": "大津港",
+        "point_id": "h67mr62",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865863,
+          35.012643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67mw2e_1784391275037.webp",
+        "location": "大津港",
+        "point_id": "h67mw2e",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.865865,
+          35.012634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/495291/h67n0wc_1784391280697.webp",
+        "location": "大津港",
+        "point_id": "h67n0wc",
+        "point_name": "大津港​旅客​ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895842,
+          34.997457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qp6kj_1784483995326.webp",
+        "location": "膳所港",
+        "point_id": "h7qp6kj",
+        "point_name": "近江大橋の下の歩道",
+        "remark": "近江大桥下的桥洞。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895878,
+          34.997723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7que35_1784484004791.webp",
+        "location": "膳所港",
+        "point_id": "h7que35",
+        "point_name": "近江大橋の下の歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895847,
+          34.997498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7quiyu_1784484013490.webp",
+        "location": "膳所港",
+        "point_id": "h7quiyu",
+        "point_name": "近江大橋の下の歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895786,
+          34.997475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7ququk_1784484020204.webp",
+        "location": "膳所港",
+        "point_id": "h7ququk",
+        "point_name": "近江大橋の下の歩道",
+        "remark": "背景中是通往近江大桥桥上的人行道的楼梯。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895445,
+          34.9975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qvhan_1784484058538.webp",
+        "location": "膳所港",
+        "point_id": "h7qvhan",
+        "point_name": "近江大橋の下の歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895748,
+          34.997477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qvtuh_1784484073506.webp",
+        "location": "膳所港",
+        "point_id": "h7qvtuh",
+        "point_name": "近江大橋の下の歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905605,
+          34.978141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qwy9q_1784484129440.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7qwy9q",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905696,
+          34.978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qx7qy_1784484135864.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7qx7qy",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905679,
+          34.97805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qxdup_1784484143394.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7qxdup",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905707,
+          34.978028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qxhig_1784484148038.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7qxhig",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905675,
+          34.978054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qxlmp_1784484162581.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7qxlmp",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905685,
+          34.977992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qxz2v_1784484172225.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7qxz2v",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895657,
+          34.991234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7py59x_1784482502894.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7py59x",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895502,
+          34.99186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7pyrw7_1784482532932.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7pyrw7",
+        "point_name": "膳所・晴嵐の道",
+        "remark": "远处建筑是膳所浄水場。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895542,
+          34.991781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q256l_1784482686029.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7q256l",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895499,
+          34.991819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q1yqz_1784482693551.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7q1yqz",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895476,
+          34.991732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q2hcc_1784482701034.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7q2hcc",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895508,
+          34.991776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q4fzi_1784482792660.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7q4fzi",
+        "point_name": "膳所・晴嵐の道",
+        "remark": "背景里的桥是近江大桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895523,
+          34.991762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q2mmo_1784482708884.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7q2mmo",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895538,
+          34.991735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q2smh_1784482721295.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7q2smh",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905541,
+          34.978319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7q8so5_1784482997946.webp",
+        "location": "濑田川大桥",
+        "point_id": "h7q8so5",
+        "point_name": "瀬田川大橋西",
+        "remark": "大津家的建筑为虚构，远处可见濑田川大桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903485,
+          34.983075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h85el9j_1784508465105.webp",
+        "location": "大津湖岸线",
+        "point_id": "h85el9j",
+        "point_name": "大津湖岸線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90356,
+          34.983099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h85f3da_1784508486110.webp",
+        "location": "大津湖岸线",
+        "point_id": "h85f3da",
+        "point_name": "大津湖岸線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903552,
+          34.98322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h85d4ax_1784508451202.webp",
+        "location": "大津湖岸线",
+        "point_id": "h85d4ax",
+        "point_name": "大津湖岸線",
+        "remark": "可根据这一张远处的路牌和道路向右弯曲的程度确认位置。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903596,
+          34.983058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h85fcfx_1784508496755.webp",
+        "location": "大津湖岸线",
+        "point_id": "h85fcfx",
+        "point_name": "大津湖岸線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903612,
+          34.983077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h85fkc1_1784508507923.webp",
+        "location": "大津湖岸线",
+        "point_id": "h85fkc1",
+        "point_name": "大津湖岸線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89472,
+          34.997217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/bl6r5zz_1784483290211.webp",
+        "location": "膳所港",
+        "point_id": "bl6r5zz",
+        "point_name": "膳所港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894727,
+          34.997229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qejqn_1784483306461.webp",
+        "location": "膳所港",
+        "point_id": "h7qejqn",
+        "point_name": "膳所港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895168,
+          34.993173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qbm2f_1784483127253.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7qbm2f",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895223,
+          34.993183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qbunv_1784483139931.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7qbunv",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.87177,
+          35.00939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h85i3sm_1784508635879.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "h85i3sm",
+        "point_name": "おまつり広場",
+        "remark": "根据和远处物体的相对位置与岸边的形状，应为此处。但是现实中这个角度应该能看到栈桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895253,
+          34.993258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qa3m7_1784483111236.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7qa3m7",
+        "point_name": "膳所・晴嵐の道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895266,
+          34.993132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/495291/h7qa532_1784483106911.webp",
+        "location": "膳所・晴岚之道",
+        "point_id": "h7qa532",
+        "point_name": "膳所・晴嵐の道",
+        "remark": "远处左侧建筑是净水厂的一部分，右侧是近江大桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.933426,
+          35.073904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj2wuns_1785169624760.webp",
+        "location": "乌丸半岛",
+        "point_id": "hj2wuns",
+        "point_name": "滋賀県立琵琶湖博物館 トイレ",
+        "remark": "https://maps.app.goo.gl/AKN6ikE5T17Gtydg9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.93326,
+          35.073737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj31zcj_1785169642288.webp",
+        "location": "乌丸半岛",
+        "point_id": "hj31zcj",
+        "point_name": "滋賀県立琵琶湖博物館 トイレ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.896102,
+          34.9947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj32mcc_1785169782896.webp",
+        "location": "膳所城迹公园",
+        "point_id": "hj32mcc",
+        "point_name": "膳所城跡公園 ベンチ",
+        "remark": "从远景来看，应该是面向东南的几个长椅之一。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.896151,
+          34.994654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj359l6_1785169795905.webp",
+        "location": "膳所城迹公园",
+        "point_id": "hj359l6",
+        "point_name": "膳所城跡公園 ベンチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89611,
+          34.994698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj35k7h_1785169810554.webp",
+        "location": "膳所城迹公园",
+        "point_id": "hj35k7h",
+        "point_name": "膳所城跡公園 ベンチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.902039,
+          34.977851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj3a9z2_1785170533990.webp",
+        "location": "石山商店街",
+        "point_id": "hj3a9z2",
+        "point_name": "居酒屋 鯛の鯛",
+        "remark": "左侧是国道1号线的高架桥，画面中间的店铺现实中为居酒屋「鯛の鯛」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.902035,
+          34.977824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj3comr_1785170544137.webp",
+        "location": "石山商店街",
+        "point_id": "hj3comr",
+        "point_name": "石山商店街",
+        "remark": "左侧建筑为「ルネ石山 センタープレイス」，右侧为「鶴屋ビル」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.902064,
+          34.977716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj3g77d_1785170317814.webp",
+        "location": "石山商店街",
+        "point_id": "hj3g77d",
+        "point_name": "クレッセント",
+        "remark": "背景是理发店クレッセント的卷帘门和木门。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90208,
+          34.977728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj3ivd3_1785170435320.webp",
+        "location": "石山商店街",
+        "point_id": "hj3ivd3",
+        "point_name": "とみもと呉服店",
+        "remark": "背景红色棚子是隔壁的とみもと呉服店。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.902023,
+          34.977917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/hj3jxos_1785170500213.webp",
+        "location": "石山商店街",
+        "point_id": "hj3jxos",
+        "point_name": "国道1号高架下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.945002,
+          35.022762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hud758u_1785851854024.webp",
+        "location": "草津",
+        "point_id": "hud758u",
+        "point_name": "モス​バーガー 草津​中央​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.944618,
+          35.022772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hudfl61_1785852205399.webp",
+        "location": "草津",
+        "point_id": "hudfl61",
+        "point_name": "モス​バーガー 草津​中央​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.944621,
+          35.022753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hudfm0l_1785852233856.webp",
+        "location": "草津",
+        "point_id": "hudfm0l",
+        "point_name": "モス​バーガー\n草津​中央​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.919068,
+          34.981878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hudhu2d_1785852320473.webp",
+        "location": "濑田",
+        "point_id": "hudhu2d",
+        "point_name": "かつ​や 大津​瀬田​店",
+        "remark": "右边的どんや现实中为かつ​や，左边的ぽん天现实中为さん​天​。现实中两间店中间有一个停车场。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.09988,
+          35.124579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hue8uci_1785855149115.webp",
+        "location": "Andenken",
+        "point_id": "hue8uci",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099879,
+          35.124367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufaf4e_1785855319721.webp",
+        "location": "Andenken",
+        "point_id": "hufaf4e",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099954,
+          35.12446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufald0_1785855326289.webp",
+        "location": "Andenken",
+        "point_id": "hufald0",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.09961,
+          35.124061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufbw8l_1785855490111.webp",
+        "location": "Andenken",
+        "point_id": "hufbw8l",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.100013,
+          35.124514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufedfy_1785855502546.webp",
+        "location": "Andenken",
+        "point_id": "hufedfy",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099903,
+          35.124393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufeo7s_1785855518769.webp",
+        "location": "Andenken",
+        "point_id": "hufeo7s",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.09986,
+          35.124397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufexfw_1785855538893.webp",
+        "location": "Andenken",
+        "point_id": "hufexfw",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.09983,
+          35.124395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/huffbmk_1785855547773.webp",
+        "location": "Andenken",
+        "point_id": "huffbmk",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.910022,
+          34.995172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufr8hi_1785856111545.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hufr8hi",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90982,
+          34.99533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufqpqr_1785856080415.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hufqpqr",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909819,
+          34.99534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufu4bu_1785856239762.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hufu4bu",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909822,
+          34.995319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hufoimi_1785856068422.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hufoimi",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909848,
+          34.995281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hug9xnq_1785857040299.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hug9xnq",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909827,
+          34.995248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/huge9vm_1785857178250.webp",
+        "location": "近江八幡大津线",
+        "point_id": "huge9vm",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909824,
+          34.995306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hugdux9_1785857167039.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hugdux9",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909827,
+          34.99524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hugfi74_1785857237417.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hugfi74",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909849,
+          34.995258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/huggc9e_1785857274041.webp",
+        "location": "近江八幡大津线",
+        "point_id": "huggc9e",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909848,
+          34.9953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/huggrmv_1785857297996.webp",
+        "location": "近江八幡大津线",
+        "point_id": "huggrmv",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909806,
+          34.995268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hugibw1_1785857368734.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hugibw1",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909837,
+          34.995304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hugio3c_1785857386345.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hugio3c",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909834,
+          34.995317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hugizmq_1785857401237.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hugizmq",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.909783,
+          34.995306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/hugjaed_1785857411639.webp",
+        "location": "近江八幡大津线",
+        "point_id": "hugjaed",
+        "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

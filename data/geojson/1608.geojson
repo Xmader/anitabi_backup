@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.55762,
+          35.72042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/kpx6ohv8r-1724759245124.jpg",
+        "location": "",
+        "point_id": "kpx6ohv8r",
+        "point_name": "湘北高校",
+        "remark": "武蔵野北高校：湘北高校のモデル高校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.863727,
+          38.218408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohvyv",
+        "point_name": "海南大附属高校",
+        "remark": "仙台市立富沢中学校：海南大附属高校のモデル学校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.493977,
+          35.437081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohw1e",
+        "point_name": "翔陽",
+        "remark": "松陽高校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.503542,
+          35.307912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/np5o3v3o6-1728723006043.jpg",
+        "location": "",
+        "point_id": "np5o3v3o6",
+        "point_name": "鎌倉高",
+        "remark": "剧中 陵南高校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502086,
+          35.306643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/6uhlkmcos-1677460086131.jpg",
+        "location": "",
+        "point_id": "np5n8b8ys",
+        "point_name": "鎌倉高校駅前踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.242134,
+          34.476458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/kpx6ohwz1-1751861168323.jpg",
+        "location": "",
+        "point_id": "kpx6ohwz1",
+        "point_name": "ちどり荘",
+        "remark": "みどり荘：インターハイに出場した際の宿泊先（已于2013年破产倒闭）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.338495,
+          35.341096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kpx6ohx2c",
+        "point_name": "決勝トーナメントの会場の１つ",
+        "remark": "平塚総合体育館"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531231,
+          35.303791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "2卷",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/40tzbwx-1755768055597.jpg",
+        "location": "",
+        "point_id": "40tzbwx",
+        "point_name": "鎌倉海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

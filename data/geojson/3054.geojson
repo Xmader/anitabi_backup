@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.746021,
+          35.675478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/5gsj9jcou-1673564778494.jpg",
+        "location": "",
+        "point_id": "5gsj9jcou",
+        "point_name": "国会議事堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.729266,
+          35.039234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/5gsltvyvv-1673564934739.jpg",
+        "location": "",
+        "point_id": "5gsltvyvv",
+        "point_name": "金閣寺(鹿苑寺)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.734178,
+          34.614574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/5gspoob28-1673565135593.jpg",
+        "location": "",
+        "point_id": "5gspoob28",
+        "point_name": "法隆寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745512,
+          35.658468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/5gsruxdl4-1673565291960.jpg",
+        "location": "",
+        "point_id": "5gsruxdl4",
+        "point_name": "日本電波塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77479,
+          35.627006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/5gsvysz6e-1673565537611.jpg",
+        "location": "",
+        "point_id": "5gsvysz6e",
+        "point_name": "FCGビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729409,
+          35.660372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/5gtbphw70-1673566471501.jpg",
+        "location": "",
+        "point_id": "5gtbphw70",
+        "point_name": "六本木ヒルズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751971,
+          35.705697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3054,
+        "bangumi_title": "大魔法峠",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/3054/points/pcrucb7dy-1729671992931.jpg",
+        "location": "",
+        "point_id": "pcrucb7dy",
+        "point_name": "東京ドーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.193555,
+          34.694286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/4dxs523-1756560381106.jpg",
+        "location": "",
+        "point_id": "4dxs523",
+        "point_name": "サンキタ広場 (旧さんきたアモーレ広場)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.049646,
+          34.341998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/561526/4e3s4jy_1756572177116.jpg",
+        "location": "",
+        "point_id": "4e3s4jy",
+        "point_name": "丸亀町グリーン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.193282,
+          34.694159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "Be brand new -MV- Fullバージョン",
+        "image_url": "https://w.junreimap.com/images/user/1130/bangumi/561526/points/57kfdpf-1758351953699.jpg",
+        "location": "",
+        "point_id": "57kfdpf",
+        "point_name": "サンノミヤ​OS​ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.487416,
+          34.703302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/5jut3w3-1759101051884.jpg",
+        "location": "",
+        "point_id": "5jut3w3",
+        "point_name": "なにわ筋",
+        "remark": "练习室出来的路口（从大淀南公园处向南视角）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702581,
+          35.695491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/cqsz7t-1759092242263.jpg",
+        "location": "新宿",
+        "point_id": "106ft8ydj8",
+        "point_name": "新宿LOFT",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.190161,
+          34.696749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/60a0htt-1760087874431.jpg",
+        "location": "",
+        "point_id": "60a0htt",
+        "point_name": "ランド マーク ビル 神戸",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

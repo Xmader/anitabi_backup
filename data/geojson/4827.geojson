@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.631517,
+          35.450911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4827,
+        "bangumi_title": "Muv-Luv",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/4827/n7t6f08r0_1723640936982.jpg",
+        "location": "",
+        "point_id": "n7t6f08r0",
+        "point_name": "桜木町駅",
+        "remark": "柊町(ひいらひちょう)站，游戏和剧中曾多次出现，造型方面是把JR樱木町站的南口和JR关内站的南口做了一个缝合（右边的尖顶大门为樱木町站南口大门，左边的拱形顶棚为关内站南口大门的设计）地理位置即为樱木町站所在的横滨市中区"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64376,
+          35.437793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4827,
+        "bangumi_title": "Muv-Luv",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/4827/n7tag8mlg_1723641169805.jpg",
+        "location": "",
+        "point_id": "n7tag8mlg",
+        "point_name": "大丸谷坂",
+        "remark": "上学路，武爷专属起飞跑道（bushi）夕呼和纯夏都是送白银武号上天的著名弹射器姬了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604617,
+          35.437083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4827,
+        "bangumi_title": "Muv-Luv",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/4827/n7tdwm0bk_1723641374653.jpg",
+        "location": "",
+        "point_id": "n7tdwm0bk",
+        "point_name": "見晴らし台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

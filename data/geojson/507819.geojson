@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.942355,
+          34.261007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 507819,
+        "bangumi_title": "一人之下 第六季",
+        "ep_cut": "8",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/507819/points/hd6m5ps-1784812855378.webp",
+        "location": "",
+        "point_id": "hd6m5ps",
+        "point_name": "西安钟楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.186612,
+          39.140524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 507819,
+        "bangumi_title": "一人之下 第六季",
+        "ep_cut": "EP8",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/507819/points/hdcrve3-1784823386242.webp",
+        "location": "",
+        "point_id": "hdcrve3",
+        "point_name": "津门故里牌坊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.004332,
+          32.400326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 507819,
+        "bangumi_title": "一人之下 第六季",
+        "ep_cut": "EP16",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/507819/points/hn7gy28-1785418948183.webp",
+        "location": "",
+        "point_id": "hn7gy28",
+        "point_name": "武当山太和宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.687525,
+          34.723813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 507819,
+        "bangumi_title": "一人之下 第六季",
+        "ep_cut": "EP16",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/507819/points/hn7q71z-1785419383384.webp",
+        "location": "",
+        "point_id": "hn7q71z",
+        "point_name": "永乐宫",
+        "remark": "永乐宫三清殿元代壁画"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

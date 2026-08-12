@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.764791,
+          35.6998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1850,
+        "bangumi_title": "读或死 TV",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/1850/33oyr97_1753764082899.jpg",
+        "location": "",
+        "point_id": "33oyr97",
+        "point_name": "御茶ノ水駅 聖橋",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

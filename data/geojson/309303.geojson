@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.692665,
+          35.681192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "傷だらけの手で、私達は 第7話",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/qo1oktirl-1733376909926.jpg",
+        "location": "",
+        "point_id": "qo1oktirl",
+        "point_name": "サンテラス代々木",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700538,
+          35.659471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "熱風 3Dmv",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/5qmlja6-1759504667329.jpg",
+        "location": "",
+        "point_id": "5qmlja6",
+        "point_name": "涩谷スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699208,
+          35.660191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "中心街游戏地图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/5qosik8-1759508200719.jpg",
+        "location": "",
+        "point_id": "5qosik8",
+        "point_name": "渋谷センター街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700881,
+          35.661967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "游戏内小地图-音乐商店",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/5qpbiko-1759509039857.jpg",
+        "location": "",
+        "point_id": "5qpbiko",
+        "point_name": "タワ一レコ一ド渋谷店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708546,
+          35.667208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "宫益坂",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/5rrftxq-1759573697572.jpg",
+        "location": "",
+        "point_id": "5rrftxq",
+        "point_name": "表参道ヒルズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699196,
+          35.660228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "中心街",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/5rsbmrj-1759574446839.jpg",
+        "location": "",
+        "point_id": "5rsbmrj",
+        "point_name": "渋谷センター街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701442,
+          35.660338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "第186期活动天马咲希卡面花前",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/axndxa5-1770812855739.jpg",
+        "location": "",
+        "point_id": "axndxa5",
+        "point_name": "渋谷駅ハチ公口自転車駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

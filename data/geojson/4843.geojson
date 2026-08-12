@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.018129,
+          29.552317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4843,
+        "bangumi_title": "圣斗士星矢",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4843/points/npu2rxs1v-1725053419596.jpg",
+        "location": "",
+        "point_id": "npu2rxs1v",
+        "point_name": "五老峰",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

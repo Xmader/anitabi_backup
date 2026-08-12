@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.337304,
+          35.657751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 471839,
+        "bangumi_title": "女仆冥土小姐。",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/471839/points/p3tha1twe-1728970277869.jpg",
+        "location": "",
+        "point_id": "p3tha1twe",
+        "point_name": "八王子中町ビル",
+        "remark": "向西望向八王子中町ビル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.340095,
+          35.657593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 471839,
+        "bangumi_title": "女仆冥土小姐。",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/471839/points/p3tm1nuzd-1728970555322.jpg",
+        "location": "",
+        "point_id": "p3tm1nuzd",
+        "point_name": "伝統漢方 薬局火の鳥 八王子店の前の信号",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.347256,
+          35.653631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 471839,
+        "bangumi_title": "女仆冥土小姐。",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/471839/points/p3trn199n-1728970897329.jpg",
+        "location": "",
+        "point_id": "p3trn199n",
+        "point_name": "京王線の踏切（八王子市北野町）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.345576,
+          35.653702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 471839,
+        "bangumi_title": "女仆冥土小姐。",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/471839/points/p3tvcq1hh-1728971117487.jpg",
+        "location": "",
+        "point_id": "p3tvcq1hh",
+        "point_name": "横浜線のアンダーパス付近（八王子市子安町）",
+        "remark": "向东看河对岸的房子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.581788,
+          35.699514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 471839,
+        "bangumi_title": "女仆冥土小姐。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/471839/points/p3u06wbqn-1728971739816.jpg",
+        "location": "",
+        "point_id": "p3u06wbqn",
+        "point_name": "京王井の頭線の踏切 東から",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.581741,
+          35.699406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 471839,
+        "bangumi_title": "女仆冥土小姐。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/471839/points/p3u682asw-1728971846583.jpg",
+        "location": "",
+        "point_id": "p3u682asw",
+        "point_name": "京王井の頭線の踏切（水門通り/吉祥寺南町）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

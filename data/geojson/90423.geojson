@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.491009,
+          31.232275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 90423,
+        "bangumi_title": "Fate Extra CCC 妖狐传",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/90423/points/ii2r6fwd5-1710339786719.jpg",
+        "location": "",
+        "point_id": "ii2r6fwd5",
+        "point_name": "外滩",
+        "remark": "二爷的回忆"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

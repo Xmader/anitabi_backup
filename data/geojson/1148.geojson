@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.526152,
+          25.078697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1148,
+        "bangumi_title": "东方永夜抄 ～ Imperishable Night.",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1148/points/ofpre75so-1727081423169.jpg",
+        "location": "",
+        "point_id": "ofpre75so",
+        "point_name": "圓山大飯店",
+        "remark": "背景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.782472,
+          35.016599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1148,
+        "bangumi_title": "东方永夜抄 ～ Imperishable Night.",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1148/points/ofpwvcfmv-1727081789238.jpg",
+        "location": "",
+        "point_id": "ofpwvcfmv",
+        "point_name": "平安神宮 大極殿",
+        "remark": "背景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.512388,
+          25.060245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1148,
+        "bangumi_title": "东方永夜抄 ～ Imperishable Night.",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1148/points/ofptgpoq7-1727081556390.jpg",
+        "location": "",
+        "point_id": "ofptgpoq7",
+        "point_name": "慈聖宮",
+        "remark": "背景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

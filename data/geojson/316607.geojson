@@ -1,0 +1,845 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.170874,
+          35.809314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/316607/693a5834_1723113650310.jpg",
+        "location": "",
+        "point_id": "693a5834",
+        "point_name": "牧の原公園・古墳型展望山",
+        "remark": "OP画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.111704,
+          35.807088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/316607/e166fec2_1723113653394.jpg",
+        "location": "",
+        "point_id": "e166fec2",
+        "point_name": "印西小倉台郵便局そばのアンダーパス",
+        "remark": "OP画面 特别篇小爱摔手机的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.115782,
+          35.800009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/f5a7cc5f-1728648204535.jpg",
+        "location": "",
+        "point_id": "f5a7cc5f",
+        "point_name": "北总线 千叶新城中央站 站前",
+        "remark": "OP画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.112095,
+          35.802211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/points/316607/b21f8479_1723113659583.jpg",
+        "location": "",
+        "point_id": "b21f8479",
+        "point_name": "永旺夢樂城千葉新市鎮 3楼美食广场",
+        "remark": "OP画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.167235,
+          35.797885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/d61bb4f9-1728648319655.jpg",
+        "location": "",
+        "point_id": "d61bb4f9",
+        "point_name": "有限会社 東日本観光バス",
+        "remark": "ED画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.163704,
+          35.803132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/316607/bd68c624_1723113662066.jpg",
+        "location": "",
+        "point_id": "bd68c624",
+        "point_name": "地中海広場",
+        "remark": "第一话 重要场所 购物中心 滑梯......"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.161487,
+          35.803458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/316607/21b5f89c_1723113663575.jpg",
+        "location": "",
+        "point_id": "21b5f89c",
+        "point_name": "摩天轮",
+        "remark": "第一话 第四话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.162082,
+          35.80313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/316607/9abd22cb_1723113664665.jpg",
+        "location": "",
+        "point_id": "9abd22cb",
+        "point_name": "BIGHOP前",
+        "remark": "第四话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.162122,
+          35.803165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/316607/7a95ec71_1723113665854.jpg",
+        "location": "",
+        "point_id": "7a95ec71",
+        "point_name": "2F",
+        "remark": "第六话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116331,
+          35.800164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/316607/4d978dc0_1723113666945.jpg",
+        "location": "",
+        "point_id": "4d978dc0",
+        "point_name": "千葉ニュータウン中央駅ホーム",
+        "remark": "ED画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.112164,
+          35.80423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/316607/16647829_1723113668490.jpg",
+        "location": "",
+        "point_id": "16647829",
+        "point_name": "大塚前公園",
+        "remark": "ED画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.112529,
+          35.805665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/316607/142ea034_1723113670104.jpg",
+        "location": "",
+        "point_id": "142ea034",
+        "point_name": "小倉台図書館付近",
+        "remark": "第一话 小爱哭的地方"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.118692,
+          35.800964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/316607/ffca70a1_1723113671539.jpg",
+        "location": "",
+        "point_id": "ffca70a1",
+        "point_name": "こすもす大橋",
+        "remark": "第六话 小爱在雨中跑去学校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.129092,
+          35.800693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/316607/01438e7b_1723113672602.jpg",
+        "location": "",
+        "point_id": "01438e7b",
+        "point_name": "コスモスブリッジ",
+        "remark": "第五话 第六话 ED画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.131392,
+          35.796701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/316607/b88262eb_1723113673830.jpg",
+        "location": "",
+        "point_id": "b88262eb",
+        "point_name": "千葉レインボーバス 原山三丁目",
+        "remark": "第二话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.138477,
+          35.793471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/316607/fac421cf_1723113674893.jpg",
+        "location": "",
+        "point_id": "fac421cf",
+        "point_name": "高花的十字路口",
+        "remark": "第一话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.119212,
+          35.794157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/316607/d66d9890_1723113676950.jpg",
+        "location": "",
+        "point_id": "d66d9890",
+        "point_name": "戸神台１丁目",
+        "remark": "第一话 第四话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116055,
+          35.792105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/316607/b689b2b4_1723113679021.jpg",
+        "location": "",
+        "point_id": "b689b2b4",
+        "point_name": "点2 感觉比点1更像",
+        "remark": "第一话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.122671,
+          35.799835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/316607/46b7ccf4_1723113680354.jpg",
+        "location": "",
+        "point_id": "46b7ccf4",
+        "point_name": "北總花之丘公園花と緑の文化館",
+        "remark": "第二话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.115625,
+          35.797563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/316607/055649ad_1723113681985.jpg",
+        "location": "",
+        "point_id": "055649ad",
+        "point_name": "ヴェレーナシティ千葉ニュータウン中央 ザ",
+        "remark": "第五话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.124783,
+          35.799187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/316607/973df718_1723113683713.jpg",
+        "location": "",
+        "point_id": "973df718",
+        "point_name": "B都市の景ゾーン内の有料駐車場(北総花の丘公園)の南東側の橋下",
+        "remark": "第五话"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.162126,
+          35.803477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/316607/ca789a4b_1723113686246.jpg",
+        "location": "",
+        "point_id": "ca789a4b",
+        "point_name": "APINA 印西店",
+        "remark": "第五话 保龄球馆"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.133237,
+          35.794396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "SP",
+        "image_url": "https://w.junreimap.com/images/points/316607/2d5339bc_1723113690380.jpg",
+        "location": "",
+        "point_id": "2d5339bc",
+        "point_name": "櫻井商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.131161,
+          35.798749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "SP",
+        "image_url": "https://w.junreimap.com/images/points/316607/1d34d77a_1723113801341_cut.jpg",
+        "location": "",
+        "point_id": "1d34d77a",
+        "point_name": "原山3丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.116138,
+          35.801059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/39a1ac65-1728648378529.jpg",
+        "location": "",
+        "point_id": "39a1ac65",
+        "point_name": "千葉ニュータウン中央駅北口タクシー乗り場",
+        "remark": "OP画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.135857,
+          35.788903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/316607/416a2289_1723113810030.jpg",
+        "location": "",
+        "point_id": "416a2289",
+        "point_name": "結縁寺步道",
+        "remark": "OP画面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.123009,
+          35.800105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofxrd1iyc-1727098952056.jpg",
+        "location": "",
+        "point_id": "ofxrd1iyc",
+        "point_name": "北総花の丘公園 花と緑の文化館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.123915,
+          35.79982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofxx4vdes-1727099188496.jpg",
+        "location": "",
+        "point_id": "ofxx4vdes",
+        "point_name": "北総花の丘公園 花と緑の文化館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.158298,
+          35.521316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofy4s42fv-1727099648597.jpg",
+        "location": "",
+        "point_id": "ofy4s42fv",
+        "point_name": "千葉ろうさい病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.125757,
+          35.798802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofxz1bn8i-1727099308992.jpg",
+        "location": "",
+        "point_id": "ofxz1bn8i",
+        "point_name": "北総花の丘公園近くの鉄塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.170984,
+          35.809688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofycnf7d1-1727100135136.jpg",
+        "location": "",
+        "point_id": "ofycnf7d1",
+        "point_name": "牧の原公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.131301,
+          35.804477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofy1o7fgh-1727099462952.jpg",
+        "location": "",
+        "point_id": "ofy1o7fgh",
+        "point_name": "千葉NT変電所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041334,
+          35.648252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/2123/bangumi/316607/points/ofy7zrzox-1727099843189.jpg",
+        "location": "",
+        "point_id": "ofy7zrzox",
+        "point_name": "JR海浜幕張駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.121836,
+          35.798508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/p9j7j6b1n-1729418343718.jpg",
+        "location": "",
+        "point_id": "p9j7j6b1n",
+        "point_name": "北総花の丘公園南側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.764997,
+          35.671957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/p9ikdsvkz-1729417476719.jpg",
+        "location": "",
+        "point_id": "p9ikdsvkz",
+        "point_name": "Charcoal Roast Coffee RIN Main Store",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.167514,
+          35.797587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/p9joge5xn-1729419119183.jpg",
+        "location": "",
+        "point_id": "p9joge5xn",
+        "point_name": "サングランデ印西牧の原ドアシティ 南侧",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.134763,
+          35.789711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "op",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/p9mw1lgfl-1729426398844.jpg",
+        "location": "",
+        "point_id": "p9mw1lgfl",
+        "point_name": "結縁寺池旁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.119201,
+          35.794667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/p9l97lqpm-1729422542512.jpg",
+        "location": "",
+        "point_id": "p9l97lqpm",
+        "point_name": "戸神台１丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.129124,
+          35.800644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "ed",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/p9lndfuu2-1729423489126.jpg",
+        "location": "",
+        "point_id": "p9lndfuu2",
+        "point_name": "原山2丁目旁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.137361,
+          35.792205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/316607/qw0pob688_1734001405423.jpg",
+        "location": "",
+        "point_id": "qw0pob688",
+        "point_name": "高花六丁目旁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.130294,
+          35.799349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "13",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/tbkcmslxs-1740861772053.jpg",
+        "location": "",
+        "point_id": "tbkcmslxs",
+        "point_name": "印西市立原山小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.137299,
+          35.792618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316607,
+        "bangumi_title": "奇蛋物语",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316607/points/c7h8ole-1773583999341.jpg",
+        "location": "",
+        "point_id": "c7h8ole",
+        "point_name": "高花六丁目树坛",
+        "remark": "去谷歌地图站在东边向西看就能看到一模一样的场景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

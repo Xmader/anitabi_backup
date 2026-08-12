@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.498409,
+          25.038605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4284,
+        "bangumi_title": "亲吻姐姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4284/points/n9t7hxqg7-1723797661977.jpg",
+        "location": "",
+        "point_id": "n9t7hxqg7",
+        "point_name": "華西街観光夜市",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.551496,
+          25.063478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4284,
+        "bangumi_title": "亲吻姐姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/4284/points/n9t8y0er1-1723797712438.jpg",
+        "location": "",
+        "point_id": "n9t8y0er1",
+        "point_name": "松山机场",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

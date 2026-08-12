@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.746399,
+          35.742692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1377,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1377/points/kq8r3sohv-1725435380490.jpg",
+        "location": "",
+        "point_id": "kq8r3sohv",
+        "point_name": "旧古河庭園",
+        "remark": "右代宫家大屋的外景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.680242,
+          35.66214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1377,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1377/points/kq8xnv906-1725435488016.jpg",
+        "location": "",
+        "point_id": "kq8xnv906",
+        "point_name": "旧​前田​侯爵​邸​洋館",
+        "remark": "右代宫家大屋的内景和外景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.651322,
+          35.437547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1377,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kq938nxza",
+        "point_name": "横滨山手西洋馆",
+        "remark": "右代宫家大屋内景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767399,
+          35.709793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1377,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kq95fpnp8",
+        "point_name": "旧岩崎邸庭园",
+        "remark": "右代宫家的礼拜堂"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767593,
+          35.709659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1377,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1377/points/aj3sr15-1769933470353.jpg",
+        "location": "",
+        "point_id": "aj3sr15",
+        "point_name": "都立旧岩崎邸庭園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767204,
+          35.709695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1377,
+        "bangumi_title": "海猫鸣泣之时",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/1377/points/aj3unfa-1769933561685.jpg",
+        "location": "",
+        "point_id": "aj3unfa",
+        "point_name": "都立旧岩崎邸庭園大厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

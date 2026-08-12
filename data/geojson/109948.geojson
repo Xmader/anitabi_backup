@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.701097,
+          35.693639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109948,
+        "bangumi_title": "CROSS ANGE 天使与龙的轮舞",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "クロスアンジュ 天使と竜の輪舞map",
+        "point_id": "51i5275ov",
+        "point_name": "歌舞伎町交差点付近",
+        "remark": "13話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704616,
+          35.698327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109948,
+        "bangumi_title": "CROSS ANGE 天使与龙的轮舞",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "クロスアンジュ 天使と竜の輪舞map",
+        "point_id": "51i5275sp",
+        "point_name": "都道302号",
+        "remark": "13話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.746866,
+          35.676297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109948,
+        "bangumi_title": "CROSS ANGE 天使与龙的轮舞",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "クロスアンジュ 天使と竜の輪舞map",
+        "point_id": "51i5275g2",
+        "point_name": "国会議事堂",
+        "remark": "13話"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          131.615067,
+          33.261538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220514,
+        "bangumi_title": "致我深爱的每个你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1058/bangumi/220514/points/jvlurjb37-1714221361360.jpg",
+        "location": "",
+        "point_id": "jvlurjb37",
+        "point_name": "葉秀倉庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.22208,
+          33.596826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 220514,
+        "bangumi_title": "致我深爱的每个你",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1058/bangumi/220514/points/jvmegt6mw-1714222546166.jpg",
+        "location": "",
+        "point_id": "jvmegt6mw",
+        "point_name": "九州大学伊都キャンパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.647809,
+          35.447513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9605,
+        "bangumi_title": "我的女神 缤纷之翼",
+        "ep_cut": "第1话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9605/points/gakuc5p-1782478649254.webp",
+        "location": "",
+        "point_id": "gakuc5p",
+        "point_name": "山下公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,825 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.203796,
+          34.676898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109375/5cfmla0_1758646106193.jpg",
+        "location": "fate stay night × 神户观光局",
+        "point_id": "5cfmla0",
+        "point_name": "ポートアイランド 北公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.189587,
+          34.70135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109375/5cfo6e1_1759401327838.jpg",
+        "location": "fate stay night × 神户观光局",
+        "point_id": "5cfo6e1",
+        "point_name": "風見鶏の館（旧トーマス住宅）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.190799,
+          34.702843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/109375/5cfov3i_1759401378367.jpg",
+        "location": "fate stay night × 神户观光局",
+        "point_id": "5cfov3i",
+        "point_name": "うろこの家(旧ハリヤー邸)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549123,
+          35.378836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83m24ve9-1723663596704.jpg",
+        "location": "横滨",
+        "point_id": "n83m24ve9",
+        "point_name": "見晴橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.533919,
+          35.401469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83km9ngq-1723663464508.jpg",
+        "location": "横滨",
+        "point_id": "n83km9ngq",
+        "point_name": "JR戸塚駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.803551,
+          35.640623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83sil8r1-1723663944059.jpg",
+        "location": "",
+        "point_id": "n83sil8r1",
+        "point_name": "東雲駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.619068,
+          35.72013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83g79ula-1723663195110.jpg",
+        "location": "",
+        "point_id": "n83g79ula",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618752,
+          35.72011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83guz2bk-1723663232758.jpg",
+        "location": "",
+        "point_id": "n83guz2bk",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618899,
+          35.720075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83hbhs8z-1723663256440.jpg",
+        "location": "",
+        "point_id": "n83hbhs8z",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618903,
+          35.720093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83hv7ozv-1723663290927.jpg",
+        "location": "",
+        "point_id": "n83hv7ozv",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.61887,
+          35.720083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83i3o7ac-1723663303241.jpg",
+        "location": "",
+        "point_id": "n83i3o7ac",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618961,
+          35.720109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83ijrodu-1723663330723.jpg",
+        "location": "",
+        "point_id": "n83ijrodu",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.619095,
+          35.720141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83jig2iw-1723663388610.jpg",
+        "location": "",
+        "point_id": "n83jig2iw",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.61908,
+          35.720127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83jy979h-1723663419597.jpg",
+        "location": "",
+        "point_id": "n83jy979h",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.189565,
+          34.701355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83pu2m18-1723663772735.jpg",
+        "location": "神户",
+        "point_id": "n83pu2m18",
+        "point_name": "風見鶏の館",
+        "remark": "遠坂邸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624391,
+          35.718864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n833czgr8-1723662414175.jpg",
+        "location": "下井草",
+        "point_id": "n833czgr8",
+        "point_name": "下井草3丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549238,
+          35.38135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n835izj4y-1723662550797.jpg",
+        "location": "横滨",
+        "point_id": "n835izj4y",
+        "point_name": "下倉田第二公園付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.54938,
+          35.381557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n8351hodn-1723662515020.jpg",
+        "location": "横滨",
+        "point_id": "n8351hodn",
+        "point_name": "下倉田第二公園付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618006,
+          35.724045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82q99o2u-1723661657583.jpg",
+        "location": "下井草",
+        "point_id": "n82q99o2u",
+        "point_name": "下井草4丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.617983,
+          35.724012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82sdxaje-1723661750200.jpg",
+        "location": "下井草",
+        "point_id": "n82sdxaje",
+        "point_name": "下井草4丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618797,
+          35.720199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82tucgyb-1723661838220.jpg",
+        "location": "",
+        "point_id": "n82tucgyb",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.724855,
+          35.567952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n838m48ho-1723662744152.jpg",
+        "location": "",
+        "point_id": "n838m48ho",
+        "point_name": "珈琲 琵琶湖",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.724902,
+          35.567935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n838y9kpu-1723662751853.jpg",
+        "location": "",
+        "point_id": "n838y9kpu",
+        "point_name": "珈琲 琵琶湖",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765732,
+          35.666207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n836pdlsv-1723662616248.jpg",
+        "location": "",
+        "point_id": "n836pdlsv",
+        "point_name": "パウパウアクアガーデン 銀座店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765645,
+          35.66619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n836x3zkw-1723662629002.jpg",
+        "location": "",
+        "point_id": "n836x3zkw",
+        "point_name": "パウパウアクアガーデン 銀座店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.554256,
+          35.38553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83nkht3h-1723663634769.jpg",
+        "location": "横滨",
+        "point_id": "n83nkht3h",
+        "point_name": "舞岡公園 おおばなの丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55383,
+          35.385166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83o3bja1-1723663665716.jpg",
+        "location": "横滨",
+        "point_id": "n83o3bja1",
+        "point_name": "舞岡公園 おおばなの丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553993,
+          35.385126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83oduge9-1723663683329.jpg",
+        "location": "横滨",
+        "point_id": "n83oduge9",
+        "point_name": "舞岡公園 おおばなの丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55382,
+          35.385142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83os7iw4-1723663707476.jpg",
+        "location": "横滨",
+        "point_id": "n83os7iw4",
+        "point_name": "舞岡公園 おおばなの丘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.532447,
+          35.399599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82w6sjnd-1723661980800.jpg",
+        "location": "横滨",
+        "point_id": "n82w6sjnd",
+        "point_name": "仁天堂薬局本店前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.204052,
+          34.677425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82y90wud-1723662112974.jpg",
+        "location": "神户",
+        "point_id": "n82y90wud",
+        "point_name": "神戸大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670288,
+          35.696833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83rmz7v6-1723663886465.jpg",
+        "location": "",
+        "point_id": "n83rmz7v6",
+        "point_name": "ミニストップ 中野鍋横店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.670253,
+          35.696818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83rzvnbi-1723663903188.jpg",
+        "location": "",
+        "point_id": "n83rzvnbi",
+        "point_name": "ミニストップ 中野鍋横店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618829,
+          35.720232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82tg6qwi-1723661823191.jpg",
+        "location": "",
+        "point_id": "n82tg6qwi",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618765,
+          35.720061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82uhczgg-1723661877537.jpg",
+        "location": "",
+        "point_id": "n82uhczgg",
+        "point_name": "中瀬児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488463,
+          35.348142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n839nrbfj-1723662794982.jpg",
+        "location": "",
+        "point_id": "n839nrbfj",
+        "point_name": "遊行寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488377,
+          35.348145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83aqnwuu-1723662860190.jpg",
+        "location": "",
+        "point_id": "n83aqnwuu",
+        "point_name": "遊行寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.488287,
+          35.347985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83a0rhi2-1723662816134.jpg",
+        "location": "",
+        "point_id": "n83a0rhi2",
+        "point_name": "遊行寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624288,
+          35.719373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n83f3zjr2-1723663127947.jpg",
+        "location": "下井草",
+        "point_id": "n83f3zjr2",
+        "point_name": "下井草3丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.545184,
+          35.383794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82xauvnj-1723662051635.jpg",
+        "location": "横滨",
+        "point_id": "n82xauvnj",
+        "point_name": "下倉田角前公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.544938,
+          35.384019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109375,
+        "bangumi_title": "命运之夜 天之杯：恶兆之花",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/132555/points/n82wwm6x1-1723662028891.jpg",
+        "location": "横滨",
+        "point_id": "n82wwm6x1",
+        "point_name": "下倉田角前公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

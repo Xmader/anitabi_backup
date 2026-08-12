@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          127.680721,
+          26.213656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45842,
+        "bangumi_title": "变态王子与不笑猫。",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/45842/points/966q2qh-1766975731675.jpg",
+        "location": "",
+        "point_id": "966q2qh",
+        "point_name": "A&W 国際通り松尾店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

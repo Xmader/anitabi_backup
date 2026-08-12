@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.767317,
+          35.522681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 588364,
+        "bangumi_title": "极限竞速 地平线6",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/588364/5f6eupp_1758812317038.jpg",
+        "location": "",
+        "point_id": "5f6eupp",
+        "point_name": "民宿 湖舞家(こまや)",
+        "remark": "TGS预告片"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.873706,
+          1.30319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 268067,
+        "bangumi_title": "名侦探柯南 绀青之拳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/268067/points/me4gg1ds4-1721314520826.jpg",
+        "location": "",
+        "point_id": "me4gg1ds4",
+        "point_name": "national stadium",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.854327,
+          1.28788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 268067,
+        "bangumi_title": "名侦探柯南 绀青之拳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/268067/points/me4ex6xxj-1721314395707.jpg",
+        "location": "",
+        "point_id": "me4ex6xxj",
+        "point_name": "Jubilee Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.854387,
+          1.286751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 268067,
+        "bangumi_title": "名侦探柯南 绀青之拳",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/268067/points/me4avux4y-1721314303496.jpg",
+        "location": "",
+        "point_id": "me4avux4y",
+        "point_name": "Merlion",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

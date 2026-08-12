@@ -1,0 +1,605 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.625007,
+          35.907907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzycqdbtp_1720206408063.jpg",
+        "location": "",
+        "point_id": "lzycqdbtp",
+        "point_name": "大宮一番街商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626105,
+          35.908131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyexcqsl_1720206409197.jpg",
+        "location": "",
+        "point_id": "lzyexcqsl",
+        "point_name": "​串カツ​田中​ 大宮​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626287,
+          35.908191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyfym8t1_1720206410868.jpg",
+        "location": "",
+        "point_id": "lzyfym8t1",
+        "point_name": "大宮一番街商店街 自転車走行禁止看板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625569,
+          35.908398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyl1o1qb_1720206412576.jpg",
+        "location": "",
+        "point_id": "lzyl1o1qb",
+        "point_name": "大宮一番街商店街 脇道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625964,
+          35.908105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzynm7v4m_1720206413712.jpg",
+        "location": "",
+        "point_id": "lzynm7v4m",
+        "point_name": "アカマル屋 大宮一番街店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.607373,
+          35.865508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzxzn1x47_1720207079615.jpg",
+        "location": "",
+        "point_id": "lzxzn1x47",
+        "point_name": "埼玉大学",
+        "remark": "门内雕像名为「地ニノゾミ知ヲマトウ」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765408,
+          35.699036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzy669mbd_1720206403197.jpg",
+        "location": "",
+        "point_id": "lzy669mbd",
+        "point_name": "新御茶ノ水駅 B1出口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760411,
+          35.695873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzya05gua_1720206404537.jpg",
+        "location": "",
+        "point_id": "lzya05gua",
+        "point_name": "八木書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75701,
+          35.695783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyae9kag_1720206405572.jpg",
+        "location": "",
+        "point_id": "lzyae9kag",
+        "point_name": "矢口書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606496,
+          35.743357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyo9uduf_1720206414815.jpg",
+        "location": "",
+        "point_id": "lzyo9uduf",
+        "point_name": "石神井公園駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759733,
+          35.695857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzybspk6r_1720206406211.jpg",
+        "location": "",
+        "point_id": "lzybspk6r",
+        "point_name": "書泉グランデ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759813,
+          35.696119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyr1uw8f_1720206406704.jpg",
+        "location": "",
+        "point_id": "lzyr1uw8f",
+        "point_name": "イル・ヴィゴーレ 神田神保町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.757542,
+          34.757658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzhi7azh_1720207149348.jpg",
+        "location": "",
+        "point_id": "lzzhi7azh",
+        "point_name": "さぎの宮駅",
+        "remark": "动画制作组与远州铁道联动，并以远州铁道鹭之宫站为动画中如月车站原型。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60629,
+          35.743257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzz93uzx0_1720206415901.jpg",
+        "location": "",
+        "point_id": "lzz93uzx0",
+        "point_name": "石神井公園駅南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606198,
+          35.743271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzafxe0a_1720206416581.jpg",
+        "location": "",
+        "point_id": "lzzafxe0a",
+        "point_name": "練馬区立ほほえみ緑地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606193,
+          35.743282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzawmogk_1720206417586.jpg",
+        "location": "",
+        "point_id": "lzzawmogk",
+        "point_name": "おぼんdeごはん エミオ石神井公園店前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606397,
+          35.743194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzbp6y2t_1720206418321.jpg",
+        "location": "",
+        "point_id": "lzzbp6y2t",
+        "point_name": "石神井公園駅南口 横断歩道前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606567,
+          35.743205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzd6a7gt_1720206419177.jpg",
+        "location": "",
+        "point_id": "lzzd6a7gt",
+        "point_name": "石神井公園駅南口 街灯",
+        "remark": "该路灯为自西向东穿过斑马线后左手边第一个路灯，远处的高层建筑为石神井公園ピアレス。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606184,
+          35.743272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzevkqsq_1720206420541.jpg",
+        "location": "",
+        "point_id": "lzzevkqsq",
+        "point_name": "練馬区立ほほえみ緑地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.606208,
+          35.743278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzzewvk88_1720206421921.jpg",
+        "location": "",
+        "point_id": "lzzewvk88",
+        "point_name": "練馬区立ほほえみ緑地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714344,
+          35.727695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzytha367_1720206422601.jpg",
+        "location": "",
+        "point_id": "lzytha367",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71423,
+          35.727699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyvve8qd_1720206423641.jpg",
+        "location": "",
+        "point_id": "lzyvve8qd",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714161,
+          35.727836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzz0wv2b0_1720206424638.jpg",
+        "location": "",
+        "point_id": "lzz0wv2b0",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71436,
+          35.727227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyuomuoy_1720206423285.jpg",
+        "location": "",
+        "point_id": "lzyuomuoy",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713203,
+          35.726415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyse5xly_1720206422261.jpg",
+        "location": "",
+        "point_id": "lzyse5xly",
+        "point_name": "cafe pause",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714074,
+          35.727725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyydmjud_1720206423962.jpg",
+        "location": "",
+        "point_id": "lzyydmjud",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714234,
+          35.727282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyu2ik6j_1720206422953.jpg",
+        "location": "",
+        "point_id": "lzyu2ik6j",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.714395,
+          35.727685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzyz6f50q_1720206424342.jpg",
+        "location": "",
+        "point_id": "lzyz6f50q",
+        "point_name": "南池袋公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709978,
+          35.731403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzz7oe81m_1720206425222.jpg",
+        "location": "",
+        "point_id": "lzz7oe81m",
+        "point_name": "モザイクカルチャー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.709729,
+          35.730646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 301601,
+        "bangumi_title": "里世界郊游",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/301601/lzz2vfg8r_1720206424935.jpg",
+        "location": "",
+        "point_id": "lzz2vfg8r",
+        "point_name": "第一西池ビル前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          130.739025,
+          32.811177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 896,
+        "bangumi_title": "向阳素描",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/896/k2b8pp7xy_1714756494042.jpg",
+        "location": "",
+        "point_id": "k2b8pp7xy",
+        "point_name": "ひだまり荘",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

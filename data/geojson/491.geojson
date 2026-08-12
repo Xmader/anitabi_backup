@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.623444,
+          35.909159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491,
+        "bangumi_title": "灼眼的夏娜II",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/491/points/pvr3dngfi-1731159339974.jpg",
+        "location": "",
+        "point_id": "pvr3dngfi",
+        "point_name": "大栄橋(たいえいばし)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622626,
+          35.908873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491,
+        "bangumi_title": "灼眼的夏娜II",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/491/points/pvr6xmwfo-1731159482949.jpg",
+        "location": "",
+        "point_id": "pvr6xmwfo",
+        "point_name": "大栄橋(たいえいばし)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624309,
+          35.906546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491,
+        "bangumi_title": "灼眼的夏娜II",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/491/points/pvrwuuzz3-1731161205104.jpg",
+        "location": "",
+        "point_id": "pvrwuuzz3",
+        "point_name": "JR大宮駅 中央改札（北）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.624052,
+          35.906298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491,
+        "bangumi_title": "灼眼的夏娜II",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/491/points/pvrv69m68-1731160974995.jpg",
+        "location": "",
+        "point_id": "pvrv69m68",
+        "point_name": "行きかう・線 まめの木",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

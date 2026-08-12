@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.570893,
+          35.668343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/7707/points/n7zrouqx8-1723655206076.jpg",
+        "location": "",
+        "point_id": "n7zrouqx8",
+        "point_name": "山梨文化会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756766,
+          35.690978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7707/points/60vfx5g-1760123899669.jpg",
+        "location": "",
+        "point_id": "60vfx5g",
+        "point_name": "PalaceSide大厦",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751213,
+          35.518849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7707/points/60vscdn-1760124593318.jpg",
+        "location": "",
+        "point_id": "60vscdn",
+        "point_name": "神奈川県川崎市サンケミカル株式会社",
+        "remark": "开头的空境头"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772412,
+          35.51945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7707/points/60wki63-1760125810001.jpg",
+        "location": "",
+        "point_id": "60wki63",
+        "point_name": "JXTGエネルギー川崎製造所   ",
+        "remark": "开头的一处空境头(具体的位置不是很清楚，大概就在那附近)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751822,
+          35.515527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7707/points/60ww09f-1760126314569.jpg",
+        "location": "",
+        "point_id": "60ww09f",
+        "point_name": "サンアロマー(株) ",
+        "remark": "动画开头的空镜头(具体位置不清楚，大概就在那附近)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.708921,
+          35.471251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7707/points/60xawnq-1760127045028.jpg",
+        "location": "",
+        "point_id": "60xawnq",
+        "point_name": "JFEスチール東日本製鉄所 ",
+        "remark": "开头的一处空镜头(具体位置不清楚，大概就在那附近)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744322,
+          35.486607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 7707,
+        "bangumi_title": "伤物语Ⅰ铁血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/7707/points/60xu3iy-1760127900159.jpg",
+        "location": "",
+        "point_id": "60xu3iy",
+        "point_name": "東扇島西公園",
+        "remark": "羽川翼与阿良良木历的初次正式交谈"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

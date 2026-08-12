@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.735628,
+          35.691908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52mxqb",
+        "point_name": "市ヶ谷フィッシュセンター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.780476,
+          35.712015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52mxgb",
+        "point_name": "ハローワーク上野",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.577077,
+          35.699841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52mxm4",
+        "point_name": "井の頭公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48373,
+          35.665066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52mxiy",
+        "point_name": "東京競馬場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706819,
+          35.666956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52mxkd",
+        "point_name": "スターバックスコーヒー 表参道B-SIDE店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770666,
+          35.665486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52mxvp",
+        "point_name": "築地市場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.580541,
+          35.706487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52my8o",
+        "point_name": "吉祥寺プラザ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794241,
+          35.62982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 139408,
+        "bangumi_title": "阿松",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "51i52myfn",
+        "point_name": "東京ビッグサイト",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

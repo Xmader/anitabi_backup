@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.107467,
+          22.559319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321744,
+        "bangumi_title": "虚忆定格",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/321744/points/dcxa7tc-1776090068756.jpg",
+        "location": "",
+        "point_id": "dcxa7tc",
+        "point_name": "江门一中 图书馆前广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.105393,
+          22.558042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321744,
+        "bangumi_title": "虚忆定格",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/321744/points/dcxgc9k-1776090329518.jpg",
+        "location": "",
+        "point_id": "dcxgc9k",
+        "point_name": "江门一中 操场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.107115,
+          22.559465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321744,
+        "bangumi_title": "虚忆定格",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/321744/points/dcxlyyz-1776090584093.jpg",
+        "location": "",
+        "point_id": "dcxlyyz",
+        "point_name": "江门一中 图书馆走廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.107936,
+          22.559828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321744,
+        "bangumi_title": "虚忆定格",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/321744/points/dcy2wxd-1776091379387.jpg",
+        "location": "",
+        "point_id": "dcy2wxd",
+        "point_name": "江门一中 艺术楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

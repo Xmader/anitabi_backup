@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.388051,
+          34.97223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3110,
+        "bangumi_title": "灼眼的夏娜S",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/3110/points/pvsg2id1h-1731162377276.jpg",
+        "location": "",
+        "point_id": "pvsg2id1h",
+        "point_name": "静岡駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.388178,
+          34.975943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3110,
+        "bangumi_title": "灼眼的夏娜S",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/3110/points/q699vbg3m-1731982551574.jpg",
+        "location": "",
+        "point_id": "q699vbg3m",
+        "point_name": "新静岡駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

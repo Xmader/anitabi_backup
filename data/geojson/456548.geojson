@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.698292,
+          35.660982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 456548,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来 主线故事 摘要动画 Journey to Bloom",
+        "ep_cut": "Leo/need篇",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/456548/points/b3h06pg-1771165241425.jpg",
+        "location": "",
+        "point_id": "b3h06pg",
+        "point_name": "アドアーズ 渋谷店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

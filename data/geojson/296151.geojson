@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.635778,
+          35.327232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/296151/kc5l5ez2d_1722531302341_half.jpg",
+        "location": "",
+        "point_id": "kc5l5ez2d",
+        "point_name": "野島公園",
+        "remark": "剧情中的“星见公园”，可以俯瞰星见市附近的海滨。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621301,
+          35.330426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/296151/kc5sqi148_1722531306943_half.jpg",
+        "location": "",
+        "point_id": "kc5sqi148",
+        "point_name": "八景​メディカルビル",
+        "remark": "星见PRODUCTION所在的大楼。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638042,
+          35.345142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/296151/kc630pz0c_1722531310878_half.jpg",
+        "location": "",
+        "point_id": "kc630pz0c",
+        "point_name": "TAIRAYA",
+        "remark": "一之濑怜打工的TAKEMIYA超市"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.634314,
+          35.329937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/296151/kc5tl273v_1722531322836_half.jpg",
+        "location": "",
+        "point_id": "kc5tl273v",
+        "point_name": "旧​伊藤​博文​金沢​別邸",
+        "remark": "星见寮原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620068,
+          35.512272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/296151/points/kc6swhu69-1715520619096.jpg",
+        "location": "",
+        "point_id": "kc6swhu69",
+        "point_name": "横浜アリーナ",
+        "remark": "NEXT VENUS GRAND PRIX举办地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620327,
+          35.331737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/296151/kc6r6dotj_1722531331717_half.jpg",
+        "location": "",
+        "point_id": "kc6r6dotj",
+        "point_name": "金沢八景駅",
+        "remark": "“星见站”的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.635111,
+          35.339463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 296151,
+        "bangumi_title": "IDOLY PRIDE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/296151/kc5wm9jbu_1722531340580_half.jpg",
+        "location": "",
+        "point_id": "kc5wm9jbu",
+        "point_name": "海の公園",
+        "remark": "长濑麻奈高中时曾在此唱歌，被路过的三枝信司相中。新一代星见Production结成后，成员们也经常在这里晨跑。从海边望去，可以看到一座岛屿和游乐设施（八景岛海岛乐园）。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

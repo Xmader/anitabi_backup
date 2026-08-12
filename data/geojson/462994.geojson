@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.263879,
+          23.123511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 462994,
+        "bangumi_title": "望月",
+        "ep_cut": "望月 城市先导片",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/462994/points/72mr0s6-1762406979727.jpg",
+        "location": "",
+        "point_id": "72mr0s6",
+        "point_name": "永汉电影院(北京路总店)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.328266,
+          23.115549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 462994,
+        "bangumi_title": "望月",
+        "ep_cut": "望月 城市先导片",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/462994/points/72mwah6-1762407225023.jpg",
+        "location": "",
+        "point_id": "72mwah6",
+        "point_name": "猎德大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.319506,
+          23.108895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 462994,
+        "bangumi_title": "望月",
+        "ep_cut": "望月 城市先导片",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/462994/points/72n1n2j-1762407475764.jpg",
+        "location": "",
+        "point_id": "72n1n2j",
+        "point_name": "广州塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.319349,
+          23.109129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 462994,
+        "bangumi_title": "望月",
+        "ep_cut": "望月 城市先导片",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/462994/points/72n2e86-1762407509048.jpg",
+        "location": "",
+        "point_id": "72n2e86",
+        "point_name": "广州塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.26381,
+          23.123801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 462994,
+        "bangumi_title": "望月",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/462994/points/761qf31-1762613540099.jpg",
+        "location": "",
+        "point_id": "761qf31",
+        "point_name": "北京路商业步行街",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

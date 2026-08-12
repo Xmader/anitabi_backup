@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.84926,
+          35.738363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 276787,
+        "bangumi_title": "梅比乌斯之尘",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/276787/points/cnagw1h-1774540065271.jpg",
+        "location": "",
+        "point_id": "cnagw1h",
+        "point_name": "京成立石駅",
+        "remark": "预告海报"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.836351,
+          35.74074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 276787,
+        "bangumi_title": "梅比乌斯之尘",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/276787/points/gxkcsqi-1783868458013.webp",
+        "location": "",
+        "point_id": "gxkcsqi",
+        "point_name": "末廣湯",
+        "remark": "葛饰区的一家钱湯"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

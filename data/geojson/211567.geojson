@@ -1,0 +1,1105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.78607,
+          35.665615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/5b23n1v-1758562970393.jpg",
+        "location": "",
+        "point_id": "5b23n1v",
+        "point_name": "佃大通",
+        "remark": "马路对面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783793,
+          35.667803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b1a6lo_1758571135236_cblack.jpg",
+        "location": "佃小橋",
+        "point_id": "5b1a6lo",
+        "point_name": "佃小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782687,
+          35.671995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b1d8kr_1758571114268_c16v9.jpg",
+        "location": "",
+        "point_id": "5b1d8kr",
+        "point_name": "霊岸島検潮所・量水標跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784369,
+          35.670622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b1y99d_1758571130818_c16v9.jpg",
+        "location": "",
+        "point_id": "5b1y99d",
+        "point_name": "佃公園",
+        "remark": "背景有些差别，疑似取景地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782513,
+          35.668195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/5b2h7mt-1758563562611.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5b2h7mt",
+        "point_name": "住吉神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782612,
+          35.668285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/5b2i98w-1758563608671.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5b2i98w",
+        "point_name": "住吉神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782985,
+          35.666653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/5b2kd65-1758563741291.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5b2kd65",
+        "point_name": "佃公园 佃堀广场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783461,
+          35.667286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/5b2mzmz-1758563833723.jpg",
+        "location": "佃小橋",
+        "point_id": "5b2mzmz",
+        "point_name": "佃小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782222,
+          35.667615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/5b3qzur-1758565693778.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5b3qzur",
+        "point_name": "佃煮 天安本店",
+        "remark": "动画内三日月堂的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782035,
+          35.667716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59o9l88-1758479329265.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59o9l88",
+        "point_name": "佃大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781995,
+          35.667646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59od1hn-1758479383642.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59od1hn",
+        "point_name": "佃大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779933,
+          35.667608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59oemig-1758479475143.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59oemig",
+        "point_name": "佃大橋下",
+        "remark": "朝河对面拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781745,
+          35.666698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59ohm4p-1758479598832.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59ohm4p",
+        "point_name": "佃大橋下",
+        "remark": "实际上这里没有椅子，背景也有所不同"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78167,
+          35.666721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59oksnf-1758479782657.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59oksnf",
+        "point_name": "佃大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781747,
+          35.666713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59omqpi-1758479848092.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59omqpi",
+        "point_name": "佃大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781666,
+          35.666739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/211567/points/59oo9y0-1758551540854.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59oo9y0",
+        "point_name": "佃大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781754,
+          35.666709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/211567/points/59op9zb-1758551915057.jpg",
+        "location": "佃大橋周边",
+        "point_id": "59op9zb",
+        "point_name": "佃大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783453,
+          35.66727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b52y6a_1758567985579.jpg",
+        "location": "佃小橋",
+        "point_id": "5b52y6a",
+        "point_name": "佃小桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783376,
+          35.667304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b56b7l_1758568088820.jpg",
+        "location": "佃小橋",
+        "point_id": "5b56b7l",
+        "point_name": "佃小桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783351,
+          35.667243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b58q4d_1758568198624.jpg",
+        "location": "佃小橋",
+        "point_id": "5b58q4d",
+        "point_name": "佃小桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783143,
+          35.671948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b5b0nn_1758568337484.jpg",
+        "location": "",
+        "point_id": "5b5b0nn",
+        "point_name": "霊岸島検潮所・量水標跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783741,
+          35.672596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b5emje_1758568506485.jpg",
+        "location": "",
+        "point_id": "5b5emje",
+        "point_name": "中央大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758753,
+          34.986452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b6evb0_1758570195301.jpg",
+        "location": "",
+        "point_id": "5b6evb0",
+        "point_name": "京都站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75851,
+          34.986612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5b6gsvw_1758570272692.jpg",
+        "location": "",
+        "point_id": "5b6gsvw",
+        "point_name": "京都站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.766933,
+          35.003773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bwbxbq_1758613928280.jpg",
+        "location": "",
+        "point_id": "5bwbxbq",
+        "point_name": "新京极商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767161,
+          35.003771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bw7bxd_1758613483420.jpg",
+        "location": "",
+        "point_id": "5bw7bxd",
+        "point_name": "新京极商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767205,
+          35.003962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bw1yys_1758613278855.jpg",
+        "location": "",
+        "point_id": "5bw1yys",
+        "point_name": "新京极商店街",
+        "remark": "寻找日向，进出都是这个口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767188,
+          35.005017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59nym1r-1758478715492.jpg",
+        "location": "",
+        "point_id": "59nym1r",
+        "point_name": "锦天满宫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767172,
+          35.003962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bw4c6f_1758613366611.jpg",
+        "location": "",
+        "point_id": "5bw4c6f",
+        "point_name": "新京极商店街",
+        "remark": "出"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767341,
+          35.003771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bwjyb0_1758614074406.jpg",
+        "location": "",
+        "point_id": "5bwjyb0",
+        "point_name": "新京极商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771342,
+          35.00391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/147068/points/59najfq-1758477639337.jpg",
+        "location": "",
+        "point_id": "59najfq",
+        "point_name": "四条大橋",
+        "remark": "零在寻找日向"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771526,
+          35.003915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59nfxbq-1758477886588.jpg",
+        "location": "",
+        "point_id": "59nfxbq",
+        "point_name": "四条大橋",
+        "remark": "视点在桥上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771994,
+          35.00561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59nn7xf-1758478190792.jpg",
+        "location": "",
+        "point_id": "59nn7xf",
+        "point_name": "花の回廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772049,
+          35.005605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59ns9dw-1758478430848.jpg",
+        "location": "",
+        "point_id": "59ns9dw",
+        "point_name": "花の回廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.772051,
+          35.005697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/2196/bangumi/211567/points/59nttgw-1758478491032.jpg",
+        "location": "",
+        "point_id": "59nttgw",
+        "point_name": "花の回廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771507,
+          35.005587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/211567/5br22r3_1758604874938.jpg",
+        "location": "",
+        "point_id": "5br22r3",
+        "point_name": "花の回廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771977,
+          35.005661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/211567/5br5ijr_1758604999669.jpg",
+        "location": "",
+        "point_id": "5br5ijr",
+        "point_name": "花の回廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771994,
+          35.005619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/211567/5brc77l_1758605360215.jpg",
+        "location": "",
+        "point_id": "5brc77l",
+        "point_name": "花の回廊",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78359,
+          35.667151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/211567/5brkibr_1758605727588.jpg",
+        "location": "佃小橋",
+        "point_id": "5brkibr",
+        "point_name": "佃小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783965,
+          35.672588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/211567/5brujtm_1758606183096.jpg",
+        "location": "",
+        "point_id": "5brujtm",
+        "point_name": "中央大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.017982,
+          39.680137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bsi6w6_1758607291874.jpg",
+        "location": "",
+        "point_id": "5bsi6w6",
+        "point_name": "繋大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.018008,
+          39.680037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bsjwcr_1758607356445.jpg",
+        "location": "",
+        "point_id": "5bsjwcr",
+        "point_name": "繋大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.021523,
+          39.675955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bsmd0t_1758607480476.jpg",
+        "location": "",
+        "point_id": "5bsmd0t",
+        "point_name": "湯守 ホテル大観",
+        "remark": "新旧新人王对决的酒店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.022613,
+          39.675781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bsovqs_1758607598181.jpg",
+        "location": "",
+        "point_id": "5bsovqs",
+        "point_name": "湯守 ホテル大観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.882111,
+          38.260245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/211567/5btosq6_1758609271205.jpg",
+        "location": "",
+        "point_id": "5btosq6",
+        "point_name": "仙台站",
+        "remark": "因暴雨停运，零和宗谷在仙台站出站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.881247,
+          38.26006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bvlj3p_1758612487978.jpg",
+        "location": "",
+        "point_id": "5bvlj3p",
+        "point_name": "仙台站旁天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.881449,
+          38.259958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bvmt0x_1758612536764.jpg",
+        "location": "",
+        "point_id": "5bvmt0x",
+        "point_name": "仙台站旁天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.881621,
+          38.259594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bvpp33_1758612680328.jpg",
+        "location": "",
+        "point_id": "5bvpp33",
+        "point_name": "仙台站旁天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.030625,
+          35.20162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bx89of_1758615265193.jpg",
+        "location": "",
+        "point_id": "5bx89of",
+        "point_name": "元箱根港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.369715,
+          38.360211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bxej06_1758615499748.jpg",
+        "location": "",
+        "point_id": "5bxej06",
+        "point_name": "天童站",
+        "remark": "岛田开的故乡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782968,
+          35.668127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/211567/5byj0f0_1758617399939.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5byj0f0",
+        "point_name": "住吉神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78361,
+          35.66516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bysr81_1758617884469.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5bysr81",
+        "point_name": "月岛站麦当劳",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783166,
+          35.667322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/211567/5byz99w_1758618153470.jpg",
+        "location": "佃小橋",
+        "point_id": "5byz99w",
+        "point_name": "佃小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78297,
+          35.666684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bz1sk3_1758618268414.jpg",
+        "location": "佃小橋",
+        "point_id": "5bz1sk3",
+        "point_name": "佃小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782617,
+          35.668293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 211567,
+        "bangumi_title": "3月的狮子 第二季",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/points/211567/5bz5uvb_1758618471390.jpg",
+        "location": "佃大橋周边",
+        "point_id": "5bz5uvb",
+        "point_name": "鸟居",
+        "remark": "鸟居颜色有所不同"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

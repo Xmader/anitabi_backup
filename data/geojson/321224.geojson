@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.50629,
+          35.676292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 321224,
+        "bangumi_title": "有谁规定了现实中不能有恋爱喜剧的？",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/321224/points/tho5dy419-1741340473593.jpg",
+        "location": "",
+        "point_id": "tho5dy419",
+        "point_name": "DRAGON COFFEE",
+        "remark": "\"这家咖啡厅是最近新开业的，叫做『DRAGON CAFE』。美式风格的时髦装修，店内最大的卖点——咖啡是由咖啡师出身老板手工冲制而成。顺便说一嘴，这家店的名字由来，是因为他旁边的公园俗称『Dragon garden』\""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

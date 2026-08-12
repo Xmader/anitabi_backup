@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.413755,
+          35.698979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 466861,
+        "bangumi_title": "少女世界的生存之道",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2135/bangumi/466861/points/peykghuck-1729843359266.jpg",
+        "location": "",
+        "point_id": "peykghuck",
+        "point_name": "立川駅北口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

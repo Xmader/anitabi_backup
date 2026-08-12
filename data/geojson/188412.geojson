@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.632612,
+          35.777254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53sp1s_1672370570178.jpg",
+        "location": "",
+        "point_id": "51i53sp1s",
+        "point_name": "成増駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.632498,
+          35.777344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53sprr_1672370571900.jpg",
+        "location": "",
+        "point_id": "51i53sprr",
+        "point_name": "スキップ村看板",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629835,
+          35.777611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53spk4_1672370572913.jpg",
+        "location": "",
+        "point_id": "51i53spk4",
+        "point_name": "風夏衝突",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629651,
+          35.777508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53sp4u_1672370574266.jpg",
+        "location": "",
+        "point_id": "51i53sp4u",
+        "point_name": "信号",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625775,
+          35.779214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53sp80_1672370576229.jpg",
+        "location": "",
+        "point_id": "51i53sp80",
+        "point_name": "交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.62621,
+          35.779057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53sp3g_1672370577516.jpg",
+        "location": "",
+        "point_id": "51i53sp3g",
+        "point_name": "254号線沿い",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626226,
+          35.776004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53spdf_1672370580633.jpg",
+        "location": "",
+        "point_id": "51i53spdf",
+        "point_name": "神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487182,
+          35.337072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53spkc_1672370584217.jpg",
+        "location": "",
+        "point_id": "51i53spkc",
+        "point_name": "江ノ電乗り場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.487888,
+          35.307815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188412,
+        "bangumi_title": "风夏",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/188412/51i53spmh_1672370585222.jpg",
+        "location": "",
+        "point_id": "51i53spmh",
+        "point_name": "砂浜",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          126.913705,
+          37.549405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390353,
+        "bangumi_title": "我独自升级",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/390353/points/nu2t609oq-1725385902260.jpg",
+        "location": "",
+        "point_id": "nu2t609oq",
+        "point_name": "합정역",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

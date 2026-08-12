@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.776637,
+          35.662095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl38wc0b8-1735966029027.jpg",
+        "location": "",
+        "point_id": "rl38wc0b8",
+        "point_name": "勝鬨橋下河沿岸",
+        "remark": "OP里的镜头"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.728663,
+          35.038909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl3qtfm7u-1735967044125.jpg",
+        "location": "",
+        "point_id": "rl3qtfm7u",
+        "point_name": "鹿苑寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.677437,
+          35.012131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl3v2pxss-1735967274785.jpg",
+        "location": "",
+        "point_id": "rl3v2pxss",
+        "point_name": "渡月桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759264,
+          34.986299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl499fj9n-1735968137746.jpg",
+        "location": "",
+        "point_id": "rl499fj9n",
+        "point_name": "京都站 京都駅中央口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.798305,
+          35.026436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl4p0ca2i-1735969074387.jpg",
+        "location": "",
+        "point_id": "rl4p0ca2i",
+        "point_name": "観音殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.718139,
+          35.034481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl51vnhfj-1735969863714.jpg",
+        "location": "",
+        "point_id": "rl51vnhfj",
+        "point_name": "龍安寺方丈庭園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.779072,
+          34.998527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl58lt48x-1735970270246.jpg",
+        "location": "",
+        "point_id": "rl58lt48x",
+        "point_name": "法観寺 (八坂の塔)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785462,
+          34.994595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/425992/points/rl5e01c7z-1735970633235.jpg",
+        "location": "",
+        "point_id": "rl5e01c7z",
+        "point_name": "奥の院",
+        "remark": "站在奥院走廊背对本堂舞台拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.718297,
+          35.034481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 425992,
+        "bangumi_title": "堀与宫村 -piece-",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2148/bangumi/102134/points/rl4t58x9j-1735969356779.jpg",
+        "location": "",
+        "point_id": "rl4t58x9j",
+        "point_name": "龙安寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

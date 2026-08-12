@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.060175,
+          34.968638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 486165,
+        "bangumi_title": "播种之谣",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/486165/cwfz14m_1775093972569.jpg",
+        "location": "",
+        "point_id": "cwfz14m",
+        "point_name": "三河安城駅",
+        "remark": "位于爱知县安城市的JR东海车站，本作主角从镰仓乘坐新干线来到此处。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.428146,
+          35.171262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 486165,
+        "bangumi_title": "播种之谣",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/486165/cwf3gao_1775094122887.jpg",
+        "location": "",
+        "point_id": "cwf3gao",
+        "point_name": "伊世賀美隧道",
+        "remark": "位于古饭田街道上的隧道，修建于1897年。1960年旁边的国道153号开通了新的伊势神隧道。在游戏中出现的时间点，该隧道所处地区已成为废弃地区。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.88297,
+          35.170853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 486165,
+        "bangumi_title": "播种之谣",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/486165/ezgm6rm_1779629639487.jpg",
+        "location": "",
+        "point_id": "ezgm6rm",
+        "point_name": "名古屋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.202782,
+          34.669143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523964,
+        "bangumi_title": "舞台剧「五等分的新娘」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/523964/points/7sdlrj9-1763963772097.jpg",
+        "location": "兵库县神户市",
+        "point_id": "7sdlrj9",
+        "point_name": "Cafeteria BREATH",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.202784,
+          34.669144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523964,
+        "bangumi_title": "舞台剧「五等分的新娘」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/523964/points/7sdnj81-1763963855967.jpg",
+        "location": "兵库县神户市",
+        "point_id": "7sdnj81",
+        "point_name": "Cafeteria BREATH",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.904498,
+          35.043833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523964,
+        "bangumi_title": "舞台剧「五等分的新娘」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/523964/points/7se7p43-1763964762868.jpg",
+        "location": "爱知县东海市 聚乐园大佛",
+        "point_id": "7se7p43",
+        "point_name": "聚楽園大仏",
+        "remark": "牌子上的这个大佛的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.909808,
+          35.134961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523964,
+        "bangumi_title": "舞台剧「五等分的新娘」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/523964/points/7svtqjg-1763994350797.jpg",
+        "location": "爱知县名古屋市 狮子中京大厦",
+        "point_id": "7svtqjg",
+        "point_name": "ザ・​ライオンズミッドキャピタルタワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.88891,
+          35.021912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523964,
+        "bangumi_title": "舞台剧「五等分的新娘」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/523964/points/82xyq0o-1764602600659.jpg",
+        "location": "爱知县东海市 日本​福祉​大学",
+        "point_id": "82xyq0o",
+        "point_name": "日本​福祉​大​東海​キャンパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.888743,
+          35.021581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 523964,
+        "bangumi_title": "舞台剧「五等分的新娘」",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/523964/points/82y27lp-1764602761135.jpg",
+        "location": "爱知县东海市 日本​福祉​大学",
+        "point_id": "82y27lp",
+        "point_name": "日本​福祉​大​東海​キャンパス 左侧入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

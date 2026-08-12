@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.40668,
+          39.881812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233593,
+        "bangumi_title": "非人哉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233593/points/1iw56d4-1764744210156.jpg",
+        "location": "",
+        "point_id": "1iw56d4",
+        "point_name": "祈年殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.510828,
+          39.921719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233593,
+        "bangumi_title": "非人哉",
+        "ep_cut": "第一集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233593/points/1worajw-1751163797799.jpg",
+        "location": "",
+        "point_id": "1worajw",
+        "point_name": "地铁青年路站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.455429,
+          39.912073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233593,
+        "bangumi_title": "非人哉",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233593/points/85b17cr-1764745914682.jpg",
+        "location": "",
+        "point_id": "85b17cr",
+        "point_name": "东三环中路与光华路交叉口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

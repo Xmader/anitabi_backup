@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.482489,
+          41.905868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4216,
+        "bangumi_title": "圣母在上 第3季",
+        "ep_cut": "ova5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/4216/points/f3ajeey-1779861483257.jpg",
+        "location": "",
+        "point_id": "f3ajeey",
+        "point_name": "Scalinata di Trinità dei Monti",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

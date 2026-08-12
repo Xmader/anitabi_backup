@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.631564,
+          35.450936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1650,
+        "bangumi_title": "你所期望的永远",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/1650/points/51i52b4e2-1739670466741.jpg",
+        "location": "",
+        "point_id": "51i52b4e2",
+        "point_name": "桜木町駅 (モデル1/2)",
+        "remark": "事故発生。本日14時15分ごろ。え～、遺留品の身分証明書にて本人と確認・・・。被疑者氏名　白陵大付属柊学園3年生、涼宮、遙。涼しいにお宮の宮、遥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637281,
+          35.443475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1650,
+        "bangumi_title": "你所期望的永远",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/1650/points/51i52b486-1739709224281.jpg",
+        "location": "",
+        "point_id": "51i52b486",
+        "point_name": "関内駅 (モデル1/2)",
+        "remark": "柊町駅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647769,
+          35.447523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1650,
+        "bangumi_title": "你所期望的永远",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1650/points/51i52b437-1723616749035.jpg",
+        "location": "",
+        "point_id": "51i52b437",
+        "point_name": "山下公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637898,
+          35.460195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1650,
+        "bangumi_title": "你所期望的永远",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/1650/points/51i52b4mi-1739709262969.jpg",
+        "location": "",
+        "point_id": "51i52b4mi",
+        "point_name": "臨港パーク",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604647,
+          35.437076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1650,
+        "bangumi_title": "你所期望的永远",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/1650/points/51i52b50m-1739670366267.jpg",
+        "location": "",
+        "point_id": "51i52b50m",
+        "point_name": "清水ヶ丘公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63714,
+          35.443028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1650,
+        "bangumi_title": "你所期望的永远",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/1650/points/sww2od8lr-1739711840123.jpg",
+        "location": "",
+        "point_id": "sww2od8lr",
+        "point_name": "関内駅の南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

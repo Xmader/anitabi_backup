@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.699587,
+          35.69267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/ffca7352_1752997675895.jpg",
+        "location": "",
+        "point_id": "ffca7352",
+        "point_name": "新宿 思い出横丁",
+        "remark": "#01「FALL」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.743861,
+          35.66471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/a0d58b50_1752997698850.jpg",
+        "location": "",
+        "point_id": "a0d58b50",
+        "point_name": "テレビ東京",
+        "remark": "#02「HEAVEN」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745728,
+          35.658421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/a048a6b4_1752997717010.jpg",
+        "location": "",
+        "point_id": "a048a6b4",
+        "point_name": "東京タワー",
+        "remark": "#05「HALLOWEEN」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745326,
+          35.657859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/d51bc19a_1752997743322.jpg",
+        "location": "",
+        "point_id": "d51bc19a",
+        "point_name": "東京タワースタジオ",
+        "remark": "#05"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.034968,
+          35.647986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/7d61ad6e_1752997858476.jpg",
+        "location": "",
+        "point_id": "7d61ad6e",
+        "point_name": "幕張メッセ 幕張イベントホール",
+        "remark": "#10「FIGHTER」"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.035116,
+          35.647454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/59a19bf0_1752997875515.jpg",
+        "location": "",
+        "point_id": "59a19bf0",
+        "point_name": "国際展示場1-8ホール",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.603542,
+          35.725065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/e65c5f64_1753093606410.jpg",
+        "location": "",
+        "point_id": "e65c5f64",
+        "point_name": "西武新宿線 上井草駅",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.515222,
+          35.71667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/0c2c8c02_1753093612786.jpg",
+        "location": "",
+        "point_id": "0c2c8c02",
+        "point_name": "小金井公園 江戸東京たてもの園 子宝湯",
+        "remark": "#10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701129,
+          35.69211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 80778,
+        "bangumi_title": "黑白小姐",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/80778/241730e8_1753093619594.jpg",
+        "location": "",
+        "point_id": "241730e8",
+        "point_name": "新宿駅東口広場",
+        "remark": "#13「MONOCHROME」"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

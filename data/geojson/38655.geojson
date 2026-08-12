@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.690762,
+          35.68393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38655,
+        "bangumi_title": "奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/38655/points/oj3rw12f8-1727347036768.jpg",
+        "location": "",
+        "point_id": "oj3rw12f8",
+        "point_name": "甲州街道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699073,
+          35.693648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38655,
+        "bangumi_title": "奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/38655/points/oj3z4ma5x-1727347665043.jpg",
+        "location": "",
+        "point_id": "oj3z4ma5x",
+        "point_name": "新宿大ガード西",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69208,
+          35.689845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 38655,
+        "bangumi_title": "奥特曼",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/38655/points/1sbc6u6-1750899302434.jpg",
+        "location": "",
+        "point_id": "1sbc6u6",
+        "point_name": "TOKYO GIFTS 62",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

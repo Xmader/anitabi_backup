@@ -1,0 +1,385 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.487558,
+          35.311111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouhyx_1753948417458.jpg",
+        "location": "湘南",
+        "point_id": "kpx6ouhyx",
+        "point_name": "夢喰いメリー江ノ電江ノ島駅",
+        "remark": "1話8カット、4話7カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502115,
+          35.306668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oui71_1753947681730.jpg",
+        "location": "湘南",
+        "point_id": "kpx6oui71",
+        "point_name": "夢喰いメリー鎌倉高校前駅踏切",
+        "remark": "4話2カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489347,
+          35.334578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouhpy_1753948388947.jpg",
+        "location": "湘南",
+        "point_id": "kpx6ouhpy",
+        "point_name": "夢喰いメリーイトーヨーカドー藤沢店付近",
+        "remark": "5話7カット、6話11カット"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.489516,
+          35.335311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouhuj_1753948396031.jpg",
+        "location": "湘南",
+        "point_id": "kpx6ouhuj",
+        "point_name": "夢喰いメリーイトーヨーカドー藤沢店付近",
+        "remark": "階段1カットはこちらである可能性も"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.254217,
+          37.109324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouifd_1753872241222.jpg",
+        "location": "",
+        "point_id": "kpx6ouifd",
+        "point_name": "高田公園",
+        "remark": "夢喰いメリー3話舞台、1巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.254539,
+          37.109712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouioq_1753872261286.jpg",
+        "location": "",
+        "point_id": "kpx6ouioq",
+        "point_name": "高田公園",
+        "remark": "夢喰いメリー3話舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.252811,
+          37.109106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oul3y_1753872138360.jpg",
+        "location": "",
+        "point_id": "kpx6oul3y",
+        "point_name": "高田公園噴水",
+        "remark": "夢喰いメリー4巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.256652,
+          37.108676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oum12_1753872037281.jpg",
+        "location": "",
+        "point_id": "kpx6oum12",
+        "point_name": "高田公園 時計",
+        "remark": "5巻82P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.255746,
+          37.110114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oum7j_1753872019760.jpg",
+        "location": "",
+        "point_id": "kpx6oum7j",
+        "point_name": "高田公園 橋",
+        "remark": "5巻82P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.226067,
+          37.14966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouify_1753871733583.jpg",
+        "location": "",
+        "point_id": "kpx6ouify",
+        "point_name": "お食事処・地魚料理 伊智",
+        "remark": "夢喰いメリー4話舞台、4巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.240591,
+          37.138341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouj7i_1753871418584.jpg",
+        "location": "",
+        "point_id": "kpx6ouj7i",
+        "point_name": "まねきねこ上越木田店",
+        "remark": "夢喰いメリー1巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.258884,
+          37.152484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oujrl_1753871470448.jpg",
+        "location": "",
+        "point_id": "kpx6oujrl",
+        "point_name": "上越ショッピングセンターアコーレ",
+        "remark": "夢喰いメリー2巻"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.259243,
+          37.148339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oujta_1753871429735.jpg",
+        "location": "",
+        "point_id": "kpx6oujta",
+        "point_name": "J-MAX THEATER",
+        "remark": "夢喰いメリー4巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.24256,
+          37.11517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oukl1_1753871332940.jpg",
+        "location": "",
+        "point_id": "kpx6oukl1",
+        "point_name": "高田駅前",
+        "remark": "夢喰いメリー3巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.242742,
+          37.115388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouk3k_1753872446119.jpg",
+        "location": "",
+        "point_id": "kpx6ouk3k",
+        "point_name": "高田駅前クリニック　丸山内科医院",
+        "remark": "夢喰いメリー3巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.244285,
+          37.109996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oul86_1753872321878.jpg",
+        "location": "",
+        "point_id": "kpx6oul86",
+        "point_name": "大島画廊ギャラリー",
+        "remark": "夢喰いメリー4巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.247227,
+          37.151997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6ouk8s_1753872756540.jpg",
+        "location": "",
+        "point_id": "kpx6ouk8s",
+        "point_name": "謙信公大橋",
+        "remark": "夢喰いメリー7巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.248493,
+          37.15068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oukcm_1753872679686.jpg",
+        "location": "",
+        "point_id": "kpx6oukcm",
+        "point_name": "謙信公大橋",
+        "remark": "夢喰いメリー7巻舞台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.247742,
+          37.151005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 8990,
+        "bangumi_title": "食梦者玛利",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/8990/kpx6oul1m_1753872586556.jpg",
+        "location": "",
+        "point_id": "kpx6oul1m",
+        "point_name": "謙信公大橋",
+        "remark": "夢喰いメリー7巻舞台"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

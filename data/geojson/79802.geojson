@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.296122,
+          22.684524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 79802,
+        "bangumi_title": "信长之枪",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/79802/points/n9tfua40b-1723798174969.jpg",
+        "location": "",
+        "point_id": "n9tfua40b",
+        "point_name": "左营元帝庙北极亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.299814,
+          22.686508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 79802,
+        "bangumi_title": "信长之枪",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/79802/points/n9tji2q94-1723798360037.jpg",
+        "location": "",
+        "point_id": "n9tji2q94",
+        "point_name": "莲池潭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.292188,
+          22.680055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 79802,
+        "bangumi_title": "信长之枪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/79802/points/n9tkaugaf-1723798416500.jpg",
+        "location": "",
+        "point_id": "n9tkaugaf",
+        "point_name": "莲池潭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.29176,
+          22.680616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 79802,
+        "bangumi_title": "信长之枪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/79802/points/n9tm3nos7-1723798530192.jpg",
+        "location": "",
+        "point_id": "n9tm3nos7",
+        "point_name": "龙虎塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.291756,
+          22.680579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 79802,
+        "bangumi_title": "信长之枪",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/79802/n9to1k8sr_1723798629347.jpg",
+        "location": "",
+        "point_id": "n9to1k8sr",
+        "point_name": "莲潭路",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

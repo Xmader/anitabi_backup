@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.700517,
+          35.659469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/228439/points/kkx8q9hxb-1716205323171.jpg",
+        "location": "",
+        "point_id": "kkx8q9hxb",
+        "point_name": "井ノ頭通り",
+        "remark": "雨宫桂马初登场"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694621,
+          35.65504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/228439/points/kkxghcg2g-1716205551753.jpg",
+        "location": "",
+        "point_id": "kkxghcg2g",
+        "point_name": "神泉横断地下歩道",
+        "remark": "在地下道偶遇斗殴"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700591,
+          35.65905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/228439/points/kkxjetaid-1716205745017.jpg",
+        "location": "",
+        "point_id": "kkxjetaid",
+        "point_name": "忠犬八公像",
+        "remark": "飞泽阳平初登场"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703692,
+          35.657812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/228439/points/kkxtr1jqz-1716206415375.jpg",
+        "location": "",
+        "point_id": "kkxtr1jqz",
+        "point_name": "涩谷警察署",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700302,
+          35.660228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/228439/points/kkxysv8r8-1716206660040.jpg",
+        "location": "",
+        "point_id": "kkxysv8r8",
+        "point_name": "西武A館",
+        "remark": "在西武百货屋顶拆除炸弹"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694427,
+          35.655125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/955/points/kky3mpzb4-1716206949628.jpg",
+        "location": "",
+        "point_id": "kky3mpzb4",
+        "point_name": "神泉横断地下歩道",
+        "remark": "马部与牛尾相遇"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699577,
+          35.658607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/955/points/kkydx6q9w-1716207708720.jpg",
+        "location": "",
+        "point_id": "kkydx6q9w",
+        "point_name": "渋谷​エクセル​ホテル​東急",
+        "remark": "勒索白峰组"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691076,
+          35.659559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228439,
+        "bangumi_title": "街 ～命运的交叉点～特别篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/228439/points/klmku0328-1716260272402.jpg",
+        "location": "",
+        "point_id": "klmku0328",
+        "point_name": "渋谷区立鍋島松濤公園",
+        "remark": "马部勘太郎"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

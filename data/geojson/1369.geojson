@@ -1,0 +1,1425 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.38405,
+          35.638289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3bnn.jpg",
+        "location": "",
+        "point_id": "4sjkx3bnn",
+        "point_name": "東京薬科大学",
+        "remark": "\n◎浜田山美術大学\n※池のほとりに花本はぐみがいた場所(1)\n※リヤカーが自転車に激突した場所(1)\n※学食"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.288481,
+          35.660564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3c74",
+        "point_name": "共立女子大学",
+        "remark": "○浜田山美術大学\n※大学の中庭"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791183,
+          35.668156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3cfe.jpg",
+        "location": "",
+        "point_id": "4sjkx3cfe",
+        "point_name": "東京海洋大学越中島キャンパス",
+        "remark": "\n◎浜田山美術大学\n※竹本祐太たちが冒頭でリヤカーに乗っていた場所(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.609586,
+          35.68165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3btn.jpg",
+        "location": "",
+        "point_id": "4sjkx3btn",
+        "point_name": "浴風会本館",
+        "remark": "\n◎浜田山美術大学\n※真山巧がバイトに行くのを山田あゆみが引きとめようとした場所(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.721489,
+          35.521264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3ckf.jpg",
+        "location": "",
+        "point_id": "4sjkx3ckf",
+        "point_name": "桜本商店街",
+        "remark": "\n◎浜田山商店街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6918,
+          35.565444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3c6s.jpg",
+        "location": "",
+        "point_id": "4sjkx3c6s",
+        "point_name": "マスヤ酒店",
+        "remark": "\n◎山田あゆみの自宅の酒屋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641564,
+          35.445017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3cf6.jpg",
+        "location": "",
+        "point_id": "4sjkx3cf6",
+        "point_name": "ZAIM（旧横浜地方裁判所刑事庁舎）",
+        "remark": "\n◎藤原デザイン事務所"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757203,
+          35.695786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3bz4",
+        "point_name": "南海堂書店",
+        "remark": "○山田あゆみが本を探していた書店(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641028,
+          35.666722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3ci4",
+        "point_name": "豊川堂",
+        "remark": "○山田あゆみが本を探していた「豊川堂」(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701133,
+          35.666961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3d3y.jpg",
+        "location": "",
+        "point_id": "4sjkx3d3y",
+        "point_name": "国立代々木競技場",
+        "remark": "\n○真山巧がバイトに行くために走っていた場所(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.322553,
+          35.529747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3d8w",
+        "point_name": "愛川町文化会館",
+        "remark": "○花本はぐみがグランプリを受賞した絵が展示されていた場所(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712397,
+          35.672486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3d8y",
+        "point_name": "神宮前三丁目交差点",
+        "remark": "○原田理花が真山巧にバイトを断った交差点(1)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.472539,
+          35.675458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3d8t",
+        "point_name": "島忠府中店",
+        "remark": "○竹本祐太と花本はぐみが庭石を見に行ったホームセンター(2)\n※花本はぐみが泣いている子供にコマネチをやったホームセンター(2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.721342,
+          35.521694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3cu4.jpg",
+        "location": "",
+        "point_id": "4sjkx3cu4",
+        "point_name": "麻布食品桜本店",
+        "remark": "\n◎竹本祐太と花本はぐみが今川焼を買おうとした店(2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646428,
+          35.337447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3cy4",
+        "point_name": "八景島カーニバルハウス",
+        "remark": "○竹本祐太が花本はぐみの為に指輪を取ったユーフォーキャッチャーがあるゲームセンター(2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774503,
+          35.724931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3cpa.jpg",
+        "location": "",
+        "point_id": "4sjkx3cpa",
+        "point_name": "JR東北本線の跨線橋",
+        "remark": "\n◎真山巧が歩いていた跨線橋(2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.966083,
+          34.976728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3cvy.jpg",
+        "location": "",
+        "point_id": "4sjkx3cvy",
+        "point_name": "瀬戸浜海水浴場",
+        "remark": "\n◎5人が行った海(2)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.721108,
+          35.521586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3d73.jpg",
+        "location": "",
+        "point_id": "4sjkx3d73",
+        "point_name": "おかず村スズキ",
+        "remark": "\n◎花本はぐみが竹本祐太に電話した公衆電話がある店頭(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.706281,
+          35.689883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3d15",
+        "point_name": "世界堂新宿本店",
+        "remark": "？森田忍と花本はぐみが画材道具を見ていた店(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768853,
+          35.623947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3e3b.jpg",
+        "location": "",
+        "point_id": "4sjkx3e3b",
+        "point_name": "都立潮風公園北側",
+        "remark": "\n○真山巧がベンチに寝ていた場所(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692756,
+          35.564806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3dfq",
+        "point_name": "氷川神社",
+        "remark": "○森田忍と花本はぐみがたこ焼を食べていた公園(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.722178,
+          35.521225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3dhs.jpg",
+        "location": "",
+        "point_id": "4sjkx3dhs",
+        "point_name": "ふぁっしょんはうすワキタ",
+        "remark": "\n◎竹本祐太が浴衣を買った店(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691336,
+          35.56575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3dee.jpg",
+        "location": "",
+        "point_id": "4sjkx3dee",
+        "point_name": "新田神社",
+        "remark": "\n◎夏祭りの神社(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.806986,
+          35.668825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3e2t.jpg",
+        "location": "",
+        "point_id": "4sjkx3e2t",
+        "point_name": "大横川の新田橋",
+        "remark": "\n◎竹本祐太が花火を見ていた橋(3)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.721047,
+          35.521203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3dzc.jpg",
+        "location": "",
+        "point_id": "4sjkx3dzc",
+        "point_name": "建物",
+        "remark": "\n◎クリスマス対策本部(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691394,
+          35.563414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3dm0",
+        "point_name": "WORLD BEANS",
+        "remark": "○竹本祐太と山田大五郎が配達に行った店「WORLD BEANS」(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691297,
+          35.563569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3dda",
+        "point_name": "フレンドベーカリー",
+        "remark": "○花本はぐみと山田あゆみがケーキを売っていた「フレンドベーカリー」(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.337144,
+          35.657511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3dtn",
+        "point_name": "ビッグエコー八王子店",
+        "remark": "○竹本祐太が配達先で庄田教授を見たカラオケ店(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.683844,
+          35.575997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3dlw",
+        "point_name": "環状八号線",
+        "remark": "○山田大五郎と竹本祐太が乗ったトラックが走っていた道(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.050844,
+          35.244658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3ev7.jpg",
+        "location": "",
+        "point_id": "4sjkx3ev7",
+        "point_name": "箱根彫刻の森美術館",
+        "remark": "\n◎森田忍が契約書にサインした日本現代美術館(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.753711,
+          35.704511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3eti.jpg",
+        "location": "",
+        "point_id": "4sjkx3eti",
+        "point_name": "東京ドームシティ",
+        "remark": "\n◎竹本祐太が歩いていたクリスマスのイルミネーションのある場所(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692217,
+          35.690486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3ef9.jpg",
+        "location": "",
+        "point_id": "4sjkx3ef9",
+        "point_name": "都庁通り",
+        "remark": "\n◎森田忍がアメリカに出発したバス停(4)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795456,
+          35.660981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3edv.jpg",
+        "location": "",
+        "point_id": "4sjkx3edv",
+        "point_name": "芝浦工業大学豊洲キャンパス",
+        "remark": "\n◎竹本祐太の父が、花本はぐみと竹本裕太を連れて行った「最高裁判所」(5)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745436,
+          35.670822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3ep3.jpg",
+        "location": "",
+        "point_id": "4sjkx3ep3",
+        "point_name": "特許庁",
+        "remark": "\n○竹本祐太の父が早口言葉を言おうとしていた「特許庁」(5)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.747883,
+          35.656117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3eru",
+        "point_name": "東照宮横の芝公園",
+        "remark": "？竹本祐太の父が東京タワーの写真を撮っていた公園(5)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.642147,
+          35.446156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3ete",
+        "point_name": "日本大通り",
+        "remark": "○山田あゆみが藤原デザイン事務所に向かって走っていた道(5)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.042022,
+          35.65405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3edw.jpg",
+        "location": "",
+        "point_id": "4sjkx3edw",
+        "point_name": "住友ケミカルエンジニアリング",
+        "remark": "\n◎竹本祐太が就職の面接に行くときに森田忍と話していた場所(6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.378233,
+          35.666933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3emd.jpg",
+        "location": "",
+        "point_id": "4sjkx3emd",
+        "point_name": "日野市立病院",
+        "remark": "\n◎勅使河原美和子が入院した病院(6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.480256,
+          35.599992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3ejp.jpg",
+        "location": "",
+        "point_id": "4sjkx3ejp",
+        "point_name": "櫻屋",
+        "remark": "\n◎山田あゆみと野宮匠がそばを食べに行った店(6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646083,
+          35.598469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3elv.jpg",
+        "location": "",
+        "point_id": "4sjkx3elv",
+        "point_name": "STANDARD TRADE",
+        "remark": "\n◎竹本祐太が面接に行った家具屋(6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647406,
+          35.602361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3fl0.jpg",
+        "location": "",
+        "point_id": "4sjkx3fl0",
+        "point_name": "目黒通り等々力坂",
+        "remark": "\n◎竹本祐太が自転車で就職先に向かった坂道(6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.764044,
+          35.667128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3fm9.jpg",
+        "location": "",
+        "point_id": "4sjkx3fm9",
+        "point_name": "昭和通りの歩道橋",
+        "remark": "\n◎森田忍が竹本祐太に「花本はぐみが好き」と言った歩道橋(6)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.546058,
+          35.664336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3flu.jpg",
+        "location": "",
+        "point_id": "4sjkx3flu",
+        "point_name": "野川の中耕地橋",
+        "remark": "\n◎花本はぐみがクローバーを見つけた川(7)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644536,
+          35.447836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fa5",
+        "point_name": "開港広場前交差点",
+        "remark": "○真山巧が藤原デザイン事務所に向かって走り始めた場所(7)\n※真山巧が渡ったスクランブル交差点(7)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.569425,
+          35.6256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3f9s.jpg",
+        "location": "",
+        "point_id": "4sjkx3f9s",
+        "point_name": "多摩川の多摩水道橋",
+        "remark": "\n◎竹本祐太が自転車で渡った橋(7)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.635353,
+          35.456917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fjb",
+        "point_name": "横浜ベイホテル東急",
+        "remark": "○山田あゆみと野宮匠が泊まったホテル(8)\n※放映時は、パンパシフィックホテル横浜\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.85295,
+          35.281794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fda",
+        "point_name": "大貫海岸",
+        "remark": "？竹本祐太がたどり着いた海(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.868961,
+          35.251933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3ezp",
+        "point_name": "ライフショップオガワヤ",
+        "remark": "○竹本祐太が朝食を買った「ライフショップオガワヤ」(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782169,
+          35.626344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3fcx.jpg",
+        "location": "",
+        "point_id": "4sjkx3fcx",
+        "point_name": "パレットタウンの大観覧車",
+        "remark": "\n○山田あゆみと野宮匠が一緒に乗った観覧車(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.849347,
+          35.276833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3f3i",
+        "point_name": "大貫漁港",
+        "remark": "○竹本祐太が公衆電話で電話した海岸(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.906267,
+          35.2882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3g7b",
+        "point_name": "花はなの里オートキャンプ場",
+        "remark": "△竹本祐太が四つ葉のクローバーを見つけた場所(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.86885,
+          35.252772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fwx",
+        "point_name": "鶴峰八幡神社",
+        "remark": "○竹本祐太が住み込みで働き始めた神社(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.90355,
+          35.295411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 8,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3gb0",
+        "point_name": "郡ダム",
+        "remark": "○竹本裕太が自転車に乗っていた湖沿いの道(8)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.838819,
+          34.857439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fup",
+        "point_name": "西天城高原「牧場の家」",
+        "remark": "△竹本祐太がトラックの運転手に声をかけられた場所(9)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.933814,
+          34.993067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3foo",
+        "point_name": "狩野川記念公園",
+        "remark": "○竹本祐太が野宿した公園(9)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.843592,
+          34.862978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fno",
+        "point_name": "仁科峠",
+        "remark": "△竹本祐太が自転車で走っていた山間の道(9)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.839044,
+          34.856764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3g2b",
+        "point_name": "道路",
+        "remark": "○竹本祐太が帰ることを決めた場所(9)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.459722,
+          37.754211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3fx0.jpg",
+        "location": "",
+        "point_id": "4sjkx3fx0",
+        "point_name": "JR東北本線福島駅",
+        "remark": "\n◎真山巧が原田理花を引きつれて電車に乗った駅(9)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.956417,
+          35.090789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3g6s.jpg",
+        "location": "",
+        "point_id": "4sjkx3g6s",
+        "point_name": "NTT東日本伊豆病院",
+        "remark": "\n◎花本はぐみが入院した東京中央病院(10,終)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.987089,
+          36.793881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3fxw",
+        "point_name": "ヤマザキショップ阿部",
+        "remark": "○真山巧と原田理花が車の中で話していたコンビニ(10)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.052861,
+          36.812633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3gy7",
+        "point_name": "藤原湖の見える建物",
+        "remark": "○真山巧が道を聞いた交番(10)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.036756,
+          36.804142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3h2h",
+        "point_name": "藤原ダム",
+        "remark": "○真山巧と原田理花が乗った車が走っていたダム(10)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.0519,
+          36.834583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3gpa",
+        "point_name": "ガソリンスタンド",
+        "remark": "○真山巧が道を聞いたガソリンスタンド(10)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707158,
+          35.637408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3gxy",
+        "point_name": "目黒川",
+        "remark": "○真山巧が仕事でスペインに行くことを話した場所(10)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785436,
+          35.651317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3gty",
+        "point_name": "晴海大橋",
+        "remark": "○竹本祐太が自転車で病院に向かった橋(10)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.778731,
+          35.620217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3gkk",
+        "point_name": "フジテレビ湾岸スタジオ",
+        "remark": "○花本はぐみと森田忍が話していたビルの屋上(終)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779853,
+          35.6173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3gld.jpg",
+        "location": "",
+        "point_id": "4sjkx3gld",
+        "point_name": "テレコムセンター",
+        "remark": "\n○真山巧が原田理花を見送った空港(終)\n※森田忍が海外に出発した空港(終)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.736675,
+          35.704494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3gkj_1736007348614.jpg",
+        "location": "",
+        "point_id": "4sjkx3gkj",
+        "point_name": "赤城神社",
+        "remark": "◎竹本祐太が宮大工に電話した神社(終)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647925,
+          35.45185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/847/4sjkx3gky.jpg",
+        "location": "",
+        "point_id": "4sjkx3gky",
+        "point_name": "横浜港大さん橋国際旅客ターミナル",
+        "remark": "\n◎野宮匠が山田あゆみに告白した場所(終)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.525789,
+          35.663983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3hnr",
+        "point_name": "味の素スタジアム",
+        "remark": "○竹本祐太が盛岡行きのバスに乗ったバスターミナル(終)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.491322,
+          35.559608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1369,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "4sjkx3hgb",
+        "point_name": "こどもの国",
+        "remark": "△花本はぐみが桜の木の前で絵を描いていた公園(終)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

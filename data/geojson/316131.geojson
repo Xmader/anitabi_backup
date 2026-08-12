@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.762341,
+          35.692199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/s24kbeu0w-1737301019474.jpg",
+        "location": "",
+        "point_id": "s24kbeu0w",
+        "point_name": "キンキン広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.38847,
+          43.347653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": "9",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/bw41iew-1772896673493.jpg",
+        "location": "",
+        "point_id": "bw41iew",
+        "point_name": "菓子司 新谷",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.389592,
+          43.346402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/bw43gk3-1772896788875.jpg",
+        "location": "",
+        "point_id": "bw43gk3",
+        "point_name": "へそ神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.389554,
+          43.34636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/bw45c9t-1772896868970.jpg",
+        "location": "",
+        "point_id": "bw45c9t",
+        "point_name": "へそ神社",
+        "remark": "位于神社内的縁切る石"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.390878,
+          43.347486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/bw480yu-1772896987890.jpg",
+        "location": "",
+        "point_id": "bw480yu",
+        "point_name": "ふらの駅前公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.388995,
+          43.346304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/bw4a61a-1772897080863.jpg",
+        "location": "",
+        "point_id": "bw4a61a",
+        "point_name": "すずらん通り",
+        "remark": "すずらん通り商店街\n与神保町的同名"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.373621,
+          43.358618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/bw4cx73-1772897219561.jpg",
+        "location": "",
+        "point_id": "bw4cx73",
+        "point_name": "ふらのワイナリー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.383239,
+          43.344299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 316131,
+        "bangumi_title": "邪神与厨二病少女 X",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/316131/points/c576b6w-1773446156255.jpg",
+        "location": "",
+        "point_id": "c576b6w",
+        "point_name": "北海道 富良野 北海道中心標",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

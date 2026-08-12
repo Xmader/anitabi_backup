@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.936597,
+          45.522921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/lpgluwvwc_1725014263504_cblack.jpg",
+        "location": "",
+        "point_id": "lpgluwvwc",
+        "point_name": "宗谷岬",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.936517,
+          45.521472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/847/points/lpgntp6is-1719382057611.jpg",
+        "location": "",
+        "point_id": "lpgntp6is",
+        "point_name": "宗谷岬燈台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.937907,
+          45.521642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/lpgsrmzkq_1725014247249_cblack.jpg",
+        "location": "",
+        "point_id": "lpgsrmzkq",
+        "point_name": "大岬旧海軍望楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700466,
+          35.659468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/847/sfc9t8t1n_1738336495165.jpg",
+        "location": "",
+        "point_id": "sfc9t8t1n",
+        "point_name": "渋谷駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350682,
+          43.069277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/sfcdb905y_1738336704233.jpg",
+        "location": "",
+        "point_id": "sfcdb905y",
+        "point_name": "札幌",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.351009,
+          43.068718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/sfce46e6g_1738336754541.jpg",
+        "location": "",
+        "point_id": "sfce46e6g",
+        "point_name": "札幌",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.349615,
+          43.068406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/847/sfcgf85oa_1738336891660.jpg",
+        "location": "",
+        "point_id": "sfcgf85oa",
+        "point_name": "札幌",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.884154,
+          35.169603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/847/sfciflsn6_1738337013432.jpg",
+        "location": "",
+        "point_id": "sfciflsn6",
+        "point_name": "名鉄名古屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.394825,
+          35.774831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 847,
+        "bangumi_title": "蜂蜜与四叶草",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/847/sfclwyrmn_1738337226435.jpg",
+        "location": "",
+        "point_id": "sfclwyrmn",
+        "point_name": "成田机场T2航站楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

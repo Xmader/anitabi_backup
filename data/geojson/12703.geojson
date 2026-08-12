@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.806796,
+          35.184195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk2wt2aze_1718960474491.jpg",
+        "location": "",
+        "point_id": "lk2wt2aze",
+        "point_name": "沖之島歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.816665,
+          35.184094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk1rc08h4_1718957688939.jpg",
+        "location": "",
+        "point_id": "lk1rc08h4",
+        "point_name": "名古屋第二環状自動車道",
+        "remark": "背景中的建筑为位于愛知県海部郡大治町西條笠見立2-1的八木鋼材。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.817885,
+          35.184225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk1vehv7p_1718957979169.jpg",
+        "location": "",
+        "point_id": "lk1vehv7p",
+        "point_name": "カーコンビニ倶楽部 甚目寺南インター店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.836707,
+          35.184061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk1b6kzyw_1718957450231.jpg",
+        "location": "",
+        "point_id": "lk1b6kzyw",
+        "point_name": "カラオケJOYJOY 甚目寺店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.83698,
+          35.184061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk25uewvl_1718958548086.jpg",
+        "location": "",
+        "point_id": "lk25uewvl",
+        "point_name": "モス​バーガー\n甚目寺​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.835774,
+          35.18411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk23ap8zi_1718958486330.jpg",
+        "location": "",
+        "point_id": "lk23ap8zi",
+        "point_name": "ゲーム選隊 甚目寺店",
+        "remark": "愛知県あま市下萱津九反田59，已停业。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.898853,
+          35.185556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 12703,
+        "bangumi_title": "境界线上的地平线",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/12703/lk29mlm07_1718958900752.jpg",
+        "location": "",
+        "point_id": "lk29mlm07",
+        "point_name": "名古屋城",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.487571,
+          33.805319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 237159,
+        "bangumi_title": "古剑奇谭三 梦付千秋星垂野",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/237159/points/qsk74dd1b-1733730987867.jpg",
+        "location": "",
+        "point_id": "qsk74dd1b",
+        "point_name": "首山",
+        "remark": "虽说很多设定架空世界，但位置坐标和历史传说契合度很高，历史的承载力在，首山脚下的得铜，距离襄城很近，在鄢陵的西南面"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

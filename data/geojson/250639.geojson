@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.55086,
+          35.335522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 250639,
+        "bangumi_title": "不知何时的Memoraĵo",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/250639/points/8zsq5vu-1766589355010.jpg",
+        "location": "",
+        "point_id": "8zsq5vu",
+        "point_name": "明月院 総門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

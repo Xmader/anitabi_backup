@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.001192,
+          36.745556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6ohm1d_1767325125825.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6ohm1d",
+        "point_name": "千保川水門",
+        "remark": "＋１冒頭、あかりが公園へ向かう途中のカット。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.003304,
+          36.744657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6ohmpb_1767325135450.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6ohmpb",
+        "point_name": "おやつcafe グリュック 公園への路地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.002999,
+          36.744911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6ohncc_1767325145440.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6ohncc",
+        "point_name": "猫のいる路地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.004227,
+          36.743583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6ohmpo_1767325153247.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6ohmpo",
+        "point_name": "山口畳店 丸型ポスト",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.003975,
+          36.74253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6ohnds_1767325162442.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6ohnds",
+        "point_name": "屋敷酒店 博労本町交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.003905,
+          36.741992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6ohnji_1767325169855.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6ohnji",
+        "point_name": "居酒屋みちこ とやま鉄道ガード下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.003803,
+          36.741175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/kpx6oho30_1767325176606.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "kpx6oho30",
+        "point_name": "高岡市社会福祉協議会 ガードを臨むカット",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.003379,
+          36.740092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 136311,
+        "bangumi_title": "摇曳百合 夏日时光！+",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/136311/9byst1g_1767325188975.jpg",
+        "location": "なちゅやちゅみ！＋ ＋１舞台",
+        "point_id": "9byst1g",
+        "point_name": "南部公民館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

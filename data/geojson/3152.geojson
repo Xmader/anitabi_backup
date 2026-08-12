@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.395388,
+          33.85138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3152,
+        "bangumi_title": "备长炭",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1038/bangumi/3152/points/rvczkh0x1-1736770878687.jpg",
+        "location": "",
+        "point_id": "rvczkh0x1",
+        "point_name": "みなべ町​紀州​備長炭​振興​館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

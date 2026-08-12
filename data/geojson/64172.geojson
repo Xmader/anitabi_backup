@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.503827,
+          35.505428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64172,
+        "bangumi_title": "偶像大师 剧场版 向着光辉的彼岸！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64172/points/2qghoyc-1752963806188.jpg",
+        "location": "",
+        "point_id": "2qghoyc",
+        "point_name": "難波江​区​ふれあい​会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.576709,
+          35.492492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64172,
+        "bangumi_title": "偶像大师 剧场版 向着光辉的彼岸！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64172/points/2qgw5xy-1752964441088.jpg",
+        "location": "",
+        "point_id": "2qgw5xy",
+        "point_name": "まるいち旅館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.544611,
+          35.490899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64172,
+        "bangumi_title": "偶像大师 剧场版 向着光辉的彼岸！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64172/points/2qh0dew-1752964645745.jpg",
+        "location": "",
+        "point_id": "2qh0dew",
+        "point_name": "大安商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.508991,
+          35.513712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64172,
+        "bangumi_title": "偶像大师 剧场版 向着光辉的彼岸！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64172/points/2qh7mhc-1752964993111.jpg",
+        "location": "",
+        "point_id": "2qh7mhc",
+        "point_name": "天満宮前の階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.50344,
+          35.505549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 64172,
+        "bangumi_title": "偶像大师 剧场版 向着光辉的彼岸！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/64172/points/2qhc12c-1752965710510.jpg",
+        "location": "",
+        "point_id": "2qhc12c",
+        "point_name": "日枝神社前の階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

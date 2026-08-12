@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -0.087605,
+          51.508055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 240386,
+        "bangumi_title": "冰海战记",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/240386/points/niq80agyz-1724496460547.jpg",
+        "location": "",
+        "point_id": "niq80agyz",
+        "point_name": "London Bridge",
+        "remark": "最早为罗马人修建的木桥。1014年，英格兰国王埃塞尔雷德二世为了将入侵的丹麦军队一分为二，下令烧毁伦敦桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.210035,
+          62.246382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 240386,
+        "bangumi_title": "冰海战记",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/240386/points/pgfei6jim-1729958672856.jpg",
+        "location": "",
+        "point_id": "pgfei6jim",
+        "point_name": "法罗群岛峡湾",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -55.533236,
+          51.596181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 240386,
+        "bangumi_title": "冰海战记",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/240386/points/phi6xvvw8-1730042928693.jpg",
+        "location": "",
+        "point_id": "phi6xvvw8",
+        "point_name": "Newfoundland and Labrador",
+        "remark": "据说是维京人发现了这里，取名“文兰”\n是如今的加拿大的纽芬兰和拉布拉多省"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

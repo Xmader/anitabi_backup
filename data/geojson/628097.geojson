@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.492665,
+          34.703513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 628097,
+        "bangumi_title": "Dou-Da? DOING! / REGAIN AGAIN LLLLOVE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/628097/points/b3d9to6-1771159351324.jpg",
+        "location": "",
+        "point_id": "b3d9to6",
+        "point_name": "うめきた公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796049,
+          35.707626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 628097,
+        "bangumi_title": "Dou-Da? DOING! / REGAIN AGAIN LLLLOVE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/628097/points/b3dx9p3-1771160225253.jpg",
+        "location": "",
+        "point_id": "b3dx9p3",
+        "point_name": "駒形橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796127,
+          35.707602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 628097,
+        "bangumi_title": "Dou-Da? DOING! / REGAIN AGAIN LLLLOVE",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/628097/points/b3e9prb-1771160331754.jpg",
+        "location": "",
+        "point_id": "b3e9prb",
+        "point_name": "隅田川",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

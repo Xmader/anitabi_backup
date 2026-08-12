@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.36158,
+          34.721439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 267615,
+        "bangumi_title": "钻石王牌 act2",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/267615/points/ngvk0odve-1724351329675.jpg",
+        "location": "",
+        "point_id": "ngvk0odve",
+        "point_name": "甲子園球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.76581,
+          35.452568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 267615,
+        "bangumi_title": "钻石王牌 act2",
+        "ep_cut": "32",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/267615/points/gvbsh8l-1783733154663.webp",
+        "location": "",
+        "point_id": "gvbsh8l",
+        "point_name": "富士北麓球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.584687,
+          35.623622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 267615,
+        "bangumi_title": "钻石王牌 act2",
+        "ep_cut": "32",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/267615/points/gvc1prs-1783733562974.webp",
+        "location": "",
+        "point_id": "gvc1prs",
+        "point_name": "山日YBS球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658555,
+          35.870014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 267615,
+        "bangumi_title": "钻石王牌 act2",
+        "ep_cut": "23",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/267615/points/gz6l3vk-1783966303685.webp",
+        "location": "",
+        "point_id": "gz6l3vk",
+        "point_name": "埼玉市营浦和球场",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.159834,
+          36.378093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 267615,
+        "bangumi_title": "钻石王牌 act2",
+        "ep_cut": "23",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/267615/points/gz6xl1x-1783966843727.webp",
+        "location": "",
+        "point_id": "gz6xl1x",
+        "point_name": "前桥市民​球場",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

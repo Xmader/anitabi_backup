@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.620117,
+          35.472612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293532,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/293532/points/n7slj3b8o-1723639570419.jpg",
+        "location": "",
+        "point_id": "n7slj3b8o",
+        "point_name": "台町公園の東側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620608,
+          35.472587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293532,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/293532/points/n7ska71f3-1723639506549.jpg",
+        "location": "",
+        "point_id": "n7ska71f3",
+        "point_name": "台町公園の東側",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.618846,
+          35.472479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293532,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1181/bangumi/293532/points/n7sh2o2cf-1723639319033.jpg",
+        "location": "",
+        "point_id": "n7sh2o2cf",
+        "point_name": "沢渡交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.344411,
+          38.154492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293532,
+        "bangumi_title": "Muv-Luv Alternative",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2171/bangumi/293532/points/szbd8u8q5-1739901818487.jpg",
+        "location": "",
+        "point_id": "szbd8u8q5",
+        "point_name": "佐渡島",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

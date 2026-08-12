@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.21822,
+          36.076113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10609,
+        "bangumi_title": "架向星空之桥",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/10609/points/mjrpg4yo3-1732123543151.jpg",
+        "location": "",
+        "point_id": "mjrpg4yo3",
+        "point_name": "民宿甚左衛門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,405 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.775866,
+          35.714955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": "漫画121话",
+        "image_url": "https://w.junreimap.com/images/points/467461/orl2sq4pb_1728011609590.jpg",
+        "location": "",
+        "point_id": "orl2sq4pb",
+        "point_name": "国立西洋美術館",
+        "remark": "位于东京国立西洋美術館的罗丹作品《地狱之门》的复制品。圣日耳曼伯爵在漫画120话初登场后下一话来到这里。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414448,
+          35.733095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/467461/pnjvgd22e_1730516641491_c16v9.jpg",
+        "location": "",
+        "point_id": "pnjvgd22e",
+        "point_name": "拓殖大学第一高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.414373,
+          35.732783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/467461/pnjuaamm0_1730516578820_c16v9.jpg",
+        "location": "",
+        "point_id": "pnjuaamm0",
+        "point_name": "拓殖大学第一高等学校南",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.31964,
+          35.852847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/467461/p14k5amwh_1728759290119_c16v9.jpg",
+        "location": "",
+        "point_id": "p14k5amwh",
+        "point_name": "飯能銀座商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.827856,
+          33.506695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/467461/pnpj8ikzd_1730528974652_c16v9.jpg",
+        "location": "",
+        "point_id": "pnpj8ikzd",
+        "point_name": "福岡県 皇大神宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.293688,
+          35.844737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/467461/r67lunmn9_1734799965011.jpg",
+        "location": "",
+        "point_id": "r67lunmn9",
+        "point_name": "あかね PARK",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.917155,
+          36.499314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r71wbgxm3_1734865884813.jpg",
+        "location": "伊香保",
+        "point_id": "r71wbgxm3",
+        "point_name": "伊香保温泉石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.917283,
+          36.499215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8b2qf968_1734964230610.jpg",
+        "location": "伊香保",
+        "point_id": "r8b2qf968",
+        "point_name": "伊香保温泉石段街観光案内図",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916771,
+          36.498574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8b6u2ck0_1734964488678.jpg",
+        "location": "伊香保",
+        "point_id": "r8b6u2ck0",
+        "point_name": "38段/365",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916197,
+          36.497055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8b4mun2f_1734964351790.jpg",
+        "location": "伊香保",
+        "point_id": "r8b4mun2f",
+        "point_name": "足湯 岸権 辰の湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916213,
+          36.497009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/8f2a51bb_1734964019740.jpg",
+        "location": "伊香保",
+        "point_id": "8f2a51bb",
+        "point_name": "伊香保温泉石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916207,
+          36.49693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8biryyrg_1734965208895.jpg",
+        "location": "伊香保",
+        "point_id": "r8biryyrg",
+        "point_name": "伊香保温泉石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916178,
+          36.496833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8blg5pns_1734965371038.jpg",
+        "location": "伊香保",
+        "point_id": "r8blg5pns",
+        "point_name": "伊香保温泉石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916197,
+          36.496881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8bf6hnae_1734964989567.jpg",
+        "location": "伊香保",
+        "point_id": "r8bf6hnae",
+        "point_name": "湯乃花饅頭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916103,
+          36.497008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8bo7wqnh_1734965535784.jpg",
+        "location": "伊香保",
+        "point_id": "r8bo7wqnh",
+        "point_name": "射的屋大坂屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.915995,
+          36.496036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/467461/r8bw3cddp_1734966007621.jpg",
+        "location": "伊香保",
+        "point_id": "r8bw3cddp",
+        "point_name": "365段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.686423,
+          35.396685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": "漫画201话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/467461/points/2pitxbb-1752907380157.jpg",
+        "location": "",
+        "point_id": "2pitxbb",
+        "point_name": "出雲大社 勢溜の大鳥居",
+        "remark": "小桃一行人顺利抵达岛根后立即前往神社，14P的鸟居原型明显为出云大社势溜大鸟居。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.050836,
+          35.475133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": "漫画201话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/467461/points/2pj19is-1752907567452.jpg",
+        "location": "",
+        "point_id": "2pj19is",
+        "point_name": "松江城天守",
+        "remark": "万宝槌被偷后，星子、小桃前往此处寻找。此处原型为日本国宝，1611年建成的松江城天守阁。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.684471,
+          35.401464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": "漫画176话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/467461/points/2pp753s-1752917909831.jpg",
+        "location": "",
+        "point_id": "2pp753s",
+        "point_name": "出雲大社神楽殿",
+        "remark": "176话中樫木向星子提议使用万宝槌恢复变小的小桃，提到的地方为此处"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6777,
+          35.807566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 467461,
+        "bangumi_title": "当哒当",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/467461/points/4tv3oq6-1757523263700.jpg",
+        "location": "",
+        "point_id": "4tv3oq6",
+        "point_name": "户田公园站",
+        "remark": "剧中设定为虚构车站“神越市站”"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,865 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.634005,
+          35.650382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/234/mjlde1krf_1764949504064.jpg",
+        "location": "",
+        "point_id": "mjlde1krf",
+        "point_name": "美凪天文台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.633575,
+          35.650531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88oil86_1764949926109.jpg",
+        "location": "",
+        "point_id": "88oil86",
+        "point_name": "美凪飛び出し",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.00924,
+          33.937398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/234/mk55ju9vl_1721786240422.jpg",
+        "location": "",
+        "point_id": "mk55ju9vl",
+        "point_name": "初次的对话",
+        "remark": "动画和游戏里，学校正对着大海，所以会有堤防后就是学校的图片。而实际的学校原型（白野江小学校）正对了海上保安学校门司分校，拍不出堤防后就是学校的图。这个学校里不会有能还原出这张图的景，千万不要进这个学校里。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.61231,
+          35.644446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88pc8jn_1764950906107.jpg",
+        "location": "",
+        "point_id": "88pc8jn",
+        "point_name": "桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.612977,
+          35.641934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88pfcr9_1764951053811.jpg",
+        "location": "",
+        "point_id": "88pfcr9",
+        "point_name": "堤防",
+        "remark": "注意安全"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.63221,
+          35.635816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88pjtm4_1764951268010.jpg",
+        "location": "",
+        "point_id": "88pjtm4",
+        "point_name": "田间道路",
+        "remark": "这条路比较难走，旁边的就是条小河，实际也不是特别还原，可以选择不来，安全为主"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.612894,
+          35.641949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88pfxrx_1764951083817.jpg",
+        "location": "",
+        "point_id": "88pfxrx",
+        "point_name": "往人飛び出し",
+        "remark": "2026.3.7 这个立牌不见了，已经跟观光指引所的人回馈"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.629468,
+          35.641768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88ost5x_1764950018695.jpg",
+        "location": "",
+        "point_id": "88ost5x",
+        "point_name": "往人观铃寻布偶",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.629624,
+          35.641707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88otyw8_1764950059006.jpg",
+        "location": "",
+        "point_id": "88otyw8",
+        "point_name": "观铃飛び出し",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.628761,
+          35.639152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88oydgf_1764950259744.jpg",
+        "location": "",
+        "point_id": "88oydgf",
+        "point_name": "美凪回想シーンの火の見櫓",
+        "remark": "旁边的塔已经没了，现在该地正在维修，我去的时候显示要修到2026年3月14，可能延期。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.626632,
+          35.639972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88p1xac_1764950520150.jpg",
+        "location": "",
+        "point_id": "88p1xac",
+        "point_name": "佳乃飛び出し",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.632082,
+          35.642609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88p6eqa_1764950668891.jpg",
+        "location": "",
+        "point_id": "88p6eqa",
+        "point_name": "神奈飛び出し",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.623513,
+          35.635731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "88p8p0t",
+        "point_name": "香美町香住観光協会",
+        "remark": "放有Air相关的周边和巡礼笔记"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.623109,
+          35.636022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88p9llo_1785899998568.webp",
+        "location": "",
+        "point_id": "88p9llo",
+        "point_name": "小滿飛び出し",
+        "remark": "面对斑马线正对面两个自动贩卖机的左手边\n2026.08.04"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.617193,
+          35.640748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88paka2_1764950837537.jpg",
+        "location": "",
+        "point_id": "88paka2",
+        "point_name": "香住滨",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.629468,
+          35.641846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88ovean_1764950118132.jpg",
+        "location": "",
+        "point_id": "88ovean",
+        "point_name": "布偶",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.62973,
+          35.64226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/88ovl76_1764950138781.jpg",
+        "location": "",
+        "point_id": "88ovl76",
+        "point_name": "船着所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.151045,
+          33.880001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/234/cffc36e4_1721707530499.jpg",
+        "location": "",
+        "point_id": "cffc36e4",
+        "point_name": "津波に注意",
+        "remark": "隔壁房子已空置多年荒草丛生\n标识在动画制作后有更新锅，之后此电柱被隔壁空屋的藤蔓缠绕覆盖，包括标志本身\n要巡礼的得赶快，空置住房很可能会被拆除\n（2026.07.17）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.147742,
+          33.889511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/234/ae8ef487_1721707519739.jpg",
+        "location": "",
+        "point_id": "ae8ef487",
+        "point_name": "タカハシ（ハヤシ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.714063,
+          41.76379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/234/mjkhb1mzt_1721786280898.jpg",
+        "location": "",
+        "point_id": "mjkhb1mzt",
+        "point_name": "神尾家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.451399,
+          35.695016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/234/mjq56vioz_1721753538910.jpg",
+        "location": "",
+        "point_id": "mjq56vioz",
+        "point_name": "雾岛诊所",
+        "remark": "当地的建筑已经全数拆散，仅能以书店的侧墙作为参考依据"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.151782,
+          33.879626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/234/78facb0f_1721707524749.jpg",
+        "location": "",
+        "point_id": "78facb0f",
+        "point_name": "少女を送った帰り道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.120059,
+          33.896124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/234/1a9bf04c_1766550639726.jpg",
+        "location": "",
+        "point_id": "1a9bf04c",
+        "point_name": "御崎神社海边鸟居",
+        "remark": "御崎神社的鸟居没有海景，细节部分也和动画有很大差异。且动画里神社的建筑部分也是采用谷保天滿宮的建筑，与御崎神社也没有关联。目前来说更有可能是伊和都比売神社的鸟居。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.408072,
+          34.726905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/234/5c44usrvc_1721707195249.jpg",
+        "location": "",
+        "point_id": "5c44usrvc",
+        "point_name": "海边鸟居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.443718,
+          35.679996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/234/mk5sa3idl_1721787773811.jpg",
+        "location": "",
+        "point_id": "mk5sa3idl",
+        "point_name": "有海景的神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.080781,
+          33.891276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/234/3ce9840d_1721707534389.jpg",
+        "location": "",
+        "point_id": "3ce9840d",
+        "point_name": "堤防の上を歩く観鈴と往人",
+        "remark": "有仙人指路（指有前辈在这放了把梯子🥹）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.079047,
+          33.890648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/234/5c44usrx6_1673198321220.jpg",
+        "location": "",
+        "point_id": "5c44usrx6",
+        "point_name": "みちる",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.080503,
+          33.891301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/234/points/kjeekqe7l-1716085744833.jpg",
+        "location": "",
+        "point_id": "kjeekqe7l",
+        "point_name": " 往人と晴子が家に帰る道",
+        "remark": "石垣现已因改建拆除（2026.07.17）刚刚，正在施工，水泥都没干呢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.079901,
+          33.891374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/234/9e525198_1721707539026.jpg",
+        "location": "",
+        "point_id": "9e525198",
+        "point_name": "聖と往人が会話をする橋の上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.147038,
+          33.889237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/234/5c44uss2z_1673198243982.jpg",
+        "location": "",
+        "point_id": "5c44uss2z",
+        "point_name": "美凪回想",
+        "remark": "第６話　美凪回想\n左侧前置建筑已拆除，现为停车场/空地"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.15297,
+          33.886594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/234/dbd8d973_1721707516275.jpg",
+        "location": "",
+        "point_id": "dbd8d973",
+        "point_name": "線路",
+        "remark": "（2026.07.18）铁轨已截断，施工时间推测不晚于2010年"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.739325,
+          35.491827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/8h4qlzg_1765460499614.jpg",
+        "location": "",
+        "point_id": "8h4qlzg",
+        "point_name": "",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.121408,
+          33.892416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/234/5c44uss7r_1673198282856.jpg",
+        "location": "",
+        "point_id": "5c44uss7r",
+        "point_name": "煙樹海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.40103,
+          35.502858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/234/mk6q9h7tp_1721789713302.jpg",
+        "location": "",
+        "point_id": "mk6q9h7tp",
+        "point_name": "防火水池",
+        "remark": "这个水池几年前就没了，现在是旁边建筑物的停车场。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.451166,
+          35.695165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/mk4sxzhl3_1721785657820.jpg",
+        "location": "",
+        "point_id": "mk4sxzhl3",
+        "point_name": "Bus Stop",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.008215,
+          33.938233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/mjpal0fsi_1721751745348.jpg",
+        "location": "",
+        "point_id": "mjpal0fsi",
+        "point_name": "白野江小学",
+        "remark": "千万不要走进学校！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.008382,
+          33.938352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/5z3hugd_1760018637542.jpg",
+        "location": "",
+        "point_id": "5z3hugd",
+        "point_name": "白野江小学2",
+        "remark": "千万不要走进学校！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.621959,
+          34.494795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/mjpvam80l_1721752893316.jpg",
+        "location": "",
+        "point_id": "mjpvam80l",
+        "point_name": "岩谷バス停留所",
+        "remark": "这里的巴士车站已经完全翻新了，海堤经过二次加高已不再能看见大海，但天晴的时候这里的大海很美，附近的沙美海滩也不错，但要查好巴士时间。\n弯道前方的观景台可以停车，停留拍摄请注意过往来车"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.06042,
+          33.88103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/mjhix2o67_1721734724857.jpg",
+        "location": "",
+        "point_id": "mjhix2o67",
+        "point_name": "佳乃与圣眺望远方",
+        "remark": "（2026.07.18）此坐标点位未发现近似地形，无人机侦照也未发现任何可识别地标建筑。\n注：此路已因山体滑坡而成为断头路，滑坡体目测已存在10年及以上，考虑到AIR制作于1999年，原始机位可能被滑坡摧毁掩盖，输电塔可能一并被摧毁且以更小的水泥电柱替代。无人机图像显示滑坡体仍不稳定，可能存在二次滑坡风险，且路基稳定性已被严重破坏，请不要试图进入封闭区域，以免发生危险\n滑坡体附近的双层混凝土建筑物原隶属海上保安厅，现已废弃，原因可能与地质风险有关，敷地内没有相关内容，请不要擅自闯入"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.01054,
+          33.942303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/mjp3kjxvk_1721751327739.jpg",
+        "location": "",
+        "point_id": "mjp3kjxvk",
+        "point_name": "武田商店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.150314,
+          33.889404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/d642281e_1721707517541.jpg",
+        "location": "",
+        "point_id": "d642281e",
+        "point_name": "中谷洋服店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.457542,
+          35.636045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/mk7d4qyug_1721790993607.jpg",
+        "location": "",
+        "point_id": "mk7d4qyug",
+        "point_name": "电车站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.738573,
+          35.491664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 234,
+        "bangumi_title": "AIR",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/234/8h4qruv_1765460508764.jpg",
+        "location": "",
+        "point_id": "8h4qruv",
+        "point_name": "空印寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

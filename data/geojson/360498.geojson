@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.356366,
+          43.061097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/360498/points/gah13eh-1782472475010.webp",
+        "location": "",
+        "point_id": "gah13eh",
+        "point_name": "さっぽろテレビ塔",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.349173,
+          43.059939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/360498/points/gahfzke-1782472916013.webp",
+        "location": "",
+        "point_id": "gahfzke",
+        "point_name": "大通公園西４丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.356266,
+          43.061076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/360498/points/gagyoxq-1782472097004.webp",
+        "location": "",
+        "point_id": "gagyoxq",
+        "point_name": "さっぽろテレビ塔下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.350868,
+          43.067615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/360498/points/gagrlz2-1782471887171.webp",
+        "location": "",
+        "point_id": "gagrlz2",
+        "point_name": "札幌駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353405,
+          43.055787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": 0.2,
+        "image_url": "https://w.junreimap.com/images/points/360498/gai7jmr_1785248465735.webp",
+        "location": "",
+        "point_id": "gai7jmr",
+        "point_name": "すすきの駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353935,
+          43.062442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": 0.2,
+        "image_url": "https://w.junreimap.com/images/points/360498/gahvl97_1785248436064.webp",
+        "location": "",
+        "point_id": "gahvl97",
+        "point_name": "時計台ホール",
+        "remark": "这里只有建筑物是一样的，道路构造并不相同，旁边是马路"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

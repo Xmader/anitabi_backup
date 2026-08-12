@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.766091,
+          35.681383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 167655,
+        "bangumi_title": "幼女战记",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/167655/points/575zco54r-1672810556273.jpg",
+        "location": "",
+        "point_id": "575zco54r",
+        "point_name": "東京",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

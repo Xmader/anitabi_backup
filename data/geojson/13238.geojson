@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.855435,
+          43.19658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13238,
+        "bangumi_title": "娜娜",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13238/points/rcm688ws9-1735302590877.jpg",
+        "location": "",
+        "point_id": "rcm688ws9",
+        "point_name": "蘭島駅",
+        "remark": "當初提交時，地圖功能沒有這麼精確的位置\n現在提交精確位置，輔助照片的座標不夠精確"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.999613,
+          43.191887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13238,
+        "bangumi_title": "娜娜",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13238/points/8lo7k5z-1765735484227.jpg",
+        "location": "地點",
+        "point_id": "8lo7k5z",
+        "point_name": "花園エリア",
+        "remark": "電影開頭Black stone慶功宴結束後走的樓梯。\n左側房屋現已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.790032,
+          43.187213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13238,
+        "bangumi_title": "娜娜",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13238/points/8lpn3r3-1765737523428.jpg",
+        "location": "地點",
+        "point_id": "8lpn3r3",
+        "point_name": "ニッカウヰスキー 余市蒸溜所",
+        "remark": "電影版中蓮與娜娜住的倉庫，北港倉庫\n但該區域不可進入"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.790212,
+          43.186259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13238,
+        "bangumi_title": "娜娜",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13238/points/8lpw3jv-1765738214117.jpg",
+        "location": "地點",
+        "point_id": "8lpw3jv",
+        "point_name": "旧事務所",
+        "remark": "位於余市蒸餾所內，該區域不可進入\n電影中21分、1小時21分處均有出現，以及內部場景"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

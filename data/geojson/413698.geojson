@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.612052,
+          42.648028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 413698,
+        "bangumi_title": "孤独的美食家2022除夕特别篇 告别去年，食的格斗技。护蟹使者不好当。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/413698/23a3155a_1741604425058.jpg",
+        "location": "2022年12月31日放送",
+        "point_id": "23a3155a",
+        "point_name": "双葉町２丁目１−４",
+        "remark": "北海道苫小牧市双葉町2-1-4\n咖喱豆芽拉面套餐（味噌浓厚）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.725631,
+          42.918446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 413698,
+        "bangumi_title": "孤独的美食家2022除夕特别篇 告别去年，食的格斗技。护蟹使者不好当。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/413698/613085e5_1741604897653.jpg",
+        "location": "2022年12月31日放送",
+        "point_id": "613085e5",
+        "point_name": "泉郷４７９",
+        "remark": "北海道千歳市泉郷479\ngelato冰激凌（蓝靛果酸奶＆北海道牛奶）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.320836,
+          43.050929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 413698,
+        "bangumi_title": "孤独的美食家2022除夕特别篇 告别去年，食的格斗技。护蟹使者不好当。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/413698/08dcb546_1741612355265.jpg",
+        "location": "2022年12月31日放送",
+        "point_id": "08dcb546",
+        "point_name": "炭火酒房 浅鞍 2f",
+        "remark": "北海道札幌市中央区南5条西25丁目2-12\n成吉思汗盐烤肉(加葱)、蛋黄肥牛、和牛裙边肉(加蛋)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.283928,
+          43.139818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 413698,
+        "bangumi_title": "孤独的美食家2022除夕特别篇 告别去年，食的格斗技。护蟹使者不好当。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/413698/78ffd4cb_1741613524068.jpg",
+        "location": "2022年12月31日放送",
+        "point_id": "78ffd4cb",
+        "point_name": "イースヴィレッヂ",
+        "remark": "北海道石狩市花川南9条3-92-6\n石狩锅+乌冬、寿司"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.999667,
+          43.194016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 413698,
+        "bangumi_title": "孤独的美食家2022除夕特别篇 告别去年，食的格斗技。护蟹使者不好当。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/413698/43c9ec6a_1741613947327.jpg",
+        "location": "2022年12月31日放送",
+        "point_id": "43c9ec6a",
+        "point_name": "花園１丁目１−８",
+        "remark": "JR小樽駅から徒歩約10分\n鸡面、鳕鱼子饭团"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

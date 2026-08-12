@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -62.536715,
+          5.968914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 11602,
+        "bangumi_title": "飞屋环游记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/11602/points/ks4wpgqzr-1716770360230.jpg",
+        "location": "",
+        "point_id": "ks4wpgqzr",
+        "point_name": "Salto Ángel",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

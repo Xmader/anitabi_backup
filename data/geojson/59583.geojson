@@ -1,0 +1,785 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.48183,
+          35.303306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a139",
+        "point_name": "一日目スタート地点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.457932,
+          35.318214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a10e",
+        "point_name": "パレードラン終わり",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.325424,
+          35.312206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a0ti",
+        "point_name": "バイパス入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.159592,
+          35.250664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a17h",
+        "point_name": "小田原会館前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.133027,
+          35.246881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1dj",
+        "point_name": "高架の下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.097412,
+          35.232681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1bt",
+        "point_name": "橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.094788,
+          35.232929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a18n",
+        "point_name": "洞門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.072296,
+          35.240192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "漫画第11卷",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/59583/points/51i52a11a-1746939538419.jpg",
+        "location": "IH1、2日目",
+        "point_id": "51i52a11a",
+        "point_name": "箱根町大平台のヘアピン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.050095,
+          35.239887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a0yw",
+        "point_name": "723号線分岐",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.038467,
+          35.217297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a0yr",
+        "point_name": "1号線最高地点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.031555,
+          35.20293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a0xw",
+        "point_name": "芦ノ湖遊覧船乗り場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.030759,
+          35.200797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a0w8",
+        "point_name": "鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.029756,
+          35.199088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a18i",
+        "point_name": "歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.026365,
+          35.190456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "lqfm2gkg3",
+        "point_name": "1日目ゴール",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.030579,
+          35.201363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a22m",
+        "point_name": "1日目表彰式の一場面",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.482864,
+          35.306175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1mr",
+        "point_name": "IH1日目っぽいルート",
+        "remark": "2014/10/30 06:55:36～2014/10/30 11:26:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.014076,
+          35.182227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1ne",
+        "point_name": "箱根峠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.700834,
+          35.150302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1tn",
+        "point_name": "富士山見えるポイント",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.680038,
+          35.168476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1p1",
+        "point_name": "登り開始地点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.597397,
+          35.433056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1u2",
+        "point_name": "県境",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.607021,
+          35.451581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a221",
+        "point_name": "カーブ注意",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.605713,
+          35.462109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1gz",
+        "point_name": "最初のクランク",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.602524,
+          35.464691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1l4",
+        "point_name": "二つ目のクランク",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.602768,
+          35.461533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a25s",
+        "point_name": "二日目ゴール地点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.577065,
+          35.474179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1r9",
+        "point_name": "4期OP　本栖湖と富士山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.02656,
+          35.19026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a1ww",
+        "point_name": "1H2日目っぽいルート前半",
+        "remark": "2014/10/30 11:26:48～2014/10/31 09:23:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.676376,
+          35.156265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH1、2日目",
+        "point_id": "51i52a28m",
+        "point_name": "IH2日目っぽいルート後半",
+        "remark": "2014/10/30 11:26:48～2014/10/31 09:23:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.772731,
+          35.485886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2df",
+        "point_name": "139号線標識",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.848069,
+          35.427561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2r4",
+        "point_name": "山中湖手前歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.849384,
+          35.425488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2pl",
+        "point_name": "歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.850086,
+          35.42513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2g9",
+        "point_name": "歩道橋を湖から望む",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.875991,
+          35.407556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2kr",
+        "point_name": "篭坂峠への分岐",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.864741,
+          35.391342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2tw",
+        "point_name": "篭坂峠付近（鳴子リタイア地点）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.862146,
+          35.36225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2hu",
+        "point_name": "須走口入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.792653,
+          35.364989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a29x",
+        "point_name": "馬返し",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.779179,
+          35.365395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a2gv",
+        "point_name": "ふじあざみライン５合目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.602638,
+          35.461249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "IH3日目",
+        "point_id": "51i52a34u",
+        "point_name": "IH3日目っぽいルート",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.925981,
+          35.802592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59583/onsjro5yr_1727714668941.jpg",
+        "location": "",
+        "point_id": "onsjro5yr",
+        "point_name": "千葉県立松戸高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.229628,
+          35.725491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 59583,
+        "bangumi_title": "飙速宅男",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/59583/onsqq5rbz_1727714879347.jpg",
+        "location": "",
+        "point_id": "onsqq5rbz",
+        "point_name": "京成佐倉駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.452271,
+          36.402089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4256,
+        "bangumi_title": "复苏的天空 -救援之翼-",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/4256/points/cjry8fo-1774327589977.jpg",
+        "location": "",
+        "point_id": "cjry8fo",
+        "point_name": "小松駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

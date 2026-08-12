@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          19.932712,
+          50.061037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 389156,
+        "bangumi_title": "地。 ―关于地球的运动―",
+        "ep_cut": "24集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/389156/points/cltuxq3-1774451858062.jpg",
+        "location": "",
+        "point_id": "cltuxq3",
+        "point_name": "Jagiellonian University ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

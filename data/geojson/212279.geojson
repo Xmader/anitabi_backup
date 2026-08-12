@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.632138,
+          35.639915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 212279,
+        "bangumi_title": "pop子和pipi美的日常",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/212279/points/e91lv5l-1778032281783.jpg",
+        "location": "",
+        "point_id": "e91lv5l",
+        "point_name": "ロイヤルホスト 馬事公苑店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

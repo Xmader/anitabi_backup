@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.518549,
+          25.040854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88869,
+        "bangumi_title": "古树旋律",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/88869/points/6qkh7im-1761677829631.jpg",
+        "location": "",
+        "point_id": "6qkh7im",
+        "point_name": "國立臺灣大學醫學院附設醫院",
+        "remark": "医院地下一层曾经有一家诚品书店，店内有一台钢琴，据说就是Deemo的故事原型。然而书店似乎已经搬走很久了...嘛反正给的经纬度就是这里没错"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

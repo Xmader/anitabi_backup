@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.794938,
+          35.02563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 266663,
+        "bangumi_title": "孤独的美食家 2018除夕特别篇 京都·名古屋出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/266663/d2d2753c_1741376392125.jpg",
+        "location": "京都府京都市的方头鱼火锅饭",
+        "point_id": "d2d2753c",
+        "point_name": "梨門邸",
+        "remark": "〒606-8405京都市左京区浄土時上南田町37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.896806,
+          35.166051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 266663,
+        "bangumi_title": "孤独的美食家 2018除夕特别篇 京都·名古屋出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/266663/18909931_1741376415018.jpg",
+        "location": "名古屋早点套餐：综合咖啡和豆沙吐司",
+        "point_id": "18909931",
+        "point_name": "カラス",
+        "remark": "〒460-0008名古屋市中区栄1-12-2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.897384,
+          35.230446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 266663,
+        "bangumi_title": "孤独的美食家 2018除夕特别篇 京都·名古屋出差篇",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/266663/f503f155_1741376510908.jpg",
+        "location": "爱知县名古屋市的台湾拉面",
+        "point_id": "f503f155",
+        "point_name": "ＪＭヒラ",
+        "remark": "〒452-0802名古屋市西区比良3-139"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.089519,
+          37.341025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101442,
+        "bangumi_title": "悠哉日常大王 Repeat",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/78405/points/46hz0nf-1756110566661.jpg",
+        "location": "",
+        "point_id": "46hz0nf",
+        "point_name": "JR只見線 柿ノ木駅跡",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.058929,
+          35.963887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101442,
+        "bangumi_title": "悠哉日常大王 Repeat",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/101442/points/bq8iaqt-1772541380457.jpg",
+        "location": "",
+        "point_id": "bq8iaqt",
+        "point_name": "武甲山の湧水",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

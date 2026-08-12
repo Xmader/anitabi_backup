@@ -1,0 +1,425 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.11668,
+          36.047692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "电影",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/412784/points/kz5ie0oq9-1717320286964.jpg",
+        "location": "諏訪",
+        "point_id": "kz5ie0oq9",
+        "point_name": "藤森ビル",
+        "remark": "火事が起きるビル"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.118064,
+          36.056147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwljky6q9",
+        "point_name": "湊と依里が通う小学校",
+        "remark": "湊と依里が通う小学校"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.123486,
+          36.053332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/412784/uwlm2gcpi_1746380613019.jpg",
+        "location": "諏訪",
+        "point_id": "uwlm2gcpi",
+        "point_name": "立石公園",
+        "remark": "湊と依里が遊具に登りながら宇宙について話す"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.11939,
+          36.048346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwlpea48p",
+        "point_name": "湊が登校する道",
+        "remark": "諏訪市大字上諏訪10747付近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.117024,
+          36.046308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwlt5z1qv",
+        "point_name": "上諏訪駅前歩道橋",
+        "remark": "保利先生と広奈が火事を見かける"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.119722,
+          36.045189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/412784/uwlzpg17t_1746380603918.jpg",
+        "location": "諏訪",
+        "point_id": "uwlzpg17t",
+        "point_name": "手長神社へ続く大階段",
+        "remark": "湊と依里が下校中に通る長い階段（諏訪2-11付近）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.126249,
+          36.044239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwm669e24",
+        "point_name": "諏訪二葉高",
+        "remark": "早織の車が柵にぶつかる"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.106851,
+          36.043248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwm8r2sp7",
+        "point_name": "諏訪赤十字病院",
+        "remark": "湊がCT検査を受けた病院"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.117556,
+          36.039495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwmelr5wa",
+        "point_name": "向田橋周辺",
+        "remark": "依里が寝転んでmanholeの音が聞いている"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.118851,
+          36.038481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwmm1ff8l",
+        "point_name": "平温泉付近",
+        "remark": "湊と依里が自転車で走る踏切"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.114316,
+          36.0376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "諏訪",
+        "point_id": "uwmo6jhpx",
+        "point_name": "城南小",
+        "remark": "職員室・保健室シーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.06842,
+          36.078763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwmya3i5q",
+        "point_name": "保利先生が住んでいるマンション",
+        "remark": "レジデンス923長地（岡谷市長地源2-4付近）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.06661,
+          36.067163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwn2agzea",
+        "point_name": "横河川・一の桶橋付近",
+        "remark": "桜の時期に登校する依里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.0476,
+          36.062736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwn79w6pn",
+        "point_name": "(有)浜新聞店",
+        "remark": "蒲田大翔（湊のクラスメイト）の家・新聞店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.047909,
+          36.060118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwnanr7d8",
+        "point_name": "イルフプラザ",
+        "remark": "保利先生と広奈が歩いているshopping mall"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.04763,
+          36.059797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/412784/uwnaxha4z_1746380644540.jpg",
+        "location": "岡谷",
+        "point_id": "uwnaxha4z",
+        "point_name": "イルフ岡谷食品館",
+        "remark": "早織が伏見校長を見かけるsupermarket"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.04648,
+          36.058376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwnf7pf76",
+        "point_name": "​童画​館​通り",
+        "remark": "小学生が消防車を自転車で追いかける"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.048661,
+          36.058692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwnhxy9f0",
+        "point_name": "丸山橋交差点",
+        "remark": "赤信号を進む消防車"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.053037,
+          36.053403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "岡谷",
+        "point_id": "uwnitbwpu",
+        "point_name": "釜口水門",
+        "remark": "湊、依里、伏見校長が通る諏訪湖にかかる橋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.085546,
+          36.067591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/412784/uwnnkcz0w_1746380630053.jpg",
+        "location": "下諏訪",
+        "point_id": "uwnnkcz0w",
+        "point_name": "クリーニングモモセ",
+        "remark": "早織が働いているクリーニング屋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.249887,
+          35.910319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 412784,
+        "bangumi_title": "怪物",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/412784/uwnreddwp_1746380695988.jpg",
+        "location": "富士見",
+        "point_id": "uwnreddwp",
+        "point_name": "湊と依里2人しか知らない場所",
+        "remark": "旧瀬澤隧道　立入禁止"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.159817,
+          22.281058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 284644,
+        "bangumi_title": "继园台七号",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/284644/points/q31qeblph-1731731201162.jpg",
+        "location": "",
+        "point_id": "q31qeblph",
+        "point_name": "皇后像廣場 Statue Square",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.203882,
+          22.290911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 284644,
+        "bangumi_title": "继园台七号",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "q323eqae8",
+        "point_name": "繼園臺 Kai Yuen Ter",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -4.27693,
+          53.139139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298,
+        "bangumi_title": "天空之城",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298/51i531l0o_1745834737641.jpg",
+        "location": "",
+        "point_id": "51i531l0o",
+        "point_name": "カーナーヴォン城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.228808,
+          13.475576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298,
+        "bangumi_title": "天空之城",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298/51i531l9k_1745834185623.jpg",
+        "location": "",
+        "point_id": "51i531l9k",
+        "point_name": "ベンメリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.112721,
+          42.627408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298,
+        "bangumi_title": "天空之城",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298/tgm6hryq8_1745832243517.jpg",
+        "location": "",
+        "point_id": "tgm6hryq8",
+        "point_name": "Civita di Bagnoregio",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.089297,
+          51.776919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298,
+        "bangumi_title": "天空之城",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298/v310431ou_1745834964278.jpg",
+        "location": "",
+        "point_id": "v310431ou",
+        "point_name": "Blaenavon Iron Works",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.041589,
+          52.716702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298,
+        "bangumi_title": "天空之城",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298/v314p2mca_1745835333744.jpg",
+        "location": "",
+        "point_id": "v314p2mca",
+        "point_name": "Barmouth Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.825598,
+          53.280052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 298,
+        "bangumi_title": "天空之城",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/298/v3193jj7i_1745835735448.jpg",
+        "location": "",
+        "point_id": "v3193jj7i",
+        "point_name": "Conwy Castle",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

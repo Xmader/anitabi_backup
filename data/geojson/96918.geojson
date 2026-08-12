@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -90.054766,
+          29.938943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96918,
+        "bangumi_title": "ALDNOAH.ZERO",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/96918/points/pgg88aigh-1729960586887.jpg",
+        "location": "",
+        "point_id": "pgg88aigh",
+        "point_name": "Cr City Connection",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.455521,
+          39.907186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96918,
+        "bangumi_title": "ALDNOAH.ZERO",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/96918/points/pghj9ncn3-1729963081255.jpg",
+        "location": "",
+        "point_id": "pghj9ncn3",
+        "point_name": "东三环",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          32.575786,
+          -25.915441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96918,
+        "bangumi_title": "ALDNOAH.ZERO",
+        "ep_cut": "第一季，第二集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/96918/points/phgndo10i-1730039500759.jpg",
+        "location": "",
+        "point_id": "phgndo10i",
+        "point_name": "Maputo International Airport",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.231684,
+          36.214795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96918,
+        "bangumi_title": "ALDNOAH.ZERO",
+        "ep_cut": "第一季，第二季",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/96918/points/phgys7uie-1730040264629.jpg",
+        "location": "",
+        "point_id": "phgys7uie",
+        "point_name": "フエリ",
+        "remark": "以芦原市为蓝本的城市，也是主人公的家乡"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.019161,
+          30.549019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 96918,
+        "bangumi_title": "ALDNOAH.ZERO",
+        "ep_cut": "第一季，第六集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/96918/points/phhj1gs89-1730041365534.jpg",
+        "location": "",
+        "point_id": "phhj1gs89",
+        "point_name": "種子島",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

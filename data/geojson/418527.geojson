@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          118.746291,
+          32.1117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 418527,
+        "bangumi_title": "艺术学院1994",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/418527/points/1o52fao-1750647101472.jpg",
+        "location": "",
+        "point_id": "1o52fao",
+        "point_name": "南京长江大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

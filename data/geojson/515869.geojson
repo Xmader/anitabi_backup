@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.667348,
+          35.659998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 515869,
+        "bangumi_title": "剧场版 我心里危险的东西",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/515869/points/ahp0zn1-1769848224222.jpg",
+        "location": "",
+        "point_id": "ahp0zn1",
+        "point_name": "下北沢南口商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.667799,
+          35.661637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 515869,
+        "bangumi_title": "剧场版 我心里危险的东西",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/515869/points/ahp47rg-1769848308419.jpg",
+        "location": "",
+        "point_id": "ahp47rg",
+        "point_name": "下北沢駅東口前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

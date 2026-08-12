@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.43369,
+          31.206225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 351835,
+        "bangumi_title": "崩坏3 Reburn:II",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/351835/points/q7wubgffp-1732112452912.jpg",
+        "location": "",
+        "point_id": "q7wubgffp",
+        "point_name": "武康大楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.485396,
+          31.239962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 351835,
+        "bangumi_title": "崩坏3 Reburn:II",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/351835/points/q7xugionw-1732114410990.jpg",
+        "location": "",
+        "point_id": "q7xugionw",
+        "point_name": "横滨正金银行旧址",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

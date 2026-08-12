@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.810833,
+          35.710128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 89279,
+        "bangumi_title": "名侦探柯南 异次元的狙击手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/89279/points/hijmiob-1785137045853.webp",
+        "location": "",
+        "point_id": "hijmiob",
+        "point_name": "東京スカイツリー",
+        "remark": "剧中虚构的铃木财团BELL TREE塔，比晴空塔高出一米（635米）"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

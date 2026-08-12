@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.664509,
+          35.704664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 205013,
+        "bangumi_title": "孤独的美食家 正月特别篇！～井之头五郎漫长的一天～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/205013/cd523c3a_1741374980724.jpg",
+        "location": "东京都中野的韭菜炒猪肝",
+        "point_id": "cd523c3a",
+        "point_name": "蔡菜食堂",
+        "remark": "〒164-0001 東京都中野区中野3-35-2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.021954,
+          35.685909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 205013,
+        "bangumi_title": "孤独的美食家 正月特别篇！～井之头五郎漫长的一天～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/205013/0298ff53_1741375042720.jpg",
+        "location": "千叶县津田沼的眼肉牛排",
+        "point_id": "0298ff53",
+        "point_name": "白鳥ビル",
+        "remark": "〒275-0016 千葉県習志野市津田沼2-6-34"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

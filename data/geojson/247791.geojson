@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.576402,
+          29.570376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 247791,
+        "bangumi_title": "我是江小白 第二季",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/247791/points/k31j7v8fy-1714804134965.jpg",
+        "location": "",
+        "point_id": "k31j7v8fy",
+        "point_name": "重庆江北嘴江滩公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

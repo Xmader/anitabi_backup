@@ -1,0 +1,1885 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.086367,
+          36.018724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/10440/points/a4yyy6kt-1673007748617.jpg",
+        "location": "",
+        "point_id": "a4yyy6kt",
+        "point_name": "旧秩父橋",
+        "remark": "公式HPトップや各種宣伝媒体、OPなどに使われる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.090154,
+          35.990178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a.jpg",
+        "location": "",
+        "point_id": "a4yyy74a",
+        "point_name": "羊山公園 見晴しの丘",
+        "remark": "OP中波波远眺秩父市区的场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084119,
+          36.005676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy6k9-1672841804374.jpg",
+        "location": "",
+        "point_id": "a4yyy6k9",
+        "point_name": "定林寺脇",
+        "remark": "「巡礼道」の札がある。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084996,
+          36.003838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy6kq_1672646646367.jpg",
+        "location": "",
+        "point_id": "a4yyy6kq",
+        "point_name": "鶴見歯科脇 十字路",
+        "remark": "じんたんに夏休みの宿題を渡しに行ったあなるが、帰りに通り過ぎる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.082826,
+          35.996983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/1.jpg",
+        "location": "",
+        "point_id": "a4yyy6ol",
+        "point_name": "秩父ふるさと館前 信号",
+        "remark": "じんたんとめんまが散歩中の町の風景。※屋根は秩父ふるさと館のもの。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084167,
+          35.999835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy6x4_1672644294465.jpg",
+        "location": "",
+        "point_id": "a4yyy6x4",
+        "point_name": "浅賀ちょうちん店向かいの路地",
+        "remark": "じんたん、ため息。先程の2人組について、めんまに「お友達？」と聞かれる。※アニメカットで見るよりかなり広い道です。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08534,
+          35.997057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy6pw_1672557224654.jpg",
+        "location": "",
+        "point_id": "a4yyy6pw",
+        "point_name": "秩父鉄道 線路脇",
+        "remark": "じんたんとめんまが散歩中、ゆきあつとつるこにばったり遭遇。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083969,
+          35.995614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy6xj-1743401468186.jpg",
+        "location": "",
+        "point_id": "a4yyy6xj",
+        "point_name": "浅野靴店",
+        "remark": "じんたんがゆきあつの言葉に耐えかねて走り去る道中の靴屋の看板と街灯。\n（看板已经消失多年）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085053,
+          36.000642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy756_1672644800544.jpg",
+        "location": "",
+        "point_id": "a4yyy756",
+        "point_name": "キンカ堂跡地正面の路地",
+        "remark": "じんたんがゆきあつの言葉に耐えかねて走り去る道中の金力堂。\n*该地标已被完全拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08531,
+          36.000212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy7jo_1672644575655.jpg",
+        "location": "",
+        "point_id": "a4yyy7jo",
+        "point_name": "公園",
+        "remark": "じんたんがゆきあつの言葉に耐えかねて走り去り、辿り着いた公園。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084103,
+          35.9995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy7we_1672643399692.jpg",
+        "location": "",
+        "point_id": "a4yyy7we",
+        "point_name": "浦島歯科医院向かいの歩道",
+        "remark": "あなるが夜に友達を待ち合わせる道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.088577,
+          35.981192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/c.jpg",
+        "location": "",
+        "point_id": "a4yyy82c",
+        "point_name": "羊山公園内　芝桜の丘",
+        "remark": "じんたんの妄想シーンに出てくる一面の菜の花畑。\n26.4.21 现在种的花不是黄色了:/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.082113,
+          35.985334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy7z9-1743420401874.jpg",
+        "location": "",
+        "point_id": "a4yyy7z9",
+        "point_name": "西武秩父線高架下",
+        "remark": "めんまが徘徊する夜の町の風景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.082242,
+          35.985516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/t.jpg",
+        "location": "",
+        "point_id": "a4yyy7ot",
+        "point_name": "ソフトバンクショップ前",
+        "remark": "めんまが徘徊する夜の町の風景。※以前は本編通り7/11があったようですが、2011/04/24現在、ソフトバンクショップに変わっています。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083765,
+          35.999244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy7n1_1672642717771.jpg",
+        "location": "",
+        "point_id": "a4yyy7n1",
+        "point_name": "たつみや",
+        "remark": "つるこの忘れたノートを届けに追いかけるあなる。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083473,
+          35.998732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy7x3-1673184625038.jpg",
+        "location": "",
+        "point_id": "a4yyy7x3",
+        "point_name": "秩父館",
+        "remark": "つることあなるがケンカ。めんまが仲裁に入るが、2人には見えないので効果なし。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076201,
+          35.995039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/x.jpg",
+        "location": "",
+        "point_id": "a4yyy7sx",
+        "point_name": "リスの置石",
+        "remark": "めんまが「かえるが鳴いたら~える~」と歌いながら歩く歩道。実際にはリスの置石です。近くにはふくろうやウサギの置石も。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.091267,
+          36.018262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy7vx-1743425175774.jpg",
+        "location": "",
+        "point_id": "a4yyy7vx",
+        "point_name": "蛙の置石",
+        "remark": "道端のガード柱、飾りはリス。蛙の置物のモデルっぽいのがあるお寺"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085447,
+          35.99738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy7e8-1711795828208.jpg",
+        "location": "",
+        "point_id": "a4yyy7e8",
+        "point_name": "秩父祭り会館横",
+        "remark": "ジョギングするゆきあつが最初に通る路。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.082065,
+          35.985221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyyb14-1743420445962.jpg",
+        "location": "",
+        "point_id": "a4yyyb14",
+        "point_name": "西武秩父線高架下",
+        "remark": "基地から帰ってこないめんまを捜すじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083779,
+          35.995145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/4.jpg",
+        "location": "",
+        "point_id": "a4yyya94",
+        "point_name": "福島洋品店前",
+        "remark": "安城鸣子打工的游戏店原型，实地为服装店。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083792,
+          36.004739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy895-1672838941194.jpg",
+        "location": "",
+        "point_id": "a4yyy895",
+        "point_name": "定林寺そば",
+        "remark": "じんたんが久しぶりの登校で通る道。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084849,
+          36.005641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy8e5-1672841012519.jpg",
+        "location": "",
+        "point_id": "a4yyy8e5",
+        "point_name": "定林寺横空き地",
+        "remark": "ベンチでやさぐれるじんたん。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084275,
+          36.018281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy82u-1743425581728.jpg",
+        "location": "",
+        "point_id": "a4yyy82u",
+        "point_name": "新秩父橋奥斜面",
+        "remark": "ぽっぽにめんまを見たと言われ驚くじんたん ※小屋は無いそうです。新秩父橋の見え方から想定。本来は斜面あがったところが基地の有る場所ですが、現在斜面側は土砂崩れのため、立ち入り禁止です。絶対に行かないでください。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085948,
+          36.018898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy88z-1673182464213.jpg",
+        "location": "",
+        "point_id": "a4yyy88z",
+        "point_name": "第二秩父橋西",
+        "remark": "めんまに会うために家に走るじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.088566,
+          35.996159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/7.jpg",
+        "location": "",
+        "point_id": "a4yyy8jt",
+        "point_name": "ウニクス秩父の店舗パステル",
+        "remark": "ゆきあつとつるこが買い物に来るショッピングモール。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.081075,
+          35.994605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/k.jpg",
+        "location": "",
+        "point_id": "a4yyy8hk",
+        "point_name": "ベスト電器YAO秩父前",
+        "remark": "めんまをさがす会に向かうじんたんとあなる"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.079951,
+          35.992938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/l.jpg",
+        "location": "",
+        "point_id": "a4yyy85l",
+        "point_name": "YAO前交差点",
+        "remark": "めんまを探そうの会に向かう道中、じんたんがあなるを見かける。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084119,
+          35.996619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy85j-1711795101438.jpg",
+        "location": "",
+        "point_id": "a4yyy85j",
+        "point_name": "秩父神社前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.471951,
+          35.786488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/r.jpg",
+        "location": "",
+        "point_id": "a4yyy8br",
+        "point_name": "INDEX所沢西武店",
+        "remark": "つるこがゆきあつにつき合わされ行ったワンピースを買った店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.319086,
+          35.851092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy8a1-1743422291118.jpg",
+        "location": "",
+        "point_id": "a4yyy8a1",
+        "point_name": "飯能駅ホーム",
+        "remark": "ゆきあつとつるこ、あなるを見かける"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.088588,
+          35.994527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/b.jpg",
+        "location": "",
+        "point_id": "a4yyy8bb",
+        "point_name": "モンマートいのうえ",
+        "remark": "じんたんがめんまのために夜食を買いに行くコンビニその２"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.321479,
+          35.85367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/p.jpg",
+        "location": "",
+        "point_id": "a4yyy9ep",
+        "point_name": "飯能ホテルウィンク",
+        "remark": "あなる危機一髪。近未来型ホテルのウィンク"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.089033,
+          36.013491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy9e7-1673180196799.jpg",
+        "location": "",
+        "point_id": "a4yyy9e7",
+        "point_name": "秩父第一中学校前",
+        "remark": "再度登校するじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085305,
+          36.006487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy9dg-1672840285441.jpg",
+        "location": "",
+        "point_id": "a4yyy9dg",
+        "point_name": "定林寺近くの公園",
+        "remark": "あなる、じんたんと夫婦漫才\n凉亭似乎已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083052,
+          36.00489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy9kc-1672839219044.jpg",
+        "location": "",
+        "point_id": "a4yyy9kc",
+        "point_name": "峰寿司前",
+        "remark": "めんまの家から日記を借りて帰ってくるぽっぽ、じんたん、あなるが通る路（店名のみ一致）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.07655,
+          35.995607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy985-1743420174835.jpg",
+        "location": "",
+        "point_id": "a4yyy985",
+        "point_name": "秩父第一病院前",
+        "remark": "回想シーン。みんなでじんたんのお母さんのお見舞いに来る。外来の看板と駐車場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085256,
+          36.004552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy8yq-1672839746186.jpg",
+        "location": "",
+        "point_id": "a4yyy8yq",
+        "point_name": "郵政庁舎裏",
+        "remark": "回想シーンで、めんまが神様へのお願いをしようと持ちかける路地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083223,
+          36.004791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy9bo-1672839371058.jpg",
+        "location": "",
+        "point_id": "a4yyy9bo",
+        "point_name": "峰寿司前通り",
+        "remark": "ロケット花火でなやむじんたん。ゆきあつるこ、じんたんぬきで集まるというめんまの考えをを暴露。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084245,
+          36.005652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy8yj-1672839927887.jpg",
+        "location": "",
+        "point_id": "a4yyy8yj",
+        "point_name": "定林寺境内",
+        "remark": "小さくても20万するという龍勢花火の値段にびっくりするあなる、ぽっぽ。じんたん、バイトを決意"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083545,
+          35.989653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyy9ih_1672560407809.jpg",
+        "location": "",
+        "point_id": "a4yyy9ih",
+        "point_name": "西武秩父駅前",
+        "remark": "ゆきあつるこを呼び出すじんたん達"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084216,
+          36.005613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy8zx-1672841237352.jpg",
+        "location": "",
+        "point_id": "a4yyy8zx",
+        "point_name": "定林寺境内",
+        "remark": "めんまの願いかなえるのはやめよう、とじんたんに詰め寄るゆきあつ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.100454,
+          36.007347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy9sp-1743421987489.jpg",
+        "location": "",
+        "point_id": "a4yyy9sp",
+        "point_name": "秩父聖地公園",
+        "remark": "父親とお墓参りにくるじんたん（お墓ですので撮影は絶対に控えてください）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08546,
+          36.000217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyya4b_1672644327012.jpg",
+        "location": "",
+        "point_id": "a4yyya4b",
+        "point_name": "秩父駅前公園内",
+        "remark": "めんま弟・聡志と語るじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083438,
+          35.993524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyy9nj-1743420288027.jpg",
+        "location": "",
+        "point_id": "a4yyy9nj",
+        "point_name": "パーラーベガス前",
+        "remark": "めんま父に会いに行くゆきあつるこ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083409,
+          35.993451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/h.jpg",
+        "location": "",
+        "point_id": "a4yyyaah",
+        "point_name": "ベルク東街店駐車場",
+        "remark": "土下座ゆきあつ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085294,
+          35.996957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyya0a_1672558007479.jpg",
+        "location": "",
+        "point_id": "a4yyya0a",
+        "point_name": "線路脇花火前",
+        "remark": "こわれるゆきあつ、線路柱をぼこぼこ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085192,
+          36.006218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyya2t-1672841407324.jpg",
+        "location": "",
+        "point_id": "a4yyya2t",
+        "point_name": "定林寺横アンダーパス",
+        "remark": "泣くあなるにミドルキックをくらうゆきあつしかしつるこは見ていた…"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084052,
+          36.004719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy9x5-1672838588334.jpg",
+        "location": "",
+        "point_id": "a4yyy9x5",
+        "point_name": "自動販売機",
+        "remark": "白色自动贩卖机及树荫下房屋已拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08616,
+          36.018815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyy9tf-1673182753557.jpg",
+        "location": "",
+        "point_id": "a4yyy9tf",
+        "point_name": "旧秩父橋橋桁",
+        "remark": "仁太晚上在桥上发现面码的地点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084028,
+          35.996428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/3.jpg",
+        "location": "",
+        "point_id": "a4yyyajl",
+        "point_name": "秩父神社前",
+        "remark": "基地から帰ってこないめんまをさがすじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085916,
+          36.018809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyyb1n-1673182931636.jpg",
+        "location": "",
+        "point_id": "a4yyyb1n",
+        "point_name": "秩父橋河川敷",
+        "remark": "めんまの代わりに川に入り鯉を捜すじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.059775,
+          36.003628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyyajb_1672646174499.jpg",
+        "location": "",
+        "point_id": "a4yyyajb",
+        "point_name": "秩父ミューズパーク展望台",
+        "remark": "チャイルドスライダー展望台から秩父市街を望む"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.086367,
+          36.00762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "a4yyyb8i",
+        "point_name": "水戸屋製菓",
+        "remark": "OPの学校のシーンに詳しいお店"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084049,
+          35.991636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyybal_1672551773406.jpg",
+        "location": "",
+        "point_id": "a4yyybal",
+        "point_name": "御花畑駅横坂道",
+        "remark": "夕方の街"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085812,
+          36.01858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyybqi-1743426710361.jpg",
+        "location": "",
+        "point_id": "a4yyybqi",
+        "point_name": "新秩父橋",
+        "remark": "あなる号泣、つるこも告白"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085256,
+          36.016615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyybak-1743426826826.jpg",
+        "location": "",
+        "point_id": "a4yyybak",
+        "point_name": "秩父橋横河川敷",
+        "remark": "遠景で出てくるカット。四区なら車でいける路があります。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076046,
+          35.9951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/j.jpg",
+        "location": "",
+        "point_id": "a4yyybhj",
+        "point_name": "秩父第一病院前",
+        "remark": "じんたん引き止めるも、めんま、成仏すると宣言"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.031312,
+          36.046887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyybrf-1743426496260.jpg",
+        "location": "",
+        "point_id": "a4yyybrf",
+        "point_name": "発射台手前の路",
+        "remark": "打ち上げ花火を眺めるみんな。でもめんまは消えなかった！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.032637,
+          36.045876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyyb7x-1743426607413.jpg",
+        "location": "",
+        "point_id": "a4yyyb7x",
+        "point_name": "椋（むく）神社前の道",
+        "remark": "遠方に発射台を望む。奉納祭のときは此処より後ろでしか花火は見られません。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.03107,
+          36.047702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/a4yyybat-1742457652168.jpg",
+        "location": "",
+        "point_id": "a4yyybat",
+        "point_name": "発射台",
+        "remark": "花火の取り付けといい、発射といい、その後の打ち上げ、爆発、竹筒の炎上落下風景といい、龍勢会館で見せていただいたビデオの通りです。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.032819,
+          36.045594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyybg4-1673183777368.jpg",
+        "location": "",
+        "point_id": "a4yyybg4",
+        "point_name": "椋（むく）神社桟敷席前",
+        "remark": "めんま、炉湯新・弟と最後の別れ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084157,
+          36.005593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyyb73-1672840675809.jpg",
+        "location": "",
+        "point_id": "a4yyyb73",
+        "point_name": "夜の定林寺境内",
+        "remark": "全員本音を語る"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.090294,
+          36.017422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyybq6-1673181210183.jpg",
+        "location": "",
+        "point_id": "a4yyybq6",
+        "point_name": "龍石寺近くの川",
+        "remark": "幼少めんまにつるこが告げ口するシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083835,
+          36.004621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyybfk-1672838409834.jpg",
+        "location": "",
+        "point_id": "a4yyybfk",
+        "point_name": "定林寺境内入り口",
+        "remark": "じんたんが平和バスターズとしてめんまを迎えに家に向かい走るシーン"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08464,
+          36.006236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyybk3-1743427149247.jpg",
+        "location": "",
+        "point_id": "a4yyybk3",
+        "point_name": "定林寺奥の道",
+        "remark": "消えそうなめんまを抱えて基地へ向かうじんたん最初に通る道、遠景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085058,
+          36.006444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyybxb-1672840789400.jpg",
+        "location": "",
+        "point_id": "a4yyybxb",
+        "point_name": "公園前",
+        "remark": "ペプシとCCレモンが置かれた石垣の交差点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085969,
+          36.018255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/10440/a4yyych4_1673182116042.jpg",
+        "location": "",
+        "point_id": "a4yyych4",
+        "point_name": "旧秩父橋",
+        "remark": "めんまをかかえ、じんたん走る"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.088953,
+          36.013396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyyc1g-1743402875746.jpg",
+        "location": "",
+        "point_id": "a4yyyc1g",
+        "point_name": "秩父第一中学校",
+        "remark": "登校するあなるにハンカチを渡すじんたん"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.089832,
+          35.989778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/a4yyyckj-1743403091956.jpg",
+        "location": "",
+        "point_id": "a4yyyckj",
+        "point_name": "羊山公園展望台",
+        "remark": "道端に咲く花も、移り変わっていく"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.261065,
+          35.891414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyycon-1673185240518.jpg",
+        "location": "",
+        "point_id": "a4yyycon",
+        "point_name": "東吾野踏切",
+        "remark": "あの季節に咲く花は、なんていったのだろう"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.115453,
+          36.095268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/10440/points/a4yyybza-1673184418116.jpg",
+        "location": "",
+        "point_id": "a4yyybza",
+        "point_name": "秩父赤壁",
+        "remark": "宿海仁太和父母合影拍摄的场所。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.080276,
+          35.993199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 719,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/f.jpg",
+        "location": "",
+        "point_id": "a4yyy8tf",
+        "point_name": "YAOそば",
+        "remark": "あなるを見かけて引き返そうとするじんたん。※右側の赤と緑＋白のひさしの店は以前はありましたが、もう無いようです。2011/05/01現在、マップ上ではまだ見ることが出来ます。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084137,
+          35.996409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/53zqlavm1-1719841958142.jpg",
+        "location": "",
+        "point_id": "53zqlavm1",
+        "point_name": "自動販売機前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084877,
+          36.0036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10440/55353qcgz_1672647767035.jpg",
+        "location": "",
+        "point_id": "55353qcgz",
+        "point_name": "民家",
+        "remark": "宿海仁太家原型\n（属于私人民宅，巡礼时请遵守当地法律法规）\n*2020.2，房屋受到火灾影响，目前情况未知\n*已拆除"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083749,
+          36.004228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/10440/5541moozc_1672649549630.jpg",
+        "location": "",
+        "point_id": "5541moozc",
+        "point_name": "民家",
+        "remark": "本间芽衣子家的原型。\n*此处属于民宅，巡礼时请遵守当地法律法规。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.07983,
+          36.011965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1131/bangumi/10440/points/m0xunwnnh-1720281424777.jpg",
+        "location": "",
+        "point_id": "m0xunwnnh",
+        "point_name": "超平和バスターズ",
+        "remark": "为《未闻花名》作品中秘密基地的内部原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08147,
+          36.000087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1131/bangumi/10440/points/m0y5m16xx-1720282098385.jpg",
+        "location": "",
+        "point_id": "m0y5m16xx",
+        "point_name": "鶴見歯科クリニック",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083499,
+          35.998772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1131/bangumi/10440/points/m0ya1jph1-1720282318193.jpg",
+        "location": "",
+        "point_id": "m0ya1jph1",
+        "point_name": "秩父館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085594,
+          36.006815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tultc04a2-1742354043026.jpg",
+        "location": "",
+        "point_id": "tultc04a2",
+        "point_name": "けやき公園のブランコ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084158,
+          36.005567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tum0kurqd-1742354309438.jpg",
+        "location": "",
+        "point_id": "tum0kurqd",
+        "point_name": "定林寺入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084227,
+          36.005699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tum2d2yof-1742354382551.jpg",
+        "location": "",
+        "point_id": "tum2d2yof",
+        "point_name": "赛钱箱",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.079867,
+          36.011943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvx89s1gn-1742457048860.jpg",
+        "location": "",
+        "point_id": "tvx89s1gn",
+        "point_name": "秘密基地门口",
+        "remark": "虽然外表看起来不像，但确实是秘密基地的原型，里面摆满了粉丝们纪念面码的物品已经不能进入了，室内东西也没了（2026/03/23）\n还在的。我可以确定的说什么都在，而且还能进。有两个蓝房子，楼上的你可能找错了。（2026.03.31）\n有两个蓝房子，要走到下面那个（26.04.21）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.079838,
+          36.01195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxartml9-1742457199169.jpg",
+        "location": "",
+        "point_id": "tvxartml9",
+        "point_name": "超平和バスターズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.079824,
+          36.011949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxbs2jpc-1742457265286.jpg",
+        "location": "",
+        "point_id": "tvxbs2jpc",
+        "point_name": "ED开头面码坐着的地方",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085617,
+          35.998713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxkty53z-1742457818283.jpg",
+        "location": "",
+        "point_id": "tvxkty53z",
+        "point_name": "秩父站前路灯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084204,
+          36.005601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxrtnj00-1742458247300.jpg",
+        "location": "",
+        "point_id": "tvxrtnj00",
+        "point_name": "定林寺内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084234,
+          36.005673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxtxnzxy-1742458357353.jpg",
+        "location": "",
+        "point_id": "tvxtxnzxy",
+        "point_name": "定林寺内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084294,
+          36.005661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxvgyub6-1742458451915.jpg",
+        "location": "",
+        "point_id": "tvxvgyub6",
+        "point_name": "定林寺内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084231,
+          36.005639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/1020/bangumi/10440/points/tvxwla4om-1742458517100.jpg",
+        "location": "",
+        "point_id": "tvxwla4om",
+        "point_name": "定林寺内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083389,
+          35.989713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/u7zd9usgx-1743402111786.jpg",
+        "location": "",
+        "point_id": "u7zd9usgx",
+        "point_name": "西武秩父駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.084225,
+          36.005659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/u88zb278x-1743422997443.jpg",
+        "location": "定林寺",
+        "point_id": "u88zb278x",
+        "point_name": "定林寺",
+        "remark": "子供の頃のぽっぽが隠れていたところです\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085813,
+          35.998769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/u89bpg2ck-1743423749244.jpg",
+        "location": "",
+        "point_id": "u89bpg2ck",
+        "point_name": "秩父駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085709,
+          35.998587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10440,
+        "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10440/points/u89llyn8r-1743424347490.jpg",
+        "location": "",
+        "point_id": "u89llyn8r",
+        "point_name": "秩父商工会議所",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

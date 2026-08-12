@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.077154,
+          34.913978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd1nyml-1784804675581.webp",
+        "location": "",
+        "point_id": "hd1nyml",
+        "point_name": "(株)​信楽​陶苑​たぬき​村",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156044,
+          34.925761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "07",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd1v3hx-1784804853558.webp",
+        "location": "",
+        "point_id": "hd1v3hx",
+        "point_name": "宮乃温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.077073,
+          34.9145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "06",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd26mnt-1784805429133.webp",
+        "location": "",
+        "point_id": "hd26mnt",
+        "point_name": "信楽陶苑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156054,
+          34.925766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "07",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd29htq-1784805531369.webp",
+        "location": "",
+        "point_id": "hd29htq",
+        "point_name": "宮乃温泉",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.037316,
+          35.487331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd2g1n4-1784805842027.webp",
+        "location": "",
+        "point_id": "hd2g1n4",
+        "point_name": "メタセコイア並木",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.036573,
+          35.471786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd2ipoh-1784805999901.webp",
+        "location": "",
+        "point_id": "hd2ipoh",
+        "point_name": "並木​カフェ​メタセコイア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.934863,
+          35.074133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd2n09z-1784806176852.webp",
+        "location": "",
+        "point_id": "hd2n09z",
+        "point_name": "県立​琵琶湖​博物館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.935586,
+          35.07481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "13",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/338543/points/hd2pbog-1784806276966.webp",
+        "location": "",
+        "point_id": "hd2pbog",
+        "point_name": "琵琶湖博物館水族展示室",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

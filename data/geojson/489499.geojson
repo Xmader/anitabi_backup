@@ -1,0 +1,485 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.364772,
+          35.974893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "PV",
+        "image_url": "https://w.junreimap.com/images/points/489499/uo0oktx5d_1744658792737.jpg",
+        "location": "",
+        "point_id": "uo0oktx5d",
+        "point_name": "八ヶ岳連峰",
+        "remark": "PV"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.472089,
+          35.944709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81b9b0n_1764503988761.jpg",
+        "location": "",
+        "point_id": "81b9b0n",
+        "point_name": "野辺山宇宙電波観測所 45m観測棟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757518,
+          35.674776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vr7i0n_1751107430259.jpg",
+        "location": "",
+        "point_id": "1vr7i0n",
+        "point_name": "日比谷公園　花壇",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757884,
+          35.674883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81brmb8_1764504870775.jpg",
+        "location": "",
+        "point_id": "81brmb8",
+        "point_name": "日比谷公園　第一花壇",
+        "remark": "谷歌地图有地标：鮫谷浩二紀念場所，可以直接搜索"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758352,
+          35.675155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81c2pj5_1764505360962.jpg",
+        "location": "",
+        "point_id": "81c2pj5",
+        "point_name": "日比谷公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751506,
+          35.675055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vre5e8_1764517114933.jpg",
+        "location": "",
+        "point_id": "1vre5e8",
+        "point_name": "霞ケ関駅",
+        "remark": "A2出口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.751802,
+          35.674629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/8eah75o_1765288923117.jpg",
+        "location": "",
+        "point_id": "8eah75o",
+        "point_name": "霞ケ関駅  丸ノ内線 1番線ホーム（西側）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.464418,
+          36.277996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vqta4s_1764517292899.jpg",
+        "location": "",
+        "point_id": "1vqta4s",
+        "point_name": "佐久平​駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.464692,
+          36.277702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81j8a3x_1764517383823.jpg",
+        "location": "",
+        "point_id": "81j8a3x",
+        "point_name": "佐久平​駅 蓼科口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.46444,
+          36.277689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vqtq2d_1764517544257.jpg",
+        "location": "",
+        "point_id": "1vqtq2d",
+        "point_name": "佐久平​駅 幸せの鐘",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.752842,
+          35.677142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/8eb3jai_1765289813159.jpg",
+        "location": "",
+        "point_id": "8eb3jai",
+        "point_name": "警視庁本部庁舎前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767731,
+          35.682247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/8o7knwc_1765888552885.jpg",
+        "location": "",
+        "point_id": "8o7knwc",
+        "point_name": "東京駅　21番線",
+        "remark": "站台北端，车型是E7系"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.187804,
+          36.643561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/usvgp2ajy_1764517630561.jpg",
+        "location": "",
+        "point_id": "usvgp2ajy",
+        "point_name": "長野駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.472784,
+          35.94463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/uo0q4vjrh_1764517739598.jpg",
+        "location": "",
+        "point_id": "uo0q4vjrh",
+        "point_name": "野辺山宇宙電波観測所",
+        "remark": "鸟瞰"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.181234,
+          36.650922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81jicj0_1764517865315.jpg",
+        "location": "",
+        "point_id": "81jicj0",
+        "point_name": "長野県警察本部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.181092,
+          36.651335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/usvr2u1ui_1764517929407.jpg",
+        "location": "",
+        "point_id": "usvr2u1ui",
+        "point_name": "長野県警察本部 1F大厅",
+        "remark": "无独立厅舍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.468765,
+          35.940334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81jpiiu_1764518247616.jpg",
+        "location": "",
+        "point_id": "81jpiiu",
+        "point_name": "野辺山宇宙電波観測所 守衛所前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.468952,
+          35.940531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81jq05w_1764518340753.jpg",
+        "location": "",
+        "point_id": "81jq05w",
+        "point_name": "野辺山宇宙電波観測所 守衛所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.562514,
+          35.610034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vryp7a_1764518595861.jpg",
+        "location": "",
+        "point_id": "1vryp7a",
+        "point_name": "甲府刑務所",
+        "remark": "山梨刑务所的原型"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.187139,
+          36.65829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/81kdepw_1764519333202.jpg",
+        "location": "",
+        "point_id": "81kdepw",
+        "point_name": "大本願",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.187675,
+          36.661342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vrigll_1764518874620.jpg",
+        "location": "",
+        "point_id": "1vrigll",
+        "point_name": "善光寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.473486,
+          35.956378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/points/489499/81kth34_1764520120785.jpg",
+        "location": "",
+        "point_id": "81kth34",
+        "point_name": "国鉄C56形蒸気機関車 C56-96 野辺山",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.474312,
+          35.955363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/points/489499/1vrtffg_1764519677963.jpg",
+        "location": "",
+        "point_id": "1vrtffg",
+        "point_name": "野辺山駅",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.468123,
+          35.939474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489499,
+        "bangumi_title": "名侦探柯南 独眼的残像",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489499/points/foxrt1u-1781170386278.jpg",
+        "location": "",
+        "point_id": "foxrt1u",
+        "point_name": "南牧村農村文化情報交流館",
+        "remark": "在南牧村農村文化情報交流館最里面有个半球型演播厅，需花费700日元门票看30分钟柯南或者星星才能入场（注意有montbell会员的可以便宜点）如果有时间的话可以两场都看，我因为时间不够只看了柯南的两场一起是1500日元"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

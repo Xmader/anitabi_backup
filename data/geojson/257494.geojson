@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          126.62889,
+          45.762765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257494,
+        "bangumi_title": "夜思",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/257494/points/ohn9kkp33-1727232800115.jpg",
+        "location": "",
+        "point_id": "ohn9kkp33",
+        "point_name": "霁虹桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.620371,
+          45.767947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257494,
+        "bangumi_title": "夜思",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/257494/points/ohnfpuxmy-1727233090950.jpg",
+        "location": "",
+        "point_id": "ohnfpuxmy",
+        "point_name": "圣·索菲亚教堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

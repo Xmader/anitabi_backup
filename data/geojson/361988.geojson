@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.706866,
+          41.878062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 361988,
+        "bangumi_title": "章鱼噼的原罪",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/361988/points/o6ce7h1sx-1726347116121.jpg",
+        "location": "",
+        "point_id": "o6ce7h1sx",
+        "point_name": "あかまつ公園",
+        "remark": "章鱼噼的土管位于町立南公园，追赶他的是町立保健所（保健所属于振兴局管辖，所以町立保健所是虚构的），因此函馆市和北斗市可以排除。\n\n七饭町、森町、鹿部、厚沢部附近是候选地，但如果东直树の地图比较准确的话，那么就是七饭町或森町其中一个。\n\n如果南公园位于城镇的南侧，那么从城镇的开阔程度来看，七饭町的可能性更高。土管是藤子不二雄的致敬作品，所以如果认为它并不存在的话，那么赤松公园就非常符合了。\n\n那里有栅栏、柱状钟表，以及从高处俯瞰的道路，树木零星地生长着。虽然没有书中描绘得那么茂密，但还是比较接近的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.816158,
+          35.700394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 361988,
+        "bangumi_title": "章鱼噼的原罪",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/361988/points/o6culn8p7-1726348131095.jpg",
+        "location": "",
+        "point_id": "o6culn8p7",
+        "point_name": "Brillia​タワー​東京",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69943,
+          35.659475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 361988,
+        "bangumi_title": "章鱼噼的原罪",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1751/bangumi/361988/points/o6czzbbd0-1726348389594.jpg",
+        "location": "",
+        "point_id": "o6czzbbd0",
+        "point_name": "SHIBUYA109前",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

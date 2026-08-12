@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.051207,
+          35.244974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332649,
+        "bangumi_title": "漂流少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/332649/points/m7c9qgfxc-1720783081486.jpg",
+        "location": "",
+        "point_id": "m7c9qgfxc",
+        "point_name": "彫刻の森クラブ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.5099,
+          35.67227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332649,
+        "bangumi_title": "漂流少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/332649/points/m7cvk5gvv-1720784289112.jpg",
+        "location": "",
+        "point_id": "m7cvk5gvv",
+        "point_name": "府中市立府中第二中學校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.50958,
+          35.666426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332649,
+        "bangumi_title": "漂流少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/332649/points/m7czbmkvb-1720784480586.jpg",
+        "location": "",
+        "point_id": "m7czbmkvb",
+        "point_name": "白糸台駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.600477,
+          35.70365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 332649,
+        "bangumi_title": "漂流少年",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/332649/points/ezttbpe-1779651776190.jpg",
+        "location": "",
+        "point_id": "ezttbpe",
+        "point_name": "西荻窪駅入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

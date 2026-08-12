@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.579182,
+          35.258328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489053,
+        "bangumi_title": "柚木家的四兄弟。",
+        "ep_cut": "28集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489053/points/m8bc3lzib-1720859352046.jpg",
+        "location": "",
+        "point_id": "m8bc3lzib",
+        "point_name": "神奈川県立葉山公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.171981,
+          36.212824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489053,
+        "bangumi_title": "柚木家的四兄弟。",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489053/points/mbezf3qx7-1721102379753.jpg",
+        "location": "",
+        "point_id": "mbezf3qx7",
+        "point_name": "いばらきフラワーパーク",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.429225,
+          35.616323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489053,
+        "bangumi_title": "柚木家的四兄弟。",
+        "ep_cut": "27",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489053/points/merceiiux-1721364326199.jpg",
+        "location": "",
+        "point_id": "merceiiux",
+        "point_name": "落合南公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.612694,
+          35.398463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489053,
+        "bangumi_title": "柚木家的四兄弟。",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489053/points/mesyuk1pz-1721367928195.jpg",
+        "location": "",
+        "point_id": "mesyuk1pz",
+        "point_name": "森浅間神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783332,
+          35.667282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489053,
+        "bangumi_title": "柚木家的四兄弟。",
+        "ep_cut": "20",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489053/points/merlfbt8a-1721364936550.jpg",
+        "location": "",
+        "point_id": "merlfbt8a",
+        "point_name": "佃小橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.305918,
+          35.645943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 489053,
+        "bangumi_title": "柚木家的四兄弟。",
+        "ep_cut": "32",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/489053/points/mj6acbf3j-1721710396243.jpg",
+        "location": "",
+        "point_id": "mj6acbf3j",
+        "point_name": "柚木家原址",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

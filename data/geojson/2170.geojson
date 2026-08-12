@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.670524,
+          35.278585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2170,
+        "bangumi_title": "天翔少女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/5651/plhnj7mw8_1730355065640.jpg",
+        "location": "",
+        "point_id": "plhnj7mw8",
+        "point_name": "横須賀中央駅",
+        "remark": "京浜急行電鉄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.673098,
+          35.276217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2170,
+        "bangumi_title": "天翔少女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/5651/plhvklwsm_1730355761056.jpg",
+        "location": "",
+        "point_id": "plhvklwsm",
+        "point_name": "平和中央公園 展望広場",
+        "remark": "远望猿岛"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.673584,
+          35.275451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2170,
+        "bangumi_title": "天翔少女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/5651/plhx3cn2w_1730355749752.jpg",
+        "location": "",
+        "point_id": "plhx3cn2w",
+        "point_name": "平和中央公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655591,
+          35.284076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2170,
+        "bangumi_title": "天翔少女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/5651/pli1lkxx4_1730355968417.jpg",
+        "location": "",
+        "point_id": "pli1lkxx4",
+        "point_name": "JR横須賀駅",
+        "remark": "站台"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

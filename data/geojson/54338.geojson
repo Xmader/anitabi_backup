@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.796348,
+          35.711212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54338,
+        "bangumi_title": "圣哥传",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1147/points/4c660f61-1729437488122.jpg",
+        "location": "ゼーガペイン聖地巡礼マップ",
+        "point_id": "umk0cek16",
+        "point_name": "雷門",
+        "remark": "ここから浅草寺までが「仲見世」。 ドラマCD ep3でキョウがリョーコに食え食えと言ってたのが、「揚げまんじゅう、人形焼、せんべい、あんこ玉、雷おこし」。 おすすめは揚げまんじゅう。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

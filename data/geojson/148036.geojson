@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.661437,
+          35.625693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 148036,
+        "bangumi_title": "伤物语Ⅱ热血篇",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/148036/points/62a2pix-1760208943372.jpg",
+        "location": "",
+        "point_id": "62a2pix",
+        "point_name": "駒沢オリンピック公園",
+        "remark": "奇洛金卡达绑架了羽川翼"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

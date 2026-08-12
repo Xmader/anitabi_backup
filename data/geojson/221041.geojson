@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.767717,
+          35.436419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221041,
+        "bangumi_title": "一册完全收录“入间人间”",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "nc8abrys8",
+        "point_name": "長良川花火大会（打ち上げ場所）",
+        "remark": "那是长良川的花火大会，因为河滩很热，记忆中是在车子里观赏的。回家的时候在咖啡店吃了红豆刨冰。因为太甜了，所以只吃了一半。——《茸姬》"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.976496,
+          35.136678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 221041,
+        "bangumi_title": "一册完全收录“入间人间”",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "nc8aytm4q",
+        "point_name": "共通講義棟北",
+        "remark": "在目的地的车站出来后，慢步走在上坡路上，最终到达了与墓地相邻的小山丘上的大学。在共通讲义楼的102室里面听的课程。——《茸姬》"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

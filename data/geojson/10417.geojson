@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.707658,
+          20.550607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10417,
+        "bangumi_title": "进化战记",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/10417/points/ev5fzlp-1779368924328.jpg",
+        "location": "",
+        "point_id": "ev5fzlp",
+        "point_name": "阿旃陀石窟",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

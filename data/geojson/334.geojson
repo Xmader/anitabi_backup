@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.177944,
+          22.302748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 334,
+        "bangumi_title": "全金属狂潮",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/334/points/a8aocezd-1745851417334.jpg",
+        "location": "",
+        "point_id": "a8aocezd",
+        "point_name": "香港理工大学",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          137.842513,
+          36.554853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1852,
+        "bangumi_title": "拜托了双子星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1852/points/r13po2xuf-1734399711127.jpg",
+        "location": "",
+        "point_id": "r13po2xuf",
+        "point_name": "稲尾",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.841263,
+          36.544212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1852,
+        "bangumi_title": "拜托了双子星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1852/points/r13v2bumq-1734400009251.jpg",
+        "location": "",
+        "point_id": "r13v2bumq",
+        "point_name": "鸭子游船",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.841842,
+          36.546378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1852,
+        "bangumi_title": "拜托了双子星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1852/points/r13x7c33l-1734400142416.jpg",
+        "location": "",
+        "point_id": "r13x7c33l",
+        "point_name": "千国街道(糸魚川街道)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.841332,
+          36.543989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1852,
+        "bangumi_title": "拜托了双子星",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1852/points/r13u4h3qw-1734399943520.jpg",
+        "location": "",
+        "point_id": "r13u4h3qw",
+        "point_name": "滑梯",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.758903,
+          35.550859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119187,
+        "bangumi_title": "名侦探柯南 业火的向日葵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/119187/points/hlf2mfp-1785310790410.webp",
+        "location": "",
+        "point_id": "hlf2mfp",
+        "point_name": "羽田国際空港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785512,
+          35.536861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119187,
+        "bangumi_title": "名侦探柯南 业火的向日葵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/119187/points/hlgzim9-1785314299245.webp",
+        "location": "",
+        "point_id": "hlgzim9",
+        "point_name": "羽田空港34L滑走路",
+        "remark": "羽田机场34L跑道（RWY34L），靠近第一、三航站楼，此方向专属于降落跑道，不执行起飞任务"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.769005,
+          35.543878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119187,
+        "bangumi_title": "名侦探柯南 业火的向日葵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/119187/points/hlhqnu0-1785315268520.webp",
+        "location": "",
+        "point_id": "hlhqnu0",
+        "point_name": "羽田空港T3ターミナル",
+        "remark": "根据后方道路和停车场位置推测大概是在航站楼顶层，应该是不能进去的（"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700865,
+          35.693563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119187,
+        "bangumi_title": "名侦探柯南 业火的向日葵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/119187/points/hlio02s-1785316814530.webp",
+        "location": "",
+        "point_id": "hlio02s",
+        "point_name": "靖国通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700899,
+          35.693698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 119187,
+        "bangumi_title": "名侦探柯南 业火的向日葵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/119187/points/hliqoin-1785316950582.webp",
+        "location": "",
+        "point_id": "hliqoin",
+        "point_name": "歌舞伎町一番街",
+        "remark": "从此处向新宿站方向看，可以看到大屏幕"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

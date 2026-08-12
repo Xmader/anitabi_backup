@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          144.383398,
+          42.98176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1275,
+        "bangumi_title": "我们的存在",
+        "ep_cut": "片頭曲",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1275/points/rfv2plmd5-1735556407483.jpg",
+        "location": "",
+        "point_id": "rfv2plmd5",
+        "point_name": "釧路​フィッシャーマンズワーフ​MOO",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

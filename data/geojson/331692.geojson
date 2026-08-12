@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          2.332299,
+          48.833742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331692,
+        "bangumi_title": "瓦尼塔斯的手记",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/331692/points/o89t4zptc-1726498540346.jpg",
+        "location": "",
+        "point_id": "o89t4zptc",
+        "point_name": "Catacombes de Paris",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.344444,
+          48.855796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331692,
+        "bangumi_title": "瓦尼塔斯的手记",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/331692/points/o8aettkoe-1726499472074.jpg",
+        "location": "",
+        "point_id": "o8aettkoe",
+        "point_name": "Palais de Justice de Paris",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.346013,
+          48.855965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331692,
+        "bangumi_title": "瓦尼塔斯的手记",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/331692/points/o8riz3g3q-1726536786239.jpg",
+        "location": "",
+        "point_id": "o8riz3g3q",
+        "point_name": "Conciergerie",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.339477,
+          48.866208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331692,
+        "bangumi_title": "瓦尼塔斯的手记",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/331692/points/o8s7w8oh0-1726538296919.jpg",
+        "location": "",
+        "point_id": "o8s7w8oh0",
+        "point_name": "Galerie Vivienne",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.341172,
+          48.865755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331692,
+        "bangumi_title": "瓦尼塔斯的手记",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/331692/points/o8tmt1zlp-1726541312143.jpg",
+        "location": "",
+        "point_id": "o8tmt1zlp",
+        "point_name": "Statue équestre de Louis XIV",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.331706,
+          48.872034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 331692,
+        "bangumi_title": "瓦尼塔斯的手记",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/331692/points/o8tylyi79-1726542019554.jpg",
+        "location": "",
+        "point_id": "o8tylyi79",
+        "point_name": "Opéra Garnier",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
