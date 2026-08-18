@@ -874,7 +874,7 @@
       "lng": 139.113291,
       "location": "上長瀞",
       "name": "秩父铁道荒川桥梁",
-      "remark": "",
+      "remark": "*26.08.13 河流区域已禁止入内",
       "status_code": 2200,
       "user_id": 85,
       "zoom": 86
@@ -888,7 +888,7 @@
       "lng": 139.113954,
       "location": "上長瀞",
       "name": "秩父铁道荒川桥梁",
-      "remark": "",
+      "remark": "*26.08.13 告示:禁止游客靠近河流周边区域。",
       "status_code": 2200,
       "user_id": 85,
       "zoom": 1463
@@ -2900,14 +2900,14 @@
       "id": "fqrev42",
       "image_path": "/images/user/1099/bangumi/543360/points/fqrev42-1781280274683.jpg",
       "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/fqrev42-1781280274683.jpg",
-      "lat": 35.656415,
-      "lng": 139.702263,
+      "lat": 35.655994,
+      "lng": 139.702567,
       "location": "Yamaha Sound Crossing Shibuya",
       "name": "渋谷サクラステージSAKURAテラス",
-      "remark": "",
+      "remark": "在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门",
       "status_code": 1099,
       "user_id": 31,
-      "zoom": 31
+      "zoom": 23
     },
     {
       "ep_cut": 10,
@@ -3103,21 +3103,21 @@
       "remark": "",
       "status_code": 1099,
       "user_id": 4,
-      "zoom": 187
+      "zoom": 250
     },
     {
       "ep_cut": 12,
       "id": "gaqa54x",
       "image_path": "/images/user/1099/bangumi/543360/points/gaqa54x-1782487680200.webp",
       "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/gaqa54x-1782487680200.webp",
-      "lat": 36.09243,
-      "lng": 139.092273,
+      "lat": 36.092962,
+      "lng": 139.091817,
       "location": "宝登山",
       "name": "宝登山頂駅",
       "remark": "",
       "status_code": 1099,
-      "user_id": 63,
-      "zoom": 63
+      "user_id": 15,
+      "zoom": 15
     },
     {
       "ep_cut": 12,
@@ -3130,7 +3130,7 @@
       "name": "宝登山頂 梅百花園",
       "remark": "",
       "status_code": 1099,
-      "user_id": 63,
+      "user_id": 15,
       "zoom": 14809
     },
     {

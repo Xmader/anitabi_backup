@@ -919,6 +919,46 @@
         "remark": "这个镜头是長野原みお因为不想让别人看到自己的羞耻漫画，一人单杀3.5人（还有只羊），本人暴走一小时证实，现实中除了贩卖机前的门不一样，其他完全一致"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.332547,
+          35.6515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/i6vy0il-1786608918405.webp",
+        "location": "八王子",
+        "point_id": "i6vy0il",
+        "point_name": "じゃんけん階段",
+        "remark": "左側別墅已重建，由於是私人住宅區，請文明巡禮"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793531,
+          34.931541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/i6wb6g3-1786609533065.webp",
+        "location": "宇治",
+        "point_id": "i6wb6g3",
+        "point_name": "宇治市六地蔵駅鉄橋",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

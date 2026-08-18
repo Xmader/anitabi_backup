@@ -1236,7 +1236,7 @@
         "location": "上長瀞",
         "point_id": "dvje9mg",
         "point_name": "秩父铁道荒川桥梁",
-        "remark": ""
+        "remark": "*26.08.13 河流区域已禁止入内"
       },
       "type": "Feature"
     },
@@ -1256,7 +1256,7 @@
         "location": "上長瀞",
         "point_id": "dvjhjim",
         "point_name": "秩父铁道荒川桥梁",
-        "remark": ""
+        "remark": "*26.08.13 告示:禁止游客靠近河流周边区域。"
       },
       "type": "Feature"
     },
@@ -4123,8 +4123,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.702263,
-          35.656415
+          139.702567,
+          35.655994
         ],
         "type": "Point"
       },
@@ -4136,7 +4136,7 @@
         "location": "Yamaha Sound Crossing Shibuya",
         "point_id": "fqrev42",
         "point_name": "渋谷サクラステージSAKURAテラス",
-        "remark": ""
+        "remark": "在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门"
       },
       "type": "Feature"
     },
@@ -4423,8 +4423,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.092273,
-          36.09243
+          139.091817,
+          36.092962
         ],
         "type": "Point"
       },

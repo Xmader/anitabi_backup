@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.480121,
+          33.614423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "长滨高中",
+        "point_id": "i7c9on3",
+        "point_name": "愛媛県立長浜高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.478794,
+          33.613506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "新长滨大桥",
+        "point_id": "i7clyhv",
+        "point_name": "新長浜大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.480428,
+          33.610916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "长滨大桥",
+        "point_id": "i7coduc",
+        "point_name": "長浜大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.480584,
+          33.611205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "长滨商店街",
+        "point_id": "i7cpstz",
+        "point_name": "長浜商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.480219,
+          33.618646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "长滨港",
+        "point_id": "i7cu5ht",
+        "point_name": "長浜港湾緑地",
+        "remark": "漫画中出现的船已经在2021~2024之间拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702612,
+          35.669833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "明治神宫前",
+        "point_id": "i7d2r0c",
+        "point_name": "神宮橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700636,
+          35.659057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 218127,
+        "bangumi_title": "思慕雪的热带鱼",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "涩谷",
+        "point_id": "i7d3yyo",
+        "point_name": "渋谷駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

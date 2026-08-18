@@ -43,6 +43,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.70145,
+          35.695022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 37,
+        "image_url": "https://w.junreimap.com/images/points/257720/i8islku_1786707875872.webp",
+        "location": "新宿",
+        "point_id": "i8islku",
+        "point_name": "TOHOシネマズ 新宿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70201,
+          35.694842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 37,
+        "image_url": "https://w.junreimap.com/images/points/257720/i8irqnd_1786707898191.webp",
+        "location": "新宿",
+        "point_id": "i8irqnd",
+        "point_name": "TOHOシネマズ 新宿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           127.78457,
           26.133542
         ],
@@ -96,6 +136,86 @@
         "location": "母亲牧场",
         "point_id": "hvyfhfu",
         "point_name": "マザー牧場 こぶたスタジアム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700494,
+          35.659525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 85,
+        "image_url": "https://w.junreimap.com/images/points/257720/i8inwef_1786707515725.webp",
+        "location": "涩谷",
+        "point_id": "i8inwef",
+        "point_name": "涩谷",
+        "remark": "背后有涩谷标志性的久光制药广告牌。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.501386,
+          34.669136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 99,
+        "image_url": "https://w.junreimap.com/images/points/257720/i8i6giu_1786706710287.webp",
+        "location": "戎桥",
+        "point_id": "i8i6giu",
+        "point_name": "戎橋",
+        "remark": "大阪著名地标。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.501313,
+          34.669046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 99,
+        "image_url": "https://w.junreimap.com/images/points/257720/i8hzq0n_1786706668046.webp",
+        "location": "戎桥",
+        "point_id": "i8hzq0n",
+        "point_name": "戎橋",
+        "remark": "环的背后是北侧的ニコニコレンタカー和约会软件ワクワク的广告牌，现在均已更换为其他广告。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.501311,
+          34.669087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 257720,
+        "bangumi_title": "要我和你交往也不是不行",
+        "ep_cut": 99,
+        "image_url": "https://w.junreimap.com/images/points/257720/i8i45oj_1786706681981.webp",
+        "location": "戎桥",
+        "point_id": "i8i45oj",
+        "point_name": "戎橋",
         "remark": ""
       },
       "type": "Feature"

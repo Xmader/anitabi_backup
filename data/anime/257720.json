@@ -40,6 +40,34 @@
       "zoom": 2
     },
     {
+      "ep_cut": 37,
+      "id": "i8islku",
+      "image_path": "/images/points/257720/i8islku_1786707875872.webp",
+      "image_url": "https://w.junreimap.com/images/points/257720/i8islku_1786707875872.webp",
+      "lat": 35.695022,
+      "lng": 139.70145,
+      "location": "新宿",
+      "name": "TOHOシネマズ 新宿",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 65,
+      "zoom": 7
+    },
+    {
+      "ep_cut": 37,
+      "id": "i8irqnd",
+      "image_path": "/images/points/257720/i8irqnd_1786707898191.webp",
+      "image_url": "https://w.junreimap.com/images/points/257720/i8irqnd_1786707898191.webp",
+      "lat": 35.694842,
+      "lng": 139.70201,
+      "location": "新宿",
+      "name": "TOHOシネマズ 新宿",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 65,
+      "zoom": 8
+    },
+    {
       "ep_cut": 42,
       "id": "hvxfc22",
       "image_path": "/images/points/257720/hvxfc22_1785946299089.webp",
@@ -50,7 +78,7 @@
       "name": "浜辺の茶屋",
       "remark": "",
       "status_code": 1057,
-      "user_id": 1686254,
+      "user_id": 1277238,
       "zoom": 742
     },
     {
@@ -80,22 +108,84 @@
       "status_code": 1057,
       "user_id": 152,
       "zoom": 5476
+    },
+    {
+      "ep_cut": 85,
+      "id": "i8inwef",
+      "image_path": "/images/points/257720/i8inwef_1786707515725.webp",
+      "image_url": "https://w.junreimap.com/images/points/257720/i8inwef_1786707515725.webp",
+      "lat": 35.659525,
+      "lng": 139.700494,
+      "location": "涩谷",
+      "name": "涩谷",
+      "remark": "背后有涩谷标志性的久光制药广告牌。",
+      "status_code": 1057,
+      "user_id": 3924,
+      "zoom": 4
+    },
+    {
+      "ep_cut": 99,
+      "id": "i8i6giu",
+      "image_path": "/images/points/257720/i8i6giu_1786706710287.webp",
+      "image_url": "https://w.junreimap.com/images/points/257720/i8i6giu_1786706710287.webp",
+      "lat": 34.669136,
+      "lng": 135.501386,
+      "location": "戎桥",
+      "name": "戎橋",
+      "remark": "大阪著名地标。",
+      "status_code": 1057,
+      "user_id": 10,
+      "zoom": 10
+    },
+    {
+      "ep_cut": 99,
+      "id": "i8hzq0n",
+      "image_path": "/images/points/257720/i8hzq0n_1786706668046.webp",
+      "image_url": "https://w.junreimap.com/images/points/257720/i8hzq0n_1786706668046.webp",
+      "lat": 34.669046,
+      "lng": 135.501313,
+      "location": "戎桥",
+      "name": "戎橋",
+      "remark": "环的背后是北侧的ニコニコレンタカー和约会软件ワクワク的广告牌，现在均已更换为其他广告。",
+      "status_code": 1057,
+      "user_id": 5,
+      "zoom": 1
+    },
+    {
+      "ep_cut": 99,
+      "id": "i8i45oj",
+      "image_path": "/images/points/257720/i8i45oj_1786706681981.webp",
+      "image_url": "https://w.junreimap.com/images/points/257720/i8i45oj_1786706681981.webp",
+      "lat": 34.669087,
+      "lng": 135.501311,
+      "location": "戎桥",
+      "name": "戎橋",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 5,
+      "zoom": 1
     }
   ],
-  "points_count": 5,
+  "points_count": 11,
   "rating": 7.8,
   "region": "日本",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/257720_100_76.webp?v=hpzfs",
+    "/images/ptheme/257720_100_76.webp?v=hq97l",
     [
       "hvxr34o",
       "hvxvzyi",
+      "i8islku",
+      "i8irqnd",
       "hvxfc22",
       "hvydmjh",
-      "hvyfhfu"
+      "hvyfhfu",
+      "i8inwef",
+      "i8i6giu",
+      "i8hzq0n",
+      "i8i45oj"
     ],
-    1785948012223,
+    1786707908407,
     100,
     76
   ],
