@@ -625,7 +625,21 @@
       "remark": "",
       "status_code": 2197,
       "user_id": 7,
-      "zoom": 44
+      "zoom": 32
+    },
+    {
+      "ep_cut": 2,
+      "id": "iebyfsg",
+      "image_path": "/images/user/1099/bangumi/543360/points/iebyfsg-1787059051596.webp",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/iebyfsg-1787059051596.webp",
+      "lat": 36.094959,
+      "lng": 139.111949,
+      "location": "長瀞駅",
+      "name": "長瀞駅",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 32,
+      "zoom": 62
     },
     {
       "ep_cut": 2,
@@ -1101,7 +1115,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 40,
-      "zoom": 40
+      "zoom": 41
     },
     {
       "ep_cut": 4,
@@ -1185,7 +1199,7 @@
       "remark": "",
       "status_code": 2157,
       "user_id": 148,
-      "zoom": 291
+      "zoom": 56
     },
     {
       "ep_cut": 4,
@@ -1199,21 +1213,21 @@
       "remark": "",
       "status_code": 2157,
       "user_id": 0,
-      "zoom": 1
+      "zoom": 341
     },
     {
       "ep_cut": 4,
       "id": "e3v3pwl",
       "image_path": "/images/user/2157/bangumi/543360/points/e3v3pwl-1777718951525.jpg",
       "image_url": "https://w.junreimap.com/images/user/2157/bangumi/543360/points/e3v3pwl-1777718951525.jpg",
-      "lat": 35.925433,
-      "lng": 138.930241,
+      "lat": 35.927328,
+      "lng": 138.927832,
       "location": "三峯神社 Mitsumine",
       "name": "结缘处 牡丹",
       "remark": "两个版本都放一下",
       "status_code": 2157,
       "user_id": 0,
-      "zoom": 2547
+      "zoom": 2682
     },
     {
       "ep_cut": 4,
@@ -2906,64 +2920,64 @@
       "name": "渋谷サクラステージSAKURAテラス",
       "remark": "在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门",
       "status_code": 1099,
-      "user_id": 31,
-      "zoom": 23
+      "user_id": 23,
+      "zoom": 34
     },
     {
       "ep_cut": 10,
       "id": "fqrut3c",
       "image_path": "/images/user/1099/bangumi/543360/points/fqrut3c-1781281040677.jpg",
       "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/fqrut3c-1781281040677.jpg",
-      "lat": 35.655936,
-      "lng": 139.702333,
+      "lat": 35.655956,
+      "lng": 139.702242,
       "location": "Yamaha Sound Crossing Shibuya",
       "name": "Yamaha Sound Crossing Shibuya ",
       "remark": "",
       "status_code": 1099,
       "user_id": 1,
-      "zoom": 1
+      "zoom": 5
     },
     {
       "ep_cut": 10,
       "id": "fqrzxgf",
       "image_path": "/images/user/1099/bangumi/543360/points/fqrzxgf-1781281284041.jpg",
       "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/fqrzxgf-1781281284041.jpg",
-      "lat": 35.65594,
-      "lng": 139.702337,
+      "lat": 35.656011,
+      "lng": 139.702262,
       "location": "Yamaha Sound Crossing Shibuya",
       "name": "Yamaha Sound Crossing Shibuya",
       "remark": "进门的右侧",
       "status_code": 1099,
       "user_id": 1,
-      "zoom": 9
+      "zoom": 1
     },
     {
       "ep_cut": 10,
       "id": "hiodchr",
       "image_path": "/images/user/0/bangumi/543360/points/hiodchr-1785145129973.webp",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/543360/points/hiodchr-1785145129973.webp",
-      "lat": 35.656136,
-      "lng": 139.70226,
+      "lat": 35.656015,
+      "lng": 139.702259,
       "location": "Yamaha Sound Crossing Shibuya",
       "name": "Yamaha Sound Crossing Shibuya",
       "remark": "",
       "status_code": 0,
       "user_id": 23,
-      "zoom": 31
+      "zoom": 6
     },
     {
       "ep_cut": 10,
       "id": "fqs8xpa",
       "image_path": "/images/user/1099/bangumi/543360/points/fqs8xpa-1781281658635.jpg",
       "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/fqs8xpa-1781281658635.jpg",
-      "lat": 35.65589,
-      "lng": 139.702392,
+      "lat": 35.655988,
+      "lng": 139.702216,
       "location": "Yamaha Sound Crossing Shibuya",
       "name": "Yamaha Sound Crossing Shibuya",
       "remark": "",
       "status_code": 1099,
       "user_id": 8,
-      "zoom": 62
+      "zoom": 71
     },
     {
       "ep_cut": 11,
@@ -3232,12 +3246,12 @@
       "zoom": 14701
     }
   ],
-  "points_count": 230,
+  "points_count": 231,
   "rating": 7.2,
   "region": "秩父市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/543360_100_76.webp?v=hpqxg",
+    "/images/ptheme/543360_100_76.webp?v=hqfiy",
     [
       "8bulvz",
       "ea3ly5",
@@ -3283,6 +3297,7 @@
       "dvjw9g6",
       "dzr1n69",
       "dzr3t00",
+      "iebyfsg",
       "dzr64ju",
       "dlj7zca",
       "dzpmxy0",
@@ -3470,7 +3485,7 @@
       "garmhp9",
       "garxnmk"
     ],
-    1785286371238,
+    1787199034945,
     100,
     76
   ],

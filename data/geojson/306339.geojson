@@ -1,0 +1,185 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.720631,
+          35.777874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig187ty_1787162043801.webp",
+        "location": "",
+        "point_id": "ig187ty",
+        "point_name": "JR赤羽駅 7番線ホーム",
+        "remark": "距离黑岭家最近的车站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720066,
+          35.781524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig16pk4_1787162116003.webp",
+        "location": "",
+        "point_id": "ig16pk4",
+        "point_name": "鮮魚と手仕事料理 海里",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720301,
+          35.780738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig1pz8d_1787162809026.webp",
+        "location": "",
+        "point_id": "ig1pz8d",
+        "point_name": "魚友 赤羽本店",
+        "remark": "建筑已拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720302,
+          35.780729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig1fe5f_1787162305929.webp",
+        "location": "",
+        "point_id": "ig1oygd",
+        "point_name": "魚友 赤羽本店",
+        "remark": "建筑已拆除。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720564,
+          35.78001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 54,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig1dip2_1787162232644.webp",
+        "location": "",
+        "point_id": "ig1dip2",
+        "point_name": "鯉とうなぎのまるます家 総本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.720245,
+          35.780823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 59,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig266yl_1787163587031.webp",
+        "location": "",
+        "point_id": "ig266yl",
+        "point_name": "セブンイレブン 北区赤羽１番街店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.394131,
+          35.784785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 184,
+        "image_url": "",
+        "location": "",
+        "point_id": "ig30aht",
+        "point_name": "東峰神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704639,
+          35.690811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "",
+        "location": "",
+        "point_id": "ig2tu6j",
+        "point_name": "新宿三丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.719963,
+          35.777465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 225,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig215cc_1787163333042.webp",
+        "location": "",
+        "point_id": "ig215cc",
+        "point_name": "イトーヨーカドー 赤羽店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

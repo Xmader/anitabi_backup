@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.791549,
+          35.640693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/ic8pcb6-1786932700805.webp",
+        "location": "",
+        "point_id": "ic8pcb6",
+        "point_name": "有明GYM-EX",
+        "remark": "主角一行人前往东京参加EVO预赛。同时是现实中EVO Japan 2024的举办地。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

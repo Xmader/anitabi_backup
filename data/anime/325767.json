@@ -1,0 +1,38 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 325767,
+  "points": [
+    {
+      "ep_cut": "6",
+      "id": "ic8pcb6",
+      "image_path": "/images/user/2195/bangumi/325767/points/ic8pcb6-1786932700805.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/ic8pcb6-1786932700805.webp",
+      "lat": 35.640693,
+      "lng": 139.791549,
+      "location": "",
+      "name": "有明GYM-EX",
+      "remark": "主角一行人前往东京参加EVO预赛。同时是现实中EVO Japan 2024的举办地。",
+      "status_code": 2195,
+      "user_id": null,
+      "zoom": 268
+    }
+  ],
+  "points_count": 1,
+  "rating": 7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+  "title_en": "",
+  "title_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+  "type": "TV"
+}

@@ -162,8 +162,8 @@
       "name": "三井住友銀行 目黒支店付近",
       "remark": "",
       "status_code": 0,
-      "user_id": 29,
-      "zoom": 29
+      "user_id": 14,
+      "zoom": 14
     },
     {
       "ep_cut": 2,
@@ -176,7 +176,7 @@
       "name": "目黒駅",
       "remark": "",
       "status_code": 1074,
-      "user_id": 71,
+      "user_id": 57,
       "zoom": 14
     },
     {
@@ -624,8 +624,8 @@
       "name": "根据左面的电话亭车站，右面的银行拍摄",
       "remark": "",
       "status_code": 2205,
-      "user_id": 24,
-      "zoom": 24
+      "user_id": 26,
+      "zoom": 49
     },
     {
       "ep_cut": 5,
@@ -674,14 +674,14 @@
       "id": "9pgficr",
       "image_path": "/images/user/2205/bangumi/386809/points/9pgficr-1768140646001.jpg",
       "image_url": "https://w.junreimap.com/images/user/2205/bangumi/386809/points/9pgficr-1768140646001.jpg",
-      "lat": 35.633876,
-      "lng": 139.715036,
+      "lat": 35.633721,
+      "lng": 139.715342,
       "location": "",
       "name": "三井住友銀行 目黒支店付近",
       "remark": "",
       "status_code": 2205,
-      "user_id": 24,
-      "zoom": 92
+      "user_id": 14,
+      "zoom": 56
     },
     {
       "ep_cut": 8,
@@ -904,7 +904,7 @@
       "name": "台场优衣库",
       "remark": "角度应该是西南角zepp入口，东北角入口在天桥下面",
       "status_code": 2205,
-      "user_id": 445,
+      "user_id": 247,
       "zoom": 16
     },
     {
@@ -918,7 +918,7 @@
       "name": "商场前",
       "remark": "",
       "status_code": 2205,
-      "user_id": null,
+      "user_id": 3,
       "zoom": 4
     },
     {
@@ -932,7 +932,7 @@
       "name": "商场前",
       "remark": "",
       "status_code": 2205,
-      "user_id": null,
+      "user_id": 2,
       "zoom": 3
     },
     {
@@ -946,7 +946,7 @@
       "name": "商场前",
       "remark": "",
       "status_code": 2205,
-      "user_id": null,
+      "user_id": 2,
       "zoom": 22
     },
     {
@@ -960,7 +960,7 @@
       "name": "商场前",
       "remark": "",
       "status_code": 2205,
-      "user_id": null,
+      "user_id": 22,
       "zoom": 13
     },
     {
@@ -974,7 +974,7 @@
       "name": "台场海滨公园车站前",
       "remark": "谷歌给我的实景是2021年的图片，那时候还有摩天轮，后面的火车站没有隔音墙，只能放在中间。被动漫误导了，以为都在一个位置，其实是走动的",
       "status_code": 2205,
-      "user_id": null,
+      "user_id": 503,
       "zoom": 253
     }
   ],
@@ -983,7 +983,7 @@
   "region": "东京都",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/386809_100_76.webp?v=hasu5",
+    "/images/ptheme/386809_100_76.webp?v=hqfjm",
     [
       "mohw7a636",
       "moiwl2x5z",
@@ -1027,9 +1027,35 @@
       "7824cdee",
       "c943696b",
       "f8c2b194",
-      "feafadf2"
+      "feafadf2",
+      "9pf2bmf",
+      "9pgb9gs",
+      "9pgd0bq",
+      "9pgecv8",
+      "9pgficr",
+      "9pgjcvd",
+      "9pgkph4",
+      "9pglhv7",
+      "9pgmdrr",
+      "9pgrod8",
+      "9pgt5s2",
+      "9pgtydi",
+      "9pgv4hd",
+      "9pgvv0m",
+      "9pgwigk",
+      "9pgx6nq",
+      "9ph4pi3",
+      "9ph5uwq",
+      "9ph7ll6",
+      "9ph8vql",
+      "9phevos",
+      "9phmx10",
+      "9phnxbm",
+      "9phoklb",
+      "9phrq2f",
+      "9pi1v6a"
     ],
-    1743444347552,
+    1787200478960,
     100,
     76
   ],

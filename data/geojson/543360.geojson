@@ -883,6 +883,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.111949,
+          36.094959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 543360,
+        "bangumi_title": "上伊那牡丹，酒醉身姿似百合花般",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/iebyfsg-1787059051596.webp",
+        "location": "長瀞駅",
+        "point_id": "iebyfsg",
+        "point_name": "長瀞駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.112491,
           36.094842
         ],
@@ -1703,8 +1723,8 @@
     {
       "geometry": {
         "coordinates": [
-          138.930241,
-          35.925433
+          138.927832,
+          35.927328
         ],
         "type": "Point"
       },
@@ -4143,8 +4163,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.702333,
-          35.655936
+          139.702242,
+          35.655956
         ],
         "type": "Point"
       },
@@ -4163,8 +4183,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.702337,
-          35.65594
+          139.702262,
+          35.656011
         ],
         "type": "Point"
       },
@@ -4183,8 +4203,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.70226,
-          35.656136
+          139.702259,
+          35.656015
         ],
         "type": "Point"
       },
@@ -4203,8 +4223,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.702392,
-          35.65589
+          139.702216,
+          35.655988
         ],
         "type": "Point"
       },

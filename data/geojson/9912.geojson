@@ -63,8 +63,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.195951,
-          36.334773
+          139.195711,
+          36.332987
         ],
         "type": "Point"
       },
@@ -223,8 +223,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.196118,
-          36.326531
+          139.189337,
+          36.327955
         ],
         "type": "Point"
       },
@@ -731,7 +731,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "19话",
+        "ep_cut": 19,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58vyjls-1758431684153.jpg",
         "location": "",
         "point_id": "58vyjls",
@@ -751,7 +751,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第19话",
+        "ep_cut": 19,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58w4ijl-1758431956896.jpg",
         "location": "",
         "point_id": "58w4ijl",
@@ -771,7 +771,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第19话",
+        "ep_cut": 19,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58w93fq-1758432217763.jpg",
         "location": "",
         "point_id": "58w93fq",
@@ -791,7 +791,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第19话",
+        "ep_cut": 19,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58weopc-1758432434617.jpg",
         "location": "",
         "point_id": "58weopc",
@@ -811,7 +811,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第10话",
+        "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59h5jpi-1758467278140.jpg",
         "location": "",
         "point_id": "59h5jpi",
@@ -831,7 +831,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第10话",
+        "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59hfaq3-1758467729756.jpg",
         "location": "",
         "point_id": "59hfaq3",
@@ -851,7 +851,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第16话",
+        "ep_cut": 16,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59hyvpm-1758468644022.jpg",
         "location": "",
         "point_id": "59hyvpm",
@@ -871,7 +871,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第16话",
+        "ep_cut": 16,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59i90kb-1758469127481.jpg",
         "location": "",
         "point_id": "59i90kb",
@@ -891,7 +891,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第16话",
+        "ep_cut": 16,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59iew5y-1758469395586.jpg",
         "location": "",
         "point_id": "59iew5y",
@@ -911,7 +911,7 @@
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "第16话",
+        "ep_cut": 16,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59ij6jh-1758469588680.jpg",
         "location": "",
         "point_id": "59ij6jh",

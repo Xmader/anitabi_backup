@@ -1,5 +1,33 @@
 [
   {
+    "id": 386809,
+    "title_cn": "我推的孩子",
+    "title_jp": "【推しの子】",
+    "title_en": "",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 7.5,
+    "points_count": 69,
+    "center_lat": 34.632522,
+    "center_lng": 136.381212,
+    "cover_url": "https://w.junreimap.com/images/bangumi/386809.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 9912,
+    "title_cn": "日常",
+    "title_jp": "日常",
+    "title_en": "",
+    "region": "伊势崎市",
+    "type": "TV",
+    "rating": 8.4,
+    "points_count": 48,
+    "center_lat": 36.336009,
+    "center_lng": 139.190941,
+    "cover_url": "https://w.junreimap.com/images/bangumi/9912.jpg",
+    "bgm_id": 77809
+  },
+  {
     "id": 543360,
     "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
     "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
@@ -7,10 +35,38 @@
     "region": "秩父市",
     "type": "TV",
     "rating": 7.2,
-    "points_count": 230,
+    "points_count": 231,
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/543360_fej9y4l.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 306339,
+    "title_cn": "灰色兼职：禁止逃亡",
+    "title_jp": "裏バイト:逃亡禁止",
+    "title_en": "",
+    "region": "東京都",
+    "type": "漫画系列",
+    "rating": 7.3,
+    "points_count": 9,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/306339.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 325767,
+    "title_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "title_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7,
+    "points_count": 1,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/a1/d3/325767_u3pvR.jpg",
     "bgm_id": null
   },
   {
@@ -152,20 +208,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/218127.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 9912,
-    "title_cn": "日常",
-    "title_jp": "日常",
-    "title_en": "",
-    "region": "伊势崎市",
-    "type": "TV",
-    "rating": 8.4,
-    "points_count": 48,
-    "center_lat": 36.336009,
-    "center_lng": 139.190941,
-    "cover_url": "https://w.junreimap.com/images/bangumi/9912.jpg",
-    "bgm_id": 77809
   },
   {
     "id": 11536,
@@ -4001,20 +4043,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/0c/f6/491519_KG9gB.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 386809,
-    "title_cn": "我推的孩子",
-    "title_jp": "【推しの子】",
-    "title_en": "",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 7.5,
-    "points_count": 69,
-    "center_lat": 34.632522,
-    "center_lng": 136.381212,
-    "cover_url": "https://w.junreimap.com/images/bangumi/386809.jpg",
     "bgm_id": null
   },
   {
