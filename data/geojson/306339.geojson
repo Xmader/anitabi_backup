@@ -316,7 +316,7 @@
         "location": "",
         "point_id": "iivuijl",
         "point_name": "UR都市機構ヌーヴェル赤羽台",
-        "remark": ""
+        "remark": "「ヌーヴェル赤羽台」是2006年开始在老化的原「赤羽台団地」上重建而来的集体住宅。漫画此处提及的发生过火灾的旧团地指的就是赤羽台团地，不过现实中赤羽台团地并没发生火灾。"
       },
       "type": "Feature"
     },
@@ -483,8 +483,48 @@
     {
       "geometry": {
         "coordinates": [
-          140.394131,
-          35.784785
+          139.715464,
+          35.776507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 180,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijc96rb_1787363150594.webp",
+        "location": "",
+        "point_id": "ijc96rb",
+        "point_name": "UR都市機構ヌーヴェル赤羽台15号棟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757496,
+          35.666917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 183,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijgyp4z_1787371125306.webp",
+        "location": "",
+        "point_id": "ijgyp4z",
+        "point_name": "新橋駅西口広場（SL広場）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.394425,
+          35.784226
         ],
         "type": "Point"
       },
@@ -492,9 +532,29 @@
         "bangumi_id": 306339,
         "bangumi_title": "灰色兼职：禁止逃亡",
         "ep_cut": 184,
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/points/306339/ig30aht_1787363060918.webp",
         "location": "",
         "point_id": "ig30aht",
+        "point_name": "東峰神社",
+        "remark": "本作的太空神社原型是修建于成田机场跑道尽头的东峰神社，通向神社的道路造型一致，但神社内部不一致。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.394367,
+          35.78453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 184,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijd1wqx_1787363239682.webp",
+        "location": "",
+        "point_id": "ijd1wqx",
         "point_name": "東峰神社",
         "remark": ""
       },
@@ -503,8 +563,28 @@
     {
       "geometry": {
         "coordinates": [
-          139.704639,
-          35.690811
+          140.394462,
+          35.784098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 186,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijdeofm_1787363839738.webp",
+        "location": "",
+        "point_id": "ijdeofm",
+        "point_name": "東峰神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701031,
+          35.688983
         ],
         "type": "Point"
       },
@@ -512,11 +592,391 @@
         "bangumi_id": 306339,
         "bangumi_title": "灰色兼职：禁止逃亡",
         "ep_cut": 207,
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/points/306339/ijei8w1_1787365681795.webp",
+        "location": "",
+        "point_id": "ijei8w1",
+        "point_name": "JR新宿駅",
+        "remark": "两人此次工作是从新宿站分头步行到东京站，其中小滨的路线是新宿站→池袋→田端→上野→东京站，小梦的路线是新宿站→涩谷→滨松町→新桥→东京站。\nhttps://maps.app.goo.gl/VX24p1YkV6WTAY3u5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701107,
+          35.689027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijejiq1_1787365731022.webp",
+        "location": "",
+        "point_id": "ijejiq1",
+        "point_name": "JR新宿駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700996,
+          35.689032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijek7rx_1787365758540.webp",
+        "location": "",
+        "point_id": "ijek7rx",
+        "point_name": "JR新宿駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701053,
+          35.689052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijekqfh_1787365780734.webp",
+        "location": "",
+        "point_id": "ijekqfh",
+        "point_name": "JR新宿駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704481,
+          35.690107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijeo4h1_1787365959753.webp",
+        "location": "",
+        "point_id": "ijeo4h1",
+        "point_name": "新宿四丁目交差点",
+        "remark": "https://maps.app.goo.gl/P9A83CFD3iobNZkf7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704409,
+          35.689955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijepmdx_1787366011002.webp",
+        "location": "",
+        "point_id": "ijepmdx",
+        "point_name": "新宿四丁目交差点",
+        "remark": "https://maps.app.goo.gl/Ytp5s92pDkUWssu36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704479,
+          35.6901
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijeqdji_1787366046623.webp",
+        "location": "",
+        "point_id": "ijeqdji",
+        "point_name": "新宿四丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704891,
+          35.690673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijexg7f_1787366382146.webp",
+        "location": "",
+        "point_id": "ijexg7f",
+        "point_name": "新宿三丁目交差点",
+        "remark": "https://maps.app.goo.gl/qn4mJ9XW2WNZWFMNA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712815,
+          35.731346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijf6qqp_1787366847184.webp",
+        "location": "",
+        "point_id": "ijf6qqp",
+        "point_name": "池袋駅東口北交差点",
+        "remark": "https://maps.app.goo.gl/y58vRdLQSex4r9kb9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.712876,
+          35.731412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijf9kw9_1787366961777.webp",
+        "location": "",
+        "point_id": "ijf9kw9",
+        "point_name": "池袋駅東口北交差点",
+        "remark": "右上角露出ha二字的招牌是gashacoco池袋。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704826,
+          35.690625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ig2tu6j_1787366065469.webp",
         "location": "",
         "point_id": "ig2tu6j",
         "point_name": "新宿三丁目交差点",
+        "remark": "https://maps.app.goo.gl/beQ1YEKfLXCRWepZ7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704881,
+          35.690668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 207,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijeyfjs_1787366421758.webp",
+        "location": "",
+        "point_id": "ijeyfjs",
+        "point_name": "新宿三丁目交差点",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759248,
+          35.735441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 208,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijfpu3a_1787367786605.webp",
+        "location": "",
+        "point_id": "ijfpu3a",
+        "point_name": "田端二丁目",
+        "remark": "https://maps.app.goo.gl/k8JAZkM5mUTsacXb8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759386,
+          35.735509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 208,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijfst1l_1787367858922.webp",
+        "location": "",
+        "point_id": "ijfst1l",
+        "point_name": "田端二丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759244,
+          35.735426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 208,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijfw8ls_1787368002410.webp",
+        "location": "",
+        "point_id": "ijfw8ls",
+        "point_name": "田端二丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759656,
+          35.73768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 208,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijgin8p_1787369112972.webp",
+        "location": "",
+        "point_id": "ijgin8p",
+        "point_name": "JR田端駅前",
+        "remark": "可站在东台桥向北拍摄，左下角建筑是「将軍 田端店」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757784,
+          35.666556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 209,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijgpmak_1787369382575.webp",
+        "location": "",
+        "point_id": "ijgpmak",
+        "point_name": "JR新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75508,
+          35.654717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 209,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijgtr34_1787369599793.webp",
+        "location": "",
+        "point_id": "ijgtr34",
+        "point_name": "肉汁餃子のダンダダン 浜松町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757993,
+          35.665757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 209,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijgxxge_1787369862309.webp",
+        "location": "",
+        "point_id": "ijgxxge",
+        "point_name": "JR新橋駅 烏森口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765432,
+          35.679498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 306339,
+        "bangumi_title": "灰色兼职：禁止逃亡",
+        "ep_cut": 209,
+        "image_url": "https://w.junreimap.com/images/points/306339/ijh3yn4_1787370159944.webp",
+        "location": "",
+        "point_id": "ijh3yn4",
+        "point_name": "東京駅",
+        "remark": "在东京站南侧高处向北拍摄，右侧的建筑是サピアタワー。"
       },
       "type": "Feature"
     },
@@ -532,7 +992,7 @@
         "bangumi_id": 306339,
         "bangumi_title": "灰色兼职：禁止逃亡",
         "ep_cut": 225,
-        "image_url": "https://w.junreimap.com/images/points/306339/ig215cc_1787163333042.webp",
+        "image_url": "https://w.junreimap.com/images/points/306339/ig215cc_1787371002717.webp",
         "location": "",
         "point_id": "ig215cc",
         "point_name": "イトーヨーカドー 赤羽店",

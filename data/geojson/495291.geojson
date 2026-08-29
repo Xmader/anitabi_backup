@@ -83,26 +83,6 @@
     {
       "geometry": {
         "coordinates": [
-          136.06048,
-          35.010685
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 495291,
-        "bangumi_title": "再见，拉拉",
-        "ep_cut": "PV1",
-        "image_url": "https://w.junreimap.com/images/points/495291/bl6spsh_1772236224163.jpg",
-        "location": "平和堂石部店",
-        "point_id": "bl6spsh",
-        "point_name": "平和堂石部店",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           135.889131,
           35.004707
         ],
@@ -423,8 +403,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905726,
-          34.97803
+          135.905644,
+          34.977998
         ],
         "type": "Point"
       },
@@ -443,8 +423,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905663,
-          34.978021
+          135.905587,
+          34.978019
         ],
         "type": "Point"
       },
@@ -463,8 +443,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905659,
-          34.978021
+          135.905582,
+          34.978019
         ],
         "type": "Point"
       },
@@ -483,8 +463,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905649,
-          34.978054
+          135.905629,
+          34.97804
         ],
         "type": "Point"
       },
@@ -1563,8 +1543,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905696,
-          34.978
+          135.905645,
+          34.977979
         ],
         "type": "Point"
       },
@@ -1583,8 +1563,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905679,
-          34.97805
+          135.90562,
+          34.978025
         ],
         "type": "Point"
       },
@@ -1603,8 +1583,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905707,
-          34.978028
+          135.905651,
+          34.977998
         ],
         "type": "Point"
       },
@@ -1623,8 +1603,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905675,
-          34.978054
+          135.905612,
+          34.97803
         ],
         "type": "Point"
       },
@@ -1643,8 +1623,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.905685,
-          34.977992
+          135.905636,
+          34.977971
         ],
         "type": "Point"
       },
@@ -2093,7 +2073,7 @@
         "bangumi_title": "再见，拉拉",
         "ep_cut": 4,
         "image_url": "https://w.junreimap.com/images/points/495291/hj2wuns_1785169624760.webp",
-        "location": "乌丸半岛",
+        "location": "琵琶湖博物馆",
         "point_id": "hj2wuns",
         "point_name": "滋賀県立琵琶湖博物館 トイレ",
         "remark": "https://maps.app.goo.gl/AKN6ikE5T17Gtydg9"
@@ -2113,7 +2093,7 @@
         "bangumi_title": "再见，拉拉",
         "ep_cut": 4,
         "image_url": "https://w.junreimap.com/images/points/495291/hj31zcj_1785169642288.webp",
-        "location": "乌丸半岛",
+        "location": "琵琶湖博物馆",
         "point_id": "hj31zcj",
         "point_name": "滋賀県立琵琶湖博物館 トイレ",
         "remark": ""
@@ -2176,6 +2156,86 @@
         "location": "膳所城迹公园",
         "point_id": "hj35k7h",
         "point_name": "膳所城跡公園 ベンチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903012,
+          34.97839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/ist2ajt_1787934306824.webp",
+        "location": "平和堂石山",
+        "point_id": "ist2ajt",
+        "point_name": "平和堂石山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.902969,
+          34.978382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/ist0adk_1787934237044.webp",
+        "location": "平和堂石山",
+        "point_id": "ist0adk",
+        "point_name": "平和堂石山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903014,
+          34.978379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/ist1vs4_1787934314185.webp",
+        "location": "平和堂石山",
+        "point_id": "ist1vs4",
+        "point_name": "平和堂石山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903013,
+          34.978372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/495291/ist2a1c_1787934340645.webp",
+        "location": "平和堂石山",
+        "point_id": "ist2a1c",
+        "point_name": "平和堂石山",
         "remark": ""
       },
       "type": "Feature"
@@ -2383,8 +2443,8 @@
     {
       "geometry": {
         "coordinates": [
-          136.099879,
-          35.124367
+          136.099932,
+          35.124402
         ],
         "type": "Point"
       },
@@ -2463,8 +2523,8 @@
     {
       "geometry": {
         "coordinates": [
-          136.099903,
-          35.124393
+          136.099923,
+          35.124391
         ],
         "type": "Point"
       },
@@ -2483,8 +2543,8 @@
     {
       "geometry": {
         "coordinates": [
-          136.09986,
-          35.124397
+          136.099902,
+          35.124384
         ],
         "type": "Point"
       },
@@ -2503,8 +2563,8 @@
     {
       "geometry": {
         "coordinates": [
-          136.09983,
-          35.124395
+          136.099879,
+          35.124376
         ],
         "type": "Point"
       },
@@ -2796,6 +2856,2426 @@
         "location": "近江八幡大津线",
         "point_id": "hugjaed",
         "point_name": "近江八幡大津線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.899093,
+          34.997415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/iso4a3r_1787926036069.webp",
+        "location": "航拍",
+        "point_id": "iso4a3r",
+        "point_name": "近江大橋",
+        "remark": "鱼剑攻击的位置是近江大桥桥面最高处，现实中桥面最高处没有桥墩。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895817,
+          34.997522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/495291/iso2znn_1787925950202.webp",
+        "location": "膳所港",
+        "point_id": "iso2znn",
+        "point_name": "近江大橋の下の歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.935604,
+          35.074734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/ism95j5_1787924369205.webp",
+        "location": "琵琶湖博物馆",
+        "point_id": "ism95j5",
+        "point_name": "琵琶湖博物館 水族展示室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.935595,
+          35.074682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isn5i1h_1787924381569.webp",
+        "location": "琵琶湖博物馆",
+        "point_id": "isn5i1h",
+        "point_name": "琵琶湖博物館 水族展示室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.935558,
+          35.074723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isn5qch_1787924386726.webp",
+        "location": "琵琶湖博物馆",
+        "point_id": "isn5qch",
+        "point_name": "琵琶湖博物館 水族展示室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.935595,
+          35.074702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isn5ueh_1787924393253.webp",
+        "location": "琵琶湖博物馆",
+        "point_id": "isn5ueh",
+        "point_name": "琵琶湖博物館 水族展示室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89893,
+          34.997412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/iso6jqe_1787926113351.webp",
+        "location": "近江大桥",
+        "point_id": "iso6jqe",
+        "point_name": "近江大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -0.130073,
+          51.49972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/ismc2k9_1787924406855.webp",
+        "location": "皇家水族馆",
+        "point_id": "ismc2k9",
+        "point_name": "Royal Aquarium",
+        "remark": "曾位于英国伦敦的水族馆，1878年建成、1903年拆除。原址所在地现为卫理公会中央礼堂。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758701,
+          34.987241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/ismix2b_1787924413672.webp",
+        "location": "京都站",
+        "point_id": "ismix2b",
+        "point_name": "京都駅",
+        "remark": "存在于1914年~1950年的京都站第二代站房，毁于火灾。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903402,
+          34.978471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isovj2c_1787927283963.webp",
+        "location": "平和堂石山",
+        "point_id": "isovj2c",
+        "point_name": "平和堂石山 駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894399,
+          34.996834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isozcfe_1787927580794.webp",
+        "location": "膳所港",
+        "point_id": "isozcfe",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894636,
+          34.996829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp2gss_1787927594131.webp",
+        "location": "膳所港",
+        "point_id": "isp2gss",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894455,
+          34.99701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp2nhi_1787927601936.webp",
+        "location": "膳所港",
+        "point_id": "isp2nhi",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89451,
+          34.997012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp2rto_1787927611613.webp",
+        "location": "膳所港",
+        "point_id": "isp2rto",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894601,
+          34.997014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp2yb0_1787927618140.webp",
+        "location": "膳所港",
+        "point_id": "isp2yb0",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894544,
+          34.997014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp35dq_1787927631651.webp",
+        "location": "膳所港",
+        "point_id": "isp35dq",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894495,
+          34.997012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp3e3c_1787927637941.webp",
+        "location": "膳所港",
+        "point_id": "isp3e3c",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894633,
+          34.99685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp3iyw_1787927643074.webp",
+        "location": "膳所港",
+        "point_id": "isp3iyw",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894621,
+          34.997014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp3nxp_1787927649349.webp",
+        "location": "膳所港",
+        "point_id": "isp3nxp",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894616,
+          34.997014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp3sep_1787927657580.webp",
+        "location": "膳所港",
+        "point_id": "isp3sep",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894581,
+          34.997016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp3zd3_1787927664928.webp",
+        "location": "膳所港",
+        "point_id": "isp3zd3",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894631,
+          34.996837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/495291/isp43mp_1787927669758.webp",
+        "location": "膳所港",
+        "point_id": "isp43mp",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894688,
+          34.996971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispdlzv_1787928116492.webp",
+        "location": "膳所港",
+        "point_id": "ispdlzv",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894685,
+          34.997017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispdv4y_1787928125941.webp",
+        "location": "膳所港",
+        "point_id": "ispdv4y",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894526,
+          34.997013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispewzk_1787928213710.webp",
+        "location": "膳所港",
+        "point_id": "ispewzk",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099882,
+          35.124407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isph09k_1787928272104.webp",
+        "location": "Andenken",
+        "point_id": "isph09k",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894665,
+          34.997018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispj5h8_1787928372491.webp",
+        "location": "膳所港",
+        "point_id": "ispj5h8",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894691,
+          34.997016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispjagw_1787928378681.webp",
+        "location": "膳所港",
+        "point_id": "ispjagw",
+        "point_name": "膳所港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894612,
+          34.997016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispkfrh_1787928432309.webp",
+        "location": "膳所港",
+        "point_id": "ispkfrh",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099954,
+          35.124404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispi0nx_1787928319843.webp",
+        "location": "Andenken",
+        "point_id": "ispi0nx",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.099945,
+          35.124396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispkzd2_1787928479975.webp",
+        "location": "Andenken",
+        "point_id": "ispkzd2",
+        "point_name": "アンデケン 本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.924663,
+          35.201803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispni8u_1787929276840.webp",
+        "location": "志贺站",
+        "point_id": "ispni8u",
+        "point_name": "志賀駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.906783,
+          35.202531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispqx1x_1787929282952.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "ispqx1x",
+        "point_name": "びわ湖バレイロープウェイ山麓駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.906978,
+          35.202843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isprpqm_1787929288126.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isprpqm",
+        "point_name": "びわ湖バレイロープウェイ山麓駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.906859,
+          35.202767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isptijj_1787928863969.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isptijj",
+        "point_name": "びわ湖バレイロープウェイ山麓駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90693,
+          35.202812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispu3ht_1787929302531.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "ispu3ht",
+        "point_name": "びわ湖バレイロープウェイ山麓駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.907074,
+          35.202935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispu7z5_1787929307874.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "ispu7z5",
+        "point_name": "びわ湖バレイロープウェイ山麓駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.899598,
+          35.209368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispuhbn_1787929312064.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "ispuhbn",
+        "point_name": "びわ湖バレイロープウェイ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895405,
+          35.213237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq7n3g_1787929526238.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq7n3g",
+        "point_name": "びわ湖テラス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89577,
+          35.213276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq9q4v_1787929615390.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq9q4v",
+        "point_name": "びわ湖テラス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895792,
+          35.213241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq9zsx_1787929625283.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq9zsx",
+        "point_name": "びわ湖テラス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895787,
+          35.213254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqa5gm_1787929630992.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isqa5gm",
+        "point_name": "びわ湖テラス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895781,
+          35.213244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqa8qd_1787929719505.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isqa8qd",
+        "point_name": "びわ湖テラス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.888274,
+          35.210599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqe8el_1787929824818.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isqe8el",
+        "point_name": "ホーライクワッドリフト",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.886755,
+          35.20951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqdmez_1787929868815.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isqdmez",
+        "point_name": "ホーライリフト山頂乗降場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895202,
+          35.213365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq2b4y_1787929266570.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq2b4y",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895237,
+          35.213329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq260n_1787929259371.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq260n",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895241,
+          35.213374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq20j2_1787929253550.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq20j2",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89525,
+          35.213358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq1q51_1787929239126.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq1q51",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895174,
+          35.21329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq1vhy_1787929246165.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq1vhy",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895204,
+          35.21335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isq1fzx_1787929232171.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "isq1fzx",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.895169,
+          35.213272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/ispz2l6_1787929182884.webp",
+        "location": "琵琶湖山谷",
+        "point_id": "ispz2l6",
+        "point_name": "びわ湖バレイロープウェイ山頂駅",
+        "remark": "https://maps.app.goo.gl/Qhhp4GghZ3ptjBuj9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.881291,
+          35.004019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqpiga_1787930362677.webp",
+        "location": "鳰之滨",
+        "point_id": "isqpiga",
+        "point_name": "におの浜二丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.914573,
+          34.973485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqqlcp_1787930501867.webp",
+        "location": "神领",
+        "point_id": "isqqlcp",
+        "point_name": "​神領​団地​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.91458,
+          34.97357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqt3wx_1787930516545.webp",
+        "location": "神领",
+        "point_id": "isqt3wx",
+        "point_name": "​神領​団地​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.914656,
+          34.973707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqtueg_1787930553878.webp",
+        "location": "神领",
+        "point_id": "isqtueg",
+        "point_name": "​神領​団地​",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903021,
+          34.973788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqw625_1787930679331.webp",
+        "location": "唐桥前站",
+        "point_id": "isqw625",
+        "point_name": "唐橋前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903017,
+          34.973706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqwrzn_1787930692690.webp",
+        "location": "唐桥前站",
+        "point_id": "isqwrzn",
+        "point_name": "唐橋前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.903024,
+          34.973696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqx02l_1787930697629.webp",
+        "location": "唐桥前站",
+        "point_id": "isqx02l",
+        "point_name": "唐橋前駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905519,
+          34.978536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqyjqc_1787930779287.webp",
+        "location": "濑田川大桥",
+        "point_id": "isqyjqc",
+        "point_name": "瀬田川大橋北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905485,
+          34.978558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqyxlr_1787930788088.webp",
+        "location": "濑田川大桥",
+        "point_id": "isqyxlr",
+        "point_name": "瀬田川大橋北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905508,
+          34.978541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqz23a_1787930794115.webp",
+        "location": "濑田川大桥",
+        "point_id": "isqz23a",
+        "point_name": "瀬田川大橋北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905498,
+          34.978545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqz6qv_1787930798988.webp",
+        "location": "濑田川大桥",
+        "point_id": "isqz6qv",
+        "point_name": "瀬田川大橋北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.90548,
+          34.97852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isqzing_1787930815815.webp",
+        "location": "濑田川大桥",
+        "point_id": "isqzing",
+        "point_name": "瀬田川大橋北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894829,
+          34.996821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr0zec_1787931058488.webp",
+        "location": "膳所港",
+        "point_id": "isr0zec",
+        "point_name": "膳所港",
+        "remark": "https://maps.app.goo.gl/mpE1DNwB2UwGmsKn8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894631,
+          34.997015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr1i7u_1787931077091.webp",
+        "location": "膳所港",
+        "point_id": "isr1i7u",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894673,
+          34.996953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr24i1_1787931084417.webp",
+        "location": "",
+        "point_id": "isr24i1",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894649,
+          34.99701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr28ev_1787931089921.webp",
+        "location": "",
+        "point_id": "isr28ev",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894565,
+          34.997014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr2ext_1787931101119.webp",
+        "location": "",
+        "point_id": "isr2ext",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894591,
+          34.997009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr2hvz_1787931109839.webp",
+        "location": "",
+        "point_id": "isr2hvz",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894586,
+          34.997012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr2miy_1787931115831.webp",
+        "location": "",
+        "point_id": "isr2miy",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894596,
+          34.997012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr6bn3_1787931131801.webp",
+        "location": "",
+        "point_id": "isr6bn3",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.89463,
+          34.996868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr2tyw_1787931123907.webp",
+        "location": "",
+        "point_id": "isr2tyw",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894597,
+          34.997014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr2xnj_1787931142509.webp",
+        "location": "",
+        "point_id": "isr2xnj",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894587,
+          34.997016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr33lq_1787931151933.webp",
+        "location": "",
+        "point_id": "isr33lq",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894633,
+          34.996904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr3fiz_1787931157403.webp",
+        "location": "",
+        "point_id": "isr3fiz",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894601,
+          34.997009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr3jjh_1787931163891.webp",
+        "location": "",
+        "point_id": "isr3jjh",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894604,
+          34.997017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr3moq_1787931174083.webp",
+        "location": "",
+        "point_id": "isr3moq",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894568,
+          34.997012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr3q9c_1787931181950.webp",
+        "location": "",
+        "point_id": "isr3q9c",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894541,
+          34.997008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr3uby_1787931194332.webp",
+        "location": "",
+        "point_id": "isr3uby",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894548,
+          34.997017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr44ww_1787931199175.webp",
+        "location": "",
+        "point_id": "isr44ww",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894538,
+          34.997012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr481v_1787931204358.webp",
+        "location": "",
+        "point_id": "isr481v",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894535,
+          34.997016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr4buk_1787931210500.webp",
+        "location": "",
+        "point_id": "isr4buk",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894536,
+          34.997006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr4fbd_1787931215106.webp",
+        "location": "",
+        "point_id": "isr4fbd",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894534,
+          34.997011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isr4igq_1787931222892.webp",
+        "location": "",
+        "point_id": "isr4igq",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.891956,
+          35.001798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isrfa4t_1787931570678.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "isrfa4t",
+        "point_name": "大津​湖​岸なぎさ​公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.890684,
+          35.004816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isri6mb_1787931688757.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "isri6mb",
+        "point_name": "びわ湖​大津​プリンス​ホテル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.921685,
+          35.110032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isrjfd4_1787931750660.webp",
+        "location": "满月寺浮御堂",
+        "point_id": "isrjfd4",
+        "point_name": "満月寺浮御堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.892055,
+          35.001759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/495291/isrgaiv_1787931655049.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "isrgaiv",
+        "point_name": "大津​湖​岸なぎさ​公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.891968,
+          35.001798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isrp3um_1787932026312.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "isrp3um",
+        "point_name": "大津​湖​岸なぎさ​公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.884207,
+          35.006277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isru88n_1787932341428.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "isru88n",
+        "point_name": "大津​湖​岸なぎさ​公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.884173,
+          35.006277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isrvvz5_1787932371795.webp",
+        "location": "大津湖岸渚公园",
+        "point_id": "isrvvz5",
+        "point_name": "大津​湖​岸なぎさ​公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905626,
+          34.977968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss0d0l_1787932545523.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss0d0l",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905603,
+          34.977995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss10lk_1787932566762.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss10lk",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905614,
+          34.977979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss1ibv_1787932589680.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss1ibv",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905593,
+          34.977995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss4zlv_1787932765193.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss4zlv",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905646,
+          34.977998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss5fmv_1787932773428.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss5fmv",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905599,
+          34.97799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss5uph_1787932793271.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss5uph",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905598,
+          34.977999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss60g9_1787932799147.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss60g9",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905604,
+          34.977987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss65p6_1787932850654.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss65p6",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905598,
+          34.97799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss6yhl_1787932845073.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss6yhl",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905598,
+          34.977999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss6rl9_1787932833897.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss6rl9",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905598,
+          34.977996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss7op7_1787932879288.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss7op7",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905598,
+          34.977989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss81fl_1787932893271.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss81fl",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905556,
+          34.978105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issbxdv_1787933078076.webp",
+        "location": "濑田川大桥",
+        "point_id": "issbxdv",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905601,
+          34.977997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issdb30_1787933145124.webp",
+        "location": "濑田川大桥",
+        "point_id": "issdb30",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905546,
+          34.978117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/iss9f2o_1787933024568.webp",
+        "location": "濑田川大桥",
+        "point_id": "iss9f2o",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905614,
+          34.977996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issdlm6_1787933153685.webp",
+        "location": "濑田川大桥",
+        "point_id": "issdlm6",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905624,
+          34.977997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issdrq7_1787933162747.webp",
+        "location": "濑田川大桥",
+        "point_id": "issdrq7",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.15649,
+          35.185042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issfgzz_1787933242368.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issfgzz",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156938,
+          35.185056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issn8hm_1787933610952.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issn8hm",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.157185,
+          35.184952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isso1jf_1787933641012.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "isso1jf",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905657,
+          34.978008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isss5t5_1787933839003.webp",
+        "location": "濑田川大桥",
+        "point_id": "isss5t5",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905594,
+          34.978039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issshz3_1787933847707.webp",
+        "location": "濑田川大桥",
+        "point_id": "issshz3",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905594,
+          34.978045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isssh5u_1787933859197.webp",
+        "location": "濑田川大桥",
+        "point_id": "isssh5u",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.157169,
+          35.184959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issoe66_1787933655243.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issoe66",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156941,
+          35.185097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issoker_1787933662984.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issoker",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156926,
+          35.185102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issoray_1787933671725.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issoray",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156583,
+          35.185182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issp1j2_1787933685765.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issp1j2",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.156957,
+          35.185209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/issp69i_1787933691783.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "issp69i",
+        "point_name": "東近江市能登川アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.157043,
+          35.185029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/495291/isspf04_1787933705260.webp",
+        "location": "东近江市能登川竞技场",
+        "point_id": "isspf04",
+        "point_name": "東近江市能登川アリーナ",
         "remark": ""
       },
       "type": "Feature"

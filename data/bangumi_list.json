@@ -1,5 +1,145 @@
 [
   {
+    "id": 495291,
+    "title_cn": "再见，拉拉",
+    "title_jp": "さよならララ",
+    "title_en": "Goodbye!rara",
+    "region": "大津市",
+    "type": "TV",
+    "rating": 8,
+    "points_count": 264,
+    "center_lat": 34.978141,
+    "center_lng": 135.905931,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/18/af/495291_Qd97X.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 325767,
+    "title_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "title_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7,
+    "points_count": 3,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/a1/d3/325767_u3pvR.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 315727,
+    "title_cn": "",
+    "title_jp": "铁道少女：梦想轨迹",
+    "title_en": "Railway To Dream",
+    "region": "江苏省",
+    "type": "游戏",
+    "rating": 6.6,
+    "points_count": 11,
+    "center_lat": 32.028977,
+    "center_lng": 118.808918,
+    "cover_url": "https://w.junreimap.com/images/bangumi/315727.jpg",
+    "bgm_id": 252570
+  },
+  {
+    "id": 186677,
+    "title_cn": "特里诺兰",
+    "title_jp": "トリノライン",
+    "title_en": "",
+    "region": "小笠原村",
+    "type": "游戏",
+    "rating": 0,
+    "points_count": 8,
+    "center_lat": 27.096156,
+    "center_lng": 142.197009,
+    "cover_url": "https://w.junreimap.com/images/bangumi/186677_iomg61h.jpg",
+    "bgm_id": 717372
+  },
+  {
+    "id": 12886,
+    "title_cn": "情书",
+    "title_jp": "ラヴレター",
+    "title_en": "Love Letter / When I Close My Eyes / Letters of Love / A Winter Love Story",
+    "region": "小樽市",
+    "type": "电影",
+    "rating": 8.4,
+    "points_count": 18,
+    "center_lat": 43.19184,
+    "center_lng": 140.991933,
+    "cover_url": "https://w.junreimap.com/images/bangumi/12886.jpg",
+    "bgm_id": 1377
+  },
+  {
+    "id": 280440,
+    "title_cn": "死月妖花～四月八日～",
+    "title_jp": "死月妖花～四月八日～",
+    "title_en": "",
+    "region": "日本",
+    "type": "游戏",
+    "rating": 8.9,
+    "points_count": 51,
+    "center_lat": 36.366925,
+    "center_lng": 136.696105,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/67/0d/280440_do0j5.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 224872,
+    "title_cn": "草薙老师被考验着。",
+    "title_jp": "草薙先生は試されている。",
+    "title_en": "",
+    "region": "江戸川区",
+    "type": "漫画系列",
+    "rating": 7,
+    "points_count": 15,
+    "center_lat": 35.639587,
+    "center_lng": 139.859474,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/74/46/224872_dG2sl.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 312429,
+    "title_cn": "今天也没能变得普通",
+    "title_jp": "今日はまだフツーになれない",
+    "title_en": "",
+    "region": "高槻市",
+    "type": "漫画",
+    "rating": 7.3,
+    "points_count": 11,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/6e/87/312429_yKG6Y.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 3243,
+    "title_cn": "裝甲惡鬼村正",
+    "title_jp": "装甲悪鬼村正",
+    "title_en": "",
+    "region": "镰仓市",
+    "type": "游戏",
+    "rating": 0,
+    "points_count": 11,
+    "center_lat": 35.317089,
+    "center_lng": 139.539103,
+    "cover_url": "https://w.junreimap.com/images/bangumi/3243.jpg",
+    "bgm_id": 986
+  },
+  {
+    "id": 268843,
+    "title_cn": "",
+    "title_jp": "Still Sick",
+    "title_en": "",
+    "region": "日本",
+    "type": "漫画系列",
+    "rating": 7.4,
+    "points_count": 25,
+    "center_lat": 35.628298,
+    "center_lng": 139.793532,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/0a/7b/268843_Q4SlE.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 306339,
     "title_cn": "灰色兼职：禁止逃亡",
     "title_jp": "裏バイト:逃亡禁止",
@@ -7,11 +147,11 @@
     "region": "東京都",
     "type": "漫画系列",
     "rating": 7.3,
-    "points_count": 27,
-    "center_lat": 0,
-    "center_lng": 0,
+    "points_count": 50,
+    "center_lat": 35.778433,
+    "center_lng": 139.715664,
     "cover_url": "https://w.junreimap.com/images/bangumi/306339.jpg",
-    "bgm_id": null
+    "bgm_id": 2811
   },
   {
     "id": 3774,
@@ -81,20 +221,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/543360_fej9y4l.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 325767,
-    "title_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "title_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7,
-    "points_count": 1,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/a1/d3/325767_u3pvR.jpg",
     "bgm_id": null
   },
   {
@@ -641,20 +767,6 @@
     "center_lat": 37.2988,
     "center_lng": 136.997177,
     "cover_url": "https://w.junreimap.com/images/bangumi/109378.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 495291,
-    "title_cn": "再见，拉拉",
-    "title_jp": "さよならララ",
-    "title_en": "Goodbye!rara",
-    "region": "大津市",
-    "type": "TV",
-    "rating": 8,
-    "points_count": 140,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/18/af/495291_Qd97X.jpg",
     "bgm_id": null
   },
   {
@@ -2994,20 +3106,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/17/1e/448655_z11A1.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 315727,
-    "title_cn": "",
-    "title_jp": "铁道少女：梦想轨迹",
-    "title_en": "Railway To Dream",
-    "region": "江苏省",
-    "type": "游戏",
-    "rating": 6.6,
-    "points_count": 11,
-    "center_lat": 32.028977,
-    "center_lng": 118.808918,
-    "cover_url": "https://w.junreimap.com/images/bangumi/315727.jpg",
-    "bgm_id": 252570
   },
   {
     "id": 300648,
@@ -6790,20 +6888,6 @@
     "bgm_id": null
   },
   {
-    "id": 3243,
-    "title_cn": "裝甲惡鬼村正",
-    "title_jp": "装甲悪鬼村正",
-    "title_en": "",
-    "region": "镰仓市",
-    "type": "游戏",
-    "rating": 0,
-    "points_count": 12,
-    "center_lat": 35.317089,
-    "center_lng": 139.539103,
-    "cover_url": "https://w.junreimap.com/images/bangumi/3243.jpg",
-    "bgm_id": 986
-  },
-  {
     "id": 1377,
     "title_cn": "海猫鸣泣之时",
     "title_jp": "うみねこのなく頃に",
@@ -8342,20 +8426,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/1f/7b/583138_89e2Q.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 12886,
-    "title_cn": "情书",
-    "title_jp": "ラヴレター",
-    "title_en": "Love Letter / When I Close My Eyes / Letters of Love / A Winter Love Story",
-    "region": "小樽市",
-    "type": "电影",
-    "rating": 8.4,
-    "points_count": 18,
-    "center_lat": 43.19184,
-    "center_lng": 140.991933,
-    "cover_url": "https://w.junreimap.com/images/bangumi/12886.jpg",
-    "bgm_id": 1377
   },
   {
     "id": 326910,
@@ -11575,7 +11645,7 @@
     "center_lat": 35.763032,
     "center_lng": 139.676119,
     "cover_url": "https://w.junreimap.com/images/bangumi/176478.jpg",
-    "bgm_id": 5063
+    "bgm_id": 4711
   },
   {
     "id": 188091,
@@ -14179,20 +14249,6 @@
     "center_lat": 34.365384,
     "center_lng": 133.143164,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/91/eb/437206_HTdmD.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 280440,
-    "title_cn": "死月妖花～四月八日～",
-    "title_jp": "死月妖花～四月八日～",
-    "title_en": "",
-    "region": "日本",
-    "type": "游戏",
-    "rating": 8.9,
-    "points_count": 37,
-    "center_lat": 36.366925,
-    "center_lng": 136.696105,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/67/0d/280440_do0j5.jpg",
     "bgm_id": null
   },
   {
@@ -19961,7 +20017,7 @@
     "center_lat": 35.813405,
     "center_lng": 139.724564,
     "cover_url": "https://w.junreimap.com/images/bangumi/301601.jpg",
-    "bgm_id": 5507
+    "bgm_id": 4006
   },
   {
     "id": 408883,

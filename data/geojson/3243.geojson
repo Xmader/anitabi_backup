@@ -219,26 +219,6 @@
         "remark": "坐禅中禁止拍照哦"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.555268,
-          35.332036
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 3243,
-        "bangumi_title": "裝甲惡鬼村正",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/3243/points/ahi07pc-1769836388350.jpg",
-        "location": "",
-        "point_id": "ahi07pc",
-        "point_name": "建长寺",
-        "remark": ""
-      },
-      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -162,7 +162,7 @@
       "name": "北海道苫小牧東高等学校",
       "remark": "学校内访客不可进入",
       "status_code": 2128,
-      "user_id": 83053,
+      "user_id": 71821,
       "zoom": 380
     },
     {
@@ -240,14 +240,14 @@
       "id": "7626d402",
       "image_path": "/images/points/12886/7626d402_1729779768414.jpg",
       "image_url": "https://w.junreimap.com/images/points/12886/7626d402_1729779768414.jpg",
-      "lat": 35.972049,
-      "lng": 138.460186,
+      "lat": 35.966003,
+      "lng": 138.448849,
       "location": "长野县",
-      "name": "開拓記念碑",
-      "remark": "镜头里的群山在此但不确定实际机位，且游客难以进入",
+      "name": "八ヶ岳牧場",
+      "remark": "",
       "status_code": 2128,
-      "user_id": 819334,
-      "zoom": 2282
+      "user_id": 820477,
+      "zoom": 2936
     },
     {
       "ep_cut": "",
@@ -260,7 +260,7 @@
       "name": "16-16 Miharashichō",
       "remark": "女藤井树的家，原址因失火被烧毁，现在只剩残存的大门。火灾后因经费问题一直未被修复，现已被围起来。",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 12705,
       "zoom": 12503
     }
   ],
@@ -269,7 +269,7 @@
   "region": "小樽市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/12886_100_76.webp?v=hafja",
+    "/images/ptheme/12886_100_76.webp?v=hqlp1",
     [
       "a2625806",
       "f807f021",
@@ -287,9 +287,10 @@
       "129bd62e",
       "7f85309c",
       "0de07135",
-      "7626d402"
+      "7626d402",
+      "88soau5"
     ],
-    1742409981323,
+    1787678712014,
     100,
     76
   ],

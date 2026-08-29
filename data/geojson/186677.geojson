@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          142.195384,
+          27.095216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/ion8upx_1787686822031.webp",
+        "location": "",
+        "point_id": "ion8upx",
+        "point_name": "父島ビューホテル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.19219,
+          27.096004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/ioota0l_1787692013946.webp",
+        "location": "",
+        "point_id": "ioota0l",
+        "point_name": "通学路",
+        "remark": "左右反转，游戏内所有本场景皆为虚化状态的图。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.203475,
+          27.0978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/ioq0urx_1787687479369.webp",
+        "location": "",
+        "point_id": "ioq0urx",
+        "point_name": "スタジオもののふ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744359,
+          35.740628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/ioqjfa5_1787688225932.webp",
+        "location": "",
+        "point_id": "ioqjfa5",
+        "point_name": "霜降銀座商店街",
+        "remark": "minori的一位前员工曾经在商店街招牌后的那栋楼的楼上开设过个人公司。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.193155,
+          27.094591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/iorhp77_1787689800959.webp",
+        "location": "",
+        "point_id": "iorhp77",
+        "point_name": "おつかめ屋",
+        "remark": "仓库像冲浪店的仓库。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.937897,
+          45.521457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/ioq8gvq_1787690494157.webp",
+        "location": "",
+        "point_id": "ioq8gvq",
+        "point_name": "旧海軍望楼",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.948998,
+          36.612549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/ios8vtv_1787691121696.webp",
+        "location": "",
+        "point_id": "ios8vtv",
+        "point_name": "延喜式内小川神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.056356,
+          36.575829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186677,
+        "bangumi_title": "特里诺兰",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/186677/iosn1z8_1787691758803.webp",
+        "location": "",
+        "point_id": "iosn1z8",
+        "point_name": "長野市道平三水橋線",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

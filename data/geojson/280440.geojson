@@ -303,6 +303,246 @@
     {
       "geometry": {
         "coordinates": [
+          127.692887,
+          26.231068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/280440/r1vc0cssz_1734529217280.jpg",
+        "location": "",
+        "point_id": "r1vc0cssz",
+        "point_name": "【背景素材】元木高校",
+        "remark": "素材拍摄地为沖縄県立那覇国際高等学校。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766241,
+          35.68058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il5jv0t",
+        "point_name": "【背景素材】元木駅",
+        "remark": "素材背景为在东京站3·4号站台拍摄的5号站台，如今已有较大改造。\nhttps://cdn.4travel.jp/img/tcs/t/pict/src/34/11/83/src_34118338.jpg"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.707652,
+          35.671549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ilrnquy",
+        "point_name": "【背景素材】元木警察署",
+        "remark": "素材出处为原宿警察署。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.67051,
+          35.609082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ilrruz4",
+        "point_name": "【背景素材】Primavera",
+        "remark": "五岛桃子打工的咖啡厅，素材出处为「ラトリエ ドゥ スタンドバインミー」。这家店靠窗的座位应已重新调整，不过根据窗外风景可确认就是素材中的店铺。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.406445,
+          35.331439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ilry9fo",
+        "point_name": "【背景素材】ザッハ",
+        "remark": "元木组常去的家庭餐厅，素材出处为「バーミヤン 茅ヶ崎駅前店」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70566,
+          35.65117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "ilsglca",
+        "point_name": "【背景素材】元木病院屋顶",
+        "remark": "素材出处是曾经的某咖啡厅屋顶，目前座椅已被拆除。\nhttps://maps.app.goo.gl/QTg3qL4BmLHPyZHh9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.509124,
+          34.642862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "r1wb3zp0c",
+        "point_name": "【背景素材】元木駅前",
+        "remark": "素材拍摄地为パワータワーあべのグランエア。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.671161,
+          35.612652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il55dyl",
+        "point_name": "【背景素材】五島家",
+        "remark": "现实中为京料理いしす 自由が丘（已停业），地址为東京都目黒区自由が丘1丁目18-11。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.732365,
+          35.631107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il8v3o9",
+        "point_name": "【背景素材】七海町病院",
+        "remark": "诧言篇出现的医院，原型为东京高轮医院。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.587051,
+          34.790076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il9110s",
+        "point_name": "【背景素材】樱冈站",
+        "remark": "咒杀篇逃避行中出现的樱冈车站，原型为東都筑駅。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.694099,
+          26.222487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "r1wdrlit4",
+        "point_name": "【背景素材】公寓",
+        "remark": "素材拍摄地为リュークスタワー。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.383442,
+          35.763763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il99mcb",
+        "point_name": "【背景素材】佐波空港",
+        "remark": "背景出处为成田机场T1，具体来说应该在「自家製麺 杵屋麦丸 成田国際空港第1T店」附近。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           138.902858,
           35.107141
         ],
@@ -363,8 +603,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.213869,
-          34.665095
+          130.694573,
+          33.466048
         ],
         "type": "Point"
       },
@@ -372,11 +612,11 @@
         "bangumi_id": 280440,
         "bangumi_title": "死月妖花～四月八日～",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/280440/r2qhw205w_1734527731194.jpg",
+        "image_url": "https://w.junreimap.com/images/points/280440/r1vdy2rt4_1734534005728.jpg",
         "location": "",
-        "point_id": "r2qhw205w",
-        "point_name": "【背景素材】大胃王比赛初战举办地",
-        "remark": "素材拍摄地为神戸ポートピアホテル，游戏中设定在东京。"
+        "point_id": "r1vdy2rt4",
+        "point_name": "【背景素材】豊岳中学",
+        "remark": "素材拍摄地为朝倉市立秋月中学校."
       },
       "type": "Feature"
     },
@@ -583,66 +823,6 @@
     {
       "geometry": {
         "coordinates": [
-          127.692887,
-          26.231068
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 280440,
-        "bangumi_title": "死月妖花～四月八日～",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/280440/r1vc0cssz_1734529217280.jpg",
-        "location": "",
-        "point_id": "r1vc0cssz",
-        "point_name": "【背景素材】元木高校",
-        "remark": "素材拍摄地为沖縄県立那覇国際高等学校。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          130.694573,
-          33.466048
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 280440,
-        "bangumi_title": "死月妖花～四月八日～",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/280440/r1vdy2rt4_1734534005728.jpg",
-        "location": "",
-        "point_id": "r1vdy2rt4",
-        "point_name": "【背景素材】豊岳中学",
-        "remark": "素材拍摄地为朝倉市立秋月中学校."
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.509124,
-          34.642862
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 280440,
-        "bangumi_title": "死月妖花～四月八日～",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "r1wb3zp0c",
-        "point_name": "【背景素材】元木駅前",
-        "remark": "素材拍摄地为パワータワーあべのグランエア。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.725421,
           35.712772
         ],
@@ -703,8 +883,8 @@
     {
       "geometry": {
         "coordinates": [
-          127.694099,
-          26.222487
+          139.63476,
+          35.45533
         ],
         "type": "Point"
       },
@@ -714,9 +894,89 @@
         "ep_cut": "",
         "image_url": "",
         "location": "",
-        "point_id": "r1wdrlit4",
-        "point_name": "【背景素材】公寓",
-        "remark": "素材拍摄地为リュークスタワー。"
+        "point_id": "il7g6eb",
+        "point_name": "【背景素材】游乐园的旋转木马",
+        "remark": "最后之声篇中五岛家前往的「日本最大的游乐园」的场景之一，实际为横滨太空世界的旋转木马，背景中可以看到后面的高楼大厦。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.753598,
+          35.705846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il7updq",
+        "point_name": "【背景素材】游乐园的摩天轮",
+        "remark": "最后之声篇中五岛家前往的「日本最大的游乐园」的场景之一，实际为东京巨蛋城游乐园的摩天轮。\nhttps://maps.app.goo.gl/imfRtsA8zijxzmUcA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.887646,
+          35.625957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il8812w",
+        "point_name": "【背景素材】游乐园的桥",
+        "remark": "最后之声篇中五岛家前往的「日本最大的游乐园」的场景之一，现实中为东京迪士尼海洋的桥「イソラ・デル・ゴンドリエーレ」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.177048,
+          41.382735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il8jend",
+        "point_name": "【背景素材】游乐园的人群",
+        "remark": "最后之声篇中五岛家前往的「日本最大的游乐园」的场景之一，实际为巴塞罗那的Plaça de Sant Jaume。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.597598,
+          49.194383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "il9forp",
+        "point_name": "【背景素材】元木刑務所",
+        "remark": "现实中是捷克布尔诺的斯皮尔博城堡，曾经是奥地利帝国的监狱，目前为布尔诺市博物馆。"
       },
       "type": "Feature"
     },
@@ -737,6 +997,26 @@
         "point_id": "r2shuovri",
         "point_name": "【背景素材】五岛居住的高级公寓",
         "remark": "素材拍摄地为ザ・幕張ベイフロントタワー。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.213869,
+          34.665095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280440,
+        "bangumi_title": "死月妖花～四月八日～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/280440/r2qhw205w_1734527731194.jpg",
+        "location": "",
+        "point_id": "r2qhw205w",
+        "point_name": "【背景素材】大胃王比赛初战举办地",
+        "remark": "素材拍摄地为神戸ポートピアホテル，游戏中设定在东京。"
       },
       "type": "Feature"
     }

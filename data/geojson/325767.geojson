@@ -19,6 +19,46 @@
         "remark": "主角一行人前往东京参加EVO预赛。同时是现实中EVO Japan 2024的举办地。"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789455,
+          35.639582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/irx27ey-1787880577681.webp",
+        "location": "",
+        "point_id": "irx27ey",
+        "point_name": "有明テニスの森駅2A口",
+        "remark": "虽然动画里写的是海滨公园站但实际上是这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.790216,
+          35.639885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/irx6a5e-1787880767124.webp",
+        "location": "",
+        "point_id": "irx6a5e",
+        "point_name": "有明GYM-EX来場者用臨時駐車場(搬入出車両待機場)",
+        "remark": "大概在这附近拍有明テニスの森站，外面路上应该也能拍"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

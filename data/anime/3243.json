@@ -22,7 +22,7 @@
       "name": "建長寺",
       "remark": "",
       "status_code": 1181,
-      "user_id": 51,
+      "user_id": 24,
       "zoom": 24
     },
     {
@@ -36,7 +36,7 @@
       "name": "唐門",
       "remark": "",
       "status_code": 1181,
-      "user_id": 73,
+      "user_id": 68,
       "zoom": 69
     },
     {
@@ -50,8 +50,8 @@
       "name": "庭院",
       "remark": "",
       "status_code": 1181,
-      "user_id": 51,
-      "zoom": 30
+      "user_id": 37,
+      "zoom": 37
     },
     {
       "ep_cut": "",
@@ -162,30 +162,16 @@
       "name": "建長寺",
       "remark": "坐禅中禁止拍照哦",
       "status_code": 2206,
-      "user_id": null,
-      "zoom": 9
-    },
-    {
-      "ep_cut": "",
-      "id": "ahi07pc",
-      "image_path": "/images/user/2206/bangumi/3243/points/ahi07pc-1769836388350.jpg",
-      "image_url": "https://w.junreimap.com/images/user/2206/bangumi/3243/points/ahi07pc-1769836388350.jpg",
-      "lat": 35.332036,
-      "lng": 139.555268,
-      "location": "",
-      "name": "建长寺",
-      "remark": "",
-      "status_code": 2206,
-      "user_id": null,
-      "zoom": 334
+      "user_id": 24,
+      "zoom": 331
     }
   ],
-  "points_count": 12,
+  "points_count": 11,
   "rating": 0,
   "region": "镰仓市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/3243.webp?v=h3rdg",
+    "/images/ptheme/3243_100_76.webp?v=hqiyb",
     [
       "n7u3uc1e7",
       "n7uaypuqn",
@@ -196,9 +182,12 @@
       "n7ufumwlf",
       "n7ugjmtel",
       "n7ujwuy08",
-      "n7ulkhqf0"
+      "n7ulkhqf0",
+      "af4s0nz"
     ],
-    1723735018528
+    1787465477661,
+    100,
+    76
   ],
   "title_cn": "裝甲惡鬼村正",
   "title_en": "",
