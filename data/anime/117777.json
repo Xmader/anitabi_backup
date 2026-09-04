@@ -936,20 +936,6 @@
       "zoom": 4
     },
     {
-      "ep_cut": 2,
-      "id": "8iiz2wh",
-      "image_path": "/images/user/1065/bangumi/117777/points/8iiz2wh-1765544879777.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/117777/points/8iiz2wh-1765544879777.jpg",
-      "lat": 35.390993,
-      "lng": 136.611869,
-      "location": "",
-      "name": "ヘアーメイクTOMTOM",
-      "remark": "向西南拍摄",
-      "status_code": 1065,
-      "user_id": 8,
-      "zoom": 9
-    },
-    {
       "ep_cut": "",
       "id": "8iisv38",
       "image_path": "/images/user/1065/bangumi/117777/points/8iisv38-1765544588930.jpg",
@@ -975,7 +961,7 @@
       "remark": "",
       "status_code": 1065,
       "user_id": 9,
-      "zoom": 12
+      "zoom": 10
     },
     {
       "ep_cut": "",
@@ -989,7 +975,7 @@
       "remark": "向东拍摄",
       "status_code": 1065,
       "user_id": 21,
-      "zoom": 30
+      "zoom": 22
     },
     {
       "ep_cut": "",
@@ -1004,6 +990,20 @@
       "status_code": 1065,
       "user_id": 2,
       "zoom": 3
+    },
+    {
+      "ep_cut": "",
+      "id": "8iiz2wh",
+      "image_path": "/images/user/1065/bangumi/117777/points/8iiz2wh-1765544879777.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/117777/points/8iiz2wh-1765544879777.jpg",
+      "lat": 35.390993,
+      "lng": 136.611869,
+      "location": "",
+      "name": "ヘアーメイクTOMTOM",
+      "remark": "向西南拍摄",
+      "status_code": 1065,
+      "user_id": 8,
+      "zoom": 9
     },
     {
       "ep_cut": "",
@@ -3251,7 +3251,7 @@
   "region": "大垣市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/117777_100_76.webp?v=hp7cz",
+    "/images/ptheme/117777_100_76.webp?v=hqtd2",
     [
       "8i9j4oo",
       "8i9kov0",
@@ -3319,11 +3319,11 @@
       "8l9k2rx",
       "8iiqy37",
       "8iioew1",
-      "8iiz2wh",
       "8iisv38",
       "8iivtfa",
       "8iiyd8g",
       "8ij2v4g",
+      "8iiz2wh",
       "8ij3ou3",
       "8ij4yrt",
       "8ij5frg",
@@ -3485,7 +3485,7 @@
       "8l99rrr",
       "8l9bsjp"
     ],
-    1783764703150,
+    1788274972944,
     100,
     76
   ],

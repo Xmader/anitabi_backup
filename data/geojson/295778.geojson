@@ -3,6 +3,86 @@
     {
       "geometry": {
         "coordinates": [
+          135.511974,
+          34.656889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295778,
+        "bangumi_title": "乔西的虎与鱼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lx0b2gf1h-1719973320626.jpg",
+        "location": "",
+        "point_id": "lx0b2gf1h",
+        "point_name": "愛染坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.527343,
+          34.817056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295778,
+        "bangumi_title": "乔西的虎与鱼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxg3z0rr7-1720007690792.jpg",
+        "location": "",
+        "point_id": "lxg3z0rr7",
+        "point_name": "大阪大学生命機能研究科生命システム棟",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.500112,
+          34.635997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295778,
+        "bangumi_title": "乔西的虎与鱼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxicbb7wb-1720012553374.jpg",
+        "location": "",
+        "point_id": "lxicbb7wb",
+        "point_name": "阪堺電車北天下茶屋駅付近踏切",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.496628,
+          34.636945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 295778,
+        "bangumi_title": "乔西的虎与鱼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxiqm92xz-1720013379312.jpg",
+        "location": "",
+        "point_id": "lxiqm92xz",
+        "point_name": "天下茶屋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           135.127018,
           34.642908
         ],
@@ -23,100 +103,20 @@
     {
       "geometry": {
         "coordinates": [
-          135.495299,
-          34.669186
+          135.496429,
+          34.669121
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/1058/bangumi/295778/points/innceb9yo-1710776484438.jpg",
         "location": "",
         "point_id": "innceb9yo",
-        "point_name": "浮庭橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.511974,
-          34.656889
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 295778,
-        "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "1",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lx0b2gf1h-1719973320626.jpg",
-        "location": "",
-        "point_id": "lx0b2gf1h",
-        "point_name": "愛染坂",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.527343,
-          34.817056
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 295778,
-        "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxg3z0rr7-1720007690792.jpg",
-        "location": "",
-        "point_id": "lxg3z0rr7",
-        "point_name": "大阪大学生命機能研究科生命システム棟",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.500112,
-          34.635997
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 295778,
-        "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxicbb7wb-1720012553374.jpg",
-        "location": "",
-        "point_id": "lxicbb7wb",
-        "point_name": "阪堺電車北天下茶屋駅付近踏切",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.496628,
-          34.636945
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 295778,
-        "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxiqm92xz-1720013379312.jpg",
-        "location": "",
-        "point_id": "lxiqm92xz",
-        "point_name": "天下茶屋駅",
-        "remark": ""
+        "point_name": "深里橋",
+        "remark": "こちらは、四つ橋筋沿いに架かる深里橋。道頓堀は『ジョゼ～』の原作者・田辺聖子氏の作品『道頓堀の雨に別れて以来なり―川柳作家・岸本水府とその時代』にも舞台として登場。"
       },
       "type": "Feature"
     },
@@ -131,7 +131,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": 2,
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxittl6ak-1720013632702.jpg",
         "location": "",
         "point_id": "lxittl6ak",
@@ -151,7 +151,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": 2,
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxj7xjt5z-1720014456473.jpg",
         "location": "",
         "point_id": "lxj7xjt5z",
@@ -171,7 +171,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjbd0kni-1720014632945.jpg",
         "location": "",
         "point_id": "lxjbd0kni",
@@ -191,7 +191,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjdp81mk-1720014784384.jpg",
         "location": "",
         "point_id": "lxjdp81mk",
@@ -211,7 +211,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjght459-1720014946596.jpg",
         "location": "",
         "point_id": "lxjght459",
@@ -231,7 +231,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjk0i189-1720015168430.jpg",
         "location": "",
         "point_id": "lxjk0i189",
@@ -251,7 +251,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjnl1pp2-1720015386115.jpg",
         "location": "",
         "point_id": "lxjnl1pp2",
@@ -271,7 +271,7 @@
       "properties": {
         "bangumi_id": 295778,
         "bangumi_title": "乔西的虎与鱼",
-        "ep_cut": "1",
+        "ep_cut": "剧场版",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/o3sv38dbi-1726147912995.jpg",
         "location": "",
         "point_id": "o3sv38dbi",

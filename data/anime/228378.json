@@ -1,9 +1,9 @@
 {
   "abbreviation": "ツルネ",
-  "bgm_id": 41559,
-  "center_lat": 36.644703,
-  "center_lng": 138.205855,
-  "center_zoom": 10.3,
+  "bgm_id": null,
+  "center_lat": 35.974597,
+  "center_lng": 137.016575,
+  "center_zoom": 7.6,
   "color": "#6bcf4a",
   "cover_path": "/images/bangumi/228378.jpg",
   "cover_url": "https://w.junreimap.com/images/bangumi/228378.jpg",
@@ -530,6 +530,20 @@
       "zoom": 132
     },
     {
+      "ep_cut": 12,
+      "id": "ixn1gu0",
+      "image_path": "/images/points/228378/ixn1gu0_1788226557584.jpg",
+      "image_url": "https://w.junreimap.com/images/points/228378/ixn1gu0_1788226557584.jpg",
+      "lat": 37.132108,
+      "lng": 138.273243,
+      "location": "",
+      "name": "謙信公武道館 新潟県立武道館",
+      "remark": "",
+      "status_code": 2210,
+      "user_id": 50184,
+      "zoom": 2380
+    },
+    {
       "ep_cut": "PV1",
       "id": "51i5238cc",
       "image_path": "/images/user/0/bangumi/228378/points/51i5238cc-1725130198204.jpg",
@@ -586,12 +600,12 @@
       "zoom": 8277
     }
   ],
-  "points_count": 41,
+  "points_count": 42,
   "rating": 6.4,
   "region": "长野市",
   "short_name": "弦音",
   "theme_meta": [
-    "/images/ptheme/228378_100_76.webp?v=hj3m9",
+    "/images/ptheme/228378_100_76.webp?v=hqsqp",
     [
       "8zdbbhv",
       "8zdckdf",
@@ -600,6 +614,8 @@
       "51i52395k",
       "51i5238kb",
       "8zdopbt",
+      "51i5239g7",
+      "51i5239lu",
       "8ze19jc",
       "lqfm24mqq",
       "51i523agt",
@@ -608,6 +624,7 @@
       "51i5238bw",
       "51i5238hl",
       "51i5238m8",
+      "51i52394i",
       "51i5239nk",
       "51i5238wa",
       "8zeo4io",
@@ -621,18 +638,16 @@
       "51i523871",
       "51i52385h",
       "8zgu4jz",
-      "51i523az9",
       "8zhgqe6",
+      "51i523b2z",
+      "51i523az9",
       "51i523b22",
       "51i523as7",
-      "51i523b2z",
       "8zi6tkr",
-      "51i5238cc",
-      "51i5239lu",
-      "51i5239g7",
-      "51i52394i"
+      "ixn1gu0",
+      "51i5238cc"
     ],
-    1766677505672,
+    1788226625139,
     100,
     76
   ],

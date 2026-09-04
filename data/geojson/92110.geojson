@@ -231,11 +231,31 @@
       "properties": {
         "bangumi_id": 92110,
         "bangumi_title": "神奇阿呦",
-        "ep_cut": "8",
+        "ep_cut": 8,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/92110/points/egugn9p-1778503961609.jpg",
         "location": "",
         "point_id": "egugn9p",
         "point_name": "北京动物园 正门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.402902,
+          39.923159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 92110,
+        "bangumi_title": "神奇阿呦",
+        "ep_cut": "EP39",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/92110/points/hmjz5xu-1785381080726.webp",
+        "location": "",
+        "point_id": "hmjz5xu",
+        "point_name": "中国美术馆 南门",
         "remark": ""
       },
       "type": "Feature"

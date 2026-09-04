@@ -743,6 +743,26 @@
     {
       "geometry": {
         "coordinates": [
+          138.273243,
+          37.132108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 228378,
+        "bangumi_title": "弦音 -风舞高中弓道部-",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/228378/ixn1gu0_1788226557584.jpg",
+        "location": "",
+        "point_id": "ixn1gu0",
+        "point_name": "謙信公武道館 新潟県立武道館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           138.200029,
           36.669281
         ],

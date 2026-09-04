@@ -1,0 +1,61 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/8d/c7/606263_CN0mm.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/8d/c7/606263_CN0mm.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 606263,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "hvplipy",
+      "image_path": "/images/user/0/bangumi/606263/points/hvplipy-1785933115241.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/606263/points/hvplipy-1785933115241.jpg",
+      "lat": 35.694551,
+      "lng": 139.702266,
+      "location": "",
+      "name": "ファミリーマート 新宿東宝ビル前店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 7831,
+      "zoom": 103
+    },
+    {
+      "ep_cut": 1,
+      "id": "hvq1rut",
+      "image_path": "/images/user/0/bangumi/606263/points/hvq1rut-1785933884639.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/606263/points/hvq1rut-1785933884639.jpg",
+      "lat": 35.698706,
+      "lng": 139.772694,
+      "location": "",
+      "name": "秋葉原駅",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 7831,
+      "zoom": 168
+    }
+  ],
+  "points_count": 2,
+  "rating": 4.7,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/606263_100_76.webp?v=hqsp6",
+    [
+      "hvplipy",
+      "hvq1rut"
+    ],
+    1788223323586,
+    100,
+    76
+  ],
+  "title_cn": "主播女孩重度依赖",
+  "title_en": "",
+  "title_jp": "NEEDY GIRL OVERDOSE",
+  "type": "TV"
+}

@@ -1,6 +1,6 @@
 {
   "abbreviation": "ガルパン劇",
-  "bgm_id": 114047,
+  "bgm_id": 110064,
   "center_lat": 36.314152,
   "center_lng": 140.572962,
   "center_zoom": 12.4,
@@ -11,6 +11,20 @@
   "icon_url": "https://w.junreimap.com/images/icon/72266.jpg",
   "id": 72266,
   "points": [
+    {
+      "ep_cut": "",
+      "id": "iml2wo50x",
+      "image_path": "/images/user/0/bangumi/72266/points/iml2wo50x-1710693122884.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/iml2wo50x-1710693122884.jpg",
+      "lat": 36.313147,
+      "lng": 140.565313,
+      "location": "",
+      "name": "おか亭",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 326,
+      "zoom": 326
+    },
     {
       "ep_cut": "",
       "id": "imek1omn9",
@@ -121,7 +135,7 @@
       "remark": "大洗鹿岛线大洗站",
       "status_code": 0,
       "user_id": 45,
-      "zoom": 326
+      "zoom": 502
     },
     {
       "ep_cut": "",
@@ -153,20 +167,6 @@
     },
     {
       "ep_cut": "",
-      "id": "iml2wo50x",
-      "image_path": "/images/user/0/bangumi/72266/points/iml2wo50x-1710693122884.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/iml2wo50x-1710693122884.jpg",
-      "lat": 36.313147,
-      "lng": 140.565313,
-      "location": "",
-      "name": "おか亭",
-      "remark": "",
-      "status_code": 0,
-      "user_id": 326,
-      "zoom": 468
-    },
-    {
-      "ep_cut": "",
       "id": "imlbqnx5f",
       "image_path": "/images/user/0/bangumi/72266/points/imlbqnx5f-1710693671942.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/imlbqnx5f-1710693671942.jpg",
@@ -195,6 +195,20 @@
     },
     {
       "ep_cut": "",
+      "id": "b30pspt",
+      "image_path": "/images/user/0/bangumi/72266/points/b30pspt-1771137573548.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/b30pspt-1771137573548.jpg",
+      "lat": 34.221148,
+      "lng": 108.959194,
+      "location": "",
+      "name": "大雁塔",
+      "remark": "剧场版游乐园巷战时一闪而过的大雁塔（乱入",
+      "status_code": 0,
+      "user_id": 2431280,
+      "zoom": 718249
+    },
+    {
+      "ep_cut": "",
       "id": "imlock824",
       "image_path": "/images/user/0/bangumi/72266/points/imlock824-1710694418845.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/imlock824-1710694418845.jpg",
@@ -219,7 +233,7 @@
       "remark": "九五轻战通过(?)",
       "status_code": 0,
       "user_id": 228,
-      "zoom": 2083
+      "zoom": 1505
     },
     {
       "ep_cut": "",
@@ -265,17 +279,17 @@
     },
     {
       "ep_cut": "",
-      "id": "nq4tb1q3m",
-      "image_path": "/images/user/0/bangumi/72266/points/nq4tb1q3m-1725076739735.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/nq4tb1q3m-1725076739735.jpg",
-      "lat": 36.333608,
-      "lng": 140.593811,
+      "id": "agrf3a",
+      "image_path": "/images/user/0/bangumi/72266/points/agrf3a-1747644845872.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/agrf3a-1747644845872.jpg",
+      "lat": 36.31362,
+      "lng": 140.588055,
       "location": "",
-      "name": "アクア​ワールド​大洗​水族館",
+      "name": "大洗シーサイドホテル",
       "remark": "",
       "status_code": 0,
-      "user_id": 293,
-      "zoom": 294
+      "user_id": 176,
+      "zoom": 2025
     },
     {
       "ep_cut": "",
@@ -289,7 +303,35 @@
       "remark": "",
       "status_code": 0,
       "user_id": 293,
-      "zoom": 2025
+      "zoom": 294
+    },
+    {
+      "ep_cut": "",
+      "id": "nq4tb1q3m",
+      "image_path": "/images/user/0/bangumi/72266/points/nq4tb1q3m-1725076739735.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/nq4tb1q3m-1725076739735.jpg",
+      "lat": 36.333608,
+      "lng": 140.593811,
+      "location": "",
+      "name": "アクア​ワールド​大洗​水族館",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 293,
+      "zoom": 5446
+    },
+    {
+      "ep_cut": "",
+      "id": "iw8i56s",
+      "image_path": "/images/user/0/bangumi/72266/points/iw8i56s-1788141672124.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/iw8i56s-1788141672124.webp",
+      "lat": 36.297663,
+      "lng": 140.560424,
+      "location": "",
+      "name": "大洗 潮騒の湯",
+      "remark": "入內必須泡湯、點餐或至少點一杯飲料",
+      "status_code": 0,
+      "user_id": 1505,
+      "zoom": 12350
     },
     {
       "ep_cut": "",
@@ -302,7 +344,7 @@
       "name": "西住公園",
       "remark": "",
       "status_code": 0,
-      "user_id": 1156715,
+      "user_id": 1155771,
       "zoom": 19002
     },
     {
@@ -318,43 +360,16 @@
       "status_code": 1073,
       "user_id": 837280,
       "zoom": 64486
-    },
-    {
-      "ep_cut": "",
-      "id": "agrf3a",
-      "image_path": "/images/user/0/bangumi/72266/points/agrf3a-1747644845872.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/agrf3a-1747644845872.jpg",
-      "lat": 36.31362,
-      "lng": 140.588055,
-      "location": "",
-      "name": "大洗シーサイドホテル",
-      "remark": "",
-      "status_code": 0,
-      "user_id": null,
-      "zoom": 13941
-    },
-    {
-      "ep_cut": "剧场版",
-      "id": "b30pspt",
-      "image_path": "/images/user/0/bangumi/72266/points/b30pspt-1771137573548.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/b30pspt-1771137573548.jpg",
-      "lat": 34.221148,
-      "lng": 108.959194,
-      "location": "",
-      "name": "大雁塔",
-      "remark": "剧场版游乐园巷战时一闪而过的大雁塔（乱入",
-      "status_code": 0,
-      "user_id": null,
-      "zoom": 718249
     }
   ],
-  "points_count": 24,
+  "points_count": 25,
   "rating": 8.3,
   "region": "茨城县",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/72266_100_76.webp?v=haevt",
+    "/images/ptheme/72266_100_76.webp?v=hqtfo",
     [
+      "iml2wo50x",
       "imek1omn9",
       "imka8pqqp",
       "imj7abp0o",
@@ -365,20 +380,22 @@
       "imiq5hiqp",
       "imkdixcdf",
       "imkospzsk",
-      "iml2wo50x",
       "imlbqnx5f",
       "imlfawx3p",
+      "b30pspt",
       "imlock824",
       "imlv10u5t",
       "imm43wfw5",
       "imm4x1pgj",
       "immgk7z67",
-      "nq4tb1q3m",
+      "agrf3a",
       "nq55im91m",
+      "nq4tb1q3m",
+      "iw8i56s",
       "kngvrwkib",
       "povskqfxj"
     ],
-    1742359289918,
+    1788280570271,
     100,
     76
   ],

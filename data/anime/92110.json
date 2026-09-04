@@ -106,7 +106,7 @@
       "name": "历代帝王庙 路对面红墙背面",
       "remark": "",
       "status_code": 1065,
-      "user_id": 9710,
+      "user_id": 3510,
       "zoom": 3510
     },
     {
@@ -166,7 +166,7 @@
       "zoom": 2255
     },
     {
-      "ep_cut": "8",
+      "ep_cut": 8,
       "id": "egugn9p",
       "image_path": "/images/user/0/bangumi/92110/points/egugn9p-1778503961609.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/92110/points/egugn9p-1778503961609.jpg",
@@ -176,16 +176,30 @@
       "name": "北京动物园 正门",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
-      "zoom": 13966
+      "user_id": 3510,
+      "zoom": 7876
+    },
+    {
+      "ep_cut": "EP39",
+      "id": "hmjz5xu",
+      "image_path": "/images/user/0/bangumi/92110/points/hmjz5xu-1785381080726.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/92110/points/hmjz5xu-1785381080726.webp",
+      "lat": 39.923159,
+      "lng": 116.402902,
+      "location": "",
+      "name": "中国美术馆 南门",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4630,
+      "zoom": 6104
     }
   ],
-  "points_count": 12,
+  "points_count": 13,
   "rating": 6.3,
   "region": "北京市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/92110_100_76.webp?v=hk7kz",
+    "/images/ptheme/92110_100_76.webp?v=hqsvv",
     [
       "7b9fn68",
       "7b9ktah",
@@ -197,9 +211,11 @@
       "7bcdx32",
       "a9g09r2",
       "a9h0ak2",
-      "a9h91wx"
+      "a9h91wx",
+      "egugn9p",
+      "hmjz5xu"
     ],
-    1769785191522,
+    1788237784914,
     100,
     76
   ],

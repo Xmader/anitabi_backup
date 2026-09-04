@@ -3,40 +3,80 @@
     {
       "geometry": {
         "coordinates": [
-          139.735548,
-          35.628486
+          139.524552,
+          35.769743
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/lqkrt6806-1719470108818.jpg",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mpcol5-1767974247243.jpg",
         "location": "",
-        "point_id": "lqkrt6806",
-        "point_name": "マクセル アクアパーク品川",
-        "remark": ""
+        "point_id": "9mpcol5",
+        "point_name": "踏切",
+        "remark": "根据实景我认为是不符合动漫，但xhs上的巡礼是这里，而且根据前面的人提供的说法，这个取景是两部分构成所以各位也可以找一找"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          139.73547,
-          35.628355
+          139.601651,
+          35.748418
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofycy8zu5_1727100156843.jpg",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mq3uln-1767975542425.jpg",
         "location": "",
-        "point_id": "ofycy8zu5",
-        "point_name": "マクセル アクアパーク品川",
-        "remark": ""
+        "point_id": "9mq3uln",
+        "point_name": "石神井町4-25",
+        "remark": "来源xhs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.601544,
+          35.748557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mq68na-1767975617764.jpg",
+        "location": "",
+        "point_id": "9mq68na",
+        "point_name": "石神井町4-25",
+        "remark": "来源xhs"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524539,
+          35.769791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnrjb3-1767971583410.jpg",
+        "location": "",
+        "point_id": "9mnrjb3",
+        "point_name": "踏切",
+        "remark": "那个铁路红绿灯满足"
       },
       "type": "Feature"
     },
@@ -51,12 +91,92 @@
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": "",
+        "ep_cut": 2,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/mngw4jn5c-1722484374667.jpg",
-        "location": "第二集",
+        "location": "",
         "point_id": "mngw4jn5c",
         "point_name": "新堀茜通り西武池袋線踏み切り",
         "remark": "清濑站附近的踏切比较多，可以借助超市ozam定位，这个踏切是ozam一南一北两个踏切中北边的那个，动画中的镜头是自西向东拍的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52461,
+          35.769755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mpfun4-1767974398844.jpg",
+        "location": "",
+        "point_id": "9mpfun4",
+        "point_name": "踏切",
+        "remark": "根据动漫的取景思路应该是这里，但根据前人的思路不是一个取景，各位可以找一找"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524626,
+          35.769755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mo29jy-1767972073174.jpg",
+        "location": "",
+        "point_id": "9mo29jy",
+        "point_name": "踏切",
+        "remark": "虽然挺不好判断的，但右后面的房子符合动漫的取景，而且满足动漫的取景思路，但不一定正确"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524604,
+          35.769749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnyv93-1767971911002.jpg",
+        "location": "",
+        "point_id": "9mnyv93",
+        "point_name": "踏切",
+        "remark": "根据后面的那个突起的房子可以推出来，但前面的和动漫不一样，还有左面的房子走向也挺合适"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52464,
+          35.769757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnwtkx-1767971822296.jpg",
+        "location": "",
+        "point_id": "9mnwtkx",
+        "point_name": "踏切",
+        "remark": "根据动漫的位置，以及上下文，位置就应该在这里，然后后面的房子走向挺像的，大概没错"
       },
       "type": "Feature"
     },
@@ -77,6 +197,1026 @@
         "point_id": "skvmwz4c0",
         "point_name": "新堀茜通り西武池袋線踏み切り",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524628,
+          35.76976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnv349-1767971733862.jpg",
+        "location": "",
+        "point_id": "9mnv349",
+        "point_name": "踏切前",
+        "remark": "可以看见右面的房子是满足的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602747,
+          35.747263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqf9xw-1787397295990.jpg",
+        "location": "",
+        "point_id": "9mqf9xw",
+        "point_name": "石神井町4-12",
+        "remark": "来源xhs加上主播的推理"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602597,
+          35.748247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqmwkf-1767976391788.jpg",
+        "location": "",
+        "point_id": "9mqmwkf",
+        "point_name": "拐角",
+        "remark": "现实没有这么高拐角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602572,
+          35.74827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqlo6z-1767976334134.jpg",
+        "location": "",
+        "point_id": "9mqlo6z",
+        "point_name": "分别处",
+        "remark": "向北面拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602578,
+          35.748223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mq9c45-1767975815286.jpg",
+        "location": "",
+        "point_id": "9mq9c45",
+        "point_name": "练马区通学路17.3",
+        "remark": "来源xhs，加上主播的推理"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602588,
+          35.748221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqc8rk-1767975902884.jpg",
+        "location": "",
+        "point_id": "9mqc8rk",
+        "point_name": "通学路上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519236,
+          35.77046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mohpfu-1767972821711.jpg",
+        "location": "",
+        "point_id": "9mohpfu",
+        "point_name": "咖啡亭 梓",
+        "remark": "在这里搜咖啡店就可以找到，来源于xhs的取景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794043,
+          35.655236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9moom0n-1767973150427.jpg",
+        "location": "",
+        "point_id": "9moom0n",
+        "point_name": "lalapart",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793939,
+          35.654945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mopz4a-1767973186674.jpg",
+        "location": "",
+        "point_id": "9mopz4a",
+        "point_name": "lalapart门口",
+        "remark": "远处拍摄\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793908,
+          35.65495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9moqydp-1767973222345.jpg",
+        "location": "",
+        "point_id": "9moqydp",
+        "point_name": "lalapart",
+        "remark": "剩下的各位去商场里面自己找吧喵，找到的可以上传帮帮其他人喵"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792255,
+          35.654125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp1llh-1767973718761.jpg",
+        "location": "",
+        "point_id": "9mp1llh",
+        "point_name": "公园",
+        "remark": "不准确"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792206,
+          35.654201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mow905-1767973478667.jpg",
+        "location": "",
+        "point_id": "9mow905",
+        "point_name": "休息处",
+        "remark": "根据动漫的视角位置选择放在了接近出口的位置，各位可以根据实景寻找，主要谷歌看不了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79225,
+          35.65412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp0ww9-1767973684511.jpg",
+        "location": "",
+        "point_id": "9mp0ww9",
+        "point_name": "公园",
+        "remark": "这个位置不准确"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792191,
+          35.654135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mozzru-1767973646302.jpg",
+        "location": "",
+        "point_id": "9mozzru",
+        "point_name": "公园",
+        "remark": "这个位置不准确"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792138,
+          35.654197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9moyl67-1767973583864.jpg",
+        "location": "",
+        "point_id": "9moyl67",
+        "point_name": "公园",
+        "remark": "在这个公园应该都可以拍，现实就是右面的高楼修好了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519253,
+          35.770458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp4527-1767973840804.jpg",
+        "location": "",
+        "point_id": "9mp4527",
+        "point_name": "咖啡店",
+        "remark": "在人家门口干嘛呢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519228,
+          35.770445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp5kz3-1767973904346.jpg",
+        "location": "",
+        "point_id": "9mp5kz3",
+        "point_name": "咖啡店",
+        "remark": "在门口撒谎的学姐"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524686,
+          35.769762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqpph1-1767976521476.jpg",
+        "location": "",
+        "point_id": "9mqpph1",
+        "point_name": "踏切",
+        "remark": "根据动漫视角，这里没问题，后面的红房子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524693,
+          35.769779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqqps8-1767976574673.jpg",
+        "location": "",
+        "point_id": "9mqqps8",
+        "point_name": "踏切",
+        "remark": "根据动漫上下文"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602589,
+          35.748238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqrywt-1767976630094.jpg",
+        "location": "",
+        "point_id": "9mqrywt",
+        "point_name": "上学分别口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602654,
+          35.748248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqujbk-1787396941218.jpg",
+        "location": "",
+        "point_id": "9mqujbk",
+        "point_name": "拐角",
+        "remark": "向右拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602533,
+          35.748222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqst6e-1767976679441.jpg",
+        "location": "",
+        "point_id": "9mqst6e",
+        "point_name": "分叉口",
+        "remark": "向左拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602548,
+          35.748311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqvna2-1767976806204.jpg",
+        "location": "",
+        "point_id": "9mqvna2",
+        "point_name": "拐角",
+        "remark": "向北拍摄，就在这里四个方向拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.60252,
+          35.748215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqww1u-1767976864523.jpg",
+        "location": "",
+        "point_id": "9mqww1u",
+        "point_name": "拐角",
+        "remark": "向左"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6026,
+          35.748249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqxqr2-1767976904523.jpg",
+        "location": "",
+        "point_id": "9mqxqr2",
+        "point_name": "拐角",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519261,
+          35.770453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqyw1b-1767976952394.jpg",
+        "location": "",
+        "point_id": "9mqyw1b",
+        "point_name": "小川ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.519236,
+          35.77045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqzp3o-1767976988799.jpg",
+        "location": "",
+        "point_id": "9mqzp3o",
+        "point_name": "小川ビル",
+        "remark": "虽然是家门口拍的，但现实不符合，还有可爱呢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524624,
+          35.76971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mt6ii9-1767980664746.jpg",
+        "location": "",
+        "point_id": "9mt6ii9",
+        "point_name": "踏切",
+        "remark": "红房子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.259844,
+          35.259742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mwhocu-1767986234222.jpg",
+        "location": "",
+        "point_id": "9mwhocu",
+        "point_name": "桥下",
+        "remark": "最后一张了，累了喵，还有一些点位没有找到，比如跑步的位置，另一个视角的踏切，第10集的问喜欢颜色的水果店，反光镜一些小的点，剩下的就交给后面的人了喵，加油各位，我要去找其他动漫的了，不然没时间了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.259854,
+          35.25975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mwf8tk-1767986116539.jpg",
+        "location": "",
+        "point_id": "9mwf8tk",
+        "point_name": "桥下",
+        "remark": "根据贴吧大佬的说法，我认为要名场面的取景话就在这座桥的底下就足够了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.259838,
+          35.259728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mwdg57-1767986034704.jpg",
+        "location": "",
+        "point_id": "9mwdg57",
+        "point_name": "上芹桥下",
+        "remark": "桥的下面是这个铁路，没问题"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.257058,
+          35.261595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mw9afn-1767985849115.jpg",
+        "location": "",
+        "point_id": "9mw9afn",
+        "point_name": "中芹桥",
+        "remark": "根据贴吧人的描述，这个取景是三座桥的取景合成，台阶是这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.262772,
+          35.272558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mujds0-1767982946403.jpg",
+        "location": "",
+        "point_id": "9mujds0",
+        "point_name": "站前",
+        "remark": "刚开始"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.263283,
+          35.272274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mukljm-1767983007638.jpg",
+        "location": "",
+        "point_id": "9mukljm",
+        "point_name": "站内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.263267,
+          35.272264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mulq2a-1767983059476.jpg",
+        "location": "",
+        "point_id": "9mulq2a",
+        "point_name": "站内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.263256,
+          35.272236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mumg2x-1767983090514.jpg",
+        "location": "",
+        "point_id": "9mumg2x",
+        "point_name": "站内",
+        "remark": "我有女朋友，你没有"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531944,
+          35.762501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mt8n8q-1767980834769.jpg",
+        "location": "",
+        "point_id": "9mt8n8q",
+        "point_name": "理发店",
+        "remark": "理发店，空手道教室，要是都没有还有中华居酒，要是还没有，还有上面的广告，来源xhs繁空星夜"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531978,
+          35.762486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mtcvi2-1767980967732.jpg",
+        "location": "",
+        "point_id": "9mtcvi2",
+        "point_name": "理发店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531909,
+          35.762527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mtdo4w-1767981002378.jpg",
+        "location": "",
+        "point_id": "9mtdo4w",
+        "point_name": "理发店",
+        "remark": "根据动漫取景思路放的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638584,
+          35.73608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/243981/skw8jmo77_1738771772619.jpg",
+        "location": "",
+        "point_id": "skw8jmo77",
+        "point_name": "マクドナルド\n中村橋​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63855,
+          35.736038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msmit9-1767979735197.jpg",
+        "location": "",
+        "point_id": "9msmit9",
+        "point_name": "麦当劳里面",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63843,
+          35.736214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msnjfk-1767979788545.jpg",
+        "location": "",
+        "point_id": "9msnjfk",
+        "point_name": "人行道前",
+        "remark": "低视角拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638565,
+          35.735933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/243981/skw87e3j6_1738771752604.jpg",
+        "location": "",
+        "point_id": "skw87e3j6",
+        "point_name": "マクドナルド\n中村橋​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63825,
+          35.736164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msra1g-1767979955277.jpg",
+        "location": "",
+        "point_id": "9msra1g",
+        "point_name": "人行道",
+        "remark": "根据动漫取景视角，加上只有左面的高楼多，向左拍摄最合适，但其实差别挺大，可以各位更正一下"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638396,
+          35.73611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/243981/skw8d06mk_1738771767081.jpg",
+        "location": "",
+        "point_id": "skw8d06mk",
+        "point_name": "マクドナルド\n中村橋​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638399,
+          35.736151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msu5fg-1767980092987.jpg",
+        "location": "",
+        "point_id": "9msu5fg",
+        "point_name": "人行道",
+        "remark": "向左"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638416,
+          35.736151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msthmx-1767980064283.jpg",
+        "location": "",
+        "point_id": "9msthmx",
+        "point_name": "人行道",
+        "remark": "向右"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.63838,
+          35.736202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msv05h-1767980134323.jpg",
+        "location": "",
+        "point_id": "9msv05h",
+        "point_name": "人行道",
+        "remark": "低视角拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638379,
+          35.736206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msvulj-1767980175470.jpg",
+        "location": "",
+        "point_id": "9msvulj",
+        "point_name": "人行道",
+        "remark": "可以平常视角拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524653,
+          35.769769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msi0na-1767979540165.jpg",
+        "location": "",
+        "point_id": "9msi0na",
+        "point_name": "踏切",
+        "remark": "后面的建筑，还有前后文"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524619,
+          35.769757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msjgeu-1767979595003.jpg",
+        "location": "",
+        "point_id": "9msjgeu",
+        "point_name": "踏切",
+        "remark": "根据之前的人说法这个位置不是这个踏切，但根据上下文应该放这里，但这个位置是错误的"
       },
       "type": "Feature"
     },
@@ -123,6 +1263,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.598664,
+          35.750624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msd7gb-1767979297287.jpg",
+        "location": "",
+        "point_id": "9msd7gb",
+        "point_name": "人行道",
+        "remark": "向南拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.598734,
+          35.750555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mseco8-1787397468154.jpg",
+        "location": "",
+        "point_id": "9mseco8",
+        "point_name": "人行道",
+        "remark": "向右拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.598774,
           35.750498
         ],
@@ -143,8 +1323,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.638565,
-          35.735933
+          139.598657,
+          35.750446
         ],
         "type": "Point"
       },
@@ -152,10 +1332,50 @@
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
         "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/243981/skw87e3j6_1738771752604.jpg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msfpwg-1767979420011.jpg",
         "location": "",
-        "point_id": "skw87e3j6",
-        "point_name": "マクドナルド\n中村橋​店",
+        "point_id": "9msfpwg",
+        "point_name": "人行道",
+        "remark": "向北拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524638,
+          35.769761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msh6ls-1767979484606.jpg",
+        "location": "",
+        "point_id": "9msh6ls",
+        "point_name": "踏切",
+        "remark": "后面的房子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.250248,
+          35.265947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mur9eg-1767983322049.jpg",
+        "location": "",
+        "point_id": "9mur9eg",
+        "point_name": "跑道",
         "remark": ""
       },
       "type": "Feature"
@@ -163,19 +1383,79 @@
     {
       "geometry": {
         "coordinates": [
-          139.638396,
-          35.73611
+          136.25022,
+          35.265949
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/243981/skw8d06mk_1738771767081.jpg",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muphfx-1767983250260.jpg",
         "location": "",
-        "point_id": "skw8d06mk",
-        "point_name": "マクドナルド\n中村橋​店",
+        "point_id": "9muphfx",
+        "point_name": "池州桥跑道",
+        "remark": "来源xhs 小红薯64A5FE26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.25042,
+          35.265836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muuhxr-1767983465281.jpg",
+        "location": "",
+        "point_id": "9muuhxr",
+        "point_name": "跑道",
+        "remark": "这个位置不正确喵，但根据取景只能放一起了，有人找到正确的位置请更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.250451,
+          35.265798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muw9oi-1767983553746.jpg",
+        "location": "",
+        "point_id": "9muw9oi",
+        "point_name": "跑道",
+        "remark": "虽然右面的河道有一个高楼，但不满足动漫，还是放一起给个时间"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.250199,
+          35.265938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muycm5-1767983646849.jpg",
+        "location": "",
+        "point_id": "9muycm5",
+        "point_name": "跑道",
         "remark": ""
       },
       "type": "Feature"
@@ -183,20 +1463,420 @@
     {
       "geometry": {
         "coordinates": [
-          139.638584,
-          35.73608
+          139.602338,
+          35.747768
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/243981/skw8jmo77_1738771772619.jpg",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvg72z-1767984480537.jpg",
         "location": "",
-        "point_id": "skw8jmo77",
-        "point_name": "マクドナルド\n中村橋​店",
+        "point_id": "9mvg72z",
+        "point_name": "フォルトゥーナ​石神井​公園",
+        "remark": "这个位置不正确，但我把右面的都看了一遍，都不满足后面的转弯，所以放一起了，各位有正确的位置请更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602347,
+          35.747769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvijvo-1767984587421.jpg",
+        "location": "",
+        "point_id": "9mvijvo",
+        "point_name": "フォルトゥーナ​石神井​公園",
+        "remark": "同样不正确"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524518,
+          35.769743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvkbfb-1767984669531.jpg",
+        "location": "",
+        "point_id": "9mvkbfb",
+        "point_name": "踏切",
+        "remark": "这个位置和前面的理由一样"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524519,
+          35.769736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvlhbh-1767984725871.jpg",
+        "location": "",
+        "point_id": "9mvlhbh",
+        "point_name": "踏切",
+        "remark": "不正确，理由同上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524601,
+          35.769706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvjoy4-1767984640414.jpg",
+        "location": "",
+        "point_id": "9mvjoy4",
+        "point_name": "踏切",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524632,
+          35.769756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvmcjc-1767984767159.jpg",
+        "location": "",
+        "point_id": "9mvmcjc",
+        "point_name": "踏切",
+        "remark": "没问题这个方向的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602566,
+          35.748252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvnq7b-1787397064935.jpg",
+        "location": "",
+        "point_id": "9mvnq7b",
+        "point_name": "拐角",
+        "remark": "根据动漫取景思路，懒了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602519,
+          35.74822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu5bpi-1787397144760.jpg",
+        "location": "",
+        "point_id": "9mu5bpi",
+        "point_name": "グリーン.​クワィエット",
+        "remark": "向右 更新了不带播放键的参考图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602573,
+          35.748242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu7r13-1767982405935.jpg",
+        "location": "",
+        "point_id": "9mu7r13",
+        "point_name": "拐角",
+        "remark": "对着拐角拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602564,
+          35.748282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu8l9m-1767982443000.jpg",
+        "location": "",
+        "point_id": "9mu8l9m",
+        "point_name": "拐角",
+        "remark": "向北"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602596,
+          35.748245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muae01-1787397247563.jpg",
+        "location": "",
+        "point_id": "9muae01",
+        "point_name": "拐角",
+        "remark": "对着拐角，谁知道你是1啊，我还想当一呢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602551,
+          35.748238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu99nn-1787397020415.jpg",
+        "location": "",
+        "point_id": "9mu99nn",
+        "point_name": "拐角",
+        "remark": "向左，我家还蛮大的，你要不要来玩一玩"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602564,
+          35.748264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mubtwy-1787397100654.jpg",
+        "location": "",
+        "point_id": "9mubtwy",
+        "point_name": "拐角",
+        "remark": "向北"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.602596,
+          35.748201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muchb0-1787396862214.jpg",
+        "location": "",
+        "point_id": "9muchb0",
+        "point_name": "拐角",
+        "remark": "向北"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.262804,
+          35.272624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mudsp8-1767982706375.jpg",
+        "location": "",
+        "point_id": "9mudsp8",
+        "point_name": "交警前",
+        "remark": "现实没有喵，可以就在旁边拍一拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.262916,
+          35.272576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mufhmu-1767982770767.jpg",
+        "location": "",
+        "point_id": "9mufhmu",
+        "point_name": "站前",
+        "remark": "每次看见这个车站就想起没有去的轻音学校，主要没时间了，没办法了喵"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.262908,
+          35.272547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muh5gr-1767982845212.jpg",
+        "location": "",
+        "point_id": "9muh5gr",
+        "point_name": "站前",
+        "remark": "学姐你这个大笨蛋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.262769,
+          35.272614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muhwgg-1767982891178.jpg",
+        "location": "",
+        "point_id": "9muhwgg",
+        "point_name": "站前",
+        "remark": "无人机视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.604836,
+          35.744333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvz272-1786377229065.jpg",
+        "location": "",
+        "point_id": "9mvz272",
+        "point_name": "石神井公园站前人行道",
+        "remark": "东京最后的一张，感谢xhs繁空星夜以及小红薯64A5FE26，为主播的百合攻略做了前路，谢谢你们喵"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531726,
+          35.762723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mxtal6-1767988462418.jpg",
+        "location": "",
+        "point_id": "9mxtal6",
+        "point_name": "轨道旁",
+        "remark": "房子的造型挺像的，然后还有动漫取景思路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.531724,
+          35.762744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mxpp0z-1767988279736.jpg",
+        "location": "",
+        "point_id": "9mxpp0z",
+        "point_name": "ちとせや",
+        "remark": "没注意13集前面还有取景，根据左面的限速牌，还有反光镜，以及右面的房子造型，和旁边的遮雨棚，位置没有跑了"
       },
       "type": "Feature"
     },
@@ -223,6 +1903,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.735548,
+          35.628486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/lqkrt6806-1719470108818.jpg",
+        "location": "",
+        "point_id": "lqkrt6806",
+        "point_name": "マクセル アクアパーク品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.73547,
+          35.628355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofycy8zu5_1727100156843.jpg",
+        "location": "",
+        "point_id": "ofycy8zu5",
+        "point_name": "マクセル アクアパーク品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.735385,
           35.628293
         ],
@@ -231,11 +1951,11 @@
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": "",
+        "ep_cut": 13,
         "image_url": "https://w.junreimap.com/images/points/243981/ofyf2dfqq_1727100269634.jpg",
         "location": "",
         "point_id": "ofyf2dfqq",
-        "point_name": 4,
+        "point_name": "",
         "remark": ""
       },
       "type": "Feature"
@@ -263,6 +1983,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.734958,
+          35.628259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofygblesj_1727100341746.jpg",
+        "location": "",
+        "point_id": "ofygblesj",
+        "point_name": 6,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.735218,
           35.628256
         ],
@@ -275,26 +2015,6 @@
         "image_url": "https://w.junreimap.com/images/points/243981/ofyh4uavg_1727100392615.jpg",
         "location": "",
         "point_id": "ofyh4uavg",
-        "point_name": 7,
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735177,
-          35.628257
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofyhh989a_1727100406446.jpg",
-        "location": "",
-        "point_id": "ofyhh989a",
         "point_name": 7,
         "remark": ""
       },
@@ -323,6 +2043,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.735177,
+          35.628257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofyhh989a_1727100406446.jpg",
+        "location": "",
+        "point_id": "ofyhh989a",
+        "point_name": 7,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.73516,
           35.628383
         ],
@@ -335,166 +2075,6 @@
         "image_url": "https://w.junreimap.com/images/points/243981/ofyj075u1_1727100499911.jpg",
         "location": "",
         "point_id": "ofyj075u1",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735202,
-          35.628387
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofyl10vwa_1727100619409.jpg",
-        "location": "",
-        "point_id": "ofyl10vwa",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735125,
-          35.628351
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofyl8nyxj_1727100639425.jpg",
-        "location": "",
-        "point_id": "ofyl8nyxj",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735123,
-          35.628382
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofyllsiio_1727100653673.jpg",
-        "location": "",
-        "point_id": "ofyllsiio",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735124,
-          35.628257
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofymiyyum_1727100709481.jpg",
-        "location": "",
-        "point_id": "ofymiyyum",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735077,
-          35.628256
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofymob4pt_1727100717957.jpg",
-        "location": "",
-        "point_id": "ofymob4pt",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735035,
-          35.628256
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofymsrf8g_1727100725684.jpg",
-        "location": "",
-        "point_id": "ofymsrf8g",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735004,
-          35.628257
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofynh42m7_1727100766814.jpg",
-        "location": "",
-        "point_id": "ofynh42m7",
-        "point_name": "マクセル​アクア​パーク​品川",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.735315,
-          35.628257
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofynpxw0v_1727100781992.jpg",
-        "location": "",
-        "point_id": "ofynpxw0v",
         "point_name": "マクセル​アクア​パーク​品川",
         "remark": ""
       },
@@ -583,8 +2163,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.734958,
-          35.628259
+          139.735202,
+          35.628387
         ],
         "type": "Point"
       },
@@ -592,10 +2172,150 @@
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
         "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/243981/ofygblesj_1727100341746.jpg",
+        "image_url": "https://w.junreimap.com/images/points/243981/ofyl10vwa_1727100619409.jpg",
         "location": "",
-        "point_id": "ofygblesj",
-        "point_name": 6,
+        "point_id": "ofyl10vwa",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735125,
+          35.628351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofyl8nyxj_1727100639425.jpg",
+        "location": "",
+        "point_id": "ofyl8nyxj",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735123,
+          35.628382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofyllsiio_1727100653673.jpg",
+        "location": "",
+        "point_id": "ofyllsiio",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735315,
+          35.628257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofynpxw0v_1727100781992.jpg",
+        "location": "",
+        "point_id": "ofynpxw0v",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735004,
+          35.628257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofynh42m7_1727100766814.jpg",
+        "location": "",
+        "point_id": "ofynh42m7",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735124,
+          35.628257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofymiyyum_1727100709481.jpg",
+        "location": "",
+        "point_id": "ofymiyyum",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735077,
+          35.628256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofymob4pt_1727100717957.jpg",
+        "location": "",
+        "point_id": "ofymob4pt",
+        "point_name": "マクセル​アクア​パーク​品川",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735035,
+          35.628256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243981,
+        "bangumi_title": "终将成为你",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/243981/ofymsrf8g_1727100725684.jpg",
+        "location": "",
+        "point_id": "ofymsrf8g",
+        "point_name": "マクセル​アクア​パーク​品川",
         "remark": ""
       },
       "type": "Feature"
@@ -617,86 +2337,6 @@
         "point_id": "6e3i36l",
         "point_name": "地主神社",
         "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.677093,
-          35.013485
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 38,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e3r0fw-1760923981585.jpg",
-        "location": "",
-        "point_id": "6e3r0fw",
-        "point_name": "渡月橋",
-        "remark": "灯子等人前往京都游玩时划船附近的桥"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.675128,
-          35.013281
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 38,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e3w0ox-1760924154104.jpg",
-        "location": "",
-        "point_id": "6e3w0ox",
-        "point_name": "嵐山通船 北乗り場",
-        "remark": "乘船处"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.676849,
-          35.012081
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 38,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e45jc2-1760924685979.jpg",
-        "location": "",
-        "point_id": "6e45jc2",
-        "point_name": "Kadono Oi (Kadono Great Weir)",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.677714,
-          35.012175
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 38,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e4csc7-1760924952878.jpg",
-        "location": "",
-        "point_id": "6e4csc7",
-        "point_name": "渡月橋南端",
-        "remark": "渡月桥南北端都是这个样式，但是考虑到下文灯子一行人乘坐新干线返回东京，所以应该是自北向南过桥的"
       },
       "type": "Feature"
     },
@@ -883,99 +2523,59 @@
     {
       "geometry": {
         "coordinates": [
-          139.52461,
-          35.769755
+          135.677093,
+          35.013485
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mpfun4-1767974398844.jpg",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e3r0fw-1760923981585.jpg",
         "location": "",
-        "point_id": "9mpfun4",
-        "point_name": "踏切",
-        "remark": "根据动漫的取景思路应该是这里，但根据前人的思路不是一个取景，各位可以找一找"
+        "point_id": "6e3r0fw",
+        "point_name": "渡月橋",
+        "remark": "灯子等人前往京都游玩时划船附近的桥"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          139.601651,
-          35.748418
+          135.675128,
+          35.013281
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mq3uln-1767975542425.jpg",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e3w0ox-1760924154104.jpg",
         "location": "",
-        "point_id": "9mq3uln",
-        "point_name": "石神井町4-25",
-        "remark": "来源xhs"
+        "point_id": "6e3w0ox",
+        "point_name": "嵐山通船 北乗り場",
+        "remark": "乘船处"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          139.601544,
-          35.748557
+          135.676849,
+          35.012081
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mq68na-1767975617764.jpg",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e45jc2-1760924685979.jpg",
         "location": "",
-        "point_id": "9mq68na",
-        "point_name": "石神井町4-25",
-        "remark": "来源xhs"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602578,
-          35.748223
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mq9c45-1767975815286.jpg",
-        "location": "",
-        "point_id": "9mq9c45",
-        "point_name": "练马区通学路17.3",
-        "remark": "来源xhs，加上主播的推理"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602588,
-          35.748221
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqc8rk-1767975902884.jpg",
-        "location": "",
-        "point_id": "9mqc8rk",
-        "point_name": "通学路上",
+        "point_id": "6e45jc2",
+        "point_name": "Kadono Oi (Kadono Great Weir)",
         "remark": ""
       },
       "type": "Feature"
@@ -983,1620 +2583,20 @@
     {
       "geometry": {
         "coordinates": [
-          139.602747,
-          35.747263
+          135.677714,
+          35.012175
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 243981,
         "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqf9xw-1767976044866.jpg",
+        "ep_cut": 38,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/6e4csc7-1760924952878.jpg",
         "location": "",
-        "point_id": "9mqf9xw",
-        "point_name": "石神井町4-12",
-        "remark": "来源xhs加上主播的推理"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602572,
-          35.74827
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqlo6z-1767976334134.jpg",
-        "location": "",
-        "point_id": "9mqlo6z",
-        "point_name": "分别处",
-        "remark": "向北面拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602597,
-          35.748247
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqmwkf-1767976391788.jpg",
-        "location": "",
-        "point_id": "9mqmwkf",
-        "point_name": "拐角",
-        "remark": "现实没有这么高拐角"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524686,
-          35.769762
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqpph1-1767976521476.jpg",
-        "location": "",
-        "point_id": "9mqpph1",
-        "point_name": "踏切",
-        "remark": "根据动漫视角，这里没问题，后面的红房子"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524693,
-          35.769779
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqqps8-1767976574673.jpg",
-        "location": "",
-        "point_id": "9mqqps8",
-        "point_name": "踏切",
-        "remark": "根据动漫上下文"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602589,
-          35.748238
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqrywt-1767976630094.jpg",
-        "location": "",
-        "point_id": "9mqrywt",
-        "point_name": "上学分别口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602533,
-          35.748222
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqst6e-1767976679441.jpg",
-        "location": "",
-        "point_id": "9mqst6e",
-        "point_name": "分叉口",
-        "remark": "向左拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602654,
-          35.748248
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqujbk-1767976751196.jpg",
-        "location": "",
-        "point_id": "9mqujbk",
-        "point_name": "拐角",
-        "remark": "向右拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602548,
-          35.748311
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqvna2-1767976806204.jpg",
-        "location": "",
-        "point_id": "9mqvna2",
-        "point_name": "拐角",
-        "remark": "向北拍摄，就在这里四个方向拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.60252,
-          35.748215
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqww1u-1767976864523.jpg",
-        "location": "",
-        "point_id": "9mqww1u",
-        "point_name": "拐角",
-        "remark": "向左"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.6026,
-          35.748249
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqxqr2-1767976904523.jpg",
-        "location": "",
-        "point_id": "9mqxqr2",
-        "point_name": "拐角",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.519261,
-          35.770453
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqyw1b-1767976952394.jpg",
-        "location": "",
-        "point_id": "9mqyw1b",
-        "point_name": "小川ビル",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.519236,
-          35.77045
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mqzp3o-1767976988799.jpg",
-        "location": "",
-        "point_id": "9mqzp3o",
-        "point_name": "小川ビル",
-        "remark": "虽然是家门口拍的，但现实不符合，还有可爱呢"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.598664,
-          35.750624
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msd7gb-1767979297287.jpg",
-        "location": "",
-        "point_id": "9msd7gb",
-        "point_name": "人行道",
-        "remark": "向南拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.598734,
-          35.750555
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mseco8-1767979356684.jpg",
-        "location": "",
-        "point_id": "9mseco8",
-        "point_name": "人行道",
-        "remark": "向右拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.598657,
-          35.750446
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msfpwg-1767979420011.jpg",
-        "location": "",
-        "point_id": "9msfpwg",
-        "point_name": "人行道",
-        "remark": "向北拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524638,
-          35.769761
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 9,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msh6ls-1767979484606.jpg",
-        "location": "",
-        "point_id": "9msh6ls",
-        "point_name": "踏切",
-        "remark": "后面的房子"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524653,
-          35.769769
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msi0na-1767979540165.jpg",
-        "location": "",
-        "point_id": "9msi0na",
-        "point_name": "踏切",
-        "remark": "后面的建筑，还有前后文"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524619,
-          35.769757
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msjgeu-1767979595003.jpg",
-        "location": "",
-        "point_id": "9msjgeu",
-        "point_name": "踏切",
-        "remark": "根据之前的人说法这个位置不是这个踏切，但根据上下文应该放这里，但这个位置是错误的"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.63855,
-          35.736038
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msmit9-1767979735197.jpg",
-        "location": "",
-        "point_id": "9msmit9",
-        "point_name": "麦当劳里面",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.63843,
-          35.736214
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msnjfk-1767979788545.jpg",
-        "location": "",
-        "point_id": "9msnjfk",
-        "point_name": "人行道前",
-        "remark": "低视角拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.63825,
-          35.736164
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msra1g-1767979955277.jpg",
-        "location": "",
-        "point_id": "9msra1g",
-        "point_name": "人行道",
-        "remark": "根据动漫取景视角，加上只有左面的高楼多，向左拍摄最合适，但其实差别挺大，可以各位更正一下"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.638416,
-          35.736151
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msthmx-1767980064283.jpg",
-        "location": "",
-        "point_id": "9msthmx",
-        "point_name": "人行道",
-        "remark": "向右"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.638399,
-          35.736151
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msu5fg-1767980092987.jpg",
-        "location": "",
-        "point_id": "9msu5fg",
-        "point_name": "人行道",
-        "remark": "向左"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.63838,
-          35.736202
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msv05h-1767980134323.jpg",
-        "location": "",
-        "point_id": "9msv05h",
-        "point_name": "人行道",
-        "remark": "低视角拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.638379,
-          35.736206
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9msvulj-1767980175470.jpg",
-        "location": "",
-        "point_id": "9msvulj",
-        "point_name": "人行道",
-        "remark": "可以平常视角拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.531944,
-          35.762501
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mt8n8q-1767980834769.jpg",
-        "location": "",
-        "point_id": "9mt8n8q",
-        "point_name": "理发店",
-        "remark": "理发店，空手道教室，要是都没有还有中华居酒，要是还没有，还有上面的广告，来源xhs繁空星夜"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524624,
-          35.76971
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mt6ii9-1767980664746.jpg",
-        "location": "",
-        "point_id": "9mt6ii9",
-        "point_name": "踏切",
-        "remark": "红房子"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.531978,
-          35.762486
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mtcvi2-1767980967732.jpg",
-        "location": "",
-        "point_id": "9mtcvi2",
-        "point_name": "理发店",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.531909,
-          35.762527
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mtdo4w-1767981002378.jpg",
-        "location": "",
-        "point_id": "9mtdo4w",
-        "point_name": "理发店",
-        "remark": "根据动漫取景思路放的位置"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602519,
-          35.74822
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu5bpi-1767982291504.jpg",
-        "location": "",
-        "point_id": "9mu5bpi",
-        "point_name": "グリーン.​クワィエット",
-        "remark": "向右"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602573,
-          35.748242
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu7r13-1767982405935.jpg",
-        "location": "",
-        "point_id": "9mu7r13",
-        "point_name": "拐角",
-        "remark": "对着拐角拍"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602564,
-          35.748282
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu8l9m-1767982443000.jpg",
-        "location": "",
-        "point_id": "9mu8l9m",
-        "point_name": "拐角",
-        "remark": "向北"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602551,
-          35.748238
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mu99nn-1767982480817.jpg",
-        "location": "",
-        "point_id": "9mu99nn",
-        "point_name": "拐角",
-        "remark": "向左，我家还蛮大的，你要不要来玩一玩"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602596,
-          35.748245
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muae01-1767982527173.jpg",
-        "location": "",
-        "point_id": "9muae01",
-        "point_name": "拐角",
-        "remark": "对着拐角，谁知道你是1啊，我还想当一呢"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602564,
-          35.748264
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mubtwy-1767982592184.jpg",
-        "location": "",
-        "point_id": "9mubtwy",
-        "point_name": "拐角",
-        "remark": "向北"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602596,
-          35.748201
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muchb0-1767982624855.jpg",
-        "location": "",
-        "point_id": "9muchb0",
-        "point_name": "拐角",
-        "remark": "向北"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.262804,
-          35.272624
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mudsp8-1767982706375.jpg",
-        "location": "",
-        "point_id": "9mudsp8",
-        "point_name": "交警前",
-        "remark": "现实没有喵，可以就在旁边拍一拍"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.262916,
-          35.272576
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mufhmu-1767982770767.jpg",
-        "location": "",
-        "point_id": "9mufhmu",
-        "point_name": "站前",
-        "remark": "每次看见这个车站就想起没有去的轻音学校，主要没时间了，没办法了喵"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.262769,
-          35.272614
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muhwgg-1767982891178.jpg",
-        "location": "",
-        "point_id": "9muhwgg",
-        "point_name": "站前",
-        "remark": "无人机视角"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.262908,
-          35.272547
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muh5gr-1767982845212.jpg",
-        "location": "",
-        "point_id": "9muh5gr",
-        "point_name": "站前",
-        "remark": "学姐你这个大笨蛋"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.262772,
-          35.272558
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mujds0-1767982946403.jpg",
-        "location": "",
-        "point_id": "9mujds0",
-        "point_name": "站前",
-        "remark": "刚开始"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.263283,
-          35.272274
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mukljm-1767983007638.jpg",
-        "location": "",
-        "point_id": "9mukljm",
-        "point_name": "站内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.263267,
-          35.272264
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mulq2a-1767983059476.jpg",
-        "location": "",
-        "point_id": "9mulq2a",
-        "point_name": "站内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.263256,
-          35.272236
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mumg2x-1767983090514.jpg",
-        "location": "",
-        "point_id": "9mumg2x",
-        "point_name": "站内",
-        "remark": "我有女朋友，你没有"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.25022,
-          35.265949
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muphfx-1767983250260.jpg",
-        "location": "",
-        "point_id": "9muphfx",
-        "point_name": "池州桥跑道",
-        "remark": "来源xhs 小红薯64A5FE26"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.250248,
-          35.265947
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mur9eg-1767983322049.jpg",
-        "location": "",
-        "point_id": "9mur9eg",
-        "point_name": "跑道",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.25042,
-          35.265836
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muuhxr-1767983465281.jpg",
-        "location": "",
-        "point_id": "9muuhxr",
-        "point_name": "跑道",
-        "remark": "这个位置不正确喵，但根据取景只能放一起了，有人找到正确的位置请更正"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.250199,
-          35.265938
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muycm5-1767983646849.jpg",
-        "location": "",
-        "point_id": "9muycm5",
-        "point_name": "跑道",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.250451,
-          35.265798
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9muw9oi-1767983553746.jpg",
-        "location": "",
-        "point_id": "9muw9oi",
-        "point_name": "跑道",
-        "remark": "虽然右面的河道有一个高楼，但不满足动漫，还是放一起给个时间"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602338,
-          35.747768
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvg72z-1767984480537.jpg",
-        "location": "",
-        "point_id": "9mvg72z",
-        "point_name": "フォルトゥーナ​石神井​公園",
-        "remark": "这个位置不正确，但我把右面的都看了一遍，都不满足后面的转弯，所以放一起了，各位有正确的位置请更正"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524518,
-          35.769743
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvkbfb-1767984669531.jpg",
-        "location": "",
-        "point_id": "9mvkbfb",
-        "point_name": "踏切",
-        "remark": "这个位置和前面的理由一样"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524519,
-          35.769736
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvlhbh-1767984725871.jpg",
-        "location": "",
-        "point_id": "9mvlhbh",
-        "point_name": "踏切",
-        "remark": "不正确，理由同上"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602347,
-          35.747769
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvijvo-1767984587421.jpg",
-        "location": "",
-        "point_id": "9mvijvo",
-        "point_name": "フォルトゥーナ​石神井​公園",
-        "remark": "同样不正确"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524601,
-          35.769706
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvjoy4-1767984640414.jpg",
-        "location": "",
-        "point_id": "9mvjoy4",
-        "point_name": "踏切",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524632,
-          35.769756
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvmcjc-1767984767159.jpg",
-        "location": "",
-        "point_id": "9mvmcjc",
-        "point_name": "踏切",
-        "remark": "没问题这个方向的位置"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.602566,
-          35.748252
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvnq7b-1767984828831.jpg",
-        "location": "",
-        "point_id": "9mvnq7b",
-        "point_name": "拐角",
-        "remark": "根据动漫取景思路，懒了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.604836,
-          35.744333
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mvz272-1786377229065.jpg",
-        "location": "",
-        "point_id": "9mvz272",
-        "point_name": "石神井公园站前人行道",
-        "remark": "东京最后的一张，感谢xhs繁空星夜以及小红薯64A5FE26，为主播的百合攻略做了前路，谢谢你们喵"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.257058,
-          35.261595
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mw9afn-1767985849115.jpg",
-        "location": "",
-        "point_id": "9mw9afn",
-        "point_name": "中芹桥",
-        "remark": "根据贴吧人的描述，这个取景是三座桥的取景合成，台阶是这里"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.259838,
-          35.259728
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mwdg57-1767986034704.jpg",
-        "location": "",
-        "point_id": "9mwdg57",
-        "point_name": "上芹桥下",
-        "remark": "桥的下面是这个铁路，没问题"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.259854,
-          35.25975
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mwf8tk-1767986116539.jpg",
-        "location": "",
-        "point_id": "9mwf8tk",
-        "point_name": "桥下",
-        "remark": "根据贴吧大佬的说法，我认为要名场面的取景话就在这座桥的底下就足够了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          136.259844,
-          35.259742
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mwhocu-1767986234222.jpg",
-        "location": "",
-        "point_id": "9mwhocu",
-        "point_name": "桥下",
-        "remark": "最后一张了，累了喵，还有一些点位没有找到，比如跑步的位置，另一个视角的踏切，第10集的问喜欢颜色的水果店，反光镜一些小的点，剩下的就交给后面的人了喵，加油各位，我要去找其他动漫的了，不然没时间了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.531726,
-          35.762723
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mxtal6-1767988462418.jpg",
-        "location": "",
-        "point_id": "9mxtal6",
-        "point_name": "轨道旁",
-        "remark": "房子的造型挺像的，然后还有动漫取景思路"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.531724,
-          35.762744
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mxpp0z-1767988279736.jpg",
-        "location": "",
-        "point_id": "9mxpp0z",
-        "point_name": "ちとせや",
-        "remark": "没注意13集前面还有取景，根据左面的限速牌，还有反光镜，以及右面的房子造型，和旁边的遮雨棚，位置没有跑了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524552,
-          35.769743
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mpcol5-1767974247243.jpg",
-        "location": "",
-        "point_id": "9mpcol5",
-        "point_name": "踏切",
-        "remark": "根据实景我认为是不符合动漫，但xhs上的巡礼是这里，而且根据前面的人提供的说法，这个取景是两部分构成所以各位也可以找一找"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.519228,
-          35.770445
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp5kz3-1767973904346.jpg",
-        "location": "",
-        "point_id": "9mp5kz3",
-        "point_name": "咖啡店",
-        "remark": "在门口撒谎的学姐"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.519253,
-          35.770458
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp4527-1767973840804.jpg",
-        "location": "",
-        "point_id": "9mp4527",
-        "point_name": "咖啡店",
-        "remark": "在人家门口干嘛呢"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.792255,
-          35.654125
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp1llh-1767973718761.jpg",
-        "location": "",
-        "point_id": "9mp1llh",
-        "point_name": "公园",
-        "remark": "不准确"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.79225,
-          35.65412
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mp0ww9-1767973684511.jpg",
-        "location": "",
-        "point_id": "9mp0ww9",
-        "point_name": "公园",
-        "remark": "这个位置不准确"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.792191,
-          35.654135
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mozzru-1767973646302.jpg",
-        "location": "",
-        "point_id": "9mozzru",
-        "point_name": "公园",
-        "remark": "这个位置不准确"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.792138,
-          35.654197
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9moyl67-1767973583864.jpg",
-        "location": "",
-        "point_id": "9moyl67",
-        "point_name": "公园",
-        "remark": "在这个公园应该都可以拍，现实就是右面的高楼修好了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.793908,
-          35.65495
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9moqydp-1767973222345.jpg",
-        "location": "",
-        "point_id": "9moqydp",
-        "point_name": "lalapart",
-        "remark": "剩下的各位去商场里面自己找吧喵，找到的可以上传帮帮其他人喵"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.519236,
-          35.77046
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mohpfu-1767972821711.jpg",
-        "location": "",
-        "point_id": "9mohpfu",
-        "point_name": "咖啡亭 梓",
-        "remark": "在这里搜咖啡店就可以找到，来源于xhs的取景"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524626,
-          35.769755
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mo29jy-1767972073174.jpg",
-        "location": "",
-        "point_id": "9mo29jy",
-        "point_name": "踏切",
-        "remark": "虽然挺不好判断的，但右后面的房子符合动漫的取景，而且满足动漫的取景思路，但不一定正确"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524628,
-          35.76976
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnv349-1767971733862.jpg",
-        "location": "",
-        "point_id": "9mnv349",
-        "point_name": "踏切前",
-        "remark": "可以看见右面的房子是满足的"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524539,
-          35.769791
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnrjb3-1767971583410.jpg",
-        "location": "",
-        "point_id": "9mnrjb3",
-        "point_name": "踏切",
-        "remark": "那个铁路红绿灯满足"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.52464,
-          35.769757
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnwtkx-1767971822296.jpg",
-        "location": "",
-        "point_id": "9mnwtkx",
-        "point_name": "踏切",
-        "remark": "根据动漫的位置，以及上下文，位置就应该在这里，然后后面的房子走向挺像的，大概没错"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.794043,
-          35.655236
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9moom0n-1767973150427.jpg",
-        "location": "",
-        "point_id": "9moom0n",
-        "point_name": "lalapart",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.524604,
-          35.769749
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mnyv93-1767971911002.jpg",
-        "location": "",
-        "point_id": "9mnyv93",
-        "point_name": "踏切",
-        "remark": "根据后面的那个突起的房子可以推出来，但前面的和动漫不一样，还有左面的房子走向也挺合适"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.793939,
-          35.654945
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mopz4a-1767973186674.jpg",
-        "location": "",
-        "point_id": "9mopz4a",
-        "point_name": "lalapart门口",
-        "remark": "远处拍摄\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.792206,
-          35.654201
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 243981,
-        "bangumi_title": "终将成为你",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/243981/points/9mow905-1767973478667.jpg",
-        "location": "",
-        "point_id": "9mow905",
-        "point_name": "休息处",
-        "remark": "根据动漫的视角位置选择放在了接近出口的位置，各位可以根据实景寻找，主要谷歌看不了"
+        "point_id": "6e4csc7",
+        "point_name": "渡月橋南端",
+        "remark": "渡月桥南北端都是这个样式，但是考虑到下文灯子一行人乘坐新干线返回东京，所以应该是自北向南过桥的"
       },
       "type": "Feature"
     }

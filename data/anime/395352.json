@@ -545,6 +545,48 @@
     },
     {
       "ep_cut": "",
+      "id": "j0d5bos",
+      "image_path": "/images/points/395352/j0d5bos_1788391330455.webp",
+      "image_url": "https://w.junreimap.com/images/points/395352/j0d5bos_1788391330455.webp",
+      "lat": 26.320359,
+      "lng": 127.753506,
+      "location": "冲绳县北谷町 美浜美国村",
+      "name": "WaGyu Café Kapuka",
+      "remark": "三玖线Day4",
+      "status_code": 2090,
+      "user_id": 13,
+      "zoom": 13
+    },
+    {
+      "ep_cut": "",
+      "id": "j0dcy1k",
+      "image_path": "/images/points/395352/j0dcy1k_1788391674437.webp",
+      "image_url": "https://w.junreimap.com/images/points/395352/j0dcy1k_1788391674437.webp",
+      "lat": 26.320289,
+      "lng": 127.753415,
+      "location": "冲绳县北谷町 美浜美国村",
+      "name": "WaGyu Café Kapuka",
+      "remark": "三玖线Day4",
+      "status_code": 2090,
+      "user_id": 0,
+      "zoom": 1
+    },
+    {
+      "ep_cut": "",
+      "id": "j0deiqg",
+      "image_path": "/images/points/395352/j0deiqg_1788391744714.webp",
+      "image_url": "https://w.junreimap.com/images/points/395352/j0deiqg_1788391744714.webp",
+      "lat": 26.320287,
+      "lng": 127.753416,
+      "location": "冲绳县北谷町 美浜美国村",
+      "name": "WaGyu Café Kapuka",
+      "remark": "三玖线Day4",
+      "status_code": 2090,
+      "user_id": 0,
+      "zoom": 378
+    },
+    {
+      "ep_cut": "",
       "id": "pa9q4qd0q",
       "image_path": "/images/user/2090/bangumi/395352/points/pa9q4qd0q-1729475814046.jpg",
       "image_url": "https://w.junreimap.com/images/user/2090/bangumi/395352/points/pa9q4qd0q-1729475814046.jpg",
@@ -597,7 +639,21 @@
       "remark": "三玖线Day3",
       "status_code": 2090,
       "user_id": 16,
-      "zoom": 172
+      "zoom": 121
+    },
+    {
+      "ep_cut": "",
+      "id": "j0cwmzd",
+      "image_path": "/images/points/395352/j0cwmzd_1788391010210.webp",
+      "image_url": "https://w.junreimap.com/images/points/395352/j0cwmzd_1788391010210.webp",
+      "lat": 26.692622,
+      "lng": 127.874899,
+      "location": "冲绳县本部町 海洋博公园",
+      "name": "Okichan Theatre西侧的海边栈道",
+      "remark": "二乃线Day5\n具体是栈道上的哪一点可能不准确",
+      "status_code": 2090,
+      "user_id": 120,
+      "zoom": 288
     },
     {
       "ep_cut": "",
@@ -1594,12 +1650,12 @@
       "zoom": 1
     }
   ],
-  "points_count": 113,
+  "points_count": 117,
   "rating": 7.5,
   "region": "恩納村",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/395352_100_76.webp?v=h5u8b",
+    "/images/ptheme/395352_100_76.webp?v=hquv5",
     [
       "pa35omyq8",
       "aca768ee",
@@ -1639,10 +1695,14 @@
       "pa67h1v4r",
       "pbaf3mglh",
       "pbafkvnta",
+      "j0d5bos",
+      "j0dcy1k",
+      "j0deiqg",
       "pa9q4qd0q",
       "pa6ju497g",
       "pa6nlb4lj",
       "pb4g5g268",
+      "j0cwmzd",
       "pa70q1kgs",
       "pa74pbojo",
       "pa75ubxju",
@@ -1715,7 +1775,7 @@
       "pa9l2x9qt",
       "pb9by5an6"
     ],
-    1729555877349,
+    1788391766181,
     100,
     76
   ],

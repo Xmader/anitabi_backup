@@ -883,8 +883,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.111949,
-          36.094959
+          139.111303,
+          36.094678
         ],
         "type": "Point"
       },
@@ -895,7 +895,27 @@
         "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/iebyfsg-1787059051596.webp",
         "location": "長瀞駅",
         "point_id": "iebyfsg",
-        "point_name": "長瀞駅",
+        "point_name": "荒川ライン下り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.112729,
+          36.094793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 543360,
+        "bangumi_title": "上伊那牡丹，酒醉身姿似百合花般",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/iec0kxz-1787059290575.webp",
+        "location": "長瀞駅",
+        "point_id": "iec0kxz",
+        "point_name": "長瀞駅踏切",
         "remark": ""
       },
       "type": "Feature"

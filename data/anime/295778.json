@@ -1,9 +1,9 @@
 {
   "abbreviation": "ジョゼ虎",
-  "bgm_id": 3116,
-  "center_lat": 34.659227,
-  "center_lng": 135.393847,
-  "center_zoom": 8.7,
+  "bgm_id": 2124,
+  "center_lat": 34.733704,
+  "center_lng": 135.32718,
+  "center_zoom": 10.4,
   "color": "#fcd65d",
   "cover_path": "/images/bangumi/295778.jpg",
   "cover_url": "https://w.junreimap.com/images/bangumi/295778.jpg",
@@ -13,34 +13,6 @@
   "points": [
     {
       "ep_cut": "剧场版",
-      "id": "inmn6qsph",
-      "image_path": "/images/user/1115/bangumi/295778/points/inmn6qsph-1718537460699.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1115/bangumi/295778/points/inmn6qsph-1718537460699.jpg",
-      "lat": 34.642908,
-      "lng": 135.127018,
-      "location": "",
-      "name": "須磨海水浴場",
-      "remark": "",
-      "status_code": 1115,
-      "user_id": 33552,
-      "zoom": 278
-    },
-    {
-      "ep_cut": "",
-      "id": "innceb9yo",
-      "image_path": "/images/user/1058/bangumi/295778/points/innceb9yo-1710776484438.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1058/bangumi/295778/points/innceb9yo-1710776484438.jpg",
-      "lat": 34.669186,
-      "lng": 135.495299,
-      "location": "",
-      "name": "浮庭橋",
-      "remark": "",
-      "status_code": 1058,
-      "user_id": 1511,
-      "zoom": 275
-    },
-    {
-      "ep_cut": "1",
       "id": "lx0b2gf1h",
       "image_path": "/images/user/0/bangumi/295778/points/lx0b2gf1h-1719973320626.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lx0b2gf1h-1719973320626.jpg",
@@ -54,7 +26,7 @@
       "zoom": 500
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxg3z0rr7",
       "image_path": "/images/user/0/bangumi/295778/points/lxg3z0rr7-1720007690792.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxg3z0rr7-1720007690792.jpg",
@@ -68,7 +40,7 @@
       "zoom": 1015
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxicbb7wb",
       "image_path": "/images/user/0/bangumi/295778/points/lxicbb7wb-1720012553374.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxicbb7wb-1720012553374.jpg",
@@ -82,7 +54,7 @@
       "zoom": 401
     },
     {
-      "ep_cut": 2,
+      "ep_cut": "剧场版",
       "id": "lxiqm92xz",
       "image_path": "/images/user/0/bangumi/295778/points/lxiqm92xz-1720013379312.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxiqm92xz-1720013379312.jpg",
@@ -96,7 +68,35 @@
       "zoom": 1012
     },
     {
-      "ep_cut": 2,
+      "ep_cut": "剧场版",
+      "id": "inmn6qsph",
+      "image_path": "/images/user/1115/bangumi/295778/points/inmn6qsph-1718537460699.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1115/bangumi/295778/points/inmn6qsph-1718537460699.jpg",
+      "lat": 34.642908,
+      "lng": 135.127018,
+      "location": "",
+      "name": "須磨海水浴場",
+      "remark": "",
+      "status_code": 1115,
+      "user_id": 278,
+      "zoom": 278
+    },
+    {
+      "ep_cut": "剧场版",
+      "id": "innceb9yo",
+      "image_path": "/images/user/1058/bangumi/295778/points/innceb9yo-1710776484438.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1058/bangumi/295778/points/innceb9yo-1710776484438.jpg",
+      "lat": 34.669121,
+      "lng": 135.496429,
+      "location": "",
+      "name": "深里橋",
+      "remark": "こちらは、四つ橋筋沿いに架かる深里橋。道頓堀は『ジョゼ～』の原作者・田辺聖子氏の作品『道頓堀の雨に別れて以来なり―川柳作家・岸本水府とその時代』にも舞台として登場。",
+      "status_code": 1058,
+      "user_id": 1445,
+      "zoom": 153
+    },
+    {
+      "ep_cut": "剧场版",
       "id": "lxittl6ak",
       "image_path": "/images/user/0/bangumi/295778/points/lxittl6ak-1720013632702.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxittl6ak-1720013632702.jpg",
@@ -110,7 +110,7 @@
       "zoom": 82
     },
     {
-      "ep_cut": 2,
+      "ep_cut": "剧场版",
       "id": "lxj7xjt5z",
       "image_path": "/images/user/0/bangumi/295778/points/lxj7xjt5z-1720014456473.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxj7xjt5z-1720014456473.jpg",
@@ -124,7 +124,7 @@
       "zoom": 123
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxjbd0kni",
       "image_path": "/images/user/0/bangumi/295778/points/lxjbd0kni-1720014632945.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjbd0kni-1720014632945.jpg",
@@ -134,11 +134,11 @@
       "name": "海遊館",
       "remark": "",
       "status_code": 0,
-      "user_id": 7534,
+      "user_id": 7655,
       "zoom": 25
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxjdp81mk",
       "image_path": "/images/user/0/bangumi/295778/points/lxjdp81mk-1720014784384.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjdp81mk-1720014784384.jpg",
@@ -152,7 +152,7 @@
       "zoom": 2490
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxjght459",
       "image_path": "/images/user/0/bangumi/295778/points/lxjght459-1720014946596.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjght459-1720014946596.jpg",
@@ -166,7 +166,7 @@
       "zoom": 252
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxjk0i189",
       "image_path": "/images/user/0/bangumi/295778/points/lxjk0i189-1720015168430.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjk0i189-1720015168430.jpg",
@@ -180,7 +180,7 @@
       "zoom": 252
     },
     {
-      "ep_cut": "",
+      "ep_cut": "剧场版",
       "id": "lxjnl1pp2",
       "image_path": "/images/user/0/bangumi/295778/points/lxjnl1pp2-1720015386115.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/lxjnl1pp2-1720015386115.jpg",
@@ -194,7 +194,7 @@
       "zoom": 610
     },
     {
-      "ep_cut": "1",
+      "ep_cut": "剧场版",
       "id": "o3sv38dbi",
       "image_path": "/images/user/0/bangumi/295778/points/o3sv38dbi-1726147912995.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/295778/points/o3sv38dbi-1726147912995.jpg",
@@ -204,7 +204,7 @@
       "name": "須磨海浜公園 横断歩道",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 278,
       "zoom": 431
     }
   ],
@@ -213,7 +213,7 @@
   "region": "大阪市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/295778.webp?v=h3bw6",
+    "/images/ptheme/295778_100_76.webp?v=hqspv",
     [
       "inmn6qsph",
       "innceb9yo",
@@ -227,9 +227,12 @@
       "lxjdp81mk",
       "lxjght459",
       "lxjk0i189",
-      "lxjnl1pp2"
+      "lxjnl1pp2",
+      "o3sv38dbi"
     ],
-    1722531282503
+    1788224820499,
+    100,
+    76
   ],
   "title_cn": "乔西的虎与鱼",
   "title_en": "",

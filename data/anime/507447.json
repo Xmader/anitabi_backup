@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#f1017f",
+  "cover_path": "/images/bangumi/507447.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/507447.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 507447,
+  "points": [
+    {
+      "ep_cut": 1,
+      "id": "itia9yv",
+      "image_path": "",
+      "image_url": "",
+      "lat": 35.859536,
+      "lng": 140.124578,
+      "location": "",
+      "name": "ロケ用ファミレス",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 34850,
+      "zoom": 2950
+    },
+    {
+      "ep_cut": 1,
+      "id": "itib3gp",
+      "image_path": "",
+      "image_url": "",
+      "lat": 35.702392,
+      "lng": 139.852774,
+      "location": "",
+      "name": "スタジオasadaya",
+      "remark": "",
+      "status_code": 1057,
+      "user_id": 34850,
+      "zoom": 1088
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.6,
+  "region": "東京都",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "宝宝杀手 Everyday",
+  "title_en": "",
+  "title_jp": "ベイビーわるきゅーれ エブリデイ！",
+  "type": "日剧"
+}

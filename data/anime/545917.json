@@ -2378,20 +2378,6 @@
       "zoom": 1553
     },
     {
-      "ep_cut": 5,
-      "id": "houkxed",
-      "image_path": "/images/user/0/bangumi/545917/points/houkxed-1785518706991.webp",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/houkxed-1785518706991.webp",
-      "lat": 35.627156,
-      "lng": 139.894303,
-      "location": "スパ&ホテル 舞浜ユーラシア",
-      "name": "スパ&ホテル 舞浜ユーラシア",
-      "remark": "",
-      "status_code": 0,
-      "user_id": null,
-      "zoom": 1261
-    },
-    {
       "ep_cut": 4,
       "id": "huetah7",
       "image_path": "/images/user/0/bangumi/545917/points/huetah7-1785854654296.webp",
@@ -2402,7 +2388,7 @@
       "name": "大島一周道路",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 97,
       "zoom": 98
     },
     {
@@ -2416,7 +2402,7 @@
       "name": "筆島 見晴台",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 14,
       "zoom": 14
     },
     {
@@ -2430,7 +2416,7 @@
       "name": "筆島 見晴台",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 14,
       "zoom": 227
     },
     {
@@ -2444,7 +2430,7 @@
       "name": "オタイネの碑",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 97,
       "zoom": 710
     },
     {
@@ -2458,8 +2444,22 @@
       "name": "筆島海水浴場",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 582,
       "zoom": 11215
+    },
+    {
+      "ep_cut": 5,
+      "id": "houkxed",
+      "image_path": "/images/user/0/bangumi/545917/points/houkxed-1785518706991.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/houkxed-1785518706991.webp",
+      "lat": 35.627156,
+      "lng": 139.894303,
+      "location": "スパ&ホテル 舞浜ユーラシア",
+      "name": "スパ&ホテル 舞浜ユーラシア",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 10826,
+      "zoom": 1261
     }
   ],
   "points_count": 175,
@@ -2467,7 +2467,7 @@
   "region": "大島町",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/545917_100_76.webp?v=hpgjj",
+    "/images/ptheme/545917_100_76.webp?v=hqq4q",
     [
       "1yh5fus",
       "glmevbm",
@@ -2637,9 +2637,15 @@
       "h7ms5kz",
       "h7mrh8p",
       "h7msbct",
-      "h7mnw3b"
+      "h7mnw3b",
+      "huetah7",
+      "huffu1d",
+      "hufi1r8",
+      "hufpbmj",
+      "hufvej0",
+      "houkxed"
     ],
-    1784478684262,
+    1788023681290,
     100,
     76
   ],

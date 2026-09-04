@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.702266,
+          35.694551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 606263,
+        "bangumi_title": "主播女孩重度依赖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/606263/points/hvplipy-1785933115241.jpg",
+        "location": "",
+        "point_id": "hvplipy",
+        "point_name": "ファミリーマート 新宿東宝ビル前店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.772694,
+          35.698706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 606263,
+        "bangumi_title": "主播女孩重度依赖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/606263/points/hvq1rut-1785933884639.jpg",
+        "location": "",
+        "point_id": "hvq1rut",
+        "point_name": "秋葉原駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

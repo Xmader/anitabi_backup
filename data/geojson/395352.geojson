@@ -763,6 +763,66 @@
     {
       "geometry": {
         "coordinates": [
+          127.753506,
+          26.320359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 395352,
+        "bangumi_title": "电影 五等分的新娘 ~和你度过的五个回忆~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/395352/j0d5bos_1788391330455.webp",
+        "location": "冲绳县北谷町 美浜美国村",
+        "point_id": "j0d5bos",
+        "point_name": "WaGyu Café Kapuka",
+        "remark": "三玖线Day4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.753415,
+          26.320289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 395352,
+        "bangumi_title": "电影 五等分的新娘 ~和你度过的五个回忆~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/395352/j0dcy1k_1788391674437.webp",
+        "location": "冲绳县北谷町 美浜美国村",
+        "point_id": "j0dcy1k",
+        "point_name": "WaGyu Café Kapuka",
+        "remark": "三玖线Day4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.753416,
+          26.320287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 395352,
+        "bangumi_title": "电影 五等分的新娘 ~和你度过的五个回忆~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/395352/j0deiqg_1788391744714.webp",
+        "location": "冲绳县北谷町 美浜美国村",
+        "point_id": "j0deiqg",
+        "point_name": "WaGyu Café Kapuka",
+        "remark": "三玖线Day4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           127.754905,
           26.316292
         ],
@@ -837,6 +897,26 @@
         "point_id": "pb4g5g268",
         "point_name": "Okichan Theatre",
         "remark": "三玖线Day3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.874899,
+          26.692622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 395352,
+        "bangumi_title": "电影 五等分的新娘 ~和你度过的五个回忆~",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/395352/j0cwmzd_1788391010210.webp",
+        "location": "冲绳县本部町 海洋博公园",
+        "point_id": "j0cwmzd",
+        "point_name": "Okichan Theatre西侧的海边栈道",
+        "remark": "二乃线Day5\n具体是栈道上的哪一点可能不准确"
       },
       "type": "Feature"
     },

@@ -3,488 +3,8 @@
     {
       "geometry": {
         "coordinates": [
-          55.273922,
-          25.197342
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tmy_1728969233746.jpg",
-        "location": "",
-        "point_id": "kpwkd7tmy",
-        "point_name": "Burj Khalifa",
-        "remark": "OP EP1,7 (Dubai, United Arab Emirates) ブルジュ・ハリファ"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.543858,
-          36.143539
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tbq_1728304740493.jpg",
-        "location": "",
-        "point_id": "kpwkd7tbq",
-        "point_name": "IEONMALL Hanyuu",
-        "remark": "Ep 1 (Hanyuu, Japan) イオンモール羽生"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          6.952442,
-          50.936218
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t96_1728304914758.jpg",
-        "location": "",
-        "point_id": "kpwkd7t96",
-        "point_name": "Weltstadthaus (Cologne)",
-        "remark": "Ep 1  (Cologne, Germany) Weltstadthaus (Köln)"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          2.294254,
-          48.858276
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7toq_1728304351321.jpg",
-        "location": "",
-        "point_id": "kpwkd7toq",
-        "point_name": "Eiffel Tower",
-        "remark": "Ep 1 (Paris, France) La Tour EiffelThe Movie France Key Visual"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.415421,
-          35.627377
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tl8_1728927789834.jpg",
-        "location": "",
-        "point_id": "kpwkd7tl8",
-        "point_name": "Kazegaeshi Hodohkyo (Pedestrian Overpass)",
-        "remark": "Ep 2,8 (Tokyo Japan) 風返し歩道橋"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.631409,
-          35.454674
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7th1_1728307216676.jpg",
-        "location": "",
-        "point_id": "kpwkd7th1",
-        "point_name": "Yokohama Landmark Tower",
-        "remark": "Ep 2,9 (Yokohama Japan) 横浜ランドマークタワー"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.745734,
-          35.494647
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/lpz0fmgxp-1719421887364.jpg",
-        "location": "",
-        "point_id": "lpz0fmgxp",
-        "point_name": "扇島火力発電所",
-        "remark": "原地标已被拆除"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.412521,
-          35.700188
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t0u_1728969292849.jpg",
-        "location": "",
-        "point_id": "kpwkd7t0u",
-        "point_name": "Tachikawa-Kita Station",
-        "remark": "Ep 4 (Tokyo Japan) 立川北駅"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          138.965321,
-          35.306892
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/kpwkd7t7x-1720217603521.jpg",
-        "location": "",
-        "point_id": "kpwkd7t7x",
-        "point_name": "Gotemba Premium Outlets",
-        "remark": "Ep 4 (Tokyo Japan) 御殿場プレミアムアウトレット"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.733582,
-          35.785412
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t0v_1728924851435.jpg",
-        "location": "",
-        "point_id": "kpwkd7t0v",
-        "point_name": "Iwabuchi Sluice Gate",
-        "remark": "Ep 5 (Tokyo Japan) 岩淵水門"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          114.159286,
-          22.285297
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7trp_1728926551405.jpg",
-        "location": "",
-        "point_id": "kpwkd7trp",
-        "point_name": "Two International Finance Centre",
-        "remark": "Ep 5 The Movie Key Visual"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          31.343571,
-          30.0739
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tav_1734256767347.jpg",
-        "location": "",
-        "point_id": "kpwkd7tav",
-        "point_name": "Citystars Cairo",
-        "remark": "Ep 5 (Cairo, Egypt) 內景"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.754647,
-          51.067944
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/kpwkd7t6y-1752728573573.jpg",
-        "location": "",
-        "point_id": "kpwkd7t6y",
-        "point_name": "Kunsthof passage Dresden",
-        "remark": "Ep 6 (Dresden, Germany)"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          8.674167,
-          50.110558
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tou_1728926223150.jpg",
-        "location": "",
-        "point_id": "kpwkd7tou",
-        "point_name": "Commerzbank Tower",
-        "remark": "Ep 1,6 (Frankfurt, Germany) Commerzbank Tower"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.060364,
-          36.395214
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7ts5_1728969431814.jpg",
-        "location": "",
-        "point_id": "kpwkd7ts5",
-        "point_name": "Maebashikoen Park",
-        "remark": "Ep 7 (Maebashi Japan) 前橋公園"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          55.185571,
-          25.14123
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tg8_1728969461347.jpg",
-        "location": "",
-        "point_id": "kpwkd7tg8",
-        "point_name": "Burj Al Arab",
-        "remark": "Ep 8 (Dubai, United Arab Emirates)"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -49.266157,
-          -25.410688
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t1g_1728969514155.jpg",
-        "location": "",
-        "point_id": "kpwkd7t1g",
-        "point_name": "Oscar Niemeyer Museum (bus stop)",
-        "remark": "Ep 8? (Curitiba, Brazil) Museu Oscar Niemeyer"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.401871,
-          35.62389
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t69_1728969534485.jpg",
-        "location": "",
-        "point_id": "kpwkd7t69",
-        "point_name": "Akibadaisho Entrance Intersection",
-        "remark": "Ep 8 (Tokyo Japan) 秋葉台小入口交差点"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.421677,
-          35.63398
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t2a_1728969551598.jpg",
-        "location": "",
-        "point_id": "kpwkd7t2a",
-        "point_name": "Matsugaya Station",
-        "remark": "Ep 8 (Tokyo Japan) 松が谷駅"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.621094,
-          35.7047
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 9,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tl0_1734256627412.jpg",
-        "location": "",
-        "point_id": "kpwkd7tl0",
-        "point_name": "Ogikubo Planet",
-        "remark": "Ep 9 (Tokyo Japan)荻窪プラネッツ"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          2.294938,
-          48.873778
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tet_1728969575497.jpg",
-        "location": "",
-        "point_id": "kpwkd7tet",
-        "point_name": "Arc de Triomphe",
-        "remark": "Ep 10 (Paris, France) Arc de triomphe de l'Étoile"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.745453,
-          35.658642
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7ta5_1734256578058.jpg",
-        "location": "",
-        "point_id": "kpwkd7ta5",
-        "point_name": "Tokyo Tower",
-        "remark": "Ep 11 (Tokyo Japan) 東京タワー"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.773117,
-          35.71804
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tar_1729238552273.jpg",
-        "location": "",
-        "point_id": "kpwkd7tar",
-        "point_name": "Sogakudo Concert Hall",
-        "remark": "Ep 12 (Tokyo Japan) 旧東京音楽学校　奏楽堂"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.352539,
-          43.044231
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tgj_1729238070183.jpg",
-        "location": "",
-        "point_id": "kpwkd7tgj",
-        "point_name": "Sapporo Concert Hall \"Kitara\"",
-        "remark": "Ep 12 (Sapporo Japan) 札幌コンサートホール Kitara"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.966367,
-          38.632331
+          55.274174,
+          25.197229
         ],
         "type": "Point"
       },
@@ -492,179 +12,19 @@
         "bangumi_id": 9717,
         "bangumi_title": "魔法少女小圆",
         "ep_cut": "OP1",
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t68_1728969755342.jpg",
-        "location": "",
-        "point_id": "kpwkd7t68",
-        "point_name": "Kejyonuma Amusement Park",
-        "remark": "The Movie OP (Oosaki, Miyagi-Pref Japan) 化女沼レジャーランド"
+        "image_url": "https://w.junreimap.com/images/points/9717/iub68ug_1788025204775.webp",
+        "location": "迪拜",
+        "point_id": "iub68ug",
+        "point_name": "Burj Khalifa",
+        "remark": "见泷原市场景中经常出现的高楼，造型一定程度上以现实中的哈利法塔为原型。"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          27.970006,
-          27.060277
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tfb_1734256952254.jpg",
-        "location": "",
-        "point_id": "kpwkd7tfb",
-        "point_name": "Farafra Oasis",
-        "remark": "(Farafra, Egypt)"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.369417,
-          52.525099
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7t75_1734257056997.jpg",
-        "location": "",
-        "point_id": "kpwkd7t75",
-        "point_name": "Berlin Hauptbahnhof",
-        "remark": "The Movie (Berlin, Germany)"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          9.190959,
-          45.464268
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "106ft9ba1m",
-        "point_name": "Milan Cathedral",
-        "remark": "The Movie (Milan, Italy) Duomo di Milano"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -74.044868,
-          40.68985
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "kpwkd7tro",
-        "point_name": "Statue of Liberty",
-        "remark": "The Movie Key Visual"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          103.818886,
-          1.253448
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "kpwkd7th2",
-        "point_name": "Merlion",
-        "remark": "The Movie Key Visual"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          10.503046,
-          43.843147
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "kpwkd7tpw",
-        "point_name": "Church of San Michele in Foro",
-        "remark": "The Movie Key Visual"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.450041,
-          43.935493
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "kpwkd7tq2",
-        "point_name": "La Rocca o Guaita",
-        "remark": "The Movie Key Visual"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.414017,
-          35.697422
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9717,
-        "bangumi_title": "魔法少女小圆",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "kpwkd7t1w",
-        "point_name": "GRANDUO",
-        "remark": "コラボ"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          103.86068,
-          1.286194
+          55.273975,
+          25.19713
         ],
         "type": "Point"
       },
@@ -672,59 +32,459 @@
         "bangumi_id": 9717,
         "bangumi_title": "魔法少女小圆",
         "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/7wj79gkyi-1680441600908.jpg",
-        "location": "",
-        "point_id": "7wj79gkyi",
-        "point_name": "The Helix Bridge",
-        "remark": "Ep 1 (Singapore)"
+        "image_url": "https://w.junreimap.com/images/points/9717/kpwkd7tmy_1788026458344.webp",
+        "location": "迪拜",
+        "point_id": "iv1caxt",
+        "point_name": "Burj Khalifa",
+        "remark": ""
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          121.503092,
-          31.236527
+          121.503078,
+          31.23661
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9717,
         "bangumi_title": "魔法少女小圆",
-        "ep_cut": "Movie 3",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/dxh1pqa9x-1697440811753.jpg",
-        "location": "",
-        "point_id": "dxh1pqa9x",
-        "point_name": "Shanghai World Financial Center",
-        "remark": "Ep 1,10 (Shanghai)"
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubifiy_1788025822316.webp",
+        "location": "上海",
+        "point_id": "iubifiy",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": "见泷原中学的栈桥，原型为位于上海环球中心100层的玻璃栈道观景台，此前曾有一段时间停止开放，目前似乎已重新开放。"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          126.988045,
-          37.551403
+          121.503068,
+          31.236583
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9717,
         "bangumi_title": "魔法少女小圆",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/9717/djnmx6700_1723623528386.jpg",
-        "location": "",
-        "point_id": "djnmx6700",
-        "point_name": "N Seoul Tower",
-        "remark": "The Movie Key Visual"
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubnf02_1788025989226.webp",
+        "location": "上海",
+        "point_id": "iubnf02",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          121.563866,
-          25.033497
+          121.495416,
+          31.241773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubnod0_1788026003348.webp",
+        "location": "上海",
+        "point_id": "iubnod0",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": "栈道远景，曾有人从东方明珠长焦拍摄复刻类似机位：https://xhslink.cn/o/4lH0kEtXkK"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.503025,
+          31.236575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubr5x6_1788026162405.webp",
+        "location": "上海",
+        "point_id": "iubr5x6",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.503058,
+          31.236606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubrdg5_1788026176579.webp",
+        "location": "上海",
+        "point_id": "iubrdg5",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.503059,
+          31.236576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubrkv2_1788026182423.webp",
+        "location": "上海",
+        "point_id": "iubrkv2",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.503043,
+          31.236582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubrpco_1788026190185.webp",
+        "location": "上海",
+        "point_id": "iubrpco",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.503028,
+          31.236556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubs1o0_1788026213039.webp",
+        "location": "上海",
+        "point_id": "iubs1o0",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.50306,
+          31.236592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iubse6o_1788026221415.webp",
+        "location": "上海",
+        "point_id": "iubse6o",
+        "point_name": "上海环球金融中心 100层观景台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.543961,
+          36.14353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuc0h42_1788026609904.webp",
+        "location": "羽生",
+        "point_id": "iuc0h42",
+        "point_name": "イオン​モール​羽生",
+        "remark": "埼玉县羽生市永旺梦乐城，小圆等人放学后逛街剧情中出现的场景之一。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.952533,
+          50.936359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuc6hig_1788027047273.webp",
+        "location": "德国",
+        "point_id": "iuc6hig",
+        "point_name": "Weltstadthaus, Cologne",
+        "remark": "德国科隆的商场，小圆等人放学后逛街剧情中出现的场景之一。动画背景中残留了现实中Peek & Cloppenburg这家服装店的招牌。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.860437,
+          1.288301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuccoic_1788027203104.webp",
+        "location": "新加坡",
+        "point_id": "iuccoic",
+        "point_name": "Helix Bridge, Singapore",
+        "remark": "新加坡的螺旋桥，小圆等人放学后逛街剧情中出现的场景之一。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          31.346577,
+          30.073359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iucj69p_1788027478727.webp",
+        "location": "埃及",
+        "point_id": "iucj69p",
+        "point_name": "Citystars Shopping Mall, Carlo",
+        "remark": "埃及开罗的购物中心，第5话也出现过一次。\nhttps://maps.app.goo.gl/zDBUFXrA11cFFfCAA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.296069,
+          48.857275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iucrjph_1788027909685.webp",
+        "location": "法国",
+        "point_id": "iucrjph",
+        "point_name": "Tour Eiffel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.296042,
+          48.857248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuct7st_1788027941847.webp",
+        "location": "法国",
+        "point_id": "iuct7st",
+        "point_name": "Tour Eiffel",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631642,
+          35.454354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/9717/iudbl9p_1788028811115.webp",
+        "location": "横滨港未来",
+        "point_id": "iudbl9p",
+        "point_name": "横浜みなとみらい",
+        "remark": "从横滨地标大厦（横浜ランドマークタワー）的观景台俯瞰横滨港未来地区，现在已经增加了多栋建筑。\nhttps://maps.app.goo.gl/RS4MYa5Wd9DWFeZg9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701139,
+          35.667258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuv58mb_1788058735421.webp",
+        "location": "代代木体育馆",
+        "point_id": "iuv58mb",
+        "point_name": "代々木体育館",
+        "remark": "代代木体育馆东南角的区域，据说是无法入内的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701281,
+          35.667256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuv45mu_1788058747498.webp",
+        "location": "代代木体育馆",
+        "point_id": "iuv45mu",
+        "point_name": "代々木体育館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701154,
+          35.667213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuv5qa4_1788058756192.webp",
+        "location": "代代木体育馆",
+        "point_id": "iuv5qa4",
+        "point_name": "代々木体育館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413882,
+          35.697622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuw1xfa_1788060297542.webp",
+        "location": "立川",
+        "point_id": "iuw1xfa",
+        "point_name": "グランデュオ立川",
+        "remark": "立川站的商业设施，动画背景右侧出现的柱子已被被改造为棕色。\nhttps://maps.app.goo.gl/ZkD5KMDtJcXetGxe7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.412519,
+          35.700132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuwr8mn_1788061506364.webp",
+        "location": "立川",
+        "point_id": "iuwr8mn",
+        "point_name": "多摩モノレール 立川北駅",
+        "remark": "右边的建筑是位于车站北侧的立川高岛屋。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.965286,
+          35.306877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuwelbe_1788060985343.webp",
+        "location": "御殿场",
+        "point_id": "iuwelbe",
+        "point_name": "御殿場プレミアム・アウトレット",
+        "remark": "御殿场奥特莱斯，动画中出现的拱门处的店铺原型是BEAMS，目前该位置的店铺更换为MAMMUT factory。\nhttps://maps.app.goo.gl/n4tmSFKSP6LNbgfp6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.734215,
+          35.785465
         ],
         "type": "Point"
       },
@@ -732,11 +492,1071 @@
         "bangumi_id": 9717,
         "bangumi_title": "魔法少女小圆",
         "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9717/points/idng6ifzs-1709993725461.jpg",
-        "location": "",
-        "point_id": "idng6ifzs",
-        "point_name": "TAIPEI101",
-        "remark": "Ep 5 (Taipei)The Movie Key Visual"
+        "image_url": "https://w.junreimap.com/images/points/9717/iuwtk6s_1788062148255.webp",
+        "location": "岩渊水門",
+        "point_id": "iuwtk6s",
+        "point_name": "岩淵水門",
+        "remark": "小圆和沙耶香对话的场景。从下游方向拍摄。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.564386,
+          25.033154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuxhq4o_1788062723413.webp",
+        "location": "台北",
+        "point_id": "iuxhq4o",
+        "point_name": "臺北101",
+        "remark": "该画面左下远方的建筑被视为以台北101为原型，不过两者只有大致外形一致，细节、塔顶形状有较大区别。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.754433,
+          51.067899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuxbhv5_1788062588559.webp",
+        "location": "德国",
+        "point_id": "iuxbhv5",
+        "point_name": "Hof der Elemente",
+        "remark": "德国德累斯顿的建筑艺术品Kunsthof passage Dresden的一部分，设计师为Annette Paul, Christoph Roßner, André Tempel。在动画中为佐仓杏子出场场景的原型。附图的细节部分可以对应到现实场景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.680333,
+          50.114153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuzpz8e_1788066911767.webp",
+        "location": "德国",
+        "point_id": "iuzpz8e",
+        "point_name": "Bankenviertel, Frankfurt",
+        "remark": "德国法兰克福的中心商务区，被称作银行区（Bankenviertel）。这个画面是在东边的商场GALERIA Frankfurt an der Hauptwache的观景台拍摄的，似乎要通过餐厅才能进入该观景台。画面中最高的楼是德国商业银行大厦（Commerzbank Tower）。2018年起这片区域开始新建被称作的Four Frankfurt的四座新的大楼，因此远处景色有较大变化。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.058582,
+          36.395076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv0sdkp_1788068323025.webp",
+        "location": "前桥公园",
+        "point_id": "iv0sdkp",
+        "point_name": "前橋公園",
+        "remark": "从中央大桥的人行道上向南拍摄的前桥公园，画面近处是前桥公园的水上ステージゾーン，远处大楼是群马县厅。\nhttps://maps.app.goo.gl/E6u6jwNcRBSKmTZt5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.058984,
+          36.393889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv0zm3p_1788068573832.webp",
+        "location": "前桥公园",
+        "point_id": "iv0zm3p",
+        "point_name": "前橋公園",
+        "remark": "前桥公园内出现这类不规则石板路的地点较少，此为其中之一。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.264068,
+          -25.432087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/9717/iue2r1v_1788030262600.webp",
+        "location": "巴西",
+        "point_id": "iue2r1v",
+        "point_name": "Estação Tubo",
+        "remark": "这种圆筒形公交站（Estação Tubo）为Abrão Assad设计的巴西库里蒂巴的Rede Integrada de Transporte (RIT)系统的公交站，该系统为世界上第一个BRT系统。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.401978,
+          35.62387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/9717/iue8dhf_1788030333098.webp",
+        "location": "八王子",
+        "point_id": "iue8dhf",
+        "point_name": "秋葉台小入口交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.421656,
+          35.633304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/9717/iueajf5_1788030459446.webp",
+        "location": "八王子",
+        "point_id": "iueajf5",
+        "point_name": "多摩モノレール 松が谷駅",
+        "remark": "远处左侧为人行天桥，右侧为多摩单轨松谷站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.415407,
+          35.627392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/9717/iuefxv9_1788030685238.webp",
+        "location": "八王子",
+        "point_id": "iuefxv9",
+        "point_name": "風返歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620655,
+          35.704924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv11pmo_1788068982728.webp",
+        "location": "荻窪",
+        "point_id": "iv11pmo",
+        "point_name": "荻窪プラネッツ",
+        "remark": "杏子呼唤小圆的场景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.620707,
+          35.704897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv195xs_1788068993289.webp",
+        "location": "荻窪",
+        "point_id": "iv195xs",
+        "point_name": "荻窪プラネッツ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.296043,
+          48.873493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv25zs3_1788070568992.webp",
+        "location": "法国",
+        "point_id": "iv25zs3",
+        "point_name": "Arc de Triomphe",
+        "remark": "法国巴黎地标建筑，动画里的这个场景一定程度上以凯旋门为原型，细节之处有较大差异。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74557,
+          35.658514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv5j4lr_1788076194027.webp",
+        "location": "东京塔观景",
+        "point_id": "iv5j4lr",
+        "point_name": "東京タワー",
+        "remark": "第11集这部分的实景背景只在TV版中存在，BD版被全部删除。此为东南方向的台场的「ザ・タワーズ台場イースト」。距离过远，不一定是从东京塔拍的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745554,
+          35.658492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv5kty5_1788076273665.webp",
+        "location": "东京塔观景",
+        "point_id": "iv5kty5",
+        "point_name": "東京タワー",
+        "remark": "此为东南方向的台场的彩虹大桥。距离过远，不一定是从东京塔拍的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745541,
+          35.658475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv5lpz9_1788076311778.webp",
+        "location": "东京塔观景",
+        "point_id": "iv5lpz9",
+        "point_name": "東京タワー",
+        "remark": "此为东南方向的台场的彩虹大桥。距离过远，不一定是从东京塔拍的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745374,
+          35.6585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv59ya8_1788075835490.webp",
+        "location": "东京塔观景",
+        "point_id": "iv59ya8",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向南偏西拍摄：https://maps.app.goo.gl/W98pKG9C2LDwxTsTA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745274,
+          35.658564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv57xap_1788075657815.webp",
+        "location": "东京塔观景",
+        "point_id": "iv57xap",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向西偏南拍摄：https://maps.app.goo.gl/svYMTFXQccBT5sVWA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745284,
+          35.658565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv55htm_1788075615018.webp",
+        "location": "东京塔观景",
+        "point_id": "iv55htm",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向西偏南拍摄：https://maps.app.goo.gl/8ZUXggh9swZoKctn6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74532,
+          35.658663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv49gla_1788074045935.webp",
+        "location": "东京塔观景",
+        "point_id": "iv49gla",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向西北拍摄：https://maps.app.goo.gl/Ks74TfcSknJC4pHx7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745336,
+          35.658682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv47mcv_1788074113539.webp",
+        "location": "东京塔观景",
+        "point_id": "iv47mcv",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向北偏西拍摄：https://maps.app.goo.gl/bM4CYSqy8HFF14xh7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745358,
+          35.658692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv489me_1788074121002.webp",
+        "location": "东京塔观景",
+        "point_id": "iv489me",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向北偏西拍摄：https://maps.app.goo.gl/i3oqbgopscXFgazm8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745604,
+          35.658647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv4dnpb_1788074307408.webp",
+        "location": "东京塔观景",
+        "point_id": "iv4dnpb",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向东北拍摄：https://maps.app.goo.gl/euFFhh3iXVz5pbVT9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745296,
+          35.658617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv4j010_1788074532153.webp",
+        "location": "东京塔观景",
+        "point_id": "iv4j010",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向西偏南拍摄：https://maps.app.goo.gl/3E8aF1zbhPDy7Xa2A"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745291,
+          35.658551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv4lusf_1788074684320.webp",
+        "location": "东京塔观景",
+        "point_id": "iv4lusf",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向西偏南拍摄：https://maps.app.goo.gl/eguL26iYxuSWgXvU6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745548,
+          35.6585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv4pgy1_1788074829722.webp",
+        "location": "东京塔观景",
+        "point_id": "iv4pgy1",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向东南拍摄：https://maps.app.goo.gl/kJFMrHACAaDnoxky5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745588,
+          35.658539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv4rj94_1788074903384.webp",
+        "location": "东京塔观景",
+        "point_id": "iv4rj94",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向东偏南拍摄：https://maps.app.goo.gl/wnVvBy7Qnsj2e8Gd6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745576,
+          35.658669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv4t21l_1788074987530.webp",
+        "location": "东京塔观景",
+        "point_id": "iv4t21l",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向北偏东拍摄：https://maps.app.goo.gl/AUHhtvNjBC2fGbMP7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.745292,
+          35.658604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv3g6tz_1788073470399.webp",
+        "location": "东京塔观景",
+        "point_id": "iv3g6tz",
+        "point_name": "東京タワー",
+        "remark": "自东京塔向西偏北拍摄：https://maps.app.goo.gl/M5FMyRkWvptmtL3L7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773144,
+          35.718058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6rbcv_1788078312846.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6rbcv",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773169,
+          35.718083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6tt5b_1788078355060.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6tt5b",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773177,
+          35.718095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6ty4z_1788078360589.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6ty4z",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773136,
+          35.718048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6u9up_1788078413739.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6u9up",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773192,
+          35.718109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6v77w_1788078421483.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6v77w",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773093,
+          35.718006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6vee0_1788078428546.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6vee0",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773078,
+          35.71799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6vxmq_1788078453430.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6vxmq",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773066,
+          35.718006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6wi0k_1788078481302.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6wi0k",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773106,
+          35.718017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6wqik_1788078492283.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6wqik",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773086,
+          35.717992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6xuri_1788078543078.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6xuri",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773076,
+          35.718001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6y24y_1788078552512.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6y24y",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773076,
+          35.717996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6ycc7_1788078566817.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6ycc7",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77307,
+          35.717982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6yj9l_1788078575033.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6yj9l",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773188,
+          35.718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6z0x6_1788078597755.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6z0x6",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773197,
+          35.718098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv6zxnu_1788078642303.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv6zxnu",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773181,
+          35.718104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv7074c_1788078652182.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv7074c",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773074,
+          35.717999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv70mjr_1788078672864.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv70mjr",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77307,
+          35.718002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv70ud0_1788078682505.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv70ud0",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773101,
+          35.718012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv71kua_1788078721540.webp",
+        "location": "旧东京音乐学校奏乐堂",
+        "point_id": "iv71kua",
+        "point_name": "台東区立旧東京音楽学校奏楽堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.352299,
+          43.044213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv722ju_1788078752420.webp",
+        "location": "札幌",
+        "point_id": "iv722ju",
+        "point_name": "札幌コンサートホール Kitara",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.352269,
+          43.044541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv72moq_1788078767024.webp",
+        "location": "札幌",
+        "point_id": "iv72moq",
+        "point_name": "札幌コンサートホール Kitara",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.352283,
+          43.044449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv734qm_1788078789508.webp",
+        "location": "札幌",
+        "point_id": "iv734qm",
+        "point_name": "札幌コンサートホール Kitara",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.198642,
+          27.280047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv73zk2_1788079030272.webp",
+        "location": "埃及",
+        "point_id": "iv73zk2",
+        "point_name": "White Desert National Park",
+        "remark": "背景出现的蘑菇砂岩是沙漠地区的一种风蚀导致的地貌，其中埃及新河谷省法拉弗拉绿洲的白沙漠国家公园的蘑菇岩较为有名。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.19984,
+          27.281632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv790w8_1788079067056.webp",
+        "location": "埃及",
+        "point_id": "iv790w8",
+        "point_name": "White Desert National Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          28.19933,
+          27.281306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9717,
+        "bangumi_title": "魔法少女小圆",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/9717/iv79crz_1788079082727.webp",
+        "location": "埃及",
+        "point_id": "iv79crz",
+        "point_name": "White Desert National Park",
+        "remark": ""
       },
       "type": "Feature"
     }

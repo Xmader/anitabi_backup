@@ -2599,6 +2599,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.317514,
+          35.853674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 290980,
+        "bangumi_title": "向山进发 Next Summit",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/41658/points/9j2pz3lgz-1712513197854.jpg",
+        "location": "",
+        "point_id": "9j2pz3lgz",
+        "point_name": "夢彩菓すずき",
+        "remark": "作品名稱錯誤（已更正）"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

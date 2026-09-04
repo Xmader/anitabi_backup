@@ -3383,26 +3383,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.894303,
-          35.627156
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 545917,
-        "bangumi_title": "描绘直至生命尽头",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/houkxed-1785518706991.webp",
-        "location": "スパ&ホテル 舞浜ユーラシア",
-        "point_id": "houkxed",
-        "point_name": "スパ&ホテル 舞浜ユーラシア",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.445303,
           34.700345
         ],
@@ -3496,6 +3476,26 @@
         "location": "筆島",
         "point_id": "hufvej0",
         "point_name": "筆島海水浴場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.894303,
+          35.627156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/houkxed-1785518706991.webp",
+        "location": "スパ&ホテル 舞浜ユーラシア",
+        "point_id": "houkxed",
+        "point_name": "スパ&ホテル 舞浜ユーラシア",
         "remark": ""
       },
       "type": "Feature"

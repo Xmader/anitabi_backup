@@ -107,7 +107,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 38,
-      "zoom": 3612
+      "zoom": 3608
     },
     {
       "ep_cut": 11,
@@ -1830,9 +1830,23 @@
       "status_code": 2202,
       "user_id": 8,
       "zoom": 94
+    },
+    {
+      "ep_cut": 3,
+      "id": "9j2pz3lgz",
+      "image_path": "/images/user/0/bangumi/41658/points/9j2pz3lgz-1712513197854.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/41658/points/9j2pz3lgz-1712513197854.jpg",
+      "lat": 35.853674,
+      "lng": 139.317514,
+      "location": "",
+      "name": "夢彩菓すずき",
+      "remark": "作品名稱錯誤（已更正）",
+      "status_code": 0,
+      "user_id": 10,
+      "zoom": 0
     }
   ],
-  "points_count": 130,
+  "points_count": 131,
   "rating": 8.2,
   "region": "饭能市",
   "short_name": "",

@@ -3,6 +3,26 @@
     {
       "geometry": {
         "coordinates": [
+          140.565313,
+          36.313147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72266,
+        "bangumi_title": "少女与战车 剧场版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/iml2wo50x-1710693122884.jpg",
+        "location": "",
+        "point_id": "iml2wo50x",
+        "point_name": "おか亭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           140.589512,
           36.32155
         ],
@@ -203,26 +223,6 @@
     {
       "geometry": {
         "coordinates": [
-          140.565313,
-          36.313147
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 72266,
-        "bangumi_title": "少女与战车 剧场版",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/iml2wo50x-1710693122884.jpg",
-        "location": "",
-        "point_id": "iml2wo50x",
-        "point_name": "おか亭",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           140.569497,
           36.31362
         ],
@@ -257,6 +257,26 @@
         "point_id": "imlfawx3p",
         "point_name": "肴屋",
         "remark": "蔷薇果与克拉拉相撞爆炸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.959194,
+          34.221148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72266,
+        "bangumi_title": "少女与战车 剧场版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/b30pspt-1771137573548.jpg",
+        "location": "",
+        "point_id": "b30pspt",
+        "point_name": "大雁塔",
+        "remark": "剧场版游乐园巷战时一闪而过的大雁塔（乱入"
       },
       "type": "Feature"
     },
@@ -363,8 +383,8 @@
     {
       "geometry": {
         "coordinates": [
-          140.593811,
-          36.333608
+          140.588055,
+          36.31362
         ],
         "type": "Point"
       },
@@ -372,10 +392,10 @@
         "bangumi_id": 72266,
         "bangumi_title": "少女与战车 剧场版",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/nq4tb1q3m-1725076739735.jpg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/agrf3a-1747644845872.jpg",
         "location": "",
-        "point_id": "nq4tb1q3m",
-        "point_name": "アクア​ワールド​大洗​水族館",
+        "point_id": "agrf3a",
+        "point_name": "大洗シーサイドホテル",
         "remark": ""
       },
       "type": "Feature"
@@ -397,6 +417,46 @@
         "point_id": "nq55im91m",
         "point_name": "アクアワールド大洗駐車場",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.593811,
+          36.333608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72266,
+        "bangumi_title": "少女与战车 剧场版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/nq4tb1q3m-1725076739735.jpg",
+        "location": "",
+        "point_id": "nq4tb1q3m",
+        "point_name": "アクア​ワールド​大洗​水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.560424,
+          36.297663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 72266,
+        "bangumi_title": "少女与战车 剧场版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/iw8i56s-1788141672124.webp",
+        "location": "",
+        "point_id": "iw8i56s",
+        "point_name": "大洗 潮騒の湯",
+        "remark": "入內必須泡湯、點餐或至少點一杯飲料"
       },
       "type": "Feature"
     },
@@ -437,46 +497,6 @@
         "point_id": "povskqfxj",
         "point_name": "士幌線タウシュベツ川橋梁",
         "remark": "芬兰琴魔＆追猎者名场面"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.588055,
-          36.31362
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 72266,
-        "bangumi_title": "少女与战车 剧场版",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/agrf3a-1747644845872.jpg",
-        "location": "",
-        "point_id": "agrf3a",
-        "point_name": "大洗シーサイドホテル",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          108.959194,
-          34.221148
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 72266,
-        "bangumi_title": "少女与战车 剧场版",
-        "ep_cut": "剧场版",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/72266/points/b30pspt-1771137573548.jpg",
-        "location": "",
-        "point_id": "b30pspt",
-        "point_name": "大雁塔",
-        "remark": "剧场版游乐园巷战时一闪而过的大雁塔（乱入"
       },
       "type": "Feature"
     }

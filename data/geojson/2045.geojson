@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.579564,
+          35.703057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 2045,
+        "bangumi_title": "麻辣教师GTO",
+        "ep_cut": 41,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/2045/points/ir8fvnk-1787839219353.webp",
+        "location": "",
+        "point_id": "ir8fvnk",
+        "point_name": "吉祥寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

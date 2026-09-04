@@ -23,20 +23,20 @@
     {
       "geometry": {
         "coordinates": [
-          139.06956,
-          35.098608
+          139.076501,
+          35.098076
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9ju6o38-1770610836301.jpg",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/bbj1dsv-1771652169059.jpg",
         "location": "",
-        "point_id": "9ju6o38",
-        "point_name": "水田アパート",
-        "remark": "限速杆以及反光镜，旁边加了防盗窗"
+        "point_id": "bbj1dsv",
+        "point_name": "OPテーマ曲のジャケット背景",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -323,6 +323,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.069602,
+          35.090757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f4dt1nv-1779927153965.jpg",
+        "location": "",
+        "point_id": "f4dt1nv",
+        "point_name": "山田湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.069582,
+          35.098585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9jvx35z-1770610936410.jpg",
+        "location": "",
+        "point_id": "9jvx35z",
+        "point_name": "游客中心路口",
+        "remark": "根据三个房子定位"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.074405,
           35.096406
         ],
@@ -337,6 +377,26 @@
         "point_id": "9jw2fc4",
         "point_name": "热海银座商业街",
         "remark": "右面拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.06956,
+          35.098608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9ju6o38-1770610836301.jpg",
+        "location": "",
+        "point_id": "9ju6o38",
+        "point_name": "水田アパート",
+        "remark": "限速杆以及反光镜，旁边加了防盗窗"
       },
       "type": "Feature"
     },
@@ -363,26 +423,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.076357,
-          35.096099
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9jwnpb1-1770610687328.jpg",
-        "location": "",
-        "point_id": "9jwnpb1",
-        "point_name": "港口",
-        "remark": "就在这路边附近，不够准"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.07607,
           35.096333
         ],
@@ -403,8 +443,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.069582,
-          35.098585
+          139.076357,
+          35.096099
         ],
         "type": "Point"
       },
@@ -412,11 +452,11 @@
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
         "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9jvx35z-1770610936410.jpg",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9jwnpb1-1770610687328.jpg",
         "location": "",
-        "point_id": "9jvx35z",
-        "point_name": "游客中心路口",
-        "remark": "根据三个房子定位"
+        "point_id": "9jwnpb1",
+        "point_name": "港口",
+        "remark": "就在这路边附近，不够准"
       },
       "type": "Feature"
     },
@@ -483,26 +523,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.076053,
-          35.096222
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9jxaj0t-1770610755792.jpg",
-        "location": "",
-        "point_id": "9jxaj0t",
-        "point_name": "厕所",
-        "remark": "鸟都不鸟你（表情包）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.075979,
           35.096342
         ],
@@ -517,6 +537,26 @@
         "point_id": "9jxbjj0",
         "point_name": "厕所对面",
         "remark": "厕所对面拍的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076053,
+          35.096222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/562430/points/9jxaj0t-1770610755792.jpg",
+        "location": "",
+        "point_id": "9jxaj0t",
+        "point_name": "厕所",
+        "remark": "鸟都不鸟你（表情包）"
       },
       "type": "Feature"
     },
@@ -743,6 +783,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.066135,
+          35.098479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3s747-1770477590523.jpg",
+        "location": "",
+        "point_id": "as3s747",
+        "point_name": "车站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.068501,
           35.098941
         ],
@@ -757,6 +817,46 @@
         "point_id": "aeu2obd",
         "point_name": "しゃぶ葉 熱海店",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.067947,
+          35.098985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3mj92-1770477333253.jpg",
+        "location": "",
+        "point_id": "as3mj92",
+        "point_name": "jr桥洞下人行道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.067948,
+          35.098933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3oq8p-1770477427497.jpg",
+        "location": "",
+        "point_id": "as3oq8p",
+        "point_name": "人行道下坡",
+        "remark": "应该是在人行道拍摄，大概50mm"
       },
       "type": "Feature"
     },
@@ -803,6 +903,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.069483,
+          35.098675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3ub30-1770477686280.jpg",
+        "location": "",
+        "point_id": "as3ub30",
+        "point_name": "店前路",
+        "remark": "忘记时间了，前面的都是24mm左右，现在应该50mm"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.07108,
           35.09314
         ],
@@ -817,6 +937,106 @@
         "point_id": "aeui066",
         "point_name": "起雲閣",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078389,
+          35.103425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3yvln-1770477911164.jpg",
+        "location": "",
+        "point_id": "as3yvln",
+        "point_name": "热海站前",
+        "remark": "如果是女主一个人泡我能喝一大碗，一人一瓢，但这是混的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078418,
+          35.103413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as41ew7-1770478024282.jpg",
+        "location": "",
+        "point_id": "as41ew7",
+        "point_name": "热海站前",
+        "remark": "这小表情"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078323,
+          35.103408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as442a8-1770478142447.jpg",
+        "location": "",
+        "point_id": "as442a8",
+        "point_name": "站前",
+        "remark": "这里应该都是24-50mm左右"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078476,
+          35.103481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as43ay3-1770478106508.jpg",
+        "location": "",
+        "point_id": "as43ay3",
+        "point_name": "站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078412,
+          35.103427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as45aa2-1770478208077.jpg",
+        "location": "",
+        "point_id": "as45aa2",
+        "point_name": "站前",
+        "remark": "红了"
       },
       "type": "Feature"
     },
@@ -963,6 +1183,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.070219,
+          35.098113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as5bftn-1770480165275.jpg",
+        "location": "",
+        "point_id": "as5bftn",
+        "point_name": "上宿桥",
+        "remark": "前面标错了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.070217,
+          35.098118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as5cu1p-1770480236090.jpg",
+        "location": "",
+        "point_id": "as5cu1p",
+        "point_name": "翠桥前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.077854,
           35.084776
         ],
@@ -1023,226 +1283,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.067947,
-          35.098985
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3mj92-1770477333253.jpg",
-        "location": "",
-        "point_id": "as3mj92",
-        "point_name": "jr桥洞下人行道",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.067948,
-          35.098933
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3oq8p-1770477427497.jpg",
-        "location": "",
-        "point_id": "as3oq8p",
-        "point_name": "人行道下坡",
-        "remark": "应该是在人行道拍摄，大概50mm"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.066135,
-          35.098479
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3s747-1770477590523.jpg",
-        "location": "",
-        "point_id": "as3s747",
-        "point_name": "车站",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078389,
-          35.103425
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3yvln-1770477911164.jpg",
-        "location": "",
-        "point_id": "as3yvln",
-        "point_name": "热海站前",
-        "remark": "如果是女主一个人泡我能喝一大碗，一人一瓢，但这是混的"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.069483,
-          35.098675
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as3ub30-1770477686280.jpg",
-        "location": "",
-        "point_id": "as3ub30",
-        "point_name": "店前路",
-        "remark": "忘记时间了，前面的都是24mm左右，现在应该50mm"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078418,
-          35.103413
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as41ew7-1770478024282.jpg",
-        "location": "",
-        "point_id": "as41ew7",
-        "point_name": "热海站前",
-        "remark": "这小表情"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078323,
-          35.103408
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as442a8-1770478142447.jpg",
-        "location": "",
-        "point_id": "as442a8",
-        "point_name": "站前",
-        "remark": "这里应该都是24-50mm左右"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078476,
-          35.103481
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as43ay3-1770478106508.jpg",
-        "location": "",
-        "point_id": "as43ay3",
-        "point_name": "站前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078412,
-          35.103427
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as45aa2-1770478208077.jpg",
-        "location": "",
-        "point_id": "as45aa2",
-        "point_name": "站前",
-        "remark": "红了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.070219,
-          35.098113
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as5bftn-1770480165275.jpg",
-        "location": "",
-        "point_id": "as5bftn",
-        "point_name": "上宿桥",
-        "remark": "前面标错了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.070217,
-          35.098118
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/as5cu1p-1770480236090.jpg",
-        "location": "",
-        "point_id": "as5cu1p",
-        "point_name": "翠桥前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.070217,
           35.098121
         ],
@@ -1283,26 +1323,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.072702,
-          35.095879
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/562430/aw4la3u_1772514518720_c16v9.jpg",
-        "location": "",
-        "point_id": "aw4la3u",
-        "point_name": "Jacket门前",
-        "remark": "应该50拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.07276,
           35.095956
         ],
@@ -1323,8 +1343,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.07236,
-          35.096284
+          139.072213,
+          35.096143
         ],
         "type": "Point"
       },
@@ -1332,10 +1352,70 @@
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
         "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/562430/aw4fw6d_1772514532988_c16v9.jpg",
+        "image_url": "https://w.junreimap.com/images/points/562430/aw47gd1_1772514557333_c16v9.jpg",
         "location": "",
-        "point_id": "aw4fw6d",
-        "point_name": "向右拍摄",
+        "point_id": "aw47gd1",
+        "point_name": "市政府前人行道（向左）",
+        "remark": "6:26-7:30的剧情都在这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.072224,
+          35.096174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/562430/aw4984d_1772514554765_c16v9.jpg",
+        "location": "",
+        "point_id": "aw4984d",
+        "point_name": "市政府人行道（向北）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.072218,
+          35.096182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/562430/aw4a3g4_1772514549217_c16v9.jpg",
+        "location": "",
+        "point_id": "aw4a3g4",
+        "point_name": "人行道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.072191,
+          35.096207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/562430/aw4d630_1772514543788_c16v9.jpg",
+        "location": "",
+        "point_id": "aw4d630",
+        "point_name": "人行道",
         "remark": ""
       },
       "type": "Feature"
@@ -1383,26 +1463,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.072191,
-          35.096207
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/562430/aw4d630_1772514543788_c16v9.jpg",
-        "location": "",
-        "point_id": "aw4d630",
-        "point_name": "人行道",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.072176,
           35.096119
         ],
@@ -1423,8 +1483,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.072218,
-          35.096182
+          139.07236,
+          35.096284
         ],
         "type": "Point"
       },
@@ -1432,10 +1492,10 @@
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
         "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/562430/aw4a3g4_1772514549217_c16v9.jpg",
+        "image_url": "https://w.junreimap.com/images/points/562430/aw4fw6d_1772514532988_c16v9.jpg",
         "location": "",
-        "point_id": "aw4a3g4",
-        "point_name": "人行道",
+        "point_id": "aw4fw6d",
+        "point_name": "向右拍摄",
         "remark": ""
       },
       "type": "Feature"
@@ -1463,8 +1523,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.072224,
-          35.096174
+          139.072702,
+          35.095879
         ],
         "type": "Point"
       },
@@ -1472,10 +1532,30 @@
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
         "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/562430/aw4984d_1772514554765_c16v9.jpg",
+        "image_url": "https://w.junreimap.com/images/points/562430/aw4la3u_1772514518720_c16v9.jpg",
         "location": "",
-        "point_id": "aw4984d",
-        "point_name": "市政府人行道（向北）",
+        "point_id": "aw4la3u",
+        "point_name": "Jacket门前",
+        "remark": "应该50拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076625,
+          35.096284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/evc8kuu-1779380845174.jpg",
+        "location": "",
+        "point_id": "evc8kuu",
+        "point_name": "熱海ムーンテラス",
         "remark": ""
       },
       "type": "Feature"
@@ -1483,8 +1563,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.072213,
-          35.096143
+          139.075962,
+          35.096102
         ],
         "type": "Point"
       },
@@ -1492,30 +1572,10 @@
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
         "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/562430/aw47gd1_1772514557333_c16v9.jpg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/evd4l82-1779381990812.jpg",
         "location": "",
-        "point_id": "aw47gd1",
-        "point_name": "市政府前人行道（向左）",
-        "remark": "6:26-7:30的剧情都在这里"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.076501,
-          35.098076
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/bbj1dsv-1771652169059.jpg",
-        "location": "",
-        "point_id": "bbj1dsv",
-        "point_name": "OPテーマ曲のジャケット背景",
+        "point_id": "evd4l82",
+        "point_name": "タイムズカー タイムズ熱海市営第１親水公園 入場口",
         "remark": ""
       },
       "type": "Feature"
@@ -1643,6 +1703,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.071816,
+          35.094696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f44trf1-1779912086994.jpg",
+        "location": "",
+        "point_id": "f44trf1",
+        "point_name": "熱海芸妓見番",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.075473,
           35.101304
         ],
@@ -1717,6 +1797,26 @@
         "point_id": "dbfkv6j",
         "point_name": "東海ひもの",
         "remark": "好颜艺"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.078432,
+          35.102609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f4ddbah-1779926418213.jpg",
+        "location": "",
+        "point_id": "f4ddbah",
+        "point_name": "熱海駅前温泉浴場",
+        "remark": "门前的石灯笼与假山已经不在了"
       },
       "type": "Feature"
     },
@@ -1803,26 +1903,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.16946,
-          35.041858
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbk2pmq-1776007389704.jpg",
-        "location": "",
-        "point_id": "dbk2pmq",
-        "point_name": "民宿青木",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.169631,
           35.042478
         ],
@@ -1883,6 +1963,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.16956,
+          35.042471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbkedzl-1776007921230.jpg",
+        "location": "",
+        "point_id": "dbkedzl",
+        "point_name": "初岛入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.169705,
           35.042587
         ],
@@ -1903,8 +2003,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.16956,
-          35.042471
+          139.16946,
+          35.041858
         ],
         "type": "Point"
       },
@@ -1912,10 +2012,10 @@
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
         "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbkedzl-1776007921230.jpg",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbk2pmq-1776007389704.jpg",
         "location": "",
-        "point_id": "dbkedzl",
-        "point_name": "初岛入口",
+        "point_id": "dbk2pmq",
+        "point_name": "民宿青木",
         "remark": ""
       },
       "type": "Feature"
@@ -1983,26 +2083,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.170364,
-          35.04154
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbkkxz2-1776008230271.jpg",
-        "location": "",
-        "point_id": "dbkkxz2",
-        "point_name": "拐弯",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.170356,
           35.041536
         ],
@@ -2015,6 +2095,26 @@
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbklo8p-1776008263141.jpg",
         "location": "",
         "point_id": "dbklo8p",
+        "point_name": "拐弯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.170364,
+          35.04154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbkkxz2-1776008230271.jpg",
+        "location": "",
+        "point_id": "dbkkxz2",
         "point_name": "拐弯",
         "remark": ""
       },
@@ -2303,6 +2403,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.079054,
+          35.103724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbm5zos-1776010886658.jpg",
+        "location": "",
+        "point_id": "dbm5zos",
+        "point_name": "随机标的",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.083065,
           35.114946
         ],
@@ -2343,26 +2463,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.083738,
-          35.114085
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dblygd3-1776010592405.jpg",
-        "location": "",
-        "point_id": "dblygd3",
-        "point_name": "红绿灯",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.08336,
           35.114755
         ],
@@ -2376,6 +2476,26 @@
         "location": "",
         "point_id": "dblwsz9",
         "point_name": "伊豆山神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.083738,
+          35.114085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dblygd3-1776010592405.jpg",
+        "location": "",
+        "point_id": "dblygd3",
+        "point_name": "红绿灯",
         "remark": ""
       },
       "type": "Feature"
@@ -2463,20 +2583,40 @@
     {
       "geometry": {
         "coordinates": [
-          139.079054,
-          35.103724
+          139.077294,
+          35.102439
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 562430,
         "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbm5zos-1776010886658.jpg",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbmsg0e-1776011932071.jpg",
         "location": "",
-        "point_id": "dbm5zos",
-        "point_name": "随机标的",
+        "point_id": "dbmsg0e",
+        "point_name": "商业街",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071207,
+          35.098242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f43frka-1779909925071.jpg",
+        "location": "",
+        "point_id": "f43frka",
+        "point_name": "日航亭大湯",
+        "remark": "Google地图街景暂未覆盖到店面入口的小路\n親自前往發現早已被拆除，現在被改建成臨時停車場"
       },
       "type": "Feature"
     },
@@ -2543,26 +2683,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.077294,
-          35.102439
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/dbmsg0e-1776011932071.jpg",
-        "location": "",
-        "point_id": "dbmsg0e",
-        "point_name": "商业街",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.069653,
           35.098548
         ],
@@ -2577,126 +2697,6 @@
         "point_id": "dbmtbeb",
         "point_name": "老位置",
         "remark": "最后一张其他的各位自己找"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.076625,
-          35.096284
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/evc8kuu-1779380845174.jpg",
-        "location": "",
-        "point_id": "evc8kuu",
-        "point_name": "熱海ムーンテラス",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.075962,
-          35.096102
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/evd4l82-1779381990812.jpg",
-        "location": "",
-        "point_id": "evd4l82",
-        "point_name": "タイムズカー タイムズ熱海市営第１親水公園 入場口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.071207,
-          35.098242
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f43frka-1779909925071.jpg",
-        "location": "",
-        "point_id": "f43frka",
-        "point_name": "日航亭大湯",
-        "remark": "Google地图街景暂未覆盖到店面入口的小路"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.071816,
-          35.094696
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f44trf1-1779912086994.jpg",
-        "location": "",
-        "point_id": "f44trf1",
-        "point_name": "熱海芸妓見番",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078432,
-          35.102609
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f4ddbah-1779926418213.jpg",
-        "location": "",
-        "point_id": "f4ddbah",
-        "point_name": "熱海駅前温泉浴場",
-        "remark": "门前的石灯笼与假山已经不在了"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.069602,
-          35.090757
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 562430,
-        "bangumi_title": "能帮我弄干净吗？",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/562430/points/f4dt1nv-1779927153965.jpg",
-        "location": "",
-        "point_id": "f4dt1nv",
-        "point_name": "山田湯",
-        "remark": ""
       },
       "type": "Feature"
     }

@@ -625,21 +625,35 @@
       "remark": "",
       "status_code": 2197,
       "user_id": 7,
-      "zoom": 32
+      "zoom": 44
     },
     {
       "ep_cut": 2,
       "id": "iebyfsg",
       "image_path": "/images/user/1099/bangumi/543360/points/iebyfsg-1787059051596.webp",
       "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/iebyfsg-1787059051596.webp",
-      "lat": 36.094959,
-      "lng": 139.111949,
+      "lat": 36.094678,
+      "lng": 139.111303,
       "location": "長瀞駅",
-      "name": "長瀞駅",
+      "name": "荒川ライン下り",
       "remark": "",
       "status_code": 1099,
-      "user_id": 32,
-      "zoom": 62
+      "user_id": 110,
+      "zoom": 134
+    },
+    {
+      "ep_cut": 2,
+      "id": "iec0kxz",
+      "image_path": "/images/user/1099/bangumi/543360/points/iec0kxz-1787059290575.webp",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/543360/points/iec0kxz-1787059290575.webp",
+      "lat": 36.094793,
+      "lng": 139.112729,
+      "location": "長瀞駅",
+      "name": "長瀞駅踏切",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": 27,
+      "zoom": 27
     },
     {
       "ep_cut": 2,
@@ -652,7 +666,7 @@
       "name": "味の老舗 若松",
       "remark": "",
       "status_code": 2197,
-      "user_id": 38,
+      "user_id": 27,
       "zoom": 176
     },
     {
@@ -1198,7 +1212,7 @@
       "name": "縁結びの木",
       "remark": "",
       "status_code": 2157,
-      "user_id": 148,
+      "user_id": 55,
       "zoom": 56
     },
     {
@@ -1212,7 +1226,7 @@
       "name": "结缘纸处",
       "remark": "",
       "status_code": 2157,
-      "user_id": 0,
+      "user_id": 19,
       "zoom": 341
     },
     {
@@ -1226,7 +1240,7 @@
       "name": "结缘处 牡丹",
       "remark": "两个版本都放一下",
       "status_code": 2157,
-      "user_id": 0,
+      "user_id": 55,
       "zoom": 2682
     },
     {
@@ -2711,7 +2725,7 @@
       "remark": "该点位为大福海岸，也有石城、頭城烏石港、竹安等众多说法",
       "status_code": 0,
       "user_id": 2158837,
-      "zoom": 38725
+      "zoom": 38657
     },
     {
       "ep_cut": 9,
@@ -2920,7 +2934,7 @@
       "name": "渋谷サクラステージSAKURAテラス",
       "remark": "在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门\n在3楼露天，雅马哈正门",
       "status_code": 1099,
-      "user_id": 23,
+      "user_id": 34,
       "zoom": 34
     },
     {
@@ -2934,7 +2948,7 @@
       "name": "Yamaha Sound Crossing Shibuya ",
       "remark": "",
       "status_code": 1099,
-      "user_id": 1,
+      "user_id": 5,
       "zoom": 5
     },
     {
@@ -2962,7 +2976,7 @@
       "name": "Yamaha Sound Crossing Shibuya",
       "remark": "",
       "status_code": 0,
-      "user_id": 23,
+      "user_id": 1,
       "zoom": 6
     },
     {
@@ -2976,7 +2990,7 @@
       "name": "Yamaha Sound Crossing Shibuya",
       "remark": "",
       "status_code": 1099,
-      "user_id": 8,
+      "user_id": 5,
       "zoom": 71
     },
     {
@@ -3145,7 +3159,7 @@
       "remark": "",
       "status_code": 1099,
       "user_id": 15,
-      "zoom": 14809
+      "zoom": 10461
     },
     {
       "ep_cut": 12,
@@ -3246,12 +3260,12 @@
       "zoom": 14701
     }
   ],
-  "points_count": 231,
+  "points_count": 232,
   "rating": 7.2,
   "region": "秩父市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/543360_100_76.webp?v=hqfiy",
+    "/images/ptheme/543360_100_76.webp?v=hqsnr",
     [
       "8bulvz",
       "ea3ly5",
@@ -3298,6 +3312,7 @@
       "dzr1n69",
       "dzr3t00",
       "iebyfsg",
+      "iec0kxz",
       "dzr64ju",
       "dlj7zca",
       "dzpmxy0",
@@ -3485,7 +3500,7 @@
       "garmhp9",
       "garxnmk"
     ],
-    1787199034945,
+    1788220294218,
     100,
     76
   ],

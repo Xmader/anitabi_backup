@@ -3,26 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.195975,
-          36.326276
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjqj-1689243861186.jpg",
-        "location": "",
-        "point_id": "5i3hssjqj",
-        "point_name": "伊勢崎線線路付近",
-        "remark": "ＯＰなど色々な話で登場このあたりが東雲研究所ロケハン当時は研究所に一致した建物があったらしい。动画播出后被拆除，现为停车场"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.194245,
           36.323843
         ],
@@ -43,20 +23,20 @@
     {
       "geometry": {
         "coordinates": [
-          139.18265,
-          36.340652
+          139.194589,
+          36.322317
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": 16,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk8m-1689243987412.jpg",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk57-1689244074528.jpg",
         "location": "",
-        "point_id": "5i3hssk8m",
-        "point_name": "伊勢崎商業高校",
-        "remark": "三人组等人就读的高中，在17话21分10秒处直接显示了卫星照片。\n１話、11話、16話、24話"
+        "point_id": "5i3hssk57",
+        "point_name": "「信用金庫前」交差点",
+        "remark": "11話"
       },
       "type": "Feature"
     },
@@ -77,6 +57,66 @@
         "point_id": "5i3hssjlq",
         "point_name": "富士重工業伊勢崎工場の煙突",
         "remark": "１話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.332547,
+          35.6515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/i6vy0il-1786608918405.webp",
+        "location": "八王子",
+        "point_id": "i6vy0il",
+        "point_name": "じゃんけん階段",
+        "remark": "左側別墅已重建，由於是私人住宅區，請文明巡禮"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.793531,
+          34.931541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/i6wb6g3-1786609533065.webp",
+        "location": "宇治",
+        "point_id": "i6wb6g3",
+        "point_name": "宇治市六地蔵駅鉄橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.339602,
+          35.651858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i45ytmvh-1673668469365.jpg",
+        "location": "",
+        "point_id": "5i45ytmvh",
+        "point_name": "舶来茶屋天正庵",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -123,440 +163,40 @@
     {
       "geometry": {
         "coordinates": [
-          139.194589,
-          36.322317
+          139.18382,
+          36.113637
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk57-1689244074528.jpg",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/icptdtu-1786961398304.webp",
         "location": "",
-        "point_id": "5i3hssk57",
-        "point_name": "「信用金庫前」交差点",
-        "remark": "11話"
+        "point_id": "icptdtu",
+        "point_name": "荒川橋梁 (八高線)",
+        "remark": "根據地形猜測，不確定，Google 地圖亦沒辦法確認"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          139.194106,
-          36.325879
+          139.195975,
+          36.326276
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjqj-1689243861186.jpg",
         "location": "",
-        "point_id": "5i3hssjq9",
-        "point_name": "伊勢崎駅バス停",
-        "remark": "11話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.19406,
-          36.325617
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hsskbb",
-        "point_name": "「伊勢崎駅前」交差点西",
-        "remark": "11話　背景が完全に変わっています"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.194243,
-          36.325619
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssjvg",
-        "point_name": "「伊勢崎駅前」交差点東",
-        "remark": "11話真ん中の建物がなくなったが左側の建物が一致"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.197866,
-          36.341756
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjt4-1725707715553.jpg",
-        "location": "",
-        "point_id": "5i3hssjt4",
-        "point_name": "華蔵寺公園遊園地",
-        "remark": "12話入園料は無料。アトラクションは有料。\n巡礼者注意，园区内没有任何相似场景的咪"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.189337,
-          36.327955
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hsskce-1689244109445.jpg",
-        "location": "",
-        "point_id": "5i3hsskce",
-        "point_name": "両毛線高架下",
-        "remark": "２ndOP（14話～）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.199532,
-          36.339481
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjwr-1689244129027.jpg",
-        "location": "",
-        "point_id": "5i3hssjwr",
-        "point_name": "「華蔵寺公園南」交差点",
-        "remark": "２ndOP（14話～）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.183431,
-          36.335147
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjrs-1689244207977.jpg",
-        "location": "",
-        "point_id": "5i3hssjrs",
-        "point_name": "群馬県中部県民局伊勢崎土木事務所",
-        "remark": "２ndOP（14話～）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.189278,
-          36.327845
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssjnf",
-        "point_name": "両毛線高架下",
-        "remark": "２ndOP（14話～）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.189079,
-          36.322242
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssjqt",
-        "point_name": "栄橋",
-        "remark": "14話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.182613,
-          36.340066
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 14,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk0f-1689244268689.jpg",
-        "location": "伊势崎商高",
-        "point_id": "5i3hssk0f",
-        "point_name": "伊勢崎商業高校通学路",
-        "remark": "14話\n祐子的鞋被狗叼走后路过这里"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.197622,
-          36.337713
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 16,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hsskch-1689244388756.jpg",
-        "location": "",
-        "point_id": "5i3hsskch",
-        "point_name": "モスバーガー伊勢崎堤下店",
-        "remark": "16話内装は違う"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.016984,
-          36.345969
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssk1q",
-        "point_name": "高崎問屋町駅（１番線）",
-        "remark": "18話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.017134,
-          36.346118
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjpl-1689244441999.jpg",
-        "location": "",
-        "point_id": "5i3hssjpl",
-        "point_name": "高崎問屋町駅（改札）",
-        "remark": "18話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.016766,
-          36.346286
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssk9t",
-        "point_name": "高崎問屋町駅問屋口",
-        "remark": "18話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.005847,
-          36.32447
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjpi-1689244465573.jpg",
-        "location": "",
-        "point_id": "5i3hssjpi",
-        "point_name": "高崎さやもーる",
-        "remark": "18話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.070403,
-          36.393292
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk0c-1689244484954.jpg",
-        "location": "",
-        "point_id": "5i3hssk0c",
-        "point_name": "前橋中央通り",
-        "remark": "21話\n参考附近店铺"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.069869,
-          36.393744
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssjq3",
-        "point_name": "おいもやさん興伸　前橋店",
-        "remark": "21話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.071156,
-          36.393066
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssjsn",
-        "point_name": "前橋オリオン通り",
-        "remark": "21話完全一致はせず雰囲気のみ"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.264863,
-          36.311589
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssk0r",
-        "point_name": "スーパーおおた",
-        "remark": "21話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.187644,
-          36.324574
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "",
-        "image_url": "",
-        "location": "",
-        "point_id": "5i3hssjvu",
-        "point_name": "広瀬川沿い",
-        "remark": "23話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.328281,
-          35.656366
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 19,
-        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5byp4vchz-1673666917858.jpg",
-        "location": "",
-        "point_id": "5byp4vchz",
-        "point_name": "天満神社",
-        "remark": ""
+        "point_id": "5i3hssjqj",
+        "point_name": "伊勢崎線線路付近",
+        "remark": "ＯＰなど色々な話で登場このあたりが東雲研究所ロケハン当時は研究所に一致した建物があったらしい。动画播出后被拆除，现为停车场"
       },
       "type": "Feature"
     },
@@ -577,226 +217,6 @@
         "point_id": "5i3skeump",
         "point_name": "舶来茶屋天正庵",
         "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.34356,
-          35.652897
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 16,
-        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i3wwtwvf-1673667975192.jpg",
-        "location": "",
-        "point_id": "5i3wwtwvf",
-        "point_name": "尾形商店 前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.339602,
-          35.651858
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i45ytmvh-1673668469365.jpg",
-        "location": "",
-        "point_id": "5i45ytmvh",
-        "point_name": "舶来茶屋天正庵",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.327143,
-          35.65836
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i4jawqrj-1673669524347.jpg",
-        "location": "",
-        "point_id": "5i4jawqrj",
-        "point_name": "小門町ちびっこ公園",
-        "remark": "流水拉面场景"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.327162,
-          35.658387
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 16,
-        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i4w1v3tm-1673670004607.jpg",
-        "location": "",
-        "point_id": "5i4w1v3tm",
-        "point_name": "小門町ちびっこ公園",
-        "remark": "教导主任和孙子玩棒球的地点"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.181093,
-          36.340425
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 17,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/2h2ny2t-1752396371450.jpg",
-        "location": "",
-        "point_id": "2h2ny2t",
-        "point_name": "伊勢崎商業高等學校",
-        "remark": "直接显示了地标的卫星图。文明巡礼，请勿扰民！！！"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.328192,
-          35.656334
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "日常 第19话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58uzlx6-1758430945841.jpg",
-        "location": "",
-        "point_id": "58uzlx6",
-        "point_name": "天満神社",
-        "remark": "对面就是金刚院，神社很小，这个鸟居是标志性建筑物"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.328274,
-          35.656347
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": "日常第十九话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58vos4e-1758431267357.jpg",
-        "location": "",
-        "point_id": "58vos4e",
-        "point_name": "天満神社",
-        "remark": "动画里面寺庙主人看到主角破坏自己的寺庙，气愤的踩到了相生祐子的泥塑，摔倒后画面切换到的空镜，本人怒跑5公里过去实测实地和动画杆子是一模一样的"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.328298,
-          35.656354
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 19,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58vyjls-1758431684153.jpg",
-        "location": "",
-        "point_id": "58vyjls",
-        "point_name": "天満神社",
-        "remark": "这里相生祐子拿着硬币想投入奉纳箱祈求停雨，但是连投硬币都没投进去，本人怒跑5公里过去也试了，也没投进去（因为箱子投币口是盖着的）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.328244,
-          35.65637
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 19,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58w4ijl-1758431956896.jpg",
-        "location": "",
-        "point_id": "58w4ijl",
-        "point_name": "天満神社门前",
-        "remark": "进入神社后向外看去，本人怒跑5公里发现和动画里面一模一样，连树的位置都丝毫不差"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.32828,
-          35.656358
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 19,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58w93fq-1758432217763.jpg",
-        "location": "",
-        "point_id": "58w93fq",
-        "point_name": "天満神社",
-        "remark": "相生祐子在奉纳箱前摇铃后，可能是年久失修铃铛掉下砸出一系列连锁反应，本人怒跑5公里发现铃铛和动画里面也是一模一样的"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.32827,
-          35.656313
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 19,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58weopc-1758432434617.jpg",
-        "location": "",
-        "point_id": "58weopc",
-        "point_name": "天満神社",
-        "remark": "相生祐子抱着塑像告诉没做作业的長野原みお，瞬间2人的心里就“泪如雨下了”，本人怒跑5公里实证这和动画里面是一模一样的，甚至天满神社附近真的有一所学校，当天去还看到不少学生从这门口走过"
       },
       "type": "Feature"
     },
@@ -843,6 +263,266 @@
     {
       "geometry": {
         "coordinates": [
+          139.327143,
+          35.65836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i4jawqrj-1673669524347.jpg",
+        "location": "",
+        "point_id": "5i4jawqrj",
+        "point_name": "小門町ちびっこ公園",
+        "remark": "流水拉面场景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.194106,
+          36.325879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssjq9",
+        "point_name": "伊勢崎駅バス停",
+        "remark": "11話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.19406,
+          36.325617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hsskbb",
+        "point_name": "「伊勢崎駅前」交差点西",
+        "remark": "11話　背景が完全に変わっています"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.194243,
+          36.325619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssjvg",
+        "point_name": "「伊勢崎駅前」交差点東",
+        "remark": "11話真ん中の建物がなくなったが左側の建物が一致"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.197866,
+          36.341756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjt4-1725707715553.jpg",
+        "location": "",
+        "point_id": "5i3hssjt4",
+        "point_name": "華蔵寺公園遊園地",
+        "remark": "12話入園料は無料。アトラクションは有料。\n巡礼者注意，园区内没有任何相似场景的咪"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.187485,
+          36.324783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/ie5hc23-1787048167254.webp",
+        "location": "",
+        "point_id": "ie5hc23",
+        "point_name": "広瀬川沿い",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.182613,
+          36.340066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk0f-1689244268689.jpg",
+        "location": "伊势崎商高",
+        "point_id": "5i3hssk0f",
+        "point_name": "伊勢崎商業高校通学路",
+        "remark": "14話\n祐子的鞋被狗叼走后路过这里"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.342059,
+          35.653006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 14,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/icqfanw-1786962422208.webp",
+        "location": "",
+        "point_id": "icqfanw",
+        "point_name": "望向サザンスカイタワー八王子",
+        "remark": "左側有兩棟房子改建過"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189079,
+          36.322242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 14,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssjqt",
+        "point_name": "栄橋",
+        "remark": "14話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.18265,
+          36.340652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk8m-1689243987412.jpg",
+        "location": "",
+        "point_id": "5i3hssk8m",
+        "point_name": "伊勢崎商業高校",
+        "remark": "三人组等人就读的高中，在17话21分10秒处直接显示了卫星照片。\n１話、11話、16話、24話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.327162,
+          35.658387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i4w1v3tm-1673670004607.jpg",
+        "location": "",
+        "point_id": "5i4w1v3tm",
+        "point_name": "小門町ちびっこ公園",
+        "remark": "教导主任和孙子玩棒球的地点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.343539,
+          35.6529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59iew5y-1758469395586.jpg",
+        "location": "",
+        "point_id": "59iew5y",
+        "point_name": "笹原幸治郎家前",
+        "remark": "动画里面这个是笹原幸治郎家，这现实中确实也是一个比较不错的房子，房子主人应该是很有钱的，因为从外看很漂亮"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.34356,
+          35.652897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5i3wwtwvf-1673667975192.jpg",
+        "location": "",
+        "point_id": "5i3wwtwvf",
+        "point_name": "尾形商店 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.343566,
           35.652899
         ],
@@ -883,26 +563,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.343539,
-          35.6529
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 9912,
-        "bangumi_title": "日常",
-        "ep_cut": 16,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/59iew5y-1758469395586.jpg",
-        "location": "",
-        "point_id": "59iew5y",
-        "point_name": "笹原幸治郎家前",
-        "remark": "动画里面这个是笹原幸治郎家，这现实中确实也是一个比较不错的房子，房子主人应该是很有钱的，因为从外看很漂亮"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.343566,
           35.652897
         ],
@@ -923,40 +583,460 @@
     {
       "geometry": {
         "coordinates": [
-          139.332547,
-          35.6515
+          139.197622,
+          36.337713
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/i6vy0il-1786608918405.webp",
-        "location": "八王子",
-        "point_id": "i6vy0il",
-        "point_name": "じゃんけん階段",
-        "remark": "左側別墅已重建，由於是私人住宅區，請文明巡禮"
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hsskch-1689244388756.jpg",
+        "location": "",
+        "point_id": "5i3hsskch",
+        "point_name": "モスバーガー伊勢崎堤下店",
+        "remark": "16話内装は違う"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          135.793531,
-          34.931541
+          139.181093,
+          36.340425
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 9912,
         "bangumi_title": "日常",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/i6wb6g3-1786609533065.webp",
-        "location": "宇治",
-        "point_id": "i6wb6g3",
-        "point_name": "宇治市六地蔵駅鉄橋",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/2h2ny2t-1752396371450.jpg",
+        "location": "",
+        "point_id": "2h2ny2t",
+        "point_name": "伊勢崎商業高等學校",
+        "remark": "直接显示了地标的卫星图。文明巡礼，请勿扰民！！！"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.017134,
+          36.346118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjpl-1689244441999.jpg",
+        "location": "",
+        "point_id": "5i3hssjpl",
+        "point_name": "高崎問屋町駅（改札）",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.005847,
+          36.32447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjpi-1689244465573.jpg",
+        "location": "",
+        "point_id": "5i3hssjpi",
+        "point_name": "高崎さやもーる",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.016984,
+          36.345969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 18,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssk1q",
+        "point_name": "高崎問屋町駅（１番線）",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.016766,
+          36.346286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 18,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssk9t",
+        "point_name": "高崎問屋町駅問屋口",
+        "remark": "18話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.507829,
+          34.689932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/ifgnhim-1787127400654.webp",
+        "location": "",
+        "point_id": "ifgnhim",
+        "point_name": "イタリアンダイニング ダーク",
+        "remark": "對面人行道與花圃已改建為大樓"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.328192,
+          35.656334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58uzlx6-1758430945841.jpg",
+        "location": "",
+        "point_id": "58uzlx6",
+        "point_name": "天満神社",
+        "remark": "对面就是金刚院，神社很小，这个鸟居是标志性建筑物"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.328244,
+          35.65637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58w4ijl-1758431956896.jpg",
+        "location": "",
+        "point_id": "58w4ijl",
+        "point_name": "天満神社门前",
+        "remark": "进入神社后向外看去，本人怒跑5公里发现和动画里面一模一样，连树的位置都丝毫不差"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.32827,
+          35.656313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58weopc-1758432434617.jpg",
+        "location": "",
+        "point_id": "58weopc",
+        "point_name": "天満神社",
+        "remark": "相生祐子抱着塑像告诉没做作业的長野原みお，瞬间2人的心里就“泪如雨下了”，本人怒跑5公里实证这和动画里面是一模一样的，甚至天满神社附近真的有一所学校，当天去还看到不少学生从这门口走过"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.328298,
+          35.656354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58vyjls-1758431684153.jpg",
+        "location": "",
+        "point_id": "58vyjls",
+        "point_name": "天満神社",
+        "remark": "这里相生祐子拿着硬币想投入奉纳箱祈求停雨，但是连投硬币都没投进去，本人怒跑5公里过去也试了，也没投进去（因为箱子投币口是盖着的）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.328281,
+          35.656366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/1019/bangumi/9912/points/5byp4vchz-1673666917858.jpg",
+        "location": "",
+        "point_id": "5byp4vchz",
+        "point_name": "天満神社",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.32828,
+          35.656358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58w93fq-1758432217763.jpg",
+        "location": "",
+        "point_id": "58w93fq",
+        "point_name": "天満神社",
+        "remark": "相生祐子在奉纳箱前摇铃后，可能是年久失修铃铛掉下砸出一系列连锁反应，本人怒跑5公里发现铃铛和动画里面也是一模一样的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.328274,
+          35.656347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 19,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/58vos4e-1758431267357.jpg",
+        "location": "",
+        "point_id": "58vos4e",
+        "point_name": "天満神社",
+        "remark": "动画里面寺庙主人看到主角破坏自己的寺庙，气愤的踩到了相生祐子的泥塑，摔倒后画面切换到的空镜，本人怒跑5公里过去实测实地和动画杆子是一模一样的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.070403,
+          36.393292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssk0c-1689244484954.jpg",
+        "location": "",
+        "point_id": "5i3hssk0c",
+        "point_name": "前橋中央通り",
+        "remark": "21話\n参考附近店铺"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.069869,
+          36.393744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssjq3",
+        "point_name": "おいもやさん興伸　前橋店",
+        "remark": "21話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071156,
+          36.393066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssjsn",
+        "point_name": "前橋オリオン通り",
+        "remark": "21話完全一致はせず雰囲気のみ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.264863,
+          36.311589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssk0r",
+        "point_name": "スーパーおおた",
+        "remark": "21話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.187644,
+          36.324574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjvu-1787048256631.webp",
+        "location": "",
+        "point_id": "5i3hssjvu",
+        "point_name": "広瀬川沿い",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.199532,
+          36.339481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": "OP2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjwr-1689244129027.jpg",
+        "location": "",
+        "point_id": "5i3hssjwr",
+        "point_name": "「華蔵寺公園南」交差点",
+        "remark": "２ndOP（14話～）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.183431,
+          36.335147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": "OP2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hssjrs-1689244207977.jpg",
+        "location": "",
+        "point_id": "5i3hssjrs",
+        "point_name": "群馬県中部県民局伊勢崎土木事務所",
+        "remark": "２ndOP（14話～）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189337,
+          36.327955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": "OP2",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/9912/points/5i3hsskce-1689244109445.jpg",
+        "location": "",
+        "point_id": "5i3hsskce",
+        "point_name": "両毛線高架下",
+        "remark": "２ndOP（14話～）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.189278,
+          36.327845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 9912,
+        "bangumi_title": "日常",
+        "ep_cut": "OP2",
+        "image_url": "",
+        "location": "",
+        "point_id": "5i3hssjnf",
+        "point_name": "両毛線高架下",
+        "remark": "２ndOP（14話～）"
       },
       "type": "Feature"
     }

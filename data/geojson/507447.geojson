@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.124578,
+          35.859536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 507447,
+        "bangumi_title": "宝宝杀手 Everyday",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "itia9yv",
+        "point_name": "ロケ用ファミレス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.852774,
+          35.702392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 507447,
+        "bangumi_title": "宝宝杀手 Everyday",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "itib3gp",
+        "point_name": "スタジオasadaya",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

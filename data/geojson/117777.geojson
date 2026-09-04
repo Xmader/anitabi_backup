@@ -1323,26 +1323,6 @@
     {
       "geometry": {
         "coordinates": [
-          136.611869,
-          35.390993
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 117777,
-        "bangumi_title": "声之形",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/117777/points/8iiz2wh-1765544879777.jpg",
-        "location": "",
-        "point_id": "8iiz2wh",
-        "point_name": "ヘアーメイクTOMTOM",
-        "remark": "向西南拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           136.611776,
           35.391041
         ],
@@ -1417,6 +1397,26 @@
         "point_id": "8ij2v4g",
         "point_name": "ヘアーメイクTOMTOM",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.611869,
+          35.390993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 117777,
+        "bangumi_title": "声之形",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/117777/points/8iiz2wh-1765544879777.jpg",
+        "location": "",
+        "point_id": "8iiz2wh",
+        "point_name": "ヘアーメイクTOMTOM",
+        "remark": "向西南拍摄"
       },
       "type": "Feature"
     },
