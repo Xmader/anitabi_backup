@@ -2019,6 +2019,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.650159,
+          35.446098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/io1szos-1787646710131.jpg",
+        "location": "",
+        "point_id": "io1szos",
+        "point_name": "氷川丸",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

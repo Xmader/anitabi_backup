@@ -159,6 +159,46 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.48759,
+          35.310977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/ir7n8xp-1787837893874.webp",
+        "location": "",
+        "point_id": "ir7n8xp",
+        "point_name": "江ノ島",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.502087,
+          35.306541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 1608,
+        "bangumi_title": "灌篮高手",
+        "ep_cut": "第4集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/ir7b7zb-1787837424420.webp",
+        "location": "",
+        "point_id": "ir7b7zb",
+        "point_name": "鎌倉高校站前",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

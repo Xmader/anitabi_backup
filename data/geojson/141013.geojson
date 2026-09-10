@@ -39,6 +39,26 @@
         "remark": "阎魔兽赛格古召唤的暗剑迪玛迦的降落地之一"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          6.635247,
+          46.523244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141013,
+        "bangumi_title": "剧场版 艾克斯奥特曼 来了！我们的奥特曼",
+        "ep_cut": "剧场版",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/141013/points/isfh6u2-1787911551764.webp",
+        "location": "",
+        "point_id": "isfh6u2",
+        "point_name": "L’elephant Blanc",
+        "remark": "在瑞士洛桑发现迪玛迦的地方"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

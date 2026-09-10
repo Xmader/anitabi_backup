@@ -211,12 +211,32 @@
       "properties": {
         "bangumi_id": 320871,
         "bangumi_title": "流浪地球2",
-        "ep_cut": "2",
+        "ep_cut": 2,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/320871/points/8at451-1747512261366.jpg",
         "location": "",
         "point_id": "8at451",
         "point_name": "青岛流亭国际机场",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.694389,
+          35.41031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 320871,
+        "bangumi_title": "流浪地球2",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/320871/points/isj4afv-1787917690950.webp",
+        "location": "",
+        "point_id": "isj4afv",
+        "point_name": "山东济宁",
+        "remark": "但图中坐标对应的现实位置在北京市"
       },
       "type": "Feature"
     }

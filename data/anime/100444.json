@@ -22,7 +22,7 @@
       "name": "宮園かをりが黒猫を発見した場所",
       "remark": "桜並木がきれいなシーン（左边已被拆除/(ㄒoㄒ)/~~）",
       "status_code": 1130,
-      "user_id": 286,
+      "user_id": 265,
       "zoom": 52
     },
     {
@@ -30,14 +30,14 @@
       "id": "51i51ymcf",
       "image_path": "/images/user/1130/bangumi/100444/points/51i51ymcf-1720017335431.jpg",
       "image_url": "https://w.junreimap.com/images/user/1130/bangumi/100444/points/51i51ymcf-1720017335431.jpg",
-      "lat": 35.738884,
-      "lng": 139.597306,
+      "lat": 35.7391,
+      "lng": 139.597471,
       "location": "石神井公园",
       "name": "１話（～00:30）宮園かをりが猫を探すシーン",
       "remark": "かをりが自販機の裏を見て黒猫を探しているシーン野球球場横にあります。また黒猫にエサを上げているシーン。\n第1话 宫园薰寻找黑猫的场景",
       "status_code": 1130,
-      "user_id": 12,
-      "zoom": 12
+      "user_id": 36,
+      "zoom": 17
     },
     {
       "ep_cut": 1,
@@ -769,20 +769,6 @@
     },
     {
       "ep_cut": 6,
-      "id": "ubrdk9q66",
-      "image_path": "/images/points/100444/ubrdk9q66_1743698134697.jpg",
-      "image_url": "https://w.junreimap.com/images/points/100444/ubrdk9q66_1743698134697.jpg",
-      "lat": 35.748673,
-      "lng": 139.589641,
-      "location": "泉こぶし公園",
-      "name": "泉こぶし公園",
-      "remark": "",
-      "status_code": 1163,
-      "user_id": 4,
-      "zoom": 5
-    },
-    {
-      "ep_cut": 6,
       "id": "nfclvj4mz",
       "image_path": "/images/user/0/bangumi/100444/points/nfclvj4mz-1724231705354.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/nfclvj4mz-1724231705354.jpg",
@@ -821,7 +807,21 @@
       "remark": "",
       "status_code": 1163,
       "user_id": 4,
-      "zoom": 369
+      "zoom": 5
+    },
+    {
+      "ep_cut": 6,
+      "id": "ubrdk9q66",
+      "image_path": "/images/points/100444/ubrdk9q66_1743698134697.jpg",
+      "image_url": "https://w.junreimap.com/images/points/100444/ubrdk9q66_1743698134697.jpg",
+      "lat": 35.748673,
+      "lng": 139.589641,
+      "location": "泉こぶし公園",
+      "name": "泉こぶし公園",
+      "remark": "",
+      "status_code": 1163,
+      "user_id": 4,
+      "zoom": 365
     },
     {
       "ep_cut": 6,
@@ -1306,7 +1306,7 @@
       "image_url": "https://w.junreimap.com/images/user/2184/bangumi/100444/points/kky38a-1748254968356.jpg",
       "lat": 35.303269,
       "lng": 139.522555,
-      "location": "稲村ヶ崎",
+      "location": "镰仓",
       "name": "稲村ヶ崎",
       "remark": "",
       "status_code": 2184,
@@ -1320,7 +1320,7 @@
       "image_url": "https://w.junreimap.com/images/user/2184/bangumi/100444/points/kkuao5-1748254701956.jpg",
       "lat": 35.309075,
       "lng": 139.534013,
-      "location": "",
+      "location": "镰仓",
       "name": "ローソン\n鎌倉​坂ノ下​店",
       "remark": "买小椿去买冰棒的罗森",
       "status_code": 2184,
@@ -1334,7 +1334,7 @@
       "image_url": "https://w.junreimap.com/images/user/2184/bangumi/100444/points/51i51yooo-1748254094616.jpg",
       "lat": 35.303034,
       "lng": 139.522569,
-      "location": "稲村ヶ崎",
+      "location": "镰仓",
       "name": "稲村ヶ崎",
       "remark": "小时候公生和椿玩的海滩，和椿说清楚要去有音乐科的高中的海滩",
       "status_code": 2184,
@@ -1418,7 +1418,7 @@
       "image_url": "",
       "lat": 35.770281,
       "lng": 139.416032,
-      "location": "",
+      "location": "狭山不动寺",
       "name": "16話　公生が藍里凪を追いかけた寺",
       "remark": "",
       "status_code": 0,
@@ -1460,7 +1460,7 @@
       "image_url": "",
       "lat": 35.800942,
       "lng": 139.716718,
-      "location": "",
+      "location": "川口駅",
       "name": "18話　凪と公生が連弾したコンサートホール",
       "remark": "",
       "status_code": 0,
@@ -1474,7 +1474,7 @@
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/51i51yoru-1753601813631.jpg",
       "lat": 35.77025,
       "lng": 139.415968,
-      "location": "",
+      "location": "狭山不动寺",
       "name": "19話　小さい頃の相座が階段を登ったシーン",
       "remark": "",
       "status_code": 0,
@@ -1508,6 +1508,20 @@
       "status_code": 1163,
       "user_id": 14,
       "zoom": 305
+    },
+    {
+      "ep_cut": 20,
+      "id": "51i51yom3",
+      "image_path": "/images/user/0/bangumi/100444/points/51i51yom3-1730808147368.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/51i51yom3-1730808147368.jpg",
+      "lat": 35.725844,
+      "lng": 139.764234,
+      "location": "千駄木",
+      "name": "駄菓子の木村屋（已永久关闭）",
+      "remark": "20話　公生と椿が帰りに寄った駄菓子屋",
+      "status_code": 0,
+      "user_id": 7923,
+      "zoom": 145
     },
     {
       "ep_cut": 20,
@@ -1581,20 +1595,6 @@
     },
     {
       "ep_cut": 20,
-      "id": "51i51yom3",
-      "image_path": "/images/user/0/bangumi/100444/points/51i51yom3-1730808147368.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/51i51yom3-1730808147368.jpg",
-      "lat": 35.725844,
-      "lng": 139.764234,
-      "location": "",
-      "name": "駄菓子の木村屋（已永久关闭）",
-      "remark": "20話　公生と椿が帰りに寄った駄菓子屋",
-      "status_code": 0,
-      "user_id": 7923,
-      "zoom": 145
-    },
-    {
-      "ep_cut": 20,
       "id": "ubwcw5f3a",
       "image_path": "/images/points/100444/ubwcw5f3a_1743708977695.jpg",
       "image_url": "https://w.junreimap.com/images/points/100444/ubwcw5f3a_1743708977695.jpg",
@@ -1628,7 +1628,7 @@
       "image_url": "https://w.junreimap.com/images/points/100444/ubwjh6ds2_1743709376398.jpg",
       "lat": 35.801816,
       "lng": 139.717124,
-      "location": "",
+      "location": "川口駅",
       "name": "",
       "remark": "",
       "status_code": 1163,
@@ -1767,7 +1767,7 @@
   "region": "练马区",
   "short_name": "四谎",
   "theme_meta": [
-    "/images/ptheme/100444_100_76.webp?v=hpxsa",
+    "/images/ptheme/100444_100_76.webp?v=hr0e2",
     [
       "51i51ymjb",
       "51i51ymcf",
@@ -1893,7 +1893,7 @@
       "nfdw4ozb0",
       "ubos0c58w"
     ],
-    1785819494685,
+    1788821444953,
     100,
     76
   ],

@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.505688,
+          34.65085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 623851,
+        "bangumi_title": "日本三国",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/623851/points/ik6r9gy-1787413348737.webp",
+        "location": "",
+        "point_id": "ik6r9gy",
+        "point_name": "通天閣",
+        "remark": "道顿崛水上观光船的导游专门提了这个"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

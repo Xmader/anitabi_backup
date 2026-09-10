@@ -19,6 +19,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.931886,
+          33.811198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 245665,
+        "bangumi_title": "鬼灭之刃",
+        "ep_cut": "第三集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/245665/points/ivjonc8-1788101596157.jpg",
+        "location": "",
+        "point_id": "ivjonc8",
+        "point_name": "鈴石",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

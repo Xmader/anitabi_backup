@@ -23,7 +23,7 @@
       "remark": "",
       "status_code": 1000,
       "user_id": 438518,
-      "zoom": 2807
+      "zoom": 42
     },
     {
       "ep_cut": 1,
@@ -528,9 +528,23 @@
       "status_code": 0,
       "user_id": 50,
       "zoom": 50
+    },
+    {
+      "ep_cut": "",
+      "id": "il024o8",
+      "image_path": "/images/user/0/bangumi/274/points/il024o8-1787462353701.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/274/points/il024o8-1787462353701.webp",
+      "lat": 34.735693,
+      "lng": 135.566301,
+      "location": "",
+      "name": "守口市站前",
+      "remark": "找了一圈结果就在脚下）出站一楼左拐往前走一点就好了，到整点还会有钟声，很有感觉",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 2829
     }
   ],
-  "points_count": 37,
+  "points_count": 38,
   "rating": 7.8,
   "region": "札幌市",
   "short_name": "",

@@ -134,7 +134,7 @@
       "name": "上海外滩",
       "remark": "",
       "status_code": 1000,
-      "user_id": 1113238,
+      "user_id": 571504,
       "zoom": 139
     },
     {
@@ -152,7 +152,7 @@
       "zoom": 814
     },
     {
-      "ep_cut": "2",
+      "ep_cut": 2,
       "id": "8at451",
       "image_path": "/images/user/0/bangumi/320871/points/8at451-1747512261366.jpg",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/320871/points/8at451-1747512261366.jpg",
@@ -162,16 +162,30 @@
       "name": "青岛流亭国际机场",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 419711,
       "zoom": 22961
+    },
+    {
+      "ep_cut": "",
+      "id": "isj4afv",
+      "image_path": "/images/user/0/bangumi/320871/points/isj4afv-1787917690950.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/320871/points/isj4afv-1787917690950.webp",
+      "lat": 35.41031,
+      "lng": 116.694389,
+      "location": "",
+      "name": "山东济宁",
+      "remark": "但图中坐标对应的现实位置在北京市",
+      "status_code": 0,
+      "user_id": 419711,
+      "zoom": 79476
     }
   ],
-  "points_count": 11,
+  "points_count": 12,
   "rating": 8,
   "region": "海外",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/320871_100_76.webp?v=hbmnb",
+    "/images/ptheme/320871_100_76.webp?v=hr0i2",
     [
       "lr7yrw4vq",
       "lr83c11xm",
@@ -182,9 +196,11 @@
       "o1mcri7we",
       "lr8r7322d",
       "lr8oun1uk",
-      "o1mtbsh78"
+      "o1mtbsh78",
+      "8at451",
+      "isj4afv"
     ],
-    1745762398985,
+    1788830091189,
     100,
     76
   ],

@@ -1004,9 +1004,23 @@
       "status_code": 2128,
       "user_id": 10237,
       "zoom": 31
+    },
+    {
+      "ep_cut": "EP16",
+      "id": "iuyj1xw",
+      "image_path": "/images/user/0/bangumi/495562/points/iuyj1xw-1788064430058.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/495562/points/iuyj1xw-1788064430058.webp",
+      "lat": 35.432623,
+      "lng": 139.399347,
+      "location": "",
+      "name": "EXPASA海老名 (上り)",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 7005
     }
   ],
-  "points_count": 71,
+  "points_count": 72,
   "rating": 7.4,
   "region": "东京都",
   "short_name": "DDDD",

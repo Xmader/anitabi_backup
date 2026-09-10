@@ -272,7 +272,7 @@
       "lng": 139.773027,
       "location": "秋叶原",
       "name": "JR秋葉原駅",
-      "remark": "",
+      "remark": "https://maps.app.goo.gl/ZkzDBoxb6jasY47FA",
       "status_code": 1057,
       "user_id": 5,
       "zoom": 17
@@ -322,8 +322,8 @@
     {
       "ep_cut": 23,
       "id": "i5wubge",
-      "image_path": "/images/points/11536/i5wubge_1786556769783.webp",
-      "image_url": "https://w.junreimap.com/images/points/11536/i5wubge_1786556769783.webp",
+      "image_path": "/images/points/11536/i5wubge_1788593565661.webp",
+      "image_url": "https://w.junreimap.com/images/points/11536/i5wubge_1788593565661.webp",
       "lat": 35.680007,
       "lng": 139.711803,
       "location": "东京体育馆",
@@ -731,7 +731,7 @@
   "region": "東京都",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/11536_100_76.webp?v=hq79n",
+    "/images/ptheme/11536_100_76.webp?v=hqxgk",
     [
       "i50w5xd",
       "i51554s",
@@ -785,7 +785,7 @@
       "i60mqr2",
       "i60otry"
     ],
-    1786556850389,
+    1788593571192,
     100,
     76
   ],

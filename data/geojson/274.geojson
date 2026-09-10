@@ -739,6 +739,26 @@
         "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第17話[2007/5/4 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-4.htm#txt27)by USO9000"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.566301,
+          34.735693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/274/points/il024o8-1787462353701.webp",
+        "location": "",
+        "point_id": "il024o8",
+        "point_name": "守口市站前",
+        "remark": "找了一圈结果就在脚下）出站一楼左拐往前走一点就好了，到整点还会有钟声，很有感觉"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -4903,6 +4903,26 @@
     {
       "geometry": {
         "coordinates": [
+          136.947668,
+          35.140719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/428735/td2hzw03n_1740979602115.jpg",
+        "location": "名古屋",
+        "point_id": "td2hzw03n",
+        "point_name": "若叶睦的豪宅",
+        "remark": "私人住宅，注意文明巡礼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.714861,
           35.720154
         ],
@@ -5383,6 +5403,26 @@
     {
       "geometry": {
         "coordinates": [
+          140.028975,
+          35.651372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "OP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/4t8x4ww-1757486078720.jpg",
+        "location": "幕张",
+        "point_id": "4t8x4ww",
+        "point_name": "幕張メッセ駐車場",
+        "remark": "远处的由字型白楼和原址的花见川第二终末处理厂一致。地面大型探照灯一致。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.717122,
           35.722391
         ],
@@ -5483,6 +5523,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.718051,
+          35.716109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/s5vi6lhqg-1737594721823.jpg",
+        "location": "羽丘周边",
+        "point_id": "s5vi6lhqg",
+        "point_name": "目白台一丁目遊び場",
+        "remark": "ED中出现的公园的秋千，相比雑司が谷みみずく公園，更像是这里，因为地面有草。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.711787,
           35.714578
         ],
@@ -5497,26 +5557,6 @@
         "point_id": "idmkglz03",
         "point_name": "神田川南",
         "remark": "ED中灯所在的位置。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.717003,
-          35.722571
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "ED",
-        "image_url": "https://w.junreimap.com/images/points/428735/idmkglza4_1735406890044.jpg",
-        "location": "南池袋第二公园",
-        "point_id": "idmkglza4",
-        "point_name": "豊島区立南池袋第二公園",
-        "remark": "ED中爱音所在的位置。在公园沙坑内向西北方向的公园入口拍摄。现实中的沙坑确实有这些玩具。"
       },
       "type": "Feature"
     },
@@ -5557,6 +5597,26 @@
         "point_id": "idmkglyty",
         "point_name": "日無坂",
         "remark": "ED中soyo所在的位置，富士见坂的一个旁边的岔路。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.717003,
+          35.722571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "ED",
+        "image_url": "https://w.junreimap.com/images/points/428735/idmkglza4_1735406890044.jpg",
+        "location": "南池袋第二公园",
+        "point_id": "idmkglza4",
+        "point_name": "豊島区立南池袋第二公園",
+        "remark": "ED中爱音所在的位置。在公园沙坑内向西北方向的公园入口拍摄。现实中的沙坑确实有这些玩具。"
       },
       "type": "Feature"
     },
@@ -5903,6 +5963,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.516649,
+          35.303694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "宣传图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gkdxuol-1783071653694.webp",
+        "location": "LIVE/活动场地",
+        "point_id": "gkdxuol",
+        "point_name": "七里ヶ浜海岸",
+        "remark": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」宣传图。栏杆细节略有不同，例如现实中颜色为白色而非宣传图中黑色，并且是直接安装在地面上而不是马路牙上。逗子沿岸有大量类似路段，仅供参考。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.699232,
           35.661983
         ],
@@ -6163,6 +6243,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.702246,
+          35.663242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "名無声",
+        "image_url": "https://w.junreimap.com/images/points/428735/revpo7eoe_1735479353267.jpg",
+        "location": "涩谷",
+        "point_id": "revpo7eoe",
+        "point_name": "宮下第2歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.702138,
           35.66324
         ],
@@ -6196,26 +6296,6 @@
         "location": "涩谷",
         "point_id": "revs7g3sg",
         "point_name": "ガード",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.702246,
-          35.663242
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "名無声",
-        "image_url": "https://w.junreimap.com/images/points/428735/revpo7eoe_1735479353267.jpg",
-        "location": "涩谷",
-        "point_id": "revpo7eoe",
-        "point_name": "宮下第2歩道橋",
         "remark": ""
       },
       "type": "Feature"
@@ -7523,26 +7603,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.716409,
-          35.730213
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "歌いましょう鳴らしましょう",
-        "image_url": "https://w.junreimap.com/images/points/428735/rf1oz76fg_1735492356251.jpg",
-        "location": "RiNG周边",
-        "point_id": "rf1oz76fg",
-        "point_name": "池袋サンシャイン60通り店",
-        "remark": "背景中可以看到池袋サンシャイン60通り店门口的施工围墙的末端。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.716965,
           35.731469
         ],
@@ -7577,6 +7637,26 @@
         "point_id": "rf1be0twl",
         "point_name": "東池袋公園",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.716409,
+          35.730213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "歌いましょう鳴らしましょう",
+        "image_url": "https://w.junreimap.com/images/points/428735/rf1oz76fg_1735492356251.jpg",
+        "location": "RiNG周边",
+        "point_id": "rf1oz76fg",
+        "point_name": "池袋サンシャイン60通り店",
+        "remark": "背景中可以看到池袋サンシャイン60通り店门口的施工围墙的末端。"
       },
       "type": "Feature"
     },
@@ -7883,60 +7963,60 @@
     {
       "geometry": {
         "coordinates": [
-          139.718051,
-          35.716109
+          139.576282,
+          35.264012
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "ED",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/s5vi6lhqg-1737594721823.jpg",
-        "location": "羽丘周边",
-        "point_id": "s5vi6lhqg",
-        "point_name": "目白台一丁目遊び場",
-        "remark": "ED中出现的公园的秋千，相比雑司が谷みみずく公園，更像是这里，因为地面有草。"
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54m5qae-1758174332187.jpg",
+        "location": "一色海岸",
+        "point_id": "54m5qae",
+        "point_name": "一色海岸",
+        "remark": "爱音架起脚架拍摄素希灯三人"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          136.947668,
-          35.140719
+          139.576367,
+          35.264071
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/points/428735/td2hzw03n_1740979602115.jpg",
-        "location": "名古屋",
-        "point_id": "td2hzw03n",
-        "point_name": "若叶睦的豪宅",
-        "remark": "私人住宅，注意文明巡礼"
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57desrm-1758340079518.jpg",
+        "location": "一色海岸",
+        "point_id": "57desrm",
+        "point_name": "一色海岸",
+        "remark": "爱音身后即为潮騷小道"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          140.028975,
-          35.651372
+          139.576086,
+          35.26404
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "OP《壱雫空》取景地",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/4t8x4ww-1757486078720.jpg",
-        "location": "幕张",
-        "point_id": "4t8x4ww",
-        "point_name": "幕張メッセ駐車場",
-        "remark": "远处的由字型白楼和原址的花见川第二终末处理厂一致。地面大型探照灯一致。"
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54myv51-1758174792210.jpg",
+        "location": "一色海岸",
+        "point_id": "54myv51",
+        "point_name": "一色海岸",
+        "remark": "画面左侧可见一色ロイヤルビーチ沙滩俱乐部（夏季限定）"
       },
       "type": "Feature"
     },
@@ -8003,8 +8083,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.576282,
-          35.264012
+          139.567571,
+          35.283813
         ],
         "type": "Point"
       },
@@ -8012,31 +8092,11 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54m5qae-1758174332187.jpg",
-        "location": "一色海岸",
-        "point_id": "54m5qae",
-        "point_name": "一色海岸",
-        "remark": "爱音架起脚架拍摄素希灯三人"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576086,
-          35.26404
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54myv51-1758174792210.jpg",
-        "location": "一色海岸",
-        "point_id": "54myv51",
-        "point_name": "一色海岸",
-        "remark": "画面左侧可见一色ロイヤルビーチ沙滩俱乐部（夏季限定）"
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54sqr54-1758184527639.jpg",
+        "location": "叶山港",
+        "point_id": "54sqr54",
+        "point_name": "葉山港ヤシの木",
+        "remark": "港口入口处三棵棕榈树的中间那棵。站在停车场闸机的位置向西北方向拍摄。灯头发右侧露出的是ヨットサービス的建筑物房檐。"
       },
       "type": "Feature"
     },
@@ -8083,6 +8143,126 @@
     {
       "geometry": {
         "coordinates": [
+          139.579511,
+          35.258524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57au326-1758335779503.jpg",
+        "location": "葉山公園",
+        "point_id": "57au326",
+        "point_name": "バーゴラ（葉山公園）",
+        "remark": "叶山公园凉棚北侧桌子"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579533,
+          35.258519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57azo6s-1758336019598.jpg",
+        "location": "葉山公園",
+        "point_id": "57azo6s",
+        "point_name": "バーゴラ（葉山公園）",
+        "remark": "立希阻挡爱音偷拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579516,
+          35.25851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57b3qi5-1758336286754.jpg",
+        "location": "葉山公園",
+        "point_id": "57b3qi5",
+        "point_name": "バーゴラ（葉山公園）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.576772,
+          35.263628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58z9z1y-1758437306651.jpg",
+        "location": "一色海岸",
+        "point_id": "58z9z1y",
+        "point_name": "一色海岸",
+        "remark": "远处礁石为芝崎海岸对出的礁石"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.576755,
+          35.263466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58zdcpt-1758437415968.jpg",
+        "location": "一色海岸",
+        "point_id": "58zdcpt",
+        "point_name": "一色海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.579589,
+          35.258533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57d847m-1758339777346.jpg",
+        "location": "葉山公園",
+        "point_id": "57d847m",
+        "point_name": "バーゴラ（葉山公園）",
+        "remark": "叶山公园凉棚地板东北角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.566576,
           35.283148
         ],
@@ -8123,6 +8303,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.576546,
+          35.263585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58zsaj8-1758438120774.jpg",
+        "location": "一色海岸",
+        "point_id": "58zsaj8",
+        "point_name": "一色海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.576652,
           35.263589
         ],
@@ -8143,8 +8343,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.568535,
-          35.266098
+          139.575849,
+          35.270277
         ],
         "type": "Point"
       },
@@ -8152,11 +8352,31 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54r8jql-1758181985790.jpg",
-        "location": "芝崎海岸",
-        "point_id": "54r8jql",
-        "point_name": "芝崎海岸",
-        "remark": ""
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58ysmcp-1758436439829.jpg",
+        "location": "紫阳花公园",
+        "point_id": "58ysmcp",
+        "point_name": "あじさい公園",
+        "remark": "根据官网照片比对发现树叶和枝干较为一致，需要进一步确认"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.575926,
+          35.270306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58xzs2u-1758435133649.jpg",
+        "location": "紫阳花公园",
+        "point_id": "58xzs2u",
+        "point_name": "あじさい公園",
+        "remark": "推测拍摄者在标记点向南拍摄，需实地进一步确认"
       },
       "type": "Feature"
     },
@@ -8183,8 +8403,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.568903,
-          35.283805
+          139.568535,
+          35.266098
         ],
         "type": "Point"
       },
@@ -8192,10 +8412,10 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54rxk7g-1758183098394.jpg",
-        "location": "鐙摺児童遊園",
-        "point_id": "54rxk7g",
-        "point_name": "鐙摺児童遊園",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54r8jql-1758181985790.jpg",
+        "location": "芝崎海岸",
+        "point_id": "54r8jql",
+        "point_name": "芝崎海岸",
         "remark": ""
       },
       "type": "Feature"
@@ -8203,8 +8423,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.568854,
-          35.283688
+          139.570313,
+          35.279204
         ],
         "type": "Point"
       },
@@ -8212,31 +8432,11 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54rz5ea-1758183134377.jpg",
-        "location": "鐙摺児童遊園",
-        "point_id": "54rz5ea",
-        "point_name": "鐙摺児童遊園",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.568962,
-          35.283697
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54s0jy6-1758183189213.jpg",
-        "location": "鐙摺児童遊園",
-        "point_id": "54s0jy6",
-        "point_name": "鐙摺児童遊園",
-        "remark": ""
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58xqyas-1758434788503.jpg",
+        "location": "諏訪町下海岸",
+        "point_id": "58xqyas",
+        "point_name": "諏訪町下海岸",
+        "remark": "諏訪町下海岸45R葉山旁民居排水渠"
       },
       "type": "Feature"
     },
@@ -8263,8 +8463,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.576641,
-          35.264283
+          139.576342,
+          35.263878
         ],
         "type": "Point"
       },
@@ -8272,10 +8472,10 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/54rk42j-1758342476314.jpg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58zud6w-1758438205288.jpg",
         "location": "一色海岸",
-        "point_id": "54rk42j",
-        "point_name": "しおさいこみち",
+        "point_id": "58zud6w",
+        "point_name": "一色海岸",
         "remark": ""
       },
       "type": "Feature"
@@ -8283,8 +8483,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.570168,
-          35.284856
+          139.579657,
+          35.262331
         ],
         "type": "Point"
       },
@@ -8292,10 +8492,10 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54rw4qs-1758188761988.jpg",
-        "location": "叶山港",
-        "point_id": "54rw4qs",
-        "point_name": "葉山町",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54t1liy-1758184978005.jpg",
+        "location": "一色海岸",
+        "point_id": "54t1liy",
+        "point_name": "葉山（バス）",
         "remark": ""
       },
       "type": "Feature"
@@ -8323,8 +8523,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.567571,
-          35.283813
+          139.571645,
+          35.275287
         ],
         "type": "Point"
       },
@@ -8332,31 +8532,11 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54sqr54-1758184527639.jpg",
-        "location": "叶山港",
-        "point_id": "54sqr54",
-        "point_name": "葉山港ヤシの木",
-        "remark": "港口入口处三棵棕榈树的中间那棵。站在停车场闸机的位置向西北方向拍摄。灯头发右侧露出的是ヨットサービス的建筑物房檐。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.579657,
-          35.262331
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54t1liy-1758184978005.jpg",
-        "location": "一色海岸",
-        "point_id": "54t1liy",
-        "point_name": "葉山（バス）",
-        "remark": ""
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54tvshw-1758186342533.jpg",
+        "location": "SCAPES THE SUITE",
+        "point_id": "54tvshw",
+        "point_name": "SCAPES THE SUITE",
+        "remark": "SCAPES THE SUITE北侧外墙最东端"
       },
       "type": "Feature"
     },
@@ -8383,8 +8563,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.571645,
-          35.275287
+          139.568854,
+          35.283688
         ],
         "type": "Point"
       },
@@ -8392,11 +8572,31 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54tvshw-1758186342533.jpg",
-        "location": "SCAPES THE SUITE",
-        "point_id": "54tvshw",
-        "point_name": "SCAPES THE SUITE",
-        "remark": "SCAPES THE SUITE北侧外墙最东端"
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54rz5ea-1758183134377.jpg",
+        "location": "鐙摺児童遊園",
+        "point_id": "54rz5ea",
+        "point_name": "鐙摺児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.568903,
+          35.283805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54rxk7g-1758183098394.jpg",
+        "location": "鐙摺児童遊園",
+        "point_id": "54rxk7g",
+        "point_name": "鐙摺児童遊園",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -8423,8 +8623,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.57135,
-          35.271704
+          139.570168,
+          35.284856
         ],
         "type": "Point"
       },
@@ -8432,11 +8632,11 @@
         "bangumi_id": 428735,
         "bangumi_title": "迷途之子！！！！！",
         "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54u7thu-1758186914954.jpg",
-        "location": "三角屋根",
-        "point_id": "54u7thu",
-        "point_name": " 森戸海岸第５ 駐車場 自動販売機",
-        "remark": "在三角屋根停车场正对面"
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54rw4qs-1758188761988.jpg",
+        "location": "叶山港",
+        "point_id": "54rw4qs",
+        "point_name": "葉山町",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -8517,6 +8717,26 @@
         "point_id": "54uwz2d",
         "point_name": "芝崎海岸",
         "remark": "此标点处排水孔相对更密集"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.572835,
+          35.265474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gooyb7d-1783332155117.webp",
+        "location": "一色海岸",
+        "point_id": "gooyb7d",
+        "point_name": "一色海岸北侧石滩",
+        "remark": "对比了小磯の鼻和森戸大明神社附近的类似石滩，还是此处最为相似。有待实地确认。"
       },
       "type": "Feature"
     },
@@ -8663,6 +8883,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.57135,
+          35.271704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54u7thu-1758186914954.jpg",
+        "location": "三角屋根",
+        "point_id": "54u7thu",
+        "point_name": " 森戸海岸第５ 駐車場 自動販売機",
+        "remark": "在三角屋根停车场正对面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.572956,
           35.292048
         ],
@@ -8723,6 +8963,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.568009,
+          35.268001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54xsc6j-1758192899637.jpg",
+        "location": "芝崎海岸",
+        "point_id": "54xsc6j",
+        "point_name": "芝崎海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.565884,
           35.283177
         ],
@@ -8736,6 +8996,66 @@
         "location": "叶山港",
         "point_id": "54xuclp",
         "point_name": "葉山港防波堤赤灯台（葉山港A防波堤灯台）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.573857,
+          35.29001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57i3c4d-1758347981969.jpg",
+        "location": "逗子海岸",
+        "point_id": "57i3c4d",
+        "point_name": "県道134号",
+        "remark": "上午最佳，机位在县道的靠海滩一侧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.568962,
+          35.283697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54s0jy6-1758183189213.jpg",
+        "location": "鐙摺児童遊園",
+        "point_id": "54s0jy6",
+        "point_name": "鐙摺児童遊園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.576641,
+          35.264283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/54rk42j-1758342476314.jpg",
+        "location": "一色海岸",
+        "point_id": "54rk42j",
+        "point_name": "しおさいこみち",
         "remark": ""
       },
       "type": "Feature"
@@ -8763,286 +9083,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.568009,
-          35.268001
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583138/points/54xsc6j-1758192899637.jpg",
-        "location": "芝崎海岸",
-        "point_id": "54xsc6j",
-        "point_name": "芝崎海岸",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.579511,
-          35.258524
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57au326-1758335779503.jpg",
-        "location": "葉山公園",
-        "point_id": "57au326",
-        "point_name": "バーゴラ（葉山公園）",
-        "remark": "叶山公园凉棚北侧桌子"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.573857,
-          35.29001
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57i3c4d-1758347981969.jpg",
-        "location": "逗子海岸",
-        "point_id": "57i3c4d",
-        "point_name": "県道134号",
-        "remark": "上午最佳，机位在县道的靠海滩一侧"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.579533,
-          35.258519
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57azo6s-1758336019598.jpg",
-        "location": "葉山公園",
-        "point_id": "57azo6s",
-        "point_name": "バーゴラ（葉山公園）",
-        "remark": "立希阻挡爱音偷拍"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.579516,
-          35.25851
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57b3qi5-1758336286754.jpg",
-        "location": "葉山公園",
-        "point_id": "57b3qi5",
-        "point_name": "バーゴラ（葉山公園）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.579589,
-          35.258533
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57d847m-1758339777346.jpg",
-        "location": "葉山公園",
-        "point_id": "57d847m",
-        "point_name": "バーゴラ（葉山公園）",
-        "remark": "叶山公园凉棚地板东北角"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576367,
-          35.264071
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/57desrm-1758340079518.jpg",
-        "location": "一色海岸",
-        "point_id": "57desrm",
-        "point_name": "一色海岸",
-        "remark": "爱音身后即为潮騷小道"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576342,
-          35.263878
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58zud6w-1758438205288.jpg",
-        "location": "一色海岸",
-        "point_id": "58zud6w",
-        "point_name": "一色海岸",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.570313,
-          35.279204
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58xqyas-1758434788503.jpg",
-        "location": "諏訪町下海岸",
-        "point_id": "58xqyas",
-        "point_name": "諏訪町下海岸",
-        "remark": "諏訪町下海岸45R葉山旁民居排水渠"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.575926,
-          35.270306
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58xzs2u-1758435133649.jpg",
-        "location": "紫阳花公园",
-        "point_id": "58xzs2u",
-        "point_name": "あじさい公園",
-        "remark": "推测拍摄者在标记点向南拍摄，需实地进一步确认"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.575849,
-          35.270277
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58ysmcp-1758436439829.jpg",
-        "location": "紫阳花公园",
-        "point_id": "58ysmcp",
-        "point_name": "あじさい公園",
-        "remark": "根据官网照片比对发现树叶和枝干较为一致，需要进一步确认"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576772,
-          35.263628
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58z9z1y-1758437306651.jpg",
-        "location": "一色海岸",
-        "point_id": "58z9z1y",
-        "point_name": "一色海岸",
-        "remark": "远处礁石为芝崎海岸对出的礁石"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576755,
-          35.263466
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58zdcpt-1758437415968.jpg",
-        "location": "一色海岸",
-        "point_id": "58zdcpt",
-        "point_name": "一色海岸",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576546,
-          35.263585
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/58zsaj8-1758438120774.jpg",
-        "location": "一色海岸",
-        "point_id": "58zsaj8",
-        "point_name": "一色海岸",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.576365,
           35.260514
         ],
@@ -9063,6 +9103,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.576439,
+          35.26036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gou86bh-1783340836788.webp",
+        "location": "小磯の鼻",
+        "point_id": "gou86bh",
+        "point_name": "小磯の鼻",
+        "remark": "黄昏时站在标记点位置向西拍摄。MV画面中左下角为富士山，如果现地天气够好，理论上可以复刻。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.576384,
           35.260363
         ],
@@ -9077,6 +9137,66 @@
         "point_id": "592dufx",
         "point_name": "小磯の鼻",
         "remark": "实际去的地方与MV里暗示的完全相反"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.57642,
+          35.260322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "エガクミライ",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gouebbu-1783341134975.webp",
+        "location": "小磯の鼻",
+        "point_id": "gouebbu",
+        "point_name": "小磯の鼻",
+        "remark": "黄昏时站在标记点位置向南拍摄。爱音背后为虚化的長者ヶ崎石壁。画面右侧露出的礁石可帮助定位。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.717868,
+          35.716882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "证命赞歌",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gj35o3q-1782993144988.webp",
+        "location": "目白台二丁目路口",
+        "point_id": "gj35o3q",
+        "point_name": "目白台二丁目交叉点",
+        "remark": "黄昏时段站在标记点位置向北拍摄，可根据画面中消防栓标牌定位。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.71378,
+          35.718747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 428735,
+        "bangumi_title": "迷途之子！！！！！",
+        "ep_cut": "证命赞歌",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gj0fr7n-1782988505884.webp",
+        "location": "千登世桥",
+        "point_id": "gj0fr7n",
+        "point_name": "千登世小橋",
+        "remark": "黄昏时段站在千登世小桥南侧向北拍摄。画面最左侧黄色建筑物为SZビル雑司が谷；中部为都电荒川线轨道；远景高楼从左到右分别为Brilla Tower池袋、被挡住一半的Sunshine 60、刚刚建好的グランドシティタワー池袋以及プラウドタワー池袋和最右侧的プラウドタワー東池袋。"
       },
       "type": "Feature"
     },
@@ -9197,126 +9317,6 @@
         "point_id": "gj2d4qu",
         "point_name": "池袋駅東口交差点",
         "remark": "白天站在标记点向东拍摄，画面左侧建筑为ソフマップ池袋店，中间为池袋伊藤ビル，右侧为ヒューリック​池​袋​駅​前​ビル。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.717868,
-          35.716882
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "证命赞歌",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gj35o3q-1782993144988.webp",
-        "location": "目白台二丁目路口",
-        "point_id": "gj35o3q",
-        "point_name": "目白台二丁目交叉点",
-        "remark": "黄昏时段站在标记点位置向北拍摄，可根据画面中消防栓标牌定位。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.71378,
-          35.718747
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "证命赞歌",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gj0fr7n-1782988505884.webp",
-        "location": "千登世桥",
-        "point_id": "gj0fr7n",
-        "point_name": "千登世小橋",
-        "remark": "黄昏时段站在千登世小桥南侧向北拍摄。画面最左侧黄色建筑物为SZビル雑司が谷；中部为都电荒川线轨道；远景高楼从左到右分别为Brilla Tower池袋、被挡住一半的Sunshine 60、刚刚建好的グランドシティタワー池袋以及プラウドタワー池袋和最右侧的プラウドタワー東池袋。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.516649,
-          35.303694
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "宣传图",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gkdxuol-1783071653694.webp",
-        "location": "LIVE/活动场地",
-        "point_id": "gkdxuol",
-        "point_name": "七里ヶ浜海岸",
-        "remark": "MyGO!!!!! 9th LIVE「つなぎ目の向こうに」宣传图。栏杆细节略有不同，例如现实中颜色为白色而非宣传图中黑色，并且是直接安装在地面上而不是马路牙上。逗子沿岸有大量类似路段，仅供参考。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.57642,
-          35.260322
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gouebbu-1783341134975.webp",
-        "location": "小磯の鼻",
-        "point_id": "gouebbu",
-        "point_name": "小磯の鼻",
-        "remark": "黄昏时站在标记点位置向南拍摄。爱音背后为虚化的長者ヶ崎石壁。画面右侧露出的礁石可帮助定位。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.576439,
-          35.26036
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gou86bh-1783340836788.webp",
-        "location": "小磯の鼻",
-        "point_id": "gou86bh",
-        "point_name": "小磯の鼻",
-        "remark": "黄昏时站在标记点位置向西拍摄。MV画面中左下角为富士山，如果现地天气够好，理论上可以复刻。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.572835,
-          35.265474
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 428735,
-        "bangumi_title": "迷途之子！！！！！",
-        "ep_cut": "エガクミライ",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/428735/points/gooyb7d-1783332155117.webp",
-        "location": "一色海岸",
-        "point_id": "gooyb7d",
-        "point_name": "一色海岸北侧石滩",
-        "remark": "对比了小磯の鼻和森戸大明神社附近的类似石滩，还是此处最为相似。有待实地确认。"
       },
       "type": "Feature"
     },

@@ -959,6 +959,26 @@
         "remark": "能登联动"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.758306,
+          36.798978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431741,
+        "bangumi_title": "Link! Like! LoveLive! 莲之空女学院学园偶像俱乐部",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/431741/points/j3c1a75-1788570861268.jpg",
+        "location": "",
+        "point_id": "j3c1a75",
+        "point_name": "宝达志水町 日本石川县",
+        "remark": "蓮ノ空「おいでよ!石川大観光Ⅱ」曲中『のどかでやさしい町がある~』出现的背景"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

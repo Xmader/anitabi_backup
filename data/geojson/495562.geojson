@@ -1419,6 +1419,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.399347,
+          35.432623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495562,
+        "bangumi_title": "DDDD 恶魔的破坏",
+        "ep_cut": "EP16",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/495562/points/iuyj1xw-1788064430058.webp",
+        "location": "",
+        "point_id": "iuyj1xw",
+        "point_name": "EXPASA海老名 (上り)",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

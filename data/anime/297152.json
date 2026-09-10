@@ -4,9 +4,9 @@
   "center_lat": 0,
   "center_lng": 0,
   "center_zoom": 0,
-  "color": "",
-  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/6d/55/297152_MK8wq.jpg",
-  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/6d/55/297152_MK8wq.jpg",
+  "color": "#df781c",
+  "cover_path": "/images/bangumi/297152.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/297152.jpg",
   "icon_path": "",
   "icon_url": "",
   "id": 297152,
@@ -121,7 +121,7 @@
       "remark": "",
       "status_code": 2173,
       "user_id": 653,
-      "zoom": 373
+      "zoom": 357
     },
     {
       "ep_cut": "",

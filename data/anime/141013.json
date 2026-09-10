@@ -4,9 +4,9 @@
   "center_lat": 0,
   "center_lng": 0,
   "center_zoom": 0,
-  "color": "",
-  "cover_path": "http://bgm-api.anitabi.cn/pic/cover/l/71/e8/141013_4cBO4.jpg",
-  "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/71/e8/141013_4cBO4.jpg",
+  "color": "#26b1ee",
+  "cover_path": "/images/bangumi/141013.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/141013.jpg",
   "icon_path": "",
   "icon_url": "",
   "id": 141013,
@@ -22,7 +22,7 @@
       "name": "外滩",
       "remark": "阎魔兽赛格古召唤的暗剑迪玛迦的降落地之一",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 10030058,
       "zoom": 5
     },
     {
@@ -36,15 +36,39 @@
       "name": "هرم خوفو",
       "remark": "阎魔兽赛格古召唤的暗剑迪玛迦的降落地之一",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 3281372,
       "zoom": 28
+    },
+    {
+      "ep_cut": "剧场版",
+      "id": "isfh6u2",
+      "image_path": "/images/user/0/bangumi/141013/points/isfh6u2-1787911551764.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/141013/points/isfh6u2-1787911551764.webp",
+      "lat": 46.523244,
+      "lng": 6.635247,
+      "location": "",
+      "name": "L’elephant Blanc",
+      "remark": "在瑞士洛桑发现迪玛迦的地方",
+      "status_code": 0,
+      "user_id": 3281372,
+      "zoom": 64543
     }
   ],
-  "points_count": 2,
-  "rating": 6.9,
+  "points_count": 3,
+  "rating": 7,
   "region": "",
   "short_name": "",
-  "theme_meta": 0,
+  "theme_meta": [
+    "/images/ptheme/141013_100_76.webp?v=hr0ht",
+    [
+      "r94yarpwn",
+      "r9cfoafj4",
+      "isfh6u2"
+    ],
+    1788829533127,
+    100,
+    76
+  ],
   "title_cn": "剧场版 艾克斯奥特曼 来了！我们的奥特曼",
   "title_en": "",
   "title_jp": "劇場版 ウルトラマンX きたぞ!われらのウルトラマン",

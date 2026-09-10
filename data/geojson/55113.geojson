@@ -1919,6 +1919,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.767877,
+          35.03104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 55113,
+        "bangumi_title": "玉子市场",
+        "ep_cut": "14",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/55113/points/iw6b4d1-1788137973298.webp",
+        "location": "",
+        "point_id": "iw6b4d1",
+        "point_name": "イマーブル大央",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

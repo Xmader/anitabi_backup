@@ -499,6 +499,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.69509,
+          30.818949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 313495,
+        "bangumi_title": "黑神话：悟空",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/313495/isx3qx5_1788830423111_half.webp",
+        "location": "",
+        "point_id": "isx3qx5",
+        "point_name": "金仙寺",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

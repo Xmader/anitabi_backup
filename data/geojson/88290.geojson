@@ -9919,26 +9919,6 @@
         "remark": "所标位置沿着左排房屋向西北拍摄"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.341218,
-          50.075154
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": "第八卷第85页",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/88290/points/h7nb47v-1784478167646.jpg",
-        "location": "",
-        "point_id": "h7nb47v",
-        "point_name": "Nemocnice Motol",
-        "remark": ""
-      },
-      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

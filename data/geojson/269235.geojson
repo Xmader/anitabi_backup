@@ -136,7 +136,7 @@
         "location": "六本木",
         "point_id": "4ui73kr9l",
         "point_name": "東京シティビュー",
-        "remark": "自从23年9月人身事故之后，露天展台目前仍未开放\n目前已開放 但進入須要提前預約"
+        "remark": "自从23年9月人身事故之后，露天展台目前仍未开放\n目前已開放 但進入須要提前預約\n26年9月仍未开放 并没有预约渠道"
       },
       "type": "Feature"
     },
@@ -797,6 +797,46 @@
         "point_id": "hvo42sv",
         "point_name": "東屋（はるか展望台）",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705603,
+          35.695353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/j1x2dfo-1788485593735.webp",
+        "location": "",
+        "point_id": "j1x2dfo",
+        "point_name": "コインロッカー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705988,
+          35.697106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 269235,
+        "bangumi_title": "天气之子",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/j1xf11s-1788485914385.webp",
+        "location": "",
+        "point_id": "j1xf11s",
+        "point_name": "被拦截和开枪的地方",
+        "remark": "往后看可以看到代代木大厦"
       },
       "type": "Feature"
     }

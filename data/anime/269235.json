@@ -104,7 +104,7 @@
       "lng": 139.729146,
       "location": "六本木",
       "name": "東京シティビュー",
-      "remark": "自从23年9月人身事故之后，露天展台目前仍未开放\n目前已開放 但進入須要提前預約",
+      "remark": "自从23年9月人身事故之后，露天展台目前仍未开放\n目前已開放 但進入須要提前預約\n26年9月仍未开放 并没有预约渠道",
       "status_code": 0,
       "user_id": 2253,
       "zoom": 12
@@ -555,7 +555,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": null,
-      "zoom": 67
+      "zoom": 49
     },
     {
       "ep_cut": "1",
@@ -570,9 +570,37 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 3
+    },
+    {
+      "ep_cut": "",
+      "id": "j1x2dfo",
+      "image_path": "/images/user/0/bangumi/269235/points/j1x2dfo-1788485593735.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/j1x2dfo-1788485593735.webp",
+      "lat": 35.695353,
+      "lng": 139.705603,
+      "location": "",
+      "name": "コインロッカー",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 138
+    },
+    {
+      "ep_cut": "",
+      "id": "j1xf11s",
+      "image_path": "/images/user/0/bangumi/269235/points/j1xf11s-1788485914385.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/269235/points/j1xf11s-1788485914385.webp",
+      "lat": 35.697106,
+      "lng": 139.705988,
+      "location": "",
+      "name": "被拦截和开枪的地方",
+      "remark": "往后看可以看到代代木大厦",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 129
     }
   ],
-  "points_count": 40,
+  "points_count": 42,
   "rating": 7.1,
   "region": "東京都",
   "short_name": "",

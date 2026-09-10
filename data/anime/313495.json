@@ -274,7 +274,7 @@
       "name": "报恩寺",
       "remark": "",
       "status_code": 0,
-      "user_id": 306691,
+      "user_id": 219073,
       "zoom": 196869
     },
     {
@@ -360,14 +360,28 @@
       "status_code": 0,
       "user_id": 24619,
       "zoom": 104765
+    },
+    {
+      "ep_cut": "",
+      "id": "isx3qx5",
+      "image_path": "/images/points/313495/isx3qx5_1788830423111_half.webp",
+      "image_url": "https://w.junreimap.com/images/points/313495/isx3qx5_1788830423111_half.webp",
+      "lat": 30.818949,
+      "lng": 105.69509,
+      "location": "",
+      "name": "金仙寺",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 102742,
+      "zoom": 165105
     }
   ],
-  "points_count": 25,
+  "points_count": 26,
   "rating": 7.1,
   "region": "中国",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/313495_100_76.webp?v=hofmy",
+    "/images/ptheme/313495_100_76.webp?v=hr0ic",
     [
       "nihtkghr0",
       "nks7ue3gp",
@@ -393,9 +407,10 @@
       "41f1jhn",
       "9gdm0fs",
       "9ge2oiw",
-      "9ge6g3p"
+      "9ge6g3p",
+      "isx3qx5"
     ],
-    1781608966808,
+    1788830653737,
     100,
     76
   ],

@@ -23,7 +23,7 @@
       "remark": "在美国陆军相模补给总库上方向相模原站方向拍摄。\nhttps://www.google.com/maps/@35.5884427,139.3747684,282a,35y,213.22h,76.26t/data=!3m1!1e3",
       "status_code": 1057,
       "user_id": 1911,
-      "zoom": 1912
+      "zoom": 892
     },
     {
       "ep_cut": 2,
@@ -37,7 +37,7 @@
       "remark": "",
       "status_code": 1093,
       "user_id": 1911,
-      "zoom": 4815
+      "zoom": 2490
     },
     {
       "ep_cut": 6,
@@ -52,9 +52,23 @@
       "status_code": 2173,
       "user_id": 32329,
       "zoom": 183
+    },
+    {
+      "ep_cut": "EP9",
+      "id": "j2q9knt",
+      "image_path": "/images/user/0/bangumi/622206/points/j2q9knt-1788534503802.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/j2q9knt-1788534503802.webp",
+      "lat": 35.592131,
+      "lng": 139.381754,
+      "location": "",
+      "name": "ファッションセンターしまむら 小山町店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 2444
     }
   ],
-  "points_count": 3,
+  "points_count": 4,
   "rating": 6.9,
   "region": "相模原市",
   "short_name": "",

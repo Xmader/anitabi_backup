@@ -1,12 +1,12 @@
 {
   "abbreviation": "ゆめみた",
-  "bgm_id": null,
+  "bgm_id": 2039,
   "center_lat": 35.702174,
   "center_lng": 139.770621,
   "center_zoom": 17.3,
   "color": "#fd798e",
-  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/1c/e4/583729_r6BNq.jpg",
-  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/1c/e4/583729_r6BNq.jpg",
+  "cover_path": "/images/bangumi/583729.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/583729.jpg",
   "icon_path": "",
   "icon_url": "",
   "id": 583729,
@@ -4045,9 +4045,9 @@
     }
   ],
   "points_count": 288,
-  "rating": 6.6,
+  "rating": 5.3,
   "region": "千代田区",
-  "short_name": "梦现大",
+  "short_name": "梦限大",
   "theme_meta": [
     "/images/ptheme/583729_100_76.webp?v=hpssl",
     [

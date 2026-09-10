@@ -203,6 +203,66 @@
     {
       "geometry": {
         "coordinates": [
+          139.647081,
+          35.647658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/141799/shhkhtkp2_1738508468249.jpg",
+        "location": "",
+        "point_id": "shhkhtkp2",
+        "point_name": "豪徳寺",
+        "remark": "10巻"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.392,
+          40.582776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsimsmj-1785740004813.webp",
+        "location": "",
+        "point_id": "hsimsmj",
+        "point_name": "紙漉澤橋（かみすきさわばし）",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461328,
+          40.603578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsilamf-1785739943500.webp",
+        "location": "",
+        "point_id": "hsilamf",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           140.435722,
           40.593637
         ],
@@ -463,686 +523,6 @@
     {
       "geometry": {
         "coordinates": [
-          140.417333,
-          40.588305
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzqj-1785738965615.webp",
-        "location": "",
-        "point_id": "3ia3gzqj",
-        "point_name": "神明宮",
-        "remark": "OP・第三話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461417,
-          40.60358
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/141799/3ia3gzmk.jpg",
-        "location": "",
-        "point_id": "3ia3gzmk",
-        "point_name": "藤田記念庭園・大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.441762,
-          40.588818
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzx8-1785738969429.webp",
-        "location": "",
-        "point_id": "3ia3gzx8",
-        "point_name": "りんご公園",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.340675,
-          40.621852
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gztl-1785739000115.webp",
-        "location": "",
-        "point_id": "3ia3gztl",
-        "point_name": "岩木山神社",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.464271,
-          40.607103
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gz5w-1785739002850.webp",
-        "location": "",
-        "point_id": "3ia3gz5w",
-        "point_name": "弘前城（下乗橋より）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.466707,
-          40.603867
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzh9-1785739009846.webp",
-        "location": "",
-        "point_id": "3ia3gzh9",
-        "point_name": "弘前城植物園",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.468659,
-          40.596375
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gz7a-1785739038319.webp",
-        "location": "",
-        "point_id": "3ia3gz7a",
-        "point_name": "最勝院",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.425551,
-          40.590989
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0ov-1785739042106.webp",
-        "location": "",
-        "point_id": "3ia3h0ov",
-        "point_name": "青柳小学校付近",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.417199,
-          40.58448
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0lc-1785739045422.webp",
-        "location": "",
-        "point_id": "3ia3h0lc",
-        "point_name": "下湯口奥三叉路",
-        "remark": "第二・七話"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.417467,
-          40.58705
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h08z-1785739078487.webp",
-        "location": "",
-        "point_id": "3ia3h08z",
-        "point_name": "神明宮付近（チトが歩く道路）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.417097,
-          40.58728
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h089-1785739081431.webp",
-        "location": "",
-        "point_id": "3ia3h089",
-        "point_name": "神明宮付近（人面の木戸）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.418392,
-          40.587561
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h02b-1785739086118.webp",
-        "location": "",
-        "point_id": "3ia3h02b",
-        "point_name": "下湯口バス停付近（犬を飼われていたところ）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.454959,
-          40.594908
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "",
-        "location": "",
-        "point_id": "3ia3h0cj",
-        "point_name": "寺沢川茂森新町緑地",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.420323,
-          40.58801
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h02k-1785739851418.webp",
-        "location": "",
-        "point_id": "3ia3h02k",
-        "point_name": "下湯口農業研修会館",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.41476,
-          40.58881
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzzx-1785739498550.webp",
-        "location": "",
-        "point_id": "3ia3gzzx",
-        "point_name": "とちない橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.39014,
-          40.583231
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0c9-1785739501626.webp",
-        "location": "",
-        "point_id": "3ia3h0c9",
-        "point_name": "紙漉澤排水処理施設前の東屋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.420978,
-          40.58745
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 5,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0iw-1785739504814.webp",
-        "location": "",
-        "point_id": "3ia3h0iw",
-        "point_name": "下湯口三叉路（酒の届け先）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.391472,
-          40.58128
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h07o-1785739532160.webp",
-        "location": "",
-        "point_id": "3ia3h07o",
-        "point_name": "弘前市立相馬中学校",
-        "remark": "图中建筑为相馬こども園，在河对岸"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.278115,
-          40.581725
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0bd-1785739536460.webp",
-        "location": "",
-        "point_id": "3ia3h0bd",
-        "point_name": "西目屋村下大秋入口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.426254,
-          40.595705
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0m7-1785739539207.webp",
-        "location": "",
-        "point_id": "3ia3h0m7",
-        "point_name": "１２９号線悪戸付近",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.47273,
-          40.598246
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h00h-1785739855209.webp",
-        "location": "",
-        "point_id": "3ia3h00h",
-        "point_name": "吉井酒造煉瓦倉庫",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.471499,
-          40.598554
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h005-1785739864167.webp",
-        "location": "",
-        "point_id": "3ia3h005",
-        "point_name": "たそがれ橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.472272,
-          40.603708
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzy9-1785739893103.webp",
-        "location": "",
-        "point_id": "3ia3gzy9",
-        "point_name": "しまや",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.649545,
-          35.445891
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h08t-1785739896357.webp",
-        "location": "",
-        "point_id": "3ia3h08t",
-        "point_name": "横浜市・山下公園",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.647081,
-          35.647658
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/141799/shhkhtkp2_1738508468249.jpg",
-        "location": "",
-        "point_id": "shhkhtkp2",
-        "point_name": "豪徳寺",
-        "remark": "10巻"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461328,
-          40.603578
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsilamf-1785739943500.webp",
-        "location": "",
-        "point_id": "hsilamf",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.392,
-          40.582776
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsimsmj-1785740004813.webp",
-        "location": "",
-        "point_id": "hsimsmj",
-        "point_name": "紙漉澤橋（かみすきさわばし）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461392,
-          40.60344
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsivuqg-1785740444509.webp",
-        "location": "",
-        "point_id": "hsivuqg",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461436,
-          40.603421
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsiwy3i-1785740482842.webp",
-        "location": "",
-        "point_id": "hsiwy3i",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461417,
-          40.603547
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsix4ki-1785740500257.webp",
-        "location": "",
-        "point_id": "hsix4ki",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461436,
-          40.603628
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsixz5l-1785740547553.webp",
-        "location": "",
-        "point_id": "hsixz5l",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461378,
-          40.603616
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsiy3bl-1785740572303.webp",
-        "location": "",
-        "point_id": "hsiy3bl",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461325,
-          40.603602
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsizi9z-1785740634320.webp",
-        "location": "",
-        "point_id": "hsizi9z",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.461314,
-          40.603563
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsizrea-1785740638262.webp",
-        "location": "",
-        "point_id": "hsizrea",
-        "point_name": "大正浪漫喫茶室",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           140.485451,
           40.599133
         ],
@@ -1303,8 +683,8 @@
     {
       "geometry": {
         "coordinates": [
-          140.443885,
-          40.602881
+          140.443779,
+          40.602533
         ],
         "type": "Point"
       },
@@ -1343,19 +723,19 @@
     {
       "geometry": {
         "coordinates": [
-          140.417333,
-          40.587549
+          140.441762,
+          40.588818
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 141799,
         "bangumi_title": "飞翔的魔女",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hskdu40-1785742972033.webp",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzx8-1785738969429.webp",
         "location": "",
-        "point_id": "hskdu40",
-        "point_name": "神明宮",
+        "point_id": "3ia3gzx8",
+        "point_name": "りんご公園",
         "remark": ""
       },
       "type": "Feature"
@@ -1363,19 +743,119 @@
     {
       "geometry": {
         "coordinates": [
-          140.426344,
-          40.595674
+          140.340675,
+          40.621852
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 141799,
         "bangumi_title": "飞翔的魔女",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hskpie1-1785743491654.webp",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gztl-1785739000115.webp",
         "location": "",
-        "point_id": "hskpie1",
-        "point_name": "１２９号線悪戸付近",
+        "point_id": "3ia3gztl",
+        "point_name": "岩木山神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.464271,
+          40.607103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gz5w-1785739002850.webp",
+        "location": "",
+        "point_id": "3ia3gz5w",
+        "point_name": "弘前城（下乗橋より）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.466707,
+          40.603867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzh9-1785739009846.webp",
+        "location": "",
+        "point_id": "3ia3gzh9",
+        "point_name": "弘前城植物園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.468659,
+          40.596375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gz7a-1785739038319.webp",
+        "location": "",
+        "point_id": "3ia3gz7a",
+        "point_name": "最勝院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.424656,
+          40.59009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0ov-1785739042106.webp",
+        "location": "",
+        "point_id": "3ia3h0ov",
+        "point_name": "青柳小学校付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649545,
+          35.445891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h08t-1785739896357.webp",
+        "location": "",
+        "point_id": "3ia3h08t",
+        "point_name": "横浜市・山下公園",
         "remark": ""
       },
       "type": "Feature"
@@ -1403,26 +883,6 @@
     {
       "geometry": {
         "coordinates": [
-          140.463118,
-          40.610048
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hskway1-1785743810246.webp",
-        "location": "",
-        "point_id": "hskway1",
-        "point_name": "春陽橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           140.424856,
           40.590275
         ],
@@ -1436,6 +896,26 @@
         "location": "",
         "point_id": "hslc23p",
         "point_name": "青柳バス停付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.463118,
+          40.610048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hskway1-1785743810246.webp",
+        "location": "",
+        "point_id": "hskway1",
+        "point_name": "春陽橋",
         "remark": ""
       },
       "type": "Feature"
@@ -1463,6 +943,46 @@
     {
       "geometry": {
         "coordinates": [
+          140.417333,
+          40.588305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzqj-1785738965615.webp",
+        "location": "",
+        "point_id": "3ia3gzqj",
+        "point_name": "神明宮",
+        "remark": "OP・第三話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.417333,
+          40.587549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hskdu40-1785742972033.webp",
+        "location": "",
+        "point_id": "hskdu40",
+        "point_name": "神明宮",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           140.464594,
           40.603355
         ],
@@ -1475,26 +995,6 @@
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsnh1o9-1785748188605.webp",
         "location": "",
         "point_id": "hsnh1o9",
-        "point_name": "弘前城追手門前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.464704,
-          40.603546
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsnioqv-1785748216658.webp",
-        "location": "",
-        "point_id": "hsnioqv",
         "point_name": "弘前城追手門前",
         "remark": ""
       },
@@ -1523,26 +1023,6 @@
     {
       "geometry": {
         "coordinates": [
-          140.464139,
-          40.604347
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsny4af-1785748937520.webp",
-        "location": "",
-        "point_id": "hsny4af",
-        "point_name": "弘前城内（追手門付近）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           140.464097,
           40.606598
         ],
@@ -1556,26 +1036,6 @@
         "location": "",
         "point_id": "hso2l2x",
         "point_name": "弘前城内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.464302,
-          40.607097
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso3ci2-1785749199452.webp",
-        "location": "",
-        "point_id": "hso3ci2",
-        "point_name": "下乗橋",
         "remark": ""
       },
       "type": "Feature"
@@ -1603,26 +1063,6 @@
     {
       "geometry": {
         "coordinates": [
-          140.466638,
-          40.611038
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso4qlv-1785749240440.webp",
-        "location": "",
-        "point_id": "hso4qlv",
-        "point_name": "弘前城内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           140.463567,
           40.610087
         ],
@@ -1635,26 +1075,6 @@
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso5mbc-1785749301970.webp",
         "location": "",
         "point_id": "hso5mbc",
-        "point_name": "弘前城内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.463603,
-          40.610591
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso6gy7-1785749367153.webp",
-        "location": "",
-        "point_id": "hso6gy7",
         "point_name": "弘前城内",
         "remark": ""
       },
@@ -1683,26 +1103,6 @@
     {
       "geometry": {
         "coordinates": [
-          140.463605,
-          40.610622
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso786d-1785749390064.webp",
-        "location": "",
-        "point_id": "hso786d",
-        "point_name": "弘前城内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           140.463528,
           40.610579
         ],
@@ -1715,26 +1115,6 @@
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso7fqu-1785749396610.webp",
         "location": "",
         "point_id": "hso7fqu",
-        "point_name": "弘前城内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.463513,
-          40.610508
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 141799,
-        "bangumi_title": "飞翔的魔女",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso7ju8-1785749402939.webp",
-        "location": "",
-        "point_id": "hso7ju8",
         "point_name": "弘前城内",
         "remark": ""
       },
@@ -1763,6 +1143,566 @@
     {
       "geometry": {
         "coordinates": [
+          140.464704,
+          40.603546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsnioqv-1785748216658.webp",
+        "location": "",
+        "point_id": "hsnioqv",
+        "point_name": "弘前城追手門前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.464139,
+          40.604347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsny4af-1785748937520.webp",
+        "location": "",
+        "point_id": "hsny4af",
+        "point_name": "弘前城内（追手門付近）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.464302,
+          40.607097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso3ci2-1785749199452.webp",
+        "location": "",
+        "point_id": "hso3ci2",
+        "point_name": "下乗橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.464962,
+          40.610417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso4qlv-1785749240440.webp",
+        "location": "",
+        "point_id": "hso4qlv",
+        "point_name": "弘前城内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.463603,
+          40.610591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso6gy7-1785749367153.webp",
+        "location": "",
+        "point_id": "hso6gy7",
+        "point_name": "弘前城内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.463605,
+          40.610622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso786d-1785749390064.webp",
+        "location": "",
+        "point_id": "hso786d",
+        "point_name": "弘前城内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.463513,
+          40.610508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hso7ju8-1785749402939.webp",
+        "location": "",
+        "point_id": "hso7ju8",
+        "point_name": "弘前城内",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.417467,
+          40.58705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h08z-1785739078487.webp",
+        "location": "",
+        "point_id": "3ia3h08z",
+        "point_name": "神明宮付近（チトが歩く道路）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.417097,
+          40.58728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h089-1785739081431.webp",
+        "location": "",
+        "point_id": "3ia3h089",
+        "point_name": "神明宮付近（人面の木戸）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.418392,
+          40.587561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h02b-1785739086118.webp",
+        "location": "",
+        "point_id": "3ia3h02b",
+        "point_name": "下湯口バス停付近（犬を飼われていたところ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.454959,
+          40.594908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "3ia3h0cj",
+        "point_name": "寺沢川茂森新町緑地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.420323,
+          40.58801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h02k-1785739851418.webp",
+        "location": "",
+        "point_id": "3ia3h02k",
+        "point_name": "下湯口農業研修会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.41476,
+          40.58881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzzx-1785739498550.webp",
+        "location": "",
+        "point_id": "3ia3gzzx",
+        "point_name": "とちない橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.39014,
+          40.583231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0c9-1785739501626.webp",
+        "location": "",
+        "point_id": "3ia3h0c9",
+        "point_name": "紙漉澤排水処理施設前の東屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.421467,
+          40.587905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0iw-1785739504814.webp",
+        "location": "",
+        "point_id": "3ia3h0iw",
+        "point_name": "下湯口三叉路（酒の届け先）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461417,
+          40.60358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/141799/3ia3gzmk.jpg",
+        "location": "",
+        "point_id": "3ia3gzmk",
+        "point_name": "藤田記念庭園・大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.417199,
+          40.58448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0lc-1785739045422.webp",
+        "location": "",
+        "point_id": "3ia3h0lc",
+        "point_name": "下湯口奥三叉路",
+        "remark": "第二・七話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.391472,
+          40.58128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h07o-1785739532160.webp",
+        "location": "",
+        "point_id": "3ia3h07o",
+        "point_name": "弘前市立相馬中学校",
+        "remark": "图中建筑为相馬こども園，在河对岸"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.278115,
+          40.581725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0bd-1785739536460.webp",
+        "location": "",
+        "point_id": "3ia3h0bd",
+        "point_name": "西目屋村下大秋入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461392,
+          40.60344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsivuqg-1785740444509.webp",
+        "location": "",
+        "point_id": "hsivuqg",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461436,
+          40.603421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsiwy3i-1785740482842.webp",
+        "location": "",
+        "point_id": "hsiwy3i",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461436,
+          40.603628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsixz5l-1785740547553.webp",
+        "location": "",
+        "point_id": "hsixz5l",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461325,
+          40.603602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsizi9z-1785740634320.webp",
+        "location": "",
+        "point_id": "hsizi9z",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461417,
+          40.603547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsix4ki-1785740500257.webp",
+        "location": "",
+        "point_id": "hsix4ki",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461378,
+          40.603616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsiy3bl-1785740572303.webp",
+        "location": "",
+        "point_id": "hsiy3bl",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.461314,
+          40.603563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsizrea-1785740638262.webp",
+        "location": "",
+        "point_id": "hsizrea",
+        "point_name": "大正浪漫喫茶室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.426254,
+          40.595705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h0m7-1785739539207.webp",
+        "location": "",
+        "point_id": "3ia3h0m7",
+        "point_name": "１２９号線悪戸付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.426344,
+          40.595674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hskpie1-1785743491654.webp",
+        "location": "",
+        "point_id": "hskpie1",
+        "point_name": "１２９号線悪戸付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           140.46776,
           40.603624
         ],
@@ -1771,7 +1711,7 @@
       "properties": {
         "bangumi_id": 141799,
         "bangumi_title": "飞翔的魔女",
-        "ep_cut": "",
+        "ep_cut": 12,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsop2wd-1785750218964.webp",
         "location": "",
         "point_id": "hsop2wd",
@@ -1791,7 +1731,7 @@
       "properties": {
         "bangumi_id": 141799,
         "bangumi_title": "飞翔的魔女",
-        "ep_cut": "",
+        "ep_cut": 12,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsowndd-1785750572235.webp",
         "location": "",
         "point_id": "hsowndd",
@@ -1811,12 +1751,72 @@
       "properties": {
         "bangumi_id": 141799,
         "bangumi_title": "飞翔的魔女",
-        "ep_cut": "",
+        "ep_cut": 12,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/hsozonf-1785750708507.webp",
         "location": "",
         "point_id": "hsozonf",
         "point_name": "弘前ねぷたまつり",
         "remark": "错过弘前睡魔祭可在此处参观睡魔祭花车"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.47273,
+          40.598246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h00h-1785739855209.webp",
+        "location": "",
+        "point_id": "3ia3h00h",
+        "point_name": "吉井酒造煉瓦倉庫",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.472272,
+          40.603708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3gzy9-1785739893103.webp",
+        "location": "",
+        "point_id": "3ia3gzy9",
+        "point_name": "しまや",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.471499,
+          40.598554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 141799,
+        "bangumi_title": "飞翔的魔女",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/141799/points/3ia3h005-1785739864167.webp",
+        "location": "",
+        "point_id": "3ia3h005",
+        "point_name": "たそがれ橋",
+        "remark": ""
       },
       "type": "Feature"
     }

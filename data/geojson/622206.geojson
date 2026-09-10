@@ -59,6 +59,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.381754,
+          35.592131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": "EP9",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/j2q9knt-1788534503802.webp",
+        "location": "",
+        "point_id": "j2q9knt",
+        "point_name": "ファッションセンターしまむら 小山町店",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

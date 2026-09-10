@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.437469,
+          35.329905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 82490,
+        "bangumi_title": "湘南爆走族",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/82490/points/ir7xogq-1787838359733.webp",
+        "location": "",
+        "point_id": "ir7xogq",
+        "point_name": "辻堂ハウス",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

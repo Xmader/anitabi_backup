@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.232488,
+          22.300555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/iv62rra_1788844886975_c16v9.webp",
+        "location": "香港",
+        "point_id": "iv62rra",
+        "point_name": "东区海底隧道 九龙出口",
+        "remark": "琪琪搭车路过的地点\n香港实际靠左行驶，片中均改为靠右行驶"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.212142,
+          22.288905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/iv6pula_1788831212015_cblack.webp",
+        "location": "香港",
+        "point_id": "iv6pula",
+        "point_name": "东区海底隧道 港岛出口",
+        "remark": "琪琪搭车驶出海底隧道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.186639,
+          22.281691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/iv9i8cu_1788844975094_cblack.webp",
+        "location": "香港",
+        "point_id": "iv9i8cu",
+        "point_name": "Gloucester Rd",
+        "remark": "琪琪坐车路过"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.188949,
+          22.279802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/iv9qsx5_1788844988870_cblack.webp",
+        "location": "香港",
+        "point_id": "iv9qsx5",
+        "point_name": "Moreton Terrance Flyover",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.191539,
+          22.276875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/j7wpwwo_1788847601140_cblack.webp",
+        "location": "香港",
+        "point_id": "j7wpwwo",
+        "point_name": "Tai Hang Rd (Trafalgar Court)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.148368,
+          22.273402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/j7wb3pa_1788846784870_cblack.webp",
+        "location": "香港",
+        "point_id": "j7wb3pa",
+        "point_name": "Mt Austin Rd",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.148325,
+          22.273563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 243430,
+        "bangumi_title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/243430/iv5b1k5_1788850870542_cblack.webp",
+        "location": "香港",
+        "point_id": "iv5b1k5",
+        "point_name": "Mount Austin Rd",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -23,8 +23,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.597306,
-          35.738884
+          139.597471,
+          35.7391
         ],
         "type": "Point"
       },
@@ -1083,26 +1083,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.589641,
-          35.748673
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 100444,
-        "bangumi_title": "四月是你的谎言",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/points/100444/ubrdk9q66_1743698134697.jpg",
-        "location": "泉こぶし公園",
-        "point_id": "ubrdk9q66",
-        "point_name": "泉こぶし公園",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.582901,
           35.749908
         ],
@@ -1155,6 +1135,26 @@
         "image_url": "https://w.junreimap.com/images/points/100444/ubrcxoppo_1743698096434.jpg",
         "location": "泉こぶし公園",
         "point_id": "ubrcxoppo",
+        "point_name": "泉こぶし公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.589641,
+          35.748673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100444,
+        "bangumi_title": "四月是你的谎言",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/100444/ubrdk9q66_1743698134697.jpg",
+        "location": "泉こぶし公園",
+        "point_id": "ubrdk9q66",
         "point_name": "泉こぶし公園",
         "remark": ""
       },
@@ -1853,7 +1853,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 14,
         "image_url": "https://w.junreimap.com/images/user/2184/bangumi/100444/points/kky38a-1748254968356.jpg",
-        "location": "稲村ヶ崎",
+        "location": "镰仓",
         "point_id": "kky38a",
         "point_name": "稲村ヶ崎",
         "remark": ""
@@ -1873,7 +1873,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 14,
         "image_url": "https://w.junreimap.com/images/user/2184/bangumi/100444/points/kkuao5-1748254701956.jpg",
-        "location": "",
+        "location": "镰仓",
         "point_id": "kkuao5",
         "point_name": "ローソン\n鎌倉​坂ノ下​店",
         "remark": "买小椿去买冰棒的罗森"
@@ -1893,7 +1893,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 14,
         "image_url": "https://w.junreimap.com/images/user/2184/bangumi/100444/points/51i51yooo-1748254094616.jpg",
-        "location": "稲村ヶ崎",
+        "location": "镰仓",
         "point_id": "51i51yooo",
         "point_name": "稲村ヶ崎",
         "remark": "小时候公生和椿玩的海滩，和椿说清楚要去有音乐科的高中的海滩"
@@ -2013,7 +2013,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 16,
         "image_url": "",
-        "location": "",
+        "location": "狭山不动寺",
         "point_id": "51i51yor8",
         "point_name": "16話　公生が藍里凪を追いかけた寺",
         "remark": ""
@@ -2073,7 +2073,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 18,
         "image_url": "",
-        "location": "",
+        "location": "川口駅",
         "point_id": "51i51yosg",
         "point_name": "18話　凪と公生が連弾したコンサートホール",
         "remark": ""
@@ -2093,7 +2093,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 19,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/51i51yoru-1753601813631.jpg",
-        "location": "",
+        "location": "狭山不动寺",
         "point_id": "51i51yoru",
         "point_name": "19話　小さい頃の相座が階段を登ったシーン",
         "remark": ""
@@ -2137,6 +2137,26 @@
         "point_id": "ubw04vahc",
         "point_name": "環七通り",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.764234,
+          35.725844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 100444,
+        "bangumi_title": "四月是你的谎言",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/51i51yom3-1730808147368.jpg",
+        "location": "千駄木",
+        "point_id": "51i51yom3",
+        "point_name": "駄菓子の木村屋（已永久关闭）",
+        "remark": "20話　公生と椿が帰りに寄った駄菓子屋"
       },
       "type": "Feature"
     },
@@ -2243,26 +2263,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.764234,
-          35.725844
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 100444,
-        "bangumi_title": "四月是你的谎言",
-        "ep_cut": 20,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/100444/points/51i51yom3-1730808147368.jpg",
-        "location": "",
-        "point_id": "51i51yom3",
-        "point_name": "駄菓子の木村屋（已永久关闭）",
-        "remark": "20話　公生と椿が帰りに寄った駄菓子屋"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.587444,
           35.740253
         ],
@@ -2313,7 +2313,7 @@
         "bangumi_title": "四月是你的谎言",
         "ep_cut": 21,
         "image_url": "https://w.junreimap.com/images/points/100444/ubwjh6ds2_1743709376398.jpg",
-        "location": "",
+        "location": "川口駅",
         "point_id": "ubwjh6ds2",
         "point_name": "",
         "remark": ""

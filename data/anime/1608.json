@@ -122,9 +122,37 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 165
+    },
+    {
+      "ep_cut": "",
+      "id": "ir7n8xp",
+      "image_path": "/images/user/0/bangumi/1608/points/ir7n8xp-1787837893874.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/ir7n8xp-1787837893874.webp",
+      "lat": 35.310977,
+      "lng": 139.48759,
+      "location": "",
+      "name": "江ノ島",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 16
+    },
+    {
+      "ep_cut": "第4集",
+      "id": "ir7b7zb",
+      "image_path": "/images/user/0/bangumi/1608/points/ir7b7zb-1787837424420.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/1608/points/ir7b7zb-1787837424420.webp",
+      "lat": 35.306541,
+      "lng": 139.502087,
+      "location": "",
+      "name": "鎌倉高校站前",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 3
     }
   ],
-  "points_count": 8,
+  "points_count": 10,
   "rating": 8.7,
   "region": "镰仓市",
   "short_name": "",
