@@ -456,8 +456,8 @@
       "name": "近江大橋西詰",
       "remark": "https://maps.app.goo.gl/odjeCti1opFzJGRc9",
       "status_code": 1057,
-      "user_id": 96,
-      "zoom": 97
+      "user_id": 88,
+      "zoom": 89
     },
     {
       "ep_cut": 2,
@@ -3201,7 +3201,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 0,
-      "zoom": 595
+      "zoom": 18
     },
     {
       "ep_cut": 7,
@@ -3271,7 +3271,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 1,
-      "zoom": 995
+      "zoom": 587
     },
     {
       "ep_cut": 8,
@@ -3299,7 +3299,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 4,
-      "zoom": 1593
+      "zoom": 1526
     },
     {
       "ep_cut": 8,
@@ -3593,7 +3593,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 1,
-      "zoom": 8
+      "zoom": 4
     },
     {
       "ep_cut": 8,
@@ -3621,7 +3621,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 1,
-      "zoom": 13
+      "zoom": 12
     },
     {
       "ep_cut": 8,
@@ -3706,14 +3706,42 @@
       "status_code": 1057,
       "user_id": 12,
       "zoom": 8221
+    },
+    {
+      "ep_cut": 9,
+      "id": "j4hf8vq",
+      "image_path": "/images/user/0/bangumi/495291/points/j4hf8vq-1788640365888.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/495291/points/j4hf8vq-1788640365888.webp",
+      "lat": 34.977988,
+      "lng": 135.905682,
+      "location": "濑田川大桥",
+      "name": "瀬田川大橋下",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4,
+      "zoom": 13
+    },
+    {
+      "ep_cut": 9,
+      "id": "j4h7qd8",
+      "image_path": "/images/user/0/bangumi/495291/points/j4h7qd8-1788640043758.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/495291/points/j4h7qd8-1788640043758.webp",
+      "lat": 34.997122,
+      "lng": 135.894425,
+      "location": "膳所港",
+      "name": "近江大橋西詰の歩道橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 13,
+      "zoom": 1701
     }
   ],
-  "points_count": 264,
+  "points_count": 266,
   "rating": 8,
   "region": "大津市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/495291_100_76.webp?v=hqozf",
+    "/images/ptheme/495291_100_76.webp?v=hr6nh",
     [
       "1zqx9nu",
       "1znealt",
@@ -3978,9 +4006,11 @@
       "issoray",
       "issp1j2",
       "issp69i",
-      "isspf04"
+      "isspf04",
+      "j4hf8vq",
+      "j4h7qd8"
     ],
-    1787934423695,
+    1789308346974,
     100,
     76
   ],

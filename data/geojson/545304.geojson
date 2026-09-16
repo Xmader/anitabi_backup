@@ -1,0 +1,6885 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.595414,
+          35.753469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "0aeb837a",
+        "point_name": "オズスタジオシティ｜莫が階段の間を飛び降りた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701833,
+          35.692211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "122a954d",
+        "point_name": "新宿駅東口交差点｜莫ら5人が歩いていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701833,
+          35.692211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "b372a452",
+        "point_name": "新宿駅東口交差点｜人が黒くなった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593919,
+          35.75241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "d4498b04",
+        "point_name": "東映東京撮影所 No.1ステージ｜爆発があった倉庫っぽい建物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594226,
+          35.75356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "a695823c",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜莫が何かを口に入れた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593956,
+          35.752896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "38fc952d",
+        "point_name": "東映東京撮影所 No.10ステージ前｜ゼッツがガンナイトメアと戦った場所（本編以外）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594147,
+          35.754079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "d7bcd364",
+        "point_name": "東映東京撮影所 プロダクションルームE棟裏｜「捕り物」をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595422,
+          35.753854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "a850227c",
+        "point_name": "東映東京撮影所 本館 1階 TVプロダクション第二製作部の部屋｜美浪の勤務先のオフィス？",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692642,
+          35.690724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "51dd8354",
+        "point_name": "中央通り（新宿）｜ねむ監禁のニュースが流れる中で莫が歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.303074,
+          35.692542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0001/images/BRE3vofRNo.webp",
+        "location": "",
+        "point_id": "b3e17233",
+        "point_name": "まごころファーム｜ねむが監禁されていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70187,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "b6c65c76",
+        "point_name": "新宿駅東口の風景｜莫が外出した際の風景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701004,
+          35.691835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "c84b58d6",
+        "point_name": "新宿駅東口｜ねむの「翠緑茶」の広告看板が出ていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691959,
+          35.691696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "b108da0c",
+        "point_name": "都庁通り｜莫がオハヨウワーク（ハローワーク的な場所）に行く際に歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699769,
+          35.692611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "87c9e040",
+        "point_name": "新宿パレットビル（東口側から撮影、左右反転）｜ねむが出演するCMが流れたビジョンのある建物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594595,
+          35.753123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "74bdc451",
+        "point_name": "東映東京撮影所 技術館前｜ねむが出演するCMでねむが走り出す前にいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699337,
+          35.659567
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "0ba22393",
+        "point_name": "渋谷スクランブル交差点から道玄坂方面を撮った風景｜ねむが出演するCMで崖から飛んだ際のビル側の風景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595341,
+          35.75382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0001/images/ZhWgLBkEfx.webp",
+        "location": "",
+        "point_id": "622f12f9",
+        "point_name": "東映東京撮影所 本館 1階 TVプロダクション第一製作部の部屋｜オハヨウワーク（ハローワーク的な場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595761,
+          35.753653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "a6a22827",
+        "point_name": "東映東京撮影所 正門｜富士見が車にひかれそうになった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595493,
+          35.753973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0001/images/ESMW4Zk8wW.webp",
+        "location": "",
+        "point_id": "9d91491e",
+        "point_name": "東映東京撮影所 東映デジタルセンター前｜莫が車にひかれた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.691959,
+          35.691696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "",
+        "point_id": "5a50f53d",
+        "point_name": "都庁通り｜莫がガンナイトメアから逃げて走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.303059,
+          35.692217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 1,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0001/images/f8LmPLl21p.webp",
+        "location": "",
+        "point_id": "61955c1b",
+        "point_name": "まごころファーム｜ゼッツがガンナイトメアと戦った場所（屋外）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75243,
+          35.677128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "e32bcee2",
+        "point_name": "警視庁｜警視庁 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.915322,
+          35.377148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0002/images/tBOWkQOsZj.webp",
+        "location": "",
+        "point_id": "aa3ff062",
+        "point_name": "木更津市旧食品卸売センター｜莫が富士見らに追われるなどした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594125,
+          35.753109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "19aaf28d",
+        "point_name": "東映東京撮影所 スタジオ21｜莫が駆け込んだ建物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.982136,
+          35.694437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "4f8d1e0b",
+        "point_name": "船橋市役所｜警視庁（怪事課の車が止まっていた場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70187,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "45f71897",
+        "point_name": "新宿駅東口の風景｜莫と美浪が話をするシーンの前の風景1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699769,
+          35.692611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "7c61a321",
+        "point_name": "新宿パレットビル（東口側から撮影、左右反転）｜莫と美浪が話をするシーンの前の風景2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.123229,
+          36.084777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0002/images/D4ifS0kP0V.webp",
+        "location": "",
+        "point_id": "01b413a2",
+        "point_name": "茨城県道24号線（つくば花室トンネル）｜ボムナイトメアが乗った車を莫がバイクで追い掛けた道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.11859,
+          36.084883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0002/images/fbCjc82373.webp",
+        "location": "",
+        "point_id": "74830335",
+        "point_name": "茨城県道24号線（つくば花室トンネル）｜ボムナイトメアが乗った車が別の車にぶつかったりゼッツのバイクが止まったりした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.700547,
+          35.914527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "a00021ac",
+        "point_name": "JERA 鹿島火力発電所｜トンネルを出てボムナイトメアとゼッツがカーチェイスをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.976064,
+          35.867634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0002/images/mGvMI0l5gX.webp",
+        "location": "",
+        "point_id": "530052b5",
+        "point_name": "柏市役所｜押見署",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594752,
+          35.754104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "145bd3e1",
+        "point_name": "東映東京撮影所 プロダクションルームA棟前｜押見署が見えた直後のゼッツのアップのシーンの場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594689,
+          35.754537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "cd7e8b99",
+        "point_name": "東映東京撮影所 中倉庫前｜ゼッツがバイクで走るシーンの場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.700461,
+          35.918633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "d678dadb",
+        "point_name": "JERA 鹿島火力発電所｜ゼッツがボムナイトメアが乗る車に飛び乗った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594265,
+          35.75386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "359c4bba",
+        "point_name": "東映東京撮影所 プロダクションルームC棟前｜ゼッツがバイクに戻ったシーンの場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594636,
+          35.754647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "0154ce7b",
+        "point_name": "東映東京撮影所 中倉庫前｜ゼッツが車の下に足を入れた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.703872,
+          35.91952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "",
+        "point_id": "018eb60d",
+        "point_name": "JERA 鹿島火力発電所｜車が横転した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.976027,
+          35.867719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 2,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0002/images/yJxDYhxf6W.webp",
+        "location": "",
+        "point_id": "516179b3",
+        "point_name": "柏市役所｜ゼッツがボムナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.976027,
+          35.867719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "85aa4e5a",
+        "point_name": "柏市役所｜押見署（冒頭でゼッツがボムナイトメアと戦った場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.54861,
+          36.17271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0003/images/ZHdLwQPuyp.webp",
+        "location": "",
+        "point_id": "98059d02",
+        "point_name": "羽生市役所｜警視庁 公安部長室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.982136,
+          35.694437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "c2281100",
+        "point_name": "船橋市役所｜警視庁（莫が富士見に会いに行ったり怪事課の車が止まっていたりした場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594132,
+          35.753222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "de5728c5",
+        "point_name": "東映東京撮影所 大森坂｜ねむが爆弾魔の捜索を指示した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594215,
+          35.753151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0003/images/V8M2wVSzBw.webp",
+        "location": "",
+        "point_id": "48d34a69",
+        "point_name": "東映東京撮影所 スタジオ21と技術館の間｜莫と富士見がつかみ合いをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.693195,
+          35.690663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "2c912592",
+        "point_name": "京王プラザホテル（新宿）周辺の風景｜警視庁爆破のニュースから月の映像に切り替わったビジョンがある風景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692599,
+          35.690721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0003/images/Mqww6TmBOh.webp",
+        "location": "",
+        "point_id": "d7f1e819",
+        "point_name": "中央通り（新宿）｜ビジョンを見上げる人たちがいた場所（美浪がいた場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594007,
+          35.752956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0003/images/2RBTbbCnVs.webp",
+        "location": "",
+        "point_id": "07b57334",
+        "point_name": "東映東京撮影所 No.10ステージ前｜莫が目を覚ました時にいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594853,
+          35.753646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "42682134",
+        "point_name": "東映東京撮影所 No.6ステージ｜ゼッツがボムナイトメアと戦っていて建物から飛び出した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594669,
+          35.754063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "f0242471",
+        "point_name": "東映東京撮影所 プロダクションルームA棟前｜建物から飛び出した後にゼッツがボムナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70187,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "9b90a1bf",
+        "point_name": "新宿駅東口の風景｜風景1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703398,
+          35.69153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "7efc3909",
+        "point_name": "新宿通り｜風景3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.690875,
+          35.690447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "c5462ef8",
+        "point_name": "公園通り｜ノクスが歩いていた場所（振り返る前）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.690544,
+          35.691309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "fdd11888",
+        "point_name": "公園通り｜ノクスが歩いていた場所（振り返った後）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.319096,
+          36.324671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0004/images/5aHCQNmdL4.webp",
+        "location": "",
+        "point_id": "9a364a0a",
+        "point_name": "パークスガーデンプレイス アンナペレンナ大聖堂｜結婚式場（礼拝堂） 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.319096,
+          36.324671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0004/images/5aHCQNmdL4.webp",
+        "location": "",
+        "point_id": "295dd708",
+        "point_name": "パークスガーデンプレイス アンナペレンナ大聖堂｜結婚式場（礼拝堂）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595135,
+          35.753678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "205e331b",
+        "point_name": "東映東京撮影所 No.6ステージ 屋上｜富士見らが話をした屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655758,
+          35.658913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0004/images/pPYGuXZazf.webp",
+        "location": "",
+        "point_id": "66f29915",
+        "point_name": "羽根木公園｜莫と美浪がジョギングをした公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715254,
+          35.803996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "0e48e55f",
+        "point_name": "川口西公園｜莫と美浪が話をした公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715488,
+          35.803971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "6df65510",
+        "point_name": "川口西公園｜おばあさんが階段を上がってきた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.715733,
+          35.803755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "564fac5f",
+        "point_name": "川口西公園｜莫が土井一平を尾行した道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59992,
+          35.7555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0004/images/SqY4iQLtCz.webp",
+        "location": "",
+        "point_id": "5d4ae08f",
+        "point_name": "三平（大泉学園）｜土井一平が友人と話をした居酒屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655673,
+          35.658598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "",
+        "point_id": "be34f99c",
+        "point_name": "羽根木公園｜心の扉がある場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655673,
+          35.658598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0005/images/3sF2C3viIC.webp",
+        "location": "",
+        "point_id": "b265959c",
+        "point_name": "羽根木公園｜里の森公園（結婚式場の控え室から見えた場所、莫と美浪のジョギングコースの公園）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.610827,
+          35.456105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "3f4f5569",
+        "point_name": "ザ・シーズンズ｜麻宮みゆきと宝田光輝の新居？（麻宮みゆきと宝田光輝が話をした場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771842,
+          35.568129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "95045c4f",
+        "point_name": "羽田空港（京浜島つばさ公園から撮影）｜空港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.809115,
+          35.603482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "06300f73",
+        "point_name": "海の森水上競技場｜莫がコードゼロイダーに乗って走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.819388,
+          35.608211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0005/images/G8oKBsdNYc.webp",
+        "location": "",
+        "point_id": "a055dfc2",
+        "point_name": "海の森水上競技場｜クロウナイトメアが飛行機に攻撃を仕掛けたりゼッツがクロウナイトメアと戦ったりした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.828195,
+          35.611748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "4d313b05",
+        "point_name": "東京ゲートブリッジ｜飛行機が衝突しそうになった橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.610754,
+          35.455941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "061b5ea0",
+        "point_name": "ザ・シーズンズ｜麻宮みゆきと宝田光輝の新居？（麻宮みゆきと宝田光輝がハネムーンに出発した場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.716255,
+          35.802154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "",
+        "point_id": "9a773652",
+        "point_name": "川口西公園｜ノクスがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.187602,
+          36.081134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 6,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0006/images/8rfDzkqdbe.webp",
+        "location": "",
+        "point_id": "4354364a",
+        "point_name": "大英興業 寄居採石場｜採石場（監獄やミステリーサークルのある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.601667,
+          36.171791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 6,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0006/images/ctmk4iKWA6.webp",
+        "location": "",
+        "point_id": "380447e7",
+        "point_name": "キヤッセ羽生｜「遥とダンボール先輩のZ級グルメ旅」のロケをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630609,
+          35.751386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "c3b892ca",
+        "point_name": "さかえ幼稚園（練馬区）｜あるめりあ児童園（美女木真澄がねむと出会った施設）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791113,
+          35.699327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "034363af",
+        "point_name": "ヤング産業株式会社 東京支社｜オフィス美女木",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594747,
+          35.754882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "293d6a93",
+        "point_name": "東映東京撮影所 プロダクションルームJ棟前の駐車場｜富士見となすかが大城玲子に話を聞いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.187602,
+          36.081134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 7,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0007/images/2rMRftqkaq.webp",
+        "location": "",
+        "point_id": "1debc0a5",
+        "point_name": "大英興業 寄居採石場｜採石場（プリズンナイトメアがいた場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.644129,
+          35.888816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 8,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0008/images/53CBsZ5Ge9.webp",
+        "location": "",
+        "point_id": "06d8c048",
+        "point_name": "アーヴェリール迎賓館 大宮｜ROYALE（ロワイヤル）城金（厨房以外）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594111,
+          35.753096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 8,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0008/images/6ooYzrEgTc.webp",
+        "location": "",
+        "point_id": "1e430c96",
+        "point_name": "東映東京撮影所 スタジオ21｜三幸病院",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.995733,
+          37.106018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 8,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0008/images/Pn2KE80N0I.webp",
+        "location": "",
+        "point_id": "bd1775e2",
+        "point_name": "旧那須ホテル｜ゼッツがポイズンナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59394,
+          35.752735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "441a747a",
+        "point_name": "東映東京撮影所 No.2ステージとNo.10ステージの間｜ねむが銃を撃って飛ばされた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.12555,
+          35.719313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "ef4f22ea",
+        "point_name": "貝殻亭ガーデン｜以前のROYALE城金 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595458,
+          35.753663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 9,
+        "image_url": "",
+        "location": "",
+        "point_id": "0c4fb293",
+        "point_name": "東映東京撮影所 本館 階段｜富士見と東堂が話をした階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.52047,
+          35.691773
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 9,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0009/images/AdQgeW2ZmC.webp",
+        "location": "",
+        "point_id": "09253811",
+        "point_name": "大森武蔵野苑｜日本とエルドビア共和国の首脳会談の会場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594346,
+          35.752979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0010/images/CPIUXvlkT4.webp",
+        "location": "",
+        "point_id": "0c7bb528",
+        "point_name": "東映東京撮影所 スタジオ21・技術館の裏｜莫が渥美邸に行く前に通った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621551,
+          36.10751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "923707c9",
+        "point_name": "加須環境浄化センター｜莫とねむが泥棒の足跡を追っていてノクスと会った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.548176,
+          36.16622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "4dc72532",
+        "point_name": "羽生市産業文化ホール｜朝井川美術館（富士見となすかが話を聞きに行った美術館、「淡い輪郭」があったが「失踪」した美術館） 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.29573,
+          35.700011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0010/images/dqVRbLcshm.webp",
+        "location": "",
+        "point_id": "75ebf826",
+        "point_name": "戸吹クリーンセンター｜莫とねむがコードゼロイダーに乗って走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.365596,
+          35.630388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "71d87279",
+        "point_name": "大学セミナーハウス 本館｜モウルドナイトメアが絵を保管していた建物 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.365596,
+          35.630388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0010/images/f1RayYfSZF.webp",
+        "location": "",
+        "point_id": "8a90474d",
+        "point_name": "大学セミナーハウス 本館 最上階｜モウルドナイトメアが絵を保管していた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.365596,
+          35.630388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "",
+        "point_id": "bf6c0539",
+        "point_name": "大学セミナーハウス 本館 3階ラウンジ｜心の扉がある場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.365532,
+          35.630235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 11,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0011/images/PqYYgK1vYK.webp",
+        "location": "",
+        "point_id": "bfc58276",
+        "point_name": "大学セミナーハウス｜冒頭でゼッツがモウルドナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.26428,
+          36.007142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "d0c544bd",
+        "point_name": "ときがわアウトドアスタジオ 母屋｜現実の渥美宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.365596,
+          35.630388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "dd972fb2",
+        "point_name": "大学セミナーハウス 本館 3階ラウンジ｜渥美太郎のアトリエ？（小鷹が渥美太郎に贋作を描くよう依頼した部屋、心の扉がある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594002,
+          35.753027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 11,
+        "image_url": "",
+        "location": "",
+        "point_id": "9d1979a2",
+        "point_name": "東映東京撮影所 大森坂｜莫が渥美宅を出た時にコードゼロイダーがあった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594087,
+          35.752936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 11,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0011/images/DffN0hPK1g.webp",
+        "location": "",
+        "point_id": "aa6fe7e6",
+        "point_name": "東映東京撮影所 スタジオ21 屋上｜ノクスがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.071369,
+          36.06605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "c45ca50b",
+        "point_name": "ダイキン工業 つくば研修所｜越雲宇宙センター 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595005,
+          35.753691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0012/images/EUPzmabSFw.webp",
+        "location": "",
+        "point_id": "b2988029",
+        "point_name": "東映東京撮影所 No.6ステージ 屋上｜莫が隕石を防ごうとしてノクスに邪魔をされた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595493,
+          35.75377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "708637ca",
+        "point_name": "東映東京撮影所 本館 2階 会議室｜3年前に富士見と小鷹が話をした部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.010422,
+          36.329956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "aa431139",
+        "point_name": "高崎市立東小学校｜越雲小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.003572,
+          36.323877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "eb449031",
+        "point_name": "群馬音楽センター｜石井星也が車にひかれそうになった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.590787,
+          35.794884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "3fc65209",
+        "point_name": "青葉台公園（朝霞市）｜莫が目を覚ました時にいた公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.006576,
+          36.333343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "8cc845bd",
+        "point_name": "高崎市少年科学館｜プラネタリウム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594214,
+          35.753957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "c45b279e",
+        "point_name": "東映東京撮影所 プロダクションルームE棟前｜ノクスが変身して夜になった後の場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69887,
+          36.098179
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "6b342fec",
+        "point_name": "八甫清掃センター｜ゼッツとノクスナイトが戦っていて昼になった後の場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594005,
+          35.752769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "935fbcf5",
+        "point_name": "東映東京撮影所 No.10ステージ前｜ノクスナイトがカプセムを壊してナイトメア（？）が出てきたのを見て驚いたねむがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699045,
+          36.09735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "",
+        "point_id": "c7e5e86f",
+        "point_name": "八甫清掃センター｜ノクスナイトがナイトメア（？）を倒した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699045,
+          36.09735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 13,
+        "image_url": "",
+        "location": "",
+        "point_id": "77c140c2",
+        "point_name": "八甫清掃センター｜冒頭でゼッツがノクスナイトと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594005,
+          35.752769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 13,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0013/images/RIeuWs9BKc.webp",
+        "location": "",
+        "point_id": "b00ce131",
+        "point_name": "東映東京撮影所 No.10ステージ前｜冒頭でゼッツとノクスナイトが戦っている際にねむがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.590769,
+          35.79503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 13,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0013/images/9qstbXgNo9.webp",
+        "location": "",
+        "point_id": "1ea2bbef",
+        "point_name": "青葉台公園（朝霞市）｜莫が石井星也と話をした公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.524824,
+          35.885451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 13,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0013/images/4WtSXwSpTk.webp",
+        "location": "",
+        "point_id": "a0151650",
+        "point_name": "宿場食堂｜石井宅（宿場食堂、心の扉がある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.317503,
+          35.709278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 13,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0013/images/tBFDetVWmc.webp",
+        "location": "",
+        "point_id": "59ae927d",
+        "point_name": "高月町残土処理場｜後半でゼッツがノクスナイトと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594592,
+          35.753898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 14,
+        "image_url": "",
+        "location": "",
+        "point_id": "a8c0e5d7",
+        "point_name": "東映東京撮影所 No.7ステージとプロダクションルームD棟の間｜莫が初めて悪夢を見た日の場所（雷が落ちた場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594782,
+          35.753258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 14,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0014/images/bLmJF1CQR9.webp",
+        "location": "",
+        "point_id": "692e7aee",
+        "point_name": "東映東京撮影所 No.5ステージ裏の駐車場｜なすかが駐車場に入る前後の場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593962,
+          35.752862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 14,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0014/images/WN7SM6Gz5a.webp",
+        "location": "",
+        "point_id": "c27ed4d4",
+        "point_name": "東映東京撮影所 No.10ステージ前｜ゼッツがノクスナイトと戦った場所（ノクスナイトが吹き飛ばされてドラム缶などに突っ込んで以降）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594189,
+          35.754127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 14,
+        "image_url": "",
+        "location": "",
+        "point_id": "c5a71102",
+        "point_name": "東映東京撮影所 プロダクションルームE棟裏｜ノクスナイトが吹き飛ばされて変身解除して以降の場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.114502,
+          36.109339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 14,
+        "image_url": "",
+        "location": "",
+        "point_id": "00815145",
+        "point_name": "フォレストサンズ長瀞｜富士見となすかが見た動画のキャンプ場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59507,
+          35.754908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 14,
+        "image_url": "",
+        "location": "",
+        "point_id": "6843a511",
+        "point_name": "東映東京撮影所 プロダクションルームJ棟前の駐車場｜富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594189,
+          35.754127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "2429c523",
+        "point_name": "東映東京撮影所 プロダクションルームE棟裏｜冒頭で莫とねむがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594987,
+          35.75451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "996f1715",
+        "point_name": "東映東京撮影所 プロダクションルームF棟裏｜小鷹の夢の中の場所（小鷹がゼロと連絡を取った場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593968,
+          35.753216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "ed4e8e87",
+        "point_name": "東映東京撮影所 V1ステージ前｜富士見となすかが聞き込みをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.114074,
+          36.108969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0015/images/oVzfyVa7dK.webp",
+        "location": "",
+        "point_id": "3e29cf69",
+        "point_name": "フォレストサンズ長瀞｜莫とねむが扉を開けて出てきた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594987,
+          35.75451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "f2cb43da",
+        "point_name": "東映東京撮影所 プロダクションルームF棟裏｜莫がノクスと話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.159672,
+          36.186333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0015/images/2VIzFcnnvh.webp",
+        "location": "",
+        "point_id": "9b577914",
+        "point_name": "STUDIO HONJO SLUM｜ゼッツがシャドウナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593392,
+          35.754182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "ddff1e77",
+        "point_name": "東映東京撮影所 プロダクションルームI棟前の駐車場｜雷が鳴った時に富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.114127,
+          36.108961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 15,
+        "image_url": "",
+        "location": "",
+        "point_id": "77215c49",
+        "point_name": "フォレストサンズ長瀞｜富士見となすかが小鷹を探した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.454668,
+          36.052091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0016/images/CiPV9wipkA.webp",
+        "location": "",
+        "point_id": "cd670eaf",
+        "point_name": "フレサ吉見 小ホール｜ねむのファンミーティングの会場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.454985,
+          36.052187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0016/images/mWWpeTLoiy.webp",
+        "location": "",
+        "point_id": "6dead968",
+        "point_name": "フレサ吉見 楽屋｜ねむの楽屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.455024,
+          36.051866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "8d6d94cf",
+        "point_name": "フレサ吉見｜イベント会場 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595417,
+          35.753862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "24817cf0",
+        "point_name": "東映東京撮影所 本館 1階 TVプロダクション第二製作部の部屋｜鶴亀芸能の事務所（ダンボール先輩の机の写真を撮った場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.001805,
+          36.325393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "23d23f7c",
+        "point_name": "高崎市立中央図書館｜共沢記念病院 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.454716,
+          36.05156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "9a6369cb",
+        "point_name": "フレサ吉見｜共沢記念病院 莫と美浪が潜入した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.004152,
+          36.323468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "e7c2c71c",
+        "point_name": "群馬音楽センター｜北里春と話をした後に莫と美浪が歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.445652,
+          36.342418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "686c74f0",
+        "point_name": "茨城県庁｜ゼッツがウルフナイトメアとバイクチェイスをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.426186,
+          36.133228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 16,
+        "image_url": "",
+        "location": "",
+        "point_id": "efd768b9",
+        "point_name": "永田紙業 熊谷事業所（？）｜ゼッツがウルフナイトメアと対峙していてノクスが現れた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593787,
+          35.75275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 17,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0017/images/MOhtfJKDcA.webp",
+        "location": "",
+        "point_id": "63f7a1ac",
+        "point_name": "東映東京撮影所 No.2ステージとNo.10ステージの間｜冒頭でゼッツがウルフナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.003277,
+          36.326611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 17,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0017/images/60J1WpnvdS.webp",
+        "location": "",
+        "point_id": "644b2b5c",
+        "point_name": "姉妹都市公園｜莫と美浪が北里春と話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.003988,
+          36.326422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 17,
+        "image_url": "",
+        "location": "",
+        "point_id": "f700dcbd",
+        "point_name": "姉妹都市公園｜北里春が本当のことを話した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.02258,
+          36.132557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 17,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0017/images/e9v44IJxP4.webp",
+        "location": "",
+        "point_id": "d7ace0d5",
+        "point_name": "下久保ダム｜ダム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.003662,
+          36.326738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 17,
+        "image_url": "",
+        "location": "",
+        "point_id": "6fa0f409",
+        "point_name": "姉妹都市公園｜北里春が入院患者と散歩した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.596544,
+          35.752665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 17,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0017/images/ALqhe2EssA.webp",
+        "location": "",
+        "point_id": "e2721a0e",
+        "point_name": "東大泉2丁目の道｜莫が倒れそうになった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.392226,
+          36.356912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 18,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0018/images/2Bf71tF5Zi.webp",
+        "location": "",
+        "point_id": "9332e20d",
+        "point_name": "旧足利西高校｜全知学園高等学校 外観など（雑にまとめると戦闘シーンの場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595489,
+          35.753769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 18,
+        "image_url": "",
+        "location": "",
+        "point_id": "53e29e65",
+        "point_name": "東映東京撮影所 本館 2階 会議室｜全知学園高等学校 女子バスケットボール部の部室（心の扉がある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.392226,
+          36.356912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 19,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0019/images/aHPzHO47TS.webp",
+        "location": "",
+        "point_id": "f133904c",
+        "point_name": "旧足利西高校｜全知学園高等学校 外観など",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.391404,
+          36.356761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 19,
+        "image_url": "",
+        "location": "",
+        "point_id": "705c087b",
+        "point_name": "旧足利西高校｜全知学園高等学校 ねむがノクスと話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594166,
+          35.752755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 19,
+        "image_url": "",
+        "location": "",
+        "point_id": "e1b45b44",
+        "point_name": "オズスタジオシティ 外階段｜莫が宮本紅覇と話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.596096,
+          35.753029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 19,
+        "image_url": "",
+        "location": "",
+        "point_id": "a1bcdf37",
+        "point_name": "東大泉2丁目の道｜莫が歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.26178,
+          35.439477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 19,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0019/images/ojNtPJlY9g.webp",
+        "location": "",
+        "point_id": "80212cc9",
+        "point_name": "ヒューマンキャンパスのぞみ高校 茂原本校｜全知学園高等学校 校庭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631245,
+          35.893246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 20,
+        "image_url": "",
+        "location": "",
+        "point_id": "a4898a86",
+        "point_name": "さいたまスーパーアリーナ けやきひろば｜シックスがスリーと話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.30383,
+          36.033297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 20,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0020/images/096ZrIeyw4.webp",
+        "location": "",
+        "point_id": "7c54f2e7",
+        "point_name": "月川荘キャンプ場｜ノクスが歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.303402,
+          36.033107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 20,
+        "image_url": "",
+        "location": "",
+        "point_id": "880cb3af",
+        "point_name": "月川荘キャンプ場 塩沢冠水橋｜シックスがノクスと対峙した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594891,
+          35.754911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "10d4f0c8",
+        "point_name": "東映東京撮影所 プロダクションルームJ棟前の駐車場｜平朋子の写真を撮った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.655564,
+          35.934776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "1dc64b84",
+        "point_name": "大宮武道館｜武蔵野市民武道館（莫が平朋子に話を聞いた場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631115,
+          35.893944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "69dec757",
+        "point_name": "さいたまスーパーアリーナ｜莫と電話している時に富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.30297,
+          36.032915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "651434ed",
+        "point_name": "月川荘キャンプ場 塩沢冠水橋付近｜ロードファイブとロードシックスがノクスと戦った川辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6306,
+          35.893978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "b4ef0bfc",
+        "point_name": "さいたまスーパーアリーナ｜雷が鳴る中で富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631148,
+          35.893892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "9bca7e9c",
+        "point_name": "さいたまスーパーアリーナ｜ディザスターナイトメアが浮いていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630724,
+          35.893442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "535d08d5",
+        "point_name": "さいたまスーパーアリーナ｜鱗粉のようなものが降ってきて人々が倒れた場所1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630534,
+          35.893903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "0365ab0c",
+        "point_name": "さいたまスーパーアリーナ｜鱗粉のようなものが降ってきて人々が倒れた場所3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594103,
+          35.752937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 21,
+        "image_url": "",
+        "location": "",
+        "point_id": "b1f9ba29",
+        "point_name": "東映東京撮影所 スタジオ21 屋上｜スリーがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593933,
+          35.753099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "8c0bd989",
+        "point_name": "東映東京撮影所 V1ステージ前｜「スーパーヒーロータイム」の始まりを告げる映像でゼッツが歩いている場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625508,
+          35.760165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0022/images/aGDCqmMWT9.webp",
+        "location": "",
+        "point_id": "aba608e4",
+        "point_name": "四季の香ローズガーデン｜冒頭で富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.57912,
+          35.802011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "fbcbeff1",
+        "point_name": "島の上公園 展望テラス｜莫が子どもの頃に見た夢を考えていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.626959,
+          35.907424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "bf7c08a7",
+        "point_name": "大宮門街 屋上｜ディザスターナイトメアがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623681,
+          35.758584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "65630735",
+        "point_name": "ゆうなぎ橋（東京都道443号線）｜落雷を見た人たちがいた橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623797,
+          35.759023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "1cfc901c",
+        "point_name": "四季の香公園 遊具・広場｜雷が落ちて雷龍が現れて暴れた公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.625889,
+          35.760639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "d21f0903",
+        "point_name": "四季の香ローズガーデン｜雷が落ちて雷龍が現れて暴れた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594111,
+          35.753043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "e79c8b69",
+        "point_name": "東映東京撮影所 スタジオ21 喫茶室｜ニュース速報のスタジオ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.039746,
+          35.653196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "680965bd",
+        "point_name": "エム・ベイポイント幕張｜ディザスターナイトメアがいた建物 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.623166,
+          35.758251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "",
+        "location": "",
+        "point_id": "9418bb43",
+        "point_name": "東京都道443号線｜莫が走った道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040459,
+          35.65321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 22,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0022/images/CJPbIVX9FJ.webp",
+        "location": "",
+        "point_id": "6332aca4",
+        "point_name": "エム・ベイポイント幕張｜ゼッツがノクスナイトと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631075,
+          35.895829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 23,
+        "image_url": "",
+        "location": "",
+        "point_id": "dbb8c827",
+        "point_name": "さいたま新都心の風景｜雷が落ちている風景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.003714,
+          36.323003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 23,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0023/images/qjJsMbNVXw.webp",
+        "location": "",
+        "point_id": "eff3c670",
+        "point_name": "群馬音楽センター｜ゼッツがディザスターナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594105,
+          35.753032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 24,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0024/images/HTQpVOIwN6.webp",
+        "location": "",
+        "point_id": "9b18222f",
+        "point_name": "東映東京撮影所 スタジオ21 喫茶室｜美浪がレディと会った店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.33118,
+          36.154633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 24,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0024/images/013HisgfOS.webp",
+        "location": "",
+        "point_id": "2a79f66b",
+        "point_name": "小美玉市生涯学習センターコスモス｜CODE本部 ゼッツがロードスリーと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595331,
+          35.75297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "4370abc3",
+        "point_name": "東映通り｜莫が信号待ちしていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70187,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "fd8688e1",
+        "point_name": "新宿駅東口の風景｜莫が道を渡った際の風景",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595441,
+          35.753954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "26721342",
+        "point_name": "東映東京撮影所 東映デジタルセンター前｜莫が通った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.596342,
+          35.756248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "70f75efe",
+        "point_name": "ミツ橋（白子川）｜親子が月を見ていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.915322,
+          35.377148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0025/images/qg0bWFUknN.webp",
+        "location": "",
+        "point_id": "a60ae5fd",
+        "point_name": "木更津市旧食品卸売センター｜富士見の夢の中の場所（ゼッツがボムナイトメアと戦った場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593751,
+          35.753051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "61670073",
+        "point_name": "東映東京撮影所 No.10ステージとV1ステージの間｜ねむとノクスが話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595549,
+          35.753696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "75185efa",
+        "point_name": "東映東京撮影所 本館 ロビー｜富士見となすかが話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.5953,
+          35.753931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "b84f6590",
+        "point_name": "東映東京撮影所 東映デジタルセンター前｜莫が富士見らと会った後に走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595458,
+          35.753663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "ee68fba6",
+        "point_name": "東映東京撮影所 本館 階段｜なすかが紅覇に電話をかけた階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595524,
+          35.754013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "",
+        "location": "",
+        "point_id": "ba209794",
+        "point_name": "東映東京撮影所 東映デジタルセンター前｜紅覇がいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594269,
+          35.75352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 25,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0025/images/6VsxFsmufX.webp",
+        "location": "",
+        "point_id": "e64e5a47",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜莫がいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.000329,
+          43.203143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "1ec4820e",
+        "point_name": "旧北海製罐倉庫株式会社 第3倉庫｜莫がねむに自分の夢を見せた建物 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701833,
+          35.692211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "045bb0ff",
+        "point_name": "新宿駅東口交差点｜オープニング 莫ら5人が歩いていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701833,
+          35.692211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "3b61cd8b",
+        "point_name": "新宿駅東口交差点｜オープニング 人が黒くなった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594125,
+          35.753109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "5bcb4fe6",
+        "point_name": "東映東京撮影所 スタジオ21｜オープニング 莫が駆け込んだ建物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593919,
+          35.75241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0026/images/9KDxKgjyH1.webp",
+        "location": "",
+        "point_id": "35b13624",
+        "point_name": "東映東京撮影所 No.1ステージ｜オープニング 爆発があった倉庫っぽい建物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594226,
+          35.75356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 26,
+        "image_url": "",
+        "location": "",
+        "point_id": "996b754e",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜オープニング 莫が何かを口に入れた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595493,
+          35.75377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 27,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0027/images/Tl7fhHW2fV.webp",
+        "location": "",
+        "point_id": "d0a87177",
+        "point_name": "東映東京撮影所 本館 2階 会議室｜CODE本部 ゼロの執務室",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59398,
+          35.753208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 27,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0027/images/GGJKjTVEPt.webp",
+        "location": "",
+        "point_id": "671d8380",
+        "point_name": "東映東京撮影所 V1ステージ前｜富士見となすかが話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.449238,
+          35.768777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 27,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0027/images/3mMlyxhiZT.webp",
+        "location": "",
+        "point_id": "576982e6",
+        "point_name": "西武園競輪場｜莫とねむが会った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.447285,
+          35.768924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 27,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0027/images/5Y5CIxzpDf.webp",
+        "location": "",
+        "point_id": "3b8b277e",
+        "point_name": "西武園競輪場｜ゼッツがシャドウナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593701,
+          35.810638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 28,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0028/images/41WY17puvI.webp",
+        "location": "",
+        "point_id": "c0699e27",
+        "point_name": "TMGあさか医療センター｜莫がジークと話をした屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.053302,
+          35.995687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 29,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0029/images/1IzFTnpgBL.webp",
+        "location": "",
+        "point_id": "b1844b27",
+        "point_name": "埼玉トヨペット秩父グリーンミューズパーク ステンドハウス｜莫と美浪がニナと会った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.052471,
+          35.993822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 29,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0029/images/l5QUOzOJyu.webp",
+        "location": "",
+        "point_id": "0b1bb359",
+        "point_name": "埼玉トヨペット秩父グリーンミューズパーク ミューズの泉付近｜莫が猫を捜した場所（噴水そば）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.053176,
+          35.995625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 29,
+        "image_url": "",
+        "location": "",
+        "point_id": "1320aec6",
+        "point_name": "埼玉トヨペット秩父グリーンミューズパーク｜美浪が猫を捜した場所（遊具のある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.195178,
+          36.110689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 29,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0029/images/0Qzywx9Vl1.webp",
+        "location": "",
+        "point_id": "8c19a07d",
+        "point_name": "荒川河川敷（玉淀河原）｜美浪が猫を捜していて戦闘になった河原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.195178,
+          36.110689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 30,
+        "image_url": "",
+        "location": "",
+        "point_id": "e77bc470",
+        "point_name": "荒川河川敷（玉淀河原）｜夢の中の河原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595034,
+          35.752981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 30,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0030/images/54UNJ4K83m.webp",
+        "location": "",
+        "point_id": "d8db8916",
+        "point_name": "オズスタジオシティ｜CODE 美浪がゼロと話をした部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.381747,
+          35.995639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 30,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0030/images/goGbzJEeUZ.webp",
+        "location": "",
+        "point_id": "fe1658b0",
+        "point_name": "松風公園（東松山市）｜2年前に猫を渡した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.054233,
+          35.996467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 30,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0030/images/a6eRb7dIl5.webp",
+        "location": "",
+        "point_id": "2e09502b",
+        "point_name": "埼玉トヨペット秩父グリーンミューズパーク｜美浪が猫を捜した場所（ゼッツがキャットナイトメアと戦った場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.380314,
+          35.994985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 30,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0030/images/IhEc9S6xzZ.webp",
+        "location": "",
+        "point_id": "b44e1250",
+        "point_name": "松風公園（東松山市）｜莫と美浪が猫を捜した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.592266,
+          35.755994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 31,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0031/images/KS98DPokQM.webp",
+        "location": "",
+        "point_id": "2f2848c8",
+        "point_name": "教学院（練馬区）｜万津家の墓がある寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593992,
+          35.754583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 31,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0031/images/Fg5PwBH7Gw.webp",
+        "location": "",
+        "point_id": "bb432f9a",
+        "point_name": "東映東京撮影所 北倉庫 外階段｜ノクスとねむが登った階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594295,
+          35.753502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 32,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0032/images/m91pR5D0dq.webp",
+        "location": "",
+        "point_id": "c220c840",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜莫とねむが話をした屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595059,
+          35.754964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 32,
+        "image_url": "",
+        "location": "",
+        "point_id": "b0c6e051",
+        "point_name": "東映東京撮影所 プロダクションルームJ棟前の駐車場｜なすかが歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594792,
+          35.754777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 32,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0032/images/aOuiNKiSto.webp",
+        "location": "",
+        "point_id": "8dbff1d4",
+        "point_name": "東映東京撮影所 プロダクションルームJ棟前の駐車場｜富士見となすかが小鷹と話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.344674,
+          35.790543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 32,
+        "image_url": "",
+        "location": "",
+        "point_id": "d86c84d4",
+        "point_name": "飯能街道（トーヨーアサノ東京工場前）｜るり子がゼロイダーを目撃した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594892,
+          35.754264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 32,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0032/images/t7pThY7nIu.webp",
+        "location": "",
+        "point_id": "3e61d7a4",
+        "point_name": "東映東京撮影所 南倉庫前（左右反転）｜ゼロイダーが止まった信号のある場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59436,
+          35.75474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 32,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0032/images/7K2dECUI1o.webp",
+        "location": "",
+        "point_id": "7fbc06d9",
+        "point_name": "東映東京撮影所 北倉庫｜ゼッツから莫に戻った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791113,
+          35.699327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "6ed306c0",
+        "point_name": "ヤング産業株式会社 東京支社｜オフィス美女木 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595212,
+          35.754687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0033/images/Chh8Vy12jN.webp",
+        "location": "",
+        "point_id": "0b36533d",
+        "point_name": "東映東京撮影所 プロダクションルームF棟 205｜オフィス美女木 内部（ねむがファンレターを読んでいた部屋）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.415666,
+          35.69661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "d6b56525",
+        "point_name": "立川市錦町1丁目の道｜現実でデスゲームナイトメアが出現した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593815,
+          35.752749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "135b4df6",
+        "point_name": "東映東京撮影所 No.2ステージとNo.10ステージの間｜オロナミンCのCM",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.415653,
+          35.696611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "3c19b71c",
+        "point_name": "立川市錦町1丁目の道｜デスゲームナイトメアが街の人を追い掛けた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040686,
+          35.653732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0033/images/ucRyz04SdT.webp",
+        "location": "",
+        "point_id": "1eb7e271",
+        "point_name": "ハイテク通り｜莫がねむからの電話に出た場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59466,
+          35.754739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "908cb2e4",
+        "point_name": "東映東京撮影所 プロダクションルームJ棟前の駐車場｜莫や富士見がデスゲームナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040886,
+          35.653499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "d9d47039",
+        "point_name": "エム・ベイポイント幕張｜現実でモウルドナイトメアが出現した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040436,
+          35.6532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "57a9a04b",
+        "point_name": "エム・ベイポイント幕張｜莫とデスゲームナイトメアの戦いにモウルドナイトメアも加わった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040407,
+          35.653344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 33,
+        "image_url": "",
+        "location": "",
+        "point_id": "42467667",
+        "point_name": "エム・ベイポイント幕張｜莫がデスゲームナイトメアと戦いながら変身しようとしてできなかった駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.040781,
+          35.653314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0034/images/2Xq6Xxsptu.webp",
+        "location": "",
+        "point_id": "cc52c55e",
+        "point_name": "エム・ベイポイント幕張｜冒頭でゼッツらがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.099734,
+          35.602357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0034/images/xkOlUwXrJP.webp",
+        "location": "",
+        "point_id": "f24bfa8d",
+        "point_name": "ザ・ミーツ マリーナテラス｜ジークが襲撃したカールの邸宅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595212,
+          35.754687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "774e3cf8",
+        "point_name": "東映東京撮影所 プロダクションルームF棟 205｜ジークが襲撃した取引現場の部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.09961,
+          35.601921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "e7be3a08",
+        "point_name": "ザ・ミーツ マリーナテラス｜ジークが襲撃した場所（莫が「懲役500年」と言った時の映像の場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.099707,
+          35.602117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "e33783b9",
+        "point_name": "ザ・ミーツ マリーナテラス｜ジークが発砲した中庭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595493,
+          35.75377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "0ea32a51",
+        "point_name": "東映東京撮影所 本館 2階 会議室｜CODE本部 スリーがいた部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.445173,
+          36.437431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0034/images/CJ6ic7h98v.webp",
+        "location": "",
+        "point_id": "cdbd875a",
+        "point_name": "七ツ洞公園 壁泉｜ゼッツがドォーンと戦った場所（れんがの柱がたくさんある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.443327,
+          36.436572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "c99aa981",
+        "point_name": "七ツ洞公園 秘密の花苑｜ゼッツがドォーンと戦った庭園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785336,
+          35.312873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "4ce3ab00",
+        "point_name": "明治百年記念展望塔（富津岬展望台）｜庭園の後に移動した海辺の建物",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.784586,
+          35.312767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "",
+        "location": "",
+        "point_id": "7b155cf5",
+        "point_name": "富津海岸｜ゼッツがドォーンと戦った浜辺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595212,
+          35.754687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 34,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0034/images/tYYYjzpLT2.webp",
+        "location": "",
+        "point_id": "3379cff5",
+        "point_name": "東映東京撮影所 プロダクションルームF棟 205｜ねむが目を覚ました時にいた部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.009511,
+          35.957209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0035/images/qkrRwwHwz3.webp",
+        "location": "",
+        "point_id": "a51fedc8",
+        "point_name": "将門の滝 オートキャンプ場｜バーベキューをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594345,
+          35.753579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "8923fb66",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜ファイブがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700542,
+          35.659504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "e8eca325",
+        "point_name": "渋谷駅前 スクランブル交差点｜スクランブル交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.622065,
+          35.877592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "6746bccb",
+        "point_name": "彩の国さいたま芸術劇場｜ボーッとしている人たちがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595432,
+          35.753688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "50ecd50d",
+        "point_name": "東映東京撮影所 本館 ロビーの向かいの部屋｜CODE本部 ファイブとシックスがいた部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595484,
+          35.753697
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "84addcb1",
+        "point_name": "東映東京撮影所 本館 1階 廊下｜莫が電話した時になすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.010229,
+          35.957183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0035/images/jZE5TFETD5.webp",
+        "location": "",
+        "point_id": "0ec0513e",
+        "point_name": "将門の滝 オートキャンプ場｜莫が富士見と会った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621735,
+          35.877156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "a41a274a",
+        "point_name": "彩の国さいたま芸術劇場｜莫が美浪と会った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594395,
+          35.753336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "b0e938ac",
+        "point_name": "東映東京撮影所 No.5ステージと技術館の間｜莫とねむがオタクと会った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.159547,
+          36.186296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "",
+        "location": "",
+        "point_id": "1d06dc0e",
+        "point_name": "STUDIO HONJO SLUM｜莫とねむが逃げ込んだ廃工場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595374,
+          35.754481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 35,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0035/images/u8mDLOnljz.webp",
+        "location": "",
+        "point_id": "4db78ebe",
+        "point_name": "東映東京撮影所 No.16ステージ前｜ゼッツとロードシックスの戦いを見ていたオタクをファイブが捕まえた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.596656,
+          35.752665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 36,
+        "image_url": "",
+        "location": "",
+        "point_id": "b42b61fc",
+        "point_name": "東大泉2丁目の道｜美浪が襲われた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.041779,
+          36.437257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 36,
+        "image_url": "",
+        "location": "",
+        "point_id": "e7b97ad2",
+        "point_name": "ALSOK ぐんまアリーナ｜莫がコードゼロイダーで走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.043336,
+          36.437056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 36,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0036/images/jkRTn04EvC.webp",
+        "location": "",
+        "point_id": "ef19ba1c",
+        "point_name": "ALSOK ぐんまアリーナ｜CODE本部？（ノクスがスリーと対峙した場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.45926,
+          35.90774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "",
+        "location": "",
+        "point_id": "b742d121",
+        "point_name": "尚美学園大学｜莫が走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.752169,
+          36.181476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "",
+        "location": "",
+        "point_id": "33bf9776",
+        "point_name": "古河市イーエス中央運動公園｜富士見の部屋から移動した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.752083,
+          36.181683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0037/images/qq1k3BAlXp.webp",
+        "location": "",
+        "point_id": "f709fc53",
+        "point_name": "古河市イーエス中央運動公園 自転車置き場｜莫がノクスと戦った場所（屋根のある場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.459939,
+          35.906852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0037/images/h7w01xsdsF.webp",
+        "location": "",
+        "point_id": "1aadec25",
+        "point_name": "尚美学園大学 グランフォラム｜莫とノクスが戦っていて富士見となすかが割って入るなどした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59392,
+          35.753278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "",
+        "location": "",
+        "point_id": "54857fd0",
+        "point_name": "東映東京撮影所 V1ステージ前｜コードゼロイダーが走っていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593957,
+          35.752861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "",
+        "location": "",
+        "point_id": "f6557a19",
+        "point_name": "東映東京撮影所 No.10ステージ前｜ゼロがファイブと話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593925,
+          35.753055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 37,
+        "image_url": "",
+        "location": "",
+        "point_id": "077f3553",
+        "point_name": "東映東京撮影所 V1ステージ前｜ファイブと父親の写真を撮った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.459939,
+          35.906852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0038/images/1kHAkFwcPp.webp",
+        "location": "",
+        "point_id": "7fbb8c03",
+        "point_name": "尚美学園大学 グランフォラム｜冒頭で莫らが話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595432,
+          35.753688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "35f940bd",
+        "point_name": "東映東京撮影所 本館 ロビーの向かいの部屋｜CODE本部 ファイブがいた部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631951,
+          35.894763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0038/images/cZHcZg9uwL.webp",
+        "location": "",
+        "point_id": "03680417",
+        "point_name": "GMOアリーナさいたま（さいたまスーパーアリーナ）｜ノクスがファントムゴアナイトメアを撃った後にいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.753434,
+          35.705008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "fbc7025f",
+        "point_name": "東京ドームシティ｜ノクスがファントムゴアナイトメアを撃って移動した後の風景1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.753428,
+          35.705016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "c0bc76df",
+        "point_name": "東京ドームシティ｜ノクスがファントムゴアナイトメアを撃って移動した後の風景2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.754741,
+          35.702651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "40a8d4bf",
+        "point_name": "外堀通り｜ノクスがファントムゴアナイトメアを撃って移動した後の風景3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.754351,
+          36.181209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "4b69949d",
+        "point_name": "古河市イーエス中央運動公園｜莫らが車で通った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.752895,
+          36.181834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "f059800f",
+        "point_name": "古河市イーエス中央運動公園｜莫らが乗る車が止まった場所（莫と富士見が車を降りた場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630624,
+          35.896132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0038/images/GMGVHNubO8.webp",
+        "location": "",
+        "point_id": "464af659",
+        "point_name": "GMOアリーナさいたま（さいたまスーパーアリーナ）｜ノクスがミッドナイトシャドウナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629857,
+          35.89591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0038/images/O8s5WFrCSC.webp",
+        "location": "",
+        "point_id": "1889aa27",
+        "point_name": "GMOアリーナさいたま（さいたまスーパーアリーナ）｜莫と富士見がノクスを捜した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.631318,
+          35.896413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "fe446990",
+        "point_name": "大宮ほこすぎ橋｜富士見の配信を見ている人たちがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595458,
+          35.753663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "088443a8",
+        "point_name": "東映東京撮影所 本館 階段｜なすかが富士見の配信を見ていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630237,
+          35.893917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "",
+        "location": "",
+        "point_id": "cf7ad8fe",
+        "point_name": "GMOアリーナさいたま（さいたまスーパーアリーナ）｜富士見がプラカードを持っていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629982,
+          35.894832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 38,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0038/images/VyA5jKFpM9.webp",
+        "location": "",
+        "point_id": "b5bafa7c",
+        "point_name": "GMOアリーナさいたま（さいたまスーパーアリーナ）｜ノクスがロードスリーを倒した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595493,
+          35.75377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "",
+        "location": "",
+        "point_id": "d026555b",
+        "point_name": "東映東京撮影所 本館 2階 会議室｜CODE本部 ゼロがいた部屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.062364,
+          36.380823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "",
+        "location": "",
+        "point_id": "845406f3",
+        "point_name": "前橋刑務所｜谷守刑務所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594295,
+          35.753516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0039/images/8mCDdlcITu.webp",
+        "location": "",
+        "point_id": "452bcb9f",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜ねむがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59404,
+          35.753144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "",
+        "location": "",
+        "point_id": "7f7d0d3c",
+        "point_name": "東映東京撮影所 大森坂｜莫がコードゼロイダーで通った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593191,
+          35.754045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0039/images/gfX43rJL6K.webp",
+        "location": "",
+        "point_id": "cfc3e9b1",
+        "point_name": "東映東京撮影所 プロダクションルームI棟横｜白浪銀次がガンナイトメアになった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.596503,
+          35.757821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0039/images/gS4dNP4peJ.webp",
+        "location": "",
+        "point_id": "ba867ec0",
+        "point_name": "スーパーバリュー ロピア練馬大泉店｜白浪金之助がおにぎりを買った店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.78925,
+          35.689184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0039/images/TLEwBgO8c3.webp",
+        "location": "",
+        "point_id": "190c6ecf",
+        "point_name": "隅田川テラス｜ノクスがドォーンと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.317989,
+          35.709357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 39,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0039/images/g59rRovh77.webp",
+        "location": "",
+        "point_id": "f058a0ec",
+        "point_name": "高月町残土処理場｜ドォーンが移動した場所（ゼッツがドォーンと戦った場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.125675,
+          36.087046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 40,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0040/images/1UDrhQQmQ2.webp",
+        "location": "",
+        "point_id": "133e2330",
+        "point_name": "花園公園（つくば市）｜白浪金之助が夢から覚めた時にいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.124842,
+          36.086507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 40,
+        "image_url": "",
+        "location": "",
+        "point_id": "8897a7a2",
+        "point_name": "ディアステージつくばフォレストテラス周辺の道｜白浪金之助が歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.124991,
+          36.086203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 40,
+        "image_url": "",
+        "location": "",
+        "point_id": "cf1b8ac8",
+        "point_name": "ディアステージつくばフォレストテラス｜白浪金之助が侵入した家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.061842,
+          36.378297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 40,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0040/images/QkWBTcVtbT.webp",
+        "location": "",
+        "point_id": "15707a6e",
+        "point_name": "前橋刑務所｜ゼッツとノクスがパニッシュゴアナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.447003,
+          36.342189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 41,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0041/images/YqRyjmHM2c.webp",
+        "location": "",
+        "point_id": "5ed2d90b",
+        "point_name": "茨城県庁｜CODE本部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -70.601435,
+          -33.417274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 41,
+        "image_url": "",
+        "location": "",
+        "point_id": "ac9877e4",
+        "point_name": "ウルバノ・トバラバ市場（チリ）｜CODE本部（空撮映像で爆発した建物）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594647,
+          35.75449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 41,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0041/images/jvkJB6dJoj.webp",
+        "location": "",
+        "point_id": "33527e5d",
+        "point_name": "東映東京撮影所 中倉庫（おそらく）｜第八備品倉庫（怪事課）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594126,
+          35.752909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 41,
+        "image_url": "",
+        "location": "",
+        "point_id": "620b69ed",
+        "point_name": "東映東京撮影所 スタジオ21 屋上｜カタストロフゴアナイトメアがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          101.711625,
+          3.15833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 41,
+        "image_url": "",
+        "location": "",
+        "point_id": "aff25480",
+        "point_name": "ペトロナスツインタワー（マレーシア）｜CODE 東南アジア支部から見えるビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595046,
+          35.754296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 41,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0041/images/AATYGE92jx.webp",
+        "location": "",
+        "point_id": "2c61add9",
+        "point_name": "東映東京撮影所 東映デジタルセンターとNo.18ステージの間｜莫がゼロに連絡した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744911,
+          35.702984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 42,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0042/images/FLtQ5EM6Gd.webp",
+        "location": "",
+        "point_id": "211b4a72",
+        "point_name": "外堀通り｜富士見が小鷹を捕まえた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762416,
+          35.699849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 42,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0042/images/dAP1h8AJyI.webp",
+        "location": "",
+        "point_id": "f0ae39a2",
+        "point_name": "それゆけ！鶏ヤロー！御茶ノ水店｜富士見が小鷹と話をした店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.444719,
+          36.341412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 42,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0042/images/z1xme8wFYl.webp",
+        "location": "",
+        "point_id": "96b85fea",
+        "point_name": "茨城県庁｜莫が小鷹と話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.971984,
+          36.597345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 43,
+        "image_url": "",
+        "location": "",
+        "point_id": "254eddd3",
+        "point_name": "キーテクノロジーぐんま天文台 ストーンサークル｜パニッシュゴアナイトメアが捕らえた人たちに裁きを下していた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.593955,
+          35.753447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 43,
+        "image_url": "",
+        "location": "",
+        "point_id": "abec1267",
+        "point_name": "東映東京撮影所 V2ステージ前｜富士見が小鷹を尾行していた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595405,
+          35.752088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 43,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0043/images/LLGnfwKpvf.webp",
+        "location": "",
+        "point_id": "d0ba34f9",
+        "point_name": "リヴィンオズ大泉店 屋上｜パニッシュゴアナイトメアがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.981498,
+          35.931478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 43,
+        "image_url": "",
+        "location": "",
+        "point_id": "cb884e56",
+        "point_name": "スタジオ ムーンニンフ｜小鷹が入った建物 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594189,
+          35.754124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 43,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0043/images/pfkoos7xpo.webp",
+        "location": "",
+        "point_id": "81269246",
+        "point_name": "東映東京撮影所 プロダクションルームE棟裏｜ねむがジークと話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594299,
+          35.753516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 43,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0043/images/jxbbvpmjFF.webp",
+        "location": "",
+        "point_id": "7ce2c7bd",
+        "point_name": "東映東京撮影所 Gスタジオ 屋上｜パニッシュゴアナイトメアを倒した後に莫とねむがいた屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756005,
+          35.54832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 44,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0044/images/1Fq0KDo3vz.webp",
+        "location": "",
+        "point_id": "f99cb407",
+        "point_name": "羽田イノベーションシティ｜ねむがジークと話をした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756312,
+          35.547905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 44,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0044/images/AXsfdjVUbM.webp",
+        "location": "",
+        "point_id": "1eca42c1",
+        "point_name": "羽田イノベーションシティ｜ねむが歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.341624,
+          35.625702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 45,
+        "image_url": "",
+        "location": "",
+        "point_id": "b40ef991",
+        "point_name": "日本工学院八王子専門学校｜ねむが目覚めて人を探した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637623,
+          35.758536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 45,
+        "image_url": "",
+        "location": "",
+        "point_id": "6a6f9bc1",
+        "point_name": "チャーム 光が丘｜ねむとレディが暮らしているマンション 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595371,
+          35.754532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 45,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0045/images/9FrTiVdVLf.webp",
+        "location": "",
+        "point_id": "1dcfa148",
+        "point_name": "東映東京撮影所 No.16ステージ｜映画の撮影をしているスタジオ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.415589,
+          35.696245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 45,
+        "image_url": "",
+        "location": "",
+        "point_id": "479a9260",
+        "point_name": "BABEL｜ねむのイベントの会場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.186687,
+          36.080286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 45,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0045/images/oL1nC68xZB.webp",
+        "location": "",
+        "point_id": "c7273eee",
+        "point_name": "大英興業 寄居採石場｜ねむのイベントの会場から移動した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.339722,
+          35.62431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0046/images/Tskkr4lJ8g.webp",
+        "location": "",
+        "point_id": "0dc80143",
+        "point_name": "日本工学院八王子専門学校｜ゼッツがコードゼロイダーに乗って走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.343186,
+          35.624935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "",
+        "location": "",
+        "point_id": "f10a0b9b",
+        "point_name": "日本工学院八王子専門学校｜「Recall the dream.」と書かれたポスターがあった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.342099,
+          35.627191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "",
+        "location": "",
+        "point_id": "7e8226ad",
+        "point_name": "日本工学院八王子専門学校｜ゼッツがコードゼロイダーを止めた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.637623,
+          35.758536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "",
+        "location": "",
+        "point_id": "26078787",
+        "point_name": "チャーム 光が丘｜フィオレスタ翠（ねむとレディが暮らしていたマンション） 外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692642,
+          35.690724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "",
+        "location": "",
+        "point_id": "ecf73392",
+        "point_name": "中央通り（新宿）｜ねむ監禁のニュース映像が流れた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594005,
+          35.752881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0046/images/lDtMOhTt9Q.webp",
+        "location": "",
+        "point_id": "f6695fc7",
+        "point_name": "東映東京撮影所 No.10ステージ前｜警察のテントがあった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594342,
+          35.752978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "",
+        "location": "",
+        "point_id": "97abffd4",
+        "point_name": "東映東京撮影所 スタジオ21・技術館の裏｜ノクスの体が現れた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.788803,
+          36.119588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 46,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0046/images/f1hMax4ype.webp",
+        "location": "",
+        "point_id": "e9ac8ab3",
+        "point_name": "さしま環境センター ごみ処理場跡地｜ゼッツがファントムゴアナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594342,
+          35.752978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "4bf4877b",
+        "point_name": "東映東京撮影所 スタジオ21・技術館の裏｜ノクスが倒れていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594586,
+          35.75312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "a6aa4106",
+        "point_name": "東映東京撮影所 技術館前｜莫がコードゼロイダーを止めた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595549,
+          35.753696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "85311c89",
+        "point_name": "東映東京撮影所 本館 ロビー｜警視庁 富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.500634,
+          35.741856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "5d99b415",
+        "point_name": "ガスミュージアム｜富士見となすかが呼び出されて行った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594647,
+          35.75449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "52a0dcb8",
+        "point_name": "東映東京撮影所 中倉庫（おそらく）｜怪事課（倉庫）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594289,
+          35.75296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "ef4b4be2",
+        "point_name": "東映東京撮影所 スタジオ21｜「影」の痕跡があった場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.794535,
+          35.665203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "",
+        "location": "",
+        "point_id": "6206eccb",
+        "point_name": "越中島STビル 屋上｜莫が変身した屋上",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791965,
+          35.651969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 47,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0047/images/PNzt8DiPUa.webp",
+        "location": "",
+        "point_id": "bd92c5c9",
+        "point_name": "がすてなーに ガスの科学館｜ゼッツがオブリビオンゴアナイトメアと戦った場所（屋外）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791387,
+          35.65156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 48,
+        "image_url": "",
+        "location": "",
+        "point_id": "3f38126f",
+        "point_name": "がすてなーに ガスの科学館｜オブリビオンゴアナイトメアと戦っていてジークが現れた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.614347,
+          35.787144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 48,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0048/images/xcyHLw3Qy1.webp",
+        "location": "",
+        "point_id": "0105f984",
+        "point_name": "中丸隧道｜富士見となすかがブラックケースの痕跡を見つけた場所（ねむとジークが行った地下道）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.388743,
+          36.275563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 48,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0048/images/22kEB6MM66.webp",
+        "location": "",
+        "point_id": "86dc7635",
+        "point_name": "茨城県畜産センター養鶏研究室跡地｜ノクスとドォーンがオブリビオンゴアナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.507657,
+          35.797244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 48,
+        "image_url": "",
+        "location": "",
+        "point_id": "61546392",
+        "point_name": "ところざわサクラタウン｜世界が元に戻った時に富士見となすかがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701093,
+          35.692113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "",
+        "location": "",
+        "point_id": "16d80889",
+        "point_name": "JR新宿駅 東口駅前広場｜なすかが美浪と電話していた時の風景1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70187,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "",
+        "location": "",
+        "point_id": "b7a78a4e",
+        "point_name": "新宿駅東口の風景｜なすかが美浪と電話していた時の風景2（横断歩道）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699769,
+          35.692611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "",
+        "location": "",
+        "point_id": "1bfee408",
+        "point_name": "新宿パレットビル（東口側から撮影、左右反転）｜なすかが美浪と電話していた時の風景3（看板）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.104833,
+          34.927809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "",
+        "location": "",
+        "point_id": "2926ca6e",
+        "point_name": "一碧湖｜莫らがねむを捜しに行った湖",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756104,
+          35.548216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0049/images/RHbuEgblkv.webp",
+        "location": "",
+        "point_id": "cceada64",
+        "point_name": "羽田イノベーションシティ｜オブリビオンゴアナイトメアがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701832,
+          35.69221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "",
+        "location": "",
+        "point_id": "ed1aa315",
+        "point_name": "新宿駅東口交差点｜人が消えた場所（屋外）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594106,
+          35.752419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 49,
+        "image_url": "",
+        "location": "",
+        "point_id": "1c8a6b24",
+        "point_name": "東映東京撮影所 西門｜ノクスがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.755896,
+          35.548396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0050/images/jexrIyFVzG.webp",
+        "location": "",
+        "point_id": "d3c9cac4",
+        "point_name": "羽田イノベーションシティ｜ゼッツらがオブリビオンゴアナイトメアと戦った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653886,
+          36.329611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "21b46f77",
+        "point_name": "岩船山｜オブリビオンゴアナイトメアがねむに蹴られて移動した場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653094,
+          36.329719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "90f41ebe",
+        "point_name": "岩船山｜ゼッツらがオブリビオンゴアナイトメアと戦った場所（崖から落ちて以降）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700961,
+          35.692746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "c9c220cb",
+        "point_name": "モア2番街｜数カ月後の風景1",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70187,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "4396a8ef",
+        "point_name": "新宿駅東口の風景｜数カ月後の風景2",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699769,
+          35.692611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "b9a407ab",
+        "point_name": "新宿パレットビル（東口側から撮影、左右反転）｜数カ月後の風景3",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702009,
+          35.692221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "c78a8bb1",
+        "point_name": "新宿駅東口｜美浪らがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594176,
+          35.752296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "f4f7bf40",
+        "point_name": "東映通り｜美浪らの様子をエイトが見ていた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.886439,
+          35.77916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0050/images/urA6TTwvtr.webp",
+        "location": "",
+        "point_id": "0b04a63c",
+        "point_name": "東金町歩道橋｜富士見らが聞き込みをした場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.59451,
+          35.753509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "1ea9b0b3",
+        "point_name": "東映東京撮影所 Gスタジオ前｜莫がコードゼロイダーに乗って走った場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.886696,
+          35.778423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "https://www.tv-asahi.co.jp/zeztz/story/0050/images/BMjE3v4EdH.webp",
+        "location": "",
+        "point_id": "94e1a94b",
+        "point_name": "国道298号線（葛飾大橋付近）｜エイトが指輪を外して歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.886607,
+          35.77853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "743afe22",
+        "point_name": "東金町歩道橋｜富士見らが歩いた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.653094,
+          36.329719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "e84beaa8",
+        "point_name": "岩船山｜ジークがいた場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.790553,
+          33.087701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "630f9384",
+        "point_name": "ハウステンボス｜ねむの夢の中の場所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.594146,
+          35.752362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545304,
+        "bangumi_title": "假面骑士ZZZ",
+        "ep_cut": 50,
+        "image_url": "",
+        "location": "",
+        "point_id": "ab53d855",
+        "point_name": "東映東京撮影所 西門｜星乃塚学園大学 校門（ねむらが集まった場所）",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

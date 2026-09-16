@@ -3,20 +3,60 @@
     {
       "geometry": {
         "coordinates": [
-          135.73923,
-          35.026569
+          135.772065,
+          35.028864
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1texcqm-1750965808889.jpg",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j62x9d0-1788737003845.webp",
         "location": "",
-        "point_id": "1texcqm",
-        "point_name": "とようけ屋山本",
-        "remark": ""
+        "point_id": "j62x9d0",
+        "point_name": "賀茂大橋",
+        "remark": "画面内容由大桥南侧车道向南拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771631,
+          35.021833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j635zq3-1788737389848.webp",
+        "location": "",
+        "point_id": "j635zq3",
+        "point_name": "荒神 飛び石",
+        "remark": "标题画面内容自南向北拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.773738,
+          34.992941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j66cvcr-1788742969866.webp",
+        "location": "",
+        "point_id": "j66cvcr",
+        "point_name": "おじさんの家",
+        "remark": "北向南拍摄"
       },
       "type": "Feature"
     },
@@ -31,12 +71,72 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tf14yz-1750965929240.jpg",
         "location": "",
         "point_id": "1tf14yz",
         "point_name": "鎌田川魚店",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.73923,
+          35.026569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1texcqm-1750965808889.jpg",
+        "location": "",
+        "point_id": "1texcqm",
+        "point_name": "とようけ屋山本",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.732197,
+          35.026403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j6044f2-1788732440780.webp",
+        "location": "",
+        "point_id": "j6044f2",
+        "point_name": "長文屋 七味",
+        "remark": "画面内容从店内由西北向东南拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771131,
+          35.022302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j5sepkm-1788719300297.webp",
+        "location": "",
+        "point_id": "j5sepkm",
+        "point_name": "荒神口 鴨川公園",
+        "remark": "镜头朝东南向拍摄"
       },
       "type": "Feature"
     },
@@ -51,7 +151,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tf2x1i-1750965991954.jpg",
         "location": "",
         "point_id": "1tf2x1i",
@@ -71,7 +171,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tf6oav-1750966179774.jpg",
         "location": "",
         "point_id": "1tf6oav",
@@ -91,12 +191,32 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tf9keq-1750966311521.jpg",
         "location": "",
         "point_id": "1tf9keq",
         "point_name": "WEEKENDERS COFFEE TOMINOKOJI",
-        "remark": ""
+        "remark": "已停业"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771073,
+          35.037126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j618cpp-1788734238103.webp",
+        "location": "",
+        "point_id": "j618cpp",
+        "point_name": "グリル生研会館",
+        "remark": "由西北向东南拍摄画面内容"
       },
       "type": "Feature"
     },
@@ -111,7 +231,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfffi3-1750966599137.jpg",
         "location": "",
         "point_id": "1tfffi3",
@@ -131,7 +251,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfjq8o-1750966783004.jpg",
         "location": "",
         "point_id": "1tfjq8o",
@@ -151,7 +271,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tflrtn-1750966880869.jpg",
         "location": "",
         "point_id": "1tflrtn",
@@ -171,7 +291,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfqky4-1750967101210.jpg",
         "location": "",
         "point_id": "1tfqky4",
@@ -191,7 +311,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfsg2j-1750967185506.jpg",
         "location": "",
         "point_id": "1tfsg2j",
@@ -211,12 +331,12 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfvmmq-1750967343566.jpg",
         "location": "",
         "point_id": "1tfvmmq",
         "point_name": "天ぷら天忠",
-        "remark": ""
+        "remark": "已停业"
       },
       "type": "Feature"
     },
@@ -231,71 +351,11 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfxsdc-1750967434127.jpg",
         "location": "",
         "point_id": "1tfxsdc",
         "point_name": "鯖街道口 石碑",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.754589,
-          35.009738
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 297152,
-        "bangumi_title": "京都小住。",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfzwb2-1750967530624.jpg",
-        "location": "",
-        "point_id": "1tfzwb2",
-        "point_name": "西本酒店",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.771995,
-          35.029522
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 297152,
-        "bangumi_title": "京都小住。",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tg0mau-1750967581947.jpg",
-        "location": "",
-        "point_id": "1tg0mau",
-        "point_name": "鴨川デルタ",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.771122,
-          35.023034
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 297152,
-        "bangumi_title": "京都小住。",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tgj5ro-1750968440116.jpg",
-        "location": "",
-        "point_id": "1tgj5ro",
-        "point_name": "荒神口 鴨川公園",
         "remark": ""
       },
       "type": "Feature"
@@ -311,7 +371,7 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1th2j5n-1750969335541.jpg",
         "location": "",
         "point_id": "1th2j5n",
@@ -331,11 +391,111 @@
       "properties": {
         "bangumi_id": 297152,
         "bangumi_title": "京都小住。",
-        "ep_cut": "",
+        "ep_cut": "年末SP",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1th38rz-1750969365119.jpg",
         "location": "",
         "point_id": "1th38rz",
         "point_name": "音羽川砂防ダム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.769887,
+          35.020157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j62gwkk-1788736286220.webp",
+        "location": "",
+        "point_id": "j62gwkk",
+        "point_name": "STOCKROOM ストックルーム",
+        "remark": "画面内容由西南向东北拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771122,
+          35.023034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tgj5ro-1750968440116.jpg",
+        "location": "",
+        "point_id": "1tgj5ro",
+        "point_name": "荒神口 鴨川公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771503,
+          35.021788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/297152/points/j5vmvfv-1788724688808.webp",
+        "location": "",
+        "point_id": "j5vmvfv",
+        "point_name": "荒神 飛び石",
+        "remark": "由南向北拍摄画面中内容。\n*此处并非鸭川三角洲而是荒神的飛び石"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.771995,
+          35.029522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tg0mau-1750967581947.jpg",
+        "location": "",
+        "point_id": "1tg0mau",
+        "point_name": "荒神 飛び石",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.754589,
+          35.009738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 297152,
+        "bangumi_title": "京都小住。",
+        "ep_cut": "年末SP",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/297152/points/1tfzwb2-1750967530624.jpg",
+        "location": "",
+        "point_id": "1tfzwb2",
+        "point_name": "西本酒店",
         "remark": ""
       },
       "type": "Feature"

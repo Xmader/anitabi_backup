@@ -22,7 +22,7 @@
       "name": "主视觉图&&PV2",
       "remark": "",
       "status_code": 2168,
-      "user_id": 34612,
+      "user_id": 9743,
       "zoom": 7
     },
     {
@@ -36,21 +36,36 @@
       "name": "昭和纪念公园",
       "remark": "来源：@ssslocation",
       "status_code": 2168,
-      "user_id": 34612,
+      "user_id": 27821,
       "zoom": 69
+    },
+    {
+      "ep_cut": 8,
+      "id": "j9xkjnk",
+      "image_path": "/images/user/0/bangumi/456080/points/j9xkjnk-1788969979558.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/456080/points/j9xkjnk-1788969979558.webp",
+      "lat": 35.668436,
+      "lng": 139.650036,
+      "location": "",
+      "name": "明大前駅",
+      "remark": "应该是街景的镜像，深红颜色的电车100%是京王线滴，后续画面站台信息屏幕位置也是能对的上的，虽然是有些改编出入的，但是基本上确认应该是明大前了",
+      "status_code": 0,
+      "user_id": 9743,
+      "zoom": 13
     }
   ],
-  "points_count": 2,
+  "points_count": 3,
   "rating": 5,
   "region": "",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/456080_100_76.webp?v=hqtf5",
+    "/images/ptheme/456080_100_76.webp?v=hr2p6",
     [
       "8zu7beq",
-      "8zu9a7n"
+      "8zu9a7n",
+      "j9xkjnk"
     ],
-    1788279436339,
+    1789000972362,
     100,
     76
   ],

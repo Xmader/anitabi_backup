@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.501494,
+          34.668883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 401333,
+        "bangumi_title": "人中之龙7外传 无名之龙",
+        "ep_cut": "道顿堀街景",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/401333/points/j55v6z2-1788681467497.webp",
+        "location": "",
+        "point_id": "j55v6z2",
+        "point_name": "グリコサイン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.502011,
+          34.668781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 401333,
+        "bangumi_title": "人中之龙7外传 无名之龙",
+        "ep_cut": "苍天堀街景",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/401333/points/j55z2kv-1788681607890.webp",
+        "location": "",
+        "point_id": "j55z2kv",
+        "point_name": "大阪王将 道頓堀本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

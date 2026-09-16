@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.501399,
+          34.668735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 223578,
+        "bangumi_title": "人中之龙 极2",
+        "ep_cut": "苍天堀地图街景",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/223578/points/j55n6jl-1788681283363.webp",
+        "location": "",
+        "point_id": "j55n6jl",
+        "point_name": "かに道楽 道頓堀本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701001,
+          35.693787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 223578,
+        "bangumi_title": "人中之龙 极2",
+        "ep_cut": "如龙极2 神室町",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/223578/points/j567jrr-1788682013247.webp",
+        "location": "",
+        "point_id": "j567jrr",
+        "point_name": "歌舞伎町一番街",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

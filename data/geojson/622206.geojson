@@ -3,6 +3,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.376767,
+          35.569126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jcltczv-1789131477893.webp",
+        "location": "",
+        "point_id": "jcltczv",
+        "point_name": "ハローワーク相模原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.37469,
           35.588309
         ],
@@ -43,6 +63,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.371,
+          35.581056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jf0yv3l-1789277862091.webp",
+        "location": "",
+        "point_id": "jf0yv3l",
+        "point_name": "相模原駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.477135,
           35.298753
         ],
@@ -63,19 +103,59 @@
     {
       "geometry": {
         "coordinates": [
-          139.381754,
-          35.592131
+          139.381481,
+          35.591804
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 622206,
         "bangumi_title": "尼古喵喵",
-        "ep_cut": "EP9",
+        "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/j2q9knt-1788534503802.webp",
         "location": "",
         "point_id": "j2q9knt",
         "point_name": "ファッションセンターしまむら 小山町店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.359824,
+          35.562369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jf0ni5v-1789277381299.webp",
+        "location": "",
+        "point_id": "jf0ni5v",
+        "point_name": "横山公園前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.062566,
+          35.352216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jdyjtjm-1789213315393.webp",
+        "location": "",
+        "point_id": "jdyjtjm",
+        "point_name": "洒水の滝",
         "remark": ""
       },
       "type": "Feature"

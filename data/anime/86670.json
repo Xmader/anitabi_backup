@@ -1031,7 +1031,7 @@
       "remark": "",
       "status_code": 1073,
       "user_id": 1681,
-      "zoom": 1742
+      "zoom": 1098
     },
     {
       "ep_cut": 13,
@@ -1535,7 +1535,7 @@
       "remark": "心夏的饭能大冒险！kokona顺着入间川向下游走，遇见野营一行人之后的场景",
       "status_code": 0,
       "user_id": 507,
-      "zoom": 3515
+      "zoom": 2702
     },
     {
       "ep_cut": 20,
@@ -1886,9 +1886,23 @@
       "status_code": 1073,
       "user_id": 302,
       "zoom": 50963
+    },
+    {
+      "ep_cut": "7",
+      "id": "jhqeek9",
+      "image_path": "/images/user/0/bangumi/86670/points/jhqeek9-1789441529031.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/jhqeek9-1789441529031.webp",
+      "lat": 35.859159,
+      "lng": 139.294335,
+      "location": "",
+      "name": "ドレミファ橋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 10763
     }
   ],
-  "points_count": 134,
+  "points_count": 135,
   "rating": 7.6,
   "region": "饭能市",
   "short_name": "向山进发 2",

@@ -12,6 +12,20 @@
   "id": 622206,
   "points": [
     {
+      "ep_cut": "OP1",
+      "id": "jcltczv",
+      "image_path": "/images/user/0/bangumi/622206/points/jcltczv-1789131477893.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jcltczv-1789131477893.webp",
+      "lat": 35.569126,
+      "lng": 139.376767,
+      "location": "",
+      "name": "ハローワーク相模原",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 384,
+      "zoom": 385
+    },
+    {
       "ep_cut": 1,
       "id": "gldnavl",
       "image_path": "/images/points/622206/gldnavl_1783131689741.webp",
@@ -22,8 +36,8 @@
       "name": "相模原市",
       "remark": "在美国陆军相模补给总库上方向相模原站方向拍摄。\nhttps://www.google.com/maps/@35.5884427,139.3747684,282a,35y,213.22h,76.26t/data=!3m1!1e3",
       "status_code": 1057,
-      "user_id": 1911,
-      "zoom": 892
+      "user_id": 848,
+      "zoom": 848
     },
     {
       "ep_cut": 2,
@@ -36,8 +50,22 @@
       "name": "相模原市役所",
       "remark": "",
       "status_code": 1093,
-      "user_id": 1911,
-      "zoom": 2490
+      "user_id": 384,
+      "zoom": 1152
+    },
+    {
+      "ep_cut": 5,
+      "id": "jf0yv3l",
+      "image_path": "/images/user/0/bangumi/622206/points/jf0yv3l-1789277862091.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jf0yv3l-1789277862091.webp",
+      "lat": 35.581056,
+      "lng": 139.371,
+      "location": "",
+      "name": "相模原駅",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 903,
+      "zoom": 1667
     },
     {
       "ep_cut": 6,
@@ -50,36 +78,69 @@
       "name": "龍恋の鐘",
       "remark": "",
       "status_code": 2173,
-      "user_id": 32329,
+      "user_id": 32013,
       "zoom": 183
     },
     {
-      "ep_cut": "EP9",
+      "ep_cut": 9,
       "id": "j2q9knt",
       "image_path": "/images/user/0/bangumi/622206/points/j2q9knt-1788534503802.webp",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/j2q9knt-1788534503802.webp",
-      "lat": 35.592131,
-      "lng": 139.381754,
+      "lat": 35.591804,
+      "lng": 139.381481,
       "location": "",
       "name": "ファッションセンターしまむら 小山町店",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
-      "zoom": 2444
+      "user_id": 848,
+      "zoom": 2478
+    },
+    {
+      "ep_cut": 10,
+      "id": "jf0ni5v",
+      "image_path": "/images/user/0/bangumi/622206/points/jf0ni5v-1789277381299.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jf0ni5v-1789277381299.webp",
+      "lat": 35.562369,
+      "lng": 139.359824,
+      "location": "",
+      "name": "横山公園前",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 1842,
+      "zoom": 6157
+    },
+    {
+      "ep_cut": 10,
+      "id": "jdyjtjm",
+      "image_path": "/images/user/0/bangumi/622206/points/jdyjtjm-1789213315393.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jdyjtjm-1789213315393.webp",
+      "lat": 35.352216,
+      "lng": 139.062566,
+      "location": "",
+      "name": "洒水の滝",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 40409,
+      "zoom": 11914
     }
   ],
-  "points_count": 4,
+  "points_count": 8,
   "rating": 6.9,
   "region": "相模原市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/622206_100_76.webp?v=hq60s",
+    "/images/ptheme/622206_100_76.webp?v=hr8af",
     [
+      "jcltczv",
       "gldnavl",
       "guf3tan",
-      "i4f8dzz"
+      "jf0yv3l",
+      "i4f8dzz",
+      "j2q9knt",
+      "jf0ni5v",
+      "jdyjtjm"
     ],
-    1786459967456,
+    1789435647770,
     100,
     76
   ],

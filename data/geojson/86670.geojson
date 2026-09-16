@@ -2679,6 +2679,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.294335,
+          35.859159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/jhqeek9-1789441529031.webp",
+        "location": "",
+        "point_id": "jhqeek9",
+        "point_name": "ドレミファ橋",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

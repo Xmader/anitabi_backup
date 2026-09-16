@@ -12,7 +12,7 @@
         "bangumi_id": 233197,
         "bangumi_title": "碧海晴空、彼岸相连",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233197/points/ryk51249q-1737021518955.jpg",
+        "image_url": "https://w.junreimap.com/images/points/233197/ryk51249q_1789234620591.webp",
         "location": "",
         "point_id": "ryk51249q",
         "point_name": "扇池",
@@ -32,7 +32,7 @@
         "bangumi_id": 233197,
         "bangumi_title": "碧海晴空、彼岸相连",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233197/points/ryki24uz1-1737022420859.jpg",
+        "image_url": "https://w.junreimap.com/images/points/233197/ryki24uz1_1789234599219.webp",
         "location": "",
         "point_id": "ryki24uz1",
         "point_name": "スーパー小祝",
@@ -52,10 +52,90 @@
         "bangumi_id": 233197,
         "bangumi_title": "碧海晴空、彼岸相连",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/233197/points/5xtg0eh-1759939130667.jpg",
+        "image_url": "https://w.junreimap.com/images/points/233197/5xtg0eh_1789234608007.webp",
         "location": "",
         "point_id": "5xtg0eh",
         "point_name": "大村海岸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.197433,
+          27.095408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/233197/jebf8ic_1789235116029.webp",
+        "location": "",
+        "point_id": "jebf8ic",
+        "point_name": "おがさわら丸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.19518,
+          27.095146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/233197/jeb727w_1789234573732.webp",
+        "location": "",
+        "point_id": "jeb727w",
+        "point_name": "ハートロックヴィレッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.192485,
+          27.093933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/233197/jeb8wf8_1789234657028.webp",
+        "location": "",
+        "point_id": "jeb8wf8",
+        "point_name": "大神山公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.197303,
+          27.095533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 233197,
+        "bangumi_title": "碧海晴空、彼岸相连",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/233197/jebab90_1789234770720.webp",
+        "location": "",
+        "point_id": "jebab90",
+        "point_name": "",
         "remark": ""
       },
       "type": "Feature"

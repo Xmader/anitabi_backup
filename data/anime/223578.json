@@ -1,0 +1,52 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "",
+  "cover_path": "https://bgm-api.anitabi.cn/img/pic/cover/l/92/91/223578_hU4UJ.jpg",
+  "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/92/91/223578_hU4UJ.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 223578,
+  "points": [
+    {
+      "ep_cut": "苍天堀地图街景",
+      "id": "j55n6jl",
+      "image_path": "/images/user/0/bangumi/223578/points/j55n6jl-1788681283363.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/223578/points/j55n6jl-1788681283363.webp",
+      "lat": 34.668735,
+      "lng": 135.501399,
+      "location": "",
+      "name": "かに道楽 道頓堀本店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 11
+    },
+    {
+      "ep_cut": "如龙极2 神室町",
+      "id": "j567jrr",
+      "image_path": "/images/user/0/bangumi/223578/points/j567jrr-1788682013247.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/223578/points/j567jrr-1788682013247.webp",
+      "lat": 35.693787,
+      "lng": 139.701001,
+      "location": "",
+      "name": "歌舞伎町一番街",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 2
+    }
+  ],
+  "points_count": 2,
+  "rating": 6.9,
+  "region": "",
+  "short_name": "",
+  "theme_meta": 0,
+  "title_cn": "人中之龙 极2",
+  "title_en": "",
+  "title_jp": "龍が如く 極2",
+  "type": "游戏"
+}

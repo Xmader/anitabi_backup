@@ -11,7 +11,7 @@
       "properties": {
         "bangumi_id": 325767,
         "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-        "ep_cut": "6",
+        "ep_cut": 6,
         "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/ic8pcb6-1786932700805.webp",
         "location": "",
         "point_id": "ic8pcb6",
@@ -31,7 +31,7 @@
       "properties": {
         "bangumi_id": 325767,
         "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-        "ep_cut": "6",
+        "ep_cut": 6,
         "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/irx27ey-1787880577681.webp",
         "location": "",
         "point_id": "irx27ey",
@@ -51,12 +51,352 @@
       "properties": {
         "bangumi_id": 325767,
         "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
-        "ep_cut": "6",
+        "ep_cut": 6,
         "image_url": "https://w.junreimap.com/images/user/2195/bangumi/325767/points/irx6a5e-1787880767124.webp",
         "location": "",
         "point_id": "irx6a5e",
         "point_name": "有明GYM-EX来場者用臨時駐車場(搬入出車両待機場)",
         "remark": "大概在这附近拍有明テニスの森站，外面路上应该也能拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785651,
+          35.578188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfthle6_1789329175941.webp",
+        "location": "",
+        "point_id": "jfthle6",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785306,
+          35.578267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvjisx_1789329188808.webp",
+        "location": "",
+        "point_id": "jfvjisx",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785434,
+          35.578198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvjt6l_1789329201390.webp",
+        "location": "",
+        "point_id": "jfvjt6l",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785285,
+          35.578227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvjwss_1789329206275.webp",
+        "location": "",
+        "point_id": "jfvjwss",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785328,
+          35.578298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvjzvl_1789329210043.webp",
+        "location": "",
+        "point_id": "jfvjzvl",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785367,
+          35.578265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvk2kg_1789329213772.webp",
+        "location": "",
+        "point_id": "jfvk2kg",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785336,
+          35.578229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvk5h8_1789329217582.webp",
+        "location": "",
+        "point_id": "jfvk5h8",
+        "point_name": "城南島海浜公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742263,
+          35.574165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jftisjz_1789329275488.webp",
+        "location": "",
+        "point_id": "jftisjz",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742398,
+          35.574729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvoqch_1789329435106.webp",
+        "location": "",
+        "point_id": "jfvoqch",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742544,
+          35.574659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvp05y_1789329443439.webp",
+        "location": "",
+        "point_id": "jfvp05y",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742399,
+          35.574626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvp82a_1789329453244.webp",
+        "location": "",
+        "point_id": "jfvp82a",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7427,
+          35.574682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvpem0_1789329461921.webp",
+        "location": "",
+        "point_id": "jfvpem0",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742619,
+          35.57456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvpjpb_1789329468463.webp",
+        "location": "",
+        "point_id": "jfvpjpb",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7424,
+          35.574837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvppc0_1789329475639.webp",
+        "location": "",
+        "point_id": "jfvppc0",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.74251,
+          35.574833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvpy64_1789329487066.webp",
+        "location": "",
+        "point_id": "jfvpy64",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742578,
+          35.574725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvq4ff_1789329495815.webp",
+        "location": "",
+        "point_id": "jfvq4ff",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.742671,
+          35.574805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 325767,
+        "bangumi_title": "感谢对战。 ～大小姐才不玩格斗游戏～",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/325767/jfvqa4d_1789329502814.webp",
+        "location": "",
+        "point_id": "jfvqa4d",
+        "point_name": "大森ふるさとの浜辺公園",
+        "remark": "非精确坐标"
       },
       "type": "Feature"
     }

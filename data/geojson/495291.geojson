@@ -5279,6 +5279,46 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.905682,
+          34.977988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/495291/points/j4hf8vq-1788640365888.webp",
+        "location": "濑田川大桥",
+        "point_id": "j4hf8vq",
+        "point_name": "瀬田川大橋下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.894425,
+          34.997122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 495291,
+        "bangumi_title": "再见，拉拉",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/495291/points/j4h7qd8-1788640043758.webp",
+        "location": "膳所港",
+        "point_id": "j4h7qd8",
+        "point_name": "近江大橋西詰の歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

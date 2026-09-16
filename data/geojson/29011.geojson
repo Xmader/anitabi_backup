@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.202622,
+          36.097422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 29011,
+        "bangumi_title": "在这苍穹展翅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/29011/jecppx0_1789237276643.webp",
+        "location": "",
+        "point_id": "jecppx0",
+        "point_name": "旧茨城県立土浦中学校本館",
+        "remark": "曾经作为国指定月仅一日对公众开放，目前因为维修暂时已不再对外开放。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.198089,
+          36.036297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 29011,
+        "bangumi_title": "在这苍穹展翅",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/29011/jed93dr_1789238013055.webp",
+        "location": "",
+        "point_id": "jed93dr",
+        "point_name": "霞ヶ浦",
+        "remark": "不是精确标点。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

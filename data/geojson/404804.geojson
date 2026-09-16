@@ -3,6 +3,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.361271,
+          35.662459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/om92lowfp-1727593646002.jpg",
+        "location": "八王子",
+        "point_id": "om92lowfp",
+        "point_name": "北原国際病院",
+        "remark": "现实里为北原国際病院，动画中改为“森山病院”。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.796318,
           35.710996
         ],
@@ -17,66 +37,6 @@
         "point_id": "9v1ygksnu",
         "point_name": "浅草寺 雷門前",
         "remark": "浅草地区的地标，也是电动车赛线路起点。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.770966,
-          35.70076
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 404804,
-        "bangumi_title": "天国大魔境",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/404804/e7semuoff_1727620407783_c16v9.jpg",
-        "location": "秋叶原",
-        "point_id": "e7semuoff",
-        "point_name": "松井ビル",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.772873,
-          35.700358
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 404804,
-        "bangumi_title": "天国大魔境",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/lc038ud4r-1727603367887.jpg",
-        "location": "秋叶原",
-        "point_id": "lc038ud4r",
-        "point_name": "秋葉原UDX ",
-        "remark": "天国大秘境第八集 宇佐美医生为星尾制作的病房位于此地 图中为星尾最后看到的天空"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.361271,
-          35.662459
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 404804,
-        "bangumi_title": "天国大魔境",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/om92lowfp-1727593646002.jpg",
-        "location": "第1话",
-        "point_id": "om92lowfp",
-        "point_name": "北原国際病院",
-        "remark": "现实里为北原国際病院，动画中改为“森山病院”。"
       },
       "type": "Feature"
     },
@@ -203,6 +163,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.792898,
+          35.676283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omcmwg95r-1727601459031.jpg",
+        "location": "木场小镇",
+        "point_id": "omcmwg95r",
+        "point_name": "江东区福住民宅",
+        "remark": "多多梨开设的旅馆，取材自江东区福住1町目7-13的一栋民宅。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.770984,
           35.697167
         ],
@@ -217,26 +197,6 @@
         "point_id": "omcx2fnxs",
         "point_name": "万世橋",
         "remark": "姐弟二人在附近的昭和シェル セルフ万世橋SS用油漆制作广告牌后，来到万世桥上一边钓鱼一边揽客。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.772824,
-          35.70033
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 404804,
-        "bangumi_title": "天国大魔境",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omdqq6s9g-1727603805484.jpg",
-        "location": "秋叶原",
-        "point_id": "omdqq6s9g",
-        "point_name": "秋葉原UDX",
-        "remark": "星尾灯看天空的天台"
       },
       "type": "Feature"
     },
@@ -283,40 +243,60 @@
     {
       "geometry": {
         "coordinates": [
-          139.792898,
-          35.676283
+          139.772873,
+          35.700358
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 404804,
         "bangumi_title": "天国大魔境",
-        "ep_cut": 6,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omcmwg95r-1727601459031.jpg",
-        "location": "木场小镇",
-        "point_id": "omcmwg95r",
-        "point_name": "江东区福住民宅",
-        "remark": "多多梨开设的旅馆，取材自江东区福住1町目7-13的一栋民宅。"
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/lc038ud4r-1727603367887.jpg",
+        "location": "秋叶原",
+        "point_id": "lc038ud4r",
+        "point_name": "秋葉原UDX ",
+        "remark": "天国大秘境第八集 宇佐美医生为星尾制作的病房位于此地 图中为星尾最后看到的天空"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          140.186534,
-          35.82325
+          139.772824,
+          35.70033
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 404804,
         "bangumi_title": "天国大魔境",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/ome5alync-1727604737291.jpg",
-        "location": "",
-        "point_id": "ome5alync",
-        "point_name": "印西市立小林中学校",
-        "remark": "女性至上主义者团体的据点。"
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omdqq6s9g-1727603805484.jpg",
+        "location": "秋叶原",
+        "point_id": "omdqq6s9g",
+        "point_name": "秋葉原UDX",
+        "remark": "星尾灯看天空的天台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770966,
+          35.70076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/404804/e7semuoff_1727620407783_c16v9.jpg",
+        "location": "秋叶原",
+        "point_id": "e7semuoff",
+        "point_name": "松井ビル",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -333,7 +313,7 @@
         "bangumi_title": "天国大魔境",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/ome1tgxwb-1727604502865.jpg",
-        "location": "",
+        "location": "上野",
         "point_id": "ome1tgxwb",
         "point_name": "第２三倉ビル",
         "remark": "高原学园上野分部在此。"
@@ -343,20 +323,20 @@
     {
       "geometry": {
         "coordinates": [
-          135.510915,
-          34.777085
+          140.186534,
+          35.82325
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 404804,
         "bangumi_title": "天国大魔境",
-        "ep_cut": "漫画61话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/oi995isy4-1727280728495.jpg",
-        "location": "关西",
-        "point_id": "oi995isy4",
-        "point_name": "関西大学 千里山キャンパス 北門",
-        "remark": "新天国在此。"
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/ome5alync-1727604737291.jpg",
+        "location": "印西",
+        "point_id": "ome5alync",
+        "point_name": "印西市立小林中学校",
+        "remark": "女性至上主义者团体的据点。"
       },
       "type": "Feature"
     },
@@ -373,7 +353,7 @@
         "bangumi_title": "天国大魔境",
         "ep_cut": 12,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omof9zt8r-1727627099784.jpg",
-        "location": "东海村",
+        "location": "东海村（茨城复兴省）",
         "point_id": "omof9zt8r",
         "point_name": "竹瓦橋",
         "remark": "茨城复兴省设定上位于“曽戸群比丘村小絵町”，现实中应当在茨城県那珂郡東海村取景，但较分散。图中为架在久慈川上的竹瓦桥，斩子在此过桥后前往大过滤装置。"
@@ -393,7 +373,7 @@
         "bangumi_title": "天国大魔境",
         "ep_cut": 13,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/omolskevv-1727627482510.jpg",
-        "location": "东海村",
+        "location": "东海村（茨城复兴省）",
         "point_id": "omolskevv",
         "point_name": "石神​コミュニティ​センター\n内宿​一区分​館",
         "remark": "大过滤装置建筑外观取景为东海村石神​コミュニティ​センター，但位置移动到了村外的久慈川沿岸。"
@@ -437,6 +417,26 @@
         "point_id": "ompxaodv1",
         "point_name": "神奈川県伊勢原市歌川一丁目",
         "remark": "未千佳和鹰在伊势原市歌川一丁目的一条街道上战斗，此处背景的店铺为すき家伊勢原歌川店。同一P，鹰背景的店铺为元祖からあげ本舗まるけん∞ふわたま辛麵専門店サンシン\n。\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.510915,
+          34.777085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 404804,
+        "bangumi_title": "天国大魔境",
+        "ep_cut": "漫画61话",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/404804/points/oi995isy4-1727280728495.jpg",
+        "location": "关西",
+        "point_id": "oi995isy4",
+        "point_name": "関西大学 千里山キャンパス 北門",
+        "remark": "新天国在此。"
       },
       "type": "Feature"
     }

@@ -39,6 +39,26 @@
         "remark": "来源：@ssslocation"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.650036,
+          35.668436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 456080,
+        "bangumi_title": "转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥儿们",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/456080/points/j9xkjnk-1788969979558.webp",
+        "location": "",
+        "point_id": "j9xkjnk",
+        "point_name": "明大前駅",
+        "remark": "应该是街景的镜像，深红颜色的电车100%是京王线滴，后续画面站台信息屏幕位置也是能对的上的，虽然是有些改编出入的，但是基本上确认应该是明大前了"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

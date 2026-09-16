@@ -22,7 +22,7 @@
       "name": "豆大福（出町ふたば）",
       "remark": "",
       "status_code": 0,
-      "user_id": 21,
+      "user_id": 2,
       "zoom": 2
     },
     {
@@ -204,7 +204,7 @@
       "name": "第二軍道の師団橋",
       "remark": "",
       "status_code": 1000,
-      "user_id": 4,
+      "user_id": 11,
       "zoom": 12
     },
     {
@@ -218,7 +218,7 @@
       "name": "第二軍道の師団橋",
       "remark": "",
       "status_code": 1000,
-      "user_id": 4,
+      "user_id": 12,
       "zoom": 12
     },
     {
@@ -638,7 +638,7 @@
       "name": "琵琶湖疏水沿い",
       "remark": "",
       "status_code": 1000,
-      "user_id": 57,
+      "user_id": 11,
       "zoom": 68
     },
     {
@@ -1059,7 +1059,7 @@
       "remark": "",
       "status_code": 1000,
       "user_id": 1,
-      "zoom": 18
+      "zoom": 6
     },
     {
       "ep_cut": 1,
@@ -1073,7 +1073,7 @@
       "remark": "",
       "status_code": 1000,
       "user_id": 18,
-      "zoom": 35
+      "zoom": 21
     },
     {
       "ep_cut": 1,
@@ -1352,22 +1352,22 @@
       "name": "出町ふたば",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 2,
       "zoom": 20
     },
     {
-      "ep_cut": "14",
+      "ep_cut": 14,
       "id": "iw6b4d1",
       "image_path": "/images/user/0/bangumi/55113/points/iw6b4d1-1788137973298.webp",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/55113/points/iw6b4d1-1788137973298.webp",
-      "lat": 35.03104,
-      "lng": 135.767877,
+      "lat": 35.030828,
+      "lng": 135.767876,
       "location": "",
       "name": "イマーブル大央",
-      "remark": "",
+      "remark": "视点位于此处",
       "status_code": 0,
-      "user_id": null,
-      "zoom": 79
+      "user_id": 5,
+      "zoom": 55
     }
   ],
   "points_count": 97,
@@ -1375,7 +1375,7 @@
   "region": "京都市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/55113_100_76.webp?v=h5act",
+    "/images/ptheme/55113_100_76.webp?v=hr695",
     [
       "31pe111",
       "31pe112",
@@ -1471,9 +1471,11 @@
       "31pe12z",
       "31pe139",
       "ncsjb9p5z",
-      "ncsksngu4"
+      "ncsksngu4",
+      "3jx379m",
+      "iw6b4d1"
     ],
-    1728010385783,
+    1789277369286,
     100,
     76
   ],
