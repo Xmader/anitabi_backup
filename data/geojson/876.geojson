@@ -5659,6 +5659,26 @@
         "remark": "前面蓋了一棟房子，但應該還算能巡禮"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.42653,
+          35.779765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 876,
+        "bangumi_title": "CLANNAD 〜AFTER STORY〜",
+        "ep_cut": "游戏CG",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/876/points/jmttnyr-1789749781544.webp",
+        "location": "",
+        "point_id": "jmttnyr",
+        "point_name": "学校正门前",
+        "remark": "所沢市立上山口中学校"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

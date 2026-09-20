@@ -843,6 +843,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.714199,
+          35.634416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 604826,
+        "bangumi_title": "超时空辉夜姬！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/604826/points/jie9q7b-1789481579197.webp",
+        "location": "",
+        "point_id": "jie9q7b",
+        "point_name": "スターバックス コーヒー 目黒店",
+        "remark": "转载"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.447749,
           35.71433
         ],

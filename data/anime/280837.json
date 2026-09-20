@@ -97,6 +97,62 @@
     },
     {
       "ep_cut": "",
+      "id": "jirm1b4",
+      "image_path": "/images/user/0/bangumi/280837/points/jirm1b4-1789504045478.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jirm1b4-1789504045478.webp",
+      "lat": 49.482986,
+      "lng": 8.461719,
+      "location": "Mannheim, Germany",
+      "name": "Barockschloss Mannheim",
+      "remark": "截圖為表達學生共膳的禮堂位置；在Reception的前面有一模一樣的門，不過在博物館中禮堂為其他用途並不能直接從門中進入。",
+      "status_code": 0,
+      "user_id": 2,
+      "zoom": 3
+    },
+    {
+      "ep_cut": "",
+      "id": "jirag6p",
+      "image_path": "/images/user/0/bangumi/280837/points/jirag6p-1789503543155.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jirag6p-1789503543155.webp",
+      "lat": 49.483109,
+      "lng": 8.462762,
+      "location": "Mannheim, Germany",
+      "name": "Universität Mannheim (EO Bar & Lounge)",
+      "remark": "其中一帧沒有太大意義的分鏡，左邊的門通往學生食堂EO Bar & Lounge，向前則是前往Schneckenhof。",
+      "status_code": 0,
+      "user_id": 96,
+      "zoom": 97
+    },
+    {
+      "ep_cut": "",
+      "id": "jis4lkg",
+      "image_path": "/images/user/0/bangumi/280837/points/jis4lkg-1789504874509.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jis4lkg-1789504874509.webp",
+      "lat": 49.483004,
+      "lng": 8.461732,
+      "location": "Mannheim, Germany",
+      "name": "Barockschloss Mannheim",
+      "remark": "Knights Hall外的位置，如果不想付費進入博物館看的話可以從大學Ehrenhof圖書館朝外的窗戶從上看下去（不過都老遠來到了十歐八歐也不用特別省吧",
+      "status_code": 0,
+      "user_id": 2,
+      "zoom": 5
+    },
+    {
+      "ep_cut": "",
+      "id": "jiru03w",
+      "image_path": "/images/user/0/bangumi/280837/points/jiru03w-1789504371739.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jiru03w-1789504371739.webp",
+      "lat": 49.483113,
+      "lng": 8.461896,
+      "location": "Mannheim, Germany",
+      "name": "Barockschloss Mannheim",
+      "remark": "此處為曼海姆皇宮正門，而正門有五道相似的門；留意門內的樓梯朝向，故確定此為正中的大門。",
+      "status_code": 0,
+      "user_id": 22,
+      "zoom": 27
+    },
+    {
+      "ep_cut": "",
       "id": "d4496e1d",
       "image_path": "/images/points/280837/d4496e1d_1734342478409.jpg",
       "image_url": "https://w.junreimap.com/images/points/280837/d4496e1d_1734342478409.jpg",
@@ -120,7 +176,7 @@
       "name": "Mannheim Baroque Palace (Knights Hall)",
       "remark": "The Debut dance of Violet and Amy/Isabella is one of my favorite scenes in the movie. Knights Hall is used a the model for the background artwork. A few other backgrounds used for the school, are based on other parts of the palace too.photos/editing by @And3rgraund",
       "status_code": 0,
-      "user_id": 53,
+      "user_id": 2,
       "zoom": 54
     },
     {
@@ -348,21 +404,21 @@
       "zoom": 566
     }
   ],
-  "points_count": 24,
+  "points_count": 28,
   "rating": 7.4,
   "region": "欧洲",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/280837_100_76.webp?v=hr7qh",
+    "/images/ptheme/280837_100_76.webp?v=hr9bz",
     [
       "39259cb5",
-      "p8qwz5hsc",
       "76a79ce7",
+      "p8qwz5hsc",
       "65f2355d",
       "498f62f7",
       "069b07ea",
-      "94cb5f1f",
       "d4496e1d",
+      "94cb5f1f",
       "jfmc2nl",
       "qzo67mlsg",
       "2285tsf",
@@ -378,9 +434,13 @@
       "210eb665",
       "3be9d0c3",
       "d907584e",
-      "4d91640e"
+      "4d91640e",
+      "jirag6p",
+      "jirm1b4",
+      "jiru03w",
+      "jis4lkg"
     ],
-    1789392545083,
+    1789516780828,
     100,
     76
   ],

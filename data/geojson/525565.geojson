@@ -1763,206 +1763,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.553854,
-          35.56699
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "5",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl5z9xr-1772234813130.jpg",
-        "location": "山内図書館・山内地区センター-横浜市",
-        "point_id": "bl5z9xr",
-        "point_name": "山内図書館",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.553819,
-          35.566839
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "5",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl69ip0-1772235285386.jpg",
-        "location": "山内図書館・山内地区センター-横浜市",
-        "point_id": "bl69ip0",
-        "point_name": "山内図書館",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.553878,
-          35.567136
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "5",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl6du7n-1772235483250.jpg",
-        "location": "山内図書館・山内地区センター-横浜市",
-        "point_id": "bl6du7n",
-        "point_name": "山内地区センター前交差点",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.55386,
-          35.567057
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "5",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl6g694-1772235595121.jpg",
-        "location": "山内図書館・山内地区センター-横浜市",
-        "point_id": "bl6g694",
-        "point_name": "あざみ野の河津桜",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.553872,
-          35.567096
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "5",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl6c4p0-1772235402875.jpg",
-        "location": "山内図書館・山内地区センター-横浜市",
-        "point_id": "bl6c4p0",
-        "point_name": "山内地区センター",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.776282,
-          35.71649
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "第九集",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/dx153nu-1777305862414.jpg",
-        "location": "",
-        "point_id": "dx153nu",
-        "point_name": " 东京国立科学博物馆",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.647976,
-          35.444089
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "12",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/dyfj9lg-1777390495617.jpg",
-        "location": "",
-        "point_id": "dyfj9lg",
-        "point_name": "横滨中华街朝阳门",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.553797,
-          35.565854
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "5",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/e9ccj94-1778052354422.jpg",
-        "location": "山内図書館・山内地区センター-横浜市",
-        "point_id": "e9ccj94",
-        "point_name": "あざみ野南橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.647967,
-          35.452454
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/fapr9qx-1780310019529.jpg",
-        "location": "",
-        "point_id": "fapr9qx",
-        "point_name": "大さん橋",
-        "remark": "小情侣站这里地上有路标"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.549848,
-          35.56199
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 525565,
-        "bangumi_title": "相反的你和我",
-        "ep_cut": "2",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/gl9kbv1-1783124914716.webp",
-        "location": "赤田西公園-横浜市",
-        "point_id": "gl9kbv1",
-        "point_name": "赤田西公園入口交差点",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.538731,
           35.590458
         ],
@@ -1971,7 +1771,7 @@
       "properties": {
         "bangumi_id": 525565,
         "bangumi_title": "相反的你和我",
-        "ep_cut": "1",
+        "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/gla5l5v-1783125846860.webp",
         "location": "美しが丘西一丁目交差点-横浜市",
         "point_id": "gla5l5v",
@@ -1991,7 +1791,7 @@
       "properties": {
         "bangumi_id": 525565,
         "bangumi_title": "相反的你和我",
-        "ep_cut": "1",
+        "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/glakbm0-1783126415826.webp",
         "location": "美しが丘西一丁目交差点-横浜市",
         "point_id": "glakbm0",
@@ -2011,11 +1811,191 @@
       "properties": {
         "bangumi_id": 525565,
         "bangumi_title": "相反的你和我",
-        "ep_cut": "2",
+        "ep_cut": 2,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/glaq2jd-1783126679646.webp",
         "location": "美しが丘西一丁目交差点-横浜市",
         "point_id": "glaq2jd",
         "point_name": "美しが丘西一丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.549848,
+          35.56199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/gl9kbv1-1783124914716.webp",
+        "location": "赤田西公園-横浜市",
+        "point_id": "gl9kbv1",
+        "point_name": "赤田西公園入口交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553797,
+          35.565854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/e9ccj94-1778052354422.jpg",
+        "location": "山内図書館・山内地区センター-横浜市",
+        "point_id": "e9ccj94",
+        "point_name": "あざみ野南橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553854,
+          35.56699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl5z9xr-1772234813130.jpg",
+        "location": "山内図書館・山内地区センター-横浜市",
+        "point_id": "bl5z9xr",
+        "point_name": "山内図書館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553819,
+          35.566839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl69ip0-1772235285386.jpg",
+        "location": "山内図書館・山内地区センター-横浜市",
+        "point_id": "bl69ip0",
+        "point_name": "山内図書館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553872,
+          35.567096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl6c4p0-1772235402875.jpg",
+        "location": "山内図書館・山内地区センター-横浜市",
+        "point_id": "bl6c4p0",
+        "point_name": "山内地区センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.553878,
+          35.567136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl6du7n-1772235483250.jpg",
+        "location": "山内図書館・山内地区センター-横浜市",
+        "point_id": "bl6du7n",
+        "point_name": "山内地区センター前交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.55386,
+          35.567057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/bl6g694-1772235595121.jpg",
+        "location": "山内図書館・山内地区センター-横浜市",
+        "point_id": "bl6g694",
+        "point_name": "あざみ野の河津桜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776282,
+          35.71649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/dx153nu-1777305862414.jpg",
+        "location": "",
+        "point_id": "dx153nu",
+        "point_name": " 东京国立科学博物馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647976,
+          35.444089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/dyfj9lg-1777390495617.jpg",
+        "location": "",
+        "point_id": "dyfj9lg",
+        "point_name": "横滨中华街朝阳门",
         "remark": ""
       },
       "type": "Feature"
@@ -2031,11 +2011,231 @@
       "properties": {
         "bangumi_id": 525565,
         "bangumi_title": "相反的你和我",
-        "ep_cut": "",
+        "ep_cut": 12,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/io1szos-1787646710131.jpg",
         "location": "",
         "point_id": "io1szos",
         "point_name": "氷川丸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.640298,
+          35.449955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjs5erj-1789565360179.webp",
+        "location": "",
+        "point_id": "jjs5erj",
+        "point_name": "Yamashita Rinko Line Promenade",
+        "remark": "文豪野犬取景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.64129,
+          35.449513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjs9fhr-1789565554363.webp",
+        "location": "",
+        "point_id": "jjs9fhr",
+        "point_name": "Yamashita Rinko Line Promenade",
+        "remark": "应该是偏入口位置，不太确定"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646823,
+          35.45004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjsbl24-1789565669893.webp",
+        "location": "",
+        "point_id": "jjsbl24",
+        "point_name": "Pearl Japan Ocean’s Tears – Akoya Pearl Jewelry Yokohama",
+        "remark": "这个取景我喜欢，下次必来，右面的上桥路，后面取景都在桥上"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646891,
+          35.45039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjsborv-1789565674202.webp",
+        "location": "",
+        "point_id": "jjsborv",
+        "point_name": "Pearl Japan Ocean’s Tears – Akoya Pearl Jewelry Yokohama",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646925,
+          35.450395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjsbvz3-1789565678260.webp",
+        "location": "",
+        "point_id": "jjsbvz3",
+        "point_name": "Pearl Japan Ocean’s Tears – Akoya Pearl Jewelry Yokohama",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647967,
+          35.452454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/fapr9qx-1780310019529.jpg",
+        "location": "",
+        "point_id": "fapr9qx",
+        "point_name": "大さん橋",
+        "remark": "小情侣站这里地上有路标"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654751,
+          35.440612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjskfpa-1789566087112.webp",
+        "location": "",
+        "point_id": "jjskfpa",
+        "point_name": "港の见える丘公园 展望台",
+        "remark": "这里是物语还有文豪的取景，这里看横滨大桥风景特别不错"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654792,
+          35.440612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjsklcs-1789566090824.webp",
+        "location": "",
+        "point_id": "jjsklcs",
+        "point_name": "港の见える丘公园 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654768,
+          35.440578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjskoq8-1789566093855.webp",
+        "location": "",
+        "point_id": "jjskoq8",
+        "point_name": "港の见える丘公园 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654858,
+          35.440592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjskvx6-1789566097314.webp",
+        "location": "",
+        "point_id": "jjskvx6",
+        "point_name": "港の见える丘公园 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.636965,
+          35.455189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/525565/points/jjsntp1-1789566216120.webp",
+        "location": "",
+        "point_id": "jjsntp1",
+        "point_name": "よこはまコスモワールド",
         "remark": ""
       },
       "type": "Feature"

@@ -2899,6 +2899,66 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.196097,
+          34.485345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/219200/points/jj4vvcf-1789526445261.webp",
+        "location": "土庄町东-富丘八幡神社",
+        "point_id": "jj4vvcf",
+        "point_name": "富丘八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.195294,
+          34.485538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/219200/points/jj56tkr-1789526808697.webp",
+        "location": "土庄町东-富丘八幡神社",
+        "point_id": "jj56tkr",
+        "point_name": "富丘八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.195302,
+          34.485521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/219200/points/jj59gx6-1789526939827.webp",
+        "location": "土庄町东-富丘八幡神社",
+        "point_id": "jj59gx6",
+        "point_name": "富丘八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

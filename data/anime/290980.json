@@ -36,7 +36,7 @@
       "name": "11-01_飯能駅",
       "remark": "",
       "status_code": 0,
-      "user_id": 1078,
+      "user_id": 396,
       "zoom": 1
     },
     {
@@ -636,10 +636,10 @@
       "lng": 138.741156,
       "location": "12話",
       "name": "12-31_須走口八合目 江戸屋",
-      "remark": "https://fujisan-edoya.com/edoya2/ (下江戸屋)",
+      "remark": "https://fujisan-edoya.com/edoya2/ (下江戸屋)\n26.7.21 如果走吉田线上山的，可在白雲荘走横切直接到达江户屋（参考卫星图），不必走到本八合目再下降，具体可询问白雲荘工作人员",
       "status_code": 0,
       "user_id": 52,
-      "zoom": 243
+      "zoom": 242
     },
     {
       "ep_cut": 12,
@@ -667,7 +667,7 @@
       "remark": "吉田口与須走口汇合",
       "status_code": 0,
       "user_id": 19,
-      "zoom": 53
+      "zoom": 35
     },
     {
       "ep_cut": 12,
@@ -723,7 +723,7 @@
       "remark": "海拔3600m",
       "status_code": 0,
       "user_id": 47,
-      "zoom": 4
+      "zoom": 0
     },
     {
       "ep_cut": 3,
@@ -1842,7 +1842,7 @@
       "name": "夢彩菓すずき",
       "remark": "作品名稱錯誤（已更正）",
       "status_code": 0,
-      "user_id": 10,
+      "user_id": 396,
       "zoom": 0
     }
   ],
@@ -1851,7 +1851,7 @@
   "region": "饭能市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/290980_100_76.webp?v=hnope",
+    "/images/ptheme/290980_100_76.webp?v=hrb4o",
     [
       "9ch82ds1i",
       "cbeddcca",
@@ -1982,9 +1982,10 @@
       "6w43urw",
       "6w46eem",
       "6w4a2fi",
-      "6w4ct5o"
+      "6w4ct5o",
+      "9j2pz3lgz"
     ],
-    1779514701919,
+    1789656507908,
     100,
     76
   ],

@@ -3,479 +3,19 @@
     {
       "geometry": {
         "coordinates": [
-          139.70064,
-          35.659058
+          139.598961,
+          35.688368
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/369304/65d8b10c_1719534436454.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "65d8b10c",
-        "point_name": "忠犬ハチ公像",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.701359,
-          35.657693
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/369304/0af62fed_1719534436770.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "0af62fed",
-        "point_name": "渋谷駅西口歩道橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.699574,
-          35.659532
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 9,
-        "image_url": "https://w.junreimap.com/images/points/369304/af55ee5f_1719534437103.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "af55ee5f",
-        "point_name": "SHIBUYA109前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.701265,
-          35.660364
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 14,
-        "image_url": "https://w.junreimap.com/images/points/369304/f9f882f4_1719534437832.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "f9f882f4",
-        "point_name": "中渋谷ガード",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.70164,
-          35.660173
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 22,
-        "image_url": "https://w.junreimap.com/images/points/369304/390da915_1719534438168.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "390da915",
-        "point_name": "Colliu「きゅうちゃん」付近",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.700911,
-          35.660483
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/369304/45f55c54_1719534438933.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "45f55c54",
-        "point_name": "西武渋谷店",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.699311,
-          35.661994
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 8,
-        "image_url": "https://w.junreimap.com/images/points/369304/08174c1b_1719534439646.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "08174c1b",
-        "point_name": "渋谷PARCO前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.699172,
-          35.662474
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/369304/c2f2a428_1719534440431.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "c2f2a428",
-        "point_name": "勤労福祉会館前交差点",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697423,
-          35.662167
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/points/369304/6ac9d424_1719534440787.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "6ac9d424",
-        "point_name": "ハンズ渋谷店前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697031,
-          35.66246
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/points/369304/17f0da10_1719534441118.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "17f0da10",
-        "point_name": "CONA 渋谷 宇田川町店横",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697114,
-          35.662619
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 14,
-        "image_url": "https://w.junreimap.com/images/points/369304/a9229629_1719534441499.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "a9229629",
-        "point_name": "フラミンゴ前階段",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697174,
-          35.663288
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 15,
-        "image_url": "https://w.junreimap.com/images/points/369304/7d0315c2_1719534442286.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "7d0315c2",
-        "point_name": "Park Axis 渋谷神南前",
-        "remark": "※私有地内なのでご注意ください。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697383,
-          35.662766
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/369304/f06fc700_1719534442605.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "f06fc700",
-        "point_name": "Rhythm Cafe前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697419,
-          35.662464
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/369304/c4e8865e_1719534443019.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "c4e8865e",
-        "point_name": "生焼きホルモン元家 別邸前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.697594,
-          35.662459
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/369304/6d28d778_1719534444442.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "6d28d778",
-        "point_name": "モンベル 渋谷店裏",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.696967,
-          35.660646
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 22,
-        "image_url": "https://w.junreimap.com/images/points/369304/39cd5b2e_1719534444800.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "39cd5b2e",
-        "point_name": "道玄坂二丁目交差点",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.701858,
-          35.657505
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/369304/3dea890e_1719534445125.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "3dea890e",
-        "point_name": "渋谷駅西口歩道橋付近のガード下",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.702227,
-          35.65877
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 21,
-        "image_url": "https://w.junreimap.com/images/points/369304/82a5187a_1719534445436.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "82a5187a",
-        "point_name": "渋谷駅東口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.701116,
-          35.658252
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 21,
-        "image_url": "https://w.junreimap.com/images/points/369304/f485e36f_1719534446128.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "f485e36f",
-        "point_name": "渋谷駅西口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.700134,
-          35.659888
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 15,
-        "image_url": "https://w.junreimap.com/images/points/369304/d9742027_1719534446440.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "d9742027",
-        "point_name": "渋谷センター街入口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.699197,
-          35.662962
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 12,
-        "image_url": "https://w.junreimap.com/images/points/369304/eb581b14_1719534446777.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "eb581b14",
-        "point_name": "ファミリーマート渋谷公園通り店前公衆電話",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.69944,
-          35.663442
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 10,
-        "image_url": "https://w.junreimap.com/images/points/369304/37691945_1719534447121.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "37691945",
-        "point_name": "LUKE'S LOBSTER 渋谷ParkStreet店",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.701339,
-          35.658701
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 22,
-        "image_url": "https://w.junreimap.com/images/points/369304/ae962169_1719534447859.jpg",
-        "location": "渋谷事変 エンディング",
-        "point_id": "ae962169",
-        "point_name": "JR渋谷駅",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.849052,
-          35.661566
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/points/369304/85d1e816_1719534448682.jpg",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/369304/709d5354_1719534449835.jpg",
         "location": "懐玉・玉折 エンディング",
-        "point_id": "85d1e816",
-        "point_name": "荒川中洲南端",
+        "point_id": "709d5354",
+        "point_name": "久我山駅",
         "remark": ""
       },
       "type": "Feature"
@@ -491,31 +31,11 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 4,
+        "ep_cut": "ED1",
         "image_url": "https://w.junreimap.com/images/points/369304/2044cd22_1719534449451.jpg",
         "location": "懐玉・玉折 エンディング",
         "point_id": "2044cd22",
         "point_name": "日本橋",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.598961,
-          35.688368
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 369304,
-        "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/points/369304/709d5354_1719534449835.jpg",
-        "location": "懐玉・玉折 エンディング",
-        "point_id": "709d5354",
-        "point_name": "久我山駅",
         "remark": ""
       },
       "type": "Feature"
@@ -531,7 +51,7 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 3,
+        "ep_cut": "ED1",
         "image_url": "https://w.junreimap.com/images/points/369304/ec29275f_1719534450825.jpg",
         "location": "懐玉・玉折 エンディング",
         "point_id": "ec29275f",
@@ -551,7 +71,7 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 2,
+        "ep_cut": "ED1",
         "image_url": "https://w.junreimap.com/images/points/369304/0db45303_1719534502487.jpg",
         "location": "懐玉・玉折 エンディング",
         "point_id": "0db45303",
@@ -571,11 +91,491 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 1,
+        "ep_cut": "ED1",
         "image_url": "https://w.junreimap.com/images/points/369304/52c6a559_1719534451434.jpg",
         "location": "懐玉・玉折 エンディング",
         "point_id": "52c6a559",
         "point_name": "ビーフラット・コミュニティパーク宇田川町駐車場横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.849052,
+          35.661566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED1",
+        "image_url": "https://w.junreimap.com/images/points/369304/85d1e816_1719534448682.jpg",
+        "location": "懐玉・玉折 エンディング",
+        "point_id": "85d1e816",
+        "point_name": "荒川中洲南端",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697114,
+          35.662619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/a9229629_1719534441499.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "a9229629",
+        "point_name": "フラミンゴ前階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697031,
+          35.66246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/17f0da10_1719534441118.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "17f0da10",
+        "point_name": "CONA 渋谷 宇田川町店横",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701116,
+          35.658252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/f485e36f_1719534446128.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "f485e36f",
+        "point_name": "渋谷駅西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697419,
+          35.662464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/c4e8865e_1719534443019.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "c4e8865e",
+        "point_name": "生焼きホルモン元家 別邸前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700134,
+          35.659888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/d9742027_1719534446440.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "d9742027",
+        "point_name": "渋谷センター街入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70164,
+          35.660173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/390da915_1719534438168.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "390da915",
+        "point_name": "Colliu「きゅうちゃん」付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701265,
+          35.660364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/f9f882f4_1719534437832.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "f9f882f4",
+        "point_name": "中渋谷ガード",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697174,
+          35.663288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/7d0315c2_1719534442286.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "7d0315c2",
+        "point_name": "Park Axis 渋谷神南前",
+        "remark": "※私有地内なのでご注意ください。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700911,
+          35.660483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/45f55c54_1719534438933.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "45f55c54",
+        "point_name": "西武渋谷店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697383,
+          35.662766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/f06fc700_1719534442605.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "f06fc700",
+        "point_name": "Rhythm Cafe前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697594,
+          35.662459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/6d28d778_1719534444442.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "6d28d778",
+        "point_name": "モンベル 渋谷店裏",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699311,
+          35.661994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/08174c1b_1719534439646.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "08174c1b",
+        "point_name": "渋谷PARCO前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699172,
+          35.662474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/c2f2a428_1719534440431.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "c2f2a428",
+        "point_name": "勤労福祉会館前交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701339,
+          35.658701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/ae962169_1719534447859.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "ae962169",
+        "point_name": "JR渋谷駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70064,
+          35.659058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/65d8b10c_1719534436454.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "65d8b10c",
+        "point_name": "忠犬ハチ公像",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699197,
+          35.662962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/eb581b14_1719534446777.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "eb581b14",
+        "point_name": "ファミリーマート渋谷公園通り店前公衆電話",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69944,
+          35.663442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/37691945_1719534447121.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "37691945",
+        "point_name": "LUKE'S LOBSTER 渋谷ParkStreet店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697423,
+          35.662167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/6ac9d424_1719534440787.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "6ac9d424",
+        "point_name": "ハンズ渋谷店前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701359,
+          35.657693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/0af62fed_1719534436770.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "0af62fed",
+        "point_name": "渋谷駅西口歩道橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.696967,
+          35.660646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/39cd5b2e_1719534444800.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "39cd5b2e",
+        "point_name": "道玄坂二丁目交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701858,
+          35.657505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/3dea890e_1719534445125.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "3dea890e",
+        "point_name": "渋谷駅西口歩道橋付近のガード下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702227,
+          35.65877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/82a5187a_1719534445436.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "82a5187a",
+        "point_name": "渋谷駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699574,
+          35.659532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": "ED2",
+        "image_url": "https://w.junreimap.com/images/points/369304/af55ee5f_1719534437103.jpg",
+        "location": "渋谷事変 エンディング",
+        "point_id": "af55ee5f",
+        "point_name": "SHIBUYA109前",
         "remark": ""
       },
       "type": "Feature"
@@ -1531,7 +1531,7 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": "7|20",
+        "ep_cut": 17,
         "image_url": "https://w.junreimap.com/images/points/369304/fe347f7e_1719534490876.jpg",
         "location": "渋谷事変 本編",
         "point_id": "fe347f7e",
@@ -1551,7 +1551,7 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 11,
+        "ep_cut": 17,
         "image_url": "https://w.junreimap.com/images/points/369304/af320972_1719534491199.jpg",
         "location": "渋谷事変 本編",
         "point_id": "af320972",
@@ -1931,7 +1931,7 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": 27,
+        "ep_cut": 3,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/369304/points/tzm28soo9-1742746266447.jpg",
         "location": "",
         "point_id": "tzm28soo9",
@@ -1951,11 +1951,31 @@
       "properties": {
         "bangumi_id": 369304,
         "bangumi_title": "咒术回战 第二季",
-        "ep_cut": "咒术回战 第二季 第二十二集",
+        "ep_cut": 22,
         "image_url": "https://w.junreimap.com/images/points/369304/u67jwfm2l_1743263695394.jpg",
         "location": "",
         "point_id": "u67jwfm2l",
         "point_name": "Mandarin Oriental, Kuala Lumpur",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          127.877956,
+          26.693403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 369304,
+        "bangumi_title": "咒术回战 第二季",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/369304/jm6yv4s_1789748296512_c16v9.webp",
+        "location": "",
+        "point_id": "jm6yv4s",
+        "point_name": "沖縄美ら海水族館",
         "remark": ""
       },
       "type": "Feature"

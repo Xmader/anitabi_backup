@@ -83,6 +83,66 @@
     {
       "geometry": {
         "coordinates": [
+          139.312967,
+          35.855959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/86670/jjp9sku_1789620341780.webp",
+        "location": "",
+        "point_id": "jjp9sku",
+        "point_name": "青梅飯能線",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.315001,
+          35.8484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/86670/jjplmdi_1789620357345.webp",
+        "location": "",
+        "point_id": "jjplmdi",
+        "point_name": "矢久橋",
+        "remark": "在矢久橋上的视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.315447,
+          35.848177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/86670/jjpjg37_1789620632388.webp",
+        "location": "",
+        "point_id": "jjpjg37",
+        "point_name": "飯能大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.312975,
           35.856028
         ],
@@ -96,6 +156,86 @@
         "location": "",
         "point_id": "lw6ssstfe",
         "point_name": "観音寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.308159,
+          35.855389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/86670/jjq9wkx_1789621258423.webp",
+        "location": "",
+        "point_id": "jjq9wkx",
+        "point_name": "大河原木材",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.306986,
+          35.855438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/86670/jjqbgj9_1789621228113.webp",
+        "location": "",
+        "point_id": "jjqbgj9",
+        "point_name": "久下木材産業",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.294985,
+          35.857356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/86670/jjq0c2n_1789621338656.webp",
+        "location": "",
+        "point_id": "jjq0c2n",
+        "point_name": "八耳堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.294335,
+          35.859159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/86670/jhqeek9_1789621585877.webp",
+        "location": "",
+        "point_id": "jhqeek9",
+        "point_name": "ドレミファ橋",
         "remark": ""
       },
       "type": "Feature"
@@ -233,7 +373,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gk1i5za-1783051257688.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gk1i5za",
         "point_name": "富士山五合目碑",
         "remark": "富士苏巴鲁线五合目，海拔2305米，是游客攀爬富士山最热门的起点，巴士信息参见官方网站→https://www.fujisan-climb.jp/zh-CN/comparison-of-routes/#route-yoshida"
@@ -253,7 +393,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gl8zw1l-1783123782953.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gl8zw1l",
         "point_name": "富士山憲章 碑",
         "remark": "注意此处为富士苏巴鲁线五合目，与真正的“吉田口五合目”不同，后者是仅可徒步到达的传统吉田路线的五合目"
@@ -273,7 +413,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gk2ib8v-1783052419179.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gk2ib8v",
         "point_name": "富士山五合目碑",
         "remark": "富士山登山并非有腿就行，海拔高差大、路况天气复杂多变，且有高反可能。请务必做好充分准备再出发！祝所有巡礼人顺利登顶，安全下撤！"
@@ -293,7 +433,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gk369mc-1783053531780.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gk369mc",
         "point_name": "富士山五合目簡易郵便局",
         "remark": ""
@@ -313,7 +453,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/glc91v2-1783129288322.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "glc91v2",
         "point_name": "富士山五合目簡易郵便局",
         "remark": ""
@@ -333,7 +473,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gm9s80r-1783185568788.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gm9s80r",
         "point_name": "富士山ホーストレッキング",
         "remark": ""
@@ -353,7 +493,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gk3uami-1783054654778.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gk3uami",
         "point_name": "富士山五合目簡易郵便局",
         "remark": "背景为邮局正门"
@@ -373,7 +513,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/glbhk3d-1783128276428.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "glbhk3d",
         "point_name": "五合園レストハウス",
         "remark": "水300日元一瓶（500mL）"
@@ -393,7 +533,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gm99ta6-1783184903724.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gm99ta6",
         "point_name": "富士山みはらし",
         "remark": "五合目有各种长度不等的金刚杖售卖，最长1300日元一根，可微信支付宝"
@@ -413,7 +553,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gk5ibnj-1783057500912.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gk5ibnj",
         "point_name": "富士山小御嶽神社 社号標",
         "remark": ""
@@ -433,7 +573,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmbq8dv-1783189201758.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gmbq8dv",
         "point_name": "富士山五合目こみたけ売店",
         "remark": ""
@@ -453,7 +593,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gk5r6lz-1783057867133.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gk5r6lz",
         "point_name": "富士山五合目こみたけ売店",
         "remark": "小御嶽神社参道入口"
@@ -473,7 +613,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmckkn9-1783190256743.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gmckkn9",
         "point_name": "富士スバルライン五合目~六合目登山道",
         "remark": "通过远处栏杆可以确认是此处"
@@ -493,7 +633,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gme3c74-1783192867760.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gme3c74",
         "point_name": "富士スバルライン五合目~六合目登山道",
         "remark": ""
@@ -513,7 +653,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmehtoe-1783193552387.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gmehtoe",
         "point_name": "富士スバルライン五合目~六合目登山道",
         "remark": ""
@@ -533,7 +673,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmf04u5-1783194335594.webp",
-        "location": "富士スバルライン五合目",
+        "location": "スバルライン五合目-富士山",
         "point_id": "gmf04u5",
         "point_name": "吉田ルート 泉ヶ滝",
         "remark": "富士登山道（吉田口）指示牌，从此处前往六合目（26.7.21指示牌已不存在）"
@@ -553,7 +693,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmga719-1783196660189.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "gmga719",
         "point_name": "ロックシェルター",
         "remark": "岩石庇护所，吉田口六合目附近落石防护设施"
@@ -573,7 +713,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmhcjx0-1783198763823.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "gmhcjx0",
         "point_name": "ロックシェルター",
         "remark": "六合目附近岩石庇护所，根据绳索和裂缝应当是第二个孔洞"
@@ -593,7 +733,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gmhtq8f-1783199196837.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "gmhtq8f",
         "point_name": "ロックシェルター",
         "remark": "六合目附近岩石庇护所"
@@ -613,7 +753,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gnjxl3i-1783263073146.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "gnjxl3i",
         "point_name": "富士山安全指導センター",
         "remark": "吉田口六合目，海拔2390米"
@@ -633,7 +773,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gnoanzt-1783270408690.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "gnoanzt",
         "point_name": "富士山安全指導センター",
         "remark": "吉田口六合目碑，目前碑和石堆均已不存在"
@@ -653,7 +793,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goxmyr1-1783346600873.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goxmyr1",
         "point_name": "五合五勺 砂ふるい 碑",
         "remark": "吉田口六合目附近空地，山中湖方向，此处五合五勺是传统吉田路线的记法"
@@ -673,7 +813,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goxvmot-1783346980552.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goxvmot",
         "point_name": "五合五勺 砂ふるい 碑",
         "remark": "吉田口六合目附近空地"
@@ -693,7 +833,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goy15t7-1783347223734.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goy15t7",
         "point_name": "五合五勺 砂ふるい 碑",
         "remark": "吉田口六合目附近空地，往富士山安全指導センター方向"
@@ -713,7 +853,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goy7qhy-1783347729673.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goy7qhy",
         "point_name": "五合五勺 砂ふるい 碑",
         "remark": "吉田口六合目岔路指示牌，实际与图片略有不同，此处与传统吉田路线汇合"
@@ -733,7 +873,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goykkfs-1783348161167.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goykkfs",
         "point_name": "五合五勺 砂ふるい 碑",
         "remark": "吉田ルート案内板前"
@@ -753,7 +893,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goyugnp-1783348590416.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goyugnp",
         "point_name": "五合五勺 砂ふるい 碑",
         "remark": "吉田ルート案内板前"
@@ -773,7 +913,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goyzcio-1783348818548.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goyzcio",
         "point_name": "吉田口六合目 付近の登山道",
         "remark": ""
@@ -793,7 +933,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goz7ch2-1783349190902.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "goz7ch2",
         "point_name": "吉田口六合目 付近の登山道",
         "remark": ""
@@ -813,7 +953,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gozbeui-1783349391832.webp",
-        "location": "富士山 吉田口六合目",
+        "location": "吉田口六合目-富士山",
         "point_id": "gozbeui",
         "point_name": "吉田口六合目 付近の登山道",
         "remark": ""
@@ -833,7 +973,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goziub6-1783349734281.webp",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "goziub6",
         "point_name": "吉田口七合目 付近の登山道",
         "remark": ""
@@ -853,7 +993,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/goztzjx-1783350252576.webp",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "goztzjx",
         "point_name": "花小屋",
         "remark": "吉田口七合目的第一个登山小屋，海拔2700米"
@@ -873,7 +1013,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gp0221i-1783350624920.webp",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "gp0221i",
         "point_name": "花小屋",
         "remark": ""
@@ -893,7 +1033,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gp06xcn-1783350850787.webp",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "gp06xcn",
         "point_name": "花小屋",
         "remark": ""
@@ -913,7 +1053,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/gp0brhr-1783351076745.webp",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "gp0brhr",
         "point_name": "花小屋",
         "remark": "500日元一个stamp，仅限现金"
@@ -933,7 +1073,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/e0223642_1783372614653.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "e0223642",
         "point_name": "花小屋 付近の登山道",
         "remark": ""
@@ -953,7 +1093,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/ad1fe0b2_1783372732899.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "ad1fe0b2",
         "point_name": "日の出館",
         "remark": ""
@@ -973,7 +1113,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/0f590732_1783372820276.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "0f590732",
         "point_name": "日の出館",
         "remark": ""
@@ -993,7 +1133,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/f144757e_1783372947861.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "f144757e",
         "point_name": "日の出館",
         "remark": ""
@@ -1013,7 +1153,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/2d49d5de_1783372925082.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "2d49d5de",
         "point_name": "日の出館",
         "remark": ""
@@ -1033,7 +1173,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/49d8796c_1783373018094.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "49d8796c",
         "point_name": "七合目 トモエ館",
         "remark": "tomoe馆可paypay（微信/支付宝）"
@@ -1053,7 +1193,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/0d15db31_1783373043915.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "0d15db31",
         "point_name": "七合目 トモエ館",
         "remark": ""
@@ -1073,7 +1213,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/1d6fbd0b_1783373095590.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "1d6fbd0b",
         "point_name": "鎌岩館 付近の登山道",
         "remark": "小枫学姐登山杖的杖尖套在此掉落。镰仓馆可paypay支付（微信/支付宝）。"
@@ -1093,7 +1233,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/89a57a03_1783373171663.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "89a57a03",
         "point_name": "鎌岩館 付近の登山道",
         "remark": ""
@@ -1113,7 +1253,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/2ccac1f7_1783373192393.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "2ccac1f7",
         "point_name": "鳥居荘 付近の登山道",
         "remark": ""
@@ -1133,7 +1273,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/03ac510c_1783373216612.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "03ac510c",
         "point_name": "鳥居荘 付近の登山道",
         "remark": ""
@@ -1153,7 +1293,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/d036e3e2_1783373240292.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "d036e3e2",
         "point_name": "鳥居荘",
         "remark": ""
@@ -1173,7 +1313,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/4c4c877d_1783373252593.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "4c4c877d",
         "point_name": "鳥居荘~東洋館登山道",
         "remark": ""
@@ -1193,7 +1333,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/d71d5a17_1783373272005.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "d71d5a17",
         "point_name": "鳥居荘~東洋館登山道",
         "remark": "aoi开始有点恍惚了"
@@ -1213,7 +1353,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/f88ade37_1783373295598.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "f88ade37",
         "point_name": "鳥居荘~東洋館登山道",
         "remark": ""
@@ -1233,7 +1373,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/6c09d374_1783373310780.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "6c09d374",
         "point_name": "東洋館",
         "remark": "吉田口七合目的最后一个登山小屋"
@@ -1253,7 +1393,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/d206e367_1783373325256.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "d206e367",
         "point_name": "東洋館",
         "remark": ""
@@ -1273,7 +1413,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/4e54ddaf_1783373371080.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "4e54ddaf",
         "point_name": "東洋館",
         "remark": "300日元一个stamp，仅限现金"
@@ -1293,7 +1433,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/gpdm4zd_1783373397458.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "gpdm4zd",
         "point_name": "東洋館",
         "remark": ""
@@ -1313,7 +1453,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/4561b4dd_1783373437549.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "4561b4dd",
         "point_name": "東洋館~太子館登山道",
         "remark": ""
@@ -1333,7 +1473,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/points/86670/ffead65a_1783373451672.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "ffead65a",
         "point_name": "東洋館~太子館登山道",
         "remark": ""
@@ -1353,10 +1493,30 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/points/86670/567086d7_1783403170061.jpg",
-        "location": "富士山 吉田口七合目",
+        "location": "吉田口七合目-富士山",
         "point_id": "567086d7",
         "point_name": "東洋館~太子館登山道",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74149,
+          35.374211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/d4c2322a_1789699487855.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "d4c2322a",
+        "point_name": "太子館 付近の登山道",
+        "remark": "Trail near Taishi-kan"
       },
       "type": "Feature"
     },
@@ -1373,10 +1533,450 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/points/86670/e7ac0261_1783403192926.jpg",
-        "location": "富士山 吉田口八合目",
+        "location": "吉田口八合目-富士山",
         "point_id": "e7ac0261",
         "point_name": "太子館",
         "remark": "吉田口八合目第一个登山小屋，海拔3100米，葵因高反和小枫学姐在此提前入住。26年价格为一晚17,000~19,000日元，床位紧俏。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741472,
+          35.374099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/334d3ba0_1789699808370.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "334d3ba0",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74148,
+          35.374096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/07f0065d_1789699901701.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "07f0065d",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741475,
+          35.374097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/1093fbc5_1789699942170.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "1093fbc5",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741594,
+          35.373897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/85bfdf28_1789699968712.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "85bfdf28",
+        "point_name": "太子館 付近の登山道",
+        "remark": "Trail near Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741455,
+          35.374119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/65391897_1789700001186.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "65391897",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741475,
+          35.3741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/3902fd4c_1789700042169.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "3902fd4c",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741591,
+          35.373914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/342fbd22_1789700081017.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "342fbd22",
+        "point_name": "太子館 付近の登山道",
+        "remark": "Trail near Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.739885,
+          35.371983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/57343962_1789700447925.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "57343962",
+        "point_name": "白雲荘 付近の登山道",
+        "remark": "Trail near Hakuun-so\n从白雲荘可横切至第四季aoi入住的须走口八合目下江户屋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.739863,
+          35.371769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/7ce6f4ed_1789700477799.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "7ce6f4ed",
+        "point_name": "白雲荘 付近の登山道",
+        "remark": "Trail near Hakuun-so"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738796,
+          35.369715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/477edf17_1789700523537.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "477edf17",
+        "point_name": "本八合目 付近の登山道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741479,
+          35.374072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/e04b08d8_1789700555448.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "e04b08d8",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74146,
+          35.37412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/bacd7493_1789700595248.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "bacd7493",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738982,
+          35.369374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/73bfedbb_1789702096803.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "73bfedbb",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel\n吉田·须走口本八合目所在地的登山小屋，海拔3400米，日向和心夏在此入住。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738948,
+          35.369267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/7b747392_1789700624785.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "7b747392",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738948,
+          35.36926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/d3648510_1789700644523.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "d3648510",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741477,
+          35.374064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/cc2ac223_1789700702938.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "cc2ac223",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.74148,
+          35.374057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/aad632c5_1789700724951.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "aad632c5",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741487,
+          35.374054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/ffc06431_1789700740819.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "ffc06431",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741496,
+          35.374057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/c4e21206_1789700774481.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "c4e21206",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738955,
+          35.369257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/4378637b_1789700824401.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "4378637b",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.7415,
+          35.374063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/957cf4bc_1789700851739.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "957cf4bc",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741498,
+          35.374072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/867c6d77_1789700899585.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "867c6d77",
+        "point_name": "太子館",
+        "remark": "Taishi-kan\n山不会跑，下次再战！"
       },
       "type": "Feature"
     },
@@ -1393,10 +1993,190 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/points/86670/0c1aa922_1783403214124.jpg",
-        "location": "富士山 吉田·须走口本八合目",
+        "location": "吉田·须走口本八合目-富士山",
         "point_id": "0c1aa922",
         "point_name": "本八合目 富士山ホテル",
-        "remark": "吉田·须走口本八合目所在地的登山小屋，海拔3400米，日向和心夏在此入住。"
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738978,
+          35.369374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/a0e7ea3e_1789700950341.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "a0e7ea3e",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738946,
+          35.369203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/a6d246d2_1789700975978.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "a6d246d2",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738961,
+          35.369266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/54e974bd_1789700994447.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "54e974bd",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.738955,
+          35.369272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/2fe78e09_1789701018651.webp",
+        "location": "吉田·须走口本八合目-富士山",
+        "point_id": "2fe78e09",
+        "point_name": "本八合目 富士山ホテル",
+        "remark": "Fujisan Hotel"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741563,
+          35.374018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/f1953e58_1789701044139.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "f1953e58",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741643,
+          35.373913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/b256104e_1789701064254.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "b256104e",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741574,
+          35.373972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/130bf4a6_1789701084235.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "130bf4a6",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.741526,
+          35.374056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/ef65f2d3_1789701110742.webp",
+        "location": "吉田口八合目-富士山",
+        "point_id": "ef65f2d3",
+        "point_name": "太子館",
+        "remark": "Taishi-kan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.735094,
+          35.367042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 86670,
+        "bangumi_title": "向山进发 第二季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/86670/a4bc5d05_1789701125857.webp",
+        "location": "吉田·须走口九合目-富士山",
+        "point_id": "a4bc5d05",
+        "point_name": "迎久須志神社",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -1413,7 +2193,7 @@
         "bangumi_title": "向山进发 第二季",
         "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/points/86670/a4333816_1783403227622.jpg",
-        "location": "富士山 吉田·须走口九合目",
+        "location": "吉田·须走口九合目-富士山",
         "point_id": "a4333816",
         "point_name": "迎久須志神社",
         "remark": "吉田·须走口九合目所在地，海拔3600米（官方指南为3580米）。"
@@ -2683,19 +3463,19 @@
     {
       "geometry": {
         "coordinates": [
-          139.294335,
-          35.859159
+          139.711598,
+          35.729347
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 86670,
         "bangumi_title": "向山进发 第二季",
-        "ep_cut": "7",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/86670/points/jhqeek9-1789441529031.webp",
+        "ep_cut": "EP6.5",
+        "image_url": "https://w.junreimap.com/images/points/86670/jjpqz11_1789622006039.webp",
         "location": "",
-        "point_id": "jhqeek9",
-        "point_name": "ドレミファ橋",
+        "point_id": "jjpqz11",
+        "point_name": "池袋駅",
         "remark": ""
       },
       "type": "Feature"

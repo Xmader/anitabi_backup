@@ -3929,7 +3929,7 @@
       "remark": "根据动漫向右，但是右面空的啊",
       "status_code": 0,
       "user_id": 12,
-      "zoom": 9580
+      "zoom": 8086
     },
     {
       "ep_cut": 19,
@@ -3972,9 +3972,23 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 4703
+    },
+    {
+      "ep_cut": "游戏CG",
+      "id": "jmttnyr",
+      "image_path": "/images/user/0/bangumi/876/points/jmttnyr-1789749781544.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/876/points/jmttnyr-1789749781544.webp",
+      "lat": 35.779765,
+      "lng": 139.42653,
+      "location": "",
+      "name": "学校正门前",
+      "remark": "所沢市立上山口中学校",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 1963
     }
   ],
-  "points_count": 283,
+  "points_count": 284,
   "rating": 9.1,
   "region": "日本",
   "short_name": "",

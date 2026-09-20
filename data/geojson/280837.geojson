@@ -123,6 +123,86 @@
     {
       "geometry": {
         "coordinates": [
+          8.461719,
+          49.482986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280837,
+        "bangumi_title": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jirm1b4-1789504045478.webp",
+        "location": "Mannheim, Germany",
+        "point_id": "jirm1b4",
+        "point_name": "Barockschloss Mannheim",
+        "remark": "截圖為表達學生共膳的禮堂位置；在Reception的前面有一模一樣的門，不過在博物館中禮堂為其他用途並不能直接從門中進入。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.462762,
+          49.483109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280837,
+        "bangumi_title": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jirag6p-1789503543155.webp",
+        "location": "Mannheim, Germany",
+        "point_id": "jirag6p",
+        "point_name": "Universität Mannheim (EO Bar & Lounge)",
+        "remark": "其中一帧沒有太大意義的分鏡，左邊的門通往學生食堂EO Bar & Lounge，向前則是前往Schneckenhof。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.461732,
+          49.483004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280837,
+        "bangumi_title": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jis4lkg-1789504874509.webp",
+        "location": "Mannheim, Germany",
+        "point_id": "jis4lkg",
+        "point_name": "Barockschloss Mannheim",
+        "remark": "Knights Hall外的位置，如果不想付費進入博物館看的話可以從大學Ehrenhof圖書館朝外的窗戶從上看下去（不過都老遠來到了十歐八歐也不用特別省吧"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.461896,
+          49.483113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280837,
+        "bangumi_title": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/280837/points/jiru03w-1789504371739.webp",
+        "location": "Mannheim, Germany",
+        "point_id": "jiru03w",
+        "point_name": "Barockschloss Mannheim",
+        "remark": "此處為曼海姆皇宮正門，而正門有五道相似的門；留意門內的樓梯朝向，故確定此為正中的大門。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           8.461502,
           49.483625
         ],

@@ -159,6 +159,326 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.728419,
+          35.038962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlv06ye-1789691101906.webp",
+        "location": "",
+        "point_id": "jlv06ye",
+        "point_name": "金閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.731147,
+          35.039322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlvpejb-1789692272477.webp",
+        "location": "",
+        "point_id": "jlvpejb",
+        "point_name": "豆政 金閣寺境内売店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.75914,
+          34.987607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlx98rd-1789694872418.webp",
+        "location": "",
+        "point_id": "jlx98rd",
+        "point_name": "ニデック京都タワー",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758532,
+          34.986223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlxa1z1-1789695021416.webp",
+        "location": "",
+        "point_id": "jlxa1z1",
+        "point_name": "京都駅 中央口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.774951,
+          35.002952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlxk4yp-1789695392120.webp",
+        "location": "",
+        "point_id": "jlxk4yp",
+        "point_name": "花見小路通",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785193,
+          34.995017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlxwqyc-1789695979164.webp",
+        "location": "",
+        "point_id": "jlxwqyc",
+        "point_name": "地主神社 東鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784976,
+          34.994787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlxyiyb-1789696063230.webp",
+        "location": "",
+        "point_id": "jlxyiyb",
+        "point_name": "清水寺本堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.783993,
+          34.99524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jly7kr9-1789696492392.webp",
+        "location": "",
+        "point_id": "jly7kr9",
+        "point_name": "随求堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.784066,
+          34.995216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jly9w6v-1789696598772.webp",
+        "location": "",
+        "point_id": "jly9w6v",
+        "point_name": "随求堂 (胎内巡り)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.749602,
+          35.013667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlyhx2b-1789696955817.webp",
+        "location": "",
+        "point_id": "jlyhx2b",
+        "point_name": "二条城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.747616,
+          35.01406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlyjahy-1789697024108.webp",
+        "location": "",
+        "point_id": "jlyjahy",
+        "point_name": "二条城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839859,
+          34.688828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlyscs1-1789697449337.webp",
+        "location": "",
+        "point_id": "jlyscs1",
+        "point_name": "東大寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839928,
+          34.687501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlyvi3g-1789697610105.webp",
+        "location": "",
+        "point_id": "jlyvi3g",
+        "point_name": "東大寺",
+        "remark": "推测为东大寺中门门前"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839678,
+          34.683569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jluoe2a-1789690535386.webp",
+        "location": "",
+        "point_id": "jluoe2a",
+        "point_name": "牛まぶし三山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.833732,
+          34.683912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlyyrz4-1789697740098.webp",
+        "location": "",
+        "point_id": "jlyyrz4",
+        "point_name": "登大路园地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.833113,
+          34.684449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlz4xer-1789698110906.webp",
+        "location": "",
+        "point_id": "jlz4xer",
+        "point_name": "奈良県庁前",
+        "remark": "没有一致的道路区域，类似于县厅前R369"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

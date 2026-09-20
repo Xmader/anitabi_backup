@@ -653,7 +653,7 @@
       "remark": "山顶神社前的长台阶，无法完全复刻远景，但是可以从台阶底下拍摄。",
       "status_code": 2168,
       "user_id": 5,
-      "zoom": 6
+      "zoom": 4
     },
     {
       "ep_cut": "",
@@ -681,7 +681,7 @@
       "remark": "山顶神社前的长台阶下南望海景",
       "status_code": 2168,
       "user_id": 5,
-      "zoom": 21
+      "zoom": 5
     },
     {
       "ep_cut": "",
@@ -751,7 +751,7 @@
       "remark": "富丘八幡神社正门",
       "status_code": 2168,
       "user_id": 3,
-      "zoom": 106
+      "zoom": 23
     },
     {
       "ep_cut": "",
@@ -765,7 +765,7 @@
       "remark": "富丘八幡神社登山入口",
       "status_code": 2168,
       "user_id": 17,
-      "zoom": 126
+      "zoom": 100
     },
     {
       "ep_cut": 8,
@@ -2040,9 +2040,51 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 226
+    },
+    {
+      "ep_cut": 10,
+      "id": "jj4vvcf",
+      "image_path": "/images/user/0/bangumi/219200/points/jj4vvcf-1789526445261.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/219200/points/jj4vvcf-1789526445261.webp",
+      "lat": 34.485345,
+      "lng": 134.196097,
+      "location": "土庄町东-富丘八幡神社",
+      "name": "富丘八幡神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 91
+    },
+    {
+      "ep_cut": 10,
+      "id": "jj56tkr",
+      "image_path": "/images/user/0/bangumi/219200/points/jj56tkr-1789526808697.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/219200/points/jj56tkr-1789526808697.webp",
+      "lat": 34.485538,
+      "lng": 134.195294,
+      "location": "土庄町东-富丘八幡神社",
+      "name": "富丘八幡神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 3
+    },
+    {
+      "ep_cut": 10,
+      "id": "jj59gx6",
+      "image_path": "/images/user/0/bangumi/219200/points/jj59gx6-1789526939827.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/219200/points/jj59gx6-1789526939827.webp",
+      "lat": 34.485521,
+      "lng": 134.195302,
+      "location": "土庄町东-富丘八幡神社",
+      "name": "富丘八幡神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 227
     }
   ],
-  "points_count": 145,
+  "points_count": 148,
   "rating": 7.4,
   "region": "香川县",
   "short_name": "",
