@@ -5699,66 +5699,6 @@
         "remark": "OVA 等待繁星之人"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.64559,
-          35.605095
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 210864,
-        "bangumi_title": "魔法使的新娘",
-        "ep_cut": "OVA1",
-        "image_url": "https://w.junreimap.com/images/points/210864/2qd0ko9_1753098704061.jpg",
-        "location": "日本",
-        "point_id": "2qd0ko9",
-        "point_name": "等々力溪谷",
-        "remark": "OVA 等待繁星之人"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.645956,
-          35.605033
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 210864,
-        "bangumi_title": "魔法使的新娘",
-        "ep_cut": "OVA1",
-        "image_url": "",
-        "location": "日本",
-        "point_id": "2txfjs9",
-        "point_name": "等々力溪谷",
-        "remark": "小智世在树林里逃跑的位置基本都在等々力溪谷公园里，由于没有可靠参照物，无法提供精确坐标，可以在现场逛逛。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.646721,
-          35.603814
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 210864,
-        "bangumi_title": "魔法使的新娘",
-        "ep_cut": "OVA1",
-        "image_url": "https://w.junreimap.com/images/points/210864/2qcxvph_1753098732763.jpg",
-        "location": "日本",
-        "point_id": "2qcxvph",
-        "point_name": "ゴルフ橋",
-        "remark": "OVA 等待繁星之人"
-      },
-      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -468,7 +468,7 @@
       "lng": 139.806489,
       "location": "小林家的龙女仆",
       "name": "24小山駅",
-      "remark": "",
+      "remark": "15番線往南看，搭乘車輛為水戸線，塗裝都是深藍色，所以車輛不同是正常的",
       "status_code": 0,
       "user_id": 30908,
       "zoom": 9
@@ -794,9 +794,23 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 650
+    },
+    {
+      "ep_cut": 13,
+      "id": "jp1qref",
+      "image_path": "/images/user/0/bangumi/179949/points/jp1qref-1789883798699.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/179949/points/jp1qref-1789883798699.webp",
+      "lat": 36.311781,
+      "lng": 139.805936,
+      "location": "",
+      "name": "小山駅南乗換通路",
+      "remark": "以前與南自由通路間有改札，2012年9月移除。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 9
     }
   ],
-  "points_count": 56,
+  "points_count": 57,
   "rating": 7.4,
   "region": "东京都",
   "short_name": "",

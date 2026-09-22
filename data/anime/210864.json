@@ -3998,58 +3998,16 @@
       "name": "等々力駅前",
       "remark": "OVA 等待繁星之人",
       "status_code": 2168,
-      "user_id": 436,
+      "user_id": 138048,
       "zoom": 155
-    },
-    {
-      "ep_cut": "OVA1",
-      "id": "2qd0ko9",
-      "image_path": "/images/points/210864/2qd0ko9_1753098704061.jpg",
-      "image_url": "https://w.junreimap.com/images/points/210864/2qd0ko9_1753098704061.jpg",
-      "lat": 35.605095,
-      "lng": 139.64559,
-      "location": "日本",
-      "name": "等々力溪谷",
-      "remark": "OVA 等待繁星之人",
-      "status_code": 2168,
-      "user_id": 41,
-      "zoom": 190
-    },
-    {
-      "ep_cut": "OVA1",
-      "id": "2txfjs9",
-      "image_path": "",
-      "image_url": "",
-      "lat": 35.605033,
-      "lng": 139.645956,
-      "location": "日本",
-      "name": "等々力溪谷",
-      "remark": "小智世在树林里逃跑的位置基本都在等々力溪谷公园里，由于没有可靠参照物，无法提供精确坐标，可以在现场逛逛。",
-      "status_code": 2168,
-      "user_id": 41,
-      "zoom": 42
-    },
-    {
-      "ep_cut": "OVA1",
-      "id": "2qcxvph",
-      "image_path": "/images/points/210864/2qcxvph_1753098732763.jpg",
-      "image_url": "https://w.junreimap.com/images/points/210864/2qcxvph_1753098732763.jpg",
-      "lat": 35.603814,
-      "lng": 139.646721,
-      "location": "日本",
-      "name": "ゴルフ橋",
-      "remark": "OVA 等待繁星之人",
-      "status_code": 2168,
-      "user_id": 160,
-      "zoom": 414
     }
   ],
-  "points_count": 288,
+  "points_count": 285,
   "rating": 7.2,
   "region": "英国",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/210864_100_76.webp?v=hmlbr",
+    "/images/ptheme/210864_100_76.webp?v=hreny",
     [
       "2qak81k",
       "2pzxbhg",
@@ -4335,11 +4293,9 @@
       "2spbadq",
       "2qbeott",
       "2tzg55o",
-      "2qcv3wr",
-      "2qd0ko9",
-      "2qcxvph"
+      "2qcv3wr"
     ],
-    1776452586866,
+    1789931407224,
     100,
     76
   ],

@@ -5043,6 +5043,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.078184,
+          35.103616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jpfkv8_1748201995383_c16v9.jpg",
+        "location": "",
+        "point_id": "jpfkv8",
+        "point_name": 239,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.07814,
+          35.103612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu60tq_1789992007932.webp",
+        "location": "",
+        "point_id": "jqu60tq",
+        "point_name": 239,
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.066281,
           35.067741
         ],
@@ -5076,26 +5116,6 @@
         "location": "",
         "point_id": "jq9tk2",
         "point_name": "243",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.078184,
-          35.103616
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 531159,
-        "bangumi_title": "时光流逝，饭菜依旧美味",
-        "ep_cut": 7,
-        "image_url": "https://w.junreimap.com/images/points/531159/jpfkv8_1748201995383_c16v9.jpg",
-        "location": "",
-        "point_id": "jpfkv8",
-        "point_name": 239,
         "remark": ""
       },
       "type": "Feature"
@@ -5283,6 +5303,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.138761,
+          34.890614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqub5ze_1789992246018.webp",
+        "location": "",
+        "point_id": "jqub5ze",
+        "point_name": "城ヶ崎海岸 門脇つり橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.077685,
           35.103347
         ],
@@ -5323,6 +5363,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.077665,
+          35.10333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu6csq_1789992022865.webp",
+        "location": "",
+        "point_id": "jqu6csq",
+        "point_name": "黒船電車",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.077677,
+          35.103341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu6k87_1789992032711.webp",
+        "location": "",
+        "point_id": "jqu6k87",
+        "point_name": "黒船電車",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.077664,
           35.103354
         ],
@@ -5355,6 +5435,106 @@
         "image_url": "https://w.junreimap.com/images/points/531159/jp9d71_1748201782972_c16v9.jpg",
         "location": "",
         "point_id": "jp9d71",
+        "point_name": "黒船電車 内部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.07766,
+          35.103366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu7ctc_1789992068290.webp",
+        "location": "",
+        "point_id": "jqu7ctc",
+        "point_name": "黒船電車 内部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.077651,
+          35.103356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu7inv_1789992080095.webp",
+        "location": "",
+        "point_id": "jqu7inv",
+        "point_name": "黒船電車 内部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.077673,
+          35.103366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu7q8h_1789992086852.webp",
+        "location": "",
+        "point_id": "jqu7q8h",
+        "point_name": "黒船電車 内部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.077667,
+          35.103373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu859r_1789992107227.webp",
+        "location": "",
+        "point_id": "jqu859r",
+        "point_name": "黒船電車 内部",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.077642,
+          35.103349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 531159,
+        "bangumi_title": "时光流逝，饭菜依旧美味",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/531159/jqu7w9p_1789992095721.webp",
+        "location": "",
+        "point_id": "jqu7w9p",
         "point_name": "黒船電車 内部",
         "remark": ""
       },

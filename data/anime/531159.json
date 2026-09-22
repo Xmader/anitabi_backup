@@ -3522,8 +3522,8 @@
       "name": 239,
       "remark": "",
       "status_code": 1127,
-      "user_id": 6,
-      "zoom": 6
+      "user_id": 4,
+      "zoom": 5
     },
     {
       "ep_cut": 7,
@@ -3538,6 +3538,34 @@
       "status_code": 1127,
       "user_id": 7,
       "zoom": 7
+    },
+    {
+      "ep_cut": 7,
+      "id": "jpfkv8",
+      "image_path": "/images/points/531159/jpfkv8_1748201995383_c16v9.jpg",
+      "image_url": "https://w.junreimap.com/images/points/531159/jpfkv8_1748201995383_c16v9.jpg",
+      "lat": 35.103616,
+      "lng": 139.078184,
+      "location": "",
+      "name": 239,
+      "remark": "",
+      "status_code": 1127,
+      "user_id": 5,
+      "zoom": 5
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu60tq",
+      "image_path": "/images/points/531159/jqu60tq_1789992007932.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu60tq_1789992007932.webp",
+      "lat": 35.103612,
+      "lng": 139.07814,
+      "location": "",
+      "name": 239,
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 4,
+      "zoom": 31
     },
     {
       "ep_cut": 7,
@@ -3566,20 +3594,6 @@
       "status_code": 1127,
       "user_id": 1492,
       "zoom": 279
-    },
-    {
-      "ep_cut": 7,
-      "id": "jpfkv8",
-      "image_path": "/images/points/531159/jpfkv8_1748201995383_c16v9.jpg",
-      "image_url": "https://w.junreimap.com/images/points/531159/jpfkv8_1748201995383_c16v9.jpg",
-      "lat": 35.103616,
-      "lng": 139.078184,
-      "location": "",
-      "name": 239,
-      "remark": "",
-      "status_code": 1127,
-      "user_id": 6,
-      "zoom": 28
     },
     {
       "ep_cut": 7,
@@ -3704,8 +3718,22 @@
       "name": "城ヶ崎海岸 門脇つり橋",
       "remark": "",
       "status_code": 1127,
-      "user_id": 4,
-      "zoom": 13858
+      "user_id": 3,
+      "zoom": 4
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqub5ze",
+      "image_path": "/images/points/531159/jqub5ze_1789992246018.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqub5ze_1789992246018.webp",
+      "lat": 34.890614,
+      "lng": 139.138761,
+      "location": "",
+      "name": "城ヶ崎海岸 門脇つり橋",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 3,
+      "zoom": 13861
     },
     {
       "ep_cut": 7,
@@ -3718,7 +3746,7 @@
       "name": "黒船電車",
       "remark": "熱海—伊豆急下田\n时刻表：https://www.izukyu.co.jp/resort21/",
       "status_code": 1073,
-      "user_id": 2,
+      "user_id": 1,
       "zoom": 2
     },
     {
@@ -3732,7 +3760,35 @@
       "name": "黒船電車",
       "remark": "",
       "status_code": 1127,
-      "user_id": 2,
+      "user_id": 1,
+      "zoom": 1
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu6csq",
+      "image_path": "/images/points/531159/jqu6csq_1789992022865.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu6csq_1789992022865.webp",
+      "lat": 35.10333,
+      "lng": 139.077665,
+      "location": "",
+      "name": "黒船電車",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
+      "zoom": 2
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu6k87",
+      "image_path": "/images/points/531159/jqu6k87_1789992032711.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu6k87_1789992032711.webp",
+      "lat": 35.103341,
+      "lng": 139.077677,
+      "location": "",
+      "name": "黒船電車",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
       "zoom": 2
     },
     {
@@ -3761,7 +3817,77 @@
       "remark": "",
       "status_code": 1127,
       "user_id": 1,
-      "zoom": 56
+      "zoom": 2
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu7ctc",
+      "image_path": "/images/points/531159/jqu7ctc_1789992068290.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu7ctc_1789992068290.webp",
+      "lat": 35.103366,
+      "lng": 139.07766,
+      "location": "",
+      "name": "黒船電車 内部",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
+      "zoom": 2
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu7inv",
+      "image_path": "/images/points/531159/jqu7inv_1789992080095.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu7inv_1789992080095.webp",
+      "lat": 35.103356,
+      "lng": 139.077651,
+      "location": "",
+      "name": "黒船電車 内部",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
+      "zoom": 2
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu7q8h",
+      "image_path": "/images/points/531159/jqu7q8h_1789992086852.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu7q8h_1789992086852.webp",
+      "lat": 35.103366,
+      "lng": 139.077673,
+      "location": "",
+      "name": "黒船電車 内部",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
+      "zoom": 2
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu859r",
+      "image_path": "/images/points/531159/jqu859r_1789992107227.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu859r_1789992107227.webp",
+      "lat": 35.103373,
+      "lng": 139.077667,
+      "location": "",
+      "name": "黒船電車 内部",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
+      "zoom": 4
+    },
+    {
+      "ep_cut": 7,
+      "id": "jqu7w9p",
+      "image_path": "/images/points/531159/jqu7w9p_1789992095721.webp",
+      "image_url": "https://w.junreimap.com/images/points/531159/jqu7w9p_1789992095721.webp",
+      "lat": 35.103349,
+      "lng": 139.077642,
+      "location": "",
+      "name": "黒船電車 内部",
+      "remark": "",
+      "status_code": 2168,
+      "user_id": 1,
+      "zoom": 57
     },
     {
       "ep_cut": 7,
@@ -4982,12 +5108,12 @@
       "zoom": 1101
     }
   ],
-  "points_count": 355,
+  "points_count": 364,
   "rating": 0,
   "region": "八王子市",
   "short_name": "PA饭",
   "theme_meta": [
-    "/images/ptheme/531159_100_76.webp?v=hojob",
+    "/images/ptheme/531159_100_76.webp?v=hrfga",
     [
       "ulxe61ja3",
       "ur5gmdpiz",
@@ -5240,9 +5366,10 @@
       "fkbii4",
       "jpfdux",
       "jpfeas",
+      "jpfkv8",
+      "jqu60tq",
       "jpwc7r",
       "jq9tk2",
-      "jpfkv8",
       "jqxtjx",
       "fke1ev",
       "jqxujf",
@@ -5252,10 +5379,18 @@
       "jqzi1y",
       "fkkpl4",
       "juvuvp",
+      "jqub5ze",
       "isgivd",
       "jpbw38",
+      "jqu6csq",
+      "jqu6k87",
       "jp9cms",
       "jp9d71",
+      "jqu7ctc",
+      "jqu7inv",
+      "jqu7q8h",
+      "jqu859r",
+      "jqu7w9p",
       "isb2gp",
       "jo700h",
       "joj0m2",
@@ -5344,7 +5479,7 @@
       "2ekeu1o",
       "2ekg74a"
     ],
-    1781922903421,
+    1789992614748,
     100,
     76
   ],

@@ -656,7 +656,7 @@
         "location": "小林家的龙女仆",
         "point_id": "6d6ee1eb",
         "point_name": "24小山駅",
-        "remark": ""
+        "remark": "15番線往南看，搭乘車輛為水戸線，塗裝都是深藍色，所以車輛不同是正常的"
       },
       "type": "Feature"
     },
@@ -1117,6 +1117,26 @@
         "point_id": "9wp4zab",
         "point_name": "佐久間駐車場",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.805936,
+          36.311781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 179949,
+        "bangumi_title": "小林家的龙女仆",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/179949/points/jp1qref-1789883798699.webp",
+        "location": "",
+        "point_id": "jp1qref",
+        "point_name": "小山駅南乗換通路",
+        "remark": "以前與南自由通路間有改札，2012年9月移除。"
       },
       "type": "Feature"
     }

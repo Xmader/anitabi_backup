@@ -1,5 +1,61 @@
 [
   {
+    "id": 110467,
+    "title_cn": "白箱",
+    "title_jp": "SHIROBAKO",
+    "title_en": "SHIROBAKO",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 8.8,
+    "points_count": 417,
+    "center_lat": 35.698457,
+    "center_lng": 139.642261,
+    "cover_url": "https://w.junreimap.com/images/bangumi/110467.jpg",
+    "bgm_id": 145
+  },
+  {
+    "id": 325767,
+    "title_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+    "title_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.1,
+    "points_count": 95,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/325767.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 531159,
+    "title_cn": "时光流逝，饭菜依旧美味",
+    "title_jp": "日々は過ぎれど飯うまし",
+    "title_en": "Food for the Soul",
+    "region": "八王子市",
+    "type": "TV",
+    "rating": 0,
+    "points_count": 364,
+    "center_lat": 35.629556,
+    "center_lng": 139.259263,
+    "cover_url": "https://w.junreimap.com/images/bangumi/531159.jpg",
+    "bgm_id": 18911
+  },
+  {
+    "id": 179949,
+    "title_cn": "小林家的龙女仆",
+    "title_jp": "小林さんちのメイドラゴン",
+    "title_en": "Kobayashi-san Chi no Maid Dragon",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 7.4,
+    "points_count": 57,
+    "center_lat": 35.745195,
+    "center_lng": 139.803972,
+    "cover_url": "https://w.junreimap.com/images/bangumi/179949.jpg",
+    "bgm_id": 1532
+  },
+  {
     "id": 353181,
     "title_cn": "佐贺偶像是传奇 梦想银河乐园",
     "title_jp": "ゾンビランドサガ ゆめぎんがパラダイス",
@@ -12,6 +68,48 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/65/6e/353181_3ksLx.jpg",
     "bgm_id": null
+  },
+  {
+    "id": 262897,
+    "title_cn": "摇曳露营△ 二期",
+    "title_jp": "ゆるキャン△ SEASON 2",
+    "title_en": "Yurucamp SEASON 2",
+    "region": "静岡県",
+    "type": "TV",
+    "rating": 8.3,
+    "points_count": 1073,
+    "center_lat": 35.032881,
+    "center_lng": 138.285342,
+    "cover_url": "https://w.junreimap.com/images/bangumi/262897.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 210864,
+    "title_cn": "魔法使的新娘",
+    "title_jp": "魔法使いの嫁",
+    "title_en": "The Ancient Magus' Bride",
+    "region": "英国",
+    "type": "TV",
+    "rating": 7.2,
+    "points_count": 285,
+    "center_lat": 51.500762,
+    "center_lng": -0.124493,
+    "cover_url": "https://w.junreimap.com/images/bangumi/210864.jpg",
+    "bgm_id": 5759
+  },
+  {
+    "id": 86670,
+    "title_cn": "向山进发 第二季",
+    "title_jp": "ヤマノススメ セカンドシーズン",
+    "title_en": "",
+    "region": "饭能市",
+    "type": "TV",
+    "rating": 7.6,
+    "points_count": 174,
+    "center_lat": 36.111556,
+    "center_lng": 138.937126,
+    "cover_url": "https://w.junreimap.com/images/bangumi/86670.jpg",
+    "bgm_id": 37610
   },
   {
     "id": 65223,
@@ -56,20 +154,6 @@
     "bgm_id": 1354
   },
   {
-    "id": 325767,
-    "title_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
-    "title_jp": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7.1,
-    "points_count": 21,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/325767.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 622206,
     "title_cn": "尼古喵喵",
     "title_jp": "ヤニねこ",
@@ -82,20 +166,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/622206.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 86670,
-    "title_cn": "向山进发 第二季",
-    "title_jp": "ヤマノススメ セカンドシーズン",
-    "title_en": "",
-    "region": "饭能市",
-    "type": "TV",
-    "rating": 7.6,
-    "points_count": 174,
-    "center_lat": 36.111556,
-    "center_lng": 138.937126,
-    "cover_url": "https://w.junreimap.com/images/bangumi/86670.jpg",
-    "bgm_id": 37610
   },
   {
     "id": 290980,
@@ -840,20 +910,6 @@
     "bgm_id": null
   },
   {
-    "id": 179949,
-    "title_cn": "小林家的龙女仆",
-    "title_jp": "小林さんちのメイドラゴン",
-    "title_en": "Kobayashi-san Chi no Maid Dragon",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 7.4,
-    "points_count": 56,
-    "center_lat": 35.745195,
-    "center_lng": 139.803972,
-    "cover_url": "https://w.junreimap.com/images/bangumi/179949.jpg",
-    "bgm_id": 1532
-  },
-  {
     "id": 305058,
     "title_cn": "BanG Dream! Episode of Roselia Ⅰ",
     "title_jp": "BanG Dream! Episode of Roselia Ⅰ : 約束",
@@ -1512,20 +1568,6 @@
     "bgm_id": 279
   },
   {
-    "id": 210864,
-    "title_cn": "魔法使的新娘",
-    "title_jp": "魔法使いの嫁",
-    "title_en": "The Ancient Magus' Bride",
-    "region": "英国",
-    "type": "TV",
-    "rating": 7.2,
-    "points_count": 288,
-    "center_lat": 51.500762,
-    "center_lng": -0.124493,
-    "cover_url": "https://w.junreimap.com/images/bangumi/210864.jpg",
-    "bgm_id": 5759
-  },
-  {
     "id": 12426,
     "title_cn": "轻音少女 剧场版",
     "title_jp": "映画けいおん！",
@@ -1608,20 +1650,6 @@
     "center_lng": 138.135135,
     "cover_url": "https://w.junreimap.com/images/bangumi/405785.jpg",
     "bgm_id": 41683
-  },
-  {
-    "id": 262897,
-    "title_cn": "摇曳露营△ 二期",
-    "title_jp": "ゆるキャン△ SEASON 2",
-    "title_en": "Yurucamp SEASON 2",
-    "region": "静岡県",
-    "type": "TV",
-    "rating": 8.3,
-    "points_count": 815,
-    "center_lat": 35.032881,
-    "center_lng": 138.285342,
-    "cover_url": "https://w.junreimap.com/images/bangumi/262897.jpg",
-    "bgm_id": null
   },
   {
     "id": 207195,
@@ -4058,20 +4086,6 @@
     "center_lng": 125.324818,
     "cover_url": "https://w.junreimap.com/images/bangumi/235130.jpg",
     "bgm_id": 250599
-  },
-  {
-    "id": 531159,
-    "title_cn": "时光流逝，饭菜依旧美味",
-    "title_jp": "日々は過ぎれど飯うまし",
-    "title_en": "Food for the Soul",
-    "region": "八王子市",
-    "type": "TV",
-    "rating": 0,
-    "points_count": 355,
-    "center_lat": 35.629556,
-    "center_lng": 139.259263,
-    "cover_url": "https://w.junreimap.com/images/bangumi/531159.jpg",
-    "bgm_id": 18911
   },
   {
     "id": 283367,
@@ -8328,20 +8342,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9c/1e/45842_ZF94F.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 110467,
-    "title_cn": "白箱",
-    "title_jp": "SHIROBAKO",
-    "title_en": "SHIROBAKO",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 8.8,
-    "points_count": 90,
-    "center_lat": 35.698457,
-    "center_lng": 139.642261,
-    "cover_url": "https://w.junreimap.com/images/bangumi/110467.jpg",
-    "bgm_id": 145
   },
   {
     "id": 2567,
