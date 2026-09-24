@@ -475,8 +475,28 @@
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jlz4xer-1789698110906.webp",
         "location": "",
         "point_id": "jlz4xer",
-        "point_name": "奈良県庁前",
-        "remark": "没有一致的道路区域，类似于县厅前R369"
+        "point_name": "R169横断歩道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353269,
+          43.062443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/622206/points/jr66def-1790012239642.webp",
+        "location": "",
+        "point_id": "jr66def",
+        "point_name": "札幌時計台ビル",
+        "remark": ""
       },
       "type": "Feature"
     }

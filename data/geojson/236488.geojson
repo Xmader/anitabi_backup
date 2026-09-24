@@ -1579,6 +1579,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765166,
+          35.661219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236488,
+        "bangumi_title": "偶像大师 闪耀色彩",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/236488/points/jrufk2y-1790052990123.webp",
+        "location": "",
+        "point_id": "jrufk2y",
+        "point_name": "浜離宮恩賜庭園",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

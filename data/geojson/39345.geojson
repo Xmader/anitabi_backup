@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.698662,
+          35.660362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 39345,
+        "bangumi_title": "G線上の魔王 オリジナルサウンドコレクション",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/39345/points/jppb7z1-1789923640231.webp",
+        "location": "涩谷",
+        "point_id": "jppb7z1",
+        "point_name": "渋谷センター街",
+        "remark": "宇佐美打工的街，附近的麦当劳非常有辨识度"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

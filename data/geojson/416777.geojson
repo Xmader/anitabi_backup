@@ -339,6 +339,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.595673,
+          29.556618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 416777,
+        "bangumi_title": "蔚蓝档案 动画版",
+        "ep_cut": "第一季第一集",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/416777/points/jo4t328-1789828531106.webp",
+        "location": "基沃托斯相似地",
+        "point_id": "jo4t328",
+        "point_name": "东水门长江大桥",
+        "remark": "这是在B站上刷到比较相似基沃托斯的地方，在东水门长江大桥东南方向大致区域，这个拍摄角度我自己没琢磨明白，如有问题，请本地人修正😭"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

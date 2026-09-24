@@ -32,8 +32,8 @@
         "bangumi_id": 353181,
         "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
         "ep_cut": "",
-        "image_url": "",
-        "location": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/e5angb6-1789892397316.webp",
+        "location": "武雄温泉",
         "point_id": "e5angb6",
         "point_name": "武雄温泉 楼門",
         "remark": ""
@@ -112,7 +112,7 @@
         "bangumi_id": 353181,
         "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
         "ep_cut": "",
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/e5bd91q-1789879708157.webp",
         "location": "",
         "point_id": "e5bd91q",
         "point_name": "唐津市歴史民俗資料館",
@@ -192,7 +192,7 @@
         "bangumi_id": 353181,
         "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
         "ep_cut": "",
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/e5f7ri2-1789878995037.webp",
         "location": "",
         "point_id": "e5f7ri2",
         "point_name": "モラージュ佐賀",
@@ -312,7 +312,7 @@
         "bangumi_id": 353181,
         "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
         "ep_cut": "",
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/e5hge9k-1789874362893.webp",
         "location": "",
         "point_id": "e5hge9k",
         "point_name": "神埼市のエッフェル塔",
@@ -432,7 +432,7 @@
         "bangumi_id": 353181,
         "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
         "ep_cut": "",
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/e5m3zbs-1789893246883.webp",
         "location": "",
         "point_id": "e5m3zbs",
         "point_name": "肥前犬山城展望台",
@@ -512,7 +512,7 @@
         "bangumi_id": 353181,
         "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
         "ep_cut": "",
-        "image_url": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/e6plogr-1789879395203.webp",
         "location": "",
         "point_id": "e6plogr",
         "point_name": "NTTドコモビジネス 中の小路ビル",
@@ -537,6 +537,186 @@
         "point_id": "e6xmi4w",
         "point_name": "陸上自衛隊目達原駐屯地",
         "remark": "被摧毁的UH-1J直升机。佐贺仅该驻屯地有此型号，但画面中建筑与实地有出入，推测仅以该地为蓝本进行二次创作。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.879528,
+          33.565509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/joy7l6x-1789877869461.webp",
+        "location": "",
+        "point_id": "joy7l6x",
+        "point_name": "杉ノ原放牧場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.879036,
+          33.566095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/joya88n-1789877998603.webp",
+        "location": "",
+        "point_id": "joya88n",
+        "point_name": "杉ノ原展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.882103,
+          33.567058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/joybds6-1789878054160.webp",
+        "location": "",
+        "point_id": "joybds6",
+        "point_name": "肥前立石埼灯台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.17714,
+          33.031286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/jpdd2fv-1789903323129.webp",
+        "location": "",
+        "point_id": "jpdd2fv",
+        "point_name": "大魚神社 海中鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.177098,
+          33.031244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/jpdazi7-1789903233496.webp",
+        "location": "",
+        "point_id": "jpdazi7",
+        "point_name": "大魚神社 海中鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.014263,
+          33.196554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/jp6yqtt-1789892585167.webp",
+        "location": "武雄温泉",
+        "point_id": "jp6yqtt",
+        "point_name": "武雄温泉新馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.014396,
+          33.196593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/jp72l7v-1789892776774.webp",
+        "location": "武雄温泉",
+        "point_id": "jp72l7v",
+        "point_name": "武雄温泉新馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.014352,
+          33.196545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/jp74eo3-1789892842722.webp",
+        "location": "武雄温泉",
+        "point_id": "jp74eo3",
+        "point_name": "武雄温泉新馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.014811,
+          33.196243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 353181,
+        "bangumi_title": "佐贺偶像是传奇 梦想银河乐园",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/353181/points/jp77i3l-1789892990001.webp",
+        "location": "武雄温泉",
+        "point_id": "jp77i3l",
+        "point_name": "武雄温泉",
+        "remark": "出發將作戰計劃帶給各地市民"
       },
       "type": "Feature"
     }

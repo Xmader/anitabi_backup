@@ -93,7 +93,7 @@
       "remark": "",
       "status_code": 1108,
       "user_id": 561,
-      "zoom": 1166
+      "zoom": 31
     },
     {
       "ep_cut": 10,
@@ -107,7 +107,7 @@
       "remark": "",
       "status_code": 1108,
       "user_id": 42,
-      "zoom": 43
+      "zoom": 42
     },
     {
       "ep_cut": 13,
@@ -317,7 +317,7 @@
       "remark": "",
       "status_code": 1108,
       "user_id": 42,
-      "zoom": 115
+      "zoom": 1
     },
     {
       "ep_cut": "",
@@ -345,7 +345,7 @@
       "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第8話[2007/5/1 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt1)by USO9000",
       "status_code": 0,
       "user_id": 167,
-      "zoom": 168
+      "zoom": 14
     },
     {
       "ep_cut": "",
@@ -359,7 +359,7 @@
       "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第10話[2007/5/1 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-1.htm#txt2)by USO9000",
       "status_code": 0,
       "user_id": 167,
-      "zoom": 435
+      "zoom": 150
     },
     {
       "ep_cut": "",
@@ -485,7 +485,7 @@
       "remark": "アニメ「Kanon」 / 京都アニメーション / 2006-2007  第17話[2007/5/3 撮影]⇒旅行記へ (http://www7a.biglobe.ne.jp/~uso9000/travel/kanon-tv1-3.htm#txt20)by USO9000",
       "status_code": 0,
       "user_id": 67,
-      "zoom": 207
+      "zoom": 206
     },
     {
       "ep_cut": "",
@@ -542,9 +542,65 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 2829
+    },
+    {
+      "ep_cut": "",
+      "id": "jqz314m",
+      "image_path": "/images/user/2205/bangumi/274/points/jqz314m-1790000267171.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz314m-1790000267171.webp",
+      "lat": 43.053074,
+      "lng": 141.311127,
+      "location": "",
+      "name": "鸟居",
+      "remark": "冬季爬山不建议，有点滑",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 116
+    },
+    {
+      "ep_cut": "8",
+      "id": "jqz2fl7",
+      "image_path": "/images/user/2205/bangumi/274/points/jqz2fl7-1790000247401.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz2fl7-1790000247401.webp",
+      "lat": 43.032686,
+      "lng": 141.361609,
+      "location": "",
+      "name": "すみれ 札幌本店",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 532
+    },
+    {
+      "ep_cut": "8",
+      "id": "jqz1rjp",
+      "image_path": "/images/user/2205/bangumi/274/points/jqz1rjp-1790000213386.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz1rjp-1790000213386.webp",
+      "lat": 43.034999,
+      "lng": 141.357418,
+      "location": "",
+      "name": "隧道",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 30
+    },
+    {
+      "ep_cut": "8",
+      "id": "jqz0lxn",
+      "image_path": "/images/user/2205/bangumi/274/points/jqz0lxn-1790000162654.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz0lxn-1790000162654.webp",
+      "lat": 43.035151,
+      "lng": 141.357202,
+      "location": "",
+      "name": "楼梯",
+      "remark": "左面位置",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 805
     }
   ],
-  "points_count": 38,
+  "points_count": 42,
   "rating": 7.8,
   "region": "札幌市",
   "short_name": "",

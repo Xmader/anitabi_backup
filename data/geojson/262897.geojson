@@ -21459,6 +21459,26 @@
         "remark": "大概在这个位置附近的草地上有圣地巡礼纪念指示牌"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.035575,
+          33.646895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 262897,
+        "bangumi_title": "摇曳露营△ 二期",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/user/2168/bangumi/262897/points/jql2abl-1789976723899.webp",
+        "location": "",
+        "point_id": "jql2abl",
+        "point_name": "数据同步测试地标（大修后）",
+        "remark": "鹅鹅鹅"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

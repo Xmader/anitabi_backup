@@ -3999,10 +3999,38 @@
       "remark": "OVA 等待繁星之人",
       "status_code": 2168,
       "user_id": 138048,
-      "zoom": 155
+      "zoom": 108
+    },
+    {
+      "ep_cut": "3",
+      "id": "jpuiulo",
+      "image_path": "/images/user/2205/bangumi/210864/points/jpuiulo-1789932179857.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/210864/points/jpuiulo-1789932179857.webp",
+      "lat": 35.608023,
+      "lng": 139.646603,
+      "location": "",
+      "name": "等々力溪谷",
+      "remark": "魔法使的新娘 待星之人 第三集",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 40
+    },
+    {
+      "ep_cut": "3",
+      "id": "jpuirsd",
+      "image_path": "/images/user/2205/bangumi/210864/points/jpuirsd-1789932158435.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/210864/points/jpuirsd-1789932158435.webp",
+      "lat": 35.607752,
+      "lng": 139.646838,
+      "location": "",
+      "name": "haluuu",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 41
     }
   ],
-  "points_count": 285,
+  "points_count": 287,
   "rating": 7.2,
   "region": "英国",
   "short_name": "",

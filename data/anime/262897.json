@@ -15032,9 +15032,23 @@
       "status_code": 2168,
       "user_id": 31,
       "zoom": 12
+    },
+    {
+      "ep_cut": 13,
+      "id": "jql2abl",
+      "image_path": "/images/user/2168/bangumi/262897/points/jql2abl-1789976723899.webp",
+      "image_url": "https://w.junreimap.com/images/user/2168/bangumi/262897/points/jql2abl-1789976723899.webp",
+      "lat": 33.646895,
+      "lng": 138.035575,
+      "location": "",
+      "name": "数据同步测试地标（大修后）",
+      "remark": "鹅鹅鹅",
+      "status_code": 2168,
+      "user_id": null,
+      "zoom": 115063
     }
   ],
-  "points_count": 1073,
+  "points_count": 1074,
   "rating": 8.3,
   "region": "静岡県",
   "short_name": "",

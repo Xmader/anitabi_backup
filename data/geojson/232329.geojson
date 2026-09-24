@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.860412,
+          1.285555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 232329,
+        "bangumi_title": "Making＊Lovers オリジナルサウンドトラック",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/232329/points/jpq2zt7-1789924766196.webp",
+        "location": "新加坡",
+        "point_id": "jpq2zt7",
+        "point_name": "SkyPark Observation Deck",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.041332,
+          35.647121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 232329,
+        "bangumi_title": "Making＊Lovers オリジナルサウンドトラック",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/232329/points/jppldsg-1789924221305.webp",
+        "location": "千叶",
+        "point_id": "jppldsg",
+        "point_name": "三井アウトレットパーク 幕張",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

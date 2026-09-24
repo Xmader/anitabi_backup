@@ -5496,7 +5496,7 @@
       "name": "南砺市起業家支援センター",
       "remark": "2、9話に登場。",
       "status_code": 0,
-      "user_id": 86079,
+      "user_id": 3387,
       "zoom": 21
     },
     {
@@ -5510,7 +5510,7 @@
       "name": "神戸市民広場駅",
       "remark": "24話に登場。",
       "status_code": 1030,
-      "user_id": 277592,
+      "user_id": 274846,
       "zoom": 143
     },
     {
@@ -5526,6 +5526,20 @@
       "status_code": 0,
       "user_id": 306745,
       "zoom": 221
+    },
+    {
+      "ep_cut": "",
+      "id": "h3q4bdh",
+      "image_path": "/images/user/2090/bangumi/244761/points/h3q4bdh-1784240937407.webp",
+      "image_url": "https://w.junreimap.com/images/user/2090/bangumi/244761/points/h3q4bdh-1784240937407.webp",
+      "lat": 36.502307,
+      "lng": 136.872581,
+      "location": "長野、上高地、他",
+      "name": "P.A.WORKS",
+      "remark": "剧场版",
+      "status_code": 2090,
+      "user_id": 3387,
+      "zoom": 62
     },
     {
       "ep_cut": "",
@@ -5850,12 +5864,12 @@
       "zoom": 2
     }
   ],
-  "points_count": 417,
+  "points_count": 418,
   "rating": 8.8,
   "region": "东京都",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/110467_100_76.webp?v=hrfpx",
+    "/images/ptheme/110467_100_76.webp?v=hri2q",
     [
       "jqydwbt",
       "jqxl511",
@@ -6249,6 +6263,7 @@
       "5q875ju3",
       "5q875kmm",
       "5q875k2y",
+      "h3q4bdh",
       "jr57qnr",
       "jr58b20",
       "jr58eal",
@@ -6273,7 +6288,7 @@
       "jr6qwvo",
       "jr6qyor"
     ],
-    1790013441738,
+    1790196608960,
     100,
     76
   ],

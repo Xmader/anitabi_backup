@@ -31,9 +31,9 @@
       "properties": {
         "bangumi_id": 491519,
         "bangumi_title": "Friend to Lover ～フレラバ～",
-        "ep_cut": "",
+        "ep_cut": "游戏背景图",
         "image_url": "https://w.junreimap.com/images/user/2206/bangumi/491519/points/fhgq3h2-1780718107592.jpg",
-        "location": "",
+        "location": "悉尼",
         "point_id": "fhgq3h2",
         "point_name": "Hickson Rd",
         "remark": ""
@@ -51,11 +51,51 @@
       "properties": {
         "bangumi_id": 491519,
         "bangumi_title": "Friend to Lover ～フレラバ～",
-        "ep_cut": "",
+        "ep_cut": "游戏背景图",
         "image_url": "https://w.junreimap.com/images/user/2206/bangumi/491519/points/fhgywn3-1780718519549.jpg",
-        "location": "",
+        "location": "悉尼",
         "point_id": "fhgywn3",
-        "point_name": "悉尼海港大桥",
+        "point_name": "Sydney Harbour Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.224175,
+          33.597388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491519,
+        "bangumi_title": "Friend to Lover ～フレラバ～",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/491519/points/jppxvcd-1789924471150.webp",
+        "location": "福冈",
+        "point_id": "jppxvcd",
+        "point_name": "九州大学伊都キャンパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.695986,
+          35.53256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 491519,
+        "bangumi_title": "Friend to Lover ～フレラバ～",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/491519/points/jppvc1h-1789924355102.webp",
+        "location": "川崎",
+        "point_id": "jppvc1h",
+        "point_name": "ラゾーナ川崎プラザ",
         "remark": ""
       },
       "type": "Feature"

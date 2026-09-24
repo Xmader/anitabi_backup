@@ -358,7 +358,7 @@
       "name": "押堀川水辺広場",
       "remark": "",
       "status_code": 2200,
-      "user_id": 63,
+      "user_id": 86,
       "zoom": 86
     },
     {
@@ -414,7 +414,7 @@
       "name": "押堀川水辺広場",
       "remark": "在河边下一个水池边",
       "status_code": 0,
-      "user_id": 63,
+      "user_id": 53,
       "zoom": 66
     },
     {
@@ -1114,7 +1114,7 @@
       "name": "随神门前",
       "remark": "",
       "status_code": 2157,
-      "user_id": 100,
+      "user_id": 37,
       "zoom": 38
     },
     {
@@ -1128,7 +1128,7 @@
       "name": "葛飾講寄付の狼像",
       "remark": "",
       "status_code": 0,
-      "user_id": 40,
+      "user_id": 41,
       "zoom": 41
     },
     {
@@ -1156,8 +1156,8 @@
       "name": "三峯神社",
       "remark": "",
       "status_code": 1099,
-      "user_id": 19,
-      "zoom": 19
+      "user_id": 48,
+      "zoom": 58
     },
     {
       "ep_cut": 4,
@@ -1170,8 +1170,8 @@
       "name": "三峯神社 奥宮遥拝殿",
       "remark": "",
       "status_code": 1099,
-      "user_id": 100,
-      "zoom": 251
+      "user_id": 37,
+      "zoom": 290
     },
     {
       "ep_cut": 4,
@@ -1184,8 +1184,8 @@
       "name": "三峯山オリジナルショップ",
       "remark": "",
       "status_code": 0,
-      "user_id": 39,
-      "zoom": 39
+      "user_id": 41,
+      "zoom": 128
     },
     {
       "ep_cut": 4,
@@ -1198,8 +1198,8 @@
       "name": "縁結びの木 案内板",
       "remark": "",
       "status_code": 0,
-      "user_id": 127,
-      "zoom": 148
+      "user_id": 105,
+      "zoom": 105
     },
     {
       "ep_cut": 4,
@@ -1212,36 +1212,36 @@
       "name": "縁結びの木",
       "remark": "",
       "status_code": 2157,
-      "user_id": 55,
-      "zoom": 3
+      "user_id": 43,
+      "zoom": 43
     },
     {
       "ep_cut": 4,
       "id": "e3v2o8l",
       "image_path": "/images/user/2157/bangumi/543360/points/e3v2o8l-1777718900500.jpg",
       "image_url": "https://w.junreimap.com/images/user/2157/bangumi/543360/points/e3v2o8l-1777718900500.jpg",
-      "lat": 35.925434,
-      "lng": 138.930243,
+      "lat": 35.926791,
+      "lng": 138.928366,
       "location": "三峯神社 Mitsumine",
       "name": "结缘纸处",
       "remark": "",
       "status_code": 2157,
-      "user_id": 19,
-      "zoom": 292
+      "user_id": 6,
+      "zoom": 6
     },
     {
       "ep_cut": 4,
       "id": "e3v3pwl",
       "image_path": "/images/user/2157/bangumi/543360/points/e3v3pwl-1777718951525.jpg",
       "image_url": "https://w.junreimap.com/images/user/2157/bangumi/543360/points/e3v3pwl-1777718951525.jpg",
-      "lat": 35.927191,
-      "lng": 138.928297,
+      "lat": 35.92682,
+      "lng": 138.928321,
       "location": "三峯神社 Mitsumine",
       "name": "结缘处 牡丹",
-      "remark": "两个版本都放一下",
+      "remark": "两个版本都放一下\n此图正确位置坐标（35°55'36.8\"N 138°55'42.4\"E）",
       "status_code": 2157,
-      "user_id": 55,
-      "zoom": 2648
+      "user_id": 6,
+      "zoom": 2663
     },
     {
       "ep_cut": 4,
@@ -3265,7 +3265,7 @@
   "region": "秩父市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/543360_100_76.webp?v=hqsnr",
+    "/images/ptheme/543360_100_76.webp?v=hrhtu",
     [
       "8bulvz",
       "ea3ly5",
@@ -3500,7 +3500,7 @@
       "garmhp9",
       "garxnmk"
     ],
-    1788220294218,
+    1790177414220,
     100,
     76
   ],

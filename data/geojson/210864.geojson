@@ -5699,6 +5699,46 @@
         "remark": "OVA 等待繁星之人"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646603,
+          35.608023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 210864,
+        "bangumi_title": "魔法使的新娘",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/210864/points/jpuiulo-1789932179857.webp",
+        "location": "",
+        "point_id": "jpuiulo",
+        "point_name": "等々力溪谷",
+        "remark": "魔法使的新娘 待星之人 第三集"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646838,
+          35.607752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 210864,
+        "bangumi_title": "魔法使的新娘",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/210864/points/jpuirsd-1789932158435.webp",
+        "location": "",
+        "point_id": "jpuirsd",
+        "point_name": "haluuu",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

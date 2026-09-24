@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.65063,
+          35.878392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101658,
+        "bangumi_title": "初雪樱",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/101658/points/jo7y5il-1789833816241.webp",
+        "location": "琦玉",
+        "point_id": "jo7y5il",
+        "point_name": "埼玉県立浦和高等学校（体育館）",
+        "remark": "初雪等人的学校体育馆，在此点位向学校方向看可以看到和游戏一样的视角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.695727,
+          35.670474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101658,
+        "bangumi_title": "初雪樱",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/101658/points/jo84m9o-1789834111480.webp",
+        "location": "涩谷",
+        "point_id": "jo84m9o",
+        "point_name": "代々木公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397754,
+          33.590786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101658,
+        "bangumi_title": "初雪樱",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/101658/points/jo899ff-1789834471563.webp",
+        "location": "福冈",
+        "point_id": "jo899ff",
+        "point_name": "岩田屋本店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.735699,
+          35.631875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 101658,
+        "bangumi_title": "初雪樱",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/101658/points/jo7o3pv-1789833435128.webp",
+        "location": "品川",
+        "point_id": "jo7o3pv",
+        "point_name": "グランドプリンスホテル高輪 貴賓館ウエディング",
+        "remark": "河野初雪的家，要从侧面看"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
