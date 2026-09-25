@@ -1,5 +1,75 @@
 [
   {
+    "id": 275265,
+    "title_cn": "",
+    "title_jp": "恋愛、借りちゃいました",
+    "title_en": "",
+    "region": "東京都",
+    "type": "游戏",
+    "rating": 6.9,
+    "points_count": 4,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/275265_jun0ij1.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 292024,
+    "title_cn": "樱色之云*绯色之恋",
+    "title_jp": "さくらの雲＊スカアレットの恋",
+    "title_en": "",
+    "region": "",
+    "type": "游戏",
+    "rating": 7.6,
+    "points_count": 5,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/292024_uzuvhyslh.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 210068,
+    "title_cn": "流景之海的艾佩理雅",
+    "title_jp": "景の海のアペイリア",
+    "title_en": "",
+    "region": "",
+    "type": "游戏",
+    "rating": 7.9,
+    "points_count": 1,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/210068_jupn6gb.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 545917,
+    "title_cn": "描绘直至生命尽头",
+    "title_jp": "これ描いて死ね",
+    "title_en": "",
+    "region": "大島町",
+    "type": "TV",
+    "rating": 7.9,
+    "points_count": 222,
+    "center_lat": 34.688054,
+    "center_lng": 139.438665,
+    "cover_url": "https://w.junreimap.com/images/bangumi/545917.jpg",
+    "bgm_id": 69154
+  },
+  {
+    "id": 18605,
+    "title_cn": "玉响～hitotose～",
+    "title_jp": "たまゆら～hitotose～",
+    "title_en": "",
+    "region": "竹原市",
+    "type": "TV",
+    "rating": 7.4,
+    "points_count": 9,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/18605.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 4066,
     "title_cn": "白色相簿2 序章",
     "title_jp": "WHITE ALBUM2 -introductory chapter-",
@@ -14,20 +84,6 @@
     "bgm_id": 9687
   },
   {
-    "id": 295235,
-    "title_cn": "",
-    "title_jp": "恋愛、借りちゃいました -Original Soundtrack-",
-    "title_en": "",
-    "region": "",
-    "type": "",
-    "rating": 6.3,
-    "points_count": 4,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/fc/03/295235_uvMNq.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 236488,
     "title_cn": "偶像大师 闪耀色彩",
     "title_jp": "アイドルマスター シャイニーカラーズ",
@@ -40,20 +96,6 @@
     "center_lng": 139.448644,
     "cover_url": "https://w.junreimap.com/images/bangumi/236488.jpg",
     "bgm_id": 55
-  },
-  {
-    "id": 545917,
-    "title_cn": "描绘直至生命尽头",
-    "title_jp": "これ描いて死ね",
-    "title_en": "",
-    "region": "大島町",
-    "type": "TV",
-    "rating": 0,
-    "points_count": 201,
-    "center_lat": 34.688054,
-    "center_lng": 139.438665,
-    "cover_url": "https://w.junreimap.com/images/bangumi/545917.jpg",
-    "bgm_id": 69154
   },
   {
     "id": 110467,
@@ -1859,20 +1901,6 @@
     "center_lat": 49.24031,
     "center_lng": 9.478337,
     "cover_url": "https://w.junreimap.com/images/bangumi/1488.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 18605,
-    "title_cn": "玉响～hitotose～",
-    "title_jp": "たまゆら～hitotose～",
-    "title_en": "",
-    "region": "竹原市",
-    "type": "TV",
-    "rating": 7.4,
-    "points_count": 8,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/18605.jpg",
     "bgm_id": null
   },
   {
@@ -7431,20 +7459,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/292527.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 292024,
-    "title_cn": "樱色之云*绯色之恋",
-    "title_jp": "さくらの雲＊スカアレットの恋",
-    "title_en": "",
-    "region": "",
-    "type": "游戏",
-    "rating": 0,
-    "points_count": 1,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/292024_uzuvhyslh.jpg",
     "bgm_id": null
   },
   {

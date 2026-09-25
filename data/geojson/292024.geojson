@@ -13,10 +13,90 @@
         "bangumi_title": "樱色之云*绯色之恋",
         "ep_cut": "樱云共通线",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/292024/points/akbm5nr-1770007082475.jpg",
-        "location": "",
+        "location": "东京",
         "point_id": "akbm5nr",
         "point_name": "日比谷公园",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.796687,
+          35.714286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292024,
+        "bangumi_title": "樱色之云*绯色之恋",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292024/points/jum0tbr-1790220239250.webp",
+        "location": "东京",
+        "point_id": "jum0tbr",
+        "point_name": "浅草寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774282,
+          35.683795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292024,
+        "bangumi_title": "樱色之云*绯色之恋",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292024/points/jum46qc-1790220368195.webp",
+        "location": "东京",
+        "point_id": "jum46qc",
+        "point_name": "日本橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766217,
+          35.682221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292024,
+        "bangumi_title": "樱色之云*绯色之恋",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292024/points/jum8bhi-1790220578853.webp",
+        "location": "东京",
+        "point_id": "jum8bhi",
+        "point_name": "東京駅丸の内口",
+        "remark": "它们并非完全一样，但非常相似。有南北两个检票口，但两个检票口都能拍到类似的照片"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.910332,
+          35.181086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 292024,
+        "bangumi_title": "樱色之云*绯色之恋",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/292024/points/jumdcib-1790220852072.webp",
+        "location": "名古屋",
+        "point_id": "jumdcib",
+        "point_name": "名古屋市市政資料館",
+        "remark": "远子的家"
       },
       "type": "Feature"
     }

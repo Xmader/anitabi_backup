@@ -4003,8 +4003,108 @@
     {
       "geometry": {
         "coordinates": [
+          139.758595,
+          35.693949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasw-1790094352027.webp",
+        "location": "",
+        "point_id": "jsimasw",
+        "point_name": "小学館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.438835,
+          34.681099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaor-1790094352021.webp",
+        "location": "",
+        "point_id": "jsimaor",
+        "point_name": "トウシキ園地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.430535,
+          34.678469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimatd-1790094352030.webp",
+        "location": "",
+        "point_id": "jsimatd",
+        "point_name": "トウシキ遊泳場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759277,
+          35.695974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasx-1790094352028.webp",
+        "location": "",
+        "point_id": "jsimasx",
+        "point_name": "澤口書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76007,
+          35.696026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimase-1790094352026.webp",
+        "location": "",
+        "point_id": "jsimase",
+        "point_name": "書泉グランデ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.758275,
-          35.695317
+          35.695318
         ],
         "type": "Point"
       },
@@ -4016,6 +4116,326 @@
         "location": "",
         "point_id": "jsimata",
         "point_name": "神田すずらん通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.359625,
+          34.764964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimap8-1790094352024.webp",
+        "location": "",
+        "point_id": "jsimap8",
+        "point_name": "東京都立大島高等学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.438047,
+          34.684923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimavq-1790094352030.webp",
+        "location": "",
+        "point_id": "jsimavq",
+        "point_name": "波布比咩命神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.438181,
+          34.684977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaoz-1790094352022.webp",
+        "location": "",
+        "point_id": "jsimaoz",
+        "point_name": "波布比咩命神社",
+        "remark": "Habuhime-no-Mikoto Shrine 3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.438031,
+          34.684944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimat2-1790094352028.webp",
+        "location": "",
+        "point_id": "jsimat2",
+        "point_name": "波布比咩命神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762814,
+          35.653202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimatc-1790094352030.webp",
+        "location": "",
+        "point_id": "jsimatc",
+        "point_name": "竹芝客船ターミナル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75621,
+          35.656754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaos-1790094352021.webp",
+        "location": "",
+        "point_id": "jsimaos",
+        "point_name": "東京タワーとRBM浜松町ビル。",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758673,
+          35.695852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimap2-1790094352023.webp",
+        "location": "",
+        "point_id": "jsimap2",
+        "point_name": "明倫館書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757448,
+          35.695832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasr-1790094352026.webp",
+        "location": "",
+        "point_id": "jsimasr",
+        "point_name": "神田古書センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757295,
+          35.695827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasu-1790094352027.webp",
+        "location": "",
+        "point_id": "jsimasu",
+        "point_name": "原書房",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756995,
+          35.695897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasv-1790094352027.webp",
+        "location": "",
+        "point_id": "jsimasv",
+        "point_name": "矢口書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.756504,
+          35.69579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimavr-1790094352032.webp",
+        "location": "",
+        "point_id": "jsimavr",
+        "point_name": "BOOK HOTEL 神保町",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701804,
+          35.694491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaot-1790094352022.webp",
+        "location": "",
+        "point_id": "jsimaot",
+        "point_name": "ゴジラヘッド",
+        "remark": "Godzilla Head"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759368,
+          35.696123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimapx-1790094352025.webp",
+        "location": "",
+        "point_id": "jsimapx",
+        "point_name": "スマトラカレー 共栄堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761023,
+          35.695631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimatb-1790094352030.webp",
+        "location": "",
+        "point_id": "jsimatb",
+        "point_name": "三茶書房",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760222,
+          35.695919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimat4-1790094352029.webp",
+        "location": "",
+        "point_id": "jsimat4",
+        "point_name": "玉英堂書店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757099,
+          35.695695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimap7-1790094352024.webp",
+        "location": "",
+        "point_id": "jsimap7",
+        "point_name": "中川書房",
         "remark": ""
       },
       "type": "Feature"

@@ -159,6 +159,26 @@
         "remark": "竹制框架似乎是每年更新的，应该不用担心撤去或腐朽（2026.07.08）"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.858553,
+          34.184915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "04",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/jtnk2mn-1790162362045.webp",
+        "location": "",
+        "point_id": "jtnk2mn",
+        "point_name": "大長港",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

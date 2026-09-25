@@ -36,8 +36,8 @@
       "name": "伊豆大島",
       "remark": "从南侧上空俯瞰整个伊豆大岛。本作设定中这个岛名为伊豆王岛。",
       "status_code": 1057,
-      "user_id": 4326,
-      "zoom": 4326
+      "user_id": 3299,
+      "zoom": 3299
     },
     {
       "ep_cut": 1,
@@ -988,8 +988,8 @@
       "name": "都立大島高校",
       "remark": "动画中出现的高中场景以都立大岛高中为原型，ED中取材协力也列出了都立大岛高中。不过设定上女主就读的高中位于伊豆大岛南侧的波浮港附近。",
       "status_code": 1057,
-      "user_id": 29,
-      "zoom": 29
+      "user_id": 26,
+      "zoom": 26
     },
     {
       "ep_cut": 1,
@@ -1199,7 +1199,7 @@
       "remark": "竹芝站只有一个改札口。安海在此搭乘百合鸥线，约18分钟可抵达东京国际展览中心站。",
       "status_code": 1057,
       "user_id": 78,
-      "zoom": 200
+      "zoom": 134
     },
     {
       "ep_cut": 1,
@@ -1325,7 +1325,7 @@
       "remark": "两人应当是乘坐了从东京前往伊豆大岛的14:00发的东海汽船最晚一班高速汽船。",
       "status_code": 1057,
       "user_id": 7,
-      "zoom": 830
+      "zoom": 86
     },
     {
       "ep_cut": 2,
@@ -1815,7 +1815,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 15,
-      "zoom": 150
+      "zoom": 23
     },
     {
       "ep_cut": 2,
@@ -2151,7 +2151,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 1,
-      "zoom": 30
+      "zoom": 11
     },
     {
       "ep_cut": 3,
@@ -2207,7 +2207,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 3,
-      "zoom": 121
+      "zoom": 41
     },
     {
       "ep_cut": 3,
@@ -2556,7 +2556,7 @@
       "name": "赤羽橋",
       "remark": "",
       "status_code": 0,
-      "user_id": 1866,
+      "user_id": 1228,
       "zoom": 57
     },
     {
@@ -2753,7 +2753,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 8,
-      "zoom": 12024
+      "zoom": 292
     },
     {
       "ep_cut": 9,
@@ -2809,29 +2809,323 @@
       "remark": "",
       "status_code": 0,
       "user_id": 63,
-      "zoom": 1695
+      "zoom": 85
+    },
+    {
+      "ep_cut": 9,
+      "id": "jsimasw",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimasw-1790094352027.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasw-1790094352027.webp",
+      "lat": 35.693949,
+      "lng": 139.758595,
+      "location": "",
+      "name": "小学館",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 21,
+      "zoom": 157
+    },
+    {
+      "ep_cut": 10,
+      "id": "jsimaor",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimaor-1790094352021.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaor-1790094352021.webp",
+      "lat": 34.681099,
+      "lng": 139.438835,
+      "location": "",
+      "name": "トウシキ園地",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 433,
+      "zoom": 434
+    },
+    {
+      "ep_cut": 10,
+      "id": "jsimatd",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimatd-1790094352030.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimatd-1790094352030.webp",
+      "lat": 34.678469,
+      "lng": 139.430535,
+      "location": "",
+      "name": "トウシキ遊泳場",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 967,
+      "zoom": 1100
+    },
+    {
+      "ep_cut": 10,
+      "id": "jsimasx",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimasx-1790094352028.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasx-1790094352028.webp",
+      "lat": 35.695974,
+      "lng": 139.759277,
+      "location": "",
+      "name": "澤口書店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 19,
+      "zoom": 20
+    },
+    {
+      "ep_cut": 10,
+      "id": "jsimase",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimase-1790094352026.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimase-1790094352026.webp",
+      "lat": 35.696026,
+      "lng": 139.76007,
+      "location": "",
+      "name": "書泉グランデ",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 21,
+      "zoom": 21
     },
     {
       "ep_cut": 10,
       "id": "jsimata",
       "image_path": "/images/user/0/bangumi/545917/points/jsimata-1790094352029.webp",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimata-1790094352029.webp",
-      "lat": 35.695317,
+      "lat": 35.695318,
       "lng": 139.758275,
       "location": "",
       "name": "神田すずらん通り",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
-      "zoom": 507
+      "user_id": 74,
+      "zoom": 74
+    },
+    {
+      "ep_cut": 10,
+      "id": "jsimap8",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimap8-1790094352024.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimap8-1790094352024.webp",
+      "lat": 34.764964,
+      "lng": 139.359625,
+      "location": "",
+      "name": "東京都立大島高等学校",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 4,
+      "zoom": 1612
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimavq",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimavq-1790094352030.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimavq-1790094352030.webp",
+      "lat": 34.684923,
+      "lng": 139.438047,
+      "location": "",
+      "name": "波布比咩命神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 3,
+      "zoom": 3
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimaoz",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimaoz-1790094352022.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaoz-1790094352022.webp",
+      "lat": 34.684977,
+      "lng": 139.438181,
+      "location": "",
+      "name": "波布比咩命神社",
+      "remark": "Habuhime-no-Mikoto Shrine 3",
+      "status_code": 0,
+      "user_id": 16,
+      "zoom": 18
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimat2",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimat2-1790094352028.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimat2-1790094352028.webp",
+      "lat": 34.684944,
+      "lng": 139.438031,
+      "location": "",
+      "name": "波布比咩命神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 3,
+      "zoom": 12006
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimatc",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimatc-1790094352030.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimatc-1790094352030.webp",
+      "lat": 35.653202,
+      "lng": 139.762814,
+      "location": "",
+      "name": "竹芝客船ターミナル",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 85,
+      "zoom": 833
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimaos",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimaos-1790094352021.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaos-1790094352021.webp",
+      "lat": 35.656754,
+      "lng": 139.75621,
+      "location": "",
+      "name": "東京タワーとRBM浜松町ビル。",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 709,
+      "zoom": 886
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimap2",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimap2-1790094352023.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimap2-1790094352023.webp",
+      "lat": 35.695852,
+      "lng": 139.758673,
+      "location": "",
+      "name": "明倫館書店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 68,
+      "zoom": 83
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimasr",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimasr-1790094352026.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasr-1790094352026.webp",
+      "lat": 35.695832,
+      "lng": 139.757448,
+      "location": "",
+      "name": "神田古書センター",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 17,
+      "zoom": 17
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimasu",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimasu-1790094352027.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasu-1790094352027.webp",
+      "lat": 35.695827,
+      "lng": 139.757295,
+      "location": "",
+      "name": "原書房",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 17,
+      "zoom": 27
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimasv",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimasv-1790094352027.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimasv-1790094352027.webp",
+      "lat": 35.695897,
+      "lng": 139.756995,
+      "location": "",
+      "name": "矢口書店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 25,
+      "zoom": 26
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimavr",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimavr-1790094352032.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimavr-1790094352032.webp",
+      "lat": 35.69579,
+      "lng": 139.756504,
+      "location": "",
+      "name": "BOOK HOTEL 神保町",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 56,
+      "zoom": 67
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimaot",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimaot-1790094352022.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimaot-1790094352022.webp",
+      "lat": 35.694491,
+      "lng": 139.701804,
+      "location": "",
+      "name": "ゴジラヘッド",
+      "remark": "Godzilla Head",
+      "status_code": 0,
+      "user_id": 6073,
+      "zoom": 52
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimapx",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimapx-1790094352025.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimapx-1790094352025.webp",
+      "lat": 35.696123,
+      "lng": 139.759368,
+      "location": "",
+      "name": "スマトラカレー 共栄堂",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 19,
+      "zoom": 98
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimatb",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimatb-1790094352030.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimatb-1790094352030.webp",
+      "lat": 35.695631,
+      "lng": 139.761023,
+      "location": "",
+      "name": "三茶書房",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 94,
+      "zoom": 95
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimat4",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimat4-1790094352029.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimat4-1790094352029.webp",
+      "lat": 35.695919,
+      "lng": 139.760222,
+      "location": "",
+      "name": "玉英堂書店",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 21,
+      "zoom": 348
+    },
+    {
+      "ep_cut": 11,
+      "id": "jsimap7",
+      "image_path": "/images/user/0/bangumi/545917/points/jsimap7-1790094352024.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/jsimap7-1790094352024.webp",
+      "lat": 35.695695,
+      "lng": 139.757099,
+      "location": "",
+      "name": "中川書房",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 25,
+      "zoom": 376
     }
   ],
-  "points_count": 201,
-  "rating": 0,
+  "points_count": 222,
+  "rating": 7.9,
   "region": "大島町",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/545917_100_76.webp?v=hrhtx",
+    "/images/ptheme/545917_100_76.webp?v=hrifq",
     [
       "1yh5fus",
       "glmevbm",
@@ -3032,9 +3326,31 @@
       "jacz1qh",
       "jacz1qn",
       "jacz1ql",
-      "jacz1le"
+      "jacz1le",
+      "jsimasw",
+      "jsimaor",
+      "jsimatd",
+      "jsimasx",
+      "jsimase",
+      "jsimata",
+      "jsimap8",
+      "jsimavq",
+      "jsimaoz",
+      "jsimat2",
+      "jsimatc",
+      "jsimaos",
+      "jsimap2",
+      "jsimasr",
+      "jsimasu",
+      "jsimasv",
+      "jsimavr",
+      "jsimaot",
+      "jsimapx",
+      "jsimatb",
+      "jsimat4",
+      "jsimap7"
     ],
-    1790177605205,
+    1790224696539,
     100,
     76
   ],

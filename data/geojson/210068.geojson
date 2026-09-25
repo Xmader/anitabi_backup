@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.796312,
+          35.710932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 210068,
+        "bangumi_title": "流景之海的艾佩理雅",
+        "ep_cut": "游戏背景图",
+        "image_url": "https://w.junreimap.com/images/points/210068/b25359c5_1790228566691.webp",
+        "location": "东京",
+        "point_id": "b25359c5",
+        "point_name": "雷門、スカイツリー",
+        "remark": "晴空塔方向"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

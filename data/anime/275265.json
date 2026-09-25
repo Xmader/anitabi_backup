@@ -1,0 +1,91 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#ff638f",
+  "cover_path": "/images/bangumi/275265_jun0ij1.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/275265_jun0ij1.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 275265,
+  "points": [
+    {
+      "ep_cut": "游戏背景图",
+      "id": "juiblte",
+      "image_path": "/images/user/0/bangumi/295235/points/juiblte-1790214120520.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/295235/points/juiblte-1790214120520.webp",
+      "lat": 35.628954,
+      "lng": 139.739047,
+      "location": "品川",
+      "name": "JR品川駅北改札",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 7247,
+      "zoom": 48
+    },
+    {
+      "ep_cut": "游戏背景图",
+      "id": "jujd50m",
+      "image_path": "/images/user/0/bangumi/295235/points/jujd50m-1790215909709.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/295235/points/jujd50m-1790215909709.webp",
+      "lat": 35.682787,
+      "lng": 139.702113,
+      "location": "涩谷",
+      "name": "代々木駅前",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 7247,
+      "zoom": 19
+    },
+    {
+      "ep_cut": "游戏背景图",
+      "id": "jujky7t",
+      "image_path": "/images/user/0/bangumi/295235/points/jujky7t-1790216126565.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/295235/points/jujky7t-1790216126565.webp",
+      "lat": 35.702807,
+      "lng": 139.771937,
+      "location": "千代田",
+      "name": "末広町駅前",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 8063,
+      "zoom": 4
+    },
+    {
+      "ep_cut": "游戏背景图",
+      "id": "jujp4j3",
+      "image_path": "/images/points/295235/jujp4j3_1790220532068.webp",
+      "image_url": "https://w.junreimap.com/images/points/295235/jujp4j3_1790220532068.webp",
+      "lat": 35.858334,
+      "lng": 139.868411,
+      "location": "埼玉",
+      "name": "ららぽーと新三郷",
+      "remark": "💵OR💳？",
+      "status_code": 0,
+      "user_id": 20315,
+      "zoom": 86
+    }
+  ],
+  "points_count": 4,
+  "rating": 6.9,
+  "region": "東京都",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/275265_100_76.webp?v=hriik",
+    [
+      "juiblte",
+      "jujd50m",
+      "jujky7t",
+      "jujp4j3"
+    ],
+    1790230808156,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "恋愛、借りちゃいました",
+  "type": "游戏"
+}
