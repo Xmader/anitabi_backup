@@ -1,5 +1,33 @@
 [
   {
+    "id": 495291,
+    "title_cn": "再见，菈菈",
+    "title_jp": "さよならララ",
+    "title_en": "Goodbye!rara",
+    "region": "大津市",
+    "type": "TV",
+    "rating": 8,
+    "points_count": 266,
+    "center_lat": 34.978141,
+    "center_lng": 135.905931,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/18/af/495291_Qd97X.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 583729,
+    "title_cn": "BanG Dream! YUME∞MITA",
+    "title_jp": "BanG Dream! ゆめ∞みた",
+    "title_en": "BanG Dream! YUME∞MITA",
+    "region": "千代田区",
+    "type": "TV",
+    "rating": 4.8,
+    "points_count": 288,
+    "center_lat": 35.702393,
+    "center_lng": 139.77221,
+    "cover_url": "https://w.junreimap.com/images/bangumi/583729.jpg",
+    "bgm_id": 2198
+  },
+  {
     "id": 275265,
     "title_cn": "",
     "title_jp": "恋愛、借りちゃいました",
@@ -557,7 +585,7 @@
     "center_lat": 35.706977,
     "center_lng": 139.784426,
     "cover_url": "https://w.junreimap.com/images/bangumi/404804.jpg",
-    "bgm_id": 1581
+    "bgm_id": 1449
   },
   {
     "id": 72942,
@@ -585,20 +613,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/297152.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 495291,
-    "title_cn": "再见，拉拉",
-    "title_jp": "さよならララ",
-    "title_en": "Goodbye!rara",
-    "region": "大津市",
-    "type": "TV",
-    "rating": 8,
-    "points_count": 266,
-    "center_lat": 34.978141,
-    "center_lng": 135.905931,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/18/af/495291_Qd97X.jpg",
     "bgm_id": null
   },
   {
@@ -838,20 +852,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/623851.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 583729,
-    "title_cn": "BanG Dream! YUME∞MITA",
-    "title_jp": "BanG Dream! ゆめ∞みた",
-    "title_en": "BanG Dream! YUME∞MITA",
-    "region": "千代田区",
-    "type": "TV",
-    "rating": 5.3,
-    "points_count": 288,
-    "center_lat": 35.702174,
-    "center_lng": 139.770621,
-    "cover_url": "https://w.junreimap.com/images/bangumi/583729.jpg",
-    "bgm_id": 2039
   },
   {
     "id": 100444,
@@ -1411,7 +1411,7 @@
     "center_lat": 35.720311,
     "center_lng": 139.779421,
     "cover_url": "https://w.junreimap.com/images/bangumi/478556.jpg",
-    "bgm_id": 2238
+    "bgm_id": 2144
   },
   {
     "id": 507447,
@@ -8117,7 +8117,7 @@
     "center_lat": 35.69878,
     "center_lng": 139.771392,
     "cover_url": "https://w.junreimap.com/images/bangumi/10380.jpg",
-    "bgm_id": 387
+    "bgm_id": 412
   },
   {
     "id": 68812,
@@ -13423,7 +13423,7 @@
     "center_lat": 35.702945,
     "center_lng": 139.771734,
     "cover_url": "https://w.junreimap.com/images/bangumi/103127.jpg",
-    "bgm_id": 151
+    "bgm_id": 81
   },
   {
     "id": 847,
@@ -18421,7 +18421,7 @@
     "center_lat": 35.697565,
     "center_lng": 139.777979,
     "cover_url": "https://w.junreimap.com/images/bangumi/119394.jpg",
-    "bgm_id": 964
+    "bgm_id": 835
   },
   {
     "id": 234349,
@@ -20409,7 +20409,7 @@
     "center_lat": 35.689046,
     "center_lng": 139.775795,
     "cover_url": "https://w.junreimap.com/images/bangumi/2603.jpg",
-    "bgm_id": 1567
+    "bgm_id": 1535
   },
   {
     "id": 1167,
