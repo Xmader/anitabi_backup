@@ -59,6 +59,26 @@
         "remark": "*敬告：超市后门为超市私有地，请勿擅闯、请勿随地吸烟、巡礼时请遵守礼仪\n\n布局最相似的原型。从超市门口出来右手边就是停车场，停车场直接连接后面的上货区。"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.353419,
+          43.062422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 571784,
+        "bangumi_title": "在超市后门吸烟的二人",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/571784/points/jy30qec-1790430182710.webp",
+        "location": "",
+        "point_id": "jy30qec",
+        "point_name": "札幌市時計台",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

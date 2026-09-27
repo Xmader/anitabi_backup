@@ -1,5 +1,61 @@
 [
   {
+    "id": 543360,
+    "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
+    "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
+    "title_en": "",
+    "region": "秩父市",
+    "type": "TV",
+    "rating": 7.1,
+    "points_count": 234,
+    "center_lat": 35.99662,
+    "center_lng": 139.069332,
+    "cover_url": "https://w.junreimap.com/images/bangumi/543360_fej9y4l.jpg",
+    "bgm_id": 19446
+  },
+  {
+    "id": 282923,
+    "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
+    "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
+    "title_en": "",
+    "region": "秩父市",
+    "type": "漫画系列",
+    "rating": 7.6,
+    "points_count": 173,
+    "center_lat": 37.238036,
+    "center_lng": 138.957161,
+    "cover_url": "https://w.junreimap.com/images/bangumi/282923.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 571784,
+    "title_cn": "在超市后门吸烟的二人",
+    "title_jp": "スーパーの裏でヤニ吸うふたり",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.1,
+    "points_count": 4,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/6f/42/571784_leRlL.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 590553,
+    "title_cn": "",
+    "title_jp": "てつりょー！meet with 鉄道むすめ",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 0,
+    "points_count": 23,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 495291,
     "title_cn": "再见，菈菈",
     "title_jp": "さよならララ",
@@ -138,20 +194,6 @@
     "center_lng": 139.642261,
     "cover_url": "https://w.junreimap.com/images/bangumi/110467.jpg",
     "bgm_id": 145
-  },
-  {
-    "id": 543360,
-    "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
-    "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
-    "title_en": "",
-    "region": "秩父市",
-    "type": "TV",
-    "rating": 7.2,
-    "points_count": 232,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/543360_fej9y4l.jpg",
-    "bgm_id": null
   },
   {
     "id": 101658,
@@ -2730,20 +2772,6 @@
     "bgm_id": 8603
   },
   {
-    "id": 590553,
-    "title_cn": "",
-    "title_jp": "てつりょー！meet with 鉄道むすめ",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 0,
-    "points_count": 15,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 18624,
     "title_cn": "回转企鹅罐",
     "title_jp": "輪るピングドラム",
@@ -3049,20 +3077,6 @@
     "center_lat": 36.486807,
     "center_lng": 136.756504,
     "cover_url": "https://w.junreimap.com/images/bangumi/22759.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 571784,
-    "title_cn": "在超市后门吸烟的二人",
-    "title_jp": "スーパーの裏でヤニ吸うふたり",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7.1,
-    "points_count": 3,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/6f/42/571784_leRlL.jpg",
     "bgm_id": null
   },
   {
@@ -5992,20 +6006,6 @@
     "bgm_id": null
   },
   {
-    "id": 282923,
-    "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
-    "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
-    "title_en": "",
-    "region": "秩父市",
-    "type": "漫画系列",
-    "rating": 7.6,
-    "points_count": 176,
-    "center_lat": 37.238036,
-    "center_lng": 138.957161,
-    "cover_url": "https://w.junreimap.com/images/bangumi/282923.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 975,
     "title_cn": "航海王",
     "title_jp": "ONE PIECE",
@@ -7655,7 +7655,7 @@
     "center_lat": 35.991619,
     "center_lng": 139.064426,
     "cover_url": "https://w.junreimap.com/images/bangumi/278557.jpg",
-    "bgm_id": 19414
+    "bgm_id": 778
   },
   {
     "id": 40388,
@@ -8677,7 +8677,7 @@
     "center_lat": 35.992442,
     "center_lng": 139.090482,
     "cover_url": "https://w.junreimap.com/images/bangumi/119344.jpg",
-    "bgm_id": 2894
+    "bgm_id": 2394
   },
   {
     "id": 2464,

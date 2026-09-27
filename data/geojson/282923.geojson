@@ -3459,66 +3459,6 @@
         "remark": "（摘自汉化尾页）\n本屋B&B和设计公司Takram 于2022年11月22日至12月25日举办了“设计公司 Takramx 本屋B&B合作展”。\n在此次展览中，进行了由Takram策划的“故乡与旅程”书展及以此为主题的合作巧克力限定销售活动"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          140.095109,
-          35.076205
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 282923,
-        "bangumi_title": "上伊那牡丹，酒醉身姿似百合花般",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/282923/points/dtkgzen-1777096453403.jpg",
-        "location": "",
-        "point_id": "dtkgzen",
-        "point_name": "是空温泉室内",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.083436,
-          35.989675
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 282923,
-        "bangumi_title": "上伊那牡丹，酒醉身姿似百合花般",
-        "ep_cut": 3,
-        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/282923/points/dtkacne-1777096123305.jpg",
-        "location": "",
-        "point_id": "dtkacne",
-        "point_name": "站前观光案内所方向",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          138.93204,
-          35.923329
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 282923,
-        "bangumi_title": "上伊那牡丹，酒醉身姿似百合花般",
-        "ep_cut": 4,
-        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/282923/points/e3uap1d-1777717596421.jpg",
-        "location": "",
-        "point_id": "e3uap1d",
-        "point_name": "三峯神社 三ツ鳥居",
-        "remark": ""
-      },
-      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

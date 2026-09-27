@@ -299,6 +299,166 @@
         "remark": "【存疑】背景为トロッコわたらせ渓谷号列车，运行区间大間々駅 ～ 足尾駅。根据方向幕倒影大致判断为该车站"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.582711,
+          33.362702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxu935r_1790415433622.webp",
+        "location": "",
+        "point_id": "jxu935r",
+        "point_name": "たびら平戸口駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.648491,
+          33.239134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxuo9ok_1790416182817.webp",
+        "location": "",
+        "point_id": "jxuo9ok",
+        "point_name": "佐々川",
+        "remark": "大致位于该点，高空向西南方看"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.333013,
+          36.411241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxvc7f5_1790417326537.webp",
+        "location": "",
+        "point_id": "jxvc7f5",
+        "point_name": "桐生駅（わたらせ渓谷鐵道）",
+        "remark": "图中车辆为WKT-500形气动车，另外绝对不可以尝试跳下站台以完美复刻该角度"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699341,
+          35.690165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxw5xeg_1790418643182.webp",
+        "location": "",
+        "point_id": "jxw5xeg",
+        "point_name": "京王新宿駅",
+        "remark": "图中车辆为京王8000系（8713F编成是唯一绿色涂装的列车，即\"高尾山トレイン\"涂装）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.700095,
+          35.695117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwbwoz_1790418941094.webp",
+        "location": "",
+        "point_id": "jxwbwoz",
+        "point_name": "西武新宿駅",
+        "remark": "【存疑】进站口谷歌街景的标牌不是圆形的，但是考虑到该画面中正在安装，且背景有IC专用，入口等标识符合西武新宿进站口特征故标点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.692786,
+          36.725576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwgrkx_1790419134003.webp",
+        "location": "",
+        "point_id": "jxwgrkx",
+        "point_name": "下今市駅",
+        "remark": "由天桥结构可确定是下今市站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.370668,
+          32.790177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwl17b_1790419341168.webp",
+        "location": "",
+        "point_id": "jxwl17b",
+        "point_name": "島原",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.344821,
+          32.843733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": "放送直前PV",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwo1e4_1790419501404.webp",
+        "location": "",
+        "point_id": "jxwo1e4",
+        "point_name": "大三東",
+        "remark": "大三东站标志性的祈愿活动：幸福的黄色手帕。该点特别鸣谢gemini"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
