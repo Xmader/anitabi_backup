@@ -91,7 +91,7 @@
       "properties": {
         "bangumi_id": 360498,
         "bangumi_title": "AMBITIOUS MISSION",
-        "ep_cut": 0.2,
+        "ep_cut": "",
         "image_url": "https://w.junreimap.com/images/points/360498/gai7jmr_1785248465735.webp",
         "location": "",
         "point_id": "gai7jmr",
@@ -111,12 +111,52 @@
       "properties": {
         "bangumi_id": 360498,
         "bangumi_title": "AMBITIOUS MISSION",
-        "ep_cut": 0.2,
+        "ep_cut": "",
         "image_url": "https://w.junreimap.com/images/points/360498/gahvl97_1785248436064.webp",
         "location": "",
         "point_id": "gahvl97",
         "point_name": "時計台ホール",
         "remark": "这里只有建筑物是一样的，道路构造并不相同，旁边是马路"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.364497,
+          43.065778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/360498/jzknqjq_1790525495370.webp",
+        "location": "",
+        "point_id": "jzknqjq",
+        "point_name": "旧永山邸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.345919,
+          43.077396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 360498,
+        "bangumi_title": "AMBITIOUS MISSION",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/360498/jzo2yq1_1790526105665.webp",
+        "location": "",
+        "point_id": "jzo2yq1",
+        "point_name": "北海道大学病院",
+        "remark": "非准确地点，现实中并没有类似游戏CG的广场，角度大概在停车场旁边"
       },
       "type": "Feature"
     }

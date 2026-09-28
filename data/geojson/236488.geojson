@@ -1599,6 +1599,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.889034,
+          38.235856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 236488,
+        "bangumi_title": "偶像大师 闪耀色彩",
+        "ep_cut": "2027年3月27日(土)・28日(日) ゼビオアリーナ仙台　283 Production LIVE Performance noctchill 宣传主视图",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/236488/points/jzhex8k-1790514794311.webp",
+        "location": "",
+        "point_id": "jzhex8k",
+        "point_name": "広瀬桥",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

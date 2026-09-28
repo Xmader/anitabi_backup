@@ -1,5 +1,47 @@
 [
   {
+    "id": 360498,
+    "title_cn": "",
+    "title_jp": "AMBITIOUS MISSION",
+    "title_en": "AMBITIOUS MISSION",
+    "region": "札幌市",
+    "type": "游戏",
+    "rating": 7.4,
+    "points_count": 8,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/360498_gas5p03.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 236488,
+    "title_cn": "偶像大师 闪耀色彩",
+    "title_jp": "アイドルマスター シャイニーカラーズ",
+    "title_en": "THE IDOLM@STER SHINY COLORS",
+    "region": "多摩市",
+    "type": "游戏",
+    "rating": 7.5,
+    "points_count": 81,
+    "center_lat": 35.649816,
+    "center_lng": 139.448644,
+    "cover_url": "https://w.junreimap.com/images/bangumi/236488.jpg",
+    "bgm_id": 55
+  },
+  {
+    "id": 281281,
+    "title_cn": "女神异闻录5 乱战：魅影攻手",
+    "title_jp": "ペルソナ5 スクランブル ザ・ファントムストライカーズ",
+    "title_en": "Persona 5 Strikers",
+    "region": "",
+    "type": "游戏",
+    "rating": 7.3,
+    "points_count": 107,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/7d/ae/281281_f2Y2T.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 543360,
     "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
     "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
@@ -166,20 +208,6 @@
     "center_lng": 139.953643,
     "cover_url": "https://w.junreimap.com/images/bangumi/4066_p84sdioh0.jpg",
     "bgm_id": 9687
-  },
-  {
-    "id": 236488,
-    "title_cn": "偶像大师 闪耀色彩",
-    "title_jp": "アイドルマスター シャイニーカラーズ",
-    "title_en": "THE IDOLM@STER SHINY COLORS",
-    "region": "多摩市",
-    "type": "游戏",
-    "rating": 7.5,
-    "points_count": 80,
-    "center_lat": 35.649816,
-    "center_lng": 139.448644,
-    "cover_url": "https://w.junreimap.com/images/bangumi/236488.jpg",
-    "bgm_id": 55
   },
   {
     "id": 110467,
@@ -2349,20 +2377,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://lain.bgm.tv/pic/cover/l/0b/5b/89279_34AY4.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 360498,
-    "title_cn": "",
-    "title_jp": "AMBITIOUS MISSION",
-    "title_en": "AMBITIOUS MISSION",
-    "region": "札幌市",
-    "type": "游戏",
-    "rating": 0,
-    "points_count": 6,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/360498_gas5p03.jpg",
     "bgm_id": null
   },
   {
@@ -5541,20 +5555,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d0/d5/150490_oAq4l.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 281281,
-    "title_cn": "女神异闻录5 乱战：魅影攻手",
-    "title_jp": "ペルソナ5 スクランブル ザ・ファントムストライカーズ",
-    "title_en": "Persona 5 Strikers",
-    "region": "",
-    "type": "游戏",
-    "rating": 7.3,
-    "points_count": 107,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/7d/ae/281281_f2Y2T.jpg",
     "bgm_id": null
   },
   {

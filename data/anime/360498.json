@@ -68,7 +68,7 @@
       "zoom": 24
     },
     {
-      "ep_cut": 0.2,
+      "ep_cut": "",
       "id": "gai7jmr",
       "image_path": "/images/points/360498/gai7jmr_1785248465735.webp",
       "image_url": "https://w.junreimap.com/images/points/360498/gai7jmr_1785248465735.webp",
@@ -82,7 +82,7 @@
       "zoom": 28
     },
     {
-      "ep_cut": 0.2,
+      "ep_cut": "",
       "id": "gahvl97",
       "image_path": "/images/points/360498/gahvl97_1785248436064.webp",
       "image_url": "https://w.junreimap.com/images/points/360498/gahvl97_1785248436064.webp",
@@ -94,23 +94,53 @@
       "status_code": 2203,
       "user_id": 300,
       "zoom": 29
+    },
+    {
+      "ep_cut": "",
+      "id": "jzknqjq",
+      "image_path": "/images/points/360498/jzknqjq_1790525495370.webp",
+      "image_url": "https://w.junreimap.com/images/points/360498/jzknqjq_1790525495370.webp",
+      "lat": 43.065778,
+      "lng": 141.364497,
+      "location": "",
+      "name": "旧永山邸",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 1041,
+      "zoom": 990
+    },
+    {
+      "ep_cut": "",
+      "id": "jzo2yq1",
+      "image_path": "/images/points/360498/jzo2yq1_1790526105665.webp",
+      "image_url": "https://w.junreimap.com/images/points/360498/jzo2yq1_1790526105665.webp",
+      "lat": 43.077396,
+      "lng": 141.345919,
+      "location": "",
+      "name": "北海道大学病院",
+      "remark": "非准确地点，现实中并没有类似游戏CG的广场，角度大概在停车场旁边",
+      "status_code": 2203,
+      "user_id": 1217,
+      "zoom": 1045
     }
   ],
-  "points_count": 6,
-  "rating": 0,
+  "points_count": 8,
+  "rating": 7.4,
   "region": "札幌市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/360498_100_76.webp?v=hpqfy",
+    "/images/ptheme/360498_100_76.webp?v=hrmb9",
     [
       "gah13eh",
       "gahfzke",
       "gagyoxq",
       "gagrlz2",
       "gai7jmr",
-      "gahvl97"
+      "gahvl97",
+      "jzknqjq",
+      "jzo2yq1"
     ],
-    1785248539851,
+    1790526113658,
     100,
     76
   ],
