@@ -23,8 +23,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.717743,
-          36.078886
+          139.718691,
+          36.078579
         ],
         "type": "Point"
       },
@@ -36,7 +36,7 @@
         "location": "",
         "point_id": "o0mvshrj8",
         "point_name": "幸宮神社",
-        "remark": "动画中，昴在与贤一交谈后做出了决意，并以其标志性的自我介绍姿势表达了决心。\n〒340-0115 埼玉県幸手市中4丁目11-30"
+        "remark": "动画中，昴在与贤一交谈后做出了决意，并以其标志性的自我介绍姿势表达了决心。\n〒340-0115 埼玉県幸手市中4丁目11-30\n位置在幸宫神社门口"
       },
       "type": "Feature"
     },
@@ -217,6 +217,26 @@
         "point_id": "o1dma9764",
         "point_name": "大和梱包運輸株式会社 本社事業所",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.713474,
+          36.089135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 278826,
+        "bangumi_title": "Re：从零开始的异世界生活 二期",
+        "ep_cut": "EP4",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/278826/points/k0equsi-1790570776616.jpg",
+        "location": "",
+        "point_id": "k0equsi",
+        "point_name": "円藤内児童公園",
+        "remark": "此位置现实应在円藤内児童公園内，两座长椅、电线杆、凉亭、秋千位置都符合动漫内容凉亭会被滑梯挡住。"
       },
       "type": "Feature"
     }

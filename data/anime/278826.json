@@ -30,14 +30,14 @@
       "id": "o0mvshrj8",
       "image_path": "/images/user/1751/bangumi/278826/points/o0mvshrj8-1725899719201.jpg",
       "image_url": "https://w.junreimap.com/images/user/1751/bangumi/278826/points/o0mvshrj8-1725899719201.jpg",
-      "lat": 36.078886,
-      "lng": 139.717743,
+      "lat": 36.078579,
+      "lng": 139.718691,
       "location": "",
       "name": "幸宮神社",
-      "remark": "动画中，昴在与贤一交谈后做出了决意，并以其标志性的自我介绍姿势表达了决心。\n〒340-0115 埼玉県幸手市中4丁目11-30",
+      "remark": "动画中，昴在与贤一交谈后做出了决意，并以其标志性的自我介绍姿势表达了决心。\n〒340-0115 埼玉県幸手市中4丁目11-30\n位置在幸宫神社门口",
       "status_code": 1751,
       "user_id": 110,
-      "zoom": 111
+      "zoom": 9
     },
     {
       "ep_cut": "",
@@ -135,7 +135,7 @@
       "remark": "埼玉県幸手市西2-1-2",
       "status_code": 1073,
       "user_id": 271,
-      "zoom": 897
+      "zoom": 723
     },
     {
       "ep_cut": "",
@@ -163,10 +163,24 @@
       "remark": "",
       "status_code": 1073,
       "user_id": 245,
-      "zoom": 4487
+      "zoom": 1642
+    },
+    {
+      "ep_cut": "EP4",
+      "id": "k0equsi",
+      "image_path": "/images/user/0/bangumi/278826/points/k0equsi-1790570776616.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/278826/points/k0equsi-1790570776616.jpg",
+      "lat": 36.089135,
+      "lng": 139.713474,
+      "location": "",
+      "name": "円藤内児童公園",
+      "remark": "此位置现实应在円藤内児童公園内，两座长椅、电线杆、凉亭、秋千位置都符合动漫内容凉亭会被滑梯挡住。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 4789
     }
   ],
-  "points_count": 11,
+  "points_count": 12,
   "rating": 7.4,
   "region": "幸手市",
   "short_name": "",

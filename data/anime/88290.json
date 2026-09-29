@@ -5292,8 +5292,8 @@
     {
       "ep_cut": 172,
       "id": "v1m4c2lys",
-      "image_path": "/images/user/1065/bangumi/88290/points/v1m4c2lys-1745724208656.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1m4c2lys-1745724208656.jpg",
+      "image_path": "/images/user/1065/bangumi/88290/points/v1m4c2lys-1790573041964.webp",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1m4c2lys-1790573041964.webp",
       "lat": 48.075099,
       "lng": 7.360582,
       "location": "",
@@ -5306,30 +5306,30 @@
     {
       "ep_cut": 172,
       "id": "v1mfetrrm",
-      "image_path": "/images/user/1065/bangumi/88290/points/v1mfetrrm-1745724839843.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1mfetrrm-1745724839843.jpg",
+      "image_path": "/images/user/1065/bangumi/88290/points/v1mfetrrm-1790573066291.webp",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1mfetrrm-1790573066291.webp",
       "lat": 48.075137,
       "lng": 7.360665,
       "location": "",
       "name": "科尔马摩天轮（圣诞节期间限定）",
       "remark": "从2022年开始每年圣诞节期间这里广场会建成临时的摩天轮",
       "status_code": 1065,
-      "user_id": 4,
-      "zoom": 5
+      "user_id": 1,
+      "zoom": 2
     },
     {
       "ep_cut": 172,
       "id": "v1meugk8x",
-      "image_path": "/images/user/1065/bangumi/88290/points/v1meugk8x-1745724815931.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1meugk8x-1745724815931.jpg",
+      "image_path": "/images/user/1065/bangumi/88290/points/v1meugk8x-1790573086680.webp",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1meugk8x-1790573086680.webp",
       "lat": 48.075133,
       "lng": 7.360628,
       "location": "",
       "name": "科尔马摩天轮（圣诞节期间限定）",
       "remark": "从2022年开始每年圣诞节期间这里广场会建成临时的摩天轮",
       "status_code": 1065,
-      "user_id": 4,
-      "zoom": 132
+      "user_id": 3,
+      "zoom": 3
     },
     {
       "ep_cut": 173,
@@ -5875,7 +5875,7 @@
       "remark": "向北拍摄",
       "status_code": 1065,
       "user_id": 2,
-      "zoom": 215
+      "zoom": 204
     },
     {
       "ep_cut": 186,
@@ -6827,7 +6827,7 @@
       "remark": "封面左侧和中间的房屋为桥上向南拍摄，封面右侧房屋也是左侧沿河的房屋，进行了镜像处理",
       "status_code": 1065,
       "user_id": 3,
-      "zoom": 71026
+      "zoom": 134
     },
     {
       "ep_cut": 188,
@@ -6953,15 +6953,43 @@
       "remark": "所标位置沿着左排房屋向西北拍摄",
       "status_code": 1065,
       "user_id": 12,
-      "zoom": 199032
+      "zoom": 70891
+    },
+    {
+      "ep_cut": 172,
+      "id": "k0g570g",
+      "image_path": "/images/user/1065/bangumi/88290/points/k0g570g-1790573116943.webp",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g570g-1790573116943.webp",
+      "lat": 48.075127,
+      "lng": 7.360656,
+      "location": "",
+      "name": "科尔马摩天轮（圣诞节期间限定）",
+      "remark": "",
+      "status_code": 1065,
+      "user_id": 1,
+      "zoom": 3
+    },
+    {
+      "ep_cut": 172,
+      "id": "k0g6gsh",
+      "image_path": "/images/user/1065/bangumi/88290/points/k0g6gsh-1790573175661.webp",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g6gsh-1790573175661.webp",
+      "lat": 48.075111,
+      "lng": 7.360637,
+      "location": "",
+      "name": "科尔马摩天轮（圣诞节期间限定）",
+      "remark": "",
+      "status_code": 1065,
+      "user_id": 3,
+      "zoom": 269602
     }
   ],
-  "points_count": 496,
+  "points_count": 498,
   "rating": 8.2,
   "region": "海外",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/88290_100_76.webp?v=hqw4s",
+    "/images/ptheme/88290_100_76.webp?v=hrmx6",
     [
       "uh32xjzfv",
       "uwli00a3i",
@@ -7458,9 +7486,11 @@
       "gpvwizz",
       "gpwoe18",
       "gpwqljq",
-      "gq6xu58"
+      "gq6xu58",
+      "k0g570g",
+      "k0g6gsh"
     ],
-    1788490360558,
+    1790573411483,
     100,
     76
   ],

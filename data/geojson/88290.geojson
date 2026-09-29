@@ -7552,7 +7552,7 @@
         "bangumi_id": 88290,
         "bangumi_title": "请问您今天要来点兔子吗？",
         "ep_cut": 172,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1m4c2lys-1745724208656.jpg",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1m4c2lys-1790573041964.webp",
         "location": "",
         "point_id": "v1m4c2lys",
         "point_name": "科尔马摩天轮上的远景（圣诞节期间限定）",
@@ -7572,7 +7572,7 @@
         "bangumi_id": 88290,
         "bangumi_title": "请问您今天要来点兔子吗？",
         "ep_cut": 172,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1mfetrrm-1745724839843.jpg",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1mfetrrm-1790573066291.webp",
         "location": "",
         "point_id": "v1mfetrrm",
         "point_name": "科尔马摩天轮（圣诞节期间限定）",
@@ -7592,7 +7592,7 @@
         "bangumi_id": 88290,
         "bangumi_title": "请问您今天要来点兔子吗？",
         "ep_cut": 172,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1meugk8x-1745724815931.jpg",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1meugk8x-1790573086680.webp",
         "location": "",
         "point_id": "v1meugk8x",
         "point_name": "科尔马摩天轮（圣诞节期间限定）",
@@ -9917,6 +9917,46 @@
         "point_id": "gq6xu58",
         "point_name": "Rue du Maroquin",
         "remark": "所标位置沿着左排房屋向西北拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.360656,
+          48.075127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 172,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g570g-1790573116943.webp",
+        "location": "",
+        "point_id": "k0g570g",
+        "point_name": "科尔马摩天轮（圣诞节期间限定）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.360637,
+          48.075111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 172,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g6gsh-1790573175661.webp",
+        "location": "",
+        "point_id": "k0g6gsh",
+        "point_name": "科尔马摩天轮（圣诞节期间限定）",
+        "remark": ""
       },
       "type": "Feature"
     }
