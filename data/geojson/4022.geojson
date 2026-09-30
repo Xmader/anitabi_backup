@@ -199,6 +199,66 @@
         "remark": "实际为商场顶层公园，无学校围墙且校外地景不完全一致"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.299109,
+          35.653005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4022,
+        "bangumi_title": "罚抄",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1136/bangumi/4022/points/k1zmndh-1790666315446.webp",
+        "location": "",
+        "point_id": "k1zmndh",
+        "point_name": "旧京王電気軌道御陵線橋脚",
+        "remark": "静流的老家，画面经过了左右翻转"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.810725,
+          35.996297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4022,
+        "bangumi_title": "罚抄",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1136/bangumi/4022/points/k1zyxfo-1790666938184.webp",
+        "location": "",
+        "point_id": "k1zyxfo",
+        "point_name": "首都圏外郭放水路",
+        "remark": "日本母神会内部"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.810725,
+          35.996297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 4022,
+        "bangumi_title": "罚抄",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1136/bangumi/4022/points/k203eig-1790667153872.webp",
+        "location": "",
+        "point_id": "k203eig",
+        "point_name": "首都圏外郭放水路の操作室",
+        "remark": "守护者日本分部指挥部"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

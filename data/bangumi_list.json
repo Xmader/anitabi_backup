@@ -1,5 +1,61 @@
 [
   {
+    "id": 621188,
+    "title_cn": "BanG Dream! 交织的乐章",
+    "title_jp": "BanG Dream! Our Notes",
+    "title_en": "",
+    "region": "東京都",
+    "type": "游戏",
+    "rating": 4.6,
+    "points_count": 19,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/621188_k25vj0u.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 454684,
+    "title_cn": "",
+    "title_jp": "BanG Dream! Ave Mujica",
+    "title_en": "BanG Dream! Ave Mujica",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 4.1,
+    "points_count": 240,
+    "center_lat": 35.730514,
+    "center_lng": 139.712643,
+    "cover_url": "https://w.junreimap.com/images/bangumi/454684.jpg",
+    "bgm_id": 1698
+  },
+  {
+    "id": 428735,
+    "title_cn": "",
+    "title_jp": "BanG Dream! It's MyGO!!!!!",
+    "title_en": "BanG Dream! It's MyGO!!!!!",
+    "region": "豊島区",
+    "type": "TV",
+    "rating": 7.9,
+    "points_count": 467,
+    "center_lat": 35.730117,
+    "center_lng": 139.716309,
+    "cover_url": "https://w.junreimap.com/images/bangumi/428735.jpg",
+    "bgm_id": 410
+  },
+  {
+    "id": 4022,
+    "title_cn": "罚抄",
+    "title_jp": "Rewrite",
+    "title_en": "",
+    "region": "多摩市",
+    "type": "游戏",
+    "rating": 8.6,
+    "points_count": 13,
+    "center_lat": 35.606042,
+    "center_lng": 139.424732,
+    "cover_url": "https://w.junreimap.com/images/bangumi/4022.jpg",
+    "bgm_id": 2422
+  },
+  {
     "id": 88290,
     "title_cn": "请问您今天要来点兔子吗？",
     "title_jp": "ご注文はうさぎですか?",
@@ -866,20 +922,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/82490.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 428735,
-    "title_cn": "迷途之子！！！！！",
-    "title_jp": "BanG Dream! It's MyGO!!!!!",
-    "title_en": "BanG Dream! It's MyGO!!!!!",
-    "region": "豊島区",
-    "type": "TV",
-    "rating": 7.9,
-    "points_count": 467,
-    "center_lat": 35.730117,
-    "center_lng": 139.716309,
-    "cover_url": "https://w.junreimap.com/images/bangumi/428735.jpg",
-    "bgm_id": 410
   },
   {
     "id": 313495,
@@ -2938,20 +2980,6 @@
     "center_lng": 135.806031,
     "cover_url": "https://w.junreimap.com/images/bangumi/115908.jpg",
     "bgm_id": 464
-  },
-  {
-    "id": 454684,
-    "title_cn": "颂乐人偶",
-    "title_jp": "BanG Dream! Ave Mujica",
-    "title_en": "",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 4.1,
-    "points_count": 240,
-    "center_lat": 35.730514,
-    "center_lng": 139.712643,
-    "cover_url": "https://w.junreimap.com/images/bangumi/454684.jpg",
-    "bgm_id": 1698
   },
   {
     "id": 276787,
@@ -8818,20 +8846,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/80979.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 4022,
-    "title_cn": "罚抄",
-    "title_jp": "Rewrite",
-    "title_en": "",
-    "region": "多摩市",
-    "type": "游戏",
-    "rating": 8.6,
-    "points_count": 10,
-    "center_lat": 35.606042,
-    "center_lng": 139.424732,
-    "cover_url": "https://w.junreimap.com/images/bangumi/4022.jpg",
-    "bgm_id": 2422
   },
   {
     "id": 428823,
