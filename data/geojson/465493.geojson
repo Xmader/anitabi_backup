@@ -23,6 +23,26 @@
     {
       "geometry": {
         "coordinates": [
+          141.774558,
+          44.562754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/alunuhj-1770099474221.jpg",
+        "location": "",
+        "point_id": "alunuhj",
+        "point_name": "しょさんべつ天文台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           141.774498,
           44.562641
         ],
@@ -56,26 +76,6 @@
         "location": "",
         "point_id": "45l911q",
         "point_name": "しょ​さん​べつ​天文台",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.774558,
-          44.562754
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/alunuhj-1770099474221.jpg",
-        "location": "",
-        "point_id": "alunuhj",
-        "point_name": "しょさんべつ天文台",
         "remark": ""
       },
       "type": "Feature"
@@ -143,8 +143,68 @@
     {
       "geometry": {
         "coordinates": [
-          141.658479,
-          44.315393
+          141.65829,
+          44.307713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/aj3chxn-1769932682727.jpg",
+        "location": "",
+        "point_id": "aj3chxn",
+        "point_name": "苫前町​郷土​資料館",
+        "remark": "冬季会被雪淹没一半"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.658665,
+          44.307642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/gbigshk-1782535035690.jpg,jpg",
+        "location": "",
+        "point_id": "gbigshk",
+        "point_name": "苫前町郷土資料館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.658666,
+          44.307701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/h8sozp1-1784547605340.jpg",
+        "location": "",
+        "point_id": "h8sozp1",
+        "point_name": "苫前町​郷土​資料館",
+        "remark": "乡土资料馆受付处\n（之前网卡以为没传上去，麻烦把我传的重复地点删一下）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.658774,
+          44.315795
         ],
         "type": "Point"
       },
@@ -156,7 +216,27 @@
         "location": "",
         "point_id": "45kzsdu",
         "point_name": "とままえ夕陽ヶ丘未来港公園",
-        "remark": ""
+        "remark": "温泉酒店后面就是，站在标的位置的草里往海的对向拍，能找到最完美的角度（有一说一酒店饭挺好吃的）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.655913,
+          44.315095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/alve9sm-1770100953108.jpg",
+        "location": "",
+        "point_id": "alve9sm",
+        "point_name": "とままえ夕陽ヶ丘未来港公園",
+        "remark": "冬天完全被雪覆盖"
       },
       "type": "Feature"
     },
@@ -175,6 +255,26 @@
         "image_url": "https://w.junreimap.com/images/points/465493/45mmtbe_1756057836311.jpg",
         "location": "",
         "point_id": "45mmtbe",
+        "point_name": "とままえ夕陽ケ丘ホワイトビーチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.661742,
+          44.315572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/ez1whl4-1779604905732.jpg",
+        "location": "",
+        "point_id": "ez1whl4",
         "point_name": "とままえ夕陽ケ丘ホワイトビーチ",
         "remark": ""
       },
@@ -263,6 +363,46 @@
     {
       "geometry": {
         "coordinates": [
+          141.661443,
+          44.313593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/gbhusje-1782534014210.jpg,jpg",
+        "location": "",
+        "point_id": "gbhusje",
+        "point_name": "民宿30ノット",
+        "remark": "进门右边就是"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.661293,
+          44.313866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/alv8zs1-1770100476959.jpg",
+        "location": "",
+        "point_id": "alv8zs1",
+        "point_name": "栄浜",
+        "remark": "参照物为风车，左前方公交站及道路右侧房屋\n小镇街景。位于“巡り会い”酒吧取景地“民宿30ノット”正对面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           142.331919,
           45.167107
         ],
@@ -283,26 +423,6 @@
     {
       "geometry": {
         "coordinates": [
-          141.65829,
-          44.307713
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/aj3chxn-1769932682727.jpg",
-        "location": "",
-        "point_id": "aj3chxn",
-        "point_name": "苫前町乡土资料馆",
-        "remark": "冬季会被雪淹没一半"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           141.693424,
           44.358393
         ],
@@ -316,7 +436,7 @@
         "location": "",
         "point_id": "aj3f739",
         "point_name": "羽幌町",
-        "remark": "参照物为右前方超市及路牌\n原位置地面标线、信号灯以及道路走向和游戏CG不符，已修正至新坐标。新坐标元素和CG高度符合，图片未知原因上传失败，实景请参考谷歌街景，敬请理解！"
+        "remark": "参照物为右前方超市及路牌\n原位置地面标线、信号灯以及道路走向和游戏CG不符，已修正至新坐标，新坐标元素和CG高度符合，实景请参考谷歌街景，敬请理解！\n其他提交人：Sora"
       },
       "type": "Feature"
     },
@@ -383,46 +503,6 @@
     {
       "geometry": {
         "coordinates": [
-          141.661204,
-          44.313751
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465493/points/akbru8e-1770007286827.jpg",
-        "location": "",
-        "point_id": "akbru8e",
-        "point_name": "日本海オロロンライン",
-        "remark": "小镇街景。位于“巡り会い”酒吧取景地“民宿30ノット”正对面"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.693449,
-          44.358454
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465493/points/akcasus-1770008171999.jpg",
-        "location": "",
-        "point_id": "akcasus",
-        "point_name": "オロロンライン",
-        "remark": "小镇街景。"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           141.735768,
           44.411483
         ],
@@ -443,46 +523,6 @@
     {
       "geometry": {
         "coordinates": [
-          141.661293,
-          44.313866
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/alv8zs1-1770100476959.jpg",
-        "location": "",
-        "point_id": "alv8zs1",
-        "point_name": "栄浜",
-        "remark": "参照物为风车，左前方公交站及道路右侧房屋"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.655913,
-          44.315095
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2206/bangumi/465493/points/alve9sm-1770100953108.jpg",
-        "location": "",
-        "point_id": "alve9sm",
-        "point_name": "とままえ夕陽ヶ丘未来港公園",
-        "remark": "冬天完全被雪覆盖"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           141.672258,
           44.312031
         ],
@@ -497,6 +537,26 @@
         "point_id": "alvo7e3",
         "point_name": "苫前町",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.667837,
+          44.312607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465493/points/dymy0us-1777403023820.jpg",
+        "location": "",
+        "point_id": "dymy0us",
+        "point_name": "栄浜",
+        "remark": "カトー@310kattun　「anemoi聖地巡礼用　麦畑　多分ここかな？」\n\n"
       },
       "type": "Feature"
     },
@@ -563,6 +623,26 @@
     {
       "geometry": {
         "coordinates": [
+          141.92796,
+          43.528431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465493/points/e891wdq-1777984258865.jpg",
+        "location": "",
+        "point_id": "e891wdq",
+        "point_name": "砂川SA（下行）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           133.918602,
           34.665756
         ],
@@ -623,46 +703,6 @@
     {
       "geometry": {
         "coordinates": [
-          141.667837,
-          44.312607
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465493/points/dymy0us-1777403023820.jpg",
-        "location": "",
-        "point_id": "dymy0us",
-        "point_name": "栄浜",
-        "remark": "カトー@310kattun　「anemoi聖地巡礼用　麦畑　多分ここかな？」\n\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.92796,
-          43.528431
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/465493/points/e891wdq-1777984258865.jpg",
-        "location": "",
-        "point_id": "e891wdq",
-        "point_name": "砂川SA（下行）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           141.674093,
           44.304905
         ],
@@ -676,46 +716,6 @@
         "location": "",
         "point_id": "eh2oy6v",
         "point_name": "小林牧場",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.661742,
-          44.315572
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/ez1whl4-1779604905732.jpg",
-        "location": "",
-        "point_id": "ez1whl4",
-        "point_name": "とままえ夕陽ケ丘ホワイトビーチ",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.693229,
-          44.357987
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/gbh3cjc-1782532751905.jpg,jpg",
-        "location": "",
-        "point_id": "gbh3cjc",
-        "point_name": "オロロンライン",
         "remark": ""
       },
       "type": "Feature"
@@ -763,26 +763,6 @@
     {
       "geometry": {
         "coordinates": [
-          141.661443,
-          44.313593
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/gbhusje-1782534014210.jpg,jpg",
-        "location": "",
-        "point_id": "gbhusje",
-        "point_name": "民宿30ノット",
-        "remark": "进门右边就是"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           141.656654,
           44.313621
         ],
@@ -797,26 +777,6 @@
         "point_id": "gbiazd7",
         "point_name": "道の駅 風Wとままえ",
         "remark": "在后面需要从旁边绕进去（里面可以租自行车）"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.658665,
-          44.307642
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/gbigshk-1782535035690.jpg,jpg",
-        "location": "",
-        "point_id": "gbigshk",
-        "point_name": "苫前町郷土資料館",
-        "remark": ""
       },
       "type": "Feature"
     },
@@ -977,26 +937,6 @@
         "point_id": "geokidl",
         "point_name": "朱鞠内湖",
         "remark": "打开Google卫星地图，可以看到去这里的路。走到地图上显示的红色房顶处下到岸边"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.658666,
-          44.307701
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 465493,
-        "bangumi_title": "anemoi",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2208/bangumi/465493/points/h8sozp1-1784547605340.jpg",
-        "location": "",
-        "point_id": "h8sozp1",
-        "point_name": "苫前町乡土资料馆",
-        "remark": "乡土资料馆受付处\n（之前网卡以为没传上去，麻烦把我传的重复地点删一下）"
       },
       "type": "Feature"
     },
