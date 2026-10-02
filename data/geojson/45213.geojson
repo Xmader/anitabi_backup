@@ -1,0 +1,745 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          132.911127,
+          34.346861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "主视图",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda3-1783682502370.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpda3",
+        "point_name": "普明閣階段",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909617,
+          34.348743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-OP",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9o-1783682340144.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9o",
+        "point_name": "照蓮寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910073,
+          34.34742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhhbtt-1783682222401.webp",
+        "location": "町並み保存地区",
+        "point_id": "guhhbtt",
+        "point_name": "憧憬の広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.93196,
+          34.337685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP4",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9i-1783683787390.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9i",
+        "point_name": "野外劇場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.931847,
+          34.337604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP4",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guif969-1783683801241.webp",
+        "location": "竹原市内",
+        "point_id": "guif969",
+        "point_name": "野外劇場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.933848,
+          34.336691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP4",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbh-1783683778129.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdbh",
+        "point_name": "かおたん桜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.929301,
+          34.336795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP4",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbf-1783683822695.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdbf",
+        "point_name": "こまちだけ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928227,
+          34.33985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP4",
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpd9f_1790877891847.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9f",
+        "point_name": "ぽって桜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.933076,
+          34.337156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP5",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9h-1783683758811.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9h",
+        "point_name": "駐車場(バンブー・ジョイ・ハイランド)",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910452,
+          34.340958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP5",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guia49q-1783683565329.webp",
+        "location": "竹原市内",
+        "point_id": "guia49q",
+        "point_name": "ももねこ様神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910405,
+          34.340909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP5",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdaf-1783683559354.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdaf",
+        "point_name": "ももねこ様神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911362,
+          34.346551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhqpji-1783682656679.webp",
+        "location": "町並み保存地区",
+        "point_id": "guhqpji",
+        "point_name": "西方寺普明閣",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.945481,
+          34.340593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdah-1783683684781.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdah",
+        "point_name": "大乗駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.929227,
+          34.336675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9n-1783683825395.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9n",
+        "point_name": "憩いの広場登り口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928574,
+          34.336783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdc0-1783683857703.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdc0",
+        "point_name": "憩いの広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.928526,
+          34.336784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guiggdg-1783683863658.webp",
+        "location": "竹原市内",
+        "point_id": "guiggdg",
+        "point_name": "憩いの広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.860552,
+          34.192763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP10",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbw-1783682717145.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbw",
+        "point_name": "岡村大橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868188,
+          34.17995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP10",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9j-1783683024487.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpd9j",
+        "point_name": "のどか亭（御手洗七卿落遺跡）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866352,
+          34.176332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP10",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbg-1783682858985.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbg",
+        "point_name": "歴史の見える丘公園（ベンチ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866387,
+          34.176416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP10",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhvj50-1783682883089.webp",
+        "location": "大崎下島",
+        "point_id": "guhvj50",
+        "point_name": "歴史の見える丘公園（ベンチ）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868152,
+          34.176406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP10",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhuhd8-1783682836885.webp",
+        "location": "大崎下島",
+        "point_id": "guhuhd8",
+        "point_name": "御手洗おみあげ屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867757,
+          34.180184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP10",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbm-1783682733421.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbm",
+        "point_name": "恵美須神社 鳥居",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.991492,
+          34.305474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP12",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd7t-1783681853464.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpd7t",
+        "point_name": "大久野島休暇島前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.993173,
+          34.30971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP12",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdal-1783681911570.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpdal",
+        "point_name": "大久野島 展望台",
+        "remark": "2019年1月時点では登れません。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.193635,
+          34.404801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrdrze9-1785671388146.webp",
+        "location": "尾道",
+        "point_id": "hrdrze9",
+        "point_name": "尾道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195438,
+          34.398826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hre3wuc-1785671941978.webp",
+        "location": "尾道",
+        "point_id": "hre3wuc",
+        "point_name": "B&B潮風",
+        "remark": "第8.5话入住的民宿原型，动画里是B&B海风\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195539,
+          34.405767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrebrx6-1785672339338.webp",
+        "location": "尾道",
+        "point_id": "hrebrx6",
+        "point_name": "林芙美子記念像",
+        "remark": "尾道商店街入口旁边"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.20151,
+          34.40746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrekln1-1785672745432.webp",
+        "location": "尾道",
+        "point_id": "hrekln1",
+        "point_name": "築姫稲荷",
+        "remark": "在一条半米宽的小路里面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.199396,
+          34.407384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrey5ju-1785673356659.webp",
+        "location": "尾道",
+        "point_id": "hrey5ju",
+        "point_name": "无名道路",
+        "remark": "在店铺\"シミズ本部\"旁边，左转路牌已经没了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.202255,
+          34.410459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrf5713-1785673701628.webp",
+        "location": "尾道",
+        "point_id": "hrf5713",
+        "point_name": "刀鍛冶発祥の地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.205276,
+          34.409582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrf8b71-1785673856977.webp",
+        "location": "尾道",
+        "point_id": "hrf8b71",
+        "point_name": "おのみち​映画​資料館",
+        "remark": "就在资料馆门口"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195135,
+          34.405573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfemnh-1785674119685.webp",
+        "location": "尾道",
+        "point_id": "hrfemnh",
+        "point_name": "東第1踏切前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195076,
+          34.405503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfo8wb-1785674579241.webp",
+        "location": "尾道",
+        "point_id": "hrfo8wb",
+        "point_name": "駅前商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.200831,
+          34.407937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfsi3f-1785674773145.webp",
+        "location": "尾道",
+        "point_id": "hrfsi3f",
+        "point_name": "尾道絵のまち通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.198753,
+          34.410631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrfzbpd-1785675222843.webp",
+        "location": "尾道",
+        "point_id": "hrfzbpd",
+        "point_name": "千光寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.198746,
+          34.410491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrg3m82-1785675291501.webp",
+        "location": "尾道",
+        "point_id": "hrg3m82",
+        "point_name": "千光寺本堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.198494,
+          34.410426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 45213,
+        "bangumi_title": "玉响～more aggressive～",
+        "ep_cut": "MA-EP8.5",
+        "image_url": "https://w.junreimap.com/images/user/2140/bangumi/8452/points/hrgi2jq-1785675969225.webp",
+        "location": "尾道",
+        "point_id": "hrgi2jq",
+        "point_name": "石鎚山鎖修行",
+        "remark": "8.5话后半爬山的画面都在这里"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

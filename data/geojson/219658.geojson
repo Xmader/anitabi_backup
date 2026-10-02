@@ -3,26 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          135.487377,
-          34.698859
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 219658,
-        "bangumi_title": "龙王的工作！",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/219658/points/o6dw7ddp2-1726350410622.jpg",
-        "location": "",
-        "point_id": "o6dw7ddp2",
-        "point_name": "関西将棋会館",
-        "remark": "已炸，目前為停車場"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           135.488785,
           34.699271
         ],
@@ -37,46 +17,6 @@
         "point_id": "oejg6mrkl",
         "point_name": "福島東公園ベンチ",
         "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.485937,
-          34.697378
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 219658,
-        "bangumi_title": "龙王的工作！",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oejl8wxbe-1726989742691.jpg",
-        "location": "",
-        "point_id": "oejl8wxbe",
-        "point_name": "ヘアークリニックPaPa",
-        "remark": "原本是个咖啡店来着，现在店铺换了，但是外观基本没变化"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.48677,
-          34.697419
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 219658,
-        "bangumi_title": "龙王的工作！",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oejve3kx9-1726990524927.jpg",
-        "location": "",
-        "point_id": "oejve3kx9",
-        "point_name": "ミスタードーナツ 福島ショップ",
-        "remark": "JR福岛北侧的街道，图为商店街看板"
       },
       "type": "Feature"
     },
@@ -103,8 +43,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.497274,
-          34.702492
+          135.48677,
+          34.697419
         ],
         "type": "Point"
       },
@@ -112,10 +52,70 @@
         "bangumi_id": 219658,
         "bangumi_title": "龙王的工作！",
         "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oekaa1c3z-1726991203175.jpg",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oejve3kx9-1726990524927.jpg",
         "location": "",
-        "point_id": "oekaa1c3z",
-        "point_name": "JR大阪駅",
+        "point_id": "oejve3kx9",
+        "point_name": "ミスタードーナツ 福島ショップ",
+        "remark": "JR福岛北侧的街道，图为商店街看板"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.485937,
+          34.697378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219658,
+        "bangumi_title": "龙王的工作！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oejl8wxbe-1726989742691.jpg",
+        "location": "",
+        "point_id": "oejl8wxbe",
+        "point_name": "ヘアークリニックPaPa",
+        "remark": "原本是个咖啡店来着，现在店铺换了，但是外观基本没变化"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.487377,
+          34.698859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219658,
+        "bangumi_title": "龙王的工作！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/219658/o6dw7ddp2_1790868540289_c16v9.webp",
+        "location": "",
+        "point_id": "o6dw7ddp2",
+        "point_name": "関西将棋会館",
+        "remark": "已炸，目前為停車場"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.487254,
+          34.698888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219658,
+        "bangumi_title": "龙王的工作！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oeljc9etn-1726993870866.jpg",
+        "location": "",
+        "point_id": "oeljc9etn",
+        "point_name": "関西将棋会館将棋道場",
         "remark": ""
       },
       "type": "Feature"
@@ -136,46 +136,6 @@
         "location": "",
         "point_id": "oekdcz8vu",
         "point_name": "阪急大阪梅田駅駐車場 阪急梅田駅東側入口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.506289,
-          34.652543
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 219658,
-        "bangumi_title": "龙王的工作！",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oekir15ae-1726991680362.jpg",
-        "location": "",
-        "point_id": "oekir15ae",
-        "point_name": "通天阁展望台入口",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.505778,
-          34.651136
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 219658,
-        "bangumi_title": "龙王的工作！",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oeknemcjg-1726992033726.jpg",
-        "location": "",
-        "point_id": "oeknemcjg",
-        "point_name": "づぼらや 新世界店（已停业） 公園本通",
         "remark": ""
       },
       "type": "Feature"
@@ -223,6 +183,46 @@
     {
       "geometry": {
         "coordinates": [
+          135.497274,
+          34.702492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219658,
+        "bangumi_title": "龙王的工作！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oekaa1c3z-1726991203175.jpg",
+        "location": "",
+        "point_id": "oekaa1c3z",
+        "point_name": "JR大阪駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.506289,
+          34.652543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219658,
+        "bangumi_title": "龙王的工作！",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oekir15ae-1726991680362.jpg",
+        "location": "",
+        "point_id": "oekir15ae",
+        "point_name": "通天阁展望台入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           135.506439,
           34.652685
         ],
@@ -243,19 +243,19 @@
     {
       "geometry": {
         "coordinates": [
-          135.487254,
-          34.698888
+          135.505778,
+          34.651136
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 219658,
         "bangumi_title": "龙王的工作！",
-        "ep_cut": 1,
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oeljc9etn-1726993870866.jpg",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/219658/points/oeknemcjg-1726992033726.jpg",
         "location": "",
-        "point_id": "oeljc9etn",
-        "point_name": "関西将棋会館将棋道場",
+        "point_id": "oeknemcjg",
+        "point_name": "づぼらや 新世界店（已停业） 公園本通",
         "remark": ""
       },
       "type": "Feature"
@@ -292,11 +292,31 @@
         "bangumi_id": 219658,
         "bangumi_title": "龙王的工作！",
         "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/219658/points/14osf59-1749470701987.jpg",
+        "image_url": "https://w.junreimap.com/images/points/219658/14osf59_1790868495193_c16v9.webp",
         "location": "",
         "point_id": "14osf59",
         "point_name": "焼肉藤もと大吉商店 YAKINIKU FUJIMOTO",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.506084,
+          34.649781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219658,
+        "bangumi_title": "龙王的工作！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/219658/efl09rv_1790867981203.webp",
+        "location": "",
+        "point_id": "efl09rv",
+        "point_name": "囲碁・​将棋​三桂​クラブ",
+        "remark": "2024年6月闭店。2026年2月装修成为同名的居酒屋串烧店。清一色的坑游客店，别来"
       },
       "type": "Feature"
     },
@@ -336,7 +356,7 @@
         "location": "",
         "point_id": "165o8hi",
         "point_name": "立ち飲みいなせや 京橋店",
-        "remark": ""
+        "remark": "这附近晚上比较乱，可能不太好拍照，不建议晚上巡礼"
       },
       "type": "Feature"
     },
@@ -356,26 +376,6 @@
         "location": "",
         "point_id": "17m8ca6",
         "point_name": "Chikada Cigarette Shop, 宮川ビル 7-chōme-6-4 Fukushima, Fukushima Ward, Osaka, 553-0003附近",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          135.506185,
-          34.649712
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 219658,
-        "bangumi_title": "龙王的工作！",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/219658/points/efl09rv-1778427596009.jpg",
-        "location": "",
-        "point_id": "efl09rv",
-        "point_name": "囲碁・​将棋​三桂​クラブ",
         "remark": ""
       },
       "type": "Feature"

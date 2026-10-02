@@ -3,20 +3,100 @@
     {
       "geometry": {
         "coordinates": [
-          132.887589,
-          34.353905
+          132.910119,
+          34.347431
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "第9话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8452/points/hsi6ev7-1785739501611.jpg",
-        "location": "",
-        "point_id": "hsi6ev7",
-        "point_name": "朝日山展望台",
-        "remark": "（2026.07.08）登山道路维护可能不及时，特别是从山下定居点到山顶观景台的道路，部分路段较为陡峭狭窄，部分被落石覆盖，徒步攀登注意落石砸伤，驾车注意路面和路沿剐蹭，沿途已观测到大量野生动物活动（主要是鹿）所以注意安全"
+        "ep_cut": "主视图",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda0-1783682200163.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpda0",
+        "point_name": "憧憬の広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.980156,
+          34.334343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda4-1783681998010.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpda4",
+        "point_name": "呉線沿い(～hitotose～OP)",
+        "remark": "小心坠落，不要进入轨道区域！（见告示牌）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912124,
+          34.345808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdaw-1783682248507.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdaw",
+        "point_name": "地蔵堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911443,
+          34.346532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbj-1783682620331.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdbj",
+        "point_name": "西方寺普明閣",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.913435,
+          34.344425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdae-1783683630288.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpdae",
+        "point_name": "道の駅奥",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -31,12 +111,12 @@
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "OP结束画面",
+        "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsix2je-1785740498714.jpg",
-        "location": "",
+        "location": "竹原市内",
         "point_id": "hsix2je",
         "point_name": "贺茂川河口",
-        "remark": ""
+        "remark": "参考EP2 3:03"
       },
       "type": "Feature"
     },
@@ -51,51 +131,51 @@
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "OP临近结束画面",
+        "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsjn2z4-1785741778281.jpg",
-        "location": "",
+        "location": "忠海周辺",
         "point_id": "hsjn2z4",
         "point_name": "呉線トンネル",
-        "remark": "理论上可以是任何一个吴线上的隧道出口\n但是在沿途寻找的时候发现这个隧道特别的多此一举，全长不足30m，只为了穿过一大块孤立岩石，可谓一大工程学奇观，因此放上来了\n猜测可能是绕开的成本高于隧道成本"
+        "remark": "参考EP2 2:40\n理论上可以是任何一个吴线上的隧道出口\n但是在沿途寻找的时候发现这个隧道特别的多此一举，全长不足30m，只为了穿过一大块孤立岩石，可谓一大工程学奇观，因此放上来了\n猜测可能是绕开的成本高于隧道成本"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          132.946491,
-          34.336486
+          132.915065,
+          34.342965
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "第5.5话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hslrtbe-1785745287494.jpg",
-        "location": "",
-        "point_id": "hslrtbe",
-        "point_name": "J-POWERグラウンド/たけはら 夏まつり花火大会会場",
-        "remark": "夏日祭花火大会会场\n2026年花火大会是8月29号\n参见官方网站：\nhttps://www.takeharakankou.jp/event/8297/"
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsour5f-1785750453784.jpg",
+        "location": "竹原市内",
+        "point_id": "hsour5f",
+        "point_name": "鎮海山城跡",
+        "remark": "参考第2集02:53\n竹制框架似乎是每年更新的，应该不用担心撤去或腐朽（2026.07.08）"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          132.915035,
-          34.341813
+          132.910776,
+          34.345275
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "第12话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsmbg3r-1785746193346.jpg",
-        "location": "",
-        "point_id": "hsmbg3r",
-        "point_name": "礒宮八幡神社",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/7.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdb4",
+        "point_name": "旧日の丸写真館",
         "remark": ""
       },
       "type": "Feature"
@@ -103,60 +183,140 @@
     {
       "geometry": {
         "coordinates": [
-          132.927804,
-          34.348011
+          132.911402,
+          34.345685
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "第9话",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hso7k6t-1785749414382.jpg",
-        "location": "",
-        "point_id": "hso7k6t",
-        "point_name": "小吹の竹林",
-        "remark": "聖地巡礼MAP仅提及位于此片竹林区域内而未给出精确坐标，但根据动画的原图和Google Earth的2010年历史卫星图像推测原始取材目标是此桥。\n由于经过时间过长，附近建筑与植被已有较大变化，且此动画存在透视扭曲的前科，无法肯定一定是此目标，仅作参考"
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/9.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdav",
+        "point_name": "ぎゃらりぃ梅谷",
+        "remark": ""
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          132.915065,
-          34.342965
+          132.909528,
+          34.348202
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "OP临近结束画面",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsolazc-1785750144809.jpg",
-        "location": "",
-        "point_id": "hsolazc",
-        "point_name": "鎮海山城跡",
-        "remark": "竹子架子似乎是每年更新的，应该不用担心撤去或腐朽（2026.07.08）"
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/2qnpdba-1672798738601.jpg",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdba",
+        "point_name": "胡堂",
+        "remark": ""
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          132.915065,
-          34.342965
+          139.661889,
+          35.280215
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "OP画面",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsour5f-1785750453784.jpg",
-        "location": "",
-        "point_id": "hsour5f",
-        "point_name": "鎮海山城跡",
-        "remark": "竹制框架似乎是每年更新的，应该不用担心撤去或腐朽（2026.07.08）"
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/1.jpg",
+        "location": "横须贺",
+        "point_id": "56zn4d33z",
+        "point_name": "汐入",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668385,
+          35.274979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/8452/56ztmv5jr_1672798656912.jpg",
+        "location": "横须贺",
+        "point_id": "56ztmv5jr",
+        "point_name": "緒明山公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.66833,
+          35.27519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/570wl9jp2-1672799445025.jpg",
+        "location": "横须贺",
+        "point_id": "570wl9jp2",
+        "point_name": "儿童游乐设施",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.909972,
+          34.339545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/2qnpda7-1672811667897.jpg",
+        "location": "竹原市内",
+        "point_id": "2qnpda7",
+        "point_name": "竹原駅外「おかえりなさい」",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.90993,
+          34.339679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/580l4obpw-1672876996650.jpg",
+        "location": "竹原市内",
+        "point_id": "580l4obpw",
+        "point_name": "竹原駅",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -171,12 +331,732 @@
       "properties": {
         "bangumi_id": 18605,
         "bangumi_title": "玉响～hitotose～",
-        "ep_cut": "04",
+        "ep_cut": 4,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/jtnk2mn-1790162362045.webp",
-        "location": "",
+        "location": "大崎下島",
         "point_id": "jtnk2mn",
         "point_name": "大長港",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867235,
+          34.179973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb0-1783683074915.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdb0",
+        "point_name": "乙女座裏手道路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868164,
+          34.179918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhz3tj-1783683052176.webp",
+        "location": "大崎下島",
+        "point_id": "guhz3tj",
+        "point_name": "のどか亭（御手洗七卿落遺跡）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865868,
+          34.179727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbx-1783683088357.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbx",
+        "point_name": "町並み保存センター前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868357,
+          34.17756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbt-1783682746502.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdbt",
+        "point_name": "石の高燈籠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868414,
+          34.177517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guht98u-1783682796168.webp",
+        "location": "大崎下島",
+        "point_id": "guht98u",
+        "point_name": "石の高燈籠",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867555,
+          34.178673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9m-1783683265640.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpd9m",
+        "point_name": "足長小学生",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867473,
+          34.179592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui1ntx-1783683175328.webp",
+        "location": "大崎下島",
+        "point_id": "gui1ntx",
+        "point_name": "乙女座外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.86752,
+          34.179609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb3-1783683166379.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdb3",
+        "point_name": "乙女座外観",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867461,
+          34.17967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb6-1783683199445.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdb6",
+        "point_name": "乙女座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867124,
+          34.179405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui0k81-1783683128635.webp",
+        "location": "大崎下島",
+        "point_id": "gui0k81",
+        "point_name": "新光時計店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867075,
+          34.179406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda8-1783683098862.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpda8",
+        "point_name": "新光時計店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.868173,
+          34.176444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdak-1783682752229.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdak",
+        "point_name": "御手洗おみあげ屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.991296,
+          34.336865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/8452/2qnpdb2_1748979259765.jpg",
+        "location": "忠海周辺",
+        "point_id": "2qnpdb2",
+        "point_name": "忠海駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910699,
+          34.347976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9t-1783682422743.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpd9t",
+        "point_name": "おかかえ地蔵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912394,
+          34.343223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9d-1783683651063.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpd9d",
+        "point_name": "道の駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912438,
+          34.343256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guic64n-1783683658570.webp",
+        "location": "竹原市内",
+        "point_id": "guic64n",
+        "point_name": "道の駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.978281,
+          34.333109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdby-1783681979977.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpdby",
+        "point_name": "エデンの海 パーキングエリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.993305,
+          34.340946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9g-1783681932658.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpd9g",
+        "point_name": "黒滝山登山口への道",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.994385,
+          34.34275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb7-1783681956225.webp",
+        "location": "忠海周辺",
+        "point_id": "2qnpdb7",
+        "point_name": "黒滝山登山口",
+        "remark": "登山口在转角处，右侧木制栏杆已拆除，左侧护栏为钢制，此处透视关系有较大误差，前段登山道入口与左侧斜坡之间有一定距离"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.994424,
+          34.342956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8452/points/2qnpd9q-1785742479963.jpg",
+        "location": "忠海周辺",
+        "point_id": "2qnpd9q",
+        "point_name": "黒滝山登山口休憩所/黒滝山さくら堂",
+        "remark": "她们在此停留，没有继续登山\n此图并未直接引用宣传册的图，而是个人认为比较方便拍摄的一个角度"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.910022,
+          34.339312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui5eah-1783683422298.webp",
+        "location": "竹原市内",
+        "point_id": "gui5eah",
+        "point_name": "竹原駅ホーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866052,
+          34.177219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9c-1783682952041.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpd9c",
+        "point_name": "歴史の見える丘公園（道中）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.86658,
+          34.177885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdau-1783682995779.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdau",
+        "point_name": "おいらん公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.866095,
+          34.177309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhxh6o-1783682976674.webp",
+        "location": "大崎下島",
+        "point_id": "guhxh6o",
+        "point_name": "歴史の見える丘公園（道中）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.916821,
+          34.332135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda2-1783683260713.webp",
+        "location": "竹原市内",
+        "point_id": "2qnpda2",
+        "point_name": "竹原港",
+        "remark": "船内の写真は大崎下島行の高速船の内部。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.927804,
+          34.348011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hso7k6t-1785749414382.jpg",
+        "location": "竹原市内",
+        "point_id": "hso7k6t",
+        "point_name": "小吹の竹林",
+        "remark": "聖地巡礼MAP仅提及位于此片竹林区域内而未给出精确坐标，但根据动画的原图和Google Earth的2010年历史卫星图像推测原始取材目标是此桥。\n由于经过时间过长，附近建筑与植被已有较大变化，且此动画存在透视扭曲的前科，无法肯定一定是此目标，仅作参考"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.887589,
+          34.353905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/8452/points/hsi6ev7-1785739501611.jpg",
+        "location": "竹原市内",
+        "point_id": "hsi6ev7",
+        "point_name": "朝日山展望台",
+        "remark": "（2026.07.08）登山道路维护可能不及时，特别是从山下定居点到山顶观景台的道路，部分路段较为陡峭狭窄，部分被落石覆盖，徒步攀登注意落石砸伤，驾车注意路面和路沿剐蹭，沿途已观测到大量野生动物活动（主要是鹿）所以注意安全"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912134,
+          34.345377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpday-1783682678933.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpday",
+        "point_name": "旧笠井邸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.911116,
+          34.346601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdan-1783682512832.webp",
+        "location": "町並み保存地区",
+        "point_id": "2qnpdan",
+        "point_name": "西方寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.91108,
+          34.346609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhmvdw-1783682524082.webp",
+        "location": "町並み保存地区",
+        "point_id": "guhmvdw",
+        "point_name": "西方寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.867391,
+          34.179745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui2ecm-1783683207313.webp",
+        "location": "大崎下島",
+        "point_id": "gui2ecm",
+        "point_name": " 乙女座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865862,
+          34.176926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdar-1783682905747.webp",
+        "location": "大崎下島",
+        "point_id": "2qnpdar",
+        "point_name": "歴史の見える丘公園展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.865978,
+          34.177021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhwimm-1783682930020.webp",
+        "location": "大崎下島",
+        "point_id": "guhwimm",
+        "point_name": "歴史の見える丘公園展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.912078,
+          34.345401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhr8ov-1783682693970.webp",
+        "location": "町並み保存地区",
+        "point_id": "guhr8ov",
+        "point_name": "旧笠井邸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.915035,
+          34.341813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsmbg3r-1785746193346.jpg",
+        "location": "竹原市内",
+        "point_id": "hsmbg3r",
+        "point_name": "礒宮八幡神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.946491,
+          34.336486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "EP5.5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hslrtbe-1785745287494.jpg",
+        "location": "竹原市内",
+        "point_id": "hslrtbe",
+        "point_name": "J-POWERグラウンド/たけはら 夏まつり花火大会会場",
+        "remark": "夏日祭花火大会会场\n2026年花火大会是8月29号\n参见官方网站：\nhttps://www.takeharakankou.jp/event/8297/"
       },
       "type": "Feature"
     }

@@ -2388,8 +2388,8 @@
       "name": "大島一周道路",
       "remark": "",
       "status_code": 0,
-      "user_id": 97,
-      "zoom": 98
+      "user_id": 142,
+      "zoom": 143
     },
     {
       "ep_cut": 4,
@@ -2417,21 +2417,21 @@
       "remark": "",
       "status_code": 0,
       "user_id": 14,
-      "zoom": 227
+      "zoom": 202
     },
     {
       "ep_cut": 4,
       "id": "hufpbmj",
       "image_path": "/images/user/0/bangumi/545917/points/hufpbmj-1785856036368.webp",
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/545917/points/hufpbmj-1785856036368.webp",
-      "lat": 34.701212,
-      "lng": 139.44517,
+      "lat": 34.701611,
+      "lng": 139.445097,
       "location": "筆島",
       "name": "オタイネの碑",
       "remark": "",
       "status_code": 0,
-      "user_id": 97,
-      "zoom": 710
+      "user_id": 142,
+      "zoom": 665
     },
     {
       "ep_cut": 4,
@@ -2850,7 +2850,7 @@
       "name": "トウシキ遊泳場",
       "remark": "",
       "status_code": 0,
-      "user_id": 967,
+      "user_id": 966,
       "zoom": 1100
     },
     {
@@ -3125,7 +3125,7 @@
   "region": "大島町",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/545917_100_76.webp?v=hrifq",
+    "/images/ptheme/545917_100_76.webp?v=hrqqt",
     [
       "1yh5fus",
       "glmevbm",
@@ -3350,7 +3350,7 @@
       "jsimat4",
       "jsimap7"
     ],
-    1790224696539,
+    1790870729417,
     100,
     76
   ],

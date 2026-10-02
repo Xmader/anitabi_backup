@@ -163,6 +163,26 @@
     {
       "geometry": {
         "coordinates": [
+          141.353269,
+          43.062443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/622206/points/jr66def-1790012239642.webp",
+        "location": "",
+        "point_id": "jr66def",
+        "point_name": "札幌時計台ビル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           135.728419,
           35.038962
         ],
@@ -243,8 +263,8 @@
     {
       "geometry": {
         "coordinates": [
-          135.774951,
-          35.002952
+          135.77468,
+          35.001771
         ],
         "type": "Point"
       },
@@ -256,7 +276,7 @@
         "location": "",
         "point_id": "jlxk4yp",
         "point_name": "花見小路通",
-        "remark": ""
+        "remark": "祇園迦陵店门口"
       },
       "type": "Feature"
     },
@@ -332,7 +352,7 @@
         "bangumi_id": 622206,
         "bangumi_title": "尼古喵喵",
         "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622206/points/jly9w6v-1789696598772.webp",
+        "image_url": "https://w.junreimap.com/images/points/622206/jly9w6v_1790869206711_c16v9.webp",
         "location": "",
         "point_id": "jly9w6v",
         "point_name": "随求堂 (胎内巡り)",
@@ -476,26 +496,6 @@
         "location": "",
         "point_id": "jlz4xer",
         "point_name": "R169横断歩道",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          141.353269,
-          43.062443
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 622206,
-        "bangumi_title": "尼古喵喵",
-        "ep_cut": 11,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/622206/points/jr66def-1790012239642.webp",
-        "location": "",
-        "point_id": "jr66def",
-        "point_name": "札幌時計台ビル",
         "remark": ""
       },
       "type": "Feature"
