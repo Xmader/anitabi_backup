@@ -172,12 +172,26 @@
       "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/1.jpg",
       "lat": 35.280215,
       "lng": 139.661889,
-      "location": "横须贺",
+      "location": "横须贺市",
       "name": "汐入",
       "remark": "",
       "status_code": 1000,
-      "user_id": 907,
+      "user_id": 291,
       "zoom": 149
+    },
+    {
+      "ep_cut": 1,
+      "id": "k68tdyh",
+      "image_path": "/images/user/0/bangumi/18605/points/k68tdyh-1790923649221.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k68tdyh-1790923649221.webp",
+      "lat": 35.274555,
+      "lng": 139.668435,
+      "location": "横须贺市",
+      "name": "横须贺市立中央図书馆",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 47,
+      "zoom": 48
     },
     {
       "ep_cut": 1,
@@ -186,7 +200,7 @@
       "image_url": "https://w.junreimap.com/images/points/8452/56ztmv5jr_1672798656912.jpg",
       "lat": 35.274979,
       "lng": 139.668385,
-      "location": "横须贺",
+      "location": "横须贺市",
       "name": "緒明山公園",
       "remark": "",
       "status_code": 1000,
@@ -200,12 +214,26 @@
       "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/570wl9jp2-1672799445025.jpg",
       "lat": 35.27519,
       "lng": 139.66833,
-      "location": "横须贺",
+      "location": "横须贺市",
       "name": "儿童游乐设施",
       "remark": "",
       "status_code": 1000,
       "user_id": 24,
       "zoom": 449
+    },
+    {
+      "ep_cut": 1,
+      "id": "k68o6hm",
+      "image_path": "/images/user/0/bangumi/18605/points/k68o6hm-1790923481905.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k68o6hm-1790923481905.webp",
+      "lat": 35.277833,
+      "lng": 139.6608,
+      "location": "横须贺市",
+      "name": "子之神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 291,
+      "zoom": 413
     },
     {
       "ep_cut": 1,
@@ -498,7 +526,7 @@
       "name": "黒滝山登山口への道",
       "remark": "",
       "status_code": 2173,
-      "user_id": 167,
+      "user_id": 233,
       "zoom": 234
     },
     {
@@ -512,7 +540,7 @@
       "name": "黒滝山登山口",
       "remark": "登山口在转角处，右侧木制栏杆已拆除，左侧护栏为钢制，此处透视关系有较大误差，前段登山道入口与左侧斜坡之间有一定距离",
       "status_code": 2173,
-      "user_id": 88,
+      "user_id": 23,
       "zoom": 24
     },
     {
@@ -526,7 +554,7 @@
       "name": "黒滝山登山口休憩所/黒滝山さくら堂",
       "remark": "她们在此停留，没有继续登山\n此图并未直接引用宣传册的图，而是个人认为比较方便拍摄的一个角度",
       "status_code": 0,
-      "user_id": 88,
+      "user_id": 23,
       "zoom": 3355
     },
     {
@@ -754,12 +782,12 @@
       "zoom": 470
     }
   ],
-  "points_count": 53,
+  "points_count": 55,
   "rating": 7.4,
   "region": "竹原市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/18605_100_76.webp?v=hrr69",
+    "/images/ptheme/18605_100_76.webp?v=hrrw7",
     [
       "2qnpda0",
       "2qnpda4",
@@ -773,8 +801,10 @@
       "2qnpdav",
       "2qnpdba",
       "56zn4d33z",
+      "k68tdyh",
       "56ztmv5jr",
       "570wl9jp2",
+      "k68o6hm",
       "2qnpda7",
       "580l4obpw",
       "jtnk2mn",
@@ -815,7 +845,7 @@
       "hsmbg3r",
       "hslrtbe"
     ],
-    1790904086366,
+    1790960152157,
     100,
     76
   ],

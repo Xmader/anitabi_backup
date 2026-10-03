@@ -791,7 +791,7 @@
       "properties": {
         "bangumi_id": 274,
         "bangumi_title": "雪之少女",
-        "ep_cut": "8",
+        "ep_cut": 8,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz2fl7-1790000247401.webp",
         "location": "",
         "point_id": "jqz2fl7",
@@ -811,7 +811,7 @@
       "properties": {
         "bangumi_id": 274,
         "bangumi_title": "雪之少女",
-        "ep_cut": "8",
+        "ep_cut": 8,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz1rjp-1790000213386.webp",
         "location": "",
         "point_id": "jqz1rjp",
@@ -831,12 +831,192 @@
       "properties": {
         "bangumi_id": 274,
         "bangumi_title": "雪之少女",
-        "ep_cut": "8",
+        "ep_cut": 8,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/274/points/jqz0lxn-1790000162654.webp",
         "location": "",
         "point_id": "jqz0lxn",
         "point_name": "楼梯",
         "remark": "左面位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.650056,
+          35.441139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/274/fc6b38ef_1790942719539.webp",
+        "location": "",
+        "point_id": "fc6b38ef",
+        "point_name": "祐一送真琴去面试的地方",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.648946,
+          35.440686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/274/0d16c318_1790942287511.webp",
+        "location": "",
+        "point_id": "0d16c318",
+        "point_name": "百花屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645768,
+          35.439274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/274/549e59bc_1790942736626.webp",
+        "location": "",
+        "point_id": "549e59bc",
+        "point_name": "亚由坐着吃鲷鱼烧的楼梯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645546,
+          35.43905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/274/4cf8578b_1790942747476.webp",
+        "location": "",
+        "point_id": "4cf8578b",
+        "point_name": "商店街入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649861,
+          35.440083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/274/26bbd915_1790942762010.webp",
+        "location": "",
+        "point_id": "26bbd915",
+        "point_name": "代官坂通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646806,
+          35.439306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/274/bf223cb6_1790942786237.webp",
+        "location": "",
+        "point_id": "bf223cb6",
+        "point_name": "元町仲通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647235,
+          35.436427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/274/1d8f6d4b_1790942801661.webp",
+        "location": "",
+        "point_id": "1d8f6d4b",
+        "point_name": "山手教堂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.650667,
+          35.441472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/274/32c8fbab_1790942817902.webp",
+        "location": "",
+        "point_id": "32c8fbab",
+        "point_name": "祐一送真琴去面试的地方旁边",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645726,
+          35.439196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 274,
+        "bangumi_title": "雪之少女",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/274/094324f9_1790942836900.webp",
+        "location": "",
+        "point_id": "094324f9",
+        "point_name": "祐一和亚由向鲷鱼烧大叔道歉",
+        "remark": ""
       },
       "type": "Feature"
     }

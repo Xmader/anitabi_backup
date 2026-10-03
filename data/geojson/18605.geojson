@@ -233,9 +233,29 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/1.jpg",
-        "location": "横须贺",
+        "location": "横须贺市",
         "point_id": "56zn4d33z",
         "point_name": "汐入",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668435,
+          35.274555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k68tdyh-1790923649221.webp",
+        "location": "横须贺市",
+        "point_id": "k68tdyh",
+        "point_name": "横须贺市立中央図书馆",
         "remark": ""
       },
       "type": "Feature"
@@ -253,7 +273,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/points/8452/56ztmv5jr_1672798656912.jpg",
-        "location": "横须贺",
+        "location": "横须贺市",
         "point_id": "56ztmv5jr",
         "point_name": "緒明山公園",
         "remark": ""
@@ -273,9 +293,29 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/570wl9jp2-1672799445025.jpg",
-        "location": "横须贺",
+        "location": "横须贺市",
         "point_id": "570wl9jp2",
         "point_name": "儿童游乐设施",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6608,
+          35.277833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k68o6hm-1790923481905.webp",
+        "location": "横须贺市",
+        "point_id": "k68o6hm",
+        "point_name": "子之神社",
         "remark": ""
       },
       "type": "Feature"

@@ -139,6 +139,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.971749,
+          40.77583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 309303,
+        "bangumi_title": "世界计划 缤纷舞台！ feat. 初音未来",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/309303/points/k5ejg83-1790872837631.jpg",
+        "location": "",
+        "point_id": "k5ejg83",
+        "point_name": "Bow Bridge",
+        "remark": "After the Fire 第3话"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
