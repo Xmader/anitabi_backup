@@ -68,10 +68,10 @@
       "zoom": 0
     },
     {
-      "ep_cut": "",
+      "ep_cut": 9,
       "id": "b85af2a1",
-      "image_path": "",
-      "image_url": "",
+      "image_path": "/images/user/0/bangumi/407332/points/b85af2a1-1791025638321.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/407332/points/b85af2a1-1791025638321.jpg",
       "lat": 35.513306,
       "lng": 140.089642,
       "location": "千葉・中山競馬場",
@@ -79,7 +79,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 10323,
-      "zoom": 6060
+      "zoom": 9289
     },
     {
       "ep_cut": 9,
@@ -297,9 +297,10 @@
   "region": "千叶县",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/407332_100_76.webp?v=hjvr8",
+    "/images/ptheme/407332_100_76.webp?v=hrtks",
     [
       "ca26fba3",
+      "b85af2a1",
       "fd482f21",
       "6bf18602",
       "pbir9ieek",
@@ -307,7 +308,7 @@
       "pbiy2mq48",
       "9zbhsci"
     ],
-    1768865523609,
+    1791090996639,
     100,
     76
   ],

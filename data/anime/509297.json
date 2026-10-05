@@ -18,7 +18,7 @@
       "image_url": "https://w.junreimap.com/images/user/2192/bangumi/509297/points/acjrefu-1769537132162.jpg",
       "lat": 35.373986,
       "lng": 136.764289,
-      "location": "",
+      "location": "笠松駅",
       "name": "笠松町 ふらっと笠松",
       "remark": "アニメ『ウマ娘 シンデレラグレイ』 × 笠松町 コラボ 在此有等身大面板以及圣地巡礼地图免费发放~",
       "status_code": 2192,
@@ -130,7 +130,7 @@
       "image_url": "https://w.junreimap.com/images/points/509297/uf3co9b9x_1743959323889.jpg",
       "lat": 35.366325,
       "lng": 136.763643,
-      "location": "笠松町自行车道",
+      "location": "笠松凑公园",
       "name": "笠松みなと公園",
       "remark": "",
       "status_code": 1057,
@@ -494,7 +494,7 @@
       "image_url": "https://w.junreimap.com/images/points/509297/uf3upiegb_1743960551345.jpg",
       "lat": 35.373853,
       "lng": 136.763847,
-      "location": "笠松特雷森学园",
+      "location": "笠松駅",
       "name": "名鉄竹鼻線 笠松1号踏切",
       "remark": "圖中列車為整修後的名鉄1800系,所以有時間的話可以等到一樣的列車出現再拍哦",
       "status_code": 1057,
@@ -508,7 +508,7 @@
       "image_url": "https://w.junreimap.com/images/points/509297/uf41dump5_1743960791761.jpg",
       "lat": 35.373959,
       "lng": 136.763613,
-      "location": "笠松特雷森学园",
+      "location": "笠松駅",
       "name": "名鉄竹鼻線 笠松1号踏切",
       "remark": "远处白色建筑即为笠松站。",
       "status_code": 1057,
@@ -638,8 +638,8 @@
       "name": "笠松みなと公園",
       "remark": "",
       "status_code": 1057,
-      "user_id": 45,
-      "zoom": 69
+      "user_id": 35,
+      "zoom": 36
     },
     {
       "ep_cut": 1,
@@ -653,7 +653,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 9,
-      "zoom": 44
+      "zoom": 45
     },
     {
       "ep_cut": 1,
@@ -722,8 +722,8 @@
       "name": "笠松みなと公園",
       "remark": "",
       "status_code": 1057,
-      "user_id": 1,
-      "zoom": 1
+      "user_id": 2,
+      "zoom": 2
     },
     {
       "ep_cut": 1,
@@ -764,8 +764,8 @@
       "name": "笠松みなと公園",
       "remark": "",
       "status_code": 1057,
-      "user_id": 1,
-      "zoom": 2
+      "user_id": 2,
+      "zoom": 34
     },
     {
       "ep_cut": 1,
@@ -891,7 +891,7 @@
       "remark": "",
       "status_code": 1020,
       "user_id": 31,
-      "zoom": 36
+      "zoom": 93
     },
     {
       "ep_cut": 2,
@@ -905,7 +905,7 @@
       "remark": "",
       "status_code": 1020,
       "user_id": 2,
-      "zoom": 145
+      "zoom": 108
     },
     {
       "ep_cut": 3,
@@ -914,7 +914,7 @@
       "image_url": "https://w.junreimap.com/images/user/2192/bangumi/323196/points/417nywb-1755790835284.jpg",
       "lat": 35.362428,
       "lng": 136.728602,
-      "location": "",
+      "location": "カラフルタウン 岐阜",
       "name": "カラフルタウン岐阜　",
       "remark": "",
       "status_code": 2192,
@@ -928,7 +928,7 @@
       "image_url": "https://w.junreimap.com/images/user/2192/bangumi/323196/points/417kops-1755790721239.jpg",
       "lat": 35.362487,
       "lng": 136.728608,
-      "location": "",
+      "location": "カラフルタウン 岐阜",
       "name": "スポーツデポカラフルタウン岐阜店",
       "remark": "",
       "status_code": 2192,
@@ -1040,7 +1040,7 @@
       "image_url": "https://w.junreimap.com/images/user/0/bangumi/509297/points/ajk1mqn-1769960760881.jpg",
       "lat": 35.374278,
       "lng": 136.770319,
-      "location": "",
+      "location": "笠松赛马场",
       "name": "赛马娘注意",
       "remark": "",
       "status_code": 0,
@@ -1052,14 +1052,14 @@
       "id": "2bub5ev",
       "image_path": "/images/points/509297/2bub5ev_1752080008141.jpg",
       "image_url": "https://w.junreimap.com/images/points/509297/2bub5ev_1752080008141.jpg",
-      "lat": 35.366047,
-      "lng": 136.764639,
+      "lat": 35.366587,
+      "lng": 136.764226,
       "location": "笠松凑公园",
       "name": "笠松みなと公園",
-      "remark": "",
+      "remark": "原定位不准确，且与视点有一定距离",
       "status_code": 1020,
-      "user_id": 1,
-      "zoom": 650
+      "user_id": 35,
+      "zoom": 598
     },
     {
       "ep_cut": 4,
@@ -1180,7 +1180,7 @@
       "image_url": "https://w.junreimap.com/images/user/2192/bangumi/509297/points/ack7mzg-1769537756297.jpg",
       "lat": 35.671745,
       "lng": 139.479949,
-      "location": "",
+      "location": "东京赛马场",
       "name": "府中駅",
       "remark": "",
       "status_code": 2192,
@@ -1376,7 +1376,7 @@
       "image_url": "https://w.junreimap.com/images/user/2192/bangumi/509297/points/acl9w68-1769539543934.jpg",
       "lat": 35.655581,
       "lng": 139.491071,
-      "location": "",
+      "location": "东京赛马场",
       "name": "府中多摩川かぜのみち",
       "remark": "",
       "status_code": 2192,
@@ -1571,7 +1571,7 @@
   "region": "岐阜县",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/509297_100_76.webp?v=hps6w",
+    "/images/ptheme/509297_100_76.webp?v=hrtkk",
     [
       "acjrefu",
       "uf34mo50z",
@@ -1671,6 +1671,7 @@
       "7n87lrw",
       "acl54ic",
       "acl9w68",
+      "haqz5gs",
       "acle3le",
       "aclhqjj",
       "acllxga",
@@ -1682,10 +1683,9 @@
       "acm2zig",
       "acm94ko",
       "acmkvgd",
-      "acmefwr",
-      "haqz5gs"
+      "acmefwr"
     ],
-    1785384508266,
+    1791090520453,
     100,
     76
   ],

@@ -724,7 +724,7 @@
       "geometry": {
         "coordinates": [
           138.916439,
-          36.498358
+          36.498359
         ],
         "type": "Point"
       },
@@ -743,8 +743,8 @@
     {
       "geometry": {
         "coordinates": [
-          138.915908,
-          36.495929
+          138.915909,
+          36.49593
         ],
         "type": "Point"
       },
@@ -763,8 +763,8 @@
     {
       "geometry": {
         "coordinates": [
-          138.914883,
-          36.492059
+          138.914884,
+          36.49206
         ],
         "type": "Point"
       },
@@ -823,7 +823,7 @@
     {
       "geometry": {
         "coordinates": [
-          138.852228,
+          138.852229,
           36.458457
         ],
         "type": "Point"
@@ -871,12 +871,32 @@
       "properties": {
         "bangumi_id": 216310,
         "bangumi_title": "向山进发 第三季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/1073/bangumi/216310/points/6poebgl-1761623790297.jpg",
         "location": "",
         "point_id": "6poebgl",
         "point_name": "ロックハート城",
         "remark": "1829年建于苏格兰爱丁堡，1988年分块迁移至群马县高山村，1993年开放"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.309346,
+          35.85888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 216310,
+        "bangumi_title": "向山进发 第三季",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/216310/points/k94qary-1791098231701.webp",
+        "location": "",
+        "point_id": "k94qary",
+        "point_name": "箕ノ口公園",
+        "remark": ""
       },
       "type": "Feature"
     }

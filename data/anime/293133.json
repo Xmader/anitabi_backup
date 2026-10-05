@@ -13,6 +13,20 @@
   "points": [
     {
       "ep_cut": "",
+      "id": "94de03c3",
+      "image_path": "/images/user/1073/bangumi/293133/points/94de03c3-1764862469169.jpg",
+      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/293133/points/94de03c3-1764862469169.jpg",
+      "lat": 35.681719,
+      "lng": 139.767632,
+      "location": "第3旅：新潟編",
+      "name": "駅弁屋 23号店",
+      "remark": "OP",
+      "status_code": 1073,
+      "user_id": 34,
+      "zoom": 34
+    },
+    {
+      "ep_cut": "",
       "id": "3r6uc09",
       "image_path": "/images/points/293133/3r6uc09_1755349771000.jpg",
       "image_url": "https://w.junreimap.com/images/points/293133/3r6uc09_1755349771000.jpg",
@@ -178,20 +192,6 @@
       "status_code": 1073,
       "user_id": 1160,
       "zoom": 1845
-    },
-    {
-      "ep_cut": "",
-      "id": "94de03c3",
-      "image_path": "/images/user/1073/bangumi/293133/points/94de03c3-1764862469169.jpg",
-      "image_url": "https://w.junreimap.com/images/user/1073/bangumi/293133/points/94de03c3-1764862469169.jpg",
-      "lat": 35.681719,
-      "lng": 139.767632,
-      "location": "第3旅：新潟編",
-      "name": "駅弁屋 23号店",
-      "remark": "OP",
-      "status_code": 1073,
-      "user_id": 34,
-      "zoom": 34
     },
     {
       "ep_cut": "",
@@ -1514,14 +1514,14 @@
       "id": "2b304ffd",
       "image_path": "/images/user/1073/bangumi/293133/points/2b304ffd-1770951667879.jpg",
       "image_url": "https://w.junreimap.com/images/user/1073/bangumi/293133/points/2b304ffd-1770951667879.jpg",
-      "lat": 33.577029,
-      "lng": 133.64456,
+      "lat": 33.576397,
+      "lng": 133.638026,
       "location": "第20旅〔高知〕",
-      "name": "後免駅から路面電車1",
-      "remark": "第6卷 p70 扉絵",
+      "name": "東工業前駅",
+      "remark": "第6卷 p70 扉絵\n此图位置应该在东工业前站拍摄",
       "status_code": 1073,
-      "user_id": 95,
-      "zoom": 95
+      "user_id": 634,
+      "zoom": 635
     },
     {
       "ep_cut": "",
@@ -1534,7 +1534,7 @@
       "name": "日吉神社",
       "remark": "第6卷 p74 上图",
       "status_code": 1073,
-      "user_id": 95,
+      "user_id": 148,
       "zoom": 149
     },
     {
@@ -3593,7 +3593,21 @@
       "remark": "9卷 p19 中图",
       "status_code": 1073,
       "user_id": 50,
-      "zoom": 12807
+      "zoom": 83
+    },
+    {
+      "ep_cut": "",
+      "id": "k34874n",
+      "image_path": "/images/user/0/bangumi/293133/points/k34874n-1790734519945.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/293133/points/k34874n-1790734519945.jpg",
+      "lat": 33.973142,
+      "lng": 134.367978,
+      "location": "第26旅〔徳島〕",
+      "name": "上角公交车站前",
+      "remark": "9卷 p19 左下",
+      "status_code": 0,
+      "user_id": 50,
+      "zoom": 12773
     },
     {
       "ep_cut": "",
@@ -3802,7 +3816,7 @@
       "name": "うふ～ 実は最近ね～",
       "remark": "9卷 p39 上图 ",
       "status_code": 1073,
-      "user_id": 43,
+      "user_id": 133,
       "zoom": 240
     },
     {
@@ -3816,7 +3830,7 @@
       "name": "ちーちゃんの旅に影響受けて",
       "remark": "9卷 p39 下图 \n并不在原坐标点，需要再往前走180米左右",
       "status_code": 1073,
-      "user_id": 43,
+      "user_id": 239,
       "zoom": 465
     },
     {
@@ -7390,13 +7404,14 @@
       "zoom": 32
     }
   ],
-  "points_count": 527,
+  "points_count": 528,
   "rating": 6.8,
   "region": "日本",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/293133_100_76.webp?v=hptnm",
+    "/images/ptheme/293133_100_76.webp?v=hrufq",
     [
+      "94de03c3",
       "3r6uc09",
       "3r6xye1",
       "3r6ycov",
@@ -7409,7 +7424,6 @@
       "3r7r4bu",
       "3r7tjnp",
       "3r7xxs4",
-      "94de03c3",
       "gah23uv",
       "c0834709",
       "8bab2aac",
@@ -7652,6 +7666,7 @@
       "b3ce7fde",
       "85e41ed9",
       "0733dbf9",
+      "k34874n",
       "107b898c",
       "9f698a03",
       "a5fe0286",
@@ -7764,10 +7779,24 @@
       "hoewnmx",
       "83ebb11f",
       "hof7rj7",
+      "69bbb4df",
+      "302b1054",
+      "32b35a81",
+      "d9603850",
+      "0c969c19",
+      "030de883",
+      "e6a86cd4",
+      "ad10f260",
+      "05cd59c6",
+      "346e65b1",
+      "2799fdd8",
+      "cc201d62",
+      "8f640932",
+      "db8b88f5",
       "ccdf730d",
       "bu0pq1v"
     ],
-    1785498402645,
+    1791157805014,
     100,
     76
   ],

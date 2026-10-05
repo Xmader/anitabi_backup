@@ -13,7 +13,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "主视图",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda0-1783682200163.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpda0",
         "point_name": "憧憬の広場",
         "remark": ""
@@ -33,7 +33,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpda4-1783681998010.webp",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "2qnpda4",
         "point_name": "呉線沿い(～hitotose～OP)",
         "remark": "小心坠落，不要进入轨道区域！（见告示牌）"
@@ -53,7 +53,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdaw-1783682248507.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdaw",
         "point_name": "地蔵堂",
         "remark": ""
@@ -73,7 +73,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbj-1783682620331.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdbj",
         "point_name": "西方寺普明閣",
         "remark": ""
@@ -133,7 +133,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hsjn2z4-1785741778281.jpg",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "hsjn2z4",
         "point_name": "呉線トンネル",
         "remark": "参考EP2 2:40\n理论上可以是任何一个吴线上的隧道出口\n但是在沿途寻找的时候发现这个隧道特别的多此一举，全长不足30m，只为了穿过一大块孤立岩石，可谓一大工程学奇观，因此放上来了\n猜测可能是绕开的成本高于隧道成本"
@@ -163,6 +163,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.656846,
+          35.272647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": "OP1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7tm04t-1791019046078.webp",
+        "location": "横須賀市",
+        "point_id": "k7tm04t",
+        "point_name": "OPちひろ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           132.910776,
           34.345275
         ],
@@ -173,7 +193,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/7.jpg",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdb4",
         "point_name": "旧日の丸写真館",
         "remark": ""
@@ -193,7 +213,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/9.jpg",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdav",
         "point_name": "ぎゃらりぃ梅谷",
         "remark": ""
@@ -213,7 +233,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/2qnpdba-1672798738601.jpg",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdba",
         "point_name": "胡堂",
         "remark": ""
@@ -233,9 +253,49 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/1.jpg",
-        "location": "横须贺市",
+        "location": "横須賀市",
         "point_id": "56zn4d33z",
         "point_name": "汐入",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.664692,
+          35.273616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7uaerw-1791020165470.webp",
+        "location": "横須賀市",
+        "point_id": "k7uaerw",
+        "point_name": "はまゆう公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.668547,
+          35.275011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7u808v-1791020068888.webp",
+        "location": "横須賀市",
+        "point_id": "k7u808v",
+        "point_name": "坂と階段",
         "remark": ""
       },
       "type": "Feature"
@@ -253,7 +313,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k68tdyh-1790923649221.webp",
-        "location": "横须贺市",
+        "location": "横須賀市",
         "point_id": "k68tdyh",
         "point_name": "横须贺市立中央図书馆",
         "remark": ""
@@ -273,7 +333,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/points/8452/56ztmv5jr_1672798656912.jpg",
-        "location": "横须贺市",
+        "location": "横須賀市",
         "point_id": "56ztmv5jr",
         "point_name": "緒明山公園",
         "remark": ""
@@ -293,9 +353,89 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/570wl9jp2-1672799445025.jpg",
-        "location": "横须贺市",
+        "location": "横須賀市",
         "point_id": "570wl9jp2",
         "point_name": "儿童游乐设施",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.666622,
+          35.277902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7trh4d-1791019306029.webp",
+        "location": "横須賀市",
+        "point_id": "k7trh4d",
+        "point_name": "通学路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.661301,
+          35.278689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7u4pxm-1791019955572.webp",
+        "location": "横須賀市",
+        "point_id": "k7u4pxm",
+        "point_name": "汐入公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.664087,
+          35.272947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7tcxt8-1791018762107.webp",
+        "location": "横須賀市",
+        "point_id": "k7tcxt8",
+        "point_name": "通向はまゆう公園的小路",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.657819,
+          35.274772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7tzptb-1791019709729.webp",
+        "location": "横須賀市",
+        "point_id": "k7tzptb",
+        "point_name": "階段",
         "remark": ""
       },
       "type": "Feature"
@@ -313,9 +453,29 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k68o6hm-1790923481905.webp",
-        "location": "横须贺市",
+        "location": "横須賀市",
         "point_id": "k68o6hm",
         "point_name": "子之神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.661778,
+          35.272055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7tudct-1791019415474.webp",
+        "location": "横須賀市",
+        "point_id": "k7tudct",
+        "point_name": "エンブレム湘南不入斗2の場所",
         "remark": ""
       },
       "type": "Feature"
@@ -333,7 +493,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/2qnpda7-1672811667897.jpg",
-        "location": "竹原市内",
+        "location": "竹原駅周辺（竹原市）",
         "point_id": "2qnpda7",
         "point_name": "竹原駅外「おかえりなさい」",
         "remark": ""
@@ -353,7 +513,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1000/bangumi/8452/points/580l4obpw-1672876996650.jpg",
-        "location": "竹原市内",
+        "location": "竹原駅周辺（竹原市）",
         "point_id": "580l4obpw",
         "point_name": "竹原駅",
         "remark": ""
@@ -633,7 +793,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/points/8452/2qnpdb2_1748979259765.jpg",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "2qnpdb2",
         "point_name": "忠海駅",
         "remark": ""
@@ -653,7 +813,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9t-1783682422743.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpd9t",
         "point_name": "おかかえ地蔵",
         "remark": ""
@@ -713,7 +873,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdby-1783681979977.webp",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "2qnpdby",
         "point_name": "エデンの海 パーキングエリア",
         "remark": ""
@@ -733,7 +893,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9g-1783681932658.webp",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "2qnpd9g",
         "point_name": "黒滝山登山口への道",
         "remark": ""
@@ -753,7 +913,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb7-1783681956225.webp",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "2qnpdb7",
         "point_name": "黒滝山登山口",
         "remark": "登山口在转角处，右侧木制栏杆已拆除，左侧护栏为钢制，此处透视关系有较大误差，前段登山道入口与左侧斜坡之间有一定距离"
@@ -773,7 +933,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/8452/points/2qnpd9q-1785742479963.jpg",
-        "location": "忠海周辺",
+        "location": "忠海周辺（竹原市）",
         "point_id": "2qnpd9q",
         "point_name": "黒滝山登山口休憩所/黒滝山さくら堂",
         "remark": "她们在此停留，没有继续登山\n此图并未直接引用宣传册的图，而是个人认为比较方便拍摄的一个角度"
@@ -793,7 +953,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui5eah-1783683422298.webp",
-        "location": "竹原市内",
+        "location": "竹原駅周辺（竹原市）",
         "point_id": "gui5eah",
         "point_name": "竹原駅ホーム",
         "remark": ""
@@ -913,7 +1073,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 9,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/8452/points/hsi6ev7-1785739501611.jpg",
-        "location": "竹原市内",
+        "location": "朝日山（竹原市）",
         "point_id": "hsi6ev7",
         "point_name": "朝日山展望台",
         "remark": "（2026.07.08）登山道路维护可能不及时，特别是从山下定居点到山顶观景台的道路，部分路段较为陡峭狭窄，部分被落石覆盖，徒步攀登注意落石砸伤，驾车注意路面和路沿剐蹭，沿途已观测到大量野生动物活动（主要是鹿）所以注意安全"
@@ -933,7 +1093,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 11,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpday-1783682678933.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpday",
         "point_name": "旧笠井邸",
         "remark": ""
@@ -953,7 +1113,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 11,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdan-1783682512832.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdan",
         "point_name": "西方寺",
         "remark": ""
@@ -973,7 +1133,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 11,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhmvdw-1783682524082.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "guhmvdw",
         "point_name": "西方寺",
         "remark": ""
@@ -1053,7 +1213,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": 12,
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhr8ov-1783682693970.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "guhr8ov",
         "point_name": "旧笠井邸",
         "remark": ""
@@ -1083,6 +1243,26 @@
     {
       "geometry": {
         "coordinates": [
+          132.901986,
+          34.343672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 18605,
+        "bangumi_title": "玉响～hitotose～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/k7vzklg-1791023096378.webp",
+        "location": "竹原市内",
+        "point_id": "k7vzklg",
+        "point_name": "佐由美姐姐翻车处（？）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           132.946491,
           34.336486
         ],
@@ -1093,7 +1273,7 @@
         "bangumi_title": "玉响～hitotose～",
         "ep_cut": "EP5.5",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/18605/points/hslrtbe-1785745287494.jpg",
-        "location": "竹原市内",
+        "location": "大乗駅（竹原市）",
         "point_id": "hslrtbe",
         "point_name": "J-POWERグラウンド/たけはら 夏まつり花火大会会場",
         "remark": "夏日祭花火大会会场\n2026年花火大会是8月29号\n参见官方网站：\nhttps://www.takeharakankou.jp/event/8297/"

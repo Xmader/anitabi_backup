@@ -33,7 +33,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第1部 芽",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpd9e-1783682177885.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpd9e",
         "point_name": "竹原まちなみ竹工房",
         "remark": ""
@@ -53,7 +53,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第1部 芽",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhklzj-1783682374798.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "guhklzj",
         "point_name": "照蓮寺",
         "remark": ""
@@ -73,7 +73,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第1部 芽",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/gui5paa-1783683431114.webp",
-        "location": "竹原市内",
+        "location": "竹原駅周辺（竹原市）",
         "point_id": "gui5paa",
         "point_name": "竹原駅ホーム",
         "remark": ""
@@ -93,7 +93,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第2部 响",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhfo0j-1783682143720.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "guhfo0j",
         "point_name": "竹の茶屋 いっぷく",
         "remark": ""
@@ -113,7 +113,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第2部 响",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdbc-1783682161718.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdbc",
         "point_name": "頼惟清旧宅",
         "remark": ""
@@ -133,7 +133,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第2部 响",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdb5-1783682120192.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "2qnpdb5",
         "point_name": "竹の茶屋 いっぷく",
         "remark": ""
@@ -203,6 +203,46 @@
     {
       "geometry": {
         "coordinates": [
+          132.976813,
+          34.333122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109869,
+        "bangumi_title": "玉响～毕业写真～",
+        "ep_cut": "第2部 响",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109869/points/k7x72i2-1791025026364.webp",
+        "location": "忠海周边（竹原市）",
+        "point_id": "k7x72i2",
+        "point_name": "去往忠海展望台的路上",
+        "remark": "熏酱小时候看见小啪离开时太伤心，想走路去横须贺"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.907799,
+          34.348563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109869,
+        "bangumi_title": "玉响～毕业写真～",
+        "ep_cut": "第3部 憧",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109869/points/k7xbfh9-1791025248014.webp",
+        "location": "竹原市内",
+        "point_id": "k7xbfh9",
+        "point_name": "上市公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           132.916697,
           34.33199
         ],
@@ -223,6 +263,26 @@
     {
       "geometry": {
         "coordinates": [
+          132.994925,
+          34.346116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 109869,
+        "bangumi_title": "玉响～毕业写真～",
+        "ep_cut": "第4部 朝",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/109869/points/k7x3hmj-1791024863961.webp",
+        "location": "忠海周边（竹原市）",
+        "point_id": "k7x3hmj",
+        "point_name": "黒滝山",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           132.9102,
           34.347111
         ],
@@ -233,7 +293,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第4部 朝",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guhiznl-1783682303143.webp",
-        "location": "町並み保存地区",
+        "location": "町並み保存地区（竹原市）",
         "point_id": "guhiznl",
         "point_name": "茶房ゆかり",
         "remark": ""
@@ -253,7 +313,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第4部 朝",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/guih622-1783683901022.webp",
-        "location": "竹原市内",
+        "location": "バンブー総合公園（竹原市）",
         "point_id": "guih622",
         "point_name": "呉線沿い(バンブー・ジョイ・ハイランド)",
         "remark": ""
@@ -273,7 +333,7 @@
         "bangumi_title": "玉响～毕业写真～",
         "ep_cut": "第4部 朝",
         "image_url": "https://w.junreimap.com/images/user/2173/bangumi/8452/points/2qnpdat-1783683894256.webp",
-        "location": "竹原市内",
+        "location": "バンブー総合公園（竹原市）",
         "point_id": "2qnpdat",
         "point_name": "呉線沿い(バンブー・ジョイ・ハイランド)",
         "remark": ""

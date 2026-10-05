@@ -1,5 +1,131 @@
 [
   {
+    "id": 543360,
+    "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
+    "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
+    "title_en": "",
+    "region": "秩父市",
+    "type": "TV",
+    "rating": 7.1,
+    "points_count": 234,
+    "center_lat": 35.99662,
+    "center_lng": 139.069332,
+    "cover_url": "https://w.junreimap.com/images/bangumi/543360_fej9y4l.jpg",
+    "bgm_id": 19446
+  },
+  {
+    "id": 293133,
+    "title_cn": "随兴旅 -That's Journey-",
+    "title_jp": "ざつ旅-That's Journey-",
+    "title_en": "",
+    "region": "日本",
+    "type": "漫画系列",
+    "rating": 6.8,
+    "points_count": 528,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/293133_fbzzy84.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 509297,
+    "title_cn": "赛马娘 芦毛灰姑娘",
+    "title_jp": "ウマ娘 シンデレラグレイ",
+    "title_en": "",
+    "region": "岐阜县",
+    "type": "TV",
+    "rating": 0,
+    "points_count": 111,
+    "center_lat": 35.371955,
+    "center_lng": 136.767936,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9e/fa/509297_8jQ62.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 45213,
+    "title_cn": "玉响～more aggressive～",
+    "title_jp": "たまゆら～もあぐれっしぶ～",
+    "title_en": "",
+    "region": "広島県",
+    "type": "TV",
+    "rating": 7.5,
+    "points_count": 50,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/45213.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 18605,
+    "title_cn": "玉响～hitotose～",
+    "title_jp": "たまゆら～hitotose～",
+    "title_en": "",
+    "region": "竹原市",
+    "type": "TV",
+    "rating": 7.4,
+    "points_count": 64,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/18605.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 109869,
+    "title_cn": "玉响～毕业写真～",
+    "title_jp": "たまゆら～卒業写真～",
+    "title_en": "",
+    "region": "竹原市",
+    "type": "OVA",
+    "rating": 7.9,
+    "points_count": 17,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/109869.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 86670,
+    "title_cn": "向山进发 第二季",
+    "title_jp": "ヤマノススメ セカンドシーズン",
+    "title_en": "",
+    "region": "饭能市",
+    "type": "TV",
+    "rating": 7.6,
+    "points_count": 174,
+    "center_lat": 36.111556,
+    "center_lng": 138.937126,
+    "cover_url": "https://w.junreimap.com/images/bangumi/86670.jpg",
+    "bgm_id": 37610
+  },
+  {
+    "id": 216310,
+    "title_cn": "向山进发 第三季",
+    "title_jp": "ヤマノススメ サードシーズン",
+    "title_en": "",
+    "region": "饭能市",
+    "type": "TV",
+    "rating": 7.7,
+    "points_count": 45,
+    "center_lat": 35.856979,
+    "center_lng": 139.310856,
+    "cover_url": "https://w.junreimap.com/images/bangumi/216310.jpg",
+    "bgm_id": 186
+  },
+  {
+    "id": 407332,
+    "title_cn": "赛马娘 Pretty Derby 第三季",
+    "title_jp": "ウマ娘 プリティーダービー Season 3",
+    "title_en": "",
+    "region": "千叶县",
+    "type": "TV",
+    "rating": 5.1,
+    "points_count": 20,
+    "center_lat": 35.423749,
+    "center_lng": 140.114718,
+    "cover_url": "https://w.junreimap.com/images/bangumi/407332.jpg",
+    "bgm_id": 22508
+  },
+  {
     "id": 622206,
     "title_cn": "尼古喵喵",
     "title_jp": "ヤニねこ",
@@ -11,6 +137,20 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/622206.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 525565,
+    "title_cn": "相反的你和我",
+    "title_jp": "正反対な君と僕",
+    "title_en": "",
+    "region": "横滨市",
+    "type": "TV",
+    "rating": 7.5,
+    "points_count": 112,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/525565_fej6i2c.jpg",
     "bgm_id": null
   },
   {
@@ -28,34 +168,6 @@
     "bgm_id": 412
   },
   {
-    "id": 45213,
-    "title_cn": "玉响～more aggressive～",
-    "title_jp": "たまゆら～もあぐれっしぶ～",
-    "title_en": "",
-    "region": "広島県",
-    "type": "TV",
-    "rating": 7.5,
-    "points_count": 38,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/45213.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 18605,
-    "title_cn": "玉响～hitotose～",
-    "title_jp": "たまゆら～hitotose～",
-    "title_en": "",
-    "region": "竹原市",
-    "type": "TV",
-    "rating": 7.4,
-    "points_count": 55,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/18605.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 309303,
     "title_cn": "世界计划 缤纷舞台！ feat. 初音未来",
     "title_jp": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
@@ -67,20 +179,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/ac/62/309303_4Mob1.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 109869,
-    "title_cn": "玉响～毕业写真～",
-    "title_jp": "たまゆら～卒業写真～",
-    "title_en": "",
-    "region": "竹原市",
-    "type": "OVA",
-    "rating": 7.9,
-    "points_count": 14,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/109869.jpg",
     "bgm_id": null
   },
   {
@@ -138,20 +236,6 @@
     "center_lng": 139.438665,
     "cover_url": "https://w.junreimap.com/images/bangumi/545917.jpg",
     "bgm_id": 69154
-  },
-  {
-    "id": 293133,
-    "title_cn": "随兴旅 -That's Journey-",
-    "title_jp": "ざつ旅-That's Journey-",
-    "title_en": "",
-    "region": "日本",
-    "type": "漫画系列",
-    "rating": 6.8,
-    "points_count": 527,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/293133_fbzzy84.jpg",
-    "bgm_id": null
   },
   {
     "id": 219658,
@@ -292,20 +376,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/7d/ae/281281_f2Y2T.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 543360,
-    "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
-    "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
-    "title_en": "",
-    "region": "秩父市",
-    "type": "TV",
-    "rating": 7.1,
-    "points_count": 234,
-    "center_lat": 35.99662,
-    "center_lng": 139.069332,
-    "cover_url": "https://w.junreimap.com/images/bangumi/543360_fej9y4l.jpg",
-    "bgm_id": 19446
   },
   {
     "id": 282923,
@@ -630,20 +700,6 @@
     "bgm_id": 1532
   },
   {
-    "id": 86670,
-    "title_cn": "向山进发 第二季",
-    "title_jp": "ヤマノススメ セカンドシーズン",
-    "title_en": "",
-    "region": "饭能市",
-    "type": "TV",
-    "rating": 7.6,
-    "points_count": 174,
-    "center_lat": 36.111556,
-    "center_lng": 138.937126,
-    "cover_url": "https://w.junreimap.com/images/bangumi/86670.jpg",
-    "bgm_id": 37610
-  },
-  {
     "id": 876,
     "title_cn": "",
     "title_jp": "CLANNAD 〜AFTER STORY〜",
@@ -711,20 +767,6 @@
     "center_lat": 49.046957,
     "center_lng": 10.098055,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f0/15/280837_L6VeG.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 525565,
-    "title_cn": "相反的你和我",
-    "title_jp": "正反対な君と僕",
-    "title_en": "",
-    "region": "横滨市",
-    "type": "TV",
-    "rating": 7.5,
-    "points_count": 112,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/525565_fej6i2c.jpg",
     "bgm_id": null
   },
   {
@@ -2405,20 +2447,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/bc/25/538643_IY77Y.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 509297,
-    "title_cn": "赛马娘 芦毛灰姑娘",
-    "title_jp": "ウマ娘 シンデレラグレイ",
-    "title_en": "",
-    "region": "岐阜县",
-    "type": "TV",
-    "rating": 0,
-    "points_count": 111,
-    "center_lat": 35.371955,
-    "center_lng": 136.767936,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/9e/fa/509297_8jQ62.jpg",
     "bgm_id": null
   },
   {
@@ -7056,20 +7084,6 @@
     "bgm_id": null
   },
   {
-    "id": 216310,
-    "title_cn": "向山进发 第三季",
-    "title_jp": "ヤマノススメ サードシーズン",
-    "title_en": "",
-    "region": "饭能市",
-    "type": "TV",
-    "rating": 7.7,
-    "points_count": 44,
-    "center_lat": 35.856979,
-    "center_lng": 139.310856,
-    "cover_url": "https://w.junreimap.com/images/bangumi/216310.jpg",
-    "bgm_id": 186
-  },
-  {
     "id": 43558,
     "title_cn": "JOJO的奇妙冒险",
     "title_jp": "ジョジョの奇妙な冒険",
@@ -7810,20 +7824,6 @@
     "center_lng": 140.258047,
     "cover_url": "https://w.junreimap.com/images/bangumi/265372.jpg",
     "bgm_id": 18028
-  },
-  {
-    "id": 407332,
-    "title_cn": "赛马娘 Pretty Derby 第三季",
-    "title_jp": "ウマ娘 プリティーダービー Season 3",
-    "title_en": "",
-    "region": "千叶县",
-    "type": "TV",
-    "rating": 5.1,
-    "points_count": 20,
-    "center_lat": 35.423749,
-    "center_lng": 140.114718,
-    "cover_url": "https://w.junreimap.com/images/bangumi/407332.jpg",
-    "bgm_id": 22508
   },
   {
     "id": 332471,

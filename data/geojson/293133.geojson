@@ -3,6 +3,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.767632,
+          35.681719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293133,
+        "bangumi_title": "随兴旅 -That's Journey-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/293133/points/94de03c3-1764862469169.jpg",
+        "location": "第3旅：新潟編",
+        "point_id": "94de03c3",
+        "point_name": "駅弁屋 23号店",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.258483,
           35.790521
         ],
@@ -237,26 +257,6 @@
         "point_id": "3r7xxs4",
         "point_name": "数馬の切通し",
         "remark": "本篇没有出现的地点，作者推荐　数馬「かずま」"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.767632,
-          35.681719
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 293133,
-        "bangumi_title": "随兴旅 -That's Journey-",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/293133/points/94de03c3-1764862469169.jpg",
-        "location": "第3旅：新潟編",
-        "point_id": "94de03c3",
-        "point_name": "駅弁屋 23号店",
-        "remark": "OP"
       },
       "type": "Feature"
     },
@@ -2143,8 +2143,8 @@
     {
       "geometry": {
         "coordinates": [
-          133.64456,
-          33.577029
+          133.638026,
+          33.576397
         ],
         "type": "Point"
       },
@@ -2155,8 +2155,8 @@
         "image_url": "https://w.junreimap.com/images/user/1073/bangumi/293133/points/2b304ffd-1770951667879.jpg",
         "location": "第20旅〔高知〕",
         "point_id": "2b304ffd",
-        "point_name": "後免駅から路面電車1",
-        "remark": "第6卷 p70 扉絵"
+        "point_name": "東工業前駅",
+        "remark": "第6卷 p70 扉絵\n此图位置应该在东工业前站拍摄"
       },
       "type": "Feature"
     },
@@ -5117,6 +5117,26 @@
         "point_id": "0733dbf9",
         "point_name": "上一宮大粟神社 随身神門",
         "remark": "9卷 p19 中图"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.367978,
+          33.973142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 293133,
+        "bangumi_title": "随兴旅 -That's Journey-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/293133/points/k34874n-1790734519945.jpg",
+        "location": "第26旅〔徳島〕",
+        "point_id": "k34874n",
+        "point_name": "上角公交车站前",
+        "remark": "9卷 p19 左下"
       },
       "type": "Feature"
     },

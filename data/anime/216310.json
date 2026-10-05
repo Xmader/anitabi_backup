@@ -36,7 +36,7 @@
       "name": "飯能河原ステージ広場",
       "remark": "目前正在施工，预计施工时间到26年8月",
       "status_code": 1012,
-      "user_id": 5,
+      "user_id": 116,
       "zoom": 104
     },
     {
@@ -50,7 +50,7 @@
       "name": 8,
       "remark": "",
       "status_code": 1012,
-      "user_id": 315,
+      "user_id": 35,
       "zoom": 5
     },
     {
@@ -498,7 +498,7 @@
       "name": "飯能河原 北侧",
       "remark": "",
       "status_code": 1012,
-      "user_id": 10,
+      "user_id": 63,
       "zoom": 83
     },
     {
@@ -512,7 +512,7 @@
       "name": "伊香保温泉石段街",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 25,
       "zoom": 23
     },
     {
@@ -520,13 +520,13 @@
       "id": "a63bf098",
       "image_path": "",
       "image_url": "",
-      "lat": 36.498358,
+      "lat": 36.498359,
       "lng": 138.916439,
       "location": "",
       "name": "石段の湯",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 25,
       "zoom": 4
     },
     {
@@ -534,13 +534,13 @@
       "id": "c95bf217",
       "image_path": "",
       "image_url": "",
-      "lat": 36.495929,
-      "lng": 138.915908,
+      "lat": 36.49593,
+      "lng": 138.915909,
       "location": "",
       "name": "伊香保神社",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 262,
       "zoom": 9
     },
     {
@@ -548,13 +548,13 @@
       "id": "927cf8e6",
       "image_path": "",
       "image_url": "",
-      "lat": 36.492059,
-      "lng": 138.914883,
+      "lat": 36.49206,
+      "lng": 138.914884,
       "location": "",
       "name": "河鹿橋",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 63,
       "zoom": 64
     },
     {
@@ -568,7 +568,7 @@
       "name": "伊香保温泉飲泉所",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 63,
       "zoom": 100
     },
     {
@@ -582,7 +582,7 @@
       "name": "伊香保露天風呂",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 100,
       "zoom": 529
     },
     {
@@ -591,12 +591,12 @@
       "image_path": "",
       "image_url": "",
       "lat": 36.458457,
-      "lng": 138.852228,
+      "lng": 138.852229,
       "location": "",
       "name": "榛名神社 (上野國六宮)",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 7892,
       "zoom": 2702
     },
     {
@@ -610,11 +610,11 @@
       "name": "ロックハート城 駐車場",
       "remark": "",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 178,
       "zoom": 178
     },
     {
-      "ep_cut": "5",
+      "ep_cut": 5,
       "id": "6poebgl",
       "image_path": "/images/user/1073/bangumi/216310/points/6poebgl-1761623790297.jpg",
       "image_url": "https://w.junreimap.com/images/user/1073/bangumi/216310/points/6poebgl-1761623790297.jpg",
@@ -624,19 +624,33 @@
       "name": "ロックハート城",
       "remark": "1829年建于苏格兰爱丁堡，1988年分块迁移至群马县高山村，1993年开放",
       "status_code": 1073,
-      "user_id": null,
+      "user_id": 178,
       "zoom": 4718
+    },
+    {
+      "ep_cut": 10,
+      "id": "k94qary",
+      "image_path": "/images/user/0/bangumi/216310/points/k94qary-1791098231701.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/216310/points/k94qary-1791098231701.webp",
+      "lat": 35.85888,
+      "lng": 139.309346,
+      "location": "",
+      "name": "箕ノ口公園",
+      "remark": "",
+      "status_code": 0,
+      "user_id": 35,
+      "zoom": 11
     }
   ],
-  "points_count": 44,
+  "points_count": 45,
   "rating": 7.7,
   "region": "饭能市",
   "short_name": "向山进发 3",
   "theme_meta": [
-    "/images/ptheme/216310_100_76.webp?v=h7jzn",
+    "/images/ptheme/216310_100_76.webp?v=hru0b",
     [
       "ly8ghwif1",
-      "ly8lk6lyo",
+      "ly8tew5w7",
       "ly9iks5dk",
       "nrne38kan",
       "qdeh2h5pm",
@@ -669,13 +683,13 @@
       "qdjrkf2tm",
       "ly97thy6u",
       "m267ner8m",
-      "ly9bvphn4",
-      "ly9516l1s",
       "ly9ab3mqt",
-      "ly90ronuf",
-      "ly8tew5w7"
+      "1091b82a",
+      "6p3d6xd",
+      "6poebgl",
+      "k94qary"
     ],
-    1734358313940,
+    1791124551293,
     100,
     76
   ],

@@ -13,7 +13,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": "",
         "image_url": "https://w.junreimap.com/images/user/2192/bangumi/509297/points/acjrefu-1769537132162.jpg",
-        "location": "",
+        "location": "笠松駅",
         "point_id": "acjrefu",
         "point_name": "笠松町 ふらっと笠松",
         "remark": "アニメ『ウマ娘 シンデレラグレイ』 × 笠松町 コラボ 在此有等身大面板以及圣地巡礼地图免费发放~"
@@ -173,7 +173,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": "OP1",
         "image_url": "https://w.junreimap.com/images/points/509297/uf3co9b9x_1743959323889.jpg",
-        "location": "笠松町自行车道",
+        "location": "笠松凑公园",
         "point_id": "uf3co9b9x",
         "point_name": "笠松みなと公園",
         "remark": ""
@@ -693,7 +693,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/points/509297/uf3upiegb_1743960551345.jpg",
-        "location": "笠松特雷森学园",
+        "location": "笠松駅",
         "point_id": "uf3upiegb",
         "point_name": "名鉄竹鼻線 笠松1号踏切",
         "remark": "圖中列車為整修後的名鉄1800系,所以有時間的話可以等到一樣的列車出現再拍哦"
@@ -713,7 +713,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/points/509297/uf41dump5_1743960791761.jpg",
-        "location": "笠松特雷森学园",
+        "location": "笠松駅",
         "point_id": "uf41dump5",
         "point_name": "名鉄竹鼻線 笠松1号踏切",
         "remark": "远处白色建筑即为笠松站。"
@@ -1293,7 +1293,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 3,
         "image_url": "https://w.junreimap.com/images/user/2192/bangumi/323196/points/417nywb-1755790835284.jpg",
-        "location": "",
+        "location": "カラフルタウン 岐阜",
         "point_id": "417nywb",
         "point_name": "カラフルタウン岐阜　",
         "remark": ""
@@ -1313,7 +1313,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 3,
         "image_url": "https://w.junreimap.com/images/user/2192/bangumi/323196/points/417kops-1755790721239.jpg",
-        "location": "",
+        "location": "カラフルタウン 岐阜",
         "point_id": "417kops",
         "point_name": "スポーツデポカラフルタウン岐阜店",
         "remark": ""
@@ -1473,7 +1473,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 4,
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/509297/points/ajk1mqn-1769960760881.jpg",
-        "location": "",
+        "location": "笠松赛马场",
         "point_id": "ajk1mqn",
         "point_name": "赛马娘注意",
         "remark": ""
@@ -1483,8 +1483,8 @@
     {
       "geometry": {
         "coordinates": [
-          136.764639,
-          35.366047
+          136.764226,
+          35.366587
         ],
         "type": "Point"
       },
@@ -1496,7 +1496,7 @@
         "location": "笠松凑公园",
         "point_id": "2bub5ev",
         "point_name": "笠松みなと公園",
-        "remark": ""
+        "remark": "原定位不准确，且与视点有一定距离"
       },
       "type": "Feature"
     },
@@ -1673,7 +1673,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 7,
         "image_url": "https://w.junreimap.com/images/user/2192/bangumi/509297/points/ack7mzg-1769537756297.jpg",
-        "location": "",
+        "location": "东京赛马场",
         "point_id": "ack7mzg",
         "point_name": "府中駅",
         "remark": ""
@@ -1953,7 +1953,7 @@
         "bangumi_title": "赛马娘 芦毛灰姑娘",
         "ep_cut": 17,
         "image_url": "https://w.junreimap.com/images/user/2192/bangumi/509297/points/acl9w68-1769539543934.jpg",
-        "location": "",
+        "location": "东京赛马场",
         "point_id": "acl9w68",
         "point_name": "府中多摩川かぜのみち",
         "remark": ""
