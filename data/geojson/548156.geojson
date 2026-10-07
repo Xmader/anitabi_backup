@@ -3,20 +3,40 @@
     {
       "geometry": {
         "coordinates": [
-          138.991935,
-          35.241176
+          139.702211,
+          35.658331
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 548156,
         "bangumi_title": "青之箱 第二季",
-        "ep_cut": 22,
-        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/548156/points/2bnikr2-1752068606148.jpg",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/548156/points/kase3np-1791198363572.webp",
         "location": "",
-        "point_id": "2bnikr2",
-        "point_name": "箱根高原ホテル",
-        "remark": ""
+        "point_id": "kase3np",
+        "point_name": "Nike Shibuya Scramble Square",
+        "remark": "第一集就开始胃疼，学姐啊……"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.702007,
+          35.658743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/548156/points/kasbq1w-1791198239805.webp",
+        "location": "",
+        "point_id": "kasbq1w",
+        "point_name": "SHIBUYA SKY",
+        "remark": "可以提前来，一般来说晚霞的都没有票，可惜当时风大不让去天台"
       },
       "type": "Feature"
     }

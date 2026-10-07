@@ -1,5 +1,103 @@
 [
   {
+    "id": 95225,
+    "title_cn": "命运守护夜 无限剑制",
+    "title_jp": "Fate/stay night [Unlimited Blade Works]",
+    "title_en": "",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 7.5,
+    "points_count": 67,
+    "center_lat": 35.447474,
+    "center_lng": 139.803929,
+    "cover_url": "https://w.junreimap.com/images/bangumi/95225.jpg",
+    "bgm_id": 23296
+  },
+  {
+    "id": 188091,
+    "title_cn": "珈百璃的堕落",
+    "title_jp": "ガヴリールドロップアウト",
+    "title_en": "",
+    "region": "滨松市",
+    "type": "TV",
+    "rating": 7,
+    "points_count": 11,
+    "center_lat": 34.696217,
+    "center_lng": 137.773209,
+    "cover_url": "https://w.junreimap.com/images/bangumi/188091.jpg",
+    "bgm_id": 9081
+  },
+  {
+    "id": 297340,
+    "title_cn": "铁路浪漫谭",
+    "title_jp": "レヱル・ロマネスク",
+    "title_en": "Rail Romanesque",
+    "region": "人吉市",
+    "type": "TV",
+    "rating": 5.2,
+    "points_count": 13,
+    "center_lat": 32.215061,
+    "center_lng": 130.799211,
+    "cover_url": "https://w.junreimap.com/images/bangumi/297340.jpg",
+    "bgm_id": 158449
+  },
+  {
+    "id": 143128,
+    "title_cn": "爱上火车",
+    "title_jp": "まいてつ",
+    "title_en": "",
+    "region": "人吉市",
+    "type": "游戏",
+    "rating": 0,
+    "points_count": 39,
+    "center_lat": 32.211574,
+    "center_lng": 130.786577,
+    "cover_url": "https://w.junreimap.com/images/bangumi/143128_o7b04qd2c.jpg",
+    "bgm_id": 1455
+  },
+  {
+    "id": 548156,
+    "title_cn": "青之箱 第二季",
+    "title_jp": "アオのハコ 第2期",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 10,
+    "points_count": 2,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 460306,
+    "title_cn": "青之箱",
+    "title_jp": "アオのハコ",
+    "title_en": "",
+    "region": "日本",
+    "type": "TV",
+    "rating": 7.9,
+    "points_count": 108,
+    "center_lat": 35.716283,
+    "center_lng": 139.718229,
+    "cover_url": "https://w.junreimap.com/images/bangumi/460306.jpg",
+    "bgm_id": 3398
+  },
+  {
+    "id": 265,
+    "title_cn": "新世纪福音战士",
+    "title_jp": "新世紀エヴァンゲリオン",
+    "title_en": "Shin Seiki Evangerion",
+    "region": "神奈川县",
+    "type": "TV",
+    "rating": 8.9,
+    "points_count": 8,
+    "center_lat": 35.248143,
+    "center_lng": 139.031124,
+    "cover_url": "https://w.junreimap.com/images/bangumi/265.jpg",
+    "bgm_id": 9547
+  },
+  {
     "id": 543360,
     "title_cn": "上伊那牡丹，酒醉身姿似百合花般",
     "title_jp": "上伊那ぼたん、酔へる姿は百合の花",
@@ -1874,20 +1972,6 @@
     "center_lng": 139.64535,
     "cover_url": "https://w.junreimap.com/images/bangumi/144357.jpg",
     "bgm_id": 828
-  },
-  {
-    "id": 143128,
-    "title_cn": "爱上火车",
-    "title_jp": "まいてつ",
-    "title_en": "",
-    "region": "人吉市",
-    "type": "游戏",
-    "rating": 0,
-    "points_count": 39,
-    "center_lat": 32.211574,
-    "center_lng": 130.786577,
-    "cover_url": "https://w.junreimap.com/images/bangumi/143128_o7b04qd2c.jpg",
-    "bgm_id": 1455
   },
   {
     "id": 49278,
@@ -4858,20 +4942,6 @@
     "bgm_id": 809
   },
   {
-    "id": 95225,
-    "title_cn": "命运守护夜 无限剑制",
-    "title_jp": "Fate/stay night [Unlimited Blade Works]",
-    "title_en": "",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 7.5,
-    "points_count": 67,
-    "center_lat": 35.447474,
-    "center_lng": 139.803929,
-    "cover_url": "https://w.junreimap.com/images/bangumi/95225.jpg",
-    "bgm_id": 23296
-  },
-  {
     "id": 109158,
     "title_cn": "由梦想与色彩编织而成",
     "title_jp": "夢と色でできている",
@@ -5108,20 +5178,6 @@
     "center_lng": 0,
     "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/42/b9/84495_96nzh.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 460306,
-    "title_cn": "青之箱",
-    "title_jp": "アオのハコ",
-    "title_en": "",
-    "region": "日本",
-    "type": "TV",
-    "rating": 7.9,
-    "points_count": 107,
-    "center_lat": 35.716283,
-    "center_lng": 139.718229,
-    "cover_url": "https://w.junreimap.com/images/bangumi/460306.jpg",
-    "bgm_id": 3398
   },
   {
     "id": 82401,
@@ -9926,20 +9982,6 @@
     "bgm_id": 6348
   },
   {
-    "id": 265,
-    "title_cn": "新世纪福音战士",
-    "title_jp": "新世紀エヴァンゲリオン",
-    "title_en": "Shin Seiki Evangerion",
-    "region": "神奈川县",
-    "type": "TV",
-    "rating": 8.9,
-    "points_count": 7,
-    "center_lat": 35.248143,
-    "center_lng": 139.031124,
-    "cover_url": "https://w.junreimap.com/images/bangumi/265.jpg",
-    "bgm_id": 9547
-  },
-  {
     "id": 29883,
     "title_cn": "新・福音战士剧场版：终",
     "title_jp": "シン・エヴァンゲリオン劇場版",
@@ -12152,20 +12194,6 @@
     "bgm_id": 4711
   },
   {
-    "id": 188091,
-    "title_cn": "珈百璃的堕落",
-    "title_jp": "ガヴリールドロップアウト",
-    "title_en": "",
-    "region": "滨松市",
-    "type": "TV",
-    "rating": 7,
-    "points_count": 10,
-    "center_lat": 34.696217,
-    "center_lng": 137.773209,
-    "cover_url": "https://w.junreimap.com/images/bangumi/188091.jpg",
-    "bgm_id": 9081
-  },
-  {
     "id": 165553,
     "title_cn": "LoveLive! Sunshine!!",
     "title_jp": "ラブライブ! サンシャイン!!",
@@ -12541,20 +12569,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/5b/81/211114_Dq8HL.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 548156,
-    "title_cn": "青之箱 第二季",
-    "title_jp": "アオのハコ 第2期",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 10,
-    "points_count": 1,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
     "bgm_id": null
   },
   {
@@ -18254,20 +18268,6 @@
     "center_lng": -73.525122,
     "cover_url": "https://w.junreimap.com/images/bangumi/25961.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 297340,
-    "title_cn": "铁路浪漫谭",
-    "title_jp": "レヱル・ロマネスク",
-    "title_en": "Rail Romanesque",
-    "region": "人吉市",
-    "type": "TV",
-    "rating": 5.2,
-    "points_count": 13,
-    "center_lat": 32.215061,
-    "center_lng": 130.799211,
-    "cover_url": "https://w.junreimap.com/images/bangumi/297340.jpg",
-    "bgm_id": 158449
   },
   {
     "id": 22431,

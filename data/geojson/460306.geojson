@@ -2115,7 +2115,7 @@
         "image_url": "https://w.junreimap.com/images/user/2148/bangumi/460306/points/txwwb6uy9-1742613058006.jpg",
         "location": "",
         "point_id": "txwwb6uy9",
-        "point_name": "15",
+        "point_name": "池袋站",
         "remark": ""
       },
       "type": "Feature"
@@ -2136,6 +2136,26 @@
         "location": "",
         "point_id": "kta98a",
         "point_name": "北条​海岸​海水浴​場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.991935,
+          35.241176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 460306,
+        "bangumi_title": "青之箱",
+        "ep_cut": 22,
+        "image_url": "https://w.junreimap.com/images/user/2173/bangumi/548156/points/2bnikr2-1752068606148.jpg",
+        "location": "",
+        "point_id": "2bnikr2",
+        "point_name": "箱根高原ホテル",
         "remark": ""
       },
       "type": "Feature"

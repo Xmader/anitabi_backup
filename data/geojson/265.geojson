@@ -139,6 +139,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.015078,
+          35.271333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 265,
+        "bangumi_title": "新世纪福音战士",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/265/points/kaojfxq-1791191883023.jpg",
+        "location": "",
+        "point_id": "kaojfxq",
+        "point_name": "箱根町立仙石原小学校",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

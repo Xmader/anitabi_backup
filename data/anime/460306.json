@@ -1489,7 +1489,7 @@
       "lat": 35.730956,
       "lng": 139.710087,
       "location": "",
-      "name": "15",
+      "name": "池袋站",
       "remark": "",
       "status_code": 2148,
       "user_id": 14,
@@ -1508,14 +1508,28 @@
       "status_code": 0,
       "user_id": 80859,
       "zoom": 259
+    },
+    {
+      "ep_cut": 22,
+      "id": "2bnikr2",
+      "image_path": "/images/user/2173/bangumi/548156/points/2bnikr2-1752068606148.jpg",
+      "image_url": "https://w.junreimap.com/images/user/2173/bangumi/548156/points/2bnikr2-1752068606148.jpg",
+      "lat": 35.241176,
+      "lng": 138.991935,
+      "location": "",
+      "name": "箱根高原ホテル",
+      "remark": "",
+      "status_code": 2173,
+      "user_id": 78119,
+      "zoom": 1096
     }
   ],
-  "points_count": 107,
+  "points_count": 108,
   "rating": 7.9,
   "region": "日本",
   "short_name": "蓝箱",
   "theme_meta": [
-    "/images/ptheme/460306_100_76.webp?v=ho43n",
+    "/images/ptheme/460306_100_76.webp?v=hrvrk",
     [
       "ormod3f2n",
       "ormomim26",
@@ -1623,9 +1637,10 @@
       "txwhvfmj8",
       "txwli4xqc",
       "txwwb6uy9",
-      "kta98a"
+      "kta98a",
+      "2bnikr2"
     ],
-    1780711907940,
+    1791261128493,
     100,
     76
   ],

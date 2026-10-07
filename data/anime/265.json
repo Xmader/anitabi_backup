@@ -65,7 +65,7 @@
       "remark": "第3新东京市立第壱中学校的原型。\n因为现在改成大学了，所以进入请先征得工作人员同意。",
       "status_code": 0,
       "user_id": 1364,
-      "zoom": 1101
+      "zoom": 1008
     },
     {
       "ep_cut": "上海站",
@@ -108,9 +108,23 @@
       "status_code": 2148,
       "user_id": 1113056,
       "zoom": 501
+    },
+    {
+      "ep_cut": "5",
+      "id": "kaojfxq",
+      "image_path": "/images/user/0/bangumi/265/points/kaojfxq-1791191883023.jpg",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/265/points/kaojfxq-1791191883023.jpg",
+      "lat": 35.271333,
+      "lng": 139.015078,
+      "location": "",
+      "name": "箱根町立仙石原小学校",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 1758
     }
   ],
-  "points_count": 7,
+  "points_count": 8,
   "rating": 8.9,
   "region": "神奈川县",
   "short_name": "",

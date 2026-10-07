@@ -199,6 +199,26 @@
         "remark": "#OVA2「天使の贈り物」、ガヴリール達が知り合った少女が手術を受ける舞天労災病院のモデル。浜松駅からバスで20分くらいです。"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.733765,
+          34.704502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 188091,
+        "bangumi_title": "珈百璃的堕落",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/188091/points/kbtw52a-1791261339221.webp",
+        "location": "",
+        "point_id": "kbtw52a",
+        "point_name": "滨松entetsu地下通",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
