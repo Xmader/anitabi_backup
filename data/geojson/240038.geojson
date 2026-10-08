@@ -4479,6 +4479,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.618007,
+          35.366604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 240038,
+        "bangumi_title": "青春笨蛋少年不做兔女郎学姐的梦",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/2187/bangumi/240038/points/kdhv137-1791362457997.webp",
+        "location": "",
+        "point_id": "kdhv137",
+        "point_name": "ファミリーマート アスティ大垣店",
+        "remark": "原サークルK，已全部更名为Family Mart"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
