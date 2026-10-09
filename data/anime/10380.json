@@ -204,7 +204,7 @@
       "name": "ボークス​秋葉原​ホビー​天国​2",
       "remark": "",
       "status_code": 2128,
-      "user_id": 77,
+      "user_id": 30,
       "zoom": 23
     },
     {
@@ -232,7 +232,7 @@
       "name": "裏通り1(PCショップ)",
       "remark": "因建筑改造等，该处街景与作品中差异较大。PC関連のショップが並ぶ通り。ラボから出るとすぐここに出るイメージだったが結構離れている",
       "status_code": 0,
-      "user_id": 37,
+      "user_id": 51,
       "zoom": 6
     },
     {
@@ -376,6 +376,20 @@
       "zoom": 3
     },
     {
+      "ep_cut": "",
+      "id": "kf9p6tg",
+      "image_path": "/images/points/10380/kf9p6tg_1791469285916.webp",
+      "image_url": "https://w.junreimap.com/images/points/10380/kf9p6tg_1791469285916.webp",
+      "lat": 35.698024,
+      "lng": 139.771912,
+      "location": "",
+      "name": "秋葉原ラジオ会館7F",
+      "remark": "经过2014年装修后已经照不出这个分镜了。不过7F外侧楼梯间附近确实有店家安排了扭蛋机",
+      "status_code": 2195,
+      "user_id": 10,
+      "zoom": 10
+    },
+    {
       "ep_cut": 1,
       "id": "6ajjjoh",
       "image_path": "/images/points/10380/6ajjjoh_1760708538718.jpg",
@@ -428,7 +442,7 @@
       "name": "オヤイデ電気",
       "remark": "前秋叶原地标虎之穴的所在地\n实际视角为现Animate侧面巷子内朝外拍摄，自动售卖机的位置已被替换为扭蛋机",
       "status_code": 2128,
-      "user_id": 4,
+      "user_id": 5,
       "zoom": 6
     },
     {
@@ -540,7 +554,7 @@
       "name": "オヤイデ電気",
       "remark": "实际视角为现Animate侧面巷子内朝外拍摄，自动售卖机的位置已被替换为扭蛋机",
       "status_code": 2128,
-      "user_id": 2,
+      "user_id": 5,
       "zoom": 9
     },
     {
@@ -608,7 +622,7 @@
       "lng": 139.772,
       "location": "",
       "name": "秋葉原ラジオ会館屋上",
-      "remark": "向东北方向（友都八喜）拍摄。楼顶一般只有特殊活动的时候才开放",
+      "remark": "向东北方向（友都八喜）拍摄。楼顶一般只有特殊活动或纳凉祭的时候才开放，具体可以见秋葉原ラジオ会館\n@akibaradikan 官方推特",
       "status_code": 2195,
       "user_id": 10,
       "zoom": 15
@@ -806,7 +820,7 @@
       "name": "中央通り周辺2（アニメ・漫画ショップ前）",
       "remark": "位于道路西侧，向东南侧的唐吉诃德拍摄。",
       "status_code": 0,
-      "user_id": 58,
+      "user_id": 65,
       "zoom": 6
     },
     {
@@ -1524,12 +1538,12 @@
       "zoom": 72
     }
   ],
-  "points_count": 108,
+  "points_count": 109,
   "rating": 8.7,
   "region": "千代田区",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/10380_100_76.webp?v=hj2hv",
+    "/images/ptheme/10380_100_76.webp?v=hryfz",
     [
       "kpx6og6ii",
       "6ajpa27",
@@ -1557,6 +1571,7 @@
       "6ajycd1",
       "6ajo1da",
       "6ajoc13",
+      "kf9p6tg",
       "6ajjjoh",
       "6ajjs4r",
       "6d8zwzo",
@@ -1636,7 +1651,7 @@
       "6w30m9b",
       "50y1pgl"
     ],
-    1766590270784,
+    1791469414848,
     100,
     76
   ],

@@ -7503,26 +7503,6 @@
     {
       "geometry": {
         "coordinates": [
-          7.358825,
-          48.076014
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 172,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1ot17ocp-1746682119585.jpg",
-        "location": "",
-        "point_id": "v1ot17ocp",
-        "point_name": "Rue des Marchands",
-        "remark": "背景中的房屋都取景与所标位置栋方向左侧的房屋与尽头处的房屋（房屋外侧的图案可以对上）图中左上角的房屋与右上角是同一个，右上角做了镜像处理"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           7.360018,
           48.075055
         ],
@@ -7563,6 +7543,26 @@
     {
       "geometry": {
         "coordinates": [
+          7.360656,
+          48.075127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 172,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g570g-1790573116943.webp",
+        "location": "",
+        "point_id": "k0g570g",
+        "point_name": "科尔马摩天轮（圣诞节期间限定）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.360665,
           48.075137
         ],
@@ -7597,6 +7597,46 @@
         "point_id": "v1meugk8x",
         "point_name": "科尔马摩天轮（圣诞节期间限定）",
         "remark": "从2022年开始每年圣诞节期间这里广场会建成临时的摩天轮"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.360637,
+          48.075111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 172,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g6gsh-1790573175661.webp",
+        "location": "",
+        "point_id": "k0g6gsh",
+        "point_name": "科尔马摩天轮（圣诞节期间限定）",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.358825,
+          48.076014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 172,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/v1ot17ocp-1746682119585.jpg",
+        "location": "",
+        "point_id": "v1ot17ocp",
+        "point_name": "Rue des Marchands",
+        "remark": "背景中的房屋都取景与所标位置栋方向左侧的房屋与尽头处的房屋（房屋外侧的图案可以对上）图中左上角的房屋与右上角是同一个，右上角做了镜像处理"
       },
       "type": "Feature"
     },
@@ -8383,6 +8423,26 @@
     {
       "geometry": {
         "coordinates": [
+          7.750389,
+          48.58108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 186,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gq6xu58-1783422670000.webp",
+        "location": "",
+        "point_id": "gq6xu58",
+        "point_name": "Rue du Maroquin",
+        "remark": "所标位置沿着左排房屋向西北拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.749636,
           48.58031
         ],
@@ -8443,6 +8503,166 @@
     {
       "geometry": {
         "coordinates": [
+          -3.203009,
+          55.950064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpv3fvs-1783402766882.webp",
+        "location": "",
+        "point_id": "gpv3fvs",
+        "point_name": "Ross Fountain",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.184448,
+          55.954608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvlo2z-1783403633539.webp",
+        "location": "",
+        "point_id": "gpvlo2z",
+        "point_name": "Dugald Stewart Monument",
+        "remark": "所标位置向西偏南方向的司各特纪念塔拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.193177,
+          55.948723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpv7l74-1783402958407.webp",
+        "location": "",
+        "point_id": "gpv7l74",
+        "point_name": "Victoria St",
+        "remark": "向西拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.19867,
+          55.948547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvqr30-1783403857879.webp",
+        "location": "",
+        "point_id": "gpvqr30",
+        "point_name": "Edinburgh Castle",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.190809,
+          55.950124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvejn2-1783403276049.webp",
+        "location": "",
+        "point_id": "gpvejn2",
+        "point_name": "Warriston’s Close",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.172031,
+          55.952743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvwizz-1783404143001.webp",
+        "location": "",
+        "point_id": "gpvwizz",
+        "point_name": "Palace of Holyroodhouse",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.171601,
+          55.953126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpwoe18-1783405410671.webp",
+        "location": "",
+        "point_id": "gpwoe18",
+        "point_name": "Holyrood Abbey",
+        "remark": "向东拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -3.17133,
+          55.953381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": 188,
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpwqljq-1783405529343.webp",
+        "location": "",
+        "point_id": "gpwqljq",
+        "point_name": "Holyrood Abbey",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           7.356107,
           48.079527
         ],
@@ -8451,9 +8671,9 @@
       "properties": {
         "bangumi_id": 88290,
         "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": "",
+        "ep_cut": "光之咖啡馆场刊",
         "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/uojvoa8k0-1744700603167.jpg",
-        "location": "",
+        "location": "其他",
         "point_id": "uojvoa8k0",
         "point_name": "Place d'Unterlinden",
         "remark": "纱路发传单的公园，在光之咖啡馆场刊中有记载"
@@ -9737,226 +9957,6 @@
         "point_id": "j34dla",
         "point_name": "智麻惠桥",
         "remark": "封面左侧和中间的房屋为桥上向南拍摄，封面右侧房屋也是左侧沿河的房屋，进行了镜像处理"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.203009,
-          55.950064
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpv3fvs-1783402766882.webp",
-        "location": "",
-        "point_id": "gpv3fvs",
-        "point_name": "Ross Fountain",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.184448,
-          55.954608
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvlo2z-1783403633539.webp",
-        "location": "",
-        "point_id": "gpvlo2z",
-        "point_name": "Dugald Stewart Monument",
-        "remark": "所标位置向西偏南方向的司各特纪念塔拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.193177,
-          55.948723
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpv7l74-1783402958407.webp",
-        "location": "",
-        "point_id": "gpv7l74",
-        "point_name": "Victoria St",
-        "remark": "向西拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.19867,
-          55.948547
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvqr30-1783403857879.webp",
-        "location": "",
-        "point_id": "gpvqr30",
-        "point_name": "Edinburgh Castle",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.190809,
-          55.950124
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvejn2-1783403276049.webp",
-        "location": "",
-        "point_id": "gpvejn2",
-        "point_name": "Warriston’s Close",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.172031,
-          55.952743
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpvwizz-1783404143001.webp",
-        "location": "",
-        "point_id": "gpvwizz",
-        "point_name": "Palace of Holyroodhouse",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.171601,
-          55.953126
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpwoe18-1783405410671.webp",
-        "location": "",
-        "point_id": "gpwoe18",
-        "point_name": "Holyrood Abbey",
-        "remark": "向东拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -3.17133,
-          55.953381
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 188,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gpwqljq-1783405529343.webp",
-        "location": "",
-        "point_id": "gpwqljq",
-        "point_name": "Holyrood Abbey",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.750389,
-          48.58108
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 186,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/gq6xu58-1783422670000.webp",
-        "location": "",
-        "point_id": "gq6xu58",
-        "point_name": "Rue du Maroquin",
-        "remark": "所标位置沿着左排房屋向西北拍摄"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.360656,
-          48.075127
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 172,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g570g-1790573116943.webp",
-        "location": "",
-        "point_id": "k0g570g",
-        "point_name": "科尔马摩天轮（圣诞节期间限定）",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          7.360637,
-          48.075111
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 88290,
-        "bangumi_title": "请问您今天要来点兔子吗？",
-        "ep_cut": 172,
-        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/k0g6gsh-1790573175661.webp",
-        "location": "",
-        "point_id": "k0g6gsh",
-        "point_name": "科尔马摩天轮（圣诞节期间限定）",
-        "remark": ""
       },
       "type": "Feature"
     }

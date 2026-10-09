@@ -20,7 +20,7 @@
       "lng": 135.488785,
       "location": "",
       "name": "福島東公園ベンチ",
-      "remark": "",
+      "remark": "位于公园西南角。公园里可能有孩童，请不要做出令当地居民迷惑的事情",
       "status_code": 1099,
       "user_id": 133,
       "zoom": 134
@@ -34,7 +34,7 @@
       "lng": 135.487886,
       "location": "",
       "name": "クレヴィア大阪福島",
-      "remark": "",
+      "remark": "在图示点位路北侧向东拍摄。限速指示牌的样式不太一样",
       "status_code": 1099,
       "user_id": 71,
       "zoom": 71
@@ -76,8 +76,8 @@
       "lng": 135.487377,
       "location": "",
       "name": "関西将棋会館",
-      "remark": "已炸，目前為停車場",
-      "status_code": 0,
+      "remark": "已炸，目前為停車場。从停车场西南方附近向东北方拍摄",
+      "status_code": 2195,
       "user_id": 14,
       "zoom": 15
     },
@@ -90,7 +90,7 @@
       "lng": 135.487254,
       "location": "",
       "name": "関西将棋会館将棋道場",
-      "remark": "",
+      "remark": "道路岔口向西北方向拍摄。图中位于路对面的福岛殖产（现实恒和殖产）的牌子可能会被树挡住",
       "status_code": 1099,
       "user_id": 14,
       "zoom": 31
@@ -202,8 +202,8 @@
       "lng": 135.487224,
       "location": "",
       "name": "竹内ビル",
-      "remark": "",
-      "status_code": 0,
+      "remark": "从十字路口西侧向东拍摄",
+      "status_code": 2195,
       "user_id": 9,
       "zoom": 9
     },
@@ -216,8 +216,8 @@
       "lng": 135.487151,
       "location": "",
       "name": "焼肉藤もと大吉商店 YAKINIKU FUJIMOTO",
-      "remark": "",
-      "status_code": 0,
+      "remark": "从十字路口东侧向西拍摄。还原截图的点位可能需要跑到人行横道上，比较危险；推荐拉聚焦解决",
+      "status_code": 2195,
       "user_id": 9,
       "zoom": 144
     },
@@ -244,8 +244,8 @@
       "lng": 135.533864,
       "location": "",
       "name": "酒房まつい 京橋本店",
-      "remark": "",
-      "status_code": 0,
+      "remark": "JR京桥北口拍摄京阪京桥商店街入口。附近比较乱，注意人身安全",
+      "status_code": 2195,
       "user_id": 43,
       "zoom": 44
     },
@@ -272,8 +272,8 @@
       "lng": 135.486705,
       "location": "",
       "name": "Chikada Cigarette Shop, 宮川ビル 7-chōme-6-4 Fukushima, Fukushima Ward, Osaka, 553-0003附近",
-      "remark": "",
-      "status_code": 0,
+      "remark": "从三岔路口位置的东北侧拍摄东北方向商店街牌楼下的标语",
+      "status_code": 2195,
       "user_id": 5,
       "zoom": 387
     }

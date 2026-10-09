@@ -523,6 +523,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.771912,
+          35.698024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 10380,
+        "bangumi_title": "命运石之门",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/10380/kf9p6tg_1791469285916.webp",
+        "location": "",
+        "point_id": "kf9p6tg",
+        "point_name": "秋葉原ラジオ会館7F",
+        "remark": "经过2014年装修后已经照不出这个分镜了。不过7F外侧楼梯间附近确实有店家安排了扭蛋机"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.771895,
           35.698159
         ],
@@ -856,7 +876,7 @@
         "location": "",
         "point_id": "5u3psrk",
         "point_name": "秋葉原ラジオ会館屋上",
-        "remark": "向东北方向（友都八喜）拍摄。楼顶一般只有特殊活动的时候才开放"
+        "remark": "向东北方向（友都八喜）拍摄。楼顶一般只有特殊活动或纳凉祭的时候才开放，具体可以见秋葉原ラジオ会館\n@akibaradikan 官方推特"
       },
       "type": "Feature"
     },

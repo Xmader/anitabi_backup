@@ -1,5 +1,89 @@
 [
   {
+    "id": 426239,
+    "title_cn": "青春笨蛋少年不做小学美少女的梦",
+    "title_jp": "青春ブタ野郎はランドセルガールの夢を見ない",
+    "title_en": "",
+    "region": "镰仓市",
+    "type": "剧场版",
+    "rating": 7.1,
+    "points_count": 45,
+    "center_lat": 35.410342,
+    "center_lng": 139.547083,
+    "cover_url": "https://w.junreimap.com/images/bangumi/426239.jpg",
+    "bgm_id": 10474
+  },
+  {
+    "id": 240038,
+    "title_cn": "青春笨蛋少年不做兔女郎学姐的梦",
+    "title_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "title_en": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "region": "镰仓市",
+    "type": "TV",
+    "rating": 7.4,
+    "points_count": 225,
+    "center_lat": 35.311623,
+    "center_lng": 139.492951,
+    "cover_url": "https://w.junreimap.com/images/bangumi/240038.jpg",
+    "bgm_id": 401
+  },
+  {
+    "id": 88290,
+    "title_cn": "请问您今天要来点兔子吗？",
+    "title_jp": "ご注文はうさぎですか?",
+    "title_en": "Is the order a rabbit?",
+    "region": "海外",
+    "type": "漫画系列",
+    "rating": 8.2,
+    "points_count": 498,
+    "center_lat": 48.077821,
+    "center_lng": 7.352337,
+    "cover_url": "https://w.junreimap.com/images/bangumi/88290_uh69pso63.jpg",
+    "bgm_id": 12034630
+  },
+  {
+    "id": 10380,
+    "title_cn": "命运石之门",
+    "title_jp": "STEINS;GATE",
+    "title_en": "STEINS;GATE",
+    "region": "千代田区",
+    "type": "TV",
+    "rating": 8.7,
+    "points_count": 109,
+    "center_lat": 35.69878,
+    "center_lng": 139.771392,
+    "cover_url": "https://w.junreimap.com/images/bangumi/10380.jpg",
+    "bgm_id": 412
+  },
+  {
+    "id": 219658,
+    "title_cn": "龙王的工作！",
+    "title_jp": "りゅうおうのおしごと！",
+    "title_en": "",
+    "region": "大阪府",
+    "type": "TV",
+    "rating": 6.3,
+    "points_count": 19,
+    "center_lat": 34.69715,
+    "center_lng": 135.489081,
+    "cover_url": "https://w.junreimap.com/images/bangumi/219658.jpg",
+    "bgm_id": 906
+  },
+  {
+    "id": 12426,
+    "title_cn": "轻音少女 剧场版",
+    "title_jp": "映画けいおん！",
+    "title_en": "K-ON! The Movie",
+    "region": "英国",
+    "type": "剧场版",
+    "rating": 8.1,
+    "points_count": 291,
+    "center_lat": 51.526778,
+    "center_lng": -0.094452,
+    "cover_url": "https://w.junreimap.com/images/bangumi/12426.jpg",
+    "bgm_id": 4412
+  },
+  {
     "id": 102134,
     "title_cn": "我的青春恋爱物语果然有问题 续",
     "title_jp": "やはり俺の青春ラブコメはまちがっている。続",
@@ -26,20 +110,6 @@
     "center_lng": 138.285342,
     "cover_url": "https://w.junreimap.com/images/bangumi/262897.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 240038,
-    "title_cn": "青春笨蛋少年不做兔女郎学姐的梦",
-    "title_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
-    "title_en": "Rascal Does Not Dream of Bunny Girl Senpai",
-    "region": "镰仓市",
-    "type": "TV",
-    "rating": 7.4,
-    "points_count": 225,
-    "center_lat": 35.311623,
-    "center_lng": 139.492951,
-    "cover_url": "https://w.junreimap.com/images/bangumi/240038.jpg",
-    "bgm_id": 401
   },
   {
     "id": 95225,
@@ -294,20 +364,6 @@
     "bgm_id": null
   },
   {
-    "id": 10380,
-    "title_cn": "命运石之门",
-    "title_jp": "STEINS;GATE",
-    "title_en": "STEINS;GATE",
-    "region": "千代田区",
-    "type": "TV",
-    "rating": 8.7,
-    "points_count": 108,
-    "center_lat": 35.69878,
-    "center_lng": 139.771392,
-    "cover_url": "https://w.junreimap.com/images/bangumi/10380.jpg",
-    "bgm_id": 412
-  },
-  {
     "id": 309303,
     "title_cn": "世界计划 缤纷舞台！ feat. 初音未来",
     "title_jp": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
@@ -378,20 +434,6 @@
     "bgm_id": 69154
   },
   {
-    "id": 219658,
-    "title_cn": "龙王的工作！",
-    "title_jp": "りゅうおうのおしごと！",
-    "title_en": "",
-    "region": "大阪府",
-    "type": "TV",
-    "rating": 6.3,
-    "points_count": 19,
-    "center_lat": 34.69715,
-    "center_lng": 135.489081,
-    "cover_url": "https://w.junreimap.com/images/bangumi/219658.jpg",
-    "bgm_id": 906
-  },
-  {
     "id": 465493,
     "title_cn": "",
     "title_jp": "anemoi",
@@ -446,20 +488,6 @@
     "center_lng": 139.716309,
     "cover_url": "https://w.junreimap.com/images/bangumi/428735.jpg",
     "bgm_id": 410
-  },
-  {
-    "id": 88290,
-    "title_cn": "请问您今天要来点兔子吗？",
-    "title_jp": "ご注文はうさぎですか?",
-    "title_en": "Is the order a rabbit?",
-    "region": "海外",
-    "type": "漫画系列",
-    "rating": 8.2,
-    "points_count": 498,
-    "center_lat": 48.077821,
-    "center_lng": 7.352337,
-    "cover_url": "https://w.junreimap.com/images/bangumi/88290_uh69pso63.jpg",
-    "bgm_id": 12034630
   },
   {
     "id": 278826,
@@ -2098,20 +2126,6 @@
     "center_lng": 141.001372,
     "cover_url": "https://w.junreimap.com/images/bangumi/292901.jpg",
     "bgm_id": 279
-  },
-  {
-    "id": 12426,
-    "title_cn": "轻音少女 剧场版",
-    "title_jp": "映画けいおん！",
-    "title_en": "K-ON! The Movie",
-    "region": "英国",
-    "type": "剧场版",
-    "rating": 8.1,
-    "points_count": 291,
-    "center_lat": 51.526778,
-    "center_lng": -0.094452,
-    "cover_url": "https://w.junreimap.com/images/bangumi/12426.jpg",
-    "bgm_id": 4412
   },
   {
     "id": 328609,
@@ -13816,20 +13830,6 @@
     "center_lng": 114.29857,
     "cover_url": "https://w.junreimap.com/images/bangumi/202892.jpg",
     "bgm_id": 1736
-  },
-  {
-    "id": 426239,
-    "title_cn": "青春笨蛋少年不做小学美少女的梦",
-    "title_jp": "青春ブタ野郎はランドセルガールの夢を見ない",
-    "title_en": "",
-    "region": "镰仓市",
-    "type": "剧场版",
-    "rating": 7.1,
-    "points_count": 11,
-    "center_lat": 35.410342,
-    "center_lng": 139.547083,
-    "cover_url": "https://w.junreimap.com/images/bangumi/426239.jpg",
-    "bgm_id": 10474
   },
   {
     "id": 81373,
