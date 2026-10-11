@@ -195,17 +195,17 @@
     },
     {
       "ep_cut": "一家Dumb Rock!",
-      "id": "k2kgkzb",
-      "image_path": "/images/points/621188/k2kgkzb_1790701511535.webp",
-      "image_url": "https://w.junreimap.com/images/points/621188/k2kgkzb_1790701511535.webp",
-      "lat": 35.705118,
-      "lng": 139.650255,
-      "location": "高圆寺站",
-      "name": "高円寺駅 南口",
-      "remark": "https://maps.app.goo.gl/FAvKF2Usm44Ubo477",
+      "id": "khct9kx",
+      "image_path": "/images/points/621188/k2787jd_1790679099774.webp",
+      "image_url": "https://w.junreimap.com/images/points/621188/k2787jd_1790679099774.webp",
+      "lat": 35.705921,
+      "lng": 139.654008,
+      "location": "乐队舞台",
+      "name": "杉並区",
+      "remark": "一家Dumb Rock!的主舞台和成员姓氏出处。在游戏地图中对应一家Dumb Rock!的高亮建筑物为杉并区高圆寺站附近的剧场「座·高円寺」和酒店「JR東日本ホテルメッツ 高円寺」。",
       "status_code": 1057,
-      "user_id": 868,
-      "zoom": 1504
+      "user_id": 426,
+      "zoom": 427
     },
     {
       "ep_cut": "一家Dumb Rock!",
@@ -276,21 +276,36 @@
       "status_code": 1057,
       "user_id": 3755,
       "zoom": 279
+    },
+    {
+      "ep_cut": "一家Dumb Rock!",
+      "id": "k2kgkzb",
+      "image_path": "/images/points/621188/k2kgkzb_1790701511535.webp",
+      "image_url": "https://w.junreimap.com/images/points/621188/k2kgkzb_1790701511535.webp",
+      "lat": 35.705118,
+      "lng": 139.650255,
+      "location": "高圆寺站",
+      "name": "高円寺駅 南口",
+      "remark": "https://maps.app.goo.gl/FAvKF2Usm44Ubo477",
+      "status_code": 1057,
+      "user_id": 426,
+      "zoom": 1504
     }
   ],
-  "points_count": 19,
+  "points_count": 20,
   "rating": 4.6,
   "region": "東京都",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/621188_100_76.webp?v=hroki",
+    "/images/ptheme/621188_100_76.webp?v=hs02e",
     [
       "k2787jd",
       "k266dky",
       "k2ha0g7",
-      "k2kgkzb"
+      "k2kgkzb",
+      "khct9kx"
     ],
-    1790701590062,
+    1791595602377,
     100,
     76
   ],

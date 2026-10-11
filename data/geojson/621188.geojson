@@ -263,8 +263,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.650255,
-          35.705118
+          139.654008,
+          35.705921
         ],
         "type": "Point"
       },
@@ -272,11 +272,11 @@
         "bangumi_id": 621188,
         "bangumi_title": "BanG Dream! 交织的乐章",
         "ep_cut": "一家Dumb Rock!",
-        "image_url": "https://w.junreimap.com/images/points/621188/k2kgkzb_1790701511535.webp",
-        "location": "高圆寺站",
-        "point_id": "k2kgkzb",
-        "point_name": "高円寺駅 南口",
-        "remark": "https://maps.app.goo.gl/FAvKF2Usm44Ubo477"
+        "image_url": "https://w.junreimap.com/images/points/621188/k2787jd_1790679099774.webp",
+        "location": "乐队舞台",
+        "point_id": "khct9kx",
+        "point_name": "杉並区",
+        "remark": "一家Dumb Rock!的主舞台和成员姓氏出处。在游戏地图中对应一家Dumb Rock!的高亮建筑物为杉并区高圆寺站附近的剧场「座·高円寺」和酒店「JR東日本ホテルメッツ 高円寺」。"
       },
       "type": "Feature"
     },
@@ -377,6 +377,26 @@
         "point_id": "k2mn9r1",
         "point_name": "旧​四宮​町",
         "remark": "被推测为四宫宁月可能的姓氏来源，位于杉并区，1943年成立，1963年被分割并入上井草二丁目和今川二丁目，如今仍保留有四宫小学、四宫区民集会所、四宫森儿童馆等地名。四宫一名据说源自大国魂神社的四之宫。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.650255,
+          35.705118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 621188,
+        "bangumi_title": "BanG Dream! 交织的乐章",
+        "ep_cut": "一家Dumb Rock!",
+        "image_url": "https://w.junreimap.com/images/points/621188/k2kgkzb_1790701511535.webp",
+        "location": "高圆寺站",
+        "point_id": "k2kgkzb",
+        "point_name": "高円寺駅 南口",
+        "remark": "https://maps.app.goo.gl/FAvKF2Usm44Ubo477"
       },
       "type": "Feature"
     }

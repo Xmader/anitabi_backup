@@ -12720,7 +12720,7 @@
       "name": "象島（伝兵衛島）",
       "remark": "根据画面判断拍摄位置。实拍坐标约为34.7842744, 138.7612476",
       "status_code": 0,
-      "user_id": 20,
+      "user_id": 50,
       "zoom": 51
     },
     {
@@ -14394,14 +14394,14 @@
       "id": "jpx6fsr",
       "image_path": "/images/points/262897/jpx6fsr_1789936598459.webp",
       "image_url": "https://w.junreimap.com/images/points/262897/jpx6fsr_1789936598459.webp",
-      "lat": 34.903113,
-      "lng": 139.095753,
+      "lat": 34.903048,
+      "lng": 139.095443,
       "location": "东伊豆-大室山周边",
       "name": "大室山　山頂",
-      "remark": "",
+      "remark": "实际位置34.899784, 139.097804 以坐标为准\n实际位置34.899784, 139.097804\n以坐标为准 拖动可能不准",
       "status_code": 2168,
       "user_id": 10,
-      "zoom": 11
+      "zoom": 36
     },
     {
       "ep_cut": 13,
@@ -15044,7 +15044,7 @@
       "name": "数据同步测试地标（大修后）",
       "remark": "鹅鹅鹅",
       "status_code": 2168,
-      "user_id": null,
+      "user_id": 107364,
       "zoom": 115063
     }
   ],
@@ -15053,7 +15053,7 @@
   "region": "静岡県",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/262897_100_76.webp?v=hreqi",
+    "/images/ptheme/262897_100_76.webp?v=hs09m",
     [
       "gccmbr8",
       "5fchw27wa",
@@ -16125,9 +16125,10 @@
       "45dqwc5",
       "45dtmtj",
       "45ljpam",
-      "4vc9w5s"
+      "4vc9w5s",
+      "jql2abl"
     ],
-    1789936961251,
+    1791611171107,
     100,
     76
   ],
