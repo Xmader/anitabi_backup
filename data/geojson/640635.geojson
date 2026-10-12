@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.739061,
+          35.629012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 640635,
+        "bangumi_title": "王様恋愛",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/640635/kj0y03o_1791696516915.webp",
+        "location": "",
+        "point_id": "kj0y03o",
+        "point_name": "品川駅 JR北改札",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

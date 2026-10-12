@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#f1cd63",
+  "cover_path": "/images/bangumi/640635_kj0uq2k.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/640635_kj0uq2k.jpg",
+  "icon_path": "/images/icon/640635_kj0v53v.jpg",
+  "icon_url": "https://w.junreimap.com/images/icon/640635_kj0v53v.jpg",
+  "id": 640635,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "kj0y03o",
+      "image_path": "/images/points/640635/kj0y03o_1791696516915.webp",
+      "image_url": "https://w.junreimap.com/images/points/640635/kj0y03o_1791696516915.webp",
+      "lat": 35.629012,
+      "lng": 139.739061,
+      "location": "",
+      "name": "品川駅 JR北改札",
+      "remark": "",
+      "status_code": 2183,
+      "user_id": 110999999889000,
+      "zoom": 47
+    }
+  ],
+  "points_count": 1,
+  "rating": 0,
+  "region": "東京都",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/640635_100_76.webp?v=hs1d5",
+    [
+      "kj0y03o"
+    ],
+    1791696543677,
+    100,
+    76
+  ],
+  "title_cn": "",
+  "title_en": "",
+  "title_jp": "王様恋愛",
+  "type": "游戏"
+}
