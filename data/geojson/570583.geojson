@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.603979,
+          40.263641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "km0o5lx",
+        "point_name": "占位",
+        "remark": "非真实取景位置仅作占位。请在该作品第一个真实取景地建立后删除"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

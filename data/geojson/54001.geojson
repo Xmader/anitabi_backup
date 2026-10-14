@@ -1,0 +1,405 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.008123,
+          36.490763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmhw0kk_1791906312688.webp",
+        "location": "涩川站",
+        "point_id": "kmhw0kk",
+        "point_name": "渋川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.008163,
+          36.490755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmhwdhq_1791906324663.webp",
+        "location": "涩川站",
+        "point_id": "kmhwdhq",
+        "point_name": "渋川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.0078,
+          36.490189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmhy7g9_1791906443670.webp",
+        "location": "涩川站",
+        "point_id": "kmhy7g9",
+        "point_name": "渋川駅前バス停 5番のりば",
+        "remark": "后方的建筑是交番。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.00796,
+          36.490291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmi0mlf_1791906534105.webp",
+        "location": "涩川站",
+        "point_id": "kmi0mlf",
+        "point_name": "渋川駅",
+        "remark": "https://maps.app.goo.gl/V9Pz8Td6Cg6QCn8HA"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.008055,
+          36.491068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmi22hj_1791906596181.webp",
+        "location": "涩川站",
+        "point_id": "kmi22hj",
+        "point_name": "渋川駅前プラザ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.917365,
+          36.499551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmi7pyl_1791906900763.webp",
+        "location": "伊香保町",
+        "point_id": "kmi7pyl",
+        "point_name": "上毛三山パノラマ街道",
+        "remark": "远处是伊香保町著名的石段街。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916604,
+          36.498264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmib8pc_1791907042403.webp",
+        "location": "伊香保町",
+        "point_id": "kmib8pc",
+        "point_name": "石段の湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916556,
+          36.49828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmidi7p_1791907129322.webp",
+        "location": "伊香保町",
+        "point_id": "kmidi7p",
+        "point_name": "石段の湯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.917139,
+          36.499235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmiftmx_1791907244949.webp",
+        "location": "伊香保町",
+        "point_id": "kmiftmx",
+        "point_name": "石段街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.918733,
+          36.497177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmj53s5_1791908438966.webp",
+        "location": "伊香保町",
+        "point_id": "kmj53s5",
+        "point_name": "和心の宿 大森",
+        "remark": "https://maps.app.goo.gl/ZKERcApbny2CBK9Q8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.915969,
+          36.495884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmja05p_1791908656165.webp",
+        "location": "伊香保町",
+        "point_id": "kmja05p",
+        "point_name": "伊香保神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.915983,
+          36.495993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmja8a5_1791908668533.webp",
+        "location": "伊香保町",
+        "point_id": "kmja8a5",
+        "point_name": "伊香保神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916227,
+          36.49707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjeojx_1791908867921.webp",
+        "location": "伊香保町",
+        "point_id": "kmjeojx",
+        "point_name": "中津屋のほほん",
+        "remark": "左下角的店为现实中的「のほほん」，已停业。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.916539,
+          36.498037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjgqm3_1791908962044.webp",
+        "location": "伊香保町",
+        "point_id": "kmjgqm3",
+        "point_name": "利休庵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.915006,
+          36.492452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjl73b_1791909197033.webp",
+        "location": "伊香保町",
+        "point_id": "kmjl73b",
+        "point_name": "河鹿橋",
+        "remark": "https://maps.app.goo.gl/6ed1hNB8eSnNU7gn9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.914929,
+          36.491942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjnkaj_1791909279939.webp",
+        "location": "伊香保町",
+        "point_id": "kmjnkaj",
+        "point_name": "紅葉橋",
+        "remark": "近处为红叶桥，远处为河鹿桥。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.914813,
+          36.492196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjpdn3_1791909362785.webp",
+        "location": "伊香保町",
+        "point_id": "kmjpdn3",
+        "point_name": "河鹿橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.9148,
+          36.492189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 24,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjpv10_1791909383947.webp",
+        "location": "伊香保町",
+        "point_id": "kmjpv10",
+        "point_name": "河鹿橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.00819,
+          36.490768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmjtftz_1791909554693.webp",
+        "location": "涩川站",
+        "point_id": "kmjtftz",
+        "point_name": "渋川駅",
+        "remark": "背景中是桑原巨守创作的铜像「風と花」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.008095,
+          36.490747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54001,
+        "bangumi_title": "理香和春和温泉和海豚",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/54001/kmju1mj_1791909574160.webp",
+        "location": "涩川站",
+        "point_id": "kmju1mj",
+        "point_name": "渋川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
