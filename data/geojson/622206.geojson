@@ -499,6 +499,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759067,
+          34.986944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622206,
+        "bangumi_title": "尼古喵喵",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/622206/points/klitrdx-1791847459912.webp",
+        "location": "",
+        "point_id": "klitrdx",
+        "point_name": "京都駅前",
+        "remark": "具体点位待确定。可以从黄色砖结构建筑看到后面京都塔下建筑标志的位置"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

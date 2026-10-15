@@ -360,9 +360,23 @@
       "status_code": 0,
       "user_id": 91,
       "zoom": 22626
+    },
+    {
+      "ep_cut": "",
+      "id": "klitrdx",
+      "image_path": "/images/user/2195/bangumi/622206/points/klitrdx-1791847459912.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/622206/points/klitrdx-1791847459912.webp",
+      "lat": 34.986944,
+      "lng": 135.759067,
+      "location": "",
+      "name": "京都駅前",
+      "remark": "具体点位待确定。可以从黄色砖结构建筑看到后面京都塔下建筑标志的位置",
+      "status_code": 2195,
+      "user_id": null,
+      "zoom": 32
     }
   ],
-  "points_count": 25,
+  "points_count": 26,
   "rating": 6.9,
   "region": "相模原市",
   "short_name": "",

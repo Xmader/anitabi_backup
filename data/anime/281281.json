@@ -918,7 +918,7 @@
       "name": "戎橋",
       "remark": "",
       "status_code": 0,
-      "user_id": 42,
+      "user_id": 9,
       "zoom": 5
     },
     {
@@ -932,7 +932,7 @@
       "name": "グリコサイン",
       "remark": "",
       "status_code": 0,
-      "user_id": 42,
+      "user_id": 39,
       "zoom": 39
     },
     {
@@ -946,7 +946,7 @@
       "name": "心斎橋筋商店街",
       "remark": "戎桥中间向南拍摄",
       "status_code": 0,
-      "user_id": 138,
+      "user_id": 9,
       "zoom": 4
     },
     {
@@ -1002,7 +1002,7 @@
       "name": "金龍ラーメン",
       "remark": "",
       "status_code": 0,
-      "user_id": 87,
+      "user_id": 65,
       "zoom": 64
     },
     {
@@ -1056,9 +1056,9 @@
       "lng": 135.502462,
       "location": "第六监狱 - 大阪",
       "name": "よしもと道頓堀シアター",
-      "remark": "现在漫才剧场搬到了6f，其他几层是纯购物娱乐了",
-      "status_code": 0,
-      "user_id": 22,
+      "remark": "原型是2010年位于B1F的道頓堀ZAZA HOUSE，2024年搬到了新世界，现在叫新世界ZAZA。6F的よしもと道頓堀シアター是2025年新开的漫才剧场",
+      "status_code": 2195,
+      "user_id": 35,
       "zoom": 52
     },
     {
@@ -1070,8 +1070,8 @@
       "lng": 135.506301,
       "location": "第六监狱 - 大阪",
       "name": "新世界通天閣",
-      "remark": "",
-      "status_code": 0,
+      "remark": "拍摄位置大概位于中央通和新世界南本通的交口，谷歌地图标有“新世界本通商店街”的位置。",
+      "status_code": 2195,
       "user_id": 6,
       "zoom": 7
     },
@@ -1212,7 +1212,7 @@
       "name": "天王寺動物園",
       "remark": "大约在动物园内某个虚构的位置。注意动物园和天王寺公园不直接通，需要绕路买票进园",
       "status_code": 0,
-      "user_id": 101,
+      "user_id": 248,
       "zoom": 223
     },
     {
@@ -1224,9 +1224,9 @@
       "lng": 135.51074,
       "location": "第六监狱 - 大阪",
       "name": "茶臼山",
-      "remark": "天王寺公园出口旁边有一条直接上茶臼山的路，就在这里拍。此外山只有26米可以顺便登了",
-      "status_code": 0,
-      "user_id": 101,
+      "remark": "天王寺公园出口旁边有一条直接上茶臼山的路，就在这里拍。山只有26米，可以顺便登了",
+      "status_code": 2195,
+      "user_id": 268,
       "zoom": 75
     },
     {
@@ -1240,7 +1240,7 @@
       "name": "天王寺公園南側バス駐車場",
       "remark": "大阪环状线附近\n虽说位置确实是在这里，但是路南边被两层铁栅栏挡着，既拍不到同角度、还挡路、又很危险\n推荐直接从阿倍野天桥往这边拍，如果你非要在这里拍建议去JR 2号出口西面的小自行车停车场里拍",
       "status_code": 2195,
-      "user_id": 207,
+      "user_id": 157,
       "zoom": 157
     },
     {
@@ -1268,7 +1268,7 @@
       "name": "JR天王寺東口",
       "remark": "",
       "status_code": 0,
-      "user_id": 78,
+      "user_id": 74,
       "zoom": 74
     },
     {
@@ -1282,7 +1282,7 @@
       "name": "JR天王寺中央改札",
       "remark": "",
       "status_code": 2195,
-      "user_id": 108,
+      "user_id": 86,
       "zoom": 29
     },
     {
@@ -1296,7 +1296,7 @@
       "name": "JR天王寺駅内",
       "remark": "天王寺MIO 11F。制作组把天王寺站和附属商业设施融在了一起",
       "status_code": 0,
-      "user_id": 78,
+      "user_id": 74,
       "zoom": 87
     },
     {
@@ -1310,7 +1310,7 @@
       "name": "阿倍野歩道橋",
       "remark": "需要以一个很极端的角度从西北向东南，从下向上拍摄あべのハルカス。这里人多不建议蹲下抓角度，从天桥下方拍拍得了。",
       "status_code": 0,
-      "user_id": 60,
+      "user_id": 78,
       "zoom": 31
     },
     {
@@ -1324,8 +1324,36 @@
       "name": "あべのハルカス",
       "remark": "",
       "status_code": 0,
-      "user_id": 60,
+      "user_id": 32,
       "zoom": 3
+    },
+    {
+      "ep_cut": "",
+      "id": "knytb0u",
+      "image_path": "/images/user/2195/bangumi/281281/points/knytb0u-1791995245030.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/281281/points/knytb0u-1791995245030.webp",
+      "lat": 34.646298,
+      "lng": 135.513238,
+      "location": "第六监狱 - 大阪",
+      "name": "ハルカス300エレベーター",
+      "remark": "",
+      "status_code": 2195,
+      "user_id": 8,
+      "zoom": 9
+    },
+    {
+      "ep_cut": "",
+      "id": "knyqj88",
+      "image_path": "/images/user/2195/bangumi/281281/points/knyqj88-1791995466764.webp",
+      "image_url": "https://w.junreimap.com/images/user/2195/bangumi/281281/points/knyqj88-1791995466764.webp",
+      "lat": 34.646343,
+      "lng": 135.513298,
+      "location": "第六监狱 - 大阪",
+      "name": "ハルカス300（展望台）",
+      "remark": "位于顶楼300米高的直升机平台。参观直升机平台需要额外付费，天气不好的时候可能不开",
+      "status_code": 2195,
+      "user_id": 8,
+      "zoom": 32
     },
     {
       "ep_cut": "",
@@ -1510,12 +1538,12 @@
       "zoom": 5
     }
   ],
-  "points_count": 107,
+  "points_count": 109,
   "rating": 7.3,
   "region": "",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/281281_100_76.webp?v=hj6wz",
+    "/images/ptheme/281281_100_76.webp?v=hs57o",
     [
       "1yt4qww",
       "1ywls20",
@@ -1527,13 +1555,15 @@
       "208drz9",
       "208rc30",
       "208tin6",
+      "24pyg9r",
       "208xb98",
-      "2099uc5",
       "209d1uy",
       "209hll3",
+      "2099uc5",
       "209qfo0",
       "209ras3",
       "209siak",
+      "25dkm9m",
       "209u2tb",
       "21su6up",
       "21svg6a",
@@ -1544,14 +1574,14 @@
       "21taq9u",
       "24pgtjb",
       "24plvzo",
-      "24pyg9r",
       "25dgag3",
       "25dhvfr",
-      "25dkm9m",
       "25eb932",
       "25hx2d8",
       "25hyqbk",
+      "93neueb",
       "25i49kh",
+      "93o0wbh",
       "25i50gs",
       "25i5x13",
       "25ia72x",
@@ -1565,20 +1595,22 @@
       "25llf9w",
       "26kkx7h",
       "26kmjl3",
+      "93n1h05",
       "26njcg5",
       "26nrl1u",
       "26nz34g",
       "26qq5ny",
       "26rs4sv",
+      "2h4kedw",
       "26ur1e7",
       "26ut66s",
-      "2h4kedw",
       "2h4o24x",
       "2h4yh3r",
       "2h56mlx",
       "2h6ukmg",
       "2h6z3sa",
       "2h6zn3j",
+      "2pzm4g0",
       "2h71t2b",
       "2h72y2l",
       "2h74hgi",
@@ -1606,7 +1638,8 @@
       "2lrr1t0",
       "2lrunsk",
       "2lrv909",
-      "2pzm4g0",
+      "knytb0u",
+      "knyqj88",
       "2q0qf8s",
       "2q1ckmx",
       "2q1kaza",
@@ -1619,12 +1652,9 @@
       "2q2dpim",
       "2q2gg39",
       "2q2nfjy",
-      "2q2q2wc",
-      "93n1h05",
-      "93neueb",
-      "93o0wbh"
+      "2q2q2wc"
     ],
-    1766933977571,
+    1791995796254,
     100,
     76
   ],

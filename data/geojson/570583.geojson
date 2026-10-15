@@ -3,20 +3,280 @@
     {
       "geometry": {
         "coordinates": [
-          134.603979,
-          40.263641
+          139.644564,
+          35.447557
         ],
         "type": "Point"
       },
       "properties": {
         "bangumi_id": 570583,
         "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "ep_cut": "",
-        "image_url": "",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/5f271e7b_1792009102543.webp",
         "location": "",
-        "point_id": "km0o5lx",
-        "point_name": "占位",
-        "remark": "非真实取景位置仅作占位。请在该作品第一个真实取景地建立后删除"
+        "point_id": "5f271e7b",
+        "point_name": "神奈川県庁",
+        "remark": "[ep11] 10:10 沿着海岸通り，在接近シルク博物館（丝绸博物馆）和横滨开港公园的位置取景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633946,
+          35.445249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/631c74ad_1792009114714.webp",
+        "location": "",
+        "point_id": "631c74ad",
+        "point_name": "伊势佐木町商业街大门 (已拆除)",
+        "remark": "[ep11] 10:18 剧中出现的大概是战后建造的第二代拱门，目前已经拆除，遗址上的是第五代大门。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641381,
+          35.447369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/d7ca5519_1792009124365.webp",
+        "location": "",
+        "point_id": "d7ca5519",
+        "point_name": "横滨市开港纪念会馆",
+        "remark": "[ep11] 10:27 取景位置正对着东侧的塔楼「杰克塔」。然而剧中取景按严格史实来讲有误，画面左侧的红白色建筑和白色铁塔属于1962落成的东京电力神奈川总部建筑，在剧中的时间还有几年才落成。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641902,
+          35.452794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/b43fa613_1792009133538.webp",
+        "location": "",
+        "point_id": "b43fa613",
+        "point_name": "横滨红砖仓库",
+        "remark": "[ep11] 10:38 原为保税仓库，现已转型为文化及商业设施。 在北侧偏西的位置取景。不过目前靠前的2号馆似乎较1号馆长出许多，在同一角度拍摄似乎无法拍出剧中两馆并列的状态。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.629774,
+          35.446426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/70700714_1792009152317.webp",
+        "location": "",
+        "point_id": "70700714",
+        "point_name": "映画館かもめ座",
+        "remark": "[ep11] 11:01 剧中的电影院「つばめ座」（燕子座）的原型，横滨宮川町2丁目一座已于2002年11月10日结业拆除的影院。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65023,
+          35.445156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/6135ae55_1792009164023.webp",
+        "location": "",
+        "point_id": "6135ae55",
+        "point_name": "山下公园",
+        "remark": "[ep11] 11:51 在中央的喷泉偏东南方的位置，朝西北的空中俯瞰取景"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649149,
+          35.445879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/a24356d8_1792009174146.webp",
+        "location": "",
+        "point_id": "a24356d8",
+        "point_name": "山下公园 / 横滨海洋塔",
+        "remark": "[ep11] 11:55 两人扮猪吃老虎的空地。在喷泉的西侧穿过遮阳处后，背景可见横滨标志性的海洋塔（横浜マリンタワー）。可以以旁边的遮阳处的柱子作为参照物。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.638902,
+          35.447352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/272eae51_1792008943417.webp",
+        "location": "",
+        "point_id": "272eae51",
+        "point_name": "横浜メディアビジネスセンター",
+        "remark": "[ep11] 14:23从这栋楼的楼顶位置朝东侧神奈川县厅望去，能获得接近于动画中俯瞰马戏团的视角（注意开放性未知）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.621458,
+          35.704931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/570583/54a53342_1792009182648.webp",
+        "location": "",
+        "point_id": "54a53342",
+        "point_name": "喫茶店 荻窪邪宗门 (已搬迁)",
+        "remark": "[ep11] 14:40 已经于2025年12月22日结业，搬迁至中野区野方站附近"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.776988,
+          35.649292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/points/570583/62120127_1792009189217.webp",
+        "location": "",
+        "point_id": "62120127",
+        "point_name": "晴海",
+        "remark": "[ep12] 11:59决赛举行的场地。实际上是东京中央区晴海地区，东京湾内的一片填海造陆区域。剧中是在海上俯瞰，远处可以看到隅田川的入海口和代表性的永代桥，"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.766805,
+          35.547755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/570583/17bfec30_1792009206350.webp",
+        "location": "",
+        "point_id": "17bfec30",
+        "point_name": "东京国际机场旧航站楼 (已拆除)",
+        "remark": "[ep12] 18:30nanami身后可见东京国际机场（羽田机场）第一代航站楼的控制塔，同时另一镜中可看到旧航站楼的露天观景台"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.57559,
+          31.614982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/570583/25d6b3fd_1792009223086.webp",
+        "location": "",
+        "point_id": "25d6b3fd",
+        "point_name": "樱岛",
+        "remark": "[ep13] 21:31樱岛火山，从鹿儿岛市偏北的位置取景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -5.338548,
+          36.158788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/570583/a0984e16_1792009232942.webp",
+        "location": "",
+        "point_id": "a0984e16",
+        "point_name": "直布罗陀巨岩",
+        "remark": "[ep13] 22:09位于直布罗陀，高达426米的巨岩。まりあ和生物爹在海外拍摄的照片中出现的场景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765044,
+          35.671735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "ep_cut": 13,
+        "image_url": "https://w.junreimap.com/images/points/570583/6a6c5950_1792009241300.webp",
+        "location": "",
+        "point_id": "6a6c5950",
+        "point_name": "银座和光百货",
+        "remark": "[ep13] 23:30结尾马戏团带着小女孩一起演三铳士的地方。严格来讲是银座一大片扭曲过的区域。除了左侧最标志性的和光百货大楼外，还有疑似 neta 松下电器 national 圆形+闪电广告牌，右侧的疑似森永地球仪等银座标志性建筑物"
       },
       "type": "Feature"
     }

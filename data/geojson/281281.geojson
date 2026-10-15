@@ -1496,7 +1496,7 @@
         "location": "第六监狱 - 大阪",
         "point_id": "2h7f8ap",
         "point_name": "よしもと道頓堀シアター",
-        "remark": "现在漫才剧场搬到了6f，其他几层是纯购物娱乐了"
+        "remark": "原型是2010年位于B1F的道頓堀ZAZA HOUSE，2024年搬到了新世界，现在叫新世界ZAZA。6F的よしもと道頓堀シアター是2025年新开的漫才剧场"
       },
       "type": "Feature"
     },
@@ -1516,7 +1516,7 @@
         "location": "第六监狱 - 大阪",
         "point_id": "2h7ghqq",
         "point_name": "新世界通天閣",
-        "remark": ""
+        "remark": "拍摄位置大概位于中央通和新世界南本通的交口，谷歌地图标有“新世界本通商店街”的位置。"
       },
       "type": "Feature"
     },
@@ -1736,7 +1736,7 @@
         "location": "第六监狱 - 大阪",
         "point_id": "2lrai3q",
         "point_name": "茶臼山",
-        "remark": "天王寺公园出口旁边有一条直接上茶臼山的路，就在这里拍。此外山只有26米可以顺便登了"
+        "remark": "天王寺公园出口旁边有一条直接上茶臼山的路，就在这里拍。山只有26米，可以顺便登了"
       },
       "type": "Feature"
     },
@@ -1877,6 +1877,46 @@
         "point_id": "2lrv909",
         "point_name": "あべのハルカス",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.513238,
+          34.646298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 281281,
+        "bangumi_title": "女神异闻录5 乱战：魅影攻手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/281281/points/knytb0u-1791995245030.webp",
+        "location": "第六监狱 - 大阪",
+        "point_id": "knytb0u",
+        "point_name": "ハルカス300エレベーター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.513298,
+          34.646343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 281281,
+        "bangumi_title": "女神异闻录5 乱战：魅影攻手",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2195/bangumi/281281/points/knyqj88-1791995466764.webp",
+        "location": "第六监狱 - 大阪",
+        "point_id": "knyqj88",
+        "point_name": "ハルカス300（展望台）",
+        "remark": "位于顶楼300米高的直升机平台。参观直升机平台需要额外付费，天气不好的时候可能不开"
       },
       "type": "Feature"
     },

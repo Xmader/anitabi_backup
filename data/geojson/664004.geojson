@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.758062,
+          35.665466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/664004/knx59g2_1791992427442.webp",
+        "location": "",
+        "point_id": "knx59g2",
+        "point_name": "新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758072,
+          35.665429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/664004/knx6dh8_1791992452776.webp",
+        "location": "",
+        "point_id": "knx6dh8",
+        "point_name": "新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.758075,
+          35.665409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/664004/knx6nmk_1791992470160.webp",
+        "location": "",
+        "point_id": "knx6nmk",
+        "point_name": "新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757748,
+          35.667079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/664004/knsahlp_1791992567348.webp",
+        "location": "",
+        "point_id": "knsahlp",
+        "point_name": "新橋駅 日比谷口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757545,
+          35.666915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/664004/kns5rvy_1791992584805.webp",
+        "location": "",
+        "point_id": "kns5rvy",
+        "point_name": "新橋駅",
+        "remark": "背景是南侧的「ニュー新橋ビル」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.75784,
+          35.66635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/664004/knx9ppb_1791992610319.webp",
+        "location": "",
+        "point_id": "knx9ppb",
+        "point_name": "新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.757814,
+          35.666322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/664004/knxa2w3_1791992624454.webp",
+        "location": "",
+        "point_id": "knxa2w3",
+        "point_name": "新橋駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768033,
+          35.68112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 664004,
+        "bangumi_title": "就像你一样",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "",
+        "point_id": "knsi5cd",
+        "point_name": "東京駅 16番線·17番線",
+        "remark": "东海道新干线的站台。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
