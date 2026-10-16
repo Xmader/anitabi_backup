@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.69751,
+          35.689368
+        ]
+      },
+      "properties": {
+        "point_id": "kpdi5d1",
+        "point_name": "西新宿一丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 1,
+        "remark": "左边的店是MINIMINI新宿店。https://maps.app.goo.gl/t8nzV7yuXnfcZSzb8",
+        "image_url": "https://w.junreimap.com/images/points/433578/kpdi5d1_1792080403915.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702437,
+          35.69378
+        ]
+      },
+      "properties": {
+        "point_id": "kpczoyl",
+        "point_name": "歌舞伎町一丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 1,
+        "remark": "根据左上角的「川香苑」和远处的托儿所、案内所可以确认为此处。\nhttps://maps.app.goo.gl/fUToacuwT3uHcNrr9",
+        "image_url": "https://w.junreimap.com/images/points/433578/kpczoyl_1792079547030.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701365,
+          35.694879
+        ]
+      },
+      "properties": {
+        "point_id": "koj66vw",
+        "point_name": "歌舞伎町一丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 3,
+        "remark": "细节有多处不同，但左侧的卡拉OK铁人、中间的LABI（漫画中为LAVI）、右侧的とん…都可对应。\nhttps://maps.app.goo.gl/u81QpXr9yiTUYk5y5",
+        "image_url": "https://w.junreimap.com/images/points/433578/koj66vw_1792078993989.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702386,
+          35.691223
+        ]
+      },
+      "properties": {
+        "point_id": "kojbnas",
+        "point_name": "新宿三丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 5,
+        "remark": "https://maps.app.goo.gl/UiW1SDZe4pMBvfBP9",
+        "image_url": "https://w.junreimap.com/images/points/433578/kojbnas_1792079567355.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701309,
+          35.694706
+        ]
+      },
+      "properties": {
+        "point_id": "kpepjzl",
+        "point_name": "歌舞伎町一丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 8,
+        "remark": "远处是LABI。\nhttps://maps.app.goo.gl/UKcpNCtJQuQ8MDWm9",
+        "image_url": "https://w.junreimap.com/images/points/433578/kpepjzl_1792082389961.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701349,
+          35.694833
+        ]
+      },
+      "properties": {
+        "point_id": "kpeqrh3",
+        "point_name": "歌舞伎町一丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 8,
+        "remark": "左侧有卡拉OK铁人歌舞伎町一番街店的招牌。",
+        "image_url": "https://w.junreimap.com/images/points/433578/kpeqrh3_1792082425910.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702529,
+          35.693974
+        ]
+      },
+      "properties": {
+        "point_id": "kpew8dz",
+        "point_name": "歌舞伎町一丁目",
+        "bangumi_id": 433578,
+        "bangumi_title": "羞于流露的表情",
+        "location": "",
+        "ep_cut": 8,
+        "remark": "左侧招牌是谭鸭血老火锅。https://maps.app.goo.gl/paP9e6Hpu7ZYFrBi8",
+        "image_url": "https://w.junreimap.com/images/points/433578/kpew8dz_1792082743717.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.644564,
           35.447557
         ]
