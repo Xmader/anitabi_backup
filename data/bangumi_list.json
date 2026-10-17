@@ -1,5 +1,131 @@
 [
   {
+    "id": 426239,
+    "title_cn": "青春猪头少年不会梦到红书包女孩",
+    "title_jp": "青春ブタ野郎はランドセルガールの夢を見ない",
+    "title_en": "Rascal Does Not Dream of a Knapsack Kid",
+    "region": "藤沢市",
+    "type": "剧场版",
+    "rating": 7.1,
+    "points_count": 77,
+    "center_lat": 35.410342,
+    "center_lng": 139.547083,
+    "cover_url": "https://w.junreimap.com/images/bangumi/426239.jpg",
+    "bgm_id": 10474
+  },
+  {
+    "id": 260680,
+    "title_cn": "青春猪头少年不会梦到怀梦美少女",
+    "title_jp": "青春ブタ野郎はゆめみる少女の夢を見ない",
+    "title_en": "Rascal Does Not Dream of a Dreaming Girl",
+    "region": "藤沢市",
+    "type": "剧场版",
+    "rating": 7.3,
+    "points_count": 122,
+    "center_lat": 35.128518,
+    "center_lng": 139.718875,
+    "cover_url": "https://w.junreimap.com/images/bangumi/260680.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 240038,
+    "title_cn": "青春猪头少年不会梦到兔女郎学姐",
+    "title_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "title_en": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "region": "藤沢市",
+    "type": "TV",
+    "rating": 7.4,
+    "points_count": 227,
+    "center_lat": 35.311623,
+    "center_lng": 139.492951,
+    "cover_url": "https://w.junreimap.com/images/bangumi/240038.jpg",
+    "bgm_id": 401
+  },
+  {
+    "id": 467930,
+    "title_cn": "青春猪头少年不会梦到圣诞服女郎",
+    "title_jp": "青春ブタ野郎はサンタクロースの夢を見ない",
+    "title_en": "Rascal Does Not Dream of Santa Claus",
+    "region": "藤沢市",
+    "type": "TV",
+    "rating": 6.6,
+    "points_count": 572,
+    "center_lat": 35.438326,
+    "center_lng": 139.679607,
+    "cover_url": "https://w.junreimap.com/images/bangumi/467930.jpg",
+    "bgm_id": 4477
+  },
+  {
+    "id": 291629,
+    "title_cn": "百合美食家！",
+    "title_jp": "すいとーと！",
+    "title_en": "",
+    "region": "福岡市",
+    "type": "漫画系列",
+    "rating": 6.7,
+    "points_count": 17,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/291629.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 402656,
+    "title_cn": "青春猪头少年不会梦到娇怜外出妹",
+    "title_jp": "青春ブタ野郎はおでかけシスターの夢を見ない",
+    "title_en": "",
+    "region": "镰仓市",
+    "type": "剧场版",
+    "rating": 6.5,
+    "points_count": 102,
+    "center_lat": 35.320212,
+    "center_lng": 139.495618,
+    "cover_url": "https://w.junreimap.com/images/bangumi/402656.jpg",
+    "bgm_id": 1076
+  },
+  {
+    "id": 132528,
+    "title_cn": "想要传达给你的爱恋",
+    "title_jp": "恋×シンアイ彼女",
+    "title_en": "",
+    "region": "神户市",
+    "type": "游戏",
+    "rating": 0,
+    "points_count": 14,
+    "center_lat": 34.641138,
+    "center_lng": 135.125819,
+    "cover_url": "https://w.junreimap.com/images/bangumi/132528.jpg",
+    "bgm_id": 9091
+  },
+  {
+    "id": 233,
+    "title_cn": "空之境界 第一章 俯瞰風景",
+    "title_jp": "空の境界 第一章 俯瞰風景",
+    "title_en": "the Garden of sinners: Thanatos",
+    "region": "东京都",
+    "type": "剧场版",
+    "rating": 8,
+    "points_count": 65,
+    "center_lat": 35.587821,
+    "center_lng": 139.684638,
+    "cover_url": "https://w.junreimap.com/images/bangumi/233.jpg",
+    "bgm_id": 1761
+  },
+  {
+    "id": 548156,
+    "title_cn": "青之箱 第二季",
+    "title_jp": "アオのハコ 第2期",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 10,
+    "points_count": 16,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 433578,
     "title_cn": "羞于流露的表情",
     "title_jp": "映しちゃダメな顔",
@@ -126,20 +252,6 @@
     "bgm_id": null
   },
   {
-    "id": 426239,
-    "title_cn": "青春笨蛋少年不做小学美少女的梦",
-    "title_jp": "青春ブタ野郎はランドセルガールの夢を見ない",
-    "title_en": "",
-    "region": "镰仓市",
-    "type": "剧场版",
-    "rating": 7.1,
-    "points_count": 60,
-    "center_lat": 35.410342,
-    "center_lng": 139.547083,
-    "cover_url": "https://w.junreimap.com/images/bangumi/426239.jpg",
-    "bgm_id": 10474
-  },
-  {
     "id": 621188,
     "title_cn": "BanG Dream! 交织的乐章",
     "title_jp": "BanG Dream! Our Notes",
@@ -166,20 +278,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 240038,
-    "title_cn": "青春笨蛋少年不做兔女郎学姐的梦",
-    "title_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
-    "title_en": "Rascal Does Not Dream of Bunny Girl Senpai",
-    "region": "镰仓市",
-    "type": "TV",
-    "rating": 7.4,
-    "points_count": 225,
-    "center_lat": 35.311623,
-    "center_lng": 139.492951,
-    "cover_url": "https://w.junreimap.com/images/bangumi/240038.jpg",
-    "bgm_id": 401
   },
   {
     "id": 88290,
@@ -306,20 +404,6 @@
     "center_lng": 130.786577,
     "cover_url": "https://w.junreimap.com/images/bangumi/143128_o7b04qd2c.jpg",
     "bgm_id": 1455
-  },
-  {
-    "id": 548156,
-    "title_cn": "青之箱 第二季",
-    "title_jp": "アオのハコ 第2期",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 10,
-    "points_count": 2,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
-    "bgm_id": null
   },
   {
     "id": 460306,
@@ -1624,20 +1708,6 @@
     "bgm_id": 15540
   },
   {
-    "id": 132528,
-    "title_cn": "想要传达给你的爱恋",
-    "title_jp": "恋×シンアイ彼女",
-    "title_en": "",
-    "region": "神户市",
-    "type": "游戏",
-    "rating": 0,
-    "points_count": 11,
-    "center_lat": 34.641138,
-    "center_lng": 135.125819,
-    "cover_url": "https://w.junreimap.com/images/bangumi/132528.jpg",
-    "bgm_id": 9091
-  },
-  {
     "id": 607340,
     "title_cn": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
     "title_jp": "透明な夜に駆ける君と、目に見えない恋をした。",
@@ -2238,20 +2308,6 @@
     "center_lng": 137.385433,
     "cover_url": "https://w.junreimap.com/images/bangumi/464376.jpg",
     "bgm_id": 66599
-  },
-  {
-    "id": 467930,
-    "title_cn": "青春笨蛋少年不做圣诞服女郎的梦",
-    "title_jp": "青春ブタ野郎はサンタクロースの夢を見ない",
-    "title_en": "Rascal Does Not Dream of Santa Claus",
-    "region": "藤沢市",
-    "type": "TV",
-    "rating": 6.6,
-    "points_count": 572,
-    "center_lat": 35.438326,
-    "center_lng": 139.679607,
-    "cover_url": "https://w.junreimap.com/images/bangumi/467930.jpg",
-    "bgm_id": 4477
   },
   {
     "id": 513345,
@@ -3231,20 +3287,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/5d/5a/564289_b6sb7.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 260680,
-    "title_cn": "青春笨蛋少年不做怀梦美少女的梦",
-    "title_jp": "青春ブタ野郎はゆめみる少女の夢を見ない",
-    "title_en": "",
-    "region": "藤泽市",
-    "type": "剧场版",
-    "rating": 7.3,
-    "points_count": 122,
-    "center_lat": 35.128518,
-    "center_lng": 139.718875,
-    "cover_url": "https://w.junreimap.com/images/bangumi/260680.jpg",
     "bgm_id": null
   },
   {
@@ -10192,20 +10234,6 @@
     "bgm_id": null
   },
   {
-    "id": 402656,
-    "title_cn": "青春猪头少年不会梦到娇怜外出妹",
-    "title_jp": "青春ブタ野郎はおでかけシスターの夢を見ない",
-    "title_en": "",
-    "region": "镰仓市",
-    "type": "剧场版",
-    "rating": 6.5,
-    "points_count": 102,
-    "center_lat": 35.320212,
-    "center_lng": 139.495618,
-    "cover_url": "https://w.junreimap.com/images/bangumi/402656.jpg",
-    "bgm_id": 1076
-  },
-  {
     "id": 210272,
     "title_cn": "LoveLive! Sunshine!! 二期",
     "title_jp": "ラブライブ! サンシャイン!! 二期",
@@ -11016,20 +11044,6 @@
     "center_lng": 139.65683,
     "cover_url": "https://w.junreimap.com/images/bangumi/46828.jpg",
     "bgm_id": 3163
-  },
-  {
-    "id": 233,
-    "title_cn": "空之境界 第一章 俯瞰風景",
-    "title_jp": "空の境界 第一章 俯瞰風景",
-    "title_en": "the Garden of sinners: Thanatos",
-    "region": "东京都",
-    "type": "剧场版",
-    "rating": 8,
-    "points_count": 65,
-    "center_lat": 35.587821,
-    "center_lng": 139.684638,
-    "cover_url": "https://w.junreimap.com/images/bangumi/233.jpg",
-    "bgm_id": 1761
   },
   {
     "id": 266070,

@@ -219,6 +219,66 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.255695,
+          34.727294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132528,
+        "bangumi_title": "想要传达给你的爱恋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132528/points/kkr37xr-1791800845325.webp",
+        "location": "",
+        "point_id": "kkr37xr",
+        "point_name": "神愛子供ホーム",
+        "remark": "与游戏CG画面差别较大，路更窄且需要镜像"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.213748,
+          34.717745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132528,
+        "bangumi_title": "想要传达给你的爱恋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132528/points/kkral40-1791801262855.webp",
+        "location": "",
+        "point_id": "kkral40",
+        "point_name": "兵庫県立神戸高等学校",
+        "remark": "学校的原型，除了校门的柱子以外其他地方都不像，设定集中有提到"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.209606,
+          34.713719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 132528,
+        "bangumi_title": "想要传达给你的爱恋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/132528/points/kkrmysr-1791801943239.webp",
+        "location": "",
+        "point_id": "kkrmysr",
+        "point_name": "喫茶ギャラリーラルゴ",
+        "remark": "小鞠家的咖啡馆Monetto的取景地，只出现于设定集，外景没有被用于游戏中。"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

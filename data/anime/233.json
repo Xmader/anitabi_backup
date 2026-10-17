@@ -236,10 +236,10 @@
       "zoom": 40
     },
     {
-      "ep_cut": "",
+      "ep_cut": 2,
       "id": "kpx6okjki",
-      "image_path": "",
-      "image_url": "",
+      "image_path": "/images/user/0/bangumi/233/points/kpx6okjki-1791743010830.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/233/points/kpx6okjki-1791743010830.webp",
       "lat": 35.732357,
       "lng": 139.709321,
       "location": "",
@@ -247,7 +247,7 @@
       "remark": "第二章 殺人考察（前）",
       "status_code": 0,
       "user_id": 269,
-      "zoom": 62
+      "zoom": 117
     },
     {
       "ep_cut": "",
@@ -700,8 +700,8 @@
     {
       "ep_cut": "",
       "id": "kpx6okpb0",
-      "image_path": "",
-      "image_url": "",
+      "image_path": "/images/user/0/bangumi/233/points/kpx6okpb0-1791740569049.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/233/points/kpx6okpb0-1791740569049.webp",
       "lat": 35.712624,
       "lng": 139.665663,
       "location": "",
@@ -927,7 +927,7 @@
   "region": "东京都",
   "short_name": "空之境界 俯瞰风景",
   "theme_meta": [
-    "/images/ptheme/233_100_76.webp?v=hfbkm",
+    "/images/ptheme/233_100_76.webp?v=hs6sm",
     [
       "f1dtpl0y1",
       "kpx6okoho",
@@ -945,6 +945,7 @@
       "kpx6okih2",
       "kpx6oki5q",
       "kpx6okipk",
+      "kpx6okjki",
       "kpx6okj38",
       "kpx6okjbs",
       "kpx6okjci",
@@ -976,6 +977,7 @@
       "kpx6okotc",
       "kpx6okpkz",
       "kpx6okpo7",
+      "kpx6okpb0",
       "kpx6okqdb",
       "kpx6okq8k",
       "kpx6okqi8",
@@ -992,7 +994,7 @@
       "45srpft",
       "45sw427"
     ],
-    1756098641442,
+    1792118778811,
     100,
     76
   ],

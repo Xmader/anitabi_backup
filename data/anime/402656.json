@@ -22,7 +22,7 @@
       "name": "​湘南​海岸​公園​サーフ​ビレッジ",
       "remark": "",
       "status_code": 1000,
-      "user_id": 3161,
+      "user_id": 1815,
       "zoom": 192
     },
     {
@@ -414,7 +414,7 @@
       "name": "シティ​コート​藤沢",
       "remark": "",
       "status_code": 1000,
-      "user_id": 209,
+      "user_id": 192,
       "zoom": 164
     },
     {
@@ -723,21 +723,21 @@
       "remark": "",
       "status_code": 2187,
       "user_id": 0,
-      "zoom": 0
+      "zoom": 10
     },
     {
       "ep_cut": "",
       "id": "4zgrzxm",
       "image_path": "/images/user/2187/bangumi/402656/points/4zgrzxm-1757861981507.jpg",
       "image_url": "https://w.junreimap.com/images/user/2187/bangumi/402656/points/4zgrzxm-1757861981507.jpg",
-      "lat": 35.691363,
-      "lng": 139.699565,
+      "lat": 35.690326,
+      "lng": 139.699602,
       "location": "",
       "name": "小田急​小田原​線​新宿​駅",
       "remark": "",
       "status_code": 2187,
       "user_id": 0,
-      "zoom": 10
+      "zoom": 28
     },
     {
       "ep_cut": "",
@@ -1115,7 +1115,7 @@
       "remark": "",
       "status_code": 2187,
       "user_id": 58,
-      "zoom": 37
+      "zoom": 19
     },
     {
       "ep_cut": "",
@@ -1143,7 +1143,7 @@
       "remark": "",
       "status_code": 2187,
       "user_id": 0,
-      "zoom": 31
+      "zoom": 43
     },
     {
       "ep_cut": "",
@@ -1156,7 +1156,7 @@
       "name": "辻堂駅北口連絡通路",
       "remark": "",
       "status_code": 2187,
-      "user_id": 43,
+      "user_id": 15,
       "zoom": 2
     },
     {
@@ -1352,7 +1352,7 @@
       "name": "テラスモール湘南",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
+      "user_id": 1,
       "zoom": 18
     },
     {
@@ -1366,7 +1366,7 @@
       "name": "辻堂駅北口連絡通路",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
+      "user_id": 15,
       "zoom": 17
     },
     {
@@ -1380,22 +1380,22 @@
       "name": "辻堂駅南口",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
-      "zoom": 9
+      "user_id": 62,
+      "zoom": 5
     },
     {
       "ep_cut": "",
       "id": "5jgn4qv",
       "image_path": "/images/user/2187/bangumi/402656/points/5jgn4qv-1759071075972.jpg",
       "image_url": "https://w.junreimap.com/images/user/2187/bangumi/402656/points/5jgn4qv-1759071075972.jpg",
-      "lat": 35.336602,
-      "lng": 139.447188,
+      "lat": 35.337646,
+      "lng": 139.44763,
       "location": "",
-      "name": "辻堂駅南口",
+      "name": "辻堂駅北口",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
-      "zoom": 65
+      "user_id": 31,
+      "zoom": 13
     },
     {
       "ep_cut": "",
@@ -1408,7 +1408,7 @@
       "name": "浜見山交番前",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
+      "user_id": 2,
       "zoom": 2
     },
     {
@@ -1422,7 +1422,7 @@
       "name": "浜見山交番前",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
+      "user_id": 2,
       "zoom": 1966
     },
     {
@@ -1436,7 +1436,7 @@
       "name": "御所ヶ谷橋 西眺",
       "remark": "",
       "status_code": 2187,
-      "user_id": null,
+      "user_id": 132,
       "zoom": 3
     }
   ],
@@ -1445,7 +1445,7 @@
   "region": "镰仓市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/402656_100_76.webp?v=hgdsz",
+    "/images/ptheme/402656_100_76.webp?v=hs6so",
     [
       "ltnv0w3mk",
       "ltnyz4vtj",
@@ -1541,9 +1541,16 @@
       "52bsg2h",
       "52btcxy",
       "52bxx7f",
-      "52byhfw"
+      "52byhfw",
+      "5jgl0ow",
+      "5jgll0f",
+      "5jgmo5k",
+      "5jgn4qv",
+      "5jgoxat",
+      "5jgpkew",
+      "5jha67l"
     ],
-    1759071577148,
+    1792118899439,
     100,
     76
   ],

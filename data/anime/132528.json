@@ -36,7 +36,7 @@
       "name": "京都水族館",
       "remark": "建筑主体原型\n坐标不对，我说怎么对不上，差的有点多",
       "status_code": 2183,
-      "user_id": 58990,
+      "user_id": 58899,
       "zoom": 20
     },
     {
@@ -64,8 +64,8 @@
       "name": "灘丸山公園",
       "remark": "现实中椅子已经被拆除并重建",
       "status_code": 0,
-      "user_id": 3741,
-      "zoom": 1545
+      "user_id": 916,
+      "zoom": 917
     },
     {
       "ep_cut": "",
@@ -78,7 +78,7 @@
       "name": "御影",
       "remark": "",
       "status_code": 0,
-      "user_id": 4230,
+      "user_id": 1404,
       "zoom": 559
     },
     {
@@ -162,16 +162,58 @@
       "name": "豊郷小学校旧校舎群",
       "remark": "",
       "status_code": 2183,
-      "user_id": 58990,
+      "user_id": 58899,
       "zoom": 2
+    },
+    {
+      "ep_cut": "",
+      "id": "kkr37xr",
+      "image_path": "/images/user/0/bangumi/132528/points/kkr37xr-1791800845325.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/132528/points/kkr37xr-1791800845325.webp",
+      "lat": 34.727294,
+      "lng": 135.255695,
+      "location": "",
+      "name": "神愛子供ホーム",
+      "remark": "与游戏CG画面差别较大，路更窄且需要镜像",
+      "status_code": 0,
+      "user_id": 1404,
+      "zoom": 133
+    },
+    {
+      "ep_cut": "",
+      "id": "kkral40",
+      "image_path": "/images/user/0/bangumi/132528/points/kkral40-1791801262855.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/132528/points/kkral40-1791801262855.webp",
+      "lat": 34.717745,
+      "lng": 135.213748,
+      "location": "",
+      "name": "兵庫県立神戸高等学校",
+      "remark": "学校的原型，除了校门的柱子以外其他地方都不像，设定集中有提到",
+      "status_code": 0,
+      "user_id": 641,
+      "zoom": 642
+    },
+    {
+      "ep_cut": "",
+      "id": "kkrmysr",
+      "image_path": "/images/user/0/bangumi/132528/points/kkrmysr-1791801943239.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/132528/points/kkrmysr-1791801943239.webp",
+      "lat": 34.713719,
+      "lng": 135.209606,
+      "location": "",
+      "name": "喫茶ギャラリーラルゴ",
+      "remark": "小鞠家的咖啡馆Monetto的取景地，只出现于设定集，外景没有被用于游戏中。",
+      "status_code": 0,
+      "user_id": 641,
+      "zoom": 1711
     }
   ],
-  "points_count": 11,
+  "points_count": 14,
   "rating": 0,
   "region": "神户市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/132528_100_76.webp?v=hji2e",
+    "/images/ptheme/132528_100_76.webp?v=hs6sm",
     [
       "nbpu13t8k",
       "7beelo5",
@@ -183,9 +225,12 @@
       "ni16fjf18",
       "ni1aj9huw",
       "ni1c5o4ee",
-      "7belzzc"
+      "7belzzc",
+      "kkr37xr",
+      "kkral40",
+      "kkrmysr"
     ],
-    1767801025701,
+    1792118798560,
     100,
     76
   ],

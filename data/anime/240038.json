@@ -1437,7 +1437,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 5,
-      "zoom": 6
+      "zoom": 5
     },
     {
       "ep_cut": 2,
@@ -2193,7 +2193,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 106,
-      "zoom": 77
+      "zoom": 4
     },
     {
       "ep_cut": 9,
@@ -3160,14 +3160,42 @@
       "status_code": 2187,
       "user_id": 44,
       "zoom": 28
+    },
+    {
+      "ep_cut": 12,
+      "id": "knuas34",
+      "image_path": "/images/user/2187/bangumi/240038/points/knuas34-1791987661332.webp",
+      "image_url": "https://w.junreimap.com/images/user/2187/bangumi/240038/points/knuas34-1791987661332.webp",
+      "lat": 35.472215,
+      "lng": 139.60039,
+      "location": "",
+      "name": "横浜市立市民病院（已搬迁）",
+      "remark": "旧横浜市立市民病院，已于2023年永久拆除搬迁",
+      "status_code": 2187,
+      "user_id": 2355,
+      "zoom": 948
+    },
+    {
+      "ep_cut": 5,
+      "id": "kmhb32i",
+      "image_path": "/images/user/2187/bangumi/240038/points/kmhb32i-1791905357824.webp",
+      "image_url": "https://w.junreimap.com/images/user/2187/bangumi/240038/points/kmhb32i-1791905357824.webp",
+      "lat": 35.337169,
+      "lng": 139.487288,
+      "location": "",
+      "name": "江ノ島電鉄線藤沢駅",
+      "remark": "",
+      "status_code": 2187,
+      "user_id": 2,
+      "zoom": 4
     }
   ],
-  "points_count": 225,
+  "points_count": 227,
   "rating": 7.4,
-  "region": "镰仓市",
-  "short_name": "青春猪头",
+  "region": "藤沢市",
+  "short_name": "青猪",
   "theme_meta": [
-    "/images/ptheme/240038_100_76.webp?v=hrz0t",
+    "/images/ptheme/240038_100_76.webp?v=hs6sn",
     [
       "4z8llj896",
       "4z8mcacbu",
@@ -3393,13 +3421,15 @@
       "2pzvfs2",
       "3tyv0sb",
       "4zhlohs",
-      "kdhv137"
+      "kdhv137",
+      "knuas34",
+      "kmhb32i"
     ],
-    1791514415452,
+    1792118868395,
     100,
     76
   ],
-  "title_cn": "青春笨蛋少年不做兔女郎学姐的梦",
+  "title_cn": "青春猪头少年不会梦到兔女郎学姐",
   "title_en": "Rascal Does Not Dream of Bunny Girl Senpai",
   "title_jp": "青春ブタ野郎はバニーガール先輩の夢を見ない",
   "type": "TV"
