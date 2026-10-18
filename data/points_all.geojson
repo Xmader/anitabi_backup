@@ -6,6 +6,3426 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.954356,
+          34.236468
+        ]
+      },
+      "properties": {
+        "point_id": "ne21nm",
+        "point_name": "USS North Carolina Battleship Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "北卡罗来纳原型舰，现作为博物馆展出",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/ne21nm-1748424824399.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.162976,
+          41.706742
+        ]
+      },
+      "properties": {
+        "point_id": "ne8u36",
+        "point_name": "USS Massachusetts (BB-59)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "马萨诸塞原型舰，现作为博物馆展出",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/ne8u36-1748425051086.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01442,
+          30.681627
+        ]
+      },
+      "properties": {
+        "point_id": "necvut",
+        "point_name": "Battleship USS Alabama",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "阿拉巴马原型，现作为博物馆展出",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/necvut-1748425272641.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.133067,
+          39.939304
+        ]
+      },
+      "properties": {
+        "point_id": "neg2o0",
+        "point_name": "USS New Jersey",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "花园 (新泽西) 原型舰，现作为博物馆展出",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/neg2o0-1748425371057.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90794,
+          32.789372
+        ]
+      },
+      "properties": {
+        "point_id": "q8e6x7",
+        "point_name": "USS Laffey (DD-724)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "拉菲II原型舰，现作为博物馆在约克城号航空母舰旁展出\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8e6x7-1748596588382.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.009451,
+          41.008394
+        ]
+      },
+      "properties": {
+        "point_id": "q8o9ij",
+        "point_name": "USS Enterprise CV-6 Nameplate",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "企业号上拆解下的铭牌",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8o9ij-1748597065765.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.388767,
+          27.815044
+        ]
+      },
+      "properties": {
+        "point_id": "q8ptd1",
+        "point_name": "USS Lexington (CV-16)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "列克星敦II原型舰，现作为博物馆展出\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8ptd1-1779778502069.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.950147,
+          21.364785
+        ]
+      },
+      "properties": {
+        "point_id": "q8rh8s",
+        "point_name": "USS Arizona Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "亚利桑那原型舰，在珍珠港事件沉没后，在搁浅的遗骸上方建立了纪念馆\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8rh8s-1748597204942.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.000857,
+          40.764668
+        ]
+      },
+      "properties": {
+        "point_id": "q8t1ie",
+        "point_name": "USS Intrepid (CV-11)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "无畏原型舰，现作为博物馆展出\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8t1ie-1748597290411.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.483524,
+          38.981727
+        ]
+      },
+      "properties": {
+        "point_id": "q8ufwy",
+        "point_name": "USS Enterprise CV-6 Ship's Bell",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "企业号舰钟，现位于美国海军学院内的庭院陈列",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8ufwy-1748597342570.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.88089,
+          42.877582
+        ]
+      },
+      "properties": {
+        "point_id": "q8vx3c",
+        "point_name": "Buffalo Naval Park",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "现存唯一的克利夫兰级轻巡洋舰USS Little Rock (CL-92)所在地，院内还有弗莱彻级驱逐舰 USS The Sullivans 和猫鲨级潜艇 USS Croaker\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8vx3c-1748597450421.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9085,
+          32.790461
+        ]
+      },
+      "properties": {
+        "point_id": "q8yltz",
+        "point_name": "USS Yorktown (CV-10)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "约克城II原型舰，现作为博物馆展出",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8yltz-1748597539514.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.303065,
+          37.773017
+        ]
+      },
+      "properties": {
+        "point_id": "q9lmmh",
+        "point_name": "USS Hornet",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "大黄蜂II原型舰，现作为博物馆展出\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9lmmh-1748598607788.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.994515,
+          38.874962
+        ]
+      },
+      "properties": {
+        "point_id": "q99qhx",
+        "point_name": "Admiral Leutze Park",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "企业号船锚陈列于其中\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q99qhx-1748598054014.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.109819,
+          50.800799
+        ]
+      },
+      "properties": {
+        "point_id": "q9mwc2",
+        "point_name": "National Museum of the Royal Navy",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "反击号(34)、胡德号、威尔士亲王号(53) 的舰钟在其中展示\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9mwc2-1748598682289.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.855337,
+          43.27519
+        ]
+      },
+      "properties": {
+        "point_id": "q9r2qb",
+        "point_name": "HMCS Haida",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "现存的唯一一艘部族级驱逐舰\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9r2qb-1748598862164.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.958407,
+          56.461648
+        ]
+      },
+      "properties": {
+        "point_id": "q9s7cc",
+        "point_name": "HMS Unicorn (1824)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "为游戏中的独角兽号航空母舰(I72)的前一同名舰，而I72的舰钟陈列于其中\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9s7cc-1748598912105.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201732,
+          55.948805
+        ]
+      },
+      "properties": {
+        "point_id": "q9tsen",
+        "point_name": "National War Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "爱丁堡号舰钟陈列于其中\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9tsen-1748598990169.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.902608,
+          54.613849
+        ]
+      },
+      "properties": {
+        "point_id": "q9v2jz",
+        "point_name": "HMS Caroline (1914)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "现存的C级轻巡洋舰，为游戏中库拉索、杓鹬二舰的前型舰",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9v2jz-1748599047134.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19084,
+          55.949467
+        ]
+      },
+      "properties": {
+        "point_id": "q9xrs1",
+        "point_name": "St Giles’ Cathedral",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "豪号战列舰(32)的舰钟和一面旗帜陈列于其中\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9xrs1-1748599171316.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08133,
+          51.506688
+        ]
+      },
+      "properties": {
+        "point_id": "q9zgs6",
+        "point_name": "HMS Belfast",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "贝尔法斯特的原型舰，现位于泰晤士河作为帝国战争博物馆的一部分展出\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9zgs6-1748599251907.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.582776,
+          41.790784
+        ]
+      },
+      "properties": {
+        "point_id": "q93561",
+        "point_name": "Griffin Museum of Science and Industry",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "内展有U-505号潜艇，现存的IXC型潜艇\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q93561-1748597767137.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.228857,
+          54.412446
+        ]
+      },
+      "properties": {
+        "point_id": "q95fga",
+        "point_name": "Technisches Museum U 995",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "现存唯一的VIIC型潜艇，同时位于欧根亲王的螺旋桨旁\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q95fga-1748597901779.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.009394,
+          53.395159
+        ]
+      },
+      "properties": {
+        "point_id": "q9b1h8",
+        "point_name": "German submarine U-534",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "U-534号潜艇，现存的IXC/40型潜艇\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9b1h8-1748598114051.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.431651,
+          47.072156
+        ]
+      },
+      "properties": {
+        "point_id": "qa0z2y",
+        "point_name": "Krankenhaus der Barmherzigen Brüder Graz, Standort Marschallgasse",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "欧根亲王号重巡洋舰的其中一门，原属于特格特霍夫号战列舰赠送的舰钟现陈列于其中\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa0z2y-1748599339887.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.682878,
+          8.752581
+        ]
+      },
+      "properties": {
+        "point_id": "qa5cvc",
+        "point_name": "Wreck of German Heavy Cruiser Prinz Eugen",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "欧根亲王原型舰的沉船，于战后核爆试验沉没，现搁浅于岸边",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa5cvc-1748599579855.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.230771,
+          54.412167
+        ]
+      },
+      "properties": {
+        "point_id": "qa8rjy",
+        "point_name": "Marine-Ehrenmal",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "欧根亲王号重巡洋舰的螺旋桨，陈列于德国基尔莱博海军纪念馆旁的草坪\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa8rjy-1748599732162.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674349,
+          35.285131
+        ]
+      },
+      "properties": {
+        "point_id": "qagb48",
+        "point_name": "記念艦みかさ",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "三笠原型舰，现作为博物馆展出\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qagb48-1748600046021.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.555919,
+          34.241033
+        ]
+      },
+      "properties": {
+        "point_id": "qaf0p1",
+        "point_name": "大和ミュージアム（呉市海事歴史科学館）",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "陈列了陆奥号战列舰的一门41厘米主炮管、主锚、螺旋桨、主舵，金刚号战列巡洋舰一座于改装时拆卸下的锅炉，长门号战列舰的旗帜，以及大量大和号战列舰相关展品\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qaf0p1-1748599981315.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.656498,
+          35.284737
+        ]
+      },
+      "properties": {
+        "point_id": "q916gf",
+        "point_name": "戦艦陸奥 第四主砲 砲身",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "陆奥号战列舰的第四主炮塔的一门41厘米主炮管，陈列于横须贺的维尔尼公园中",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q916gf-1748597664050.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.472569,
+          34.242672
+        ]
+      },
+      "properties": {
+        "point_id": "qa2rul",
+        "point_name": "戦艦陸奥主砲塔",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "陆奥号战列舰的第四主炮塔，但非打捞部件，而是改装翻新时更换下来的部件\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa2rul-1748599408537.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.07016,
+          36.487945
+        ]
+      },
+      "properties": {
+        "point_id": "qaaxwk",
+        "point_name": "麻績村立聖博物館",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "陆奥号战列舰的一门41厘米主炮管、锅炉蒸汽管、锚链、舷窗等部件在其中展示\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qaaxwk-1748599808482.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.437507,
+          33.950752
+        ]
+      },
+      "properties": {
+        "point_id": "qacapa",
+        "point_name": "戦艦陸奥記念館",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "陆奥号战列舰的主锚、锚链、起子、两门14厘米副炮、船首部分等部件在其中展示\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qacapa-1748599853323.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.472532,
+          34.245955
+        ]
+      },
+      "properties": {
+        "point_id": "qa40bd",
+        "point_name": "駆逐艦雪風主錨",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "雪风号驱逐舰主锚，现陈列于江田岛海自科术学校中，可游览参观\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa40bd-1748599464654.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.822341,
+          33.930478
+        ]
+      },
+      "properties": {
+        "point_id": "q97ycm",
+        "point_name": "軍艦防波堤(響灘沈艦護岸)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "柳号、凉月号、冬月号三艘驱逐舰舰体作为防波堤浸于水中，但凉月、冬月二舰现已被混凝土覆盖\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q97ycm-1748597977420.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.749717,
+          42.642524
+        ]
+      },
+      "properties": {
+        "point_id": "t35eqi",
+        "point_name": "USS Slater (DE-766)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "埃尔德里奇同级，尚存的坎农级护卫驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t35eqi-1748769185427.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.174619,
+          -22.900201
+        ]
+      },
+      "properties": {
+        "point_id": "t38ih4",
+        "point_name": "Espaço Cultural da Marinha",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "馆内有Bauru (D-18, U-28, Be-4)护卫驱逐舰，埃尔德里奇同级，尚存的坎农级护卫驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t38ih4-1748769335934.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.779449,
+          29.334049
+        ]
+      },
+      "properties": {
+        "point_id": "t3c1na",
+        "point_name": "USS Stewart",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "哈曼II同级，埃德索尔级护卫驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3c1na-1748769478166.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.880456,
+          42.87757
+        ]
+      },
+      "properties": {
+        "point_id": "t3e0pb",
+        "point_name": "USS The Sullivans (DD-537)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "弗莱彻级驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3e0pb-1748769604020.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.191487,
+          30.444275
+        ]
+      },
+      "properties": {
+        "point_id": "t3gcc3",
+        "point_name": "USS Kidd (DD-661)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "弗莱彻级驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3gcc3-1748769681669.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054431,
+          42.372198
+        ]
+      },
+      "properties": {
+        "point_id": "t3hicv",
+        "point_name": "USS Cassin Young (DD-793)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "弗莱彻级驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3hicv-1748769738062.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.934437,
+          40.631664
+        ]
+      },
+      "properties": {
+        "point_id": "t3k9u4",
+        "point_name": "Πλωτό Ναυτικό Μουσείο Α/Τ Βέλους",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "Velos (D16) - 前USS Charrette (DD-581)，弗莱彻级驱逐舰博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3k9u4-1748769907748.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.24005,
+          43.665756
+        ]
+      },
+      "properties": {
+        "point_id": "t3mbpu",
+        "point_name": "Mast of the USS Portland",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "波特兰号的三角桅杆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3mbpu-1748769961633.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.310387,
+          35.794385
+        ]
+      },
+      "properties": {
+        "point_id": "t3oet7",
+        "point_name": "USS Oklahoma Mast - Muskogee War Memorial Park",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "俄克拉荷马打捞上的一节桅杆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3oet7-1748770112429.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.31091,
+          35.794465
+        ]
+      },
+      "properties": {
+        "point_id": "t3qgip",
+        "point_name": "USS Batfish - Muskogee War Memorial Park",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "射水鱼同级舰，巴劳级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3qgip-1748770190236.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.513754,
+          35.481601
+        ]
+      },
+      "properties": {
+        "point_id": "t3spjd",
+        "point_name": "USS Oklahoma Anchor Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "俄克拉荷马号战列舰的船锚和纪念碑",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3spjd-1748770268804.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.475409,
+          35.52336
+        ]
+      },
+      "properties": {
+        "point_id": "t3uaen",
+        "point_name": "Science Museum Oklahoma",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "俄克拉荷马号的舰钟、螺旋桨",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3uaen-1748770334124.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859296,
+          40.80588
+        ]
+      },
+      "properties": {
+        "point_id": "t3wmmh",
+        "point_name": "Wagner Building - The Pennsylvania State University",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "入口有宾夕法尼亚号的舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3wmmh-1748770457671.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.796714,
+          40.780592
+        ]
+      },
+      "properties": {
+        "point_id": "t3yn7k",
+        "point_name": "BB-38 Guns",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "宾夕法尼亚号的两门14英寸主炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3yn7k-1748770546965.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.53147,
+          36.407745
+        ]
+      },
+      "properties": {
+        "point_id": "t40d0e",
+        "point_name": "Museum of Scott County",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "田纳西号战列舰(BB-43) 舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t40d0e-1748770629420.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.491759,
+          38.576208
+        ]
+      },
+      "properties": {
+        "point_id": "t42g0q",
+        "point_name": "USS California (BB-44) Ship Bell",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "加利福尼亚号舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t42g0q-1748770748114.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.977673,
+          46.654528
+        ]
+      },
+      "properties": {
+        "point_id": "t44jyc",
+        "point_name": "Veteran’s Memorial Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "科罗拉多号(BB-45)的一门127mm副炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t44jyc-1748770818060.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.271556,
+          40.006792
+        ]
+      },
+      "properties": {
+        "point_id": "t46o7p",
+        "point_name": "University Memorial Center - University of Colorado Boulder",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "科罗拉多号(BB-45)的舰钟、舵轮、以及一些其他小物件",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t46o7p-1748770919680.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.490518,
+          38.978459
+        ]
+      },
+      "properties": {
+        "point_id": "t48w10",
+        "point_name": "USS Maryland (BB-46) Memorial & Bell",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "马里兰号的舰钟，在拆解后被嵌入纪念碑中，现立于马里兰州安纳波利斯议会大厦外的草坪上",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t48w10-1748771034537.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954127,
+          39.635553
+        ]
+      },
+      "properties": {
+        "point_id": "t4bica",
+        "point_name": "USS West Virginia (BB-48) Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "西弗吉尼亚号 (BB-48) 的桅杆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4bica-1748771166710.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.614049,
+          38.337767
+        ]
+      },
+      "properties": {
+        "point_id": "t4dlxk",
+        "point_name": "West Virginia State Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "西弗吉尼亚号 (BB-48) 的舰钟所在地",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4dlxk-1748771237415.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.53023,
+          39.272319
+        ]
+      },
+      "properties": {
+        "point_id": "t4fgox",
+        "point_name": "Veterans' Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "西弗吉尼亚号 (BB-48) 的一门防空火炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4fgox-1748771330085.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.295065,
+          36.847701
+        ]
+      },
+      "properties": {
+        "point_id": "t4hi4q",
+        "point_name": "Hampton Roads Naval Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "西弗吉尼亚号 (BB-48) 的舵轮、罗经柜",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4hi4q-1748771421879.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.762934,
+          43.543387
+        ]
+      },
+      "properties": {
+        "point_id": "t4joz8",
+        "point_name": "USS South Dakota (BB-57) Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "南达科他号的纪念馆，存有一门406mm主炮炮管，一只船锚，一扇螺旋桨，以及舰钟等大量文物。",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4joz8-1748771559889.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.192895,
+          39.809958
+        ]
+      },
+      "properties": {
+        "point_id": "t4m9qc",
+        "point_name": "Heslar Naval Armory",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "印第安纳号 (BB-58) 的舰钟，开放性未知",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4m9qc-1748771651928.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.124916,
+          41.116249
+        ]
+      },
+      "properties": {
+        "point_id": "t4pgg8",
+        "point_name": "Allen County War Memorial Coliseum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "印第安纳号战列舰 (BB-58) 的船锚",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4pgg8-1748771786134.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.527325,
+          39.180828
+        ]
+      },
+      "properties": {
+        "point_id": "t4qzot",
+        "point_name": "USS Indiana (BB-58)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "印第安纳号 (BB-58) 的船头、桅杆、两门防空火炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4qzot-1748771878662.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.498196,
+          11.581167
+        ]
+      },
+      "properties": {
+        "point_id": "t4tgup",
+        "point_name": "USS Saratoga (CV-3)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "萨拉托加原型舰，航母残骸顶部距离水面仅约15米，是世界上仅有三艘可供休闲潜水员进入的航母残骸之一",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4tgup-1748772011920.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.615161,
+          43.026127
+        ]
+      },
+      "properties": {
+        "point_id": "t4wf7g",
+        "point_name": "Gerald B.H. Solomon Saratoga National Cemetery",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "萨拉托加号 (CV-3) 舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4wf7g-1748772132532.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69163,
+          41.510059
+        ]
+      },
+      "properties": {
+        "point_id": "t4ydd8",
+        "point_name": "USS Cod Submarine Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4ydd8-1748772273251.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.016636,
+          30.681195
+        ]
+      },
+      "properties": {
+        "point_id": "t50klm",
+        "point_name": "USS Drum (SS-228)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t50klm-1748772309583.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.332704,
+          43.230102
+        ]
+      },
+      "properties": {
+        "point_id": "t51oq2",
+        "point_name": "USS Silversides (SS-236)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t51oq2-1748772362424.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.778885,
+          29.334191
+        ]
+      },
+      "properties": {
+        "point_id": "t53gho",
+        "point_name": "USS Cavalla (SS-244)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t53gho-1748772438539.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.655637,
+          44.092475
+        ]
+      },
+      "properties": {
+        "point_id": "t54fme",
+        "point_name": "USS Cobia (SS-245)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t54fme-1748772487606.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.881597,
+          42.878143
+        ]
+      },
+      "properties": {
+        "point_id": "t55do1",
+        "point_name": "USS Croaker (SS-246)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t55do1-1748772529470.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.939453,
+          21.368719
+        ]
+      },
+      "properties": {
+        "point_id": "t56eqj",
+        "point_name": "USS Bowfin (SS-287)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t56eqj-1748772571310.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.162922,
+          41.706072
+        ]
+      },
+      "properties": {
+        "point_id": "t57ghm",
+        "point_name": "USS Lionfish (SS-298)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t57ghm-1748772621182.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.141169,
+          39.943539
+        ]
+      },
+      "properties": {
+        "point_id": "t58g50",
+        "point_name": "USS Becuna (SS-319)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t58g50-1748772673589.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.416379,
+          37.810002
+        ]
+      },
+      "properties": {
+        "point_id": "t59tup",
+        "point_name": "USS Pampanito (SS-383)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t59tup-1748772731248.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.266884,
+          34.752073
+        ]
+      },
+      "properties": {
+        "point_id": "t5axa2",
+        "point_name": "USS Razorback (SS-394)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5axa2-1748772785471.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03749,
+          38.326829
+        ]
+      },
+      "properties": {
+        "point_id": "t5cuw8",
+        "point_name": "Naval Surface Warfare Center Dahlgren Division",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "存有两门列克星敦级战列巡洋舰预计搭载的16英寸Mk II主炮，编号 No. 96, No. 100",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5cuw8-1748772879544.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.996058,
+          38.872737
+        ]
+      },
+      "properties": {
+        "point_id": "t5is21",
+        "point_name": "Willard Park",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "存有一门16英寸Mk II主炮炮管，即列克星敦级战列巡洋舰计划搭载的主炮。编号No. 111",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5is21-1748773190763.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13935,
+          39.489782
+        ]
+      },
+      "properties": {
+        "point_id": "t5lhtq",
+        "point_name": "Kanonendenkmal",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "存有一门16英寸Mk III Mod 1主炮炮管，接近于列克星敦级战列巡洋舰计划搭载的Mk II主炮。编号No. 138",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5lhtq-1748970994017.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03749,
+          38.326829
+        ]
+      },
+      "properties": {
+        "point_id": "t5f2cn",
+        "point_name": "Naval Surface Warfare Center Dahlgren Division",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "白鹰",
+        "ep_cut": "",
+        "remark": "存有世界上仅此一门的18英寸Mk A主炮，即战舰世界中佐治亚号搭载的主炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5f2cn-1748772987805.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.419712,
+          50.099312
+        ]
+      },
+      "properties": {
+        "point_id": "t5nvmi",
+        "point_name": "HMS Warspite",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "厌战号 (03) 的一节桅杆",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5nvmi-1748773400823.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.472728,
+          50.12366
+        ]
+      },
+      "properties": {
+        "point_id": "t5pup5",
+        "point_name": "Marazion Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "厌战号1947年于普鲁士湾附近的岩石上搁浅，并于马拉宰恩海滩上拆解，因此大量遗物存于当地的博物馆中，而博物馆前身是当地于18 世纪中叶修建的市政大厅，本身亦属于二级保护建筑",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5pup5-1748773486681.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.109776,
+          50.800744
+        ]
+      },
+      "properties": {
+        "point_id": "t5r15f",
+        "point_name": "Royal Naval Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "厌战号 (03) 的一面军旗",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5r15f-1748773554785.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.109832,
+          50.800768
+        ]
+      },
+      "properties": {
+        "point_id": "t5sxt6",
+        "point_name": "Royal Naval Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "胡德号战列巡洋舰舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5sxt6-1748773682052.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.992729,
+          53.401372
+        ]
+      },
+      "properties": {
+        "point_id": "t5v12g",
+        "point_name": "Merseyside Maritime Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "罗德尼号 (29) 的舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5v12g-1748773720694.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.728417,
+          -1.300193
+        ]
+      },
+      "properties": {
+        "point_id": "t5wf03",
+        "point_name": "Bell from HMS Duke of York (17) - Lenana School",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "约克公爵号 (17) 的舰钟，拆解后赠予肯尼亚内罗毕的约克公爵学校（后更名为莱纳纳学校）",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5wf03-1748773841408.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.098611,
+          7.591112
+        ]
+      },
+      "properties": {
+        "point_id": "t5yluy",
+        "point_name": "HMS Hermes (95)",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "竞技神号 (95) 的沉船，世界上仅有三艘允许休闲潜水员潜入参观的航母之一，水深约52米，位于孟加拉湾接近斯里兰卡的海域。\n\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5yluy-1748773949329.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.518768,
+          35.900084
+        ]
+      },
+      "properties": {
+        "point_id": "t60res",
+        "point_name": "Fort Saint Elmo – National War Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "光辉号 (87) 舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t60res-1748774023270.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.636525,
+          51.014906
+        ]
+      },
+      "properties": {
+        "point_id": "t67zq0",
+        "point_name": "Fleet Air Arm Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "胜利号航空母舰 (38) 舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t67zq0-1748774328931.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.843802,
+          54.638722
+        ]
+      },
+      "properties": {
+        "point_id": "t641ew",
+        "point_name": "Belfast Formidable Sea Cadets",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "可畏号航空母舰 (67) 舰钟，被 D. 安德鲁斯先生购买并赠送予贝尔法斯特第三海军学员队，现存于金尼加的TR Formidable学员中心，开放性未知",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t641ew-1748774188689.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.518768,
+          35.900084
+        ]
+      },
+      "properties": {
+        "point_id": "t62iud",
+        "point_name": "Fort Saint Elmo – National War Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "皇家",
+        "ep_cut": "",
+        "remark": "不挠号 (92) 舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t62iud-1748774071917.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.510936,
+          11.601944
+        ]
+      },
+      "properties": {
+        "point_id": "t69d7o",
+        "point_name": "IJN Nagato",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "重樱",
+        "ep_cut": "",
+        "remark": "长门号战列舰沉船，少有的可由休闲潜水员潜入探索的战舰沉船，舰体残骸仅位于水下33.5米位置",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t69d7o-1748774441604.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.211884,
+          -33.876522
+        ]
+      },
+      "properties": {
+        "point_id": "t6chhg",
+        "point_name": "SMS Emden Gun",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "埃姆登号 (1908) (对应双生子中的白色) 的一门10.5 cm主炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6chhg-1748774550777.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.149002,
+          -35.280497
+        ]
+      },
+      "properties": {
+        "point_id": "t6erme",
+        "point_name": "Australian War Memorial",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "埃姆登号巡洋舰 (1908) (对应双生子中的白) 的一门10.5主炮和一些其他部件",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6erme-1748774650938.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.230903,
+          54.412069
+        ]
+      },
+      "properties": {
+        "point_id": "t6ic68",
+        "point_name": "SMS Seydlitz Bell",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "塞德利茨号战列巡洋舰的舰钟，悬挂于基尔莱博海军纪念馆入口处",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6ic68-1748774853173.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.722043,
+          63.708365
+        ]
+      },
+      "properties": {
+        "point_id": "t6krka",
+        "point_name": "Austrått Fort",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "格奈森瑙号战列舰的一门主炮，在被解除武装后用作岸防炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6krka-1748774931922.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.999627,
+          52.264
+        ]
+      },
+      "properties": {
+        "point_id": "t6n0sp",
+        "point_name": "Muzeum Wojska Polskiego",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "格奈森瑙号战列舰舰钟",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6n0sp-1748775029429.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.897361,
+          49.239319
+        ]
+      },
+      "properties": {
+        "point_id": "t6o6tz",
+        "point_name": "Technik Museum Sinsheim",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "提尔比茨号战列舰的一门副炮",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6o6tz-1748775090896.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.458448,
+          54.813681
+        ]
+      },
+      "properties": {
+        "point_id": "t6qp0l",
+        "point_name": "Wehrgeschichtliches Ausbildungszentrum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "提尔比茨号战列舰的军旗，位于佛伦斯堡军事历史培训中心，一年有几次开放日时开放参观",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6qp0l-1748775224699.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.016324,
+          69.930648
+        ]
+      },
+      "properties": {
+        "point_id": "t6s331",
+        "point_name": "Tirpitz Museum",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "提尔比茨号战列舰的船锚和一些其他文物，该馆开门时间似乎非常不稳定，请注意核实开放时间",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6s331-1748775266209.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.970152,
+          70.981484
+        ]
+      },
+      "properties": {
+        "point_id": "t6tecz",
+        "point_name": "Nordkappmuseet",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "铁血",
+        "ep_cut": "",
+        "remark": "提尔比茨号战列舰的一座柴油发电机存于其中，曾用作该镇的发电机",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6tecz-1748775329151.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.321506,
+          36.053923
+        ]
+      },
+      "properties": {
+        "point_id": "ppn064",
+        "point_name": "101鞍山舰",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "东煌",
+        "ep_cut": "",
+        "remark": "在海军博物馆可供展览",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppn064-1748565090956.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.629961,
+          36.808689
+        ]
+      },
+      "properties": {
+        "point_id": "ppexv3",
+        "point_name": "103长春号舰艇",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "东煌",
+        "ep_cut": "",
+        "remark": "作为展示舰使用，无法登舰",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppexv3-1748564727092.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.671079,
+          38.872472
+        ]
+      },
+      "properties": {
+        "point_id": "pqb8hz",
+        "point_name": "海军大连舰艇展览中心",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "东煌",
+        "ep_cut": "",
+        "remark": "2026年2月24日起，太原舰已动工原地拆解，无法再参观，此地为原停靠地址",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqb8hz-1748566251324.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.82061,
+          44.101586
+        ]
+      },
+      "properties": {
+        "point_id": "q9ckip",
+        "point_name": "Museo Tecnico Navale della Spezia",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "撒丁帝国",
+        "ep_cut": "",
+        "remark": "维托里奥·维内托号战列舰的一台火控计算机位于其中，另外有一门黎塞留号战列舰主炮\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ckip-1748971050428.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.820829,
+          44.101111
+        ]
+      },
+      "properties": {
+        "point_id": "t6w3id",
+        "point_name": "Museo Tecnico Navale della Spezia",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "撒丁帝国",
+        "ep_cut": "",
+        "remark": "维托里奥·维内托号战列舰的螺旋桨",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6w3id-1748775478665.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.337769,
+          59.955416
+        ]
+      },
+      "properties": {
+        "point_id": "pqt1pl",
+        "point_name": "крейсер Аврора",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "北方联合",
+        "ep_cut": "",
+        "remark": "极具历史意义的舰艇博物馆",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqt1pl-1748567264612.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.78606,
+          44.730514
+        ]
+      },
+      "properties": {
+        "point_id": "9cbc7a0",
+        "point_name": "“塔什干”号驱逐领舰",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "北方联合",
+        "ep_cut": "",
+        "remark": "1942年7月2日，在经历了塞瓦斯托波尔到新罗西斯克的英勇战斗后，塔什干号驱逐领舰在此遭敌机空袭沉没",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/9cbc7a0-1767347004244.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.616489,
+          48.268398
+        ]
+      },
+      "properties": {
+        "point_id": "q9fwjb",
+        "point_name": "Musée Mémorial de la Bataille de l'Atlantique",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "鸢尾教国",
+        "ep_cut": "",
+        "remark": "敦刻尔克号、斯特拉斯堡号战列舰、克莱蒙梭号航空母舰等舰船的船锚陈列于其外的草坪上\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9fwjb-1748598334647.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.41552,
+          48.280846
+        ]
+      },
+      "properties": {
+        "point_id": "q9oy1d",
+        "point_name": "École navale",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "鸢尾教国",
+        "ep_cut": "",
+        "remark": "黎塞留号战列舰的其中一门主炮陈列于此处\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9oy1d-1748598763113.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.495476,
+          48.384966
+        ]
+      },
+      "properties": {
+        "point_id": "qadhgs",
+        "point_name": "Porte Tourville",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "鸢尾教国",
+        "ep_cut": "",
+        "remark": "黎塞留号战列舰的一门主炮陈列于岸边\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qadhgs-1748599902235.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.201556,
+          47.270709
+        ]
+      },
+      "properties": {
+        "point_id": "q9ipa5",
+        "point_name": "Évasion du cuirassé Jean BART",
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "location": "鸢尾教国",
+        "ep_cut": "",
+        "remark": "让巴尔号战列舰的船锚陈列于其外的草坪上\n",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ipa5-1748598472485.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644564,
+          35.447557
+        ]
+      },
+      "properties": {
+        "point_id": "5f271e7b",
+        "point_name": "神奈川県庁",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 10:10 沿着海岸通り，在接近シルク博物館（丝绸博物馆）和横滨开港公园的位置取景",
+        "image_url": "https://w.junreimap.com/images/points/570583/5f271e7b_1792009102543.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633946,
+          35.445249
+        ]
+      },
+      "properties": {
+        "point_id": "631c74ad",
+        "point_name": "伊势佐木町商业街大门 (已拆除)",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 10:18 剧中出现的大概是战后建造的第二代拱门，目前已经拆除，遗址上的是第五代大门。",
+        "image_url": "https://w.junreimap.com/images/points/570583/631c74ad_1792009114714.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641381,
+          35.447369
+        ]
+      },
+      "properties": {
+        "point_id": "d7ca5519",
+        "point_name": "横滨市开港纪念会馆",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 10:27 取景位置正对着东侧的塔楼「杰克塔」。然而剧中取景按严格史实来讲有误，画面左侧的红白色建筑和白色铁塔属于1962落成的东京电力神奈川总部建筑，在剧中的时间还有几年才落成。",
+        "image_url": "https://w.junreimap.com/images/points/570583/d7ca5519_1792009124365.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.641902,
+          35.452794
+        ]
+      },
+      "properties": {
+        "point_id": "b43fa613",
+        "point_name": "横滨红砖仓库",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 10:38 原为保税仓库，现已转型为文化及商业设施。 在北侧偏西的位置取景。不过目前靠前的2号馆似乎较1号馆长出许多，在同一角度拍摄似乎无法拍出剧中两馆并列的状态。",
+        "image_url": "https://w.junreimap.com/images/points/570583/b43fa613_1792009133538.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.629774,
+          35.446426
+        ]
+      },
+      "properties": {
+        "point_id": "70700714",
+        "point_name": "映画館かもめ座",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 11:01 剧中的电影院「つばめ座」（燕子座）的原型，横滨宮川町2丁目一座已于2002年11月10日结业拆除的影院。",
+        "image_url": "https://w.junreimap.com/images/points/570583/70700714_1792009152317.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65023,
+          35.445156
+        ]
+      },
+      "properties": {
+        "point_id": "6135ae55",
+        "point_name": "山下公园",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 11:51 在中央的喷泉偏东南方的位置，朝西北的空中俯瞰取景",
+        "image_url": "https://w.junreimap.com/images/points/570583/6135ae55_1792009164023.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.649149,
+          35.445879
+        ]
+      },
+      "properties": {
+        "point_id": "a24356d8",
+        "point_name": "山下公园 / 横滨海洋塔",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 11:55 两人扮猪吃老虎的空地。在喷泉的西侧穿过遮阳处后，背景可见横滨标志性的海洋塔（横浜マリンタワー）。可以以旁边的遮阳处的柱子作为参照物。",
+        "image_url": "https://w.junreimap.com/images/points/570583/a24356d8_1792009174146.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638902,
+          35.447352
+        ]
+      },
+      "properties": {
+        "point_id": "272eae51",
+        "point_name": "横浜メディアビジネスセンター",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 14:23从这栋楼的楼顶位置朝东侧神奈川县厅望去，能获得接近于动画中俯瞰马戏团的视角（注意开放性未知）",
+        "image_url": "https://w.junreimap.com/images/points/570583/272eae51_1792008943417.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.621458,
+          35.704931
+        ]
+      },
+      "properties": {
+        "point_id": "54a53342",
+        "point_name": "喫茶店 荻窪邪宗门 (已搬迁)",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 11,
+        "remark": "[ep11] 14:40 已经于2025年12月22日结业，搬迁至中野区野方站附近",
+        "image_url": "https://w.junreimap.com/images/points/570583/54a53342_1792009182648.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776988,
+          35.649292
+        ]
+      },
+      "properties": {
+        "point_id": "62120127",
+        "point_name": "晴海",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 12,
+        "remark": "[ep12] 11:59决赛举行的场地。实际上是东京中央区晴海地区，东京湾内的一片填海造陆区域。剧中是在海上俯瞰，远处可以看到隅田川的入海口和代表性的永代桥，",
+        "image_url": "https://w.junreimap.com/images/points/570583/62120127_1792009189217.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766805,
+          35.547755
+        ]
+      },
+      "properties": {
+        "point_id": "17bfec30",
+        "point_name": "东京国际机场旧航站楼 (已拆除)",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 13,
+        "remark": "[ep12] 18:30nanami身后可见东京国际机场（羽田机场）第一代航站楼的控制塔，同时另一镜中可看到旧航站楼的露天观景台",
+        "image_url": "https://w.junreimap.com/images/points/570583/17bfec30_1792009206350.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.57559,
+          31.614982
+        ]
+      },
+      "properties": {
+        "point_id": "25d6b3fd",
+        "point_name": "樱岛",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 13,
+        "remark": "[ep13] 21:31樱岛火山，从鹿儿岛市偏北的位置取景。",
+        "image_url": "https://w.junreimap.com/images/points/570583/25d6b3fd_1792009223086.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.338548,
+          36.158788
+        ]
+      },
+      "properties": {
+        "point_id": "a0984e16",
+        "point_name": "直布罗陀巨岩",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 13,
+        "remark": "[ep13] 22:09位于直布罗陀，高达426米的巨岩。まりあ和生物爹在海外拍摄的照片中出现的场景。",
+        "image_url": "https://w.junreimap.com/images/points/570583/a0984e16_1792009232942.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765044,
+          35.671735
+        ]
+      },
+      "properties": {
+        "point_id": "6a6c5950",
+        "point_name": "银座和光百货",
+        "bangumi_id": 570583,
+        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
+        "location": "",
+        "ep_cut": 13,
+        "remark": "[ep13] 23:30结尾马戏团带着小女孩一起演三铳士的地方。严格来讲是银座一大片扭曲过的区域。除了左侧最标志性的和光百货大楼外，还有疑似 neta 松下电器 national 圆形+闪电广告牌，右侧的疑似森永地球仪等银座标志性建筑物",
+        "image_url": "https://w.junreimap.com/images/points/570583/6a6c5950_1792009241300.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57266,
+          35.710316
+        ]
+      },
+      "properties": {
+        "point_id": "5op0oth",
+        "point_name": "成蹊学園ケヤキ並木",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "来源X：https://x.com/ssslocation/status/1973443137453584807",
+        "image_url": "https://w.junreimap.com/images/points/590553/5op0oth_1759387475184.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700587,
+          35.693887
+        ]
+      },
+      "properties": {
+        "point_id": "5nt035t",
+        "point_name": "西武新宿駅前",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/590553/points/5nt035t-1759333729915.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.828057,
+          35.729338
+        ]
+      },
+      "properties": {
+        "point_id": "cpj5dwd",
+        "point_name": "銚子電鉄銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "站台向南望\n来源：https://x.com/ssslocation/status/1973887940804936060?s=20",
+        "image_url": "https://w.junreimap.com/images/points/590553/cpj5dwd_1774675564060.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.861041,
+          35.706329
+        ]
+      },
+      "properties": {
+        "point_id": "5opqit4",
+        "point_name": "犬吠駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "谷歌街景，点开靠近线路的全景照片，站台向站厅方向看，即为所求\n来源X：https://x.com/ssslocation/status/1973393164108021949",
+        "image_url": "https://w.junreimap.com/images/points/590553/5opqit4_1759388711510.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620146,
+          35.331202
+        ]
+      },
+      "properties": {
+        "point_id": "5opwwax",
+        "point_name": "金沢八景駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "来源X：https://x.com/ssslocation/status/1973393164108021949",
+        "image_url": "https://w.junreimap.com/images/points/590553/5opwwax_1759388992370.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.634024,
+          33.303376
+        ]
+      },
+      "properties": {
+        "point_id": "5opjser",
+        "point_name": "江迎川橋梁",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "【存疑】根据X情报是这片区域，但是具体是不是这座桥不清楚\n来源X：https://x.com/ssslocation/status/1973393164108021949",
+        "image_url": "https://w.junreimap.com/images/points/590553/5opjser_1759388395374.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.287735,
+          35.335967
+        ]
+      },
+      "properties": {
+        "point_id": "5ntx2o5",
+        "point_name": "坂田駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "【存疑】站台栏杆与实地不符，但是站名，标志色和背景相符",
+        "image_url": "https://w.junreimap.com/images/points/590553/5ntx2o5_1759335239104.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700009,
+          35.695347
+        ]
+      },
+      "properties": {
+        "point_id": "cphg8b8",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "右侧车辆为西武30000系スマイルトレイン，左侧车辆为西武10000系ニューレッドアロー（车体上NRA字样）",
+        "image_url": "https://w.junreimap.com/images/points/590553/cphg8b8_1774672772342.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483097,
+          35.923418
+        ]
+      },
+      "properties": {
+        "point_id": "cphov5c",
+        "point_name": "鐘つき通り",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "右侧为标牌为近長魚店",
+        "image_url": "https://w.junreimap.com/images/points/590553/cphov5c_1774673153803.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863588,
+          35.72181
+        ]
+      },
+      "properties": {
+        "point_id": "cph7von",
+        "point_name": "海鹿島駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "铫子电气铁道线海鹿岛站，关东地方最东端车站。",
+        "image_url": "https://w.junreimap.com/images/points/590553/cph7von_1774672356183.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863516,
+          35.721779
+        ]
+      },
+      "properties": {
+        "point_id": "cphbbe6",
+        "point_name": "海鹿島駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "关东地方最东端车站标",
+        "image_url": "https://w.junreimap.com/images/points/590553/cphbbe6_1774672477267.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863974,
+          35.695837
+        ]
+      },
+      "properties": {
+        "point_id": "h0h247y",
+        "point_name": "長崎海水浴場",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "北望犬吠埼灯台",
+        "image_url": "https://w.junreimap.com/images/points/590553/h0h247y_1784044392504.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.861047,
+          35.706094
+        ]
+      },
+      "properties": {
+        "point_id": "h2oqiat",
+        "point_name": "犬吠駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "站台上的涂鸦墙",
+        "image_url": "https://w.junreimap.com/images/points/590553/h2oqiat_1784178136252.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692348,
+          36.72547
+        ]
+      },
+      "properties": {
+        "point_id": "h2oxt0i",
+        "point_name": "下今市駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "【存疑】由于可用信息只有画面左上角一块，个人可能是虚构背景，考虑到透视等，认为是站台上拍摄，故标点下今市站。机车为SL大树。",
+        "image_url": "https://w.junreimap.com/images/points/590553/h2oxt0i_1784178509353.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.277442,
+          36.434659
+        ]
+      },
+      "properties": {
+        "point_id": "h2ogxt0",
+        "point_name": "大間々駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "【存疑】背景为トロッコわたらせ渓谷号列车，运行区间大間々駅 ～ 足尾駅。根据方向幕倒影大致判断为该车站",
+        "image_url": "https://w.junreimap.com/images/points/590553/h2ogxt0_1784177700814.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.582711,
+          33.362702
+        ]
+      },
+      "properties": {
+        "point_id": "jxu935r",
+        "point_name": "たびら平戸口駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxu935r_1790415433622.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.648491,
+          33.239134
+        ]
+      },
+      "properties": {
+        "point_id": "jxuo9ok",
+        "point_name": "佐々川",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "大致位于该点，高空向西南方看",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxuo9ok_1790416182817.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.333013,
+          36.411241
+        ]
+      },
+      "properties": {
+        "point_id": "jxvc7f5",
+        "point_name": "桐生駅（わたらせ渓谷鐵道）",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "图中车辆为WKT-500形气动车，另外绝对不可以尝试跳下站台以完美复刻该角度",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxvc7f5_1790417326537.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699341,
+          35.690165
+        ]
+      },
+      "properties": {
+        "point_id": "jxw5xeg",
+        "point_name": "京王新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "图中车辆为京王8000系（8713F编成是唯一绿色涂装的列车，即\"高尾山トレイン\"涂装）",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxw5xeg_1790418643182.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700095,
+          35.695117
+        ]
+      },
+      "properties": {
+        "point_id": "jxwbwoz",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "【存疑】进站口谷歌街景的标牌不是圆形的，但是考虑到该画面中正在安装，且背景有IC专用，入口等标识符合西武新宿进站口特征故标点",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwbwoz_1790418941094.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692786,
+          36.725576
+        ]
+      },
+      "properties": {
+        "point_id": "jxwgrkx",
+        "point_name": "下今市駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "由天桥结构可确定是下今市站",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwgrkx_1790419134003.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.370668,
+          32.790177
+        ]
+      },
+      "properties": {
+        "point_id": "jxwl17b",
+        "point_name": "島原",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwl17b_1790419341168.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.344821,
+          32.843733
+        ]
+      },
+      "properties": {
+        "point_id": "jxwo1e4",
+        "point_name": "大三東",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "大三东站标志性的祈愿活动：幸福的黄色手帕。该点特别鸣谢gemini",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwo1e4_1790419501404.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700105,
+          35.695878
+        ]
+      },
+      "properties": {
+        "point_id": "kgbs7c8",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgbs7c8_1791533298267.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700091,
+          35.695484
+        ]
+      },
+      "properties": {
+        "point_id": "kgbvii8",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgbvii8_1791533426588.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700016,
+          35.694811
+        ]
+      },
+      "properties": {
+        "point_id": "kgc3ztm",
+        "point_name": "西武新宿ペペ & Brick St.",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/u2qJJZQ726mqB4uU7",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgc3ztm_1791533839499.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700297,
+          35.694395
+        ]
+      },
+      "properties": {
+        "point_id": "kgh3q0t",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/UmjaXYpjr2go3WbD8",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgh3q0t_1791542237706.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55214,
+          35.728542
+        ]
+      },
+      "properties": {
+        "point_id": "kgmmt47",
+        "point_name": "西武柳沢",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "车型是西武铁道 30000系 \"Smile Train\"",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgmmt47_1791551490457.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481091,
+          35.913665
+        ]
+      },
+      "properties": {
+        "point_id": "kgmw23w",
+        "point_name": "本川越",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/XBPGFyVnVdzKS8AX8",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgmw23w_1791551933898.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481091,
+          35.913698
+        ]
+      },
+      "properties": {
+        "point_id": "kgmx989",
+        "point_name": "本川越",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgmx989_1791552006067.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.482359,
+          35.915363
+        ]
+      },
+      "properties": {
+        "point_id": "kgn6h87",
+        "point_name": "本川越",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/CyzEptyuZpYArCnp8",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgn6h87_1791552402639.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.482954,
+          35.923401
+        ]
+      },
+      "properties": {
+        "point_id": "kgnek18",
+        "point_name": "ヘアー​サロン​銀​パリ",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgnek18_1791552790772.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483931,
+          35.923347
+        ]
+      },
+      "properties": {
+        "point_id": "kgngfy7",
+        "point_name": "醤遊王国 川越時の鐘店（弓削多醤油）",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgngfy7_1791552936731.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.827645,
+          35.7299
+        ]
+      },
+      "properties": {
+        "point_id": "ks5n0mr",
+        "point_name": "銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5n0mr_1792248582609.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.828149,
+          35.729326
+        ]
+      },
+      "properties": {
+        "point_id": "ks5qzgb",
+        "point_name": "銚子電鉄銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5qzgb_1792248720461.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.828303,
+          35.729305
+        ]
+      },
+      "properties": {
+        "point_id": "ks5v2ms",
+        "point_name": "銚子電鉄銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "桃电22000型22007編成",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5v2ms_1792248900804.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.833683,
+          35.728874
+        ]
+      },
+      "properties": {
+        "point_id": "ks6994f",
+        "point_name": "仲ノ町駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6994f_1792249575664.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.833561,
+          35.728856
+        ]
+      },
+      "properties": {
+        "point_id": "ks6b9dn",
+        "point_name": "仲ノ町駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6b9dn_1792249668205.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.847776,
+          35.731004
+        ]
+      },
+      "properties": {
+        "point_id": "ks6npex",
+        "point_name": "本銚子",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "站台向东拍摄即可 ，另该视角有多个可达机位，目前认为本銚子站台向东最准确",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6npex_1792250258934.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85712,
+          35.728332
+        ]
+      },
+      "properties": {
+        "point_id": "ks7ss1q",
+        "point_name": "笠上黒生",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "桃电唯一交换站",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7ss1q_1792252155800.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863522,
+          35.721762
+        ]
+      },
+      "properties": {
+        "point_id": "ks6s113",
+        "point_name": "海鹿島駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6s113_1792250475417.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.857057,
+          35.69921
+        ]
+      },
+      "properties": {
+        "point_id": "ks6yf5w",
+        "point_name": "外川駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6yf5w_1792250746970.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.857044,
+          35.699195
+        ]
+      },
+      "properties": {
+        "point_id": "ks6zxxq",
+        "point_name": "外川駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "谷歌地标： 銚子電気鉄道 デハ８０１",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6zxxq_1792250817737.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.856947,
+          35.699171
+        ]
+      },
+      "properties": {
+        "point_id": "ks72pw1",
+        "point_name": "外川駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks72pw1_1792250955435.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768985,
+          35.699619
+        ]
+      },
+      "properties": {
+        "point_id": "ks7l74i",
+        "point_name": "トミックス ショールーム東京秋葉原",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "ED中的N比例沙盘位于该地，TOMIX 官方展厅",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7l74i_1792251817918.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.725424,
+          33.16366
+        ]
+      },
+      "properties": {
+        "point_id": "ks7qqud",
+        "point_name": "佐世保",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "街景：https://maps.app.goo.gl/brt2hG4SmpfgNdxt6",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7qqud_1792252064597.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.600072,
           35.508536
         ]
@@ -24379,286 +27799,6 @@
         "ep_cut": 8,
         "remark": "左侧招牌是谭鸭血老火锅。https://maps.app.goo.gl/paP9e6Hpu7ZYFrBi8",
         "image_url": "https://w.junreimap.com/images/points/433578/kpew8dz_1792082743717.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.644564,
-          35.447557
-        ]
-      },
-      "properties": {
-        "point_id": "5f271e7b",
-        "point_name": "神奈川県庁",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 10:10 沿着海岸通り，在接近シルク博物館（丝绸博物馆）和横滨开港公园的位置取景",
-        "image_url": "https://w.junreimap.com/images/points/570583/5f271e7b_1792009102543.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.633946,
-          35.445249
-        ]
-      },
-      "properties": {
-        "point_id": "631c74ad",
-        "point_name": "伊势佐木町商业街大门 (已拆除)",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 10:18 剧中出现的大概是战后建造的第二代拱门，目前已经拆除，遗址上的是第五代大门。",
-        "image_url": "https://w.junreimap.com/images/points/570583/631c74ad_1792009114714.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.641381,
-          35.447369
-        ]
-      },
-      "properties": {
-        "point_id": "d7ca5519",
-        "point_name": "横滨市开港纪念会馆",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 10:27 取景位置正对着东侧的塔楼「杰克塔」。然而剧中取景按严格史实来讲有误，画面左侧的红白色建筑和白色铁塔属于1962落成的东京电力神奈川总部建筑，在剧中的时间还有几年才落成。",
-        "image_url": "https://w.junreimap.com/images/points/570583/d7ca5519_1792009124365.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.641902,
-          35.452794
-        ]
-      },
-      "properties": {
-        "point_id": "b43fa613",
-        "point_name": "横滨红砖仓库",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 10:38 原为保税仓库，现已转型为文化及商业设施。 在北侧偏西的位置取景。不过目前靠前的2号馆似乎较1号馆长出许多，在同一角度拍摄似乎无法拍出剧中两馆并列的状态。",
-        "image_url": "https://w.junreimap.com/images/points/570583/b43fa613_1792009133538.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.629774,
-          35.446426
-        ]
-      },
-      "properties": {
-        "point_id": "70700714",
-        "point_name": "映画館かもめ座",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 11:01 剧中的电影院「つばめ座」（燕子座）的原型，横滨宮川町2丁目一座已于2002年11月10日结业拆除的影院。",
-        "image_url": "https://w.junreimap.com/images/points/570583/70700714_1792009152317.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.65023,
-          35.445156
-        ]
-      },
-      "properties": {
-        "point_id": "6135ae55",
-        "point_name": "山下公园",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 11:51 在中央的喷泉偏东南方的位置，朝西北的空中俯瞰取景",
-        "image_url": "https://w.junreimap.com/images/points/570583/6135ae55_1792009164023.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.649149,
-          35.445879
-        ]
-      },
-      "properties": {
-        "point_id": "a24356d8",
-        "point_name": "山下公园 / 横滨海洋塔",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 11:55 两人扮猪吃老虎的空地。在喷泉的西侧穿过遮阳处后，背景可见横滨标志性的海洋塔（横浜マリンタワー）。可以以旁边的遮阳处的柱子作为参照物。",
-        "image_url": "https://w.junreimap.com/images/points/570583/a24356d8_1792009174146.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.638902,
-          35.447352
-        ]
-      },
-      "properties": {
-        "point_id": "272eae51",
-        "point_name": "横浜メディアビジネスセンター",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 14:23从这栋楼的楼顶位置朝东侧神奈川县厅望去，能获得接近于动画中俯瞰马戏团的视角（注意开放性未知）",
-        "image_url": "https://w.junreimap.com/images/points/570583/272eae51_1792008943417.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.621458,
-          35.704931
-        ]
-      },
-      "properties": {
-        "point_id": "54a53342",
-        "point_name": "喫茶店 荻窪邪宗门 (已搬迁)",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 11,
-        "remark": "[ep11] 14:40 已经于2025年12月22日结业，搬迁至中野区野方站附近",
-        "image_url": "https://w.junreimap.com/images/points/570583/54a53342_1792009182648.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.776988,
-          35.649292
-        ]
-      },
-      "properties": {
-        "point_id": "62120127",
-        "point_name": "晴海",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 12,
-        "remark": "[ep12] 11:59决赛举行的场地。实际上是东京中央区晴海地区，东京湾内的一片填海造陆区域。剧中是在海上俯瞰，远处可以看到隅田川的入海口和代表性的永代桥，",
-        "image_url": "https://w.junreimap.com/images/points/570583/62120127_1792009189217.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.766805,
-          35.547755
-        ]
-      },
-      "properties": {
-        "point_id": "17bfec30",
-        "point_name": "东京国际机场旧航站楼 (已拆除)",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 13,
-        "remark": "[ep12] 18:30nanami身后可见东京国际机场（羽田机场）第一代航站楼的控制塔，同时另一镜中可看到旧航站楼的露天观景台",
-        "image_url": "https://w.junreimap.com/images/points/570583/17bfec30_1792009206350.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.57559,
-          31.614982
-        ]
-      },
-      "properties": {
-        "point_id": "25d6b3fd",
-        "point_name": "樱岛",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 13,
-        "remark": "[ep13] 21:31樱岛火山，从鹿儿岛市偏北的位置取景。",
-        "image_url": "https://w.junreimap.com/images/points/570583/25d6b3fd_1792009223086.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.338548,
-          36.158788
-        ]
-      },
-      "properties": {
-        "point_id": "a0984e16",
-        "point_name": "直布罗陀巨岩",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 13,
-        "remark": "[ep13] 22:09位于直布罗陀，高达426米的巨岩。まりあ和生物爹在海外拍摄的照片中出现的场景。",
-        "image_url": "https://w.junreimap.com/images/points/570583/a0984e16_1792009232942.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.765044,
-          35.671735
-        ]
-      },
-      "properties": {
-        "point_id": "6a6c5950",
-        "point_name": "银座和光百货",
-        "bangumi_id": 570583,
-        "bangumi_title": "Grow Up Show ～向日葵马戏团～",
-        "location": "",
-        "ep_cut": 13,
-        "remark": "[ep13] 23:30结尾马戏团带着小女孩一起演三铳士的地方。严格来讲是银座一大片扭曲过的区域。除了左侧最标志性的和光百货大楼外，还有疑似 neta 松下电器 national 圆形+闪电广告牌，右侧的疑似森永地球仪等银座标志性建筑物",
-        "image_url": "https://w.junreimap.com/images/points/570583/6a6c5950_1792009241300.webp"
       }
     },
     {
@@ -50119,666 +53259,6 @@
         "ep_cut": "一家Dumb Rock!",
         "remark": "https://maps.app.goo.gl/FAvKF2Usm44Ubo477",
         "image_url": "https://w.junreimap.com/images/points/621188/k2kgkzb_1790701511535.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.57266,
-          35.710316
-        ]
-      },
-      "properties": {
-        "point_id": "5op0oth",
-        "point_name": "成蹊学園ケヤキ並木",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "来源X：https://x.com/ssslocation/status/1973443137453584807",
-        "image_url": "https://w.junreimap.com/images/points/590553/5op0oth_1759387475184.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700587,
-          35.693887
-        ]
-      },
-      "properties": {
-        "point_id": "5nt035t",
-        "point_name": "西武新宿駅前",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/590553/points/5nt035t-1759333729915.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.828057,
-          35.729338
-        ]
-      },
-      "properties": {
-        "point_id": "cpj5dwd",
-        "point_name": "銚子電鉄銚子駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "站台向南望\n来源：https://x.com/ssslocation/status/1973887940804936060?s=20",
-        "image_url": "https://w.junreimap.com/images/points/590553/cpj5dwd_1774675564060.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.861041,
-          35.706329
-        ]
-      },
-      "properties": {
-        "point_id": "5opqit4",
-        "point_name": "犬吠駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "谷歌街景，点开靠近线路的全景照片，站台向站厅方向看，即为所求\n来源X：https://x.com/ssslocation/status/1973393164108021949",
-        "image_url": "https://w.junreimap.com/images/points/590553/5opqit4_1759388711510.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.620146,
-          35.331202
-        ]
-      },
-      "properties": {
-        "point_id": "5opwwax",
-        "point_name": "金沢八景駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "来源X：https://x.com/ssslocation/status/1973393164108021949",
-        "image_url": "https://w.junreimap.com/images/points/590553/5opwwax_1759388992370.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.634024,
-          33.303376
-        ]
-      },
-      "properties": {
-        "point_id": "5opjser",
-        "point_name": "江迎川橋梁",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "【存疑】根据X情报是这片区域，但是具体是不是这座桥不清楚\n来源X：https://x.com/ssslocation/status/1973393164108021949",
-        "image_url": "https://w.junreimap.com/images/points/590553/5opjser_1759388395374.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.287735,
-          35.335967
-        ]
-      },
-      "properties": {
-        "point_id": "5ntx2o5",
-        "point_name": "坂田駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "【存疑】站台栏杆与实地不符，但是站名，标志色和背景相符",
-        "image_url": "https://w.junreimap.com/images/points/590553/5ntx2o5_1759335239104.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700009,
-          35.695347
-        ]
-      },
-      "properties": {
-        "point_id": "cphg8b8",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "右侧车辆为西武30000系スマイルトレイン，左侧车辆为西武10000系ニューレッドアロー（车体上NRA字样）",
-        "image_url": "https://w.junreimap.com/images/points/590553/cphg8b8_1774672772342.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.483097,
-          35.923418
-        ]
-      },
-      "properties": {
-        "point_id": "cphov5c",
-        "point_name": "鐘つき通り",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "右侧为标牌为近長魚店",
-        "image_url": "https://w.junreimap.com/images/points/590553/cphov5c_1774673153803.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863588,
-          35.72181
-        ]
-      },
-      "properties": {
-        "point_id": "cph7von",
-        "point_name": "海鹿島駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "铫子电气铁道线海鹿岛站，关东地方最东端车站。",
-        "image_url": "https://w.junreimap.com/images/points/590553/cph7von_1774672356183.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863516,
-          35.721779
-        ]
-      },
-      "properties": {
-        "point_id": "cphbbe6",
-        "point_name": "海鹿島駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "关东地方最东端车站标",
-        "image_url": "https://w.junreimap.com/images/points/590553/cphbbe6_1774672477267.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863974,
-          35.695837
-        ]
-      },
-      "properties": {
-        "point_id": "h0h247y",
-        "point_name": "長崎海水浴場",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "北望犬吠埼灯台",
-        "image_url": "https://w.junreimap.com/images/points/590553/h0h247y_1784044392504.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.861047,
-          35.706094
-        ]
-      },
-      "properties": {
-        "point_id": "h2oqiat",
-        "point_name": "犬吠駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "站台上的涂鸦墙",
-        "image_url": "https://w.junreimap.com/images/points/590553/h2oqiat_1784178136252.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.692348,
-          36.72547
-        ]
-      },
-      "properties": {
-        "point_id": "h2oxt0i",
-        "point_name": "下今市駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "【存疑】由于可用信息只有画面左上角一块，个人可能是虚构背景，考虑到透视等，认为是站台上拍摄，故标点下今市站。机车为SL大树。",
-        "image_url": "https://w.junreimap.com/images/points/590553/h2oxt0i_1784178509353.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.277442,
-          36.434659
-        ]
-      },
-      "properties": {
-        "point_id": "h2ogxt0",
-        "point_name": "大間々駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "【存疑】背景为トロッコわたらせ渓谷号列车，运行区间大間々駅 ～ 足尾駅。根据方向幕倒影大致判断为该车站",
-        "image_url": "https://w.junreimap.com/images/points/590553/h2ogxt0_1784177700814.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.582711,
-          33.362702
-        ]
-      },
-      "properties": {
-        "point_id": "jxu935r",
-        "point_name": "たびら平戸口駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxu935r_1790415433622.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.648491,
-          33.239134
-        ]
-      },
-      "properties": {
-        "point_id": "jxuo9ok",
-        "point_name": "佐々川",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "大致位于该点，高空向西南方看",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxuo9ok_1790416182817.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.333013,
-          36.411241
-        ]
-      },
-      "properties": {
-        "point_id": "jxvc7f5",
-        "point_name": "桐生駅（わたらせ渓谷鐵道）",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "图中车辆为WKT-500形气动车，另外绝对不可以尝试跳下站台以完美复刻该角度",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxvc7f5_1790417326537.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.699341,
-          35.690165
-        ]
-      },
-      "properties": {
-        "point_id": "jxw5xeg",
-        "point_name": "京王新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "图中车辆为京王8000系（8713F编成是唯一绿色涂装的列车，即\"高尾山トレイン\"涂装）",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxw5xeg_1790418643182.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700095,
-          35.695117
-        ]
-      },
-      "properties": {
-        "point_id": "jxwbwoz",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "【存疑】进站口谷歌街景的标牌不是圆形的，但是考虑到该画面中正在安装，且背景有IC专用，入口等标识符合西武新宿进站口特征故标点",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwbwoz_1790418941094.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.692786,
-          36.725576
-        ]
-      },
-      "properties": {
-        "point_id": "jxwgrkx",
-        "point_name": "下今市駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "由天桥结构可确定是下今市站",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwgrkx_1790419134003.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.370668,
-          32.790177
-        ]
-      },
-      "properties": {
-        "point_id": "jxwl17b",
-        "point_name": "島原",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwl17b_1790419341168.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.344821,
-          32.843733
-        ]
-      },
-      "properties": {
-        "point_id": "jxwo1e4",
-        "point_name": "大三東",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "大三东站标志性的祈愿活动：幸福的黄色手帕。该点特别鸣谢gemini",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwo1e4_1790419501404.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700105,
-          35.695878
-        ]
-      },
-      "properties": {
-        "point_id": "kgbs7c8",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgbs7c8_1791533298267.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700091,
-          35.695484
-        ]
-      },
-      "properties": {
-        "point_id": "kgbvii8",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgbvii8_1791533426588.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700016,
-          35.694811
-        ]
-      },
-      "properties": {
-        "point_id": "kgc3ztm",
-        "point_name": "西武新宿ペペ & Brick St.",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/u2qJJZQ726mqB4uU7",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgc3ztm_1791533839499.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700297,
-          35.694395
-        ]
-      },
-      "properties": {
-        "point_id": "kgh3q0t",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/UmjaXYpjr2go3WbD8",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgh3q0t_1791542237706.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.55214,
-          35.728542
-        ]
-      },
-      "properties": {
-        "point_id": "kgmmt47",
-        "point_name": "西武柳沢",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "车型是西武铁道 30000系 \"Smile Train\"",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgmmt47_1791551490457.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.481091,
-          35.913665
-        ]
-      },
-      "properties": {
-        "point_id": "kgmw23w",
-        "point_name": "本川越",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/XBPGFyVnVdzKS8AX8",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgmw23w_1791551933898.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.481091,
-          35.913698
-        ]
-      },
-      "properties": {
-        "point_id": "kgmx989",
-        "point_name": "本川越",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgmx989_1791552006067.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.482359,
-          35.915363
-        ]
-      },
-      "properties": {
-        "point_id": "kgn6h87",
-        "point_name": "本川越",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/CyzEptyuZpYArCnp8",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgn6h87_1791552402639.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.482954,
-          35.923401
-        ]
-      },
-      "properties": {
-        "point_id": "kgnek18",
-        "point_name": "ヘアー​サロン​銀​パリ",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgnek18_1791552790772.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.483931,
-          35.923347
-        ]
-      },
-      "properties": {
-        "point_id": "kgngfy7",
-        "point_name": "醤遊王国 川越時の鐘店（弓削多醤油）",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgngfy7_1791552936731.webp"
       }
     },
     {
@@ -574559,2226 +577039,6 @@
         "ep_cut": 3,
         "remark": "IATA代码：HSG；ICAO代码：RJFS。日本国内仅有羽田这一条航线（ANA承运），春秋航空有从上海飞往此处的航班（当前航班号为9C6139/6140）",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/252655/points/kdi0yk6nm-1715623429050.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.954356,
-          34.236468
-        ]
-      },
-      "properties": {
-        "point_id": "ne21nm",
-        "point_name": "USS North Carolina Battleship Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "北卡罗来纳原型舰，现作为博物馆展出",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/ne21nm-1748424824399.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.162976,
-          41.706742
-        ]
-      },
-      "properties": {
-        "point_id": "ne8u36",
-        "point_name": "USS Massachusetts (BB-59)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "马萨诸塞原型舰，现作为博物馆展出",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/ne8u36-1748425051086.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.01442,
-          30.681627
-        ]
-      },
-      "properties": {
-        "point_id": "necvut",
-        "point_name": "Battleship USS Alabama",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "阿拉巴马原型，现作为博物馆展出",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/necvut-1748425272641.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.133067,
-          39.939304
-        ]
-      },
-      "properties": {
-        "point_id": "neg2o0",
-        "point_name": "USS New Jersey",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "花园 (新泽西) 原型舰，现作为博物馆展出",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/neg2o0-1748425371057.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.321506,
-          36.053923
-        ]
-      },
-      "properties": {
-        "point_id": "ppn064",
-        "point_name": "101鞍山舰",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "东煌",
-        "ep_cut": "",
-        "remark": "在海军博物馆可供展览",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppn064-1748565090956.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.629961,
-          36.808689
-        ]
-      },
-      "properties": {
-        "point_id": "ppexv3",
-        "point_name": "103长春号舰艇",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "东煌",
-        "ep_cut": "",
-        "remark": "作为展示舰使用，无法登舰",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppexv3-1748564727092.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.671079,
-          38.872472
-        ]
-      },
-      "properties": {
-        "point_id": "pqb8hz",
-        "point_name": "海军大连舰艇展览中心",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "东煌",
-        "ep_cut": "",
-        "remark": "2026年2月24日起，太原舰已动工原地拆解，无法再参观，此地为原停靠地址",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqb8hz-1748566251324.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.337769,
-          59.955416
-        ]
-      },
-      "properties": {
-        "point_id": "pqt1pl",
-        "point_name": "крейсер Аврора",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "北方联合",
-        "ep_cut": "",
-        "remark": "极具历史意义的舰艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqt1pl-1748567264612.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.90794,
-          32.789372
-        ]
-      },
-      "properties": {
-        "point_id": "q8e6x7",
-        "point_name": "USS Laffey (DD-724)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "拉菲II原型舰，现作为博物馆在约克城号航空母舰旁展出\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8e6x7-1748596588382.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.009451,
-          41.008394
-        ]
-      },
-      "properties": {
-        "point_id": "q8o9ij",
-        "point_name": "USS Enterprise CV-6 Nameplate",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "企业号上拆解下的铭牌",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8o9ij-1748597065765.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.388767,
-          27.815044
-        ]
-      },
-      "properties": {
-        "point_id": "q8ptd1",
-        "point_name": "USS Lexington (CV-16)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "列克星敦II原型舰，现作为博物馆展出\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8ptd1-1779778502069.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.950147,
-          21.364785
-        ]
-      },
-      "properties": {
-        "point_id": "q8rh8s",
-        "point_name": "USS Arizona Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "亚利桑那原型舰，在珍珠港事件沉没后，在搁浅的遗骸上方建立了纪念馆\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8rh8s-1748597204942.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.000857,
-          40.764668
-        ]
-      },
-      "properties": {
-        "point_id": "q8t1ie",
-        "point_name": "USS Intrepid (CV-11)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "无畏原型舰，现作为博物馆展出\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8t1ie-1748597290411.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.483524,
-          38.981727
-        ]
-      },
-      "properties": {
-        "point_id": "q8ufwy",
-        "point_name": "USS Enterprise CV-6 Ship's Bell",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "企业号舰钟，现位于美国海军学院内的庭院陈列",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8ufwy-1748597342570.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.88089,
-          42.877582
-        ]
-      },
-      "properties": {
-        "point_id": "q8vx3c",
-        "point_name": "Buffalo Naval Park",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "现存唯一的克利夫兰级轻巡洋舰USS Little Rock (CL-92)所在地，院内还有弗莱彻级驱逐舰 USS The Sullivans 和猫鲨级潜艇 USS Croaker\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8vx3c-1748597450421.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.9085,
-          32.790461
-        ]
-      },
-      "properties": {
-        "point_id": "q8yltz",
-        "point_name": "USS Yorktown (CV-10)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "约克城II原型舰，现作为博物馆展出",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q8yltz-1748597539514.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.303065,
-          37.773017
-        ]
-      },
-      "properties": {
-        "point_id": "q9lmmh",
-        "point_name": "USS Hornet",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "大黄蜂II原型舰，现作为博物馆展出\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9lmmh-1748598607788.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.994515,
-          38.874962
-        ]
-      },
-      "properties": {
-        "point_id": "q99qhx",
-        "point_name": "Admiral Leutze Park",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "企业号船锚陈列于其中\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q99qhx-1748598054014.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.109819,
-          50.800799
-        ]
-      },
-      "properties": {
-        "point_id": "q9mwc2",
-        "point_name": "National Museum of the Royal Navy",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "反击号(34)、胡德号、威尔士亲王号(53) 的舰钟在其中展示\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9mwc2-1748598682289.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.855337,
-          43.27519
-        ]
-      },
-      "properties": {
-        "point_id": "q9r2qb",
-        "point_name": "HMCS Haida",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "现存的唯一一艘部族级驱逐舰\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9r2qb-1748598862164.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.958407,
-          56.461648
-        ]
-      },
-      "properties": {
-        "point_id": "q9s7cc",
-        "point_name": "HMS Unicorn (1824)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "为游戏中的独角兽号航空母舰(I72)的前一同名舰，而I72的舰钟陈列于其中\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9s7cc-1748598912105.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.201732,
-          55.948805
-        ]
-      },
-      "properties": {
-        "point_id": "q9tsen",
-        "point_name": "National War Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "爱丁堡号舰钟陈列于其中\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9tsen-1748598990169.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.902608,
-          54.613849
-        ]
-      },
-      "properties": {
-        "point_id": "q9v2jz",
-        "point_name": "HMS Caroline (1914)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "现存的C级轻巡洋舰，为游戏中库拉索、杓鹬二舰的前型舰",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9v2jz-1748599047134.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.19084,
-          55.949467
-        ]
-      },
-      "properties": {
-        "point_id": "q9xrs1",
-        "point_name": "St Giles’ Cathedral",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "豪号战列舰(32)的舰钟和一面旗帜陈列于其中\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9xrs1-1748599171316.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.08133,
-          51.506688
-        ]
-      },
-      "properties": {
-        "point_id": "q9zgs6",
-        "point_name": "HMS Belfast",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "贝尔法斯特的原型舰，现位于泰晤士河作为帝国战争博物馆的一部分展出\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9zgs6-1748599251907.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.582776,
-          41.790784
-        ]
-      },
-      "properties": {
-        "point_id": "q93561",
-        "point_name": "Griffin Museum of Science and Industry",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "内展有U-505号潜艇，现存的IXC型潜艇\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q93561-1748597767137.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.228857,
-          54.412446
-        ]
-      },
-      "properties": {
-        "point_id": "q95fga",
-        "point_name": "Technisches Museum U 995",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "现存唯一的VIIC型潜艇，同时位于欧根亲王的螺旋桨旁\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q95fga-1748597901779.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.009394,
-          53.395159
-        ]
-      },
-      "properties": {
-        "point_id": "q9b1h8",
-        "point_name": "German submarine U-534",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "U-534号潜艇，现存的IXC/40型潜艇\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9b1h8-1748598114051.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.431651,
-          47.072156
-        ]
-      },
-      "properties": {
-        "point_id": "qa0z2y",
-        "point_name": "Krankenhaus der Barmherzigen Brüder Graz, Standort Marschallgasse",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "欧根亲王号重巡洋舰的其中一门，原属于特格特霍夫号战列舰赠送的舰钟现陈列于其中\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa0z2y-1748599339887.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          167.682878,
-          8.752581
-        ]
-      },
-      "properties": {
-        "point_id": "qa5cvc",
-        "point_name": "Wreck of German Heavy Cruiser Prinz Eugen",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "欧根亲王原型舰的沉船，于战后核爆试验沉没，现搁浅于岸边",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa5cvc-1748599579855.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.230771,
-          54.412167
-        ]
-      },
-      "properties": {
-        "point_id": "qa8rjy",
-        "point_name": "Marine-Ehrenmal",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "欧根亲王号重巡洋舰的螺旋桨，陈列于德国基尔莱博海军纪念馆旁的草坪\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa8rjy-1748599732162.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.82061,
-          44.101586
-        ]
-      },
-      "properties": {
-        "point_id": "q9ckip",
-        "point_name": "Museo Tecnico Navale della Spezia",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "撒丁帝国",
-        "ep_cut": "",
-        "remark": "维托里奥·维内托号战列舰的一台火控计算机位于其中，另外有一门黎塞留号战列舰主炮\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ckip-1748971050428.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.616489,
-          48.268398
-        ]
-      },
-      "properties": {
-        "point_id": "q9fwjb",
-        "point_name": "Musée Mémorial de la Bataille de l'Atlantique",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "鸢尾教国",
-        "ep_cut": "",
-        "remark": "敦刻尔克号、斯特拉斯堡号战列舰、克莱蒙梭号航空母舰等舰船的船锚陈列于其外的草坪上\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9fwjb-1748598334647.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.201556,
-          47.270709
-        ]
-      },
-      "properties": {
-        "point_id": "q9ipa5",
-        "point_name": "Évasion du cuirassé Jean BART",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "鸢尾教国",
-        "ep_cut": "",
-        "remark": "让巴尔号战列舰的船锚陈列于其外的草坪上\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ipa5-1748598472485.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.41552,
-          48.280846
-        ]
-      },
-      "properties": {
-        "point_id": "q9oy1d",
-        "point_name": "École navale",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "鸢尾教国",
-        "ep_cut": "",
-        "remark": "黎塞留号战列舰的其中一门主炮陈列于此处\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9oy1d-1748598763113.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.495476,
-          48.384966
-        ]
-      },
-      "properties": {
-        "point_id": "qadhgs",
-        "point_name": "Porte Tourville",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "鸢尾教国",
-        "ep_cut": "",
-        "remark": "黎塞留号战列舰的一门主炮陈列于岸边\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qadhgs-1748599902235.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.674349,
-          35.285131
-        ]
-      },
-      "properties": {
-        "point_id": "qagb48",
-        "point_name": "記念艦みかさ",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "三笠原型舰，现作为博物馆展出\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qagb48-1748600046021.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.555919,
-          34.241033
-        ]
-      },
-      "properties": {
-        "point_id": "qaf0p1",
-        "point_name": "大和ミュージアム（呉市海事歴史科学館）",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "陈列了陆奥号战列舰的一门41厘米主炮管、主锚、螺旋桨、主舵，金刚号战列巡洋舰一座于改装时拆卸下的锅炉，长门号战列舰的旗帜，以及大量大和号战列舰相关展品\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qaf0p1-1748599981315.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.656498,
-          35.284737
-        ]
-      },
-      "properties": {
-        "point_id": "q916gf",
-        "point_name": "戦艦陸奥 第四主砲 砲身",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "陆奥号战列舰的第四主炮塔的一门41厘米主炮管，陈列于横须贺的维尔尼公园中",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q916gf-1748597664050.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.472569,
-          34.242672
-        ]
-      },
-      "properties": {
-        "point_id": "qa2rul",
-        "point_name": "戦艦陸奥主砲塔",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "陆奥号战列舰的第四主炮塔，但非打捞部件，而是改装翻新时更换下来的部件\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa2rul-1748599408537.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          138.07016,
-          36.487945
-        ]
-      },
-      "properties": {
-        "point_id": "qaaxwk",
-        "point_name": "麻績村立聖博物館",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "陆奥号战列舰的一门41厘米主炮管、锅炉蒸汽管、锚链、舷窗等部件在其中展示\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qaaxwk-1748599808482.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.437507,
-          33.950752
-        ]
-      },
-      "properties": {
-        "point_id": "qacapa",
-        "point_name": "戦艦陸奥記念館",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "陆奥号战列舰的主锚、锚链、起子、两门14厘米副炮、船首部分等部件在其中展示\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qacapa-1748599853323.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          132.472532,
-          34.245955
-        ]
-      },
-      "properties": {
-        "point_id": "qa40bd",
-        "point_name": "駆逐艦雪風主錨",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "雪风号驱逐舰主锚，现陈列于江田岛海自科术学校中，可游览参观\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qa40bd-1748599464654.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.822341,
-          33.930478
-        ]
-      },
-      "properties": {
-        "point_id": "q97ycm",
-        "point_name": "軍艦防波堤(響灘沈艦護岸)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "柳号、凉月号、冬月号三艘驱逐舰舰体作为防波堤浸于水中，但凉月、冬月二舰现已被混凝土覆盖\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q97ycm-1748597977420.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.749717,
-          42.642524
-        ]
-      },
-      "properties": {
-        "point_id": "t35eqi",
-        "point_name": "USS Slater (DE-766)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "埃尔德里奇同级，尚存的坎农级护卫驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t35eqi-1748769185427.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.174619,
-          -22.900201
-        ]
-      },
-      "properties": {
-        "point_id": "t38ih4",
-        "point_name": "Espaço Cultural da Marinha",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "馆内有Bauru (D-18, U-28, Be-4)护卫驱逐舰，埃尔德里奇同级，尚存的坎农级护卫驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t38ih4-1748769335934.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.779449,
-          29.334049
-        ]
-      },
-      "properties": {
-        "point_id": "t3c1na",
-        "point_name": "USS Stewart",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "哈曼II同级，埃德索尔级护卫驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3c1na-1748769478166.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.880456,
-          42.87757
-        ]
-      },
-      "properties": {
-        "point_id": "t3e0pb",
-        "point_name": "USS The Sullivans (DD-537)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "弗莱彻级驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3e0pb-1748769604020.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.191487,
-          30.444275
-        ]
-      },
-      "properties": {
-        "point_id": "t3gcc3",
-        "point_name": "USS Kidd (DD-661)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "弗莱彻级驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3gcc3-1748769681669.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.054431,
-          42.372198
-        ]
-      },
-      "properties": {
-        "point_id": "t3hicv",
-        "point_name": "USS Cassin Young (DD-793)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "弗莱彻级驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3hicv-1748769738062.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.934437,
-          40.631664
-        ]
-      },
-      "properties": {
-        "point_id": "t3k9u4",
-        "point_name": "Πλωτό Ναυτικό Μουσείο Α/Τ Βέλους",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "Velos (D16) - 前USS Charrette (DD-581)，弗莱彻级驱逐舰博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3k9u4-1748769907748.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.24005,
-          43.665756
-        ]
-      },
-      "properties": {
-        "point_id": "t3mbpu",
-        "point_name": "Mast of the USS Portland",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "波特兰号的三角桅杆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3mbpu-1748769961633.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.310387,
-          35.794385
-        ]
-      },
-      "properties": {
-        "point_id": "t3oet7",
-        "point_name": "USS Oklahoma Mast - Muskogee War Memorial Park",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "俄克拉荷马打捞上的一节桅杆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3oet7-1748770112429.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.31091,
-          35.794465
-        ]
-      },
-      "properties": {
-        "point_id": "t3qgip",
-        "point_name": "USS Batfish - Muskogee War Memorial Park",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "射水鱼同级舰，巴劳级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3qgip-1748770190236.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.513754,
-          35.481601
-        ]
-      },
-      "properties": {
-        "point_id": "t3spjd",
-        "point_name": "USS Oklahoma Anchor Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "俄克拉荷马号战列舰的船锚和纪念碑",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3spjd-1748770268804.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.475409,
-          35.52336
-        ]
-      },
-      "properties": {
-        "point_id": "t3uaen",
-        "point_name": "Science Museum Oklahoma",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "俄克拉荷马号的舰钟、螺旋桨",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3uaen-1748770334124.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.859296,
-          40.80588
-        ]
-      },
-      "properties": {
-        "point_id": "t3wmmh",
-        "point_name": "Wagner Building - The Pennsylvania State University",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "入口有宾夕法尼亚号的舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3wmmh-1748770457671.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.796714,
-          40.780592
-        ]
-      },
-      "properties": {
-        "point_id": "t3yn7k",
-        "point_name": "BB-38 Guns",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "宾夕法尼亚号的两门14英寸主炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t3yn7k-1748770546965.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.53147,
-          36.407745
-        ]
-      },
-      "properties": {
-        "point_id": "t40d0e",
-        "point_name": "Museum of Scott County",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "田纳西号战列舰(BB-43) 舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t40d0e-1748770629420.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.491759,
-          38.576208
-        ]
-      },
-      "properties": {
-        "point_id": "t42g0q",
-        "point_name": "USS California (BB-44) Ship Bell",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "加利福尼亚号舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t42g0q-1748770748114.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.977673,
-          46.654528
-        ]
-      },
-      "properties": {
-        "point_id": "t44jyc",
-        "point_name": "Veteran’s Memorial Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "科罗拉多号(BB-45)的一门127mm副炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t44jyc-1748770818060.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.271556,
-          40.006792
-        ]
-      },
-      "properties": {
-        "point_id": "t46o7p",
-        "point_name": "University Memorial Center - University of Colorado Boulder",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "科罗拉多号(BB-45)的舰钟、舵轮、以及一些其他小物件",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t46o7p-1748770919680.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.490518,
-          38.978459
-        ]
-      },
-      "properties": {
-        "point_id": "t48w10",
-        "point_name": "USS Maryland (BB-46) Memorial & Bell",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "马里兰号的舰钟，在拆解后被嵌入纪念碑中，现立于马里兰州安纳波利斯议会大厦外的草坪上",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t48w10-1748771034537.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.954127,
-          39.635553
-        ]
-      },
-      "properties": {
-        "point_id": "t4bica",
-        "point_name": "USS West Virginia (BB-48) Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "西弗吉尼亚号 (BB-48) 的桅杆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4bica-1748771166710.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.614049,
-          38.337767
-        ]
-      },
-      "properties": {
-        "point_id": "t4dlxk",
-        "point_name": "West Virginia State Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "西弗吉尼亚号 (BB-48) 的舰钟所在地",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4dlxk-1748771237415.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.53023,
-          39.272319
-        ]
-      },
-      "properties": {
-        "point_id": "t4fgox",
-        "point_name": "Veterans' Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "西弗吉尼亚号 (BB-48) 的一门防空火炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4fgox-1748771330085.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.295065,
-          36.847701
-        ]
-      },
-      "properties": {
-        "point_id": "t4hi4q",
-        "point_name": "Hampton Roads Naval Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "西弗吉尼亚号 (BB-48) 的舵轮、罗经柜",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4hi4q-1748771421879.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.762934,
-          43.543387
-        ]
-      },
-      "properties": {
-        "point_id": "t4joz8",
-        "point_name": "USS South Dakota (BB-57) Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "南达科他号的纪念馆，存有一门406mm主炮炮管，一只船锚，一扇螺旋桨，以及舰钟等大量文物。",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4joz8-1748771559889.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.192895,
-          39.809958
-        ]
-      },
-      "properties": {
-        "point_id": "t4m9qc",
-        "point_name": "Heslar Naval Armory",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "印第安纳号 (BB-58) 的舰钟，开放性未知",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4m9qc-1748771651928.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.124916,
-          41.116249
-        ]
-      },
-      "properties": {
-        "point_id": "t4pgg8",
-        "point_name": "Allen County War Memorial Coliseum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "印第安纳号战列舰 (BB-58) 的船锚",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4pgg8-1748771786134.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.527325,
-          39.180828
-        ]
-      },
-      "properties": {
-        "point_id": "t4qzot",
-        "point_name": "USS Indiana (BB-58)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "印第安纳号 (BB-58) 的船头、桅杆、两门防空火炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4qzot-1748771878662.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.498196,
-          11.581167
-        ]
-      },
-      "properties": {
-        "point_id": "t4tgup",
-        "point_name": "USS Saratoga (CV-3)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "萨拉托加原型舰，航母残骸顶部距离水面仅约15米，是世界上仅有三艘可供休闲潜水员进入的航母残骸之一",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4tgup-1748772011920.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.615161,
-          43.026127
-        ]
-      },
-      "properties": {
-        "point_id": "t4wf7g",
-        "point_name": "Gerald B.H. Solomon Saratoga National Cemetery",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "萨拉托加号 (CV-3) 舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4wf7g-1748772132532.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.69163,
-          41.510059
-        ]
-      },
-      "properties": {
-        "point_id": "t4ydd8",
-        "point_name": "USS Cod Submarine Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t4ydd8-1748772273251.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.016636,
-          30.681195
-        ]
-      },
-      "properties": {
-        "point_id": "t50klm",
-        "point_name": "USS Drum (SS-228)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t50klm-1748772309583.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.332704,
-          43.230102
-        ]
-      },
-      "properties": {
-        "point_id": "t51oq2",
-        "point_name": "USS Silversides (SS-236)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t51oq2-1748772362424.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.778885,
-          29.334191
-        ]
-      },
-      "properties": {
-        "point_id": "t53gho",
-        "point_name": "USS Cavalla (SS-244)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t53gho-1748772438539.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.655637,
-          44.092475
-        ]
-      },
-      "properties": {
-        "point_id": "t54fme",
-        "point_name": "USS Cobia (SS-245)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t54fme-1748772487606.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.881597,
-          42.878143
-        ]
-      },
-      "properties": {
-        "point_id": "t55do1",
-        "point_name": "USS Croaker (SS-246)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与大青花鱼、松鲷等同级，现存的猫鲨级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t55do1-1748772529470.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -157.939453,
-          21.368719
-        ]
-      },
-      "properties": {
-        "point_id": "t56eqj",
-        "point_name": "USS Bowfin (SS-287)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t56eqj-1748772571310.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.162922,
-          41.706072
-        ]
-      },
-      "properties": {
-        "point_id": "t57ghm",
-        "point_name": "USS Lionfish (SS-298)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t57ghm-1748772621182.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.141169,
-          39.943539
-        ]
-      },
-      "properties": {
-        "point_id": "t58g50",
-        "point_name": "USS Becuna (SS-319)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t58g50-1748772673589.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.416379,
-          37.810002
-        ]
-      },
-      "properties": {
-        "point_id": "t59tup",
-        "point_name": "USS Pampanito (SS-383)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t59tup-1748772731248.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.266884,
-          34.752073
-        ]
-      },
-      "properties": {
-        "point_id": "t5axa2",
-        "point_name": "USS Razorback (SS-394)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "与射水鱼同级，现存的巴劳级潜艇博物馆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5axa2-1748772785471.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03749,
-          38.326829
-        ]
-      },
-      "properties": {
-        "point_id": "t5cuw8",
-        "point_name": "Naval Surface Warfare Center Dahlgren Division",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "存有两门列克星敦级战列巡洋舰预计搭载的16英寸Mk II主炮，编号 No. 96, No. 100",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5cuw8-1748772879544.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03749,
-          38.326829
-        ]
-      },
-      "properties": {
-        "point_id": "t5f2cn",
-        "point_name": "Naval Surface Warfare Center Dahlgren Division",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "存有世界上仅此一门的18英寸Mk A主炮，即战舰世界中佐治亚号搭载的主炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5f2cn-1748772987805.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.996058,
-          38.872737
-        ]
-      },
-      "properties": {
-        "point_id": "t5is21",
-        "point_name": "Willard Park",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "存有一门16英寸Mk II主炮炮管，即列克星敦级战列巡洋舰计划搭载的主炮。编号No. 111",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5is21-1748773190763.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.13935,
-          39.489782
-        ]
-      },
-      "properties": {
-        "point_id": "t5lhtq",
-        "point_name": "Kanonendenkmal",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "白鹰",
-        "ep_cut": "",
-        "remark": "存有一门16英寸Mk III Mod 1主炮炮管，接近于列克星敦级战列巡洋舰计划搭载的Mk II主炮。编号No. 138",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5lhtq-1748970994017.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.419712,
-          50.099312
-        ]
-      },
-      "properties": {
-        "point_id": "t5nvmi",
-        "point_name": "HMS Warspite",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "厌战号 (03) 的一节桅杆",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5nvmi-1748773400823.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.472728,
-          50.12366
-        ]
-      },
-      "properties": {
-        "point_id": "t5pup5",
-        "point_name": "Marazion Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "厌战号1947年于普鲁士湾附近的岩石上搁浅，并于马拉宰恩海滩上拆解，因此大量遗物存于当地的博物馆中，而博物馆前身是当地于18 世纪中叶修建的市政大厅，本身亦属于二级保护建筑",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5pup5-1748773486681.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.109776,
-          50.800744
-        ]
-      },
-      "properties": {
-        "point_id": "t5r15f",
-        "point_name": "Royal Naval Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "厌战号 (03) 的一面军旗",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5r15f-1748773554785.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.109832,
-          50.800768
-        ]
-      },
-      "properties": {
-        "point_id": "t5sxt6",
-        "point_name": "Royal Naval Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "胡德号战列巡洋舰舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5sxt6-1748773682052.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.992729,
-          53.401372
-        ]
-      },
-      "properties": {
-        "point_id": "t5v12g",
-        "point_name": "Merseyside Maritime Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "罗德尼号 (29) 的舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5v12g-1748773720694.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.728417,
-          -1.300193
-        ]
-      },
-      "properties": {
-        "point_id": "t5wf03",
-        "point_name": "Bell from HMS Duke of York (17) - Lenana School",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "约克公爵号 (17) 的舰钟，拆解后赠予肯尼亚内罗毕的约克公爵学校（后更名为莱纳纳学校）",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5wf03-1748773841408.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          82.098611,
-          7.591112
-        ]
-      },
-      "properties": {
-        "point_id": "t5yluy",
-        "point_name": "HMS Hermes (95)",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "竞技神号 (95) 的沉船，世界上仅有三艘允许休闲潜水员潜入参观的航母之一，水深约52米，位于孟加拉湾接近斯里兰卡的海域。\n\n",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5yluy-1748773949329.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.518768,
-          35.900084
-        ]
-      },
-      "properties": {
-        "point_id": "t60res",
-        "point_name": "Fort Saint Elmo – National War Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "光辉号 (87) 舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t60res-1748774023270.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.518768,
-          35.900084
-        ]
-      },
-      "properties": {
-        "point_id": "t62iud",
-        "point_name": "Fort Saint Elmo – National War Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "不挠号 (92) 舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t62iud-1748774071917.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.843802,
-          54.638722
-        ]
-      },
-      "properties": {
-        "point_id": "t641ew",
-        "point_name": "Belfast Formidable Sea Cadets",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "可畏号航空母舰 (67) 舰钟，被 D. 安德鲁斯先生购买并赠送予贝尔法斯特第三海军学员队，现存于金尼加的TR Formidable学员中心，开放性未知",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t641ew-1748774188689.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.636525,
-          51.014906
-        ]
-      },
-      "properties": {
-        "point_id": "t67zq0",
-        "point_name": "Fleet Air Arm Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "皇家",
-        "ep_cut": "",
-        "remark": "胜利号航空母舰 (38) 舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t67zq0-1748774328931.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          165.510936,
-          11.601944
-        ]
-      },
-      "properties": {
-        "point_id": "t69d7o",
-        "point_name": "IJN Nagato",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "重樱",
-        "ep_cut": "",
-        "remark": "长门号战列舰沉船，少有的可由休闲潜水员潜入探索的战舰沉船，舰体残骸仅位于水下33.5米位置",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t69d7o-1748774441604.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.211884,
-          -33.876522
-        ]
-      },
-      "properties": {
-        "point_id": "t6chhg",
-        "point_name": "SMS Emden Gun",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "埃姆登号 (1908) (对应双生子中的白色) 的一门10.5 cm主炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6chhg-1748774550777.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.149002,
-          -35.280497
-        ]
-      },
-      "properties": {
-        "point_id": "t6erme",
-        "point_name": "Australian War Memorial",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "埃姆登号巡洋舰 (1908) (对应双生子中的白) 的一门10.5主炮和一些其他部件",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6erme-1748774650938.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.230903,
-          54.412069
-        ]
-      },
-      "properties": {
-        "point_id": "t6ic68",
-        "point_name": "SMS Seydlitz Bell",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "塞德利茨号战列巡洋舰的舰钟，悬挂于基尔莱博海军纪念馆入口处",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6ic68-1748774853173.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.722043,
-          63.708365
-        ]
-      },
-      "properties": {
-        "point_id": "t6krka",
-        "point_name": "Austrått Fort",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "格奈森瑙号战列舰的一门主炮，在被解除武装后用作岸防炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6krka-1748774931922.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.999627,
-          52.264
-        ]
-      },
-      "properties": {
-        "point_id": "t6n0sp",
-        "point_name": "Muzeum Wojska Polskiego",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "格奈森瑙号战列舰舰钟",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6n0sp-1748775029429.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.897361,
-          49.239319
-        ]
-      },
-      "properties": {
-        "point_id": "t6o6tz",
-        "point_name": "Technik Museum Sinsheim",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "提尔比茨号战列舰的一门副炮",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6o6tz-1748775090896.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.458448,
-          54.813681
-        ]
-      },
-      "properties": {
-        "point_id": "t6qp0l",
-        "point_name": "Wehrgeschichtliches Ausbildungszentrum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "提尔比茨号战列舰的军旗，位于佛伦斯堡军事历史培训中心，一年有几次开放日时开放参观",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6qp0l-1748775224699.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.016324,
-          69.930648
-        ]
-      },
-      "properties": {
-        "point_id": "t6s331",
-        "point_name": "Tirpitz Museum",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "提尔比茨号战列舰的船锚和一些其他文物，该馆开门时间似乎非常不稳定，请注意核实开放时间",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6s331-1748775266209.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.970152,
-          70.981484
-        ]
-      },
-      "properties": {
-        "point_id": "t6tecz",
-        "point_name": "Nordkappmuseet",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "铁血",
-        "ep_cut": "",
-        "remark": "提尔比茨号战列舰的一座柴油发电机存于其中，曾用作该镇的发电机",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6tecz-1748775329151.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.820829,
-          44.101111
-        ]
-      },
-      "properties": {
-        "point_id": "t6w3id",
-        "point_name": "Museo Tecnico Navale della Spezia",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "撒丁帝国",
-        "ep_cut": "",
-        "remark": "维托里奥·维内托号战列舰的螺旋桨",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t6w3id-1748775478665.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.78606,
-          44.730514
-        ]
-      },
-      "properties": {
-        "point_id": "9cbc7a0",
-        "point_name": "“塔什干”号驱逐领舰",
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "location": "",
-        "ep_cut": "",
-        "remark": "1942年7月2日，在经历了塞瓦斯托波尔到新罗西斯克的英勇战斗后，塔什干号驱逐领舰在此遭敌机空袭沉没",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/9cbc7a0-1767347004244.jpg"
       }
     },
     {

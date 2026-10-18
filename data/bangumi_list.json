@@ -1,5 +1,47 @@
 [
   {
+    "id": 208559,
+    "title_cn": "碧蓝航线",
+    "title_jp": "碧蓝航线",
+    "title_en": "",
+    "region": "",
+    "type": "游戏",
+    "rating": 6.6,
+    "points_count": 111,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/56/33/208559_6jzc1.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 570583,
+    "title_cn": "Grow Up Show ～向日葵马戏团～",
+    "title_jp": "グロウアップショウ ～ひまわりのサーカス団～",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.2,
+    "points_count": 14,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/0c/cf/570583_d3QZD.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 590553,
+    "title_cn": "",
+    "title_jp": "てつりょー！meet with 鉄道むすめ",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 0,
+    "points_count": 46,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 426239,
     "title_cn": "青春猪头少年不会梦到红书包女孩",
     "title_jp": "青春ブタ野郎はランドセルガールの夢を見ない",
@@ -140,20 +182,6 @@
     "bgm_id": null
   },
   {
-    "id": 570583,
-    "title_cn": "Grow Up Show ～向日葵马戏团～",
-    "title_jp": "グロウアップショウ ～ひまわりのサーカス団～",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7.2,
-    "points_count": 14,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 281281,
     "title_cn": "女神异闻录5 乱战：魅影攻手",
     "title_jp": "ペルソナ5 スクランブル ザ・ファントムストライカーズ",
@@ -263,20 +291,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/621188_k25vj0u.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 590553,
-    "title_cn": "",
-    "title_jp": "てつりょー！meet with 鉄道むすめ",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 0,
-    "points_count": 33,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
     "bgm_id": null
   },
   {
@@ -5696,20 +5710,6 @@
     "center_lng": 130.185367,
     "cover_url": "https://w.junreimap.com/images/bangumi/287488.jpg",
     "bgm_id": 35451
-  },
-  {
-    "id": 208559,
-    "title_cn": "碧蓝航线",
-    "title_jp": "碧蓝航线",
-    "title_en": "",
-    "region": "",
-    "type": "游戏",
-    "rating": 6.6,
-    "points_count": 111,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/56/33/208559_6jzc1.jpg",
-    "bgm_id": null
   },
   {
     "id": 349441,

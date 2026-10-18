@@ -83,86 +83,6 @@
     {
       "geometry": {
         "coordinates": [
-          120.321506,
-          36.053923
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppn064-1748565090956.jpg",
-        "location": "东煌",
-        "point_id": "ppn064",
-        "point_name": "101鞍山舰",
-        "remark": "在海军博物馆可供展览"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          121.629961,
-          36.808689
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppexv3-1748564727092.jpg",
-        "location": "东煌",
-        "point_id": "ppexv3",
-        "point_name": "103长春号舰艇",
-        "remark": "作为展示舰使用，无法登舰"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          121.671079,
-          38.872472
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqb8hz-1748566251324.jpg",
-        "location": "东煌",
-        "point_id": "pqb8hz",
-        "point_name": "海军大连舰艇展览中心",
-        "remark": "2026年2月24日起，太原舰已动工原地拆解，无法再参观，此地为原停靠地址"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          30.337769,
-          59.955416
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqt1pl-1748567264612.jpg",
-        "location": "北方联合",
-        "point_id": "pqt1pl",
-        "point_name": "крейсер Аврора",
-        "remark": "极具历史意义的舰艇博物馆"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -79.90794,
           32.789372
         ],
@@ -617,106 +537,6 @@
         "point_id": "qa8rjy",
         "point_name": "Marine-Ehrenmal",
         "remark": "欧根亲王号重巡洋舰的螺旋桨，陈列于德国基尔莱博海军纪念馆旁的草坪\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          9.82061,
-          44.101586
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ckip-1748971050428.jpg",
-        "location": "撒丁帝国",
-        "point_id": "q9ckip",
-        "point_name": "Museo Tecnico Navale della Spezia",
-        "remark": "维托里奥·维内托号战列舰的一台火控计算机位于其中，另外有一门黎塞留号战列舰主炮\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -4.616489,
-          48.268398
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9fwjb-1748598334647.jpg",
-        "location": "鸢尾教国",
-        "point_id": "q9fwjb",
-        "point_name": "Musée Mémorial de la Bataille de l'Atlantique",
-        "remark": "敦刻尔克号、斯特拉斯堡号战列舰、克莱蒙梭号航空母舰等舰船的船锚陈列于其外的草坪上\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -2.201556,
-          47.270709
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ipa5-1748598472485.jpg",
-        "location": "鸢尾教国",
-        "point_id": "q9ipa5",
-        "point_name": "Évasion du cuirassé Jean BART",
-        "remark": "让巴尔号战列舰的船锚陈列于其外的草坪上\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -4.41552,
-          48.280846
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9oy1d-1748598763113.jpg",
-        "location": "鸢尾教国",
-        "point_id": "q9oy1d",
-        "point_name": "École navale",
-        "remark": "黎塞留号战列舰的其中一门主炮陈列于此处\n"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -4.495476,
-          48.384966
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qadhgs-1748599902235.jpg",
-        "location": "鸢尾教国",
-        "point_id": "qadhgs",
-        "point_name": "Porte Tourville",
-        "remark": "黎塞留号战列舰的一门主炮陈列于岸边\n"
       },
       "type": "Feature"
     },
@@ -1703,26 +1523,6 @@
     {
       "geometry": {
         "coordinates": [
-          -77.03749,
-          38.326829
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 208559,
-        "bangumi_title": "碧蓝航线",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5f2cn-1748772987805.jpg",
-        "location": "白鹰",
-        "point_id": "t5f2cn",
-        "point_name": "Naval Surface Warfare Center Dahlgren Division",
-        "remark": "存有世界上仅此一门的18英寸Mk A主炮，即战舰世界中佐治亚号搭载的主炮"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -76.996058,
           38.872737
         ],
@@ -1757,6 +1557,26 @@
         "point_id": "t5lhtq",
         "point_name": "Kanonendenkmal",
         "remark": "存有一门16英寸Mk III Mod 1主炮炮管，接近于列克星敦级战列巡洋舰计划搭载的Mk II主炮。编号No. 138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -77.03749,
+          38.326829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t5f2cn-1748772987805.jpg",
+        "location": "白鹰",
+        "point_id": "t5f2cn",
+        "point_name": "Naval Surface Warfare Center Dahlgren Division",
+        "remark": "存有世界上仅此一门的18英寸Mk A主炮，即战舰世界中佐治亚号搭载的主炮"
       },
       "type": "Feature"
     },
@@ -1923,8 +1743,8 @@
     {
       "geometry": {
         "coordinates": [
-          14.518768,
-          35.900084
+          -2.636525,
+          51.014906
         ],
         "type": "Point"
       },
@@ -1932,11 +1752,11 @@
         "bangumi_id": 208559,
         "bangumi_title": "碧蓝航线",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t62iud-1748774071917.jpg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t67zq0-1748774328931.jpg",
         "location": "皇家",
-        "point_id": "t62iud",
-        "point_name": "Fort Saint Elmo – National War Museum",
-        "remark": "不挠号 (92) 舰钟"
+        "point_id": "t67zq0",
+        "point_name": "Fleet Air Arm Museum",
+        "remark": "胜利号航空母舰 (38) 舰钟"
       },
       "type": "Feature"
     },
@@ -1963,8 +1783,8 @@
     {
       "geometry": {
         "coordinates": [
-          -2.636525,
-          51.014906
+          14.518768,
+          35.900084
         ],
         "type": "Point"
       },
@@ -1972,11 +1792,11 @@
         "bangumi_id": 208559,
         "bangumi_title": "碧蓝航线",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t67zq0-1748774328931.jpg",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/t62iud-1748774071917.jpg",
         "location": "皇家",
-        "point_id": "t67zq0",
-        "point_name": "Fleet Air Arm Museum",
-        "remark": "胜利号航空母舰 (38) 舰钟"
+        "point_id": "t62iud",
+        "point_name": "Fort Saint Elmo – National War Museum",
+        "remark": "不挠号 (92) 舰钟"
       },
       "type": "Feature"
     },
@@ -2183,6 +2003,86 @@
     {
       "geometry": {
         "coordinates": [
+          120.321506,
+          36.053923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppn064-1748565090956.jpg",
+        "location": "东煌",
+        "point_id": "ppn064",
+        "point_name": "101鞍山舰",
+        "remark": "在海军博物馆可供展览"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.629961,
+          36.808689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/ppexv3-1748564727092.jpg",
+        "location": "东煌",
+        "point_id": "ppexv3",
+        "point_name": "103长春号舰艇",
+        "remark": "作为展示舰使用，无法登舰"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.671079,
+          38.872472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqb8hz-1748566251324.jpg",
+        "location": "东煌",
+        "point_id": "pqb8hz",
+        "point_name": "海军大连舰艇展览中心",
+        "remark": "2026年2月24日起，太原舰已动工原地拆解，无法再参观，此地为原停靠地址"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.82061,
+          44.101586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ckip-1748971050428.jpg",
+        "location": "撒丁帝国",
+        "point_id": "q9ckip",
+        "point_name": "Museo Tecnico Navale della Spezia",
+        "remark": "维托里奥·维内托号战列舰的一台火控计算机位于其中，另外有一门黎塞留号战列舰主炮\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           9.820829,
           44.101111
         ],
@@ -2203,6 +2103,26 @@
     {
       "geometry": {
         "coordinates": [
+          30.337769,
+          59.955416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1073/bangumi/208559/points/pqt1pl-1748567264612.jpg",
+        "location": "北方联合",
+        "point_id": "pqt1pl",
+        "point_name": "крейсер Аврора",
+        "remark": "极具历史意义的舰艇博物馆"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           37.78606,
           44.730514
         ],
@@ -2213,10 +2133,90 @@
         "bangumi_title": "碧蓝航线",
         "ep_cut": "",
         "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/9cbc7a0-1767347004244.jpg",
-        "location": "",
+        "location": "北方联合",
         "point_id": "9cbc7a0",
         "point_name": "“塔什干”号驱逐领舰",
         "remark": "1942年7月2日，在经历了塞瓦斯托波尔到新罗西斯克的英勇战斗后，塔什干号驱逐领舰在此遭敌机空袭沉没"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.616489,
+          48.268398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9fwjb-1748598334647.jpg",
+        "location": "鸢尾教国",
+        "point_id": "q9fwjb",
+        "point_name": "Musée Mémorial de la Bataille de l'Atlantique",
+        "remark": "敦刻尔克号、斯特拉斯堡号战列舰、克莱蒙梭号航空母舰等舰船的船锚陈列于其外的草坪上\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.41552,
+          48.280846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9oy1d-1748598763113.jpg",
+        "location": "鸢尾教国",
+        "point_id": "q9oy1d",
+        "point_name": "École navale",
+        "remark": "黎塞留号战列舰的其中一门主炮陈列于此处\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -4.495476,
+          48.384966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/qadhgs-1748599902235.jpg",
+        "location": "鸢尾教国",
+        "point_id": "qadhgs",
+        "point_name": "Porte Tourville",
+        "remark": "黎塞留号战列舰的一门主炮陈列于岸边\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -2.201556,
+          47.270709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 208559,
+        "bangumi_title": "碧蓝航线",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/208559/points/q9ipa5-1748598472485.jpg",
+        "location": "鸢尾教国",
+        "point_id": "q9ipa5",
+        "point_name": "Évasion du cuirassé Jean BART",
+        "remark": "让巴尔号战列舰的船锚陈列于其外的草坪上\n"
       },
       "type": "Feature"
     }

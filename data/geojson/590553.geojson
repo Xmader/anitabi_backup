@@ -659,6 +659,266 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.827645,
+          35.7299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5n0mr_1792248582609.webp",
+        "location": "EP2",
+        "point_id": "ks5n0mr",
+        "point_name": "銚子駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.828149,
+          35.729326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5qzgb_1792248720461.webp",
+        "location": "EP2",
+        "point_id": "ks5qzgb",
+        "point_name": "銚子電鉄銚子駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.828303,
+          35.729305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5v2ms_1792248900804.webp",
+        "location": "EP2",
+        "point_id": "ks5v2ms",
+        "point_name": "銚子電鉄銚子駅",
+        "remark": "桃电22000型22007編成"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.833683,
+          35.728874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6994f_1792249575664.webp",
+        "location": "EP2",
+        "point_id": "ks6994f",
+        "point_name": "仲ノ町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.833561,
+          35.728856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6b9dn_1792249668205.webp",
+        "location": "EP2",
+        "point_id": "ks6b9dn",
+        "point_name": "仲ノ町駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.847776,
+          35.731004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6npex_1792250258934.webp",
+        "location": "EP2",
+        "point_id": "ks6npex",
+        "point_name": "本銚子",
+        "remark": "站台向东拍摄即可 ，另该视角有多个可达机位，目前认为本銚子站台向东最准确"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.85712,
+          35.728332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7ss1q_1792252155800.webp",
+        "location": "EP2",
+        "point_id": "ks7ss1q",
+        "point_name": "笠上黒生",
+        "remark": "桃电唯一交换站"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.863522,
+          35.721762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6s113_1792250475417.webp",
+        "location": "EP2",
+        "point_id": "ks6s113",
+        "point_name": "海鹿島駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.857057,
+          35.69921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6yf5w_1792250746970.webp",
+        "location": "EP2",
+        "point_id": "ks6yf5w",
+        "point_name": "外川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.857044,
+          35.699195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6zxxq_1792250817737.webp",
+        "location": "EP2",
+        "point_id": "ks6zxxq",
+        "point_name": "外川駅",
+        "remark": "谷歌地标： 銚子電気鉄道 デハ８０１"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.856947,
+          35.699171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks72pw1_1792250955435.webp",
+        "location": "EP2",
+        "point_id": "ks72pw1",
+        "point_name": "外川駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768985,
+          35.699619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7l74i_1792251817918.webp",
+        "location": "EP2",
+        "point_id": "ks7l74i",
+        "point_name": "トミックス ショールーム東京秋葉原",
+        "remark": "ED中的N比例沙盘位于该地，TOMIX 官方展厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.725424,
+          33.16366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7qqud_1792252064597.webp",
+        "location": "EP2",
+        "point_id": "ks7qqud",
+        "point_name": "佐世保",
+        "remark": "街景：https://maps.app.goo.gl/brt2hG4SmpfgNdxt6"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
