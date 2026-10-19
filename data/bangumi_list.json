@@ -1,5 +1,75 @@
 [
   {
+    "id": 390237,
+    "title_cn": "我看得见你唷！爱泽同学",
+    "title_jp": "見えてますよ！愛沢さん",
+    "title_en": "",
+    "region": "名古屋市",
+    "type": "漫画系列",
+    "rating": 6.7,
+    "points_count": 6,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/390237.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 70224,
+    "title_cn": "唇瓣 叹惜 樱色",
+    "title_jp": "くちびる ためいき さくらいろ",
+    "title_en": "",
+    "region": "東京都",
+    "type": "漫画系列",
+    "rating": 7.3,
+    "points_count": 4,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/70224.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 291629,
+    "title_cn": "百合美食家！",
+    "title_jp": "すいとーと！",
+    "title_en": "",
+    "region": "福岡市",
+    "type": "漫画系列",
+    "rating": 6.7,
+    "points_count": 49,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/291629.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 583729,
+    "title_cn": "BanG Dream! YUME∞MITA",
+    "title_jp": "BanG Dream! ゆめ∞みた",
+    "title_en": "BanG Dream! YUME∞MITA",
+    "region": "千代田区",
+    "type": "TV",
+    "rating": 4.8,
+    "points_count": 291,
+    "center_lat": 35.702393,
+    "center_lng": 139.77221,
+    "cover_url": "https://w.junreimap.com/images/bangumi/583729.jpg",
+    "bgm_id": 2198
+  },
+  {
+    "id": 394260,
+    "title_cn": "我心里危险的东西",
+    "title_jp": "僕の心のヤバイやつ",
+    "title_en": "",
+    "region": "目黑区",
+    "type": "TV",
+    "rating": 7.8,
+    "points_count": 29,
+    "center_lat": 35.637533,
+    "center_lng": 139.754159,
+    "cover_url": "https://w.junreimap.com/images/bangumi/394260.jpg",
+    "bgm_id": 1963
+  },
+  {
     "id": 208559,
     "title_cn": "碧蓝航线",
     "title_jp": "碧蓝航线",
@@ -96,20 +166,6 @@
     "center_lng": 139.679607,
     "cover_url": "https://w.junreimap.com/images/bangumi/467930.jpg",
     "bgm_id": 4477
-  },
-  {
-    "id": 291629,
-    "title_cn": "百合美食家！",
-    "title_jp": "すいとーと！",
-    "title_en": "",
-    "region": "福岡市",
-    "type": "漫画系列",
-    "rating": 6.7,
-    "points_count": 17,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/291629.jpg",
-    "bgm_id": null
   },
   {
     "id": 402656,
@@ -782,20 +838,6 @@
     "center_lng": 135.905931,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/18/af/495291_Qd97X.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 583729,
-    "title_cn": "BanG Dream! YUME∞MITA",
-    "title_jp": "BanG Dream! ゆめ∞みた",
-    "title_en": "BanG Dream! YUME∞MITA",
-    "region": "千代田区",
-    "type": "TV",
-    "rating": 4.8,
-    "points_count": 288,
-    "center_lat": 35.702393,
-    "center_lng": 139.77221,
-    "cover_url": "https://w.junreimap.com/images/bangumi/583729.jpg",
-    "bgm_id": 2198
   },
   {
     "id": 275265,
@@ -4002,20 +4044,6 @@
     "center_lng": 136.898611,
     "cover_url": "https://w.junreimap.com/images/bangumi/208146.jpg",
     "bgm_id": 2382
-  },
-  {
-    "id": 394260,
-    "title_cn": "我心里危险的东西",
-    "title_jp": "僕の心のヤバイやつ",
-    "title_en": "",
-    "region": "目黑区",
-    "type": "TV",
-    "rating": 7.8,
-    "points_count": 29,
-    "center_lat": 35.637533,
-    "center_lng": 139.754159,
-    "cover_url": "https://w.junreimap.com/images/bangumi/394260.jpg",
-    "bgm_id": 1963
   },
   {
     "id": 228444,

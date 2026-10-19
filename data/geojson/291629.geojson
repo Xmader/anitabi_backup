@@ -173,7 +173,7 @@
         "bangumi_title": "百合美食家！",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/points/291629/kqmq0u6_1792156307703.webp",
-        "location": "びっくり亭本家 本店",
+        "location": "南福冈站",
         "point_id": "kqmq0u6",
         "point_name": "南福岡駅",
         "remark": "https://maps.app.goo.gl/6ng9wERuU2pzgBtC8"
@@ -193,7 +193,7 @@
         "bangumi_title": "百合美食家！",
         "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/points/291629/kqmreo6_1792156378949.webp",
-        "location": "びっくり亭本家 本店",
+        "location": "南福冈站",
         "point_id": "kqmreo6",
         "point_name": "南福岡駅",
         "remark": "https://maps.app.goo.gl/3GwFLQGm3xyYKTQh7"
@@ -213,7 +213,7 @@
         "bangumi_title": "百合美食家！",
         "ep_cut": 2,
         "image_url": "https://w.junreimap.com/images/points/291629/kqmvwu9_1792156598641.webp",
-        "location": "ざいとん 香椎本店",
+        "location": "西铁香椎站",
         "point_id": "kqmvwu9",
         "point_name": "西鉄香椎駅",
         "remark": ""
@@ -333,10 +333,650 @@
         "bangumi_title": "百合美食家！",
         "ep_cut": 2,
         "image_url": "https://w.junreimap.com/images/points/291629/kqn0d54_1792156774834.webp",
-        "location": "ざいとん 香椎本店",
+        "location": "西铁香椎站",
         "point_id": "kqn0d54",
         "point_name": "西鉄香椎駅",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.399122,
+          33.591541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/ks40532_1792245833601.webp",
+        "location": "天神·新天町",
+        "point_id": "ks40532",
+        "point_name": "福岡PARCO",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.398437,
+          33.590497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/ks46meh_1792246101224.webp",
+        "location": "天神·新天町",
+        "point_id": "ks46meh",
+        "point_name": "新天町北通り",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.396964,
+          33.590241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/ks43qmq_1792245956566.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "ks43qmq",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397007,
+          33.590266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/ks4adr5_1792246280968.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "ks4adr5",
+        "point_name": "飛うめ新天町",
+        "remark": "釜めしビクトリア对面的荞麦面店，对话中有提到该店的招牌菜为天妇罗丼。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.396989,
+          33.590173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/ks47uoy_1792246218502.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "ks47uoy",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.396998,
+          33.590181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/ks4cfqg_1792246357657.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "ks4cfqg",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397006,
+          33.590165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt2ojmi_1792304028424.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "kt2ojmi",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397004,
+          33.590163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt2p2ji_1792304061480.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "kt2p2ji",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397007,
+          33.590163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt2pk03_1792304084193.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "kt2pk03",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397001,
+          33.590165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt2kdjc_1792303848392.webp",
+        "location": "釜めしビクトリア",
+        "point_id": "kt2kdjc",
+        "point_name": "釜めしビクトリア",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397965,
+          33.590285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt359p6_1792304818516.webp",
+        "location": "天神·新天町",
+        "point_id": "kt359p6",
+        "point_name": "新天町サンドーム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397202,
+          33.589795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt2x72x_1792304896463.webp",
+        "location": "天神·新天町",
+        "point_id": "kt2x72x",
+        "point_name": "タイトーステーション 福岡天神店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.397273,
+          33.589642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt42cm7_1792306363750.webp",
+        "location": "天神·新天町",
+        "point_id": "kt42cm7",
+        "point_name": "タイトーステーション 福岡天神店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.399325,
+          33.59063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt4a4xd_1792306887198.webp",
+        "location": "天神·新天町",
+        "point_id": "kt4a4xd",
+        "point_name": "天神コア",
+        "remark": "2020年3月31日停业，已拆除。\nhttps://maps.app.goo.gl/wfMbFe91wzkrf9xd8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.398159,
+          33.590016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt5at4y_1792308565874.webp",
+        "location": "天神·新天町",
+        "point_id": "kt5at4y",
+        "point_name": "西鉄福岡駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.398625,
+          33.590078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt5g1np_1792308681583.webp",
+        "location": "天神·新天町",
+        "point_id": "kt5hzgs",
+        "point_name": "西鉄福岡駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412074,
+          33.559205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6ol25_1792310973142.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6ol25",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412045,
+          33.55918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6tvkz_1792311005474.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6tvkz",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412016,
+          33.559176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6uwr1_1792311048861.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6uwr1",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412042,
+          33.559172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6vf6d_1792311075046.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6vf6d",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.411982,
+          33.55921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6vv4f_1792311164352.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6vv4f",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.411981,
+          33.559185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6y6vg_1792311199565.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6y6vg",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.411988,
+          33.559181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6y7h5_1792311211061.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6y7h5",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412011,
+          33.559194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6z4yi_1792311245068.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6z4yi",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.411989,
+          33.559199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt6zied_1792311263645.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt6zied",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.411982,
+          33.559195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt701ja_1792311313567.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt701ja",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412003,
+          33.559207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt71pzb_1792311377146.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt71pzb",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412011,
+          33.559204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt72dun_1792311421092.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt72dun",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.411992,
+          33.559191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt73xj8_1792311477148.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt73xj8",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412033,
+          33.559184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt74lqu_1792311501502.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt74lqu",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.412022,
+          33.559165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt74z2q_1792311514434.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt74z2q",
+        "point_name": "うどん 兎屋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.41208,
+          33.559191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 291629,
+        "bangumi_title": "百合美食家！",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/291629/kt78swg_1792311701613.webp",
+        "location": "うどん 兎屋",
+        "point_id": "kt78swg",
+        "point_name": "うどん 兎屋",
+        "remark": "斑马线对面的人行道进修了翻修并加装了护栏。"
       },
       "type": "Feature"
     }

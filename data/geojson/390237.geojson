@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          136.901788,
+          35.145652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390237,
+        "bangumi_title": "我看得见你唷！爱泽同学",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/390237/ktlm4fr_1792335839532.webp",
+        "location": "",
+        "point_id": "ktlm4fr",
+        "point_name": "日本特殊陶業市民会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902557,
+          35.145405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390237,
+        "bangumi_title": "我看得见你唷！爱泽同学",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/390237/ktlg7n1_1792335707918.webp",
+        "location": "",
+        "point_id": "ktlg7n1",
+        "point_name": "日本特殊陶業市民会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.901872,
+          35.145623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390237,
+        "bangumi_title": "我看得见你唷！爱泽同学",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/390237/ktlljul_1792335804944.webp",
+        "location": "",
+        "point_id": "ktlljul",
+        "point_name": "日本特殊陶業市民会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902473,
+          35.145481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390237,
+        "bangumi_title": "我看得见你唷！爱泽同学",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/390237/ktljsvu_1792335872211.webp",
+        "location": "",
+        "point_id": "ktljsvu",
+        "point_name": "日本特殊陶業市民会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902446,
+          35.145565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390237,
+        "bangumi_title": "我看得见你唷！爱泽同学",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/390237/ktlnbrg_1792335888866.webp",
+        "location": "",
+        "point_id": "ktlnbrg",
+        "point_name": "日本特殊陶業市民会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.902503,
+          35.145596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 390237,
+        "bangumi_title": "我看得见你唷！爱泽同学",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/390237/ktlohug_1792335949655.webp",
+        "location": "",
+        "point_id": "ktlohug",
+        "point_name": "日本特殊陶業市民会館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

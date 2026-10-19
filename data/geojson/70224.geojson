@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.768681,
+          35.801814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 70224,
+        "bangumi_title": "唇瓣 叹惜 樱色",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/70224/ktfh95k_1792325540248.webp",
+        "location": "中入谷停留所",
+        "point_id": "ktfh95k",
+        "point_name": "中入谷停留所",
+        "remark": "瞳和奈奈每天早上在中入谷公交站碰头，乘坐里48系统巴士前往西日暮里站。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768425,
+          35.801828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 70224,
+        "bangumi_title": "唇瓣 叹惜 樱色",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/70224/ktfj247_1792325646556.webp",
+        "location": "中入谷停留所",
+        "point_id": "ktgbz9b",
+        "point_name": "中入谷停留所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.768657,
+          35.801806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 70224,
+        "bangumi_title": "唇瓣 叹惜 樱色",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/70224/ktfkdgk_1792325670723.webp",
+        "location": "中入谷停留所",
+        "point_id": "ktfkdgk",
+        "point_name": "中入谷停留所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.767325,
+          35.732358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 70224,
+        "bangumi_title": "唇瓣 叹惜 樱色",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/70224/ktg1bx0_1792326521395.webp",
+        "location": "西日暮里站",
+        "point_id": "ktg1bx0",
+        "point_name": "西日暮里駅 JR出口2",
+        "remark": "https://maps.app.goo.gl/3gqhkUX3utyvVkqJ7"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

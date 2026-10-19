@@ -5759,6 +5759,66 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773895,
+          35.702637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 583729,
+        "bangumi_title": "BanG Dream! YUME∞MITA",
+        "ep_cut": "EP12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583729/points/kswsah7-1792294133320.webp",
+        "location": "",
+        "point_id": "kswsah7",
+        "point_name": "肉のハナマサ 秋葉原店",
+        "remark": "藤都子堵人地点"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774167,
+          35.703455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 583729,
+        "bangumi_title": "BanG Dream! YUME∞MITA",
+        "ep_cut": "EP12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583729/points/kswweh7-1792294375315.webp",
+        "location": "",
+        "point_id": "kswweh7",
+        "point_name": "2k540 Aki-Oka Artisan",
+        "remark": "羊羹之战主战场，2k540进去之后往里走即是"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773957,
+          35.702907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 583729,
+        "bangumi_title": "BanG Dream! YUME∞MITA",
+        "ep_cut": "EP12",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/583729/points/kswu5tz-1792294216198.webp",
+        "location": "",
+        "point_id": "kswu5tz",
+        "point_name": "肉のハナマサ 秋葉原店 对面",
+        "remark": "堵人第二视角"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
