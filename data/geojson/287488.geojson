@@ -959,6 +959,26 @@
         "remark": "IATA代码：HSG；ICAO代码：RJFS。日本国内仅有羽田这一条航线（ANA承运），春秋航空有从上海飞往此处的航班（当前航班号为9C6139/6140）"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.993547,
+          33.251944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kuxchgg-1792416012936.webp",
+        "location": "",
+        "point_id": "kuxchgg",
+        "point_name": "川古の大楠公園",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

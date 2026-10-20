@@ -682,9 +682,23 @@
       "status_code": 0,
       "user_id": 9642,
       "zoom": 11370
+    },
+    {
+      "ep_cut": 4,
+      "id": "kuxchgg",
+      "image_path": "/images/user/0/bangumi/287488/points/kuxchgg-1792416012936.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kuxchgg-1792416012936.webp",
+      "lat": 33.251944,
+      "lng": 129.993547,
+      "location": "",
+      "name": "川古の大楠公園",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 6565
     }
   ],
-  "points_count": 48,
+  "points_count": 49,
   "rating": 7.7,
   "region": "佐贺县",
   "short_name": "",
