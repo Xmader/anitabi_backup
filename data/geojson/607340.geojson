@@ -219,6 +219,986 @@
         "remark": "乘坐的台场海滨公园观光游船Hotaluna线时站在船二层露天观光区经过永代桥底时的场景"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79054,
+          35.667237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "5c134cb3",
+        "point_name": "明治丸",
+        "remark": "OP、2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792693,
+          35.667045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "c86fd3fb",
+        "point_name": "東京海洋大学 越中島キャンパス 2号館",
+        "remark": "PV、OP、第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79275,
+          35.666538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "9a914b88",
+        "point_name": "自販機",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793585,
+          35.667084
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "12cac19e",
+        "point_name": "越中島駅 前",
+        "remark": "OP、第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.790942,
+          35.668686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "578e342b",
+        "point_name": "旧東京高等商船学校 天体観測所",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79087,
+          35.668413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "39724618",
+        "point_name": "東京商船大学１号館",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792044,
+          35.666206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "e18a0e80",
+        "point_name": "第4実験棟周边",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792422,
+          35.666638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "cf09ad64",
+        "point_name": "第4実験棟周边",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792138,
+          35.66637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "2d491089",
+        "point_name": "第4実験棟周边",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792323,
+          35.666579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "e608fa17",
+        "point_name": "第4実験棟附近",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791862,
+          35.666081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "0350b961",
+        "point_name": "第1艇庫附近",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792818,
+          35.668395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "befda105",
+        "point_name": "記念会館",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792853,
+          35.667897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "ea1d09f3",
+        "point_name": "記念会館 周边",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.790501,
+          35.668579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "4a5a1bd5",
+        "point_name": "正門周边",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792521,
+          35.66688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "b693a0d5",
+        "point_name": "2号館与3号館之间",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791823,
+          35.667054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "7f080a39",
+        "point_name": "図書館",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792712,
+          35.666861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "d30a2d70",
+        "point_name": "大学生協付附近的広場",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.791919,
+          35.666279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "18f02a0d",
+        "point_name": "ポンド",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792242,
+          35.665698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "d4c5f0b7",
+        "point_name": "花火研究会",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793382,
+          35.670727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "5af51ca0",
+        "point_name": "セブン-イレブン 江東牡丹１丁目店",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789772,
+          35.667588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "4a2e17b6",
+        "point_name": "相生橋",
+        "remark": "7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.788737,
+          35.667217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "69f382b4",
+        "point_name": "相生橋",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.788564,
+          35.667065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 2,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "db759649",
+        "point_name": "相生橋",
+        "remark": "第2話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786761,
+          35.665682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "db611eb4",
+        "point_name": "相生橋南詰附近",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.787478,
+          35.666292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "ED1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "c9f3152f",
+        "point_name": "相生橋南詰交差点",
+        "remark": "ED"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781775,
+          35.663322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "30f1ed02",
+        "point_name": "ミッドタワーグランド前",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782408,
+          35.662843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "70313e20",
+        "point_name": "フジマート月島店前",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782695,
+          35.663053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "fff14f92",
+        "point_name": "モスバーガー月島店 附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.782933,
+          35.663203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "2a85074e",
+        "point_name": "伊勢喜酒店前",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786169,
+          35.665576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "07640c18",
+        "point_name": "月島駅前バス停附近交差点",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7872,
+          35.666462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "07543e36",
+        "point_name": "相生橋南詰の交差点附近",
+        "remark": "第1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786638,
+          35.66698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "e39a1ba7",
+        "point_name": "小春のマンション附近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.787011,
+          35.666642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 1,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "18fdb4d0",
+        "point_name": "小春のマンション附近",
+        "remark": "1話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781048,
+          35.663279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "dd416bca",
+        "point_name": "西仲通り",
+        "remark": "6話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.779731,
+          35.662439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 6,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "cbb71714",
+        "point_name": "つきしま小町",
+        "remark": "6話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.785091,
+          35.66442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "bfa2281b",
+        "point_name": "初見橋交差点附近",
+        "remark": "7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.783786,
+          35.665366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "56458aaf",
+        "point_name": "月島駅エレベーター口附近交差点",
+        "remark": "7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781102,
+          35.667963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "OP1",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "731199db",
+        "point_name": "佃大橋",
+        "remark": "OP"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.781008,
+          35.667741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 7,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "a06136bb",
+        "point_name": "佃大橋",
+        "remark": "7話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771867,
+          35.646993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 5,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "c4e7ef39",
+        "point_name": "晴海ふ頭",
+        "remark": "5話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786194,
+          35.697481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "c8d9387e",
+        "point_name": "浅草橋駅A3出口附近",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.786646,
+          35.69753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "6884e99c",
+        "point_name": "コメダ珈琲店 浅草橋駅前店",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.790502,
+          35.702668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "0c189528",
+        "point_name": "松木商店",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.790376,
+          35.702639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "61cda4b1",
+        "point_name": "松木商店前",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.792,
+          35.697771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 4,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "35cfe17c",
+        "point_name": "東京水辺ライン両国発着場",
+        "remark": "4話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.795841,
+          35.674517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 10,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "9e239347",
+        "point_name": "らーめん弁慶",
+        "remark": "10話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.953608,
+          33.962745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "e863d620",
+        "point_name": "関門橋遠景",
+        "remark": "第3話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.113958,
+          35.958306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "fa368af1",
+        "point_name": "山﨑煙火製造所",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.140153,
+          35.161845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 607340,
+        "bangumi_title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。",
+        "ep_cut": 12,
+        "image_url": "",
+        "location": "大修预标点（无图）",
+        "point_id": "d8d75a48",
+        "point_name": "岩海水浴場",
+        "remark": "12話"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

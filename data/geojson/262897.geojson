@@ -23,8 +23,8 @@
     {
       "geometry": {
         "coordinates": [
-          138.893894,
-          35.423583
+          138.893874,
+          35.423611
         ],
         "type": "Point"
       },
@@ -34,9 +34,9 @@
         "ep_cut": "",
         "image_url": "",
         "location": "",
-        "point_id": "f57i6zv",
+        "point_id": "kw7uq87",
         "point_name": "【词条大修提醒】",
-        "remark": "S02预计在6~7月份期间进行大修和点位核实（是的！咕了两年的S02终于要动工了！），大修期间S02的新地标提交请尽量通过官群提交，S01/S03/剧场版不影响，谢谢~"
+        "remark": "20261020词条已大修，如不显示新地标可强制刷新。部分地标因底图更换存在坐标偏移，后续会陆续纠偏。"
       },
       "type": "Feature"
     },
@@ -14173,7 +14173,7 @@
         "bangumi_title": "摇曳露营△ 二期",
         "ep_cut": 10,
         "image_url": "https://w.junreimap.com/images/points/262897/jpva31f_1789933410761.webp",
-        "location": "",
+        "location": "南伊豆-下田-下田站周边",
         "point_id": "jpva31f",
         "point_name": "まどが浜 海遊公園",
         "remark": ""
@@ -21457,26 +21457,6 @@
         "point_id": "4vc9w5s",
         "point_name": "圣地巡礼纪念指示牌",
         "remark": "大概在这个位置附近的草地上有圣地巡礼纪念指示牌"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          138.035575,
-          33.646895
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 262897,
-        "bangumi_title": "摇曳露营△ 二期",
-        "ep_cut": 13,
-        "image_url": "https://w.junreimap.com/images/user/2168/bangumi/262897/points/jql2abl-1789976723899.webp",
-        "location": "",
-        "point_id": "jql2abl",
-        "point_name": "数据同步测试地标（大修后）",
-        "remark": "鹅鹅鹅"
       },
       "type": "Feature"
     }

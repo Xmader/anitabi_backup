@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.712496,
+          35.730287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 461932,
+        "bangumi_title": "我的蓝色石榴石",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kw56t0b",
+        "point_name": "池袋駅東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.332296,
+          33.666313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 461932,
+        "bangumi_title": "我的蓝色石榴石",
+        "ep_cut": "",
+        "image_url": "",
+        "location": "",
+        "point_id": "kw55kp6",
+        "point_name": "三段壁",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

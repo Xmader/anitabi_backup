@@ -27,17 +27,17 @@
     },
     {
       "ep_cut": "",
-      "id": "f57i6zv",
+      "id": "kw7uq87",
       "image_path": "",
       "image_url": "",
-      "lat": 35.423583,
-      "lng": 138.893894,
+      "lat": 35.423611,
+      "lng": 138.893874,
       "location": "",
       "name": "【词条大修提醒】",
-      "remark": "S02预计在6~7月份期间进行大修和点位核实（是的！咕了两年的S02终于要动工了！），大修期间S02的新地标提交请尽量通过官群提交，S01/S03/剧场版不影响，谢谢~",
+      "remark": "20261020词条已大修，如不显示新地标可强制刷新。部分地标因底图更换存在坐标偏移，后续会陆续纠偏。",
       "status_code": 2168,
       "user_id": 10,
-      "zoom": 36
+      "zoom": 40
     },
     {
       "ep_cut": 2,
@@ -9930,7 +9930,7 @@
       "image_url": "https://w.junreimap.com/images/points/262897/jpva31f_1789933410761.webp",
       "lat": 34.675362,
       "lng": 138.955043,
-      "location": "",
+      "location": "南伊豆-下田-下田站周边",
       "name": "まどが浜 海遊公園",
       "remark": "",
       "status_code": 2168,
@@ -14400,7 +14400,7 @@
       "name": "大室山　山頂",
       "remark": "实际位置34.899784, 139.097804 以坐标为准\n实际位置34.899784, 139.097804\n以坐标为准 拖动可能不准",
       "status_code": 2168,
-      "user_id": 10,
+      "user_id": 36,
       "zoom": 36
     },
     {
@@ -14414,7 +14414,7 @@
       "name": "大室山　山頂",
       "remark": "",
       "status_code": 2168,
-      "user_id": 10,
+      "user_id": 36,
       "zoom": 37
     },
     {
@@ -14442,7 +14442,7 @@
       "name": "S2-13 大室山",
       "remark": "",
       "status_code": 0,
-      "user_id": 85,
+      "user_id": 52,
       "zoom": 63
     },
     {
@@ -15032,28 +15032,14 @@
       "status_code": 2168,
       "user_id": 31,
       "zoom": 12
-    },
-    {
-      "ep_cut": 13,
-      "id": "jql2abl",
-      "image_path": "/images/user/2168/bangumi/262897/points/jql2abl-1789976723899.webp",
-      "image_url": "https://w.junreimap.com/images/user/2168/bangumi/262897/points/jql2abl-1789976723899.webp",
-      "lat": 33.646895,
-      "lng": 138.035575,
-      "location": "",
-      "name": "数据同步测试地标（大修后）",
-      "remark": "鹅鹅鹅",
-      "status_code": 2168,
-      "user_id": 107364,
-      "zoom": 115063
     }
   ],
-  "points_count": 1074,
+  "points_count": 1073,
   "rating": 8.3,
   "region": "静岡県",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/262897_100_76.webp?v=hs09m",
+    "/images/ptheme/262897_100_76.webp?v=hsbm1",
     [
       "gccmbr8",
       "5fchw27wa",
@@ -16125,10 +16111,9 @@
       "45dqwc5",
       "45dtmtj",
       "45ljpam",
-      "4vc9w5s",
-      "jql2abl"
+      "4vc9w5s"
     ],
-    1791611171107,
+    1792493349879,
     100,
     76
   ],
