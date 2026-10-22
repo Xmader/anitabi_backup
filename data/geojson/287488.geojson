@@ -979,6 +979,46 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.97547,
+          33.129907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kwc8aqn-1792501469366.webp",
+        "location": "",
+        "point_id": "kwc8aqn",
+        "point_name": "森とリスの遊園地 メルヘン村",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.108655,
+          33.076151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kwcavo2-1792501602176.webp",
+        "location": "",
+        "point_id": "kwcavo2",
+        "point_name": "新油屋",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

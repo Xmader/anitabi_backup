@@ -667,7 +667,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 4227,
-      "zoom": 8966
+      "zoom": 308
     },
     {
       "ep_cut": 3,
@@ -696,9 +696,37 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 6565
+    },
+    {
+      "ep_cut": 5,
+      "id": "kwc8aqn",
+      "image_path": "/images/user/0/bangumi/287488/points/kwc8aqn-1792501469366.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kwc8aqn-1792501469366.webp",
+      "lat": 33.129907,
+      "lng": 129.97547,
+      "location": "",
+      "name": "森とリスの遊園地 メルヘン村",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 8367
+    },
+    {
+      "ep_cut": 2,
+      "id": "kwcavo2",
+      "image_path": "/images/user/0/bangumi/287488/points/kwcavo2-1792501602176.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kwcavo2-1792501602176.webp",
+      "lat": 33.076151,
+      "lng": 130.108655,
+      "location": "",
+      "name": "新油屋",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 9087
     }
   ],
-  "points_count": 49,
+  "points_count": 51,
   "rating": 7.7,
   "region": "佐贺县",
   "short_name": "",
