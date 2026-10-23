@@ -1,0 +1,46 @@
+{
+  "abbreviation": "",
+  "bgm_id": null,
+  "center_lat": 0,
+  "center_lng": 0,
+  "center_zoom": 0,
+  "color": "#7fe15b",
+  "cover_path": "/images/bangumi/172842_jzkz202.jpg",
+  "cover_url": "https://w.junreimap.com/images/bangumi/172842_jzkz202.jpg",
+  "icon_path": "",
+  "icon_url": "",
+  "id": 172842,
+  "points": [
+    {
+      "ep_cut": "",
+      "id": "kywr06a",
+      "image_path": "/images/points/172842/kywr06a_1792656916132.webp",
+      "image_url": "https://w.junreimap.com/images/points/172842/kywr06a_1792656916132.webp",
+      "lat": 35.709419,
+      "lng": 139.808506,
+      "location": "",
+      "name": "東武橋",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 110999999889000,
+      "zoom": 65
+    }
+  ],
+  "points_count": 1,
+  "rating": 7.2,
+  "region": "",
+  "short_name": "",
+  "theme_meta": [
+    "/images/ptheme/172842_100_76.webp?v=hsdpr",
+    [
+      "kywr06a"
+    ],
+    1792656951212,
+    100,
+    76
+  ],
+  "title_cn": "花之天使的夏日恋歌",
+  "title_en": "",
+  "title_jp": "フローラル・フローラブ",
+  "type": "游戏"
+}

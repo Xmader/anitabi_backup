@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.808506,
+          35.709419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/172842/kywr06a_1792656916132.webp",
+        "location": "",
+        "point_id": "kywr06a",
+        "point_name": "東武橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

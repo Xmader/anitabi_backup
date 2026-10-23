@@ -51,12 +51,192 @@
       "properties": {
         "bangumi_id": 74628,
         "bangumi_title": "伪恋",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/points/74628/tkx1468he_1753635033941_cblack.jpg",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/tkx1468he_1792682056254.webp",
         "location": "",
         "point_id": "tkx1468he",
         "point_name": "ビーナスブリッジ",
         "remark": "记不清中文名了，就是第二季最后约会的位置。说一下桥的位置可以和动漫一样，但椅子的取景是画师的艺术加成"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180586,
+          34.697263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzbwn6i_1792682326380.webp",
+        "location": "",
+        "point_id": "kzbwn6i",
+        "point_name": "ビーナスブリッジ",
+        "remark": "注意第一季20集，加上第二季的12集"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180541,
+          34.697298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 27,
+        "image_url": "https://w.junreimap.com/images/points/74628/kze0ww4_1792685877517.webp",
+        "location": "",
+        "point_id": "kze0ww4",
+        "point_name": "ビーナスブリッジ",
+        "remark": "妹妹出场，很奇怪后面的房子是居民房，但和后面约会的取景不一样，这就导致学校的取景不好推断，后面的大海取景被房子替换了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180603,
+          34.697282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc056n_1792682481638.webp",
+        "location": "",
+        "point_id": "kzc056n",
+        "point_name": "ビーナスブリッジ",
+        "remark": "注意这里的椅子是靠近观景台位置与动漫不一样，应该是翻修过"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180583,
+          34.697279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc2blx_1792682589626.webp",
+        "location": "",
+        "point_id": "kzc2blx",
+        "point_name": "ビーナスブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.18057,
+          34.697278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc2d1s_1792682600549.webp",
+        "location": "",
+        "point_id": "kzc2d1s",
+        "point_name": "ビーナスブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180589,
+          34.697291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc3bz8_1792682633639.webp",
+        "location": "",
+        "point_id": "kzc3bz8",
+        "point_name": "ビーナスブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180559,
+          34.697318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc7h5f_1792682843949.webp",
+        "location": "",
+        "point_id": "kzc7h5f",
+        "point_name": "ビーナスブリッジ",
+        "remark": "根据动漫的座椅来推断位置，大概是错误的，虽然根据动漫剧情推断没问题，也可能在左面楼梯的停车场，反正大概率不对交给各位了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180584,
+          34.697321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc7hwa_1792682870914.webp",
+        "location": "",
+        "point_id": "kzc7hwa",
+        "point_name": "ビーナスブリッジ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.180573,
+          34.697308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzc7ilm_1792682889566.webp",
+        "location": "",
+        "point_id": "kzc7ilm",
+        "point_name": "ビーナスブリッジ",
+        "remark": ""
       },
       "type": "Feature"
     },
@@ -71,92 +251,12 @@
       "properties": {
         "bangumi_id": 74628,
         "bangumi_title": "伪恋",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74628/points/tkx54psux-1741594861226.jpg",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/tkx54psux_1792682234395.webp",
         "location": "",
         "point_id": "tkx54psux",
         "point_name": "ビーナステラス",
         "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.877927,
-          35.675492
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 74628,
-        "bangumi_title": "伪恋",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74628/points/tkx7my6qf-1741595019280.jpg",
-        "location": "",
-        "point_id": "tkx7my6qf",
-        "point_name": "環七通り",
-        "remark": "主角们的上学路"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.876599,
-          35.67496
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 74628,
-        "bangumi_title": "伪恋",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74628/points/tkx92may3-1741595304180.jpg",
-        "location": "",
-        "point_id": "tkx92may3",
-        "point_name": "上学路",
-        "remark": "基本都在这条河上，男主女主上学的那个墙应该不在这里，反正我没有看见。提一下，这里还是有很大的变化，只有一个我拍了没有变化"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.876729,
-          35.674973
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 74628,
-        "bangumi_title": "伪恋",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74628/points/tkxcxacyq-1741595329702.jpg",
-        "location": "",
-        "point_id": "tkxcxacyq",
-        "point_name": "上学校的路",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.710483,
-          35.66618
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 74628,
-        "bangumi_title": "伪恋",
-        "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/74628/points/tkxe4rzmx-1741595416778.jpg",
-        "location": "",
-        "point_id": "tkxe4rzmx",
-        "point_name": "表参道人行天桥",
-        "remark": "就在这条路上"
       },
       "type": "Feature"
     },
@@ -303,6 +403,66 @@
     {
       "geometry": {
         "coordinates": [
+          139.69786,
+          35.693805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzds3sg_1792685514996.webp",
+        "location": "",
+        "point_id": "kzds3sg",
+        "point_name": "西口天桥",
+        "remark": "后面的建筑都是符合的，但左面还有右面的都不太行，个人认为10多年的变化，新宿的变化很大，只能说大概率正确，主要通过后面的铁路来寻找的"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69783,
+          35.6938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzdwikt_1792685717237.webp",
+        "location": "",
+        "point_id": "kzdwikt",
+        "point_name": "西口天桥",
+        "remark": "这个应该是咖啡店，但现在也不知道是什么了，加上翻修更不知道了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697834,
+          35.693768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 26,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzdwj9o_1792685674251.webp",
+        "location": "",
+        "point_id": "kzdwj9o",
+        "point_name": "西口天桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.703233,
           35.669316
         ],
@@ -377,26 +537,6 @@
         "point_id": "kxt7kws",
         "point_name": "表参道",
         "remark": "这个位置根据动漫的前后文的推断，但现实左面的房子已经变化，只有右面的比较符合，前面的十字路口就更不符合，所以大概是错误的"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.710382,
-          35.66619
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 74628,
-        "bangumi_title": "伪恋",
-        "ep_cut": 2,
-        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/74628/points/kxtcw86-1792590707846.webp",
-        "location": "",
-        "point_id": "kxtcw86",
-        "point_name": "天桥",
-        "remark": "来源于日本通"
       },
       "type": "Feature"
     },
@@ -523,6 +663,46 @@
     {
       "geometry": {
         "coordinates": [
+          139.876174,
+          35.675018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzcfqm4_1792683217978.webp",
+        "location": "",
+        "point_id": "kzcfqm4",
+        "point_name": "桥前",
+        "remark": "这个桥老熟人了，后面的房子没有问题"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.875318,
+          35.675291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzd6yj7_1792684489579.webp",
+        "location": "",
+        "point_id": "kzd6yj7",
+        "point_name": "桥前",
+        "remark": "动漫取景就在这两个之间，但实在找不到正确的位置，可以更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.875039,
           35.675211
         ],
@@ -537,6 +717,206 @@
         "point_id": "kxubvxp",
         "point_name": "Furukawa Water Park",
         "remark": "这里红桥的位置在后面，根据现实拍摄应该是在85mm左右，注意前面的这个铁桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.87425,
+          35.675412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/74628/kzcoxfw_1792683644468.webp",
+        "location": "",
+        "point_id": "kzcoxfw",
+        "point_name": "Hinode Dry Cleaners",
+        "remark": "左面的房子是这个名称位置Japan, 〒134-0013 Tokyo, Edogawa City, Edogawa, 6 Chome−35-2 コーポ日の出"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874545,
+          35.675473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfoh7z_1792688706509.webp",
+        "location": "",
+        "point_id": "kzfoh7z",
+        "point_name": "不清楚位置",
+        "remark": "最喜欢的场景之一，但确实找不到，找到的朋友更正一下"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874606,
+          35.675508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfpscd_1792688740665.webp",
+        "location": "",
+        "point_id": "kzfpscd",
+        "point_name": "不清楚位置",
+        "remark": "看后面的应该在千叶，大概是和第一季13集的名场面结合的，难找，找到的可以更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874603,
+          35.675557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfqiy8_1792688763489.webp",
+        "location": "",
+        "point_id": "kzfqiy8",
+        "point_name": "不清楚位置",
+        "remark": "和千叶的那个差不多，应该是一个新的公园"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874558,
+          35.675577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 25,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfr0mz_1792688787925.webp",
+        "location": "",
+        "point_id": "kzfr0mz",
+        "point_name": "不清楚位置",
+        "remark": "虽然后面的建筑明显，但还是难找"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874525,
+          35.675415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfxikt_1792689091928.webp",
+        "location": "",
+        "point_id": "kzfxikt",
+        "point_name": "不清楚位置",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874497,
+          35.675443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfy1gv_1792689102159.webp",
+        "location": "",
+        "point_id": "kzfy1gv",
+        "point_name": "不清楚位置",
+        "remark": "小野寺家附近的商业街，找到也就找到其他位置不远了，还有车站位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874458,
+          35.675477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfyafr_1792689114975.webp",
+        "location": "",
+        "point_id": "kzfyafr",
+        "point_name": "不清楚位置",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874497,
+          35.675516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 32,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfyjmp_1792689132374.webp",
+        "location": "",
+        "point_id": "kzfyjmp",
+        "point_name": "不清楚位置",
+        "remark": "找发带的取景，这里和re，终将成为你的取景相似，可以通过jr的颜色来推路线"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.874646,
+          35.675582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzfrist_1792688821003.webp",
+        "location": "",
+        "point_id": "kzfrist",
+        "point_name": "不清楚位置",
+        "remark": "这个名场面公园找不到，最好根据公园的滑梯来找"
       },
       "type": "Feature"
     },
@@ -563,6 +943,26 @@
     {
       "geometry": {
         "coordinates": [
+          139.873407,
+          35.675321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 23,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzd0ebt_1792684203599.webp",
+        "location": "",
+        "point_id": "kzd0ebt",
+        "point_name": "Teinaisha",
+        "remark": "主要这里是房子，拍摄在对面，一条后面的是停车的位置，注意房子的颜色分层拍摄就行"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.876614,
           35.67502
         ],
@@ -577,6 +977,46 @@
         "point_id": "kxuv4zq",
         "point_name": "桥",
         "remark": "这里100%错误，但为了完整性还是放这里，主要是动漫场景聚集位置，有正确位置的请更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.875188,
+          35.675219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzeslec_1792687171794.webp",
+        "location": "",
+        "point_id": "kzeslec",
+        "point_name": "桥",
+        "remark": "这里是有一个游玩平台，但具体位置不清楚"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.875168,
+          35.675242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 21,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzet0jn_1792687186823.webp",
+        "location": "",
+        "point_id": "kzet0jn",
+        "point_name": "桥",
+        "remark": "大概在这附近，或者已经被拆除，不清楚了，可以更正"
       },
       "type": "Feature"
     },
@@ -863,6 +1303,126 @@
     {
       "geometry": {
         "coordinates": [
+          139.764691,
+          35.681842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/74628/kze8hop_1792686235838.webp",
+        "location": "",
+        "point_id": "kze8hop",
+        "point_name": "东京站",
+        "remark": "作为第二季的开头每集的取景都是东京站的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.761428,
+          35.682742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 28,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzgenrs_1792689905913.webp",
+        "location": "",
+        "point_id": "kzgenrs",
+        "point_name": "东京站",
+        "remark": "不是咋能取景这么远"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.759353,
+          35.683782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/74628/kzglwqa_1792690223964.webp",
+        "location": "",
+        "point_id": "kzglwqa",
+        "point_name": "喷泉",
+        "remark": "后面的建筑应该是这个Sakurada Tatsumi Yagura,在公园里面拍摄就行"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.76137,
+          35.682748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 28,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzgeomo_1792689888785.webp",
+        "location": "",
+        "point_id": "kzgeomo",
+        "point_name": "东京站",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760617,
+          35.683367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 28,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzeh14p_1792686724422.webp",
+        "location": "",
+        "point_id": "kzeh14p",
+        "point_name": "合田仓喷泉公园",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760909,
+          35.683736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 28,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzehk2s_1792686662296.webp",
+        "location": "",
+        "point_id": "kzehk2s",
+        "point_name": "合田仓喷泉公园",
+        "remark": "注意后面的建筑就行很有特色的喷泉"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           139.66555,
           35.706098
         ],
@@ -897,6 +1457,26 @@
         "point_id": "ky5fwoc",
         "point_name": "中野",
         "remark": "可以明显的看见新宿都厅，问题在于，后面的一幕没有都厅，有可能是将两个位置取景结合，这也导致前后的几张都很难找到位置，有具体位置的请更正"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.881363,
+          35.677463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 74628,
+        "bangumi_title": "伪恋",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/74628/kzi0387_1792692586167.webp",
+        "location": "",
+        "point_id": "kzi0387",
+        "point_name": "桥",
+        "remark": "这个好像才是更贴近的位置来自xhs的拍摄"
       },
       "type": "Feature"
     }
