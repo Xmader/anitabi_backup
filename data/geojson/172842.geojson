@@ -19,6 +19,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.808455,
+          35.709518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/kzh8o9h-1792691318522.webp",
+        "location": "",
+        "point_id": "kzh8o9h",
+        "point_name": "東武橋",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

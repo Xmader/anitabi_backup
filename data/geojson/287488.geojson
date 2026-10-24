@@ -1019,6 +1019,106 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.363942,
+          33.357861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kz7wzj5-1792675617916.webp",
+        "location": "",
+        "point_id": "kz7wzj5",
+        "point_name": "九年庵",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.364871,
+          33.35828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kz88f90-1792676160960.webp",
+        "location": "",
+        "point_id": "kz88f90",
+        "point_name": "仁比山神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.364843,
+          33.358361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kz852z4-1792676000039.webp",
+        "location": "",
+        "point_id": "kz852z4",
+        "point_name": "仁比山神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.386257,
+          33.326863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l0agzw0-1792740382553.webp",
+        "location": "",
+        "point_id": "l0agzw0",
+        "point_name": "吉野ヶ里遺跡 北内郭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.097689,
+          33.259008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l0ardd3-1792740901746.webp",
+        "location": "",
+        "point_id": "l0ardd3",
+        "point_name": "多久聖廟",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

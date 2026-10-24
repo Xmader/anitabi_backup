@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.550106,
+          34.07019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215171,
+        "bangumi_title": "ハロー・レディ！ -Superior Dynamis-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/215171/points/kyox2dw-1792643735781.webp",
+        "location": "",
+        "point_id": "kyox2dw",
+        "point_name": "新町川・阿波製紙水際公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.555625,
+          34.073652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215171,
+        "bangumi_title": "ハロー・レディ！ -Superior Dynamis-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/215171/points/kyp1mn0-1792643934568.webp",
+        "location": "",
+        "point_id": "kyp1mn0",
+        "point_name": "徳岛市立徳岛城博物馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.578543,
+          34.079546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 215171,
+        "bangumi_title": "ハロー・レディ！ -Superior Dynamis-",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/215171/points/kyp3976-1792644010445.webp",
+        "location": "",
+        "point_id": "kyp3976",
+        "point_name": "阿波しらさぎ大橋付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

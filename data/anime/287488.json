@@ -51,7 +51,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 1377,
-      "zoom": 1539
+      "zoom": 1303
     },
     {
       "ep_cut": 4,
@@ -457,7 +457,7 @@
       "remark": "",
       "status_code": 2176,
       "user_id": 6,
-      "zoom": 4053
+      "zoom": 215
     },
     {
       "ep_cut": 8,
@@ -513,7 +513,7 @@
       "remark": "",
       "status_code": 2176,
       "user_id": 10191,
-      "zoom": 6275
+      "zoom": 2456
     },
     {
       "ep_cut": 10,
@@ -541,7 +541,7 @@
       "remark": "徐福酒吧实际并不存在，这家店仅内部装修和剧中展示的最为相近",
       "status_code": 2176,
       "user_id": 133,
-      "zoom": 713
+      "zoom": 506
     },
     {
       "ep_cut": 11,
@@ -681,7 +681,7 @@
       "remark": "IATA代码：HSG；ICAO代码：RJFS。日本国内仅有羽田这一条航线（ANA承运），春秋航空有从上海飞往此处的航班（当前航班号为9C6139/6140）",
       "status_code": 0,
       "user_id": 9642,
-      "zoom": 11370
+      "zoom": 11158
     },
     {
       "ep_cut": 4,
@@ -724,9 +724,79 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 9087
+    },
+    {
+      "ep_cut": 9,
+      "id": "kz7wzj5",
+      "image_path": "/images/user/0/bangumi/287488/points/kz7wzj5-1792675617916.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kz7wzj5-1792675617916.webp",
+      "lat": 33.357861,
+      "lng": 130.363942,
+      "location": "",
+      "name": "九年庵",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 114
+    },
+    {
+      "ep_cut": 9,
+      "id": "kz88f90",
+      "image_path": "/images/user/0/bangumi/287488/points/kz88f90-1792676160960.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kz88f90-1792676160960.webp",
+      "lat": 33.35828,
+      "lng": 130.364871,
+      "location": "",
+      "name": "仁比山神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 10
+    },
+    {
+      "ep_cut": 9,
+      "id": "kz852z4",
+      "image_path": "/images/user/0/bangumi/287488/points/kz852z4-1792676000039.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/kz852z4-1792676000039.webp",
+      "lat": 33.358361,
+      "lng": 130.364843,
+      "location": "",
+      "name": "仁比山神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 4228
+    },
+    {
+      "ep_cut": 12,
+      "id": "l0agzw0",
+      "image_path": "/images/user/0/bangumi/287488/points/l0agzw0-1792740382553.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l0agzw0-1792740382553.webp",
+      "lat": 33.326863,
+      "lng": 130.386257,
+      "location": "",
+      "name": "吉野ヶ里遺跡 北内郭",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 5
+    },
+    {
+      "ep_cut": 12,
+      "id": "l0ardd3",
+      "image_path": "/images/user/0/bangumi/287488/points/l0ardd3-1792740901746.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l0ardd3-1792740901746.webp",
+      "lat": 33.259008,
+      "lng": 130.097689,
+      "location": "",
+      "name": "多久聖廟",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 5190
     }
   ],
-  "points_count": 51,
+  "points_count": 56,
   "rating": 7.7,
   "region": "佐贺县",
   "short_name": "",

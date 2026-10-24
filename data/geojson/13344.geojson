@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.548133,
+          34.069759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13344,
+        "bangumi_title": "实乃里Scramble!",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13344/points/kymvays-1792640420112.webp",
+        "location": "",
+        "point_id": "kymvays",
+        "point_name": "西新町商店街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.563617,
+          34.053585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 13344,
+        "bangumi_title": "实乃里Scramble!",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/13344/points/kyn2xi5-1792640635328.webp",
+        "location": "",
+        "point_id": "kyn2xi5",
+        "point_name": "アスティとくしま",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

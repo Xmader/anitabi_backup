@@ -19,6 +19,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.073314,
+          34.28135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/kzhdq52-1792691552244.webp",
+        "location": "",
+        "point_id": "kzhdq52",
+        "point_name": "瀬戸田サンセットビーチ",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
