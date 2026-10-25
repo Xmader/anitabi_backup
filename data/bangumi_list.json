@@ -1,16 +1,16 @@
 [
   {
-    "id": 172842,
-    "title_cn": "花之天使的夏日恋歌",
-    "title_jp": "フローラル・フローラブ",
+    "id": 622288,
+    "title_cn": "FX战士久留美",
+    "title_jp": "FX戦士くるみちゃん",
     "title_en": "",
     "region": "",
-    "type": "游戏",
-    "rating": 7.2,
-    "points_count": 2,
+    "type": "TV",
+    "rating": 6.9,
+    "points_count": 1,
     "center_lat": 0,
     "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/172842_jzkz202.jpg",
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/d3/99/622288_nmbC3.jpg",
     "bgm_id": null
   },
   {
@@ -20,11 +20,39 @@
     "title_en": "",
     "region": "尾道市",
     "type": "游戏",
-    "rating": 0,
-    "points_count": 2,
+    "rating": 6,
+    "points_count": 3,
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/304375_jzk3b40.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 172842,
+    "title_cn": "花之天使的夏日恋歌",
+    "title_jp": "フローラル・フローラブ",
+    "title_en": "",
+    "region": "",
+    "type": "游戏",
+    "rating": 7.2,
+    "points_count": 11,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/172842_jzkz202.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 590553,
+    "title_cn": "",
+    "title_jp": "てつりょー！meet with 鉄道むすめ",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 0,
+    "points_count": 50,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
     "bgm_id": null
   },
   {
@@ -333,20 +361,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/0c/cf/570583_d3QZD.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 590553,
-    "title_cn": "",
-    "title_jp": "てつりょー！meet with 鉄道むすめ",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 0,
-    "points_count": 46,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/b6/e8/590553_JVft9.jpg",
     "bgm_id": null
   },
   {

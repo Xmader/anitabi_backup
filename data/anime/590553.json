@@ -106,7 +106,7 @@
       "name": "坂田駅",
       "remark": "【存疑】站台栏杆与实地不符，但是站名，标志色和背景相符",
       "status_code": 2191,
-      "user_id": 353557,
+      "user_id": 351671,
       "zoom": 2403
     },
     {
@@ -344,8 +344,8 @@
       "name": "西武新宿駅",
       "remark": "",
       "status_code": 2191,
-      "user_id": 44,
-      "zoom": 44
+      "user_id": 41,
+      "zoom": 42
     },
     {
       "ep_cut": 1,
@@ -358,8 +358,8 @@
       "name": "西武新宿駅",
       "remark": "",
       "status_code": 2191,
-      "user_id": 18,
-      "zoom": 76
+      "user_id": 13,
+      "zoom": 13
     },
     {
       "ep_cut": 1,
@@ -654,14 +654,70 @@
       "status_code": 2191,
       "user_id": 11963,
       "zoom": 3142
+    },
+    {
+      "ep_cut": 3,
+      "id": "l25ovy6",
+      "image_path": "/images/points/590553/l25ovy6_1792853316390.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/l25ovy6_1792853316390.webp",
+      "lat": 35.857305,
+      "lng": 139.412758,
+      "location": "EP3",
+      "name": "狭山市駅西口",
+      "remark": "",
+      "status_code": 2191,
+      "user_id": 63,
+      "zoom": 64
+    },
+    {
+      "ep_cut": 3,
+      "id": "l25r9y9",
+      "image_path": "/images/points/590553/l25r9y9_1792853386956.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/l25r9y9_1792853386956.webp",
+      "lat": 35.857227,
+      "lng": 139.413324,
+      "location": "EP3",
+      "name": "狭山市駅",
+      "remark": "",
+      "status_code": 2191,
+      "user_id": 10,
+      "zoom": 11
+    },
+    {
+      "ep_cut": 3,
+      "id": "l25sra8",
+      "image_path": "/images/points/590553/l25sra8_1792853459913.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/l25sra8_1792853459913.webp",
+      "lat": 35.857221,
+      "lng": 139.413414,
+      "location": "EP3",
+      "name": "狭山市駅",
+      "remark": "",
+      "status_code": 2191,
+      "user_id": 10,
+      "zoom": 7579
+    },
+    {
+      "ep_cut": 3,
+      "id": "l25z02e",
+      "image_path": "/images/points/590553/l25z02e_1792853774982.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/l25z02e_1792853774982.webp",
+      "lat": 35.695527,
+      "lng": 139.699984,
+      "location": "EP3",
+      "name": "西武新宿",
+      "remark": "车型是西武铁道10000系电车ニューレッドアロー",
+      "status_code": 2191,
+      "user_id": 13,
+      "zoom": 186
     }
   ],
-  "points_count": 46,
+  "points_count": 50,
   "rating": 0,
   "region": "",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/590553_100_76.webp?v=hs8ie",
+    "/images/ptheme/590553_100_76.webp?v=hsg8x",
     [
       "5op0oth",
       "5nt035t",
@@ -708,9 +764,13 @@
       "ks6zxxq",
       "ks72pw1",
       "ks7l74i",
-      "ks7qqud"
+      "ks7qqud",
+      "l25ovy6",
+      "l25r9y9",
+      "l25sra8",
+      "l25z02e"
     ],
-    1792252213575,
+    1792853857514,
     100,
     76
   ],

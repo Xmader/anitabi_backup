@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.703903,
+          35.73052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 622288,
+        "bangumi_title": "FX战士久留美",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622288/points/l0fbui0-1792748570137.webp",
+        "location": "",
+        "point_id": "l0fbui0",
+        "point_name": "立教大学本館",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

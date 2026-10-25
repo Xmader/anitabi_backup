@@ -919,6 +919,86 @@
         "remark": "街景：https://maps.app.goo.gl/brt2hG4SmpfgNdxt6"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.412758,
+          35.857305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/590553/l25ovy6_1792853316390.webp",
+        "location": "EP3",
+        "point_id": "l25ovy6",
+        "point_name": "狭山市駅西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413324,
+          35.857227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/590553/l25r9y9_1792853386956.webp",
+        "location": "EP3",
+        "point_id": "l25r9y9",
+        "point_name": "狭山市駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413414,
+          35.857221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/590553/l25sra8_1792853459913.webp",
+        "location": "EP3",
+        "point_id": "l25sra8",
+        "point_name": "狭山市駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.699984,
+          35.695527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/590553/l25z02e_1792853774982.webp",
+        "location": "EP3",
+        "point_id": "l25z02e",
+        "point_name": "西武新宿",
+        "remark": "车型是西武铁道10000系电车ニューレッドアロー"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

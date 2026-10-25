@@ -39,6 +39,186 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.723011,
+          35.778801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1oc3mn-1792824167070.webp",
+        "location": "",
+        "point_id": "l1oc3mn",
+        "point_name": "カトリック赤羽教会",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.765975,
+          35.727698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1og8n1-1792824354760.webp",
+        "location": "",
+        "point_id": "l1og8n1",
+        "point_name": "谷中銀座",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.763967,
+          35.721264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1okac8-1792824541096.webp",
+        "location": "",
+        "point_id": "l1okac8",
+        "point_name": "マリーナアイランド",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.770976,
+          35.722306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1opfib-1792824761115.webp",
+        "location": "",
+        "point_id": "l1opfib",
+        "point_name": "おしおりーぶ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.762924,
+          35.718007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1orqax-1792824948254.webp",
+        "location": "",
+        "point_id": "l1orqax",
+        "point_name": "異人坂",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.760286,
+          35.709841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1oxgsy-1792825195951.webp",
+        "location": "",
+        "point_id": "l1oxgsy",
+        "point_name": "東大赤門前",
+        "remark": "非精确点位，东大赤门这一块的围墙和街景都比较像"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.761792,
+          35.030191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1p594h-1792825492738.webp",
+        "location": "",
+        "point_id": "l1p594h",
+        "point_name": "同志社大学 クラーク記念館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.190658,
+          34.702942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1p86cu-1792825645970.webp",
+        "location": "",
+        "point_id": "l1p86cu",
+        "point_name": "うろこの家",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.191999,
+          34.701163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1paocs-1792825749719.webp",
+        "location": "",
+        "point_id": "l1paocs",
+        "point_name": "北野通り",
+        "remark": "原CG镜像反转"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

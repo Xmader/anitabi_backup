@@ -6,6 +6,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.703903,
+          35.73052
+        ]
+      },
+      "properties": {
+        "point_id": "l0fbui0",
+        "point_name": "立教大学本館",
+        "bangumi_id": 622288,
+        "bangumi_title": "FX战士久留美",
+        "location": "",
+        "ep_cut": "3",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/622288/points/l0fbui0-1792748570137.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.073543,
+          34.279923
+        ]
+      },
+      "properties": {
+        "point_id": "kz1s5o1",
+        "point_name": "瀬戸田サンセットビーチ",
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/kz1s5o1_1792665314362.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.199294,
+          34.409773
+        ]
+      },
+      "properties": {
+        "point_id": "l28owtz",
+        "point_name": "共楽園",
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l28owtz_1792858318792.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.195766,
+          34.405828
+        ]
+      },
+      "properties": {
+        "point_id": "l290g5z",
+        "point_name": "尾道本通り商店街",
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l290g5z_1792858862878.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.808506,
           35.709419
         ]
@@ -46,19 +126,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.073543,
-          34.279923
+          139.723011,
+          35.778801
         ]
       },
       "properties": {
-        "point_id": "kz1s5o1",
-        "point_name": "瀬戸田サンセットビーチ",
-        "bangumi_id": 304375,
-        "bangumi_title": "绽放★青春全力向前冲！",
+        "point_id": "l1oc3mn",
+        "point_name": "カトリック赤羽教会",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
         "location": "",
         "ep_cut": "",
         "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/304375/kz1s5o1_1792665314362.webp"
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1oc3mn-1792824167070.webp"
       }
     },
     {
@@ -66,19 +146,1159 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          133.073314,
-          34.28135
+          139.765975,
+          35.727698
         ]
       },
       "properties": {
-        "point_id": "kzhdq52",
-        "point_name": "瀬戸田サンセットビーチ",
-        "bangumi_id": 304375,
-        "bangumi_title": "绽放★青春全力向前冲！",
+        "point_id": "l1og8n1",
+        "point_name": "谷中銀座",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
         "location": "",
         "ep_cut": "",
         "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/kzhdq52-1792691552244.webp"
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1og8n1-1792824354760.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.763967,
+          35.721264
+        ]
+      },
+      "properties": {
+        "point_id": "l1okac8",
+        "point_name": "マリーナアイランド",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1okac8-1792824541096.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770976,
+          35.722306
+        ]
+      },
+      "properties": {
+        "point_id": "l1opfib",
+        "point_name": "おしおりーぶ",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1opfib-1792824761115.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762924,
+          35.718007
+        ]
+      },
+      "properties": {
+        "point_id": "l1orqax",
+        "point_name": "異人坂",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1orqax-1792824948254.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760286,
+          35.709841
+        ]
+      },
+      "properties": {
+        "point_id": "l1oxgsy",
+        "point_name": "東大赤門前",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "非精确点位，东大赤门这一块的围墙和街景都比较像",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1oxgsy-1792825195951.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.761792,
+          35.030191
+        ]
+      },
+      "properties": {
+        "point_id": "l1p594h",
+        "point_name": "同志社大学 クラーク記念館",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1p594h-1792825492738.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.190658,
+          34.702942
+        ]
+      },
+      "properties": {
+        "point_id": "l1p86cu",
+        "point_name": "うろこの家",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1p86cu-1792825645970.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.191999,
+          34.701163
+        ]
+      },
+      "properties": {
+        "point_id": "l1paocs",
+        "point_name": "北野通り",
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "location": "",
+        "ep_cut": "",
+        "remark": "原CG镜像反转",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1paocs-1792825749719.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.57266,
+          35.710316
+        ]
+      },
+      "properties": {
+        "point_id": "5op0oth",
+        "point_name": "成蹊学園ケヤキ並木",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "来源X：https://x.com/ssslocation/status/1973443137453584807",
+        "image_url": "https://w.junreimap.com/images/points/590553/5op0oth_1759387475184.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700587,
+          35.693887
+        ]
+      },
+      "properties": {
+        "point_id": "5nt035t",
+        "point_name": "西武新宿駅前",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/590553/points/5nt035t-1759333729915.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.828057,
+          35.729338
+        ]
+      },
+      "properties": {
+        "point_id": "cpj5dwd",
+        "point_name": "銚子電鉄銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "站台向南望\n来源：https://x.com/ssslocation/status/1973887940804936060?s=20",
+        "image_url": "https://w.junreimap.com/images/points/590553/cpj5dwd_1774675564060.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.861041,
+          35.706329
+        ]
+      },
+      "properties": {
+        "point_id": "5opqit4",
+        "point_name": "犬吠駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "谷歌街景，点开靠近线路的全景照片，站台向站厅方向看，即为所求\n来源X：https://x.com/ssslocation/status/1973393164108021949",
+        "image_url": "https://w.junreimap.com/images/points/590553/5opqit4_1759388711510.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620146,
+          35.331202
+        ]
+      },
+      "properties": {
+        "point_id": "5opwwax",
+        "point_name": "金沢八景駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "来源X：https://x.com/ssslocation/status/1973393164108021949",
+        "image_url": "https://w.junreimap.com/images/points/590553/5opwwax_1759388992370.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.634024,
+          33.303376
+        ]
+      },
+      "properties": {
+        "point_id": "5opjser",
+        "point_name": "江迎川橋梁",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "【存疑】根据X情报是这片区域，但是具体是不是这座桥不清楚\n来源X：https://x.com/ssslocation/status/1973393164108021949",
+        "image_url": "https://w.junreimap.com/images/points/590553/5opjser_1759388395374.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.287735,
+          35.335967
+        ]
+      },
+      "properties": {
+        "point_id": "5ntx2o5",
+        "point_name": "坂田駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "先导PV",
+        "remark": "【存疑】站台栏杆与实地不符，但是站名，标志色和背景相符",
+        "image_url": "https://w.junreimap.com/images/points/590553/5ntx2o5_1759335239104.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700009,
+          35.695347
+        ]
+      },
+      "properties": {
+        "point_id": "cphg8b8",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "右侧车辆为西武30000系スマイルトレイン，左侧车辆为西武10000系ニューレッドアロー（车体上NRA字样）",
+        "image_url": "https://w.junreimap.com/images/points/590553/cphg8b8_1774672772342.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483097,
+          35.923418
+        ]
+      },
+      "properties": {
+        "point_id": "cphov5c",
+        "point_name": "鐘つき通り",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "右侧为标牌为近長魚店",
+        "image_url": "https://w.junreimap.com/images/points/590553/cphov5c_1774673153803.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863588,
+          35.72181
+        ]
+      },
+      "properties": {
+        "point_id": "cph7von",
+        "point_name": "海鹿島駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "铫子电气铁道线海鹿岛站，关东地方最东端车站。",
+        "image_url": "https://w.junreimap.com/images/points/590553/cph7von_1774672356183.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863516,
+          35.721779
+        ]
+      },
+      "properties": {
+        "point_id": "cphbbe6",
+        "point_name": "海鹿島駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV1",
+        "remark": "关东地方最东端车站标",
+        "image_url": "https://w.junreimap.com/images/points/590553/cphbbe6_1774672477267.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863974,
+          35.695837
+        ]
+      },
+      "properties": {
+        "point_id": "h0h247y",
+        "point_name": "長崎海水浴場",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "北望犬吠埼灯台",
+        "image_url": "https://w.junreimap.com/images/points/590553/h0h247y_1784044392504.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.861047,
+          35.706094
+        ]
+      },
+      "properties": {
+        "point_id": "h2oqiat",
+        "point_name": "犬吠駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "站台上的涂鸦墙",
+        "image_url": "https://w.junreimap.com/images/points/590553/h2oqiat_1784178136252.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692348,
+          36.72547
+        ]
+      },
+      "properties": {
+        "point_id": "h2oxt0i",
+        "point_name": "下今市駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "【存疑】由于可用信息只有画面左上角一块，个人可能是虚构背景，考虑到透视等，认为是站台上拍摄，故标点下今市站。机车为SL大树。",
+        "image_url": "https://w.junreimap.com/images/points/590553/h2oxt0i_1784178509353.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.277442,
+          36.434659
+        ]
+      },
+      "properties": {
+        "point_id": "h2ogxt0",
+        "point_name": "大間々駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "PV2",
+        "remark": "【存疑】背景为トロッコわたらせ渓谷号列车，运行区间大間々駅 ～ 足尾駅。根据方向幕倒影大致判断为该车站",
+        "image_url": "https://w.junreimap.com/images/points/590553/h2ogxt0_1784177700814.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.582711,
+          33.362702
+        ]
+      },
+      "properties": {
+        "point_id": "jxu935r",
+        "point_name": "たびら平戸口駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxu935r_1790415433622.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.648491,
+          33.239134
+        ]
+      },
+      "properties": {
+        "point_id": "jxuo9ok",
+        "point_name": "佐々川",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "大致位于该点，高空向西南方看",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxuo9ok_1790416182817.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.333013,
+          36.411241
+        ]
+      },
+      "properties": {
+        "point_id": "jxvc7f5",
+        "point_name": "桐生駅（わたらせ渓谷鐵道）",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "图中车辆为WKT-500形气动车，另外绝对不可以尝试跳下站台以完美复刻该角度",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxvc7f5_1790417326537.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699341,
+          35.690165
+        ]
+      },
+      "properties": {
+        "point_id": "jxw5xeg",
+        "point_name": "京王新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "图中车辆为京王8000系（8713F编成是唯一绿色涂装的列车，即\"高尾山トレイン\"涂装）",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxw5xeg_1790418643182.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700095,
+          35.695117
+        ]
+      },
+      "properties": {
+        "point_id": "jxwbwoz",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "【存疑】进站口谷歌街景的标牌不是圆形的，但是考虑到该画面中正在安装，且背景有IC专用，入口等标识符合西武新宿进站口特征故标点",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwbwoz_1790418941094.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692786,
+          36.725576
+        ]
+      },
+      "properties": {
+        "point_id": "jxwgrkx",
+        "point_name": "下今市駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "由天桥结构可确定是下今市站",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwgrkx_1790419134003.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.370668,
+          32.790177
+        ]
+      },
+      "properties": {
+        "point_id": "jxwl17b",
+        "point_name": "島原",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwl17b_1790419341168.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.344821,
+          32.843733
+        ]
+      },
+      "properties": {
+        "point_id": "jxwo1e4",
+        "point_name": "大三東",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "PV",
+        "ep_cut": "放送直前PV",
+        "remark": "大三东站标志性的祈愿活动：幸福的黄色手帕。该点特别鸣谢gemini",
+        "image_url": "https://w.junreimap.com/images/points/590553/jxwo1e4_1790419501404.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700105,
+          35.695878
+        ]
+      },
+      "properties": {
+        "point_id": "kgbs7c8",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgbs7c8_1791533298267.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700091,
+          35.695484
+        ]
+      },
+      "properties": {
+        "point_id": "kgbvii8",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgbvii8_1791533426588.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700016,
+          35.694811
+        ]
+      },
+      "properties": {
+        "point_id": "kgc3ztm",
+        "point_name": "西武新宿ペペ & Brick St.",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/u2qJJZQ726mqB4uU7",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgc3ztm_1791533839499.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700297,
+          35.694395
+        ]
+      },
+      "properties": {
+        "point_id": "kgh3q0t",
+        "point_name": "西武新宿駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/UmjaXYpjr2go3WbD8",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgh3q0t_1791542237706.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.55214,
+          35.728542
+        ]
+      },
+      "properties": {
+        "point_id": "kgmmt47",
+        "point_name": "西武柳沢",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "车型是西武铁道 30000系 \"Smile Train\"",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgmmt47_1791551490457.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481091,
+          35.913665
+        ]
+      },
+      "properties": {
+        "point_id": "kgmw23w",
+        "point_name": "本川越",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/XBPGFyVnVdzKS8AX8",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgmw23w_1791551933898.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.481091,
+          35.913698
+        ]
+      },
+      "properties": {
+        "point_id": "kgmx989",
+        "point_name": "本川越",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgmx989_1791552006067.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.482359,
+          35.915363
+        ]
+      },
+      "properties": {
+        "point_id": "kgn6h87",
+        "point_name": "本川越",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "街景见：https://maps.app.goo.gl/CyzEptyuZpYArCnp8",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgn6h87_1791552402639.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.482954,
+          35.923401
+        ]
+      },
+      "properties": {
+        "point_id": "kgnek18",
+        "point_name": "ヘアー​サロン​銀​パリ",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgnek18_1791552790772.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483931,
+          35.923347
+        ]
+      },
+      "properties": {
+        "point_id": "kgngfy7",
+        "point_name": "醤遊王国 川越時の鐘店（弓削多醤油）",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP1",
+        "ep_cut": 1,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/kgngfy7_1791552936731.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.827645,
+          35.7299
+        ]
+      },
+      "properties": {
+        "point_id": "ks5n0mr",
+        "point_name": "銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5n0mr_1792248582609.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.828149,
+          35.729326
+        ]
+      },
+      "properties": {
+        "point_id": "ks5qzgb",
+        "point_name": "銚子電鉄銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5qzgb_1792248720461.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.828303,
+          35.729305
+        ]
+      },
+      "properties": {
+        "point_id": "ks5v2ms",
+        "point_name": "銚子電鉄銚子駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "桃电22000型22007編成",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks5v2ms_1792248900804.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.833683,
+          35.728874
+        ]
+      },
+      "properties": {
+        "point_id": "ks6994f",
+        "point_name": "仲ノ町駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6994f_1792249575664.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.833561,
+          35.728856
+        ]
+      },
+      "properties": {
+        "point_id": "ks6b9dn",
+        "point_name": "仲ノ町駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6b9dn_1792249668205.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.847776,
+          35.731004
+        ]
+      },
+      "properties": {
+        "point_id": "ks6npex",
+        "point_name": "本銚子",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "站台向东拍摄即可 ，另该视角有多个可达机位，目前认为本銚子站台向东最准确",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6npex_1792250258934.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.85712,
+          35.728332
+        ]
+      },
+      "properties": {
+        "point_id": "ks7ss1q",
+        "point_name": "笠上黒生",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "桃电唯一交换站",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7ss1q_1792252155800.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.863522,
+          35.721762
+        ]
+      },
+      "properties": {
+        "point_id": "ks6s113",
+        "point_name": "海鹿島駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6s113_1792250475417.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.857057,
+          35.69921
+        ]
+      },
+      "properties": {
+        "point_id": "ks6yf5w",
+        "point_name": "外川駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6yf5w_1792250746970.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.857044,
+          35.699195
+        ]
+      },
+      "properties": {
+        "point_id": "ks6zxxq",
+        "point_name": "外川駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "谷歌地标： 銚子電気鉄道 デハ８０１",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks6zxxq_1792250817737.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.856947,
+          35.699171
+        ]
+      },
+      "properties": {
+        "point_id": "ks72pw1",
+        "point_name": "外川駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks72pw1_1792250955435.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768985,
+          35.699619
+        ]
+      },
+      "properties": {
+        "point_id": "ks7l74i",
+        "point_name": "トミックス ショールーム東京秋葉原",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "ED中的N比例沙盘位于该地，TOMIX 官方展厅",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7l74i_1792251817918.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.725424,
+          33.16366
+        ]
+      },
+      "properties": {
+        "point_id": "ks7qqud",
+        "point_name": "佐世保",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP2",
+        "ep_cut": 2,
+        "remark": "街景：https://maps.app.goo.gl/brt2hG4SmpfgNdxt6",
+        "image_url": "https://w.junreimap.com/images/points/590553/ks7qqud_1792252064597.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.412758,
+          35.857305
+        ]
+      },
+      "properties": {
+        "point_id": "l25ovy6",
+        "point_name": "狭山市駅西口",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP3",
+        "ep_cut": 3,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/l25ovy6_1792853316390.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.413324,
+          35.857227
+        ]
+      },
+      "properties": {
+        "point_id": "l25r9y9",
+        "point_name": "狭山市駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP3",
+        "ep_cut": 3,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/l25r9y9_1792853386956.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.413414,
+          35.857221
+        ]
+      },
+      "properties": {
+        "point_id": "l25sra8",
+        "point_name": "狭山市駅",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP3",
+        "ep_cut": 3,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/590553/l25sra8_1792853459913.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699984,
+          35.695527
+        ]
+      },
+      "properties": {
+        "point_id": "l25z02e",
+        "point_name": "西武新宿",
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "location": "EP3",
+        "ep_cut": 3,
+        "remark": "车型是西武铁道10000系电车ニューレッドアロー",
+        "image_url": "https://w.junreimap.com/images/points/590553/l25z02e_1792853774982.webp"
       }
     },
     {
@@ -50599,926 +51819,6 @@
         "ep_cut": 13,
         "remark": "[ep13] 23:30结尾马戏团带着小女孩一起演三铳士的地方。严格来讲是银座一大片扭曲过的区域。除了左侧最标志性的和光百货大楼外，还有疑似 neta 松下电器 national 圆形+闪电广告牌，右侧的疑似森永地球仪等银座标志性建筑物",
         "image_url": "https://w.junreimap.com/images/points/570583/6a6c5950_1792009241300.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.57266,
-          35.710316
-        ]
-      },
-      "properties": {
-        "point_id": "5op0oth",
-        "point_name": "成蹊学園ケヤキ並木",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "来源X：https://x.com/ssslocation/status/1973443137453584807",
-        "image_url": "https://w.junreimap.com/images/points/590553/5op0oth_1759387475184.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700587,
-          35.693887
-        ]
-      },
-      "properties": {
-        "point_id": "5nt035t",
-        "point_name": "西武新宿駅前",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/2191/bangumi/590553/points/5nt035t-1759333729915.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.828057,
-          35.729338
-        ]
-      },
-      "properties": {
-        "point_id": "cpj5dwd",
-        "point_name": "銚子電鉄銚子駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "站台向南望\n来源：https://x.com/ssslocation/status/1973887940804936060?s=20",
-        "image_url": "https://w.junreimap.com/images/points/590553/cpj5dwd_1774675564060.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.861041,
-          35.706329
-        ]
-      },
-      "properties": {
-        "point_id": "5opqit4",
-        "point_name": "犬吠駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "谷歌街景，点开靠近线路的全景照片，站台向站厅方向看，即为所求\n来源X：https://x.com/ssslocation/status/1973393164108021949",
-        "image_url": "https://w.junreimap.com/images/points/590553/5opqit4_1759388711510.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.620146,
-          35.331202
-        ]
-      },
-      "properties": {
-        "point_id": "5opwwax",
-        "point_name": "金沢八景駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "来源X：https://x.com/ssslocation/status/1973393164108021949",
-        "image_url": "https://w.junreimap.com/images/points/590553/5opwwax_1759388992370.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.634024,
-          33.303376
-        ]
-      },
-      "properties": {
-        "point_id": "5opjser",
-        "point_name": "江迎川橋梁",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "【存疑】根据X情报是这片区域，但是具体是不是这座桥不清楚\n来源X：https://x.com/ssslocation/status/1973393164108021949",
-        "image_url": "https://w.junreimap.com/images/points/590553/5opjser_1759388395374.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.287735,
-          35.335967
-        ]
-      },
-      "properties": {
-        "point_id": "5ntx2o5",
-        "point_name": "坂田駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "先导PV",
-        "remark": "【存疑】站台栏杆与实地不符，但是站名，标志色和背景相符",
-        "image_url": "https://w.junreimap.com/images/points/590553/5ntx2o5_1759335239104.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700009,
-          35.695347
-        ]
-      },
-      "properties": {
-        "point_id": "cphg8b8",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "右侧车辆为西武30000系スマイルトレイン，左侧车辆为西武10000系ニューレッドアロー（车体上NRA字样）",
-        "image_url": "https://w.junreimap.com/images/points/590553/cphg8b8_1774672772342.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.483097,
-          35.923418
-        ]
-      },
-      "properties": {
-        "point_id": "cphov5c",
-        "point_name": "鐘つき通り",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "右侧为标牌为近長魚店",
-        "image_url": "https://w.junreimap.com/images/points/590553/cphov5c_1774673153803.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863588,
-          35.72181
-        ]
-      },
-      "properties": {
-        "point_id": "cph7von",
-        "point_name": "海鹿島駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "铫子电气铁道线海鹿岛站，关东地方最东端车站。",
-        "image_url": "https://w.junreimap.com/images/points/590553/cph7von_1774672356183.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863516,
-          35.721779
-        ]
-      },
-      "properties": {
-        "point_id": "cphbbe6",
-        "point_name": "海鹿島駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV1",
-        "remark": "关东地方最东端车站标",
-        "image_url": "https://w.junreimap.com/images/points/590553/cphbbe6_1774672477267.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863974,
-          35.695837
-        ]
-      },
-      "properties": {
-        "point_id": "h0h247y",
-        "point_name": "長崎海水浴場",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "北望犬吠埼灯台",
-        "image_url": "https://w.junreimap.com/images/points/590553/h0h247y_1784044392504.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.861047,
-          35.706094
-        ]
-      },
-      "properties": {
-        "point_id": "h2oqiat",
-        "point_name": "犬吠駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "站台上的涂鸦墙",
-        "image_url": "https://w.junreimap.com/images/points/590553/h2oqiat_1784178136252.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.692348,
-          36.72547
-        ]
-      },
-      "properties": {
-        "point_id": "h2oxt0i",
-        "point_name": "下今市駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "【存疑】由于可用信息只有画面左上角一块，个人可能是虚构背景，考虑到透视等，认为是站台上拍摄，故标点下今市站。机车为SL大树。",
-        "image_url": "https://w.junreimap.com/images/points/590553/h2oxt0i_1784178509353.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.277442,
-          36.434659
-        ]
-      },
-      "properties": {
-        "point_id": "h2ogxt0",
-        "point_name": "大間々駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "PV2",
-        "remark": "【存疑】背景为トロッコわたらせ渓谷号列车，运行区间大間々駅 ～ 足尾駅。根据方向幕倒影大致判断为该车站",
-        "image_url": "https://w.junreimap.com/images/points/590553/h2ogxt0_1784177700814.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.582711,
-          33.362702
-        ]
-      },
-      "properties": {
-        "point_id": "jxu935r",
-        "point_name": "たびら平戸口駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxu935r_1790415433622.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.648491,
-          33.239134
-        ]
-      },
-      "properties": {
-        "point_id": "jxuo9ok",
-        "point_name": "佐々川",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "大致位于该点，高空向西南方看",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxuo9ok_1790416182817.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.333013,
-          36.411241
-        ]
-      },
-      "properties": {
-        "point_id": "jxvc7f5",
-        "point_name": "桐生駅（わたらせ渓谷鐵道）",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "图中车辆为WKT-500形气动车，另外绝对不可以尝试跳下站台以完美复刻该角度",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxvc7f5_1790417326537.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.699341,
-          35.690165
-        ]
-      },
-      "properties": {
-        "point_id": "jxw5xeg",
-        "point_name": "京王新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "图中车辆为京王8000系（8713F编成是唯一绿色涂装的列车，即\"高尾山トレイン\"涂装）",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxw5xeg_1790418643182.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700095,
-          35.695117
-        ]
-      },
-      "properties": {
-        "point_id": "jxwbwoz",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "【存疑】进站口谷歌街景的标牌不是圆形的，但是考虑到该画面中正在安装，且背景有IC专用，入口等标识符合西武新宿进站口特征故标点",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwbwoz_1790418941094.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.692786,
-          36.725576
-        ]
-      },
-      "properties": {
-        "point_id": "jxwgrkx",
-        "point_name": "下今市駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "由天桥结构可确定是下今市站",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwgrkx_1790419134003.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.370668,
-          32.790177
-        ]
-      },
-      "properties": {
-        "point_id": "jxwl17b",
-        "point_name": "島原",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwl17b_1790419341168.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          130.344821,
-          32.843733
-        ]
-      },
-      "properties": {
-        "point_id": "jxwo1e4",
-        "point_name": "大三東",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "PV",
-        "ep_cut": "放送直前PV",
-        "remark": "大三东站标志性的祈愿活动：幸福的黄色手帕。该点特别鸣谢gemini",
-        "image_url": "https://w.junreimap.com/images/points/590553/jxwo1e4_1790419501404.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700105,
-          35.695878
-        ]
-      },
-      "properties": {
-        "point_id": "kgbs7c8",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgbs7c8_1791533298267.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700091,
-          35.695484
-        ]
-      },
-      "properties": {
-        "point_id": "kgbvii8",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgbvii8_1791533426588.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700016,
-          35.694811
-        ]
-      },
-      "properties": {
-        "point_id": "kgc3ztm",
-        "point_name": "西武新宿ペペ & Brick St.",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/u2qJJZQ726mqB4uU7",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgc3ztm_1791533839499.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.700297,
-          35.694395
-        ]
-      },
-      "properties": {
-        "point_id": "kgh3q0t",
-        "point_name": "西武新宿駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/UmjaXYpjr2go3WbD8",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgh3q0t_1791542237706.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.55214,
-          35.728542
-        ]
-      },
-      "properties": {
-        "point_id": "kgmmt47",
-        "point_name": "西武柳沢",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "车型是西武铁道 30000系 \"Smile Train\"",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgmmt47_1791551490457.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.481091,
-          35.913665
-        ]
-      },
-      "properties": {
-        "point_id": "kgmw23w",
-        "point_name": "本川越",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/XBPGFyVnVdzKS8AX8",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgmw23w_1791551933898.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.481091,
-          35.913698
-        ]
-      },
-      "properties": {
-        "point_id": "kgmx989",
-        "point_name": "本川越",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgmx989_1791552006067.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.482359,
-          35.915363
-        ]
-      },
-      "properties": {
-        "point_id": "kgn6h87",
-        "point_name": "本川越",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "街景见：https://maps.app.goo.gl/CyzEptyuZpYArCnp8",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgn6h87_1791552402639.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.482954,
-          35.923401
-        ]
-      },
-      "properties": {
-        "point_id": "kgnek18",
-        "point_name": "ヘアー​サロン​銀​パリ",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgnek18_1791552790772.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.483931,
-          35.923347
-        ]
-      },
-      "properties": {
-        "point_id": "kgngfy7",
-        "point_name": "醤遊王国 川越時の鐘店（弓削多醤油）",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP1",
-        "ep_cut": 1,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/kgngfy7_1791552936731.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.827645,
-          35.7299
-        ]
-      },
-      "properties": {
-        "point_id": "ks5n0mr",
-        "point_name": "銚子駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks5n0mr_1792248582609.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.828149,
-          35.729326
-        ]
-      },
-      "properties": {
-        "point_id": "ks5qzgb",
-        "point_name": "銚子電鉄銚子駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks5qzgb_1792248720461.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.828303,
-          35.729305
-        ]
-      },
-      "properties": {
-        "point_id": "ks5v2ms",
-        "point_name": "銚子電鉄銚子駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "桃电22000型22007編成",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks5v2ms_1792248900804.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.833683,
-          35.728874
-        ]
-      },
-      "properties": {
-        "point_id": "ks6994f",
-        "point_name": "仲ノ町駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks6994f_1792249575664.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.833561,
-          35.728856
-        ]
-      },
-      "properties": {
-        "point_id": "ks6b9dn",
-        "point_name": "仲ノ町駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks6b9dn_1792249668205.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.847776,
-          35.731004
-        ]
-      },
-      "properties": {
-        "point_id": "ks6npex",
-        "point_name": "本銚子",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "站台向东拍摄即可 ，另该视角有多个可达机位，目前认为本銚子站台向东最准确",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks6npex_1792250258934.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.85712,
-          35.728332
-        ]
-      },
-      "properties": {
-        "point_id": "ks7ss1q",
-        "point_name": "笠上黒生",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "桃电唯一交换站",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks7ss1q_1792252155800.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.863522,
-          35.721762
-        ]
-      },
-      "properties": {
-        "point_id": "ks6s113",
-        "point_name": "海鹿島駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks6s113_1792250475417.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.857057,
-          35.69921
-        ]
-      },
-      "properties": {
-        "point_id": "ks6yf5w",
-        "point_name": "外川駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks6yf5w_1792250746970.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.857044,
-          35.699195
-        ]
-      },
-      "properties": {
-        "point_id": "ks6zxxq",
-        "point_name": "外川駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "谷歌地标： 銚子電気鉄道 デハ８０１",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks6zxxq_1792250817737.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          140.856947,
-          35.699171
-        ]
-      },
-      "properties": {
-        "point_id": "ks72pw1",
-        "point_name": "外川駅",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks72pw1_1792250955435.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.768985,
-          35.699619
-        ]
-      },
-      "properties": {
-        "point_id": "ks7l74i",
-        "point_name": "トミックス ショールーム東京秋葉原",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "ED中的N比例沙盘位于该地，TOMIX 官方展厅",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks7l74i_1792251817918.webp"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          129.725424,
-          33.16366
-        ]
-      },
-      "properties": {
-        "point_id": "ks7qqud",
-        "point_name": "佐世保",
-        "bangumi_id": 590553,
-        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
-        "location": "EP2",
-        "ep_cut": 2,
-        "remark": "街景：https://maps.app.goo.gl/brt2hG4SmpfgNdxt6",
-        "image_url": "https://w.junreimap.com/images/points/590553/ks7qqud_1792252064597.webp"
       }
     },
     {

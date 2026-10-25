@@ -23,8 +23,8 @@
     {
       "geometry": {
         "coordinates": [
-          133.073314,
-          34.28135
+          133.199294,
+          34.409773
         ],
         "type": "Point"
       },
@@ -32,10 +32,30 @@
         "bangumi_id": 304375,
         "bangumi_title": "绽放★青春全力向前冲！",
         "ep_cut": "",
-        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/kzhdq52-1792691552244.webp",
+        "image_url": "https://w.junreimap.com/images/points/304375/l28owtz_1792858318792.webp",
         "location": "",
-        "point_id": "kzhdq52",
-        "point_name": "瀬戸田サンセットビーチ",
+        "point_id": "l28owtz",
+        "point_name": "共楽園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.195766,
+          34.405828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l290g5z_1792858862878.webp",
+        "location": "",
+        "point_id": "l290g5z",
+        "point_name": "尾道本通り商店街",
         "remark": ""
       },
       "type": "Feature"
