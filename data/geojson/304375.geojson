@@ -43,6 +43,86 @@
     {
       "geometry": {
         "coordinates": [
+          133.198203,
+          34.410911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l340ivs_1792910940863.webp",
+        "location": "",
+        "point_id": "l340ivs",
+        "point_name": "文学のこみち",
+        "remark": "游戏中通往神社的路，只有台阶比较像"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.194117,
+          34.404476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l341xav_1792911015186.webp",
+        "location": "",
+        "point_id": "l341xav",
+        "point_name": "尾道駅前",
+        "remark": "这里仅有左侧建筑和右侧车站比较相似"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.199086,
+          34.40838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l344ylg_1792911255547.webp",
+        "location": "",
+        "point_id": "l344ylg",
+        "point_name": "街並み",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.200771,
+          34.410631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l349jbx_1792911345911.webp",
+        "location": "",
+        "point_id": "l349jbx",
+        "point_name": "艮神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           133.195766,
           34.405828
         ],
@@ -57,6 +137,66 @@
         "point_id": "l290g5z",
         "point_name": "尾道本通り商店街",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.196649,
+          34.41035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l33wwoh_1792910795017.webp",
+        "location": "",
+        "point_id": "l33wwoh",
+        "point_name": "俳句広場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.190251,
+          34.401891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l34bb1l_1792911430592.webp",
+        "location": "",
+        "point_id": "l34bb1l",
+        "point_name": "尾道U2 ウッドデッキ",
+        "remark": "原游戏CG是合成的，这里取材了左侧餐厅的部分"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.194788,
+          34.404162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 304375,
+        "bangumi_title": "绽放★青春全力向前冲！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/304375/l34eo48_1792911592325.webp",
+        "location": "",
+        "point_id": "l34eo48",
+        "point_name": "尾道駅前広場",
+        "remark": "原游戏CG是合成的，这里取材了右侧栏杆的部分"
       },
       "type": "Feature"
     }
