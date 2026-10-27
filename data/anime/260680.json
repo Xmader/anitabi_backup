@@ -1718,9 +1718,23 @@
       "status_code": 2187,
       "user_id": null,
       "zoom": 18
+    },
+    {
+      "ep_cut": 5,
+      "id": "3a1p2m4",
+      "image_path": "/images/user/2187/bangumi/467930/points/3a1p2m4-1754148214751.jpg",
+      "image_url": "https://w.junreimap.com/images/user/2187/bangumi/467930/points/3a1p2m4-1754148214751.jpg",
+      "lat": 35.306967,
+      "lng": 139.483863,
+      "location": "",
+      "name": "江の島入口",
+      "remark": "",
+      "status_code": 2187,
+      "user_id": 155,
+      "zoom": 0
     }
   ],
-  "points_count": 122,
+  "points_count": 123,
   "rating": 7.3,
   "region": "藤沢市",
   "short_name": "",

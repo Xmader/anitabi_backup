@@ -2439,6 +2439,26 @@
         "remark": "BD"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.483863,
+          35.306967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 260680,
+        "bangumi_title": "青春猪头少年不会梦到怀梦美少女",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/user/2187/bangumi/467930/points/3a1p2m4-1754148214751.jpg",
+        "location": "",
+        "point_id": "3a1p2m4",
+        "point_name": "江の島入口",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

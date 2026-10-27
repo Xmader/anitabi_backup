@@ -667,7 +667,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 4227,
-      "zoom": 308
+      "zoom": 41
     },
     {
       "ep_cut": 3,
@@ -723,7 +723,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": null,
-      "zoom": 9087
+      "zoom": 255
     },
     {
       "ep_cut": 9,
@@ -794,9 +794,65 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 5190
+    },
+    {
+      "ep_cut": 2,
+      "id": "l1epmec",
+      "image_path": "/images/user/0/bangumi/287488/points/l1epmec-1792808039364.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1epmec-1792808039364.webp",
+      "lat": 33.073774,
+      "lng": 130.108258,
+      "location": "",
+      "name": "祐徳稲荷神社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 23
+    },
+    {
+      "ep_cut": 2,
+      "id": "l1estjt",
+      "image_path": "/images/user/0/bangumi/287488/points/l1estjt-1792808123064.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1estjt-1792808123064.webp",
+      "lat": 33.07392,
+      "lng": 130.108114,
+      "location": "",
+      "name": "岩崎社",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 47
+    },
+    {
+      "ep_cut": 2,
+      "id": "l1eunle",
+      "image_path": "/images/user/0/bangumi/287488/points/l1eunle-1792808226699.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1eunle-1792808226699.webp",
+      "lat": 33.073881,
+      "lng": 130.1077,
+      "location": "",
+      "name": "祐德稻荷神社 御本殿",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 163
+    },
+    {
+      "ep_cut": 2,
+      "id": "l1f2w70",
+      "image_path": "/images/user/0/bangumi/287488/points/l1f2w70-1792808618153.webp",
+      "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1f2w70-1792808618153.webp",
+      "lat": 33.074182,
+      "lng": 130.10627,
+      "location": "",
+      "name": "奥の院前展望台",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 9194
     }
   ],
-  "points_count": 56,
+  "points_count": 60,
   "rating": 7.7,
   "region": "佐贺县",
   "short_name": "",

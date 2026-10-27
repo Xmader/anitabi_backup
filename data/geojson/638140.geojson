@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.702889,
+          35.671497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638140,
+        "bangumi_title": "残光再摄",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "l4smw8v",
+        "point_name": "原宿駅 竹下口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703762,
+          35.671429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638140,
+        "bangumi_title": "残光再摄",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "l54bag7",
+        "point_name": "神宮前1丁目",
+        "remark": "写着SWEET的店是SWEET BOX 原宿店。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703773,
+          35.671427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638140,
+        "bangumi_title": "残光再摄",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "l54c7wy",
+        "point_name": "神宮前1丁目",
+        "remark": "左侧招牌现实中是DAISO和CAPCOM CAPSULE LAB。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.703783,
+          35.671425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638140,
+        "bangumi_title": "残光再摄",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "l54ep57",
+        "point_name": "神宮前1丁目",
+        "remark": "背景建筑是原宿シュロス城西ビル。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

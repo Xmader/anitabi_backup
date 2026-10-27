@@ -1119,6 +1119,86 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.108258,
+          33.073774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1epmec-1792808039364.webp",
+        "location": "",
+        "point_id": "l1epmec",
+        "point_name": "祐徳稲荷神社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.108114,
+          33.07392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1estjt-1792808123064.webp",
+        "location": "",
+        "point_id": "l1estjt",
+        "point_name": "岩崎社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.1077,
+          33.073881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1eunle-1792808226699.webp",
+        "location": "",
+        "point_id": "l1eunle",
+        "point_name": "祐德稻荷神社 御本殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          130.10627,
+          33.074182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 287488,
+        "bangumi_title": "佐贺偶像是传奇 复仇",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/287488/points/l1f2w70-1792808618153.webp",
+        "location": "",
+        "point_id": "l1f2w70",
+        "point_name": "奥の院前展望台",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

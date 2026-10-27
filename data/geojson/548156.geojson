@@ -779,6 +779,446 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.671021,
+          35.77192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l50xlfg-1793026693633.webp",
+        "location": "",
+        "point_id": "l50xlfg",
+        "point_name": "1-chōme-1-2 Nishidai",
+        "remark": "这个位置来源日本的巡礼网站，咋能跑这么远。推荐在楼梯的位置拍摄，后面的房子是〒174-0045 Tokyo, Itabashi City, Nishidai, 1-chōme−14−13 武井荘。这里的落差太大，需要长焦拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.671126,
+          35.771707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l52aja2-1793028980916.webp",
+        "location": "",
+        "point_id": "l52aja2",
+        "point_name": "14",
+        "remark": "制作组你把医院放哪里了，为啥不在第一季取景附近，找不到啊找不到。可以看见折叠的楼梯，所以一般在楼梯拍摄足够了\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.67124,
+          35.771818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l52dhj7-1793029108905.webp",
+        "location": "",
+        "point_id": "l52dhj7",
+        "point_name": "楼梯",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659745,
+          35.775656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l53t45w-1793032050350.webp",
+        "location": "",
+        "point_id": "l53t45w",
+        "point_name": "宮の下",
+        "remark": "咋第二季的取景跑这么远，左面的房子是Curves，应该是一个康复医院，右面的是居民楼。后面的指示路牌和现实一样"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659375,
+          35.775975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54c8pr-1793032424337.webp",
+        "location": "",
+        "point_id": "l54c8pr",
+        "point_name": "〒175-0083 Tokyo, Itabashi City, Tokumaru, 5-chōme−1−18 サンライフ宮の下",
+        "remark": "大概50mm左右拍摄。后面的伪表白不错，给哥布林看幸福了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65937,
+          35.775973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54g68w-1793032625001.webp",
+        "location": "",
+        "point_id": "l54g68w",
+        "point_name": "サンライフ宮の下",
+        "remark": "拍摄不要影响人家哦。〒175-0083 Tokyo, Itabashi City, Tokumaru, 5-chōme−1−18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659265,
+          35.776223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54kme8-1793032868724.webp",
+        "location": "",
+        "point_id": "l54kme8",
+        "point_name": "前面第2个房子",
+        "remark": "5-chōme-1 Tokumaru\nItabashi City, Tokyo 175-0083, Japan\n"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659266,
+          35.776247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54o052-1793032970724.webp",
+        "location": "",
+        "point_id": "l54o052",
+        "point_name": "5-chōme-1 Tokumaru Itabashi City, Tokyo 175-0083, Japan",
+        "remark": "后面的居民房没有名称"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659282,
+          35.776241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54pmc0-1793033066048.webp",
+        "location": "",
+        "point_id": "l54pmc0",
+        "point_name": "サンライフ宮の下",
+        "remark": "在楼梯这里拍摄也可以"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659121,
+          35.776469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54s0ev-1793033149499.webp",
+        "location": "",
+        "point_id": "l54s0ev",
+        "point_name": "サンライフ宮の下",
+        "remark": "学姐可爱呢。让你擦就擦磨磨唧唧的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659102,
+          35.776463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54qsud-1793033211232.webp",
+        "location": "",
+        "point_id": "l54qsud",
+        "point_name": "サンライフ宮の下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659112,
+          35.776479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54vjci-1793033363863.webp",
+        "location": "",
+        "point_id": "l54vjci",
+        "point_name": "サンライフ宮の下",
+        "remark": "学姐好看呢"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.659104,
+          35.776485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54ukjj-1793033269250.webp",
+        "location": "",
+        "point_id": "l54ukjj",
+        "point_name": "サンライフ宮の下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658875,
+          35.776774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54wdvu-1793033439549.webp",
+        "location": "",
+        "point_id": "l54wdvu",
+        "point_name": "电线杆",
+        "remark": "第4集的差不多16-85mm，最低推荐35mm，或者50mm。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658871,
+          35.776784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l54xrdv-1793033430517.webp",
+        "location": "",
+        "point_id": "l54xrdv",
+        "point_name": "电线杆",
+        "remark": "右面的蓝色コーポ小泉，左面的没有名称。别给我说找不到位置，除非电线杆，房子人行道都没有了/"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.658864,
+          35.776788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l552y2x-1793033677031.webp",
+        "location": "",
+        "point_id": "l552y2x",
+        "point_name": "Tokuishi Park",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.656481,
+          35.683194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l55b6h0-1793034098074.webp",
+        "location": "",
+        "point_id": "l55b6h0",
+        "point_name": "Kusuri Matsumotokiyoshi Honanchoten",
+        "remark": "Kusuri Matsumotokiyoshi Honanchoten 薬 マツモトキヨシ 方南町店.现实一楼药店，二楼才是吃饭的位置。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.65651,
+          35.683105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l55dmi6-1793034150761.webp",
+        "location": "",
+        "point_id": "l55dmi6",
+        "point_name": "10",
+        "remark": "是好男孩啊。还有一些取景，不知道具体位置，就交给线下巡礼的各位了。可以把剩下的取景补充的。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.656514,
+          35.683107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l55fd5d-1793034232273.webp",
+        "location": "",
+        "point_id": "l55fd5d",
+        "point_name": "10",
+        "remark": "兄弟懂我，过膝长袜好看。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.695023,
+          35.757237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l55m1cs-1793034574994.webp",
+        "location": "",
+        "point_id": "l55m1cs",
+        "point_name": "Bagels Panpan.（一个餐厅）",
+        "remark": "右面的是餐厅.主播自己也尝试找了，原本想找ed的，虽然把这附近的都看了谁知道是在左面的河，感谢日本那边网友的取景，餐厅也是。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.675409,
+          35.754873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l561gyd-1793035405563.webp",
+        "location": "",
+        "point_id": "l561gyd",
+        "point_name": "Kurihara Bridge",
+        "remark": "这是ed的取景.有点远了兄弟，你咋找到的。日本网友。不得不说这一季的ed也好好看，学姐真好看。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694504,
+          35.757317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/l55wkt8-1793035043072.webp",
+        "location": "",
+        "point_id": "l55wkt8",
+        "point_name": "黄房子",
+        "remark": "〒173-0016 Tokyo, Itabashi City, Nakaitabashi, 28−5 石神井荘.这个房子的旁边这个为人物的对面房子。"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

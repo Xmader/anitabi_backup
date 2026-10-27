@@ -1,0 +1,25 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.6524,
+          35.57213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 554779,
+        "bangumi_title": "学生会也有洞！",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2157/bangumi/554779/points/l2svyhv-1792892256970.jpg",
+        "location": "",
+        "point_id": "l2svyhv",
+        "point_name": "法政二中 校门",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

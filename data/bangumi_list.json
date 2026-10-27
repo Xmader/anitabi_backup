@@ -14,6 +14,90 @@
     "bgm_id": null
   },
   {
+    "id": 548156,
+    "title_cn": "青之箱 第二季",
+    "title_jp": "アオのハコ 第2期",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 10,
+    "points_count": 61,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 638140,
+    "title_cn": "残光再摄",
+    "title_jp": "残光再撮",
+    "title_en": "",
+    "region": "東京都",
+    "type": "漫画系列",
+    "rating": 6.8,
+    "points_count": 4,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/638140.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 554779,
+    "title_cn": "学生会也有洞！",
+    "title_jp": "生徒会にも穴はある！",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.6,
+    "points_count": 1,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/17/c7/554779_oPitO.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 604826,
+    "title_cn": "超时空辉夜姬！",
+    "title_jp": "超かぐや姫！",
+    "title_en": "",
+    "region": "立川市",
+    "type": "WEB",
+    "rating": 7.1,
+    "points_count": 59,
+    "center_lat": 35.707638,
+    "center_lng": 139.42773,
+    "cover_url": "https://w.junreimap.com/images/bangumi/604826.jpg",
+    "bgm_id": 6689
+  },
+  {
+    "id": 287488,
+    "title_cn": "佐贺偶像是传奇 复仇",
+    "title_jp": "ゾンビランドサガ リベンジ",
+    "title_en": "",
+    "region": "佐贺县",
+    "type": "TV",
+    "rating": 7.7,
+    "points_count": 60,
+    "center_lat": 33.372977,
+    "center_lng": 130.185367,
+    "cover_url": "https://w.junreimap.com/images/bangumi/287488.jpg",
+    "bgm_id": 35451
+  },
+  {
+    "id": 260680,
+    "title_cn": "青春猪头少年不会梦到怀梦美少女",
+    "title_jp": "青春ブタ野郎はゆめみる少女の夢を見ない",
+    "title_en": "Rascal Does Not Dream of a Dreaming Girl",
+    "region": "藤沢市",
+    "type": "剧场版",
+    "rating": 7.3,
+    "points_count": 123,
+    "center_lat": 35.128518,
+    "center_lng": 139.718875,
+    "cover_url": "https://w.junreimap.com/images/bangumi/260680.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 622288,
     "title_cn": "FX战士久留美",
     "title_jp": "FX戦士くるみちゃん",
@@ -70,20 +154,6 @@
     "bgm_id": null
   },
   {
-    "id": 287488,
-    "title_cn": "佐贺偶像是传奇 复仇",
-    "title_jp": "ゾンビランドサガ リベンジ",
-    "title_en": "",
-    "region": "佐贺县",
-    "type": "TV",
-    "rating": 7.7,
-    "points_count": 56,
-    "center_lat": 33.372977,
-    "center_lng": 130.185367,
-    "cover_url": "https://w.junreimap.com/images/bangumi/287488.jpg",
-    "bgm_id": 35451
-  },
-  {
     "id": 215171,
     "title_cn": "",
     "title_jp": "ハロー・レディ！ -Superior Dynamis-",
@@ -126,20 +196,6 @@
     "bgm_id": null
   },
   {
-    "id": 548156,
-    "title_cn": "青之箱 第二季",
-    "title_jp": "アオのハコ 第2期",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 10,
-    "points_count": 39,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 112151,
     "title_cn": "终结的炽天使",
     "title_jp": "終わりのセラフ",
@@ -166,20 +222,6 @@
     "center_lng": 139.547083,
     "cover_url": "https://w.junreimap.com/images/bangumi/426239.jpg",
     "bgm_id": 10474
-  },
-  {
-    "id": 260680,
-    "title_cn": "青春猪头少年不会梦到怀梦美少女",
-    "title_jp": "青春ブタ野郎はゆめみる少女の夢を見ない",
-    "title_en": "Rascal Does Not Dream of a Dreaming Girl",
-    "region": "藤沢市",
-    "type": "剧场版",
-    "rating": 7.3,
-    "points_count": 122,
-    "center_lat": 35.128518,
-    "center_lng": 139.718875,
-    "cover_url": "https://w.junreimap.com/images/bangumi/260680.jpg",
-    "bgm_id": null
   },
   {
     "id": 240038,
@@ -1272,20 +1314,6 @@
     "center_lng": 139.328608,
     "cover_url": "https://w.junreimap.com/images/bangumi/290980.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 604826,
-    "title_cn": "超时空辉夜姬！",
-    "title_jp": "超かぐや姫！",
-    "title_en": "",
-    "region": "立川市",
-    "type": "WEB",
-    "rating": 7.1,
-    "points_count": 59,
-    "center_lat": 35.707638,
-    "center_lng": 139.42773,
-    "cover_url": "https://w.junreimap.com/images/bangumi/604826.jpg",
-    "bgm_id": 6689
   },
   {
     "id": 280837,
