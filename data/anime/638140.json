@@ -66,9 +66,37 @@
       "status_code": 1057,
       "user_id": 1,
       "zoom": 3
+    },
+    {
+      "ep_cut": 3,
+      "id": "l5nobp7",
+      "image_path": "",
+      "image_url": "",
+      "lat": 35.662708,
+      "lng": 139.701901,
+      "location": "",
+      "name": "宮下公園",
+      "remark": "背景是渋谷キャスト。",
+      "status_code": 1057,
+      "user_id": 83,
+      "zoom": 7
+    },
+    {
+      "ep_cut": 3,
+      "id": "l5ndant",
+      "image_path": "",
+      "image_url": "",
+      "lat": 35.661963,
+      "lng": 139.701855,
+      "location": "",
+      "name": "宮下公園",
+      "remark": "https://assets.st-note.com/img/1747912541-iB9TgdGhYvKxQLUV3npW1HMC.png",
+      "status_code": 1057,
+      "user_id": 83,
+      "zoom": 15
     }
   ],
-  "points_count": 4,
+  "points_count": 6,
   "rating": 6.8,
   "region": "東京都",
   "short_name": "",

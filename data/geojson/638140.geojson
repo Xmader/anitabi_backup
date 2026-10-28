@@ -79,6 +79,46 @@
         "remark": "背景建筑是原宿シュロス城西ビル。"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701901,
+          35.662708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638140,
+        "bangumi_title": "残光再摄",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "l5nobp7",
+        "point_name": "宮下公園",
+        "remark": "背景是渋谷キャスト。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701855,
+          35.661963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638140,
+        "bangumi_title": "残光再摄",
+        "ep_cut": 3,
+        "image_url": "",
+        "location": "",
+        "point_id": "l5ndant",
+        "point_name": "宮下公園",
+        "remark": "https://assets.st-note.com/img/1747912541-iB9TgdGhYvKxQLUV3npW1HMC.png"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

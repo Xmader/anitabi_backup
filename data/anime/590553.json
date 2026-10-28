@@ -666,8 +666,8 @@
       "name": "狭山市駅西口",
       "remark": "",
       "status_code": 2191,
-      "user_id": 63,
-      "zoom": 64
+      "user_id": 49,
+      "zoom": 50
     },
     {
       "ep_cut": 3,
@@ -695,7 +695,7 @@
       "remark": "",
       "status_code": 2191,
       "user_id": 10,
-      "zoom": 7579
+      "zoom": 26
     },
     {
       "ep_cut": 3,
@@ -710,14 +710,42 @@
       "status_code": 2191,
       "user_id": 13,
       "zoom": 186
+    },
+    {
+      "ep_cut": 3,
+      "id": "l5to1k2",
+      "image_path": "/images/points/590553/l5to1k2_1793074968009.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/l5to1k2_1793074968009.webp",
+      "lat": 35.76032,
+      "lng": 139.465829,
+      "location": "EP3",
+      "name": "東村山駅",
+      "remark": "【存疑】由街景不太对的上，但是根据角色上下文确为此站，待验证；\n左侧车型还是NRA，右侧车型疑似西武2000系",
+      "status_code": 2191,
+      "user_id": 10209,
+      "zoom": 2308
+    },
+    {
+      "ep_cut": 3,
+      "id": "l5tvr8p",
+      "image_path": "/images/points/590553/l5tvr8p_1793075314290.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/l5tvr8p_1793075314290.webp",
+      "lat": 35.857185,
+      "lng": 139.413183,
+      "location": "EP3",
+      "name": "狭山市駅",
+      "remark": "",
+      "status_code": 2191,
+      "user_id": 16,
+      "zoom": 7553
     }
   ],
-  "points_count": 50,
+  "points_count": 52,
   "rating": 0,
   "region": "",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/590553_100_76.webp?v=hsg8x",
+    "/images/ptheme/590553_100_76.webp?v=hsj3h",
     [
       "5op0oth",
       "5nt035t",
@@ -768,9 +796,11 @@
       "l25ovy6",
       "l25r9y9",
       "l25sra8",
-      "l25z02e"
+      "l25z02e",
+      "l5to1k2",
+      "l5tvr8p"
     ],
-    1792853857514,
+    1793075344332,
     100,
     76
   ],

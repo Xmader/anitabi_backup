@@ -2699,6 +2699,506 @@
         "remark": "最后一张其他的各位自己找"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.070628,
+          35.090813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5dkugl-1793047922244.webp",
+        "location": "",
+        "point_id": "l5dkugl",
+        "point_name": "Atami Kinjokan",
+        "remark": "左面的房子Atami Kinjokan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071971,
+          35.094529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5dogf6-1793048129130.webp",
+        "location": "",
+        "point_id": "l5dogf6",
+        "point_name": "Kumayumi Bridge",
+        "remark": "被桥骗了，看见有弯曲不选择"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071979,
+          35.094536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5drlh9-1793048242317.webp",
+        "location": "",
+        "point_id": "l5drlh9",
+        "point_name": "Kumayumi Bridge",
+        "remark": "这里视角比较多，可以多拍些，我就上传了2张"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071963,
+          35.095922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5dyu0z-1793048576447.webp",
+        "location": "",
+        "point_id": "l5dyu0z",
+        "point_name": "FUTABA DENKI",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071969,
+          35.095934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5dyw07-1793048581692.webp",
+        "location": "",
+        "point_id": "l5dyw07",
+        "point_name": "FUTABA DENKI",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.085287,
+          35.106304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5edayu-1793049262658.webp",
+        "location": "",
+        "point_id": "l5edayu",
+        "point_name": "熱海ホテル（旧帝国海軍保養所）跡",
+        "remark": "在拐角"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.08702,
+          35.109366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5ehtrf-1793049470542.webp",
+        "location": "",
+        "point_id": "l5ehtrf",
+        "point_name": "伊豆山港",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.077828,
+          35.102238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "8",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5eo1tq-1793049751471.webp",
+        "location": "",
+        "point_id": "l5eo1tq",
+        "point_name": "マニファトゥーラ MANIFATTURA",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.072773,
+          35.09517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5eqody-1793049881331.webp",
+        "location": "",
+        "point_id": "l5eqody",
+        "point_name": "熱海第一交通(株)配車センター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.073216,
+          35.096077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "8",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5eskss-1793049987267.webp",
+        "location": "",
+        "point_id": "l5eskss",
+        "point_name": "Dragon Bridge",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.075685,
+          35.096329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5f17o5-1793050366615.webp",
+        "location": "",
+        "point_id": "l5f17o5",
+        "point_name": "WHiCH SAND WiCH",
+        "remark": "这里是个小巷子，谷歌看不了，各位根据房子的颜色来在，黄色房子的左面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.074845,
+          35.096286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5f7yvf-1793050680046.webp",
+        "location": "",
+        "point_id": "l5f7yvf",
+        "point_name": "热海渚町・おさかな丼屋ビストロ",
+        "remark": "旁边是停车场"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076644,
+          35.096276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5f9vb3-1793050769183.webp",
+        "location": "",
+        "point_id": "l5f9vb3",
+        "point_name": "热海月光露台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076467,
+          35.096338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "6",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5facsm-1793050793386.webp",
+        "location": "",
+        "point_id": "l5facsm",
+        "point_name": "热海月光露台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.074901,
+          35.100055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5feqro-1793051003184.webp",
+        "location": "",
+        "point_id": "l5feqro",
+        "point_name": "FUKUROU Atami",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.075235,
+          35.099457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5ffjsx-1793051048977.webp",
+        "location": "",
+        "point_id": "l5ffjsx",
+        "point_name": "FUKUROU Atami",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.075219,
+          35.099474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5ffmaz-1793051056110.webp",
+        "location": "",
+        "point_id": "l5ffmaz",
+        "point_name": "FUKUROU Atami",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.073832,
+          35.095644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5fl286-1793051291908.webp",
+        "location": "",
+        "point_id": "l5fl286",
+        "point_name": "丝川桥",
+        "remark": "需要下桥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.076713,
+          35.097976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5foi8n-1793051451755.webp",
+        "location": "",
+        "point_id": "l5foi8n",
+        "point_name": "热海サンビーチ",
+        "remark": "要不来巡礼的各位也拍一张"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071044,
+          35.097436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5fr70v-1793051578952.webp",
+        "location": "",
+        "point_id": "l5fr70v",
+        "point_name": "寺ヨメ開運専門占師 青澄杏樹",
+        "remark": "其实是桥，懒得打字"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.07408,
+          35.096631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "7",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5fsl7z-1793051657150.webp",
+        "location": "",
+        "point_id": "l5fsl7z",
+        "point_name": "纯喫茶 Pine Tree",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.071615,
+          35.097785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "9",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5fwosf-1793051846072.webp",
+        "location": "",
+        "point_id": "l5fwosf",
+        "point_name": "市外電話創始の地",
+        "remark": "4-3 Kamijukucho, Atami, Shizuoka 413-0018, Japan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.066493,
+          35.098259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5g06a4-1793051995885.webp",
+        "location": "",
+        "point_id": "l5g06a4",
+        "point_name": "きらぼし银行热海荘",
+        "remark": "根据右面的楼梯来"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.066995,
+          35.097498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5g3f3j-1793052153012.webp",
+        "location": "",
+        "point_id": "l5g3f3j",
+        "point_name": "&.cL あんど.しえる",
+        "remark": "后面的房子&.cL あんど.しえる 5-13 Fukumichicho, Atami, Shizuoka 413-0017, Japan。需要长焦拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.064347,
+          35.097378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 562430,
+        "bangumi_title": "能帮我弄干净吗？",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/562430/points/l5g9tww-1793052485870.webp",
+        "location": "",
+        "point_id": "l5g9tww",
+        "point_name": "Shizuoka Prefectural Rd 11",
+        "remark": "Atami, Shizuoka, Japan拍摄靠自己了，位置找到了，在拐弯尽头"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

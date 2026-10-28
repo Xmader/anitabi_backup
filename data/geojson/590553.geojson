@@ -999,6 +999,46 @@
         "remark": "车型是西武铁道10000系电车ニューレッドアロー"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.465829,
+          35.76032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/590553/l5to1k2_1793074968009.webp",
+        "location": "EP3",
+        "point_id": "l5to1k2",
+        "point_name": "東村山駅",
+        "remark": "【存疑】由街景不太对的上，但是根据角色上下文确为此站，待验证；\n左侧车型还是NRA，右侧车型疑似西武2000系"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.413183,
+          35.857185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/590553/l5tvr8p_1793075314290.webp",
+        "location": "EP3",
+        "point_id": "l5tvr8p",
+        "point_name": "狭山市駅",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

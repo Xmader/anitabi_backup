@@ -443,7 +443,7 @@
       "remark": "由于新版anitabi底图有坐标偏移，请以链接中谷歌街景为准。",
       "status_code": 2191,
       "user_id": 225,
-      "zoom": 94
+      "zoom": 37
     },
     {
       "ep_cut": 5,
@@ -499,7 +499,7 @@
       "remark": "",
       "status_code": 2191,
       "user_id": 33,
-      "zoom": 33
+      "zoom": 27
     },
     {
       "ep_cut": 9,
@@ -513,7 +513,7 @@
       "remark": "35°39'50.0\"N 139°30'40.0\"E，視角涵蓋12:08與13:01 的畫面，分別在超商路口與車站入口前對話",
       "status_code": 0,
       "user_id": 33,
-      "zoom": 55
+      "zoom": 4
     },
     {
       "ep_cut": 9,
@@ -583,7 +583,7 @@
       "remark": "地點: Shimotaga, Atami, Shizuoka 413-0102, Japan\n該集為戀人不行第一季第9話，以下連結附的是車站出口的截圖，實際上 1102秒(18:22) 看車站的視角更完整，私心選用了有玲奈子的畫面。\nhttps://maps.app.goo.gl/7kkuzy7yy8xf9C6M9 ",
       "status_code": 0,
       "user_id": 34,
-      "zoom": 35
+      "zoom": 2
     },
     {
       "ep_cut": 9,
@@ -625,7 +625,7 @@
       "remark": "【无人机需要，请遵守相关法规】大致为此位置正上方，向西方向拍摄。可以参考卫星图片或者航拍进一步确认",
       "status_code": 2191,
       "user_id": 510,
-      "zoom": 511
+      "zoom": 406
     },
     {
       "ep_cut": 11,
@@ -639,7 +639,7 @@
       "remark": "谷歌街景是国道135号线同位置参考，在此地附近海侧人行道找找角度即为所求",
       "status_code": 2191,
       "user_id": 61,
-      "zoom": 279
+      "zoom": 126
     },
     {
       "ep_cut": 11,
@@ -695,7 +695,7 @@
       "remark": "虽然动漫中前一个镜头提示是伊豆多贺站，但是根据站台弯曲程度和一台两面形式，应该还是在网代站。",
       "status_code": 2191,
       "user_id": 7,
-      "zoom": 7
+      "zoom": 4
     },
     {
       "ep_cut": 11,
@@ -709,7 +709,7 @@
       "remark": "虽然动漫中前一个镜头提示是伊豆多贺站，但是根据站台弯曲程度和一台两面形式，应该还是在网代站。为了追求还原的话，通过列车是E257系特急舞女",
       "status_code": 2191,
       "user_id": 7,
-      "zoom": 15
+      "zoom": 6
     },
     {
       "ep_cut": 11,
@@ -723,7 +723,7 @@
       "remark": "虽然动漫中前一个镜头提示是伊豆多贺站，但是根据站台弯曲程度和一台两面形式，应该还是在网代站。以及，舞女什么时候有10辆编成了，此处E257应当为9辆编成",
       "status_code": 2191,
       "user_id": 13,
-      "zoom": 1948
+      "zoom": 10
     },
     {
       "ep_cut": 12,
@@ -737,7 +737,7 @@
       "remark": "【无人机需要，请遵守相关法规】大致为此位置正上方，向西南方向拍摄。可以参考卫星图片或者航拍进一步确认",
       "status_code": 2191,
       "user_id": 602,
-      "zoom": 603
+      "zoom": 321
     },
     {
       "ep_cut": 12,
@@ -821,7 +821,7 @@
       "remark": "后方雨棚店铺是Freshness Burger，王总坐的高凳在街景中并不存在",
       "status_code": 2191,
       "user_id": 19,
-      "zoom": 1287
+      "zoom": 1198
     },
     {
       "ep_cut": 12,
@@ -891,10 +891,262 @@
       "remark": "",
       "status_code": 2191,
       "user_id": 53,
-      "zoom": 1717
+      "zoom": 55
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5gqr4w",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5gqr4w-1793053273658.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5gqr4w-1793053273658.webp",
+      "lat": 35.044429,
+      "lng": 139.083864,
+      "location": "",
+      "name": "Marugame Specialty Store",
+      "remark": "后面的酒店Ajiro Kanko Hotel。50-85拍摄",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 7
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5gyd7d",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5gyd7d-1793053627709.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5gyd7d-1793053627709.webp",
+      "lat": 35.044353,
+      "lng": 139.083897,
+      "location": "",
+      "name": "Miharaya",
+      "remark": "推荐在里面的这条路拍摄，根据动漫走向，然后店铺的颜色都符合",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 1
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5h2htt",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5h2htt-1793053791595.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5h2htt-1793053791595.webp",
+      "lat": 35.044356,
+      "lng": 139.083897,
+      "location": "",
+      "name": "Miharaya",
+      "remark": "就是这里了",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 4
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5h47rm",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5h47rm-1793053871722.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5h47rm-1793053871722.webp",
+      "lat": 35.044375,
+      "lng": 139.083833,
+      "location": "",
+      "name": "Miharaya",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5h44ys",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5h44ys-1793053874806.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5h44ys-1793053874806.webp",
+      "lat": 35.044367,
+      "lng": 139.083842,
+      "location": "",
+      "name": "Miharaya",
+      "remark": "紫阳花好看呢",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 4
+    },
+    {
+      "ep_cut": "4",
+      "id": "l5h61mq",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5h61mq-1793053950930.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5h61mq-1793053950930.webp",
+      "lat": 35.044347,
+      "lng": 139.083867,
+      "location": "",
+      "name": "Miharaya",
+      "remark": "腹黑黑长直",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 276
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5hqlor",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5hqlor-1793054919657.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5hqlor-1793054919657.webp",
+      "lat": 35.043642,
+      "lng": 139.081225,
+      "location": "",
+      "name": "伊東線",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5hqj5b",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5hqj5b-1793054913766.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5hqj5b-1793054913766.webp",
+      "lat": 35.043651,
+      "lng": 139.081227,
+      "location": "",
+      "name": "网代站内",
+      "remark": "粉毛？？？",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 37
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5hxuj6",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5hxuj6-1793055269917.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5hxuj6-1793055269917.webp",
+      "lat": 35.663923,
+      "lng": 139.511091,
+      "location": "",
+      "name": "武蔵野台駅南口",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 4
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5hxr6d",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5hxr6d-1793055283592.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5hxr6d-1793055283592.webp",
+      "lat": 35.663803,
+      "lng": 139.511082,
+      "location": "",
+      "name": "武蔵野台駅南口",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 17
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5hxntr",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5hxntr-1793055280752.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5hxntr-1793055280752.webp",
+      "lat": 35.66395,
+      "lng": 139.511088,
+      "location": "",
+      "name": "武蔵野台駅南口",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 339
+    },
+    {
+      "ep_cut": "9",
+      "id": "l5i4nl5",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5i4nl5-1793055583892.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5i4nl5-1793055583892.webp",
+      "lat": 35.043497,
+      "lng": 139.081514,
+      "location": "",
+      "name": "網代駅",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 3
+    },
+    {
+      "ep_cut": "9",
+      "id": "l5i4s5a",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5i4s5a-1793055590949.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5i4s5a-1793055590949.webp",
+      "lat": 35.0435,
+      "lng": 139.081535,
+      "location": "",
+      "name": "網代駅",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 1977
+    },
+    {
+      "ep_cut": "9",
+      "id": "l5ij8jd",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5ij8jd-1793056253293.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5ij8jd-1793056253293.webp",
+      "lat": 35.658366,
+      "lng": 139.575118,
+      "location": "",
+      "name": "北口",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 1
+    },
+    {
+      "ep_cut": "9",
+      "id": "l5ij6bd",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5ij6bd-1793056256532.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5ij6bd-1793056256532.webp",
+      "lat": 35.658369,
+      "lng": 139.575127,
+      "location": "",
+      "name": "北口",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "9",
+      "id": "l5ijbkl",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5ijbkl-1793056250500.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5ijbkl-1793056250500.webp",
+      "lat": 35.658368,
+      "lng": 139.575115,
+      "location": "",
+      "name": "北口",
+      "remark": "紫阳花别堕落，我马上回忆挽回你",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 94
+    },
+    {
+      "ep_cut": "op 00：52",
+      "id": "l5iy52w",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5iy52w-1793056947591.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5iy52w-1793056947591.webp",
+      "lat": 35.652058,
+      "lng": 139.561997,
+      "location": "",
+      "name": "サントル野川",
+      "remark": "左面的房子サントル野川",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 1214
+    },
+    {
+      "ep_cut": "11",
+      "id": "l5j3nkj",
+      "image_path": "/images/user/2205/bangumi/524707/points/l5j3nkj-1793057280797.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/524707/points/l5j3nkj-1793057280797.webp",
+      "lat": 35.662981,
+      "lng": 139.513981,
+      "location": "",
+      "name": "Subako",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 1455
     }
   ],
-  "points_count": 63,
+  "points_count": 81,
   "rating": 7.5,
   "region": "东京都",
   "short_name": "恋人不行",

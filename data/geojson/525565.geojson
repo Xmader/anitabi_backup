@@ -2239,6 +2239,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.595697,
+          35.424497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/l5k94go-1793059145354.webp",
+        "location": "",
+        "point_id": "l5k94go",
+        "point_name": "横滨市弘明寺公园展望台",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
