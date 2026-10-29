@@ -219,6 +219,26 @@
         "remark": "原CG镜像反转"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.191808,
+          34.701502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 172842,
+        "bangumi_title": "花之天使的夏日恋歌",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2203/bangumi/172842/points/l1pdfnb-1792825880846.webp",
+        "location": "",
+        "point_id": "l1pdfnb",
+        "point_name": "北野通り",
+        "remark": "原CG镜像反转"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -1736,27 +1736,7 @@
         "location": "",
         "point_id": "9nv3lee",
         "point_name": "人行道",
-        "remark": "还好有前人的帮助，顺利找到了喵"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.720403,
-          35.707983
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 876,
-        "bangumi_title": "CLANNAD 〜AFTER STORY〜",
-        "ep_cut": 25,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/876/points/9nv8pro-1768044596078.jpg",
-        "location": "",
-        "point_id": "9nv8pro",
-        "point_name": "早苗",
-        "remark": "根据·蓝色的棚子拍摄，虽然旁边的房子变空地了，但已经10年多了，变化是很正常的"
+        "remark": "还好有前人的帮助，顺利找到了喵。位置在前面的全家位置安错了"
       },
       "type": "Feature"
     },
@@ -5617,26 +5597,6 @@
         "point_id": "dcxxq6f",
         "point_name": "はや川提灯店",
         "remark": "周圍房屋已經大幅改建，僅剩左手邊的大片窗門建築物仍不變"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.716387,
-          35.720603
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 876,
-        "bangumi_title": "CLANNAD 〜AFTER STORY〜",
-        "ep_cut": 19,
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/876/points/dgpomk3-1776319123001.jpg",
-        "location": "",
-        "point_id": "dgpomk3",
-        "point_name": "はや川提灯店",
-        "remark": ""
       },
       "type": "Feature"
     },

@@ -1955,7 +1955,7 @@
       "remark": "",
       "status_code": 2205,
       "user_id": 64,
-      "zoom": 27
+      "zoom": 21
     },
     {
       "ep_cut": 8,
@@ -2740,9 +2740,65 @@
       "status_code": 2205,
       "user_id": 5,
       "zoom": 1130
+    },
+    {
+      "ep_cut": "1",
+      "id": "l6i3v1g",
+      "image_path": "/images/user/2205/bangumi/50814/points/l6i3v1g-1793116006930.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6i3v1g-1793116006930.webp",
+      "lat": 35.698153,
+      "lng": 139.698882,
+      "location": "",
+      "name": "西新宿Prime Square",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 126
+    },
+    {
+      "ep_cut": "1",
+      "id": "l6i7erc",
+      "image_path": "/images/user/2205/bangumi/50814/points/l6i7erc-1793116176495.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6i7erc-1793116176495.webp",
+      "lat": 35.695883,
+      "lng": 139.701203,
+      "location": "",
+      "name": "アパホテル〈新宿 歌舞伎町タワー〉",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 38
+    },
+    {
+      "ep_cut": "1",
+      "id": "l6iavnz",
+      "image_path": "/images/user/2205/bangumi/50814/points/l6iavnz-1793116656828.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6iavnz-1793116656828.webp",
+      "lat": 35.693525,
+      "lng": 139.694479,
+      "location": "",
+      "name": "警视庁 新宿警察署",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 91
+    },
+    {
+      "ep_cut": "1",
+      "id": "l6ik2rq",
+      "image_path": "/images/user/2205/bangumi/50814/points/l6ik2rq-1793116759013.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6ik2rq-1793116759013.webp",
+      "lat": 35.690753,
+      "lng": 139.704515,
+      "location": "",
+      "name": "三菱UFJ银行 新宿支店",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 38
     }
   ],
-  "points_count": 195,
+  "points_count": 199,
   "rating": 7.1,
   "region": "东京都",
   "short_name": "",

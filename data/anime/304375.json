@@ -22,7 +22,7 @@
       "name": "瀬戸田サンセットビーチ",
       "remark": "",
       "status_code": 2203,
-      "user_id": 18738,
+      "user_id": 18730,
       "zoom": 158
     },
     {
@@ -36,8 +36,8 @@
       "name": "共楽園",
       "remark": "",
       "status_code": 2203,
-      "user_id": 156,
-      "zoom": 3
+      "user_id": 1,
+      "zoom": 1
     },
     {
       "ep_cut": "",
@@ -50,8 +50,8 @@
       "name": "文学のこみち",
       "remark": "游戏中通往神社的路，只有台阶比较像",
       "status_code": 2203,
-      "user_id": 175,
-      "zoom": 45
+      "user_id": 11,
+      "zoom": 12
     },
     {
       "ep_cut": "",
@@ -64,8 +64,8 @@
       "name": "尾道駅前",
       "remark": "这里仅有左侧建筑和右侧车站比较相似",
       "status_code": 2203,
-      "user_id": 82,
-      "zoom": 41
+      "user_id": 9,
+      "zoom": 10
     },
     {
       "ep_cut": "",
@@ -78,8 +78,8 @@
       "name": "街並み",
       "remark": "",
       "status_code": 2203,
-      "user_id": 156,
-      "zoom": 69
+      "user_id": 38,
+      "zoom": 38
     },
     {
       "ep_cut": "",
@@ -92,8 +92,8 @@
       "name": "艮神社",
       "remark": "",
       "status_code": 2203,
-      "user_id": 190,
-      "zoom": 21
+      "user_id": 19,
+      "zoom": 19
     },
     {
       "ep_cut": "",
@@ -106,8 +106,8 @@
       "name": "尾道本通り商店街",
       "remark": "",
       "status_code": 2203,
-      "user_id": 214,
-      "zoom": 22
+      "user_id": 6,
+      "zoom": 7
     },
     {
       "ep_cut": "",
@@ -120,8 +120,8 @@
       "name": "俳句広場",
       "remark": "",
       "status_code": 2203,
-      "user_id": 183,
-      "zoom": 68
+      "user_id": 9,
+      "zoom": 9
     },
     {
       "ep_cut": "",
@@ -134,8 +134,8 @@
       "name": "尾道U2 ウッドデッキ",
       "remark": "原游戏CG是合成的，这里取材了左侧餐厅的部分",
       "status_code": 2203,
-      "user_id": 516,
-      "zoom": 426
+      "user_id": 10,
+      "zoom": 10
     },
     {
       "ep_cut": "",
@@ -148,16 +148,156 @@
       "name": "尾道駅前広場",
       "remark": "原游戏CG是合成的，这里取材了右侧栏杆的部分",
       "status_code": 2203,
-      "user_id": 82,
+      "user_id": 75,
       "zoom": 14
+    },
+    {
+      "ep_cut": "",
+      "id": "l1pmufa",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1pmufa-1792826368089.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1pmufa-1792826368089.webp",
+      "lat": 34.409816,
+      "lng": 133.199339,
+      "location": "",
+      "name": "共楽園",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 7,
+      "zoom": 5
+    },
+    {
+      "ep_cut": "",
+      "id": "l1q05rh",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1q05rh-1792826930776.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1q05rh-1792826930776.webp",
+      "lat": 34.41093,
+      "lng": 133.198302,
+      "location": "",
+      "name": "文学のこみち",
+      "remark": "游戏中通往神社的道路，总体构造类似，但相似度较低",
+      "status_code": 2203,
+      "user_id": 11,
+      "zoom": 47
+    },
+    {
+      "ep_cut": "",
+      "id": "l1q4uau",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1q4uau-1792827151537.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1q4uau-1792827151537.webp",
+      "lat": 34.41043,
+      "lng": 133.196643,
+      "location": "",
+      "name": "俳句広場",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 9,
+      "zoom": 64
+    },
+    {
+      "ep_cut": "",
+      "id": "l1q61ob",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1q61ob-1792827222072.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1q61ob-1792827222072.webp",
+      "lat": 34.405806,
+      "lng": 133.195716,
+      "location": "",
+      "name": "尾道本通り商店街",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 6,
+      "zoom": 21
+    },
+    {
+      "ep_cut": "",
+      "id": "l1q71py",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1q71py-1792827328280.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1q71py-1792827328280.webp",
+      "lat": 34.404535,
+      "lng": 133.195558,
+      "location": "",
+      "name": "尾道駅前広場",
+      "remark": "原CG为两处地点的场景合成，这里是原CG的地板和右侧栏杆部分",
+      "status_code": 2203,
+      "user_id": 95,
+      "zoom": 102
+    },
+    {
+      "ep_cut": "",
+      "id": "l1qb70h",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1qb70h-1792827446036.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1qb70h-1792827446036.webp",
+      "lat": 34.401878,
+      "lng": 133.190167,
+      "location": "",
+      "name": "尾道U2 ウッドデッキ",
+      "remark": "原CG为两处地点的场景合成，这里是原CG左侧餐厅的部分",
+      "status_code": 2203,
+      "user_id": 10,
+      "zoom": 435
+    },
+    {
+      "ep_cut": "",
+      "id": "l1qk0lu",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1qk0lu-1792827910130.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1qk0lu-1792827910130.webp",
+      "lat": 34.404497,
+      "lng": 133.194198,
+      "location": "",
+      "name": "尾道駅前",
+      "remark": "这里仅有左侧建筑和车站造型较为类似，场景总体相似度较低",
+      "status_code": 2203,
+      "user_id": 9,
+      "zoom": 42
+    },
+    {
+      "ep_cut": "",
+      "id": "l1r7m72",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1r7m72-1792829008427.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1r7m72-1792829008427.webp",
+      "lat": 34.408643,
+      "lng": 133.1993,
+      "location": "",
+      "name": "街並み",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 38,
+      "zoom": 38
+    },
+    {
+      "ep_cut": "",
+      "id": "l1rao4a",
+      "image_path": "/images/user/2203/bangumi/304375/points/l1rao4a-1792829112609.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l1rao4a-1792829112609.webp",
+      "lat": 34.410738,
+      "lng": 133.200639,
+      "location": "",
+      "name": "艮神社",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 19,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "",
+      "id": "l2862rm",
+      "image_path": "/images/user/2203/bangumi/304375/points/l2862rm-1792857450412.webp",
+      "image_url": "https://w.junreimap.com/images/user/2203/bangumi/304375/points/l2862rm-1792857450412.webp",
+      "lat": 34.409766,
+      "lng": 133.199293,
+      "location": "",
+      "name": "共楽園",
+      "remark": "",
+      "status_code": 2203,
+      "user_id": 1,
+      "zoom": 4
     }
   ],
-  "points_count": 10,
+  "points_count": 20,
   "rating": 6,
   "region": "尾道市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/304375_100_76.webp?v=hsgzo",
+    "/images/ptheme/304375_100_76.webp?v=hsk0m",
     [
       "kz1s5o1",
       "l28owtz",
@@ -168,9 +308,19 @@
       "l290g5z",
       "l33wwoh",
       "l34bb1l",
-      "l34eo48"
+      "l34eo48",
+      "l1pmufa",
+      "l1q05rh",
+      "l1q4uau",
+      "l1q61ob",
+      "l1q71py",
+      "l1qb70h",
+      "l1qk0lu",
+      "l1r7m72",
+      "l1rao4a",
+      "l2862rm"
     ],
-    1792911615885,
+    1793146941857,
     100,
     76
   ],

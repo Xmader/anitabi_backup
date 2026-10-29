@@ -3899,6 +3899,86 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.698882,
+          35.698153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6i3v1g-1793116006930.webp",
+        "location": "",
+        "point_id": "l6i3v1g",
+        "point_name": "西新宿Prime Square",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.701203,
+          35.695883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6i7erc-1793116176495.webp",
+        "location": "",
+        "point_id": "l6i7erc",
+        "point_name": "アパホテル〈新宿 歌舞伎町タワー〉",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.694479,
+          35.693525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6iavnz-1793116656828.webp",
+        "location": "",
+        "point_id": "l6iavnz",
+        "point_name": "警视庁 新宿警察署",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704515,
+          35.690753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 50814,
+        "bangumi_title": "打工吧！魔王大人",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/50814/points/l6ik2rq-1793116759013.webp",
+        "location": "",
+        "point_id": "l6ik2rq",
+        "point_name": "三菱UFJ银行 新宿支店",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

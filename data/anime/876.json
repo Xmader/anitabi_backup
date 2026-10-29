@@ -190,7 +190,7 @@
       "name": "晚上朋也送渚回家取的路景2",
       "remark": "",
       "status_code": 0,
-      "user_id": 7,
+      "user_id": 26,
       "zoom": 26
     },
     {
@@ -708,7 +708,7 @@
       "name": "独自出门散步的小汐",
       "remark": "",
       "status_code": 0,
-      "user_id": 5,
+      "user_id": 4,
       "zoom": 5
     },
     {
@@ -973,7 +973,7 @@
       "location": "",
       "name": "山手町",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -988,7 +988,7 @@
       "name": "山手町",
       "remark": "",
       "status_code": 0,
-      "user_id": 8,
+      "user_id": 3,
       "zoom": 4
     },
     {
@@ -1001,7 +1001,7 @@
       "location": "",
       "name": "尾随春原和早苗的众人",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -1141,7 +1141,7 @@
       "location": "",
       "name": "早稻田大学",
       "remark": "根据前面人提供的位置，在根据动漫视角，在大学的路边拍摄比较满足，然后前面的路牌也满足",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 14,
       "zoom": 14
     },
@@ -1155,7 +1155,7 @@
       "location": "",
       "name": "早稻田大",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -1169,7 +1169,7 @@
       "location": "",
       "name": "早稻田大",
       "remark": "可以看见左面的高楼还符合的，但前面的位置就不太相同了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 27
     },
@@ -1183,7 +1183,7 @@
       "location": "",
       "name": "楼梯",
       "remark": "根据人家户的楼梯找位置",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -1197,7 +1197,7 @@
       "location": "",
       "name": "楼梯",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 29
     },
@@ -1211,7 +1211,7 @@
       "location": "",
       "name": "楼梯前",
       "remark": "根据动漫取景应该在前面。现实是一个下坡，但动漫是平路emmm，但楼梯符合只能放这里了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 27,
       "zoom": 446
     },
@@ -1224,24 +1224,10 @@
       "lng": 139.720761,
       "location": "",
       "name": "人行道",
-      "remark": "还好有前人的帮助，顺利找到了喵",
-      "status_code": 0,
+      "remark": "还好有前人的帮助，顺利找到了喵。位置在前面的全家位置安错了",
+      "status_code": 2205,
       "user_id": 29,
       "zoom": 57
-    },
-    {
-      "ep_cut": 25,
-      "id": "9nv8pro",
-      "image_path": "/images/user/0/bangumi/876/points/9nv8pro-1768044596078.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/876/points/9nv8pro-1768044596078.jpg",
-      "lat": 35.707983,
-      "lng": 139.720403,
-      "location": "",
-      "name": "早苗",
-      "remark": "根据·蓝色的棚子拍摄，虽然旁边的房子变空地了，但已经10年多了，变化是很正常的",
-      "status_code": 0,
-      "user_id": 14,
-      "zoom": 15
     },
     {
       "ep_cut": 25,
@@ -1253,7 +1239,7 @@
       "location": "",
       "name": "Kabushikigaishaminiminijosai Wasedajoho Center 株式会社ミニミニ城西 早稲田情報センター",
       "remark": "Kabushikigaishaminiminijosai Wasedajoho Center株式会社ミニミニ城西 早稲田情報センター，没想到真找到了喵",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -1267,7 +1253,7 @@
       "location": "",
       "name": "kitchen nangoku",
       "remark": "前面提供的位置错了喵，根据后面找到的位置，顺利找到了喵，后面的房子也满足，10多年没变还是太好了喵，拍摄的房子是提供定位的旁边",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 4
     },
@@ -1281,7 +1267,7 @@
       "location": "",
       "name": "房地产",
       "remark": "向左",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -1295,7 +1281,7 @@
       "location": "",
       "name": "フジウラビル",
       "remark": "谁家买房子从东京买到大阪",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 5
     },
@@ -1309,8 +1295,8 @@
       "location": "",
       "name": "房地产",
       "remark": "根据动漫取景思路来的，看实景只有路灯相同，要是有正确更高的可以更正",
-      "status_code": 0,
-      "user_id": 0,
+      "status_code": 2205,
+      "user_id": 1,
       "zoom": 13
     },
     {
@@ -1323,8 +1309,8 @@
       "location": "",
       "name": "房地产",
       "remark": "根据动漫取景思路，向左，但现实不满足，有可能合成，反正正确不大，各位可以更正",
-      "status_code": 0,
-      "user_id": 1,
+      "status_code": 2205,
+      "user_id": 5,
       "zoom": 6
     },
     {
@@ -1337,8 +1323,8 @@
       "location": "",
       "name": "房地产",
       "remark": "",
-      "status_code": 0,
-      "user_id": 0,
+      "status_code": 2205,
+      "user_id": 13,
       "zoom": 18
     },
     {
@@ -1351,7 +1337,7 @@
       "location": "",
       "name": "分别的路口",
       "remark": "超市来定位",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -1365,7 +1351,7 @@
       "location": "",
       "name": "超市",
       "remark": "向北拍摄",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 3
     },
@@ -1379,7 +1365,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "有没有找一找这一集的公交车站，还有紫藤萝公园的喵",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -1393,7 +1379,7 @@
       "location": "",
       "name": "学校门口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -1407,7 +1393,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 4
     },
@@ -1421,7 +1407,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "应该是24集吧，这个自动总是25，要不然就是我记错了，50mm拍够了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 3
     },
@@ -1435,7 +1421,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "不知道具体位置喵",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 4
     },
@@ -1449,7 +1435,7 @@
       "location": "",
       "name": "路口",
       "remark": "向左",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -1463,7 +1449,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 0
     },
@@ -1477,7 +1463,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -1491,7 +1477,7 @@
       "location": "",
       "name": "共立​リライアンス​箱根ヶ崎",
       "remark": "根据这个房子拍摄广角取景",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 74,
       "zoom": 75
     },
@@ -1505,7 +1491,7 @@
       "location": "",
       "name": "全家便利店",
       "remark": "要不是超市都找不到，他还过曝",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 39
     },
@@ -1519,7 +1505,7 @@
       "location": "",
       "name": "房地产",
       "remark": "这个位置不正确，提供时间和图片，考虑上下文就放附近，主要这个附近都不太符合",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 3
     },
@@ -1533,7 +1519,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 3
     },
@@ -1547,7 +1533,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 2
     },
@@ -1561,7 +1547,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 576
     },
@@ -1575,7 +1561,7 @@
       "location": "",
       "name": "车站前",
       "remark": "根据动漫取景这里更合适",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 26,
       "zoom": 26
     },
@@ -1589,7 +1575,7 @@
       "location": "",
       "name": "下坡路口",
       "remark": "动漫取景老位置了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -1603,7 +1589,7 @@
       "location": "",
       "name": "路口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 9
     },
@@ -1617,7 +1603,7 @@
       "location": "",
       "name": "上坡",
       "remark": "不知道具体位置喵，根据动漫取景是在下学路上",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 6,
       "zoom": 8
     },
@@ -1631,7 +1617,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "根据其他人的取景来放的，第一季的op，左面的高墙，右面的围栏，主要谷歌看不了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 6
     },
@@ -1645,7 +1631,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "最喜欢的一幕",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 8
     },
@@ -1659,7 +1645,7 @@
       "location": "",
       "name": "是那个女人",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 0
     },
@@ -1673,7 +1659,7 @@
       "location": "",
       "name": "狭山谷公園",
       "remark": "建物變化較大",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -1743,7 +1729,7 @@
       "location": "",
       "name": "上学路",
       "remark": "这个是用于提供截图和时间。这个位置我没有找到，但在贴吧有大佬找到，各位可以去问一下。主要是这个取景在第一二季出现频率比较高就单独提出来，放这里主要是明显，都要来的位置",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 8,
       "zoom": 9
     },
@@ -1757,7 +1743,7 @@
       "location": "",
       "name": "下坡口",
       "remark": "这就是主播最后的波纹了，光是我自己的截图都有500张，我还没有截完，但基本都找到了点位，还有一些比较小的点没有上传，就交给后面的人了，我燃尽了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 6,
       "zoom": 7
     },
@@ -1771,7 +1757,7 @@
       "location": "",
       "name": "下坡口",
       "remark": "根据上下文的楼梯，还有后面的电线塔基本是在下坡的前面围栏拍摄。旁边的围栏和房子外形也满足",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 8,
       "zoom": 8
     },
@@ -1785,7 +1771,7 @@
       "location": "",
       "name": "观景台",
       "remark": "关于这个位置是不正确的，主要提供时间和截图，op场景，看了附近的登山路，旁边的取景挺满足的，但按照动漫取景来，现实看不见城市",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 17,
       "zoom": 212
     },
@@ -1799,7 +1785,7 @@
       "location": "",
       "name": "下坡路口",
       "remark": "根据后面的楼梯还有柱子。在这里就感谢来自xhs(耶奶拿铁)，贴吧（Rucario)，b站（yzy努力练琴）等等的取景帮我找到具体的位置，由于翻的贴子比较多不一起了，取景实在是多杂小，有些比较杂的点就交给后面的人来补充了\n",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 4
     },
@@ -1813,7 +1799,7 @@
       "location": "",
       "name": "六道山公園",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 211,
       "zoom": 1114
     },
@@ -1827,7 +1813,7 @@
       "location": "",
       "name": "toto",
       "remark": "直接向前面拍，根据前面的牌子",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 58,
       "zoom": 170
     },
@@ -1841,7 +1827,7 @@
       "location": "",
       "name": "さくら坂",
       "remark": "根据房子走向满足，然后通学路牌子有，但是方向不一样，考虑另外的两条路不满足拍摄视角就放这个位置，也方便各位巡礼",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 3
     },
@@ -1855,7 +1841,7 @@
       "location": "",
       "name": "根据地面的两个菱形拍摄",
       "remark": "也可以根据后面的房子拍摄",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 169,
       "zoom": 285
     },
@@ -1869,7 +1855,7 @@
       "location": "",
       "name": "sayamakyur yodori（向左拍摄）",
       "remark": "根据双人行道以及右面的红色长房，左面的古风房子，来源yzy努力练琴 b站",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -1883,7 +1869,7 @@
       "location": "",
       "name": "向右拍摄",
       "remark": "根据后面的黄色房子定位",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 33
     },
@@ -1897,7 +1883,7 @@
       "location": "",
       "name": "公路",
       "remark": "前面的两个取景在对面的路边都可以拍摄，但这个取景得根据前面的两个红房子来取景，也就是1940-8和1940-2，在对面拍摄这两个房子",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 33,
       "zoom": 121
     },
@@ -1911,7 +1897,7 @@
       "location": "",
       "name": "狭山谷公园",
       "remark": "根据后面的那个白色房子来拍摄，谷歌上左面的房子已经换新，而且还挡住了好像",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -1925,7 +1911,7 @@
       "location": "",
       "name": "公园人口",
       "remark": "根据动漫视角往公园里面推进",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -1939,7 +1925,7 @@
       "location": "",
       "name": "公园入口",
       "remark": "根据红绿灯来拍摄",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -1953,7 +1939,7 @@
       "location": "",
       "name": "这个视角要在公园里面",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 8
     },
@@ -1967,7 +1953,7 @@
       "location": "",
       "name": "根据后面白色的房子来拍摄",
       "remark": "或者直接人行道来拍",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 137
     },
@@ -1981,7 +1967,7 @@
       "location": "",
       "name": "根据限速牌来拍摄",
       "remark": "按照up主的巡礼左面有一个蓝色围栏，房子上有太阳能板.是22吧，忘记了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 47,
       "zoom": 266
     },
@@ -1995,8 +1981,8 @@
       "location": "",
       "name": "はや川提灯店",
       "remark": "根据up的图片男主家就是这个店，然后前面有一个停车场",
-      "status_code": 0,
-      "user_id": 1406,
+      "status_code": 2205,
+      "user_id": 14,
       "zoom": 14
     },
     {
@@ -2009,7 +1995,7 @@
       "location": "",
       "name": "隧道前",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2023,7 +2009,7 @@
       "location": "",
       "name": "隧道前",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -2037,7 +2023,7 @@
       "location": "",
       "name": "cl最高战力",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 3
     },
@@ -2051,7 +2037,7 @@
       "location": "",
       "name": "隧道前",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 0
     },
@@ -2065,7 +2051,7 @@
       "location": "",
       "name": "隧道前",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 467
     },
@@ -2079,7 +2065,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2093,7 +2079,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -2107,7 +2093,7 @@
       "location": "",
       "name": "上坡",
       "remark": "后面的停车场台阶，那么我们可以推出芬野在前面的电线杆工作，但前面电线杆有点不满足动漫，旁边也有一个高塔，挺符合的",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 3
     },
@@ -2121,7 +2107,7 @@
       "location": "",
       "name": "上坡",
       "remark": "不清楚具体位置",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 7,
       "zoom": 18
     },
@@ -2135,7 +2121,7 @@
       "location": "",
       "name": "人行道",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2149,7 +2135,7 @@
       "location": "",
       "name": "后面有人",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -2163,7 +2149,7 @@
       "location": "",
       "name": "老位置",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 6,
       "zoom": 13
     },
@@ -2177,7 +2163,7 @@
       "location": "",
       "name": "人行道",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 21
     },
@@ -2191,7 +2177,7 @@
       "location": "",
       "name": "下坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -2205,7 +2191,7 @@
       "location": "",
       "name": "知心大姐姐",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -2219,7 +2205,7 @@
       "location": "",
       "name": "根据椅子来拍其他位置",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2233,7 +2219,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 2
     },
@@ -2247,7 +2233,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -2261,7 +2247,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 3
     },
@@ -2275,7 +2261,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 21
     },
@@ -2289,7 +2275,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 5
     },
@@ -2303,8 +2289,8 @@
       "location": "",
       "name": "路边",
       "remark": "根据前面的高楼拍摄，左面的房子满足，右面的也满足。通过一堆的商业街取景可以确定商业街就是早大的位置",
-      "status_code": 0,
-      "user_id": 10,
+      "status_code": 2205,
+      "user_id": 5,
       "zoom": 11
     },
     {
@@ -2317,7 +2303,7 @@
       "location": "",
       "name": "早大前",
       "remark": "根据后面房子的走向挺满足的，但根据动漫左面应该是早大的栏杆，但没有连起来，而且这个店也是甜品店，那么第一季的番外篇吃可丽饼的位置也应该在这里，但不一定正确",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 9,
       "zoom": 10
     },
@@ -2331,7 +2317,7 @@
       "location": "",
       "name": "ヨートー​早稲田​ビル",
       "remark": "通过上下文，我们可以推断出，主角们谈论修琴的位置也在这里，买书的位置也在这个商业街",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -2345,7 +2331,7 @@
       "location": "",
       "name": "ヨートー​早稲田​ビル",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 12
     },
@@ -2359,7 +2345,7 @@
       "location": "",
       "name": "路旁",
       "remark": "根据上文可以推出是前面一个店，虽然现实不像",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -2373,7 +2359,7 @@
       "location": "",
       "name": "求婚",
       "remark": "补截图",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -2387,7 +2373,7 @@
       "location": "",
       "name": "求婚",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 2795
     },
@@ -2401,7 +2387,7 @@
       "location": "",
       "name": "髙水商店",
       "remark": "来源贴吧 麻辣芝士小龙虾米浴堡。根据商店，公司在旁边",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 164,
       "zoom": 1403
     },
@@ -2415,7 +2401,7 @@
       "location": "",
       "name": "箱根ケ崎",
       "remark": "向拐弯处拍摄",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 590,
       "zoom": 591
     },
@@ -2429,7 +2415,7 @@
       "location": "",
       "name": "补截图",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2443,7 +2429,7 @@
       "location": "",
       "name": "补截图",
       "remark": "右邊鐵皮屋已拆除，左邊的屋子還算對得起來。",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 7,
       "zoom": 7
     },
@@ -2457,7 +2443,7 @@
       "location": "",
       "name": "补截图",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 5
     },
@@ -2471,7 +2457,7 @@
       "location": "",
       "name": "补截图",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 307
     },
@@ -2485,7 +2471,7 @@
       "location": "",
       "name": "家门口",
       "remark": "楼梯下拍摄",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 5
     },
@@ -2499,7 +2485,7 @@
       "location": "",
       "name": "路边",
       "remark": "根据动漫视角在这条路边就应该有玩具店，但是，现实没有特别满足的，可能编了一个",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -2513,7 +2499,7 @@
       "location": "",
       "name": "玩具店",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 5
     },
@@ -2527,7 +2513,7 @@
       "location": "",
       "name": "玩具店",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2541,7 +2527,7 @@
       "location": "",
       "name": "公园",
       "remark": "门口打棒球",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -2555,8 +2541,8 @@
       "location": "",
       "name": "公园",
       "remark": "补截图\n從盪鞦韆、欄杆、路型判斷可以發現是從南方角落拍向西北方",
-      "status_code": 0,
-      "user_id": 47,
+      "status_code": 2205,
+      "user_id": 13,
       "zoom": 14
     },
     {
@@ -2569,7 +2555,7 @@
       "location": "",
       "name": "车站前",
       "remark": "根据上下文，是车站前，而且是第二个·公交车站",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 24,
       "zoom": 25
     },
@@ -2583,7 +2569,7 @@
       "location": "",
       "name": "车站外",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 10,
       "zoom": 11
     },
@@ -2597,7 +2583,7 @@
       "location": "",
       "name": "车站外",
       "remark": "根据动漫视角靠左",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 54,
       "zoom": 54
     },
@@ -2611,7 +2597,7 @@
       "location": "",
       "name": "补截图",
       "remark": "不清楚具体难得看谷歌了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 9,
       "zoom": 158
     },
@@ -2625,7 +2611,7 @@
       "location": "",
       "name": "人行道",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 10,
       "zoom": 10
     },
@@ -2639,7 +2625,7 @@
       "location": "",
       "name": "人行道",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 6
     },
@@ -2653,7 +2639,7 @@
       "location": "",
       "name": "人行道",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 12
     },
@@ -2667,7 +2653,7 @@
       "location": "",
       "name": "玩具店前",
       "remark": "根据·道路走向满足的只有前面的取景路线",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 10,
       "zoom": 13
     },
@@ -2681,7 +2667,7 @@
       "location": "",
       "name": "家门口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2695,7 +2681,7 @@
       "location": "",
       "name": "玩具店",
       "remark": "可以根据外观看见前身是玩具店，现在是家具了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 33
     },
@@ -2709,7 +2695,7 @@
       "location": "",
       "name": "家门口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 198
     },
@@ -2723,8 +2709,8 @@
       "location": "",
       "name": "向下坡方向",
       "remark": "稍微往東、往上一點",
-      "status_code": 0,
-      "user_id": 7,
+      "status_code": 2205,
+      "user_id": 26,
       "zoom": 617
     },
     {
@@ -2737,7 +2723,7 @@
       "location": "",
       "name": "路旁",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2751,7 +2737,7 @@
       "location": "",
       "name": "什么叫兄弟偷家",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1468
     },
@@ -2765,7 +2751,7 @@
       "location": "",
       "name": "上坡路",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2779,7 +2765,7 @@
       "location": "",
       "name": "下坡口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 3
     },
@@ -2793,7 +2779,7 @@
       "location": "",
       "name": "下坡路",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2807,7 +2793,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 35
     },
@@ -2821,7 +2807,7 @@
       "location": "",
       "name": "下坡口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 16
     },
@@ -2835,7 +2821,7 @@
       "location": "",
       "name": "管理员可爱嘞",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -2849,7 +2835,7 @@
       "location": "",
       "name": "学校门口",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 6,
       "zoom": 7
     },
@@ -2863,7 +2849,7 @@
       "location": "",
       "name": "公园",
       "remark": "反正都要来，放一起了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 3
     },
@@ -2877,7 +2863,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 4
     },
@@ -2891,7 +2877,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 33,
       "zoom": 34
     },
@@ -2905,7 +2891,7 @@
       "location": "",
       "name": "下坡",
       "remark": "不清楚具体位置",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 23,
       "zoom": 42
     },
@@ -2919,7 +2905,7 @@
       "location": "",
       "name": "公园",
       "remark": "位置不准确",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -2933,7 +2919,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -2947,7 +2933,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 4
     },
@@ -2961,7 +2947,7 @@
       "location": "",
       "name": "公园",
       "remark": "根据前人取景",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -2975,7 +2961,7 @@
       "location": "",
       "name": "下坡",
       "remark": "根据上下文",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -2989,7 +2975,7 @@
       "location": "",
       "name": "下坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 3
     },
@@ -3003,7 +2989,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 9
     },
@@ -3017,7 +3003,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 8
     },
@@ -3031,7 +3017,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 10,
       "zoom": 12
     },
@@ -3045,7 +3031,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -3059,7 +3045,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 54
     },
@@ -3073,7 +3059,7 @@
       "location": "",
       "name": "向上拍",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -3087,7 +3073,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 13
     },
@@ -3101,7 +3087,7 @@
       "location": "",
       "name": "上坡",
       "remark": "根据前人的位置添加",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 9,
       "zoom": 37
     },
@@ -3115,7 +3101,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 18
     },
@@ -3129,7 +3115,7 @@
       "location": "",
       "name": "上坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 52
     },
@@ -3143,7 +3129,7 @@
       "location": "",
       "name": "下坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 14,
       "zoom": 21
     },
@@ -3157,7 +3143,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 10,
       "zoom": 13
     },
@@ -3171,7 +3157,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 3
     },
@@ -3185,7 +3171,7 @@
       "location": "",
       "name": "神社",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -3199,7 +3185,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 4
     },
@@ -3213,7 +3199,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 218
     },
@@ -3227,7 +3213,7 @@
       "location": "",
       "name": "神社",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 3
     },
@@ -3241,7 +3227,7 @@
       "location": "",
       "name": "神社",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 7
     },
@@ -3255,7 +3241,7 @@
       "location": "",
       "name": "神社",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 6,
       "zoom": 7
     },
@@ -3269,7 +3255,7 @@
       "location": "",
       "name": "神社",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1
     },
@@ -3283,7 +3269,7 @@
       "location": "",
       "name": "神社",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -3297,7 +3283,7 @@
       "location": "",
       "name": "本町​町会​ミニポンプ​置場",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 2
     },
@@ -3311,7 +3297,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 46
     },
@@ -3325,7 +3311,7 @@
       "location": "",
       "name": "桥",
       "remark": "用85mm以上，85可能刚刚",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 11,
       "zoom": 24
     },
@@ -3339,7 +3325,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 6
     },
@@ -3353,7 +3339,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 14
     },
@@ -3367,7 +3353,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 29
     },
@@ -3381,7 +3367,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 9
     },
@@ -3395,7 +3381,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 21
     },
@@ -3409,7 +3395,7 @@
       "location": "",
       "name": "背面拍摄",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 18,
       "zoom": 693
     },
@@ -3423,7 +3409,7 @@
       "location": "",
       "name": "少年你掉入了陷进",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 150
     },
@@ -3437,7 +3423,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 4
     },
@@ -3451,7 +3437,7 @@
       "location": "",
       "name": "桥",
       "remark": "根据后面的长房子，以及尽头的房子可以大致推断相同取景，但不一定正确，50%",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 434,
       "zoom": 591
     },
@@ -3465,7 +3451,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -3479,7 +3465,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 2
     },
@@ -3493,7 +3479,7 @@
       "location": "",
       "name": "桥",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 19,
       "zoom": 30
     },
@@ -3507,7 +3493,7 @@
       "location": "",
       "name": "神社",
       "remark": "根据大石头，鸟居，还有前人的取景",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 7
     },
@@ -3521,7 +3507,7 @@
       "location": "",
       "name": "请无论到何时都喜欢着我",
       "remark": "我哭了，界不到的爱情",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -3535,7 +3521,7 @@
       "location": "",
       "name": "神社名场面",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -3549,7 +3535,7 @@
       "location": "",
       "name": "阿豆佐味天神社",
       "remark": "根据动漫推理",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 78,
       "zoom": 79
     },
@@ -3563,7 +3549,7 @@
       "location": "",
       "name": "请一直，一直都喜欢着我",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 18
     },
@@ -3577,7 +3563,7 @@
       "location": "",
       "name": "神社",
       "remark": "根据鸟居直接向前拍应该够了",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 12,
       "zoom": 417
     },
@@ -3591,7 +3577,7 @@
       "location": "",
       "name": "下坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -3605,7 +3591,7 @@
       "location": "",
       "name": "下坡",
       "remark": "就这里有房子",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 5
     },
@@ -3619,7 +3605,7 @@
       "location": "",
       "name": "下坡",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 35
     },
@@ -3633,7 +3619,7 @@
       "location": "",
       "name": "下坡",
       "remark": "根据后面有车通过更加满足动漫的取景了喵",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 8,
       "zoom": 53
     },
@@ -3647,7 +3633,7 @@
       "location": "",
       "name": "桥",
       "remark": "给别人补时间和截图",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 1289
     },
@@ -3661,7 +3647,7 @@
       "location": "",
       "name": "我这里有一份不错的工作",
       "remark": "根据动漫取景在车站",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 5
     },
@@ -3675,7 +3661,7 @@
       "location": "",
       "name": "车站外",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 5,
       "zoom": 6
     },
@@ -3689,7 +3675,7 @@
       "location": "",
       "name": "さくら坂",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 2,
       "zoom": 284
     },
@@ -3703,7 +3689,7 @@
       "location": "",
       "name": "车站外",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 35
     },
@@ -3717,7 +3703,7 @@
       "location": "",
       "name": "车站外",
       "remark": "根据第二个车站拍摄",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 10,
       "zoom": 462
     },
@@ -3731,7 +3717,7 @@
       "location": "",
       "name": "公园",
       "remark": "根据动漫取景思路就是在女主家门口公园",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 4
     },
@@ -3745,7 +3731,7 @@
       "location": "",
       "name": "公园",
       "remark": "这个公园也是同样的问题，没有一个架子的椅子，有找到正确的请更正",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 7,
       "zoom": 11
     },
@@ -3759,7 +3745,7 @@
       "location": "",
       "name": "公园",
       "remark": "可以看见后面的架子这个公园没有",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 12,
       "zoom": 23
     },
@@ -3773,7 +3759,7 @@
       "location": "",
       "name": "公园",
       "remark": "地址正确，黄色屋子是公园厕所",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 4
     },
@@ -3787,7 +3773,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 4,
       "zoom": 14
     },
@@ -3801,7 +3787,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 443
     },
@@ -3815,7 +3801,7 @@
       "location": "",
       "name": "ソレアード桜坂",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 4
     },
@@ -3829,7 +3815,7 @@
       "location": "",
       "name": "ソレアード桜坂",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 2646
     },
@@ -3843,7 +3829,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 1
     },
@@ -3857,7 +3843,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 0,
       "zoom": 5
     },
@@ -3871,7 +3857,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 2
     },
@@ -3885,7 +3871,7 @@
       "location": "",
       "name": "公园",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 3,
       "zoom": 5
     },
@@ -3899,7 +3885,7 @@
       "location": "",
       "name": "公园",
       "remark": "根据前人的位置",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 1,
       "zoom": 4346
     },
@@ -3913,7 +3899,7 @@
       "location": "",
       "name": "什么叫带我出来约会吃猪排饭",
       "remark": "",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 12,
       "zoom": 12
     },
@@ -3927,7 +3913,7 @@
       "location": "",
       "name": "马铃薯",
       "remark": "根据动漫向右，但是右面空的啊",
-      "status_code": 0,
+      "status_code": 2205,
       "user_id": 12,
       "zoom": 8086
     },
@@ -3941,22 +3927,8 @@
       "location": "",
       "name": "はや川提灯店",
       "remark": "周圍房屋已經大幅改建，僅剩左手邊的大片窗門建築物仍不變",
-      "status_code": 0,
-      "user_id": null,
-      "zoom": 1
-    },
-    {
-      "ep_cut": 19,
-      "id": "dgpomk3",
-      "image_path": "/images/user/0/bangumi/876/points/dgpomk3-1776319123001.jpg",
-      "image_url": "https://w.junreimap.com/images/user/0/bangumi/876/points/dgpomk3-1776319123001.jpg",
-      "lat": 35.720603,
-      "lng": 139.716387,
-      "location": "",
-      "name": "はや川提灯店",
-      "remark": "",
-      "status_code": 0,
-      "user_id": null,
+      "status_code": 2205,
+      "user_id": 14,
       "zoom": 977
     },
     {
@@ -3970,7 +3942,7 @@
       "name": "晚上渚送朋也回家取的路景",
       "remark": "前面蓋了一棟房子，但應該還算能巡禮",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 49,
       "zoom": 4703
     },
     {
@@ -3984,16 +3956,16 @@
       "name": "学校正门前",
       "remark": "所沢市立上山口中学校",
       "status_code": 0,
-      "user_id": null,
+      "user_id": 6147,
       "zoom": 1963
     }
   ],
-  "points_count": 284,
+  "points_count": 282,
   "rating": 9.1,
   "region": "日本",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/876_100_76.webp?v=hluqi",
+    "/images/ptheme/876_100_76.webp?v=hsktr",
     [
       "qz28wccer",
       "s34syxn3u",
@@ -4082,7 +4054,6 @@
       "9nusc3m",
       "9nuuks8",
       "9nv3lee",
-      "9nv8pro",
       "9nvckmw",
       "9nvh21a",
       "9nvmzau",
@@ -4274,9 +4245,12 @@
       "9obirm0",
       "9obhxgu",
       "9obcj9s",
-      "9obb1od"
+      "9obb1od",
+      "dcxxq6f",
+      "g61wy1w",
+      "jmttnyr"
     ],
-    1774384978293,
+    1793209866062,
     100,
     76
   ],

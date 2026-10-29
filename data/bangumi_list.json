@@ -1,5 +1,33 @@
 [
   {
+    "id": 195816,
+    "title_cn": "GAMERS电玩咖",
+    "title_jp": "ゲーマーズ!",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 6.9,
+    "points_count": 37,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/c9/f3/195816_8fZHP.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 876,
+    "title_cn": "",
+    "title_jp": "CLANNAD 〜AFTER STORY〜",
+    "title_en": "",
+    "region": "日本",
+    "type": "TV",
+    "rating": 9.1,
+    "points_count": 282,
+    "center_lat": 38.153818,
+    "center_lng": 138.622224,
+    "cover_url": "https://w.junreimap.com/images/bangumi/876.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 536,
     "title_cn": "妖精的旋律",
     "title_jp": "エルフェンリート",
@@ -7,10 +35,38 @@
     "region": "",
     "type": "TV",
     "rating": 7.4,
-    "points_count": 34,
+    "points_count": 151,
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/65/65/536_MKMkg.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 304375,
+    "title_cn": "绽放★青春全力向前冲！",
+    "title_jp": "かけぬけ★青春スパーキング",
+    "title_en": "",
+    "region": "尾道市",
+    "type": "游戏",
+    "rating": 6,
+    "points_count": 20,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/304375_jzk3b40.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 172842,
+    "title_cn": "花之天使的夏日恋歌",
+    "title_jp": "フローラル・フローラブ",
+    "title_en": "",
+    "region": "",
+    "type": "游戏",
+    "rating": 7.2,
+    "points_count": 12,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/172842_jzkz202.jpg",
     "bgm_id": null
   },
   {
@@ -21,7 +77,7 @@
     "region": "东京都",
     "type": "TV",
     "rating": 7.1,
-    "points_count": 195,
+    "points_count": 199,
     "center_lat": 35.673787,
     "center_lng": 139.668608,
     "cover_url": "https://w.junreimap.com/images/bangumi/50814.jpg",
@@ -168,20 +224,6 @@
     "bgm_id": null
   },
   {
-    "id": 304375,
-    "title_cn": "绽放★青春全力向前冲！",
-    "title_jp": "かけぬけ★青春スパーキング",
-    "title_en": "",
-    "region": "尾道市",
-    "type": "游戏",
-    "rating": 6,
-    "points_count": 10,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/304375_jzk3b40.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 554779,
     "title_cn": "学生会也有洞！",
     "title_jp": "生徒会にも穴はある！",
@@ -249,20 +291,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/d3/99/622288_nmbC3.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 172842,
-    "title_cn": "花之天使的夏日恋歌",
-    "title_jp": "フローラル・フローラブ",
-    "title_en": "",
-    "region": "",
-    "type": "游戏",
-    "rating": 7.2,
-    "points_count": 11,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/172842_jzkz202.jpg",
     "bgm_id": null
   },
   {
@@ -1370,20 +1398,6 @@
     "center_lng": 139.803972,
     "cover_url": "https://w.junreimap.com/images/bangumi/179949.jpg",
     "bgm_id": 1532
-  },
-  {
-    "id": 876,
-    "title_cn": "",
-    "title_jp": "CLANNAD 〜AFTER STORY〜",
-    "title_en": "",
-    "region": "日本",
-    "type": "TV",
-    "rating": 9.1,
-    "points_count": 284,
-    "center_lat": 38.153818,
-    "center_lng": 138.622224,
-    "cover_url": "https://w.junreimap.com/images/bangumi/876.jpg",
-    "bgm_id": null
   },
   {
     "id": 369304,
@@ -8523,20 +8537,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/eb/53/500557_Ivpwg.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 195816,
-    "title_cn": "GAMERS电玩咖",
-    "title_jp": "ゲーマーズ!",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 6.9,
-    "points_count": 37,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/c9/f3/195816_8fZHP.jpg",
     "bgm_id": null
   },
   {
