@@ -878,9 +878,23 @@
       "status_code": 0,
       "user_id": 256,
       "zoom": 32
+    },
+    {
+      "ep_cut": "",
+      "id": "l905w1j",
+      "image_path": "/images/user/509f6e2e-8157-4f5c-95c3-c646e9c01b49/bangumi/186515/points/l905w1j-1793267262907.webp",
+      "image_url": "https://w.junreimap.com/images/user/509f6e2e-8157-4f5c-95c3-c646e9c01b49/bangumi/186515/points/l905w1j-1793267262907.webp",
+      "lat": 36.059855,
+      "lng": 120.31992,
+      "location": "",
+      "name": "青岛栈桥",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 682
     }
   ],
-  "points_count": 62,
+  "points_count": 63,
   "rating": 6.3,
   "region": "东京都",
   "short_name": "",

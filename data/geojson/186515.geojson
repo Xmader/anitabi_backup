@@ -1239,6 +1239,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.31992,
+          36.059855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 186515,
+        "bangumi_title": "BanG Dream!",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/509f6e2e-8157-4f5c-95c3-c646e9c01b49/bangumi/186515/points/l905w1j-1793267262907.webp",
+        "location": "",
+        "point_id": "l905w1j",
+        "point_name": "青岛栈桥",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

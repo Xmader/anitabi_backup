@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.446861,
+          35.650604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 122533,
+        "bangumi_title": "白衣性爱情依存症",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/122533/l91snam_1793270088559.webp",
+        "location": "",
+        "point_id": "l91snam",
+        "point_name": "京王電鉄聖蹟桜ヶ丘駅 西口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.446434,
+          35.649816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 122533,
+        "bangumi_title": "白衣性爱情依存症",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/122533/l91yz1m_1793270501468.webp",
+        "location": "",
+        "point_id": "l91yz1m",
+        "point_name": "桜ヶ丘Kビル",
+        "remark": "左侧的RAWSON现实中是ドラッグセイムス 聖蹟桜ヶ丘店，绿色文字的招牌现实中是みなかわ整形外科的招牌。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.446901,
+          35.646954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 122533,
+        "bangumi_title": "白衣性爱情依存症",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/122533/l913at5_1793269059496.webp",
+        "location": "",
+        "point_id": "l913at5",
+        "point_name": "GENOVIA聖蹟桜ヶ丘",
+        "remark": "游戏中主角居住的宿舍原型，已于2022年到2023年之间拆除，原址现为空地或工地。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.445792,
+          35.644329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 122533,
+        "bangumi_title": "白衣性爱情依存症",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/122533/l91g7af_1793269451319.webp",
+        "location": "",
+        "point_id": "l91g7af",
+        "point_name": "通学路",
+        "remark": "主角们从宿舍前往学校路上的背景之一。\nhttps://maps.app.goo.gl/b9vNCXC4YNkWo6558"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.447404,
+          35.643847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 122533,
+        "bangumi_title": "白衣性爱情依存症",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/122533/l91ojwj_1793269932690.webp",
+        "location": "",
+        "point_id": "l91ojwj",
+        "point_name": "通学路",
+        "remark": "从远处的楼梯可确认应为此处。"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

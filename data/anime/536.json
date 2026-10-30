@@ -597,7 +597,7 @@
       "remark": "",
       "status_code": 2205,
       "user_id": null,
-      "zoom": 502
+      "zoom": 26
     },
     {
       "ep_cut": "6",
@@ -2124,9 +2124,65 @@
       "status_code": 2205,
       "user_id": null,
       "zoom": 426
+    },
+    {
+      "ep_cut": "12",
+      "id": "l7zhkij",
+      "image_path": "/images/user/2205/bangumi/536/points/l7zhkij-1793205657786.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l7zhkij-1793205657786.webp",
+      "lat": 35.303136,
+      "lng": 139.514845,
+      "location": "",
+      "name": "蓝房子",
+      "remark": "在海免拍摄，需要快艇，就是在前面的取景前面",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 128
+    },
+    {
+      "ep_cut": "11",
+      "id": "l7zx0ww",
+      "image_path": "/images/user/2205/bangumi/536/points/l7zx0ww-1793206388643.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l7zx0ww-1793206388643.webp",
+      "lat": 35.319774,
+      "lng": 139.551361,
+      "location": "",
+      "name": "鎌倉茶々",
+      "remark": "可以看见后面的鸟居，就看感觉把，在路口前拍摄都行。差不多90%的取景都有了。除了男主家，14的神社还有祭典的神社。大多来自日本网友的取景，少部分由我个人寻找。",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 42
+    },
+    {
+      "ep_cut": "3",
+      "id": "l8029xs",
+      "image_path": "/images/user/2205/bangumi/536/points/l8029xs-1793206640926.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l8029xs-1793206640926.webp",
+      "lat": 35.319785,
+      "lng": 139.545838,
+      "location": "",
+      "name": "隧道",
+      "remark": "隧道能获得的信息太少了。为了方便巡礼放一起了。",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 2
+    },
+    {
+      "ep_cut": "3",
+      "id": "l8028wu",
+      "image_path": "/images/user/2205/bangumi/536/points/l8028wu-1793206634366.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l8028wu-1793206634366.webp",
+      "lat": 35.319785,
+      "lng": 139.545848,
+      "location": "",
+      "name": "隧道",
+      "remark": "",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 476
     }
   ],
-  "points_count": 151,
+  "points_count": 155,
   "rating": 7.4,
   "region": "",
   "short_name": "",

@@ -3019,6 +3019,86 @@
         "remark": "按照剧情位置往右面，后面的房子都是相似的，现实不一样，自己喜欢什么视角就咋样拍"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.514845,
+          35.303136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 536,
+        "bangumi_title": "妖精的旋律",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l7zhkij-1793205657786.webp",
+        "location": "",
+        "point_id": "l7zhkij",
+        "point_name": "蓝房子",
+        "remark": "在海免拍摄，需要快艇，就是在前面的取景前面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.551361,
+          35.319774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 536,
+        "bangumi_title": "妖精的旋律",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l7zx0ww-1793206388643.webp",
+        "location": "",
+        "point_id": "l7zx0ww",
+        "point_name": "鎌倉茶々",
+        "remark": "可以看见后面的鸟居，就看感觉把，在路口前拍摄都行。差不多90%的取景都有了。除了男主家，14的神社还有祭典的神社。大多来自日本网友的取景，少部分由我个人寻找。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.545838,
+          35.319785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 536,
+        "bangumi_title": "妖精的旋律",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l8029xs-1793206640926.webp",
+        "location": "",
+        "point_id": "l8029xs",
+        "point_name": "隧道",
+        "remark": "隧道能获得的信息太少了。为了方便巡礼放一起了。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.545848,
+          35.319785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 536,
+        "bangumi_title": "妖精的旋律",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/536/points/l8028wu-1793206634366.webp",
+        "location": "",
+        "point_id": "l8028wu",
+        "point_name": "隧道",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

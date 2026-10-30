@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.42168,
+          35.62334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9a4ffo-1793284016155.webp",
+        "location": "",
+        "point_id": "l9a4ffo",
+        "point_name": "警視庁 多摩中央警察署 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.412473,
+          35.701517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/262940/points/l9aeltw-1793284514114.webp",
+        "location": "",
+        "point_id": "l9aeltw",
+        "point_name": "Sakurano",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.41299,
+          35.69868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9ar4z5-1793285072947.webp",
+        "location": "",
+        "point_id": "l9ar4z5",
+        "point_name": "立川駅北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.412423,
+          35.699278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": "1",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9d2vy5-1793289110480.webp",
+        "location": "",
+        "point_id": "l9d2vy5",
+        "point_name": "多摩モノレール立川北駅下",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.729701,
+          35.659981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9gedp9-1793294575863.webp",
+        "location": "",
+        "point_id": "l9gedp9",
+        "point_name": "TOHOシネマズ 六本木ヒルズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
