@@ -339,6 +339,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.571861,
+          35.656677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 587454,
+        "bangumi_title": "我们不可能成为恋人！绝对不行。 (※似乎可行？) 〜再次闪耀！〜",
+        "ep_cut": "2",
+        "image_url": "https://w.junreimap.com/images/user/ac2723a6-49e2-4a52-be0e-2672b8f9beef/bangumi/587454/points/laq4kql-1793371335956.webp",
+        "location": "",
+        "point_id": "laq4kql",
+        "point_name": "ヴィエンベニード",
+        "remark": "动漫这里采用了镜像的手法根据限速牌子还有左面的房子来拍摄\n"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

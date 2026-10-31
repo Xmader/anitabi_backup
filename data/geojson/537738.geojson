@@ -3,46 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          139.42168,
-          35.62334
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 537738,
-        "bangumi_title": "某暗部的少女共栖",
-        "ep_cut": "1",
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9a4ffo-1793284016155.webp",
-        "location": "",
-        "point_id": "l9a4ffo",
-        "point_name": "警視庁 多摩中央警察署 前",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          139.412473,
-          35.701517
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "bangumi_id": 537738,
-        "bangumi_title": "某暗部的少女共栖",
-        "ep_cut": "1",
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/262940/points/l9aeltw-1793284514114.webp",
-        "location": "",
-        "point_id": "l9aeltw",
-        "point_name": "Sakurano",
-        "remark": ""
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           139.41299,
           35.69868
         ],
@@ -51,7 +11,7 @@
       "properties": {
         "bangumi_id": 537738,
         "bangumi_title": "某暗部的少女共栖",
-        "ep_cut": "1",
+        "ep_cut": 1,
         "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9ar4z5-1793285072947.webp",
         "location": "",
         "point_id": "l9ar4z5",
@@ -71,11 +31,271 @@
       "properties": {
         "bangumi_id": 537738,
         "bangumi_title": "某暗部的少女共栖",
-        "ep_cut": "1",
-        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9d2vy5-1793289110480.webp",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9d2vy5-1793328672154.webp",
         "location": "",
         "point_id": "l9d2vy5",
-        "point_name": "多摩モノレール立川北駅下",
+        "point_name": "立川北駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.412473,
+          35.701517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/262940/points/l9aeltw-1793284514114.webp",
+        "location": "",
+        "point_id": "l9aeltw",
+        "point_name": "Sakurano",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411027,
+          35.701543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la7j8vv-1793340105438.webp",
+        "location": "",
+        "point_id": "la7j8vv",
+        "point_name": "立川市曙一丁目公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.41084,
+          35.701365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la7ow15-1793340369020.webp",
+        "location": "",
+        "point_id": "la7ow15",
+        "point_name": "立川市曙一丁目公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.411086,
+          35.701483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la7fykz-1793340193146.webp",
+        "location": "",
+        "point_id": "la7fykz",
+        "point_name": "立川市曙一丁目公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.42168,
+          35.62334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9a4ffo-1793284016155.webp",
+        "location": "",
+        "point_id": "l9a4ffo",
+        "point_name": "警視庁 多摩中央警察署 前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633444,
+          35.456658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la5h76b-1793336758438.webp",
+        "location": "",
+        "point_id": "la5h76b",
+        "point_name": "クイーンズスクエア横浜",
+        "remark": "两人初一时（应该是地上2楼"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633384,
+          35.456849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la61i0a-1793337603691.webp",
+        "location": "",
+        "point_id": "la61i0a",
+        "point_name": "クイーンズスクエア横浜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.633436,
+          35.456834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la62n0p-1793337649385.webp",
+        "location": "",
+        "point_id": "la62n0p",
+        "point_name": "クイーンズスクエア横浜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.744158,
+          35.668716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la3bqau-1793333279795.webp",
+        "location": "",
+        "point_id": "la3bqau",
+        "point_name": "Embassy of the United States of America",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.665423,
+          35.705882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la8id4u-1793341743149.webp",
+        "location": "",
+        "point_id": "la8id4u",
+        "point_name": "中野駅",
+        "remark": "在车站下的隧道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.426116,
+          35.622371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/la9qf42-1793343798891.webp",
+        "location": "",
+        "point_id": "la9qf42",
+        "point_name": "パルテノン多摩",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749969,
+          35.666885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/laecyft-1793351571125.webp",
+        "location": "",
+        "point_id": "laecyft",
+        "point_name": "THE 3RD CAFE by Standard Coffee",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.749995,
+          35.666837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/lad5cy0-1793349642113.webp",
+        "location": "",
+        "point_id": "lad5cy0",
+        "point_name": "THE 3RD CAFE by Standard Coffee",
         "remark": ""
       },
       "type": "Feature"
@@ -91,7 +311,7 @@
       "properties": {
         "bangumi_id": 537738,
         "bangumi_title": "某暗部的少女共栖",
-        "ep_cut": "3",
+        "ep_cut": 3,
         "image_url": "https://w.junreimap.com/images/user/1099/bangumi/537738/points/l9gedp9-1793294575863.webp",
         "location": "",
         "point_id": "l9gedp9",

@@ -93,7 +93,7 @@
       "remark": "",
       "status_code": 2191,
       "user_id": 120,
-      "zoom": 200
+      "zoom": 197
     },
     {
       "ep_cut": 14,
@@ -107,7 +107,7 @@
       "remark": "",
       "status_code": 2191,
       "user_id": 200,
-      "zoom": 3483
+      "zoom": 32
     },
     {
       "ep_cut": 16,
@@ -248,9 +248,23 @@
       "status_code": 2205,
       "user_id": null,
       "zoom": 13
+    },
+    {
+      "ep_cut": "2",
+      "id": "laq4kql",
+      "image_path": "/images/user/ac2723a6-49e2-4a52-be0e-2672b8f9beef/bangumi/587454/points/laq4kql-1793371335956.webp",
+      "image_url": "https://w.junreimap.com/images/user/ac2723a6-49e2-4a52-be0e-2672b8f9beef/bangumi/587454/points/laq4kql-1793371335956.webp",
+      "lat": 35.656677,
+      "lng": 139.571861,
+      "location": "",
+      "name": "ヴィエンベニード",
+      "remark": "动漫这里采用了镜像的手法根据限速牌子还有左面的房子来拍摄\n",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 3513
     }
   ],
-  "points_count": 17,
+  "points_count": 18,
   "rating": 8,
   "region": "",
   "short_name": "",
