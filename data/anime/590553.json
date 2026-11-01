@@ -22,7 +22,7 @@
       "name": "成蹊学園ケヤキ並木",
       "remark": "来源X：https://x.com/ssslocation/status/1973443137453584807",
       "status_code": 2191,
-      "user_id": 3046,
+      "user_id": 2986,
       "zoom": 763
     },
     {
@@ -212,14 +212,14 @@
       "id": "h2ogxt0",
       "image_path": "/images/points/590553/h2ogxt0_1784177700814.webp",
       "image_url": "https://w.junreimap.com/images/points/590553/h2ogxt0_1784177700814.webp",
-      "lat": 36.434659,
-      "lng": 139.277442,
+      "lat": 36.434669,
+      "lng": 139.277522,
       "location": "PV",
       "name": "大間々駅",
       "remark": "【存疑】背景为トロッコわたらせ渓谷号列车，运行区间大間々駅 ～ 足尾駅。根据方向幕倒影大致判断为该车站",
       "status_code": 2191,
-      "user_id": 6694,
-      "zoom": 6694
+      "user_id": 5,
+      "zoom": 5
     },
     {
       "ep_cut": "放送直前PV",
@@ -260,8 +260,8 @@
       "name": "桐生駅（わたらせ渓谷鐵道）",
       "remark": "图中车辆为WKT-500形气动车，另外绝对不可以尝试跳下站台以完美复刻该角度",
       "status_code": 2191,
-      "user_id": 6694,
-      "zoom": 15712
+      "user_id": 4,
+      "zoom": 4
     },
     {
       "ep_cut": "放送直前PV",
@@ -400,8 +400,8 @@
       "name": "西武柳沢",
       "remark": "车型是西武铁道 30000系 \"Smile Train\"",
       "status_code": 2191,
-      "user_id": 3046,
-      "zoom": 1326
+      "user_id": 79,
+      "zoom": 79
     },
     {
       "ep_cut": 1,
@@ -738,14 +738,126 @@
       "status_code": 2191,
       "user_id": 16,
       "zoom": 7553
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc4r5q9",
+      "image_path": "/images/points/590553/lc4r5q9_1793456376285.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc4r5q9_1793456376285.webp",
+      "lat": 35.728516,
+      "lng": 139.552851,
+      "location": "EP4",
+      "name": "西武柳沢",
+      "remark": "",
+      "status_code": "2191",
+      "user_id": 79,
+      "zoom": 1405
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc4uzp6",
+      "image_path": "/images/points/590553/lc4uzp6_1793456566314.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc4uzp6_1793456566314.webp",
+      "lat": 36.411712,
+      "lng": 139.332811,
+      "location": "EP4",
+      "name": "桐生駅",
+      "remark": "",
+      "status_code": "2191",
+      "user_id": 55,
+      "zoom": 55
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc4otr0",
+      "image_path": "/images/points/590553/lc4otr0_1793456274420.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc4otr0_1793456274420.webp",
+      "lat": 36.411209,
+      "lng": 139.33307,
+      "location": "EP4",
+      "name": "桐生駅",
+      "remark": "站台巡礼时请注意安全，不要妨碍正常运行秩序",
+      "status_code": "2191",
+      "user_id": 7,
+      "zoom": 11
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc4zyzd",
+      "image_path": "/images/points/590553/lc4zyzd_1793456813492.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc4zyzd_1793456813492.webp",
+      "lat": 36.411248,
+      "lng": 139.332981,
+      "location": "EP4",
+      "name": "桐生駅",
+      "remark": "车辆为WKT-500形气动车，巡礼时请注意安全，不要妨碍正常运行秩序",
+      "status_code": "2191",
+      "user_id": 4,
+      "zoom": 6687
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc54xic",
+      "image_path": "/images/points/590553/lc54xic_1793457021700.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc54xic_1793457021700.webp",
+      "lat": 36.43467,
+      "lng": 139.277479,
+      "location": "EP4",
+      "name": "大間々駅",
+      "remark": "",
+      "status_code": "2191",
+      "user_id": 5,
+      "zoom": 25
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc59y92",
+      "image_path": "/images/points/590553/lc59y92_1793457263547.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc59y92_1793457263547.webp",
+      "lat": 36.434663,
+      "lng": 139.277261,
+      "location": "EP4",
+      "name": "大間々駅前",
+      "remark": "",
+      "status_code": "2191",
+      "user_id": 24,
+      "zoom": 39
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc5fb1e",
+      "image_path": "/images/points/590553/lc5fb1e_1793457523056.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc5fb1e_1793457523056.webp",
+      "lat": 36.434997,
+      "lng": 139.277343,
+      "location": "EP4",
+      "name": "レールバス「わ89-101」保存車両",
+      "remark": "",
+      "status_code": "2191",
+      "user_id": 11,
+      "zoom": 11
+    },
+    {
+      "ep_cut": 4,
+      "id": "lc5k5be",
+      "image_path": "/images/points/590553/lc5k5be_1793457726280.webp",
+      "image_url": "https://w.junreimap.com/images/points/590553/lc5k5be_1793457726280.webp",
+      "lat": 36.435086,
+      "lng": 139.277305,
+      "location": "EP4",
+      "name": "レールバス「わ89-302」保存車両",
+      "remark": "",
+      "status_code": "2191",
+      "user_id": 11,
+      "zoom": 13605
     }
   ],
-  "points_count": 52,
+  "points_count": 60,
   "rating": 0,
   "region": "",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/590553_100_76.webp?v=hsj3h",
+    "/images/ptheme/590553_100_76.webp?v=hso0j",
     [
       "5op0oth",
       "5nt035t",
@@ -798,9 +910,17 @@
       "l25sra8",
       "l25z02e",
       "l5to1k2",
-      "l5tvr8p"
+      "l5tvr8p",
+      "lc4r5q9",
+      "lc4uzp6",
+      "lc4otr0",
+      "lc4zyzd",
+      "lc54xic",
+      "lc59y92",
+      "lc5fb1e",
+      "lc5k5be"
     ],
-    1793075344332,
+    1793457816426,
     100,
     76
   ],

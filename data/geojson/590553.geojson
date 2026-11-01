@@ -283,8 +283,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.277442,
-          36.434659
+          139.277522,
+          36.434669
         ],
         "type": "Point"
       },
@@ -1036,6 +1036,166 @@
         "location": "EP3",
         "point_id": "l5tvr8p",
         "point_name": "狭山市駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.552851,
+          35.728516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc4r5q9_1793456376285.webp",
+        "location": "EP4",
+        "point_id": "lc4r5q9",
+        "point_name": "西武柳沢",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.332811,
+          36.411712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc4uzp6_1793456566314.webp",
+        "location": "EP4",
+        "point_id": "lc4uzp6",
+        "point_name": "桐生駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.33307,
+          36.411209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc4otr0_1793456274420.webp",
+        "location": "EP4",
+        "point_id": "lc4otr0",
+        "point_name": "桐生駅",
+        "remark": "站台巡礼时请注意安全，不要妨碍正常运行秩序"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.332981,
+          36.411248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc4zyzd_1793456813492.webp",
+        "location": "EP4",
+        "point_id": "lc4zyzd",
+        "point_name": "桐生駅",
+        "remark": "车辆为WKT-500形气动车，巡礼时请注意安全，不要妨碍正常运行秩序"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.277479,
+          36.43467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc54xic_1793457021700.webp",
+        "location": "EP4",
+        "point_id": "lc54xic",
+        "point_name": "大間々駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.277261,
+          36.434663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc59y92_1793457263547.webp",
+        "location": "EP4",
+        "point_id": "lc59y92",
+        "point_name": "大間々駅前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.277343,
+          36.434997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc5fb1e_1793457523056.webp",
+        "location": "EP4",
+        "point_id": "lc5fb1e",
+        "point_name": "レールバス「わ89-101」保存車両",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.277305,
+          36.435086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 590553,
+        "bangumi_title": "てつりょー！meet with 鉄道むすめ",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/590553/lc5k5be_1793457726280.webp",
+        "location": "EP4",
+        "point_id": "lc5k5be",
+        "point_name": "レールバス「わ89-302」保存車両",
         "remark": ""
       },
       "type": "Feature"

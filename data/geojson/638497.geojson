@@ -199,6 +199,206 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705457,
+          35.691886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazabex-1793386712692.webp",
+        "location": "",
+        "point_id": "lazabex",
+        "point_name": "新宿三丁目北",
+        "remark": "来自日本网友的位置"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70526,
+          35.69173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazcnne-1793386830393.webp",
+        "location": "",
+        "point_id": "lazcnne",
+        "point_name": "新宿三丁目北",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.705059,
+          35.691394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazepge-1793386917843.webp",
+        "location": "",
+        "point_id": "lazepge",
+        "point_name": "Isetan Shinjuku",
+        "remark": "这边都可以打广告，根据动漫的焦段来拍摄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.70491,
+          35.691068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazhh8v-1793387047052.webp",
+        "location": "",
+        "point_id": "lazhh8v",
+        "point_name": "ミュウミュウ 伊勢丹新宿3F店",
+        "remark": "根据路牌来拍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704925,
+          35.691185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazjt3q-1793387162581.webp",
+        "location": "",
+        "point_id": "lazjt3q",
+        "point_name": "B3",
+        "remark": "Shinjuku Tatsukichi 后面房子的其中一个店铺，这个楼很明显"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704929,
+          35.691163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazjpsi-1793387159029.webp",
+        "location": "",
+        "point_id": "lazjpsi",
+        "point_name": "Shinjuku Tatsukichi",
+        "remark": "喜欢你才是唯一"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704831,
+          35.691034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazn60s-1793387322410.webp",
+        "location": "",
+        "point_id": "lazn60s",
+        "point_name": "新宿三丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704873,
+          35.691031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazn7ba-1793387319221.webp",
+        "location": "",
+        "point_id": "lazn7ba",
+        "point_name": "新宿三丁目",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704719,
+          35.690441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazqojo-1793387475775.webp",
+        "location": "",
+        "point_id": "lazqojo",
+        "point_name": "Cafe Aaliya",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.704738,
+          35.690437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazqrfc-1793387480086.webp",
+        "location": "",
+        "point_id": "lazqrfc",
+        "point_name": "Cafe Aaliya",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
