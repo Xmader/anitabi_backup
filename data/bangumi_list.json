@@ -1,5 +1,47 @@
 [
   {
+    "id": 210458,
+    "title_cn": "恋如雨止",
+    "title_jp": "恋は雨上がりのように",
+    "title_en": "",
+    "region": "横滨市",
+    "type": "TV",
+    "rating": 7.5,
+    "points_count": 224,
+    "center_lat": 35.422365,
+    "center_lng": 139.664305,
+    "cover_url": "https://w.junreimap.com/images/bangumi/210458.jpg",
+    "bgm_id": 2455
+  },
+  {
+    "id": 280837,
+    "title_cn": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+    "title_jp": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+    "title_en": "",
+    "region": "欧洲",
+    "type": "剧场版",
+    "rating": 7.4,
+    "points_count": 29,
+    "center_lat": 49.046957,
+    "center_lng": 10.098055,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f0/15/280837_L6VeG.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 536,
+    "title_cn": "妖精的旋律",
+    "title_jp": "エルフェンリート",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.4,
+    "points_count": 155,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/65/65/536_MKMkg.jpg",
+    "bgm_id": null
+  },
+  {
     "id": 65659,
     "title_cn": "巨乳战队X",
     "title_jp": "ミカるんX",
@@ -7,11 +49,11 @@
     "region": "福井県",
     "type": "漫画系列",
     "rating": 8.2,
-    "points_count": 28,
-    "center_lat": 0,
-    "center_lng": 0,
+    "points_count": 37,
+    "center_lat": 35.659587,
+    "center_lng": 139.700212,
     "cover_url": "https://w.junreimap.com/images/bangumi/65659.jpg",
-    "bgm_id": null
+    "bgm_id": 94
   },
   {
     "id": 590553,
@@ -54,20 +96,6 @@
     "center_lng": 134.037331,
     "cover_url": "https://w.junreimap.com/images/bangumi/363957_rpxd9y92h.jpg",
     "bgm_id": 93182
-  },
-  {
-    "id": 210458,
-    "title_cn": "恋如雨止",
-    "title_jp": "恋は雨上がりのように",
-    "title_en": "",
-    "region": "横滨市",
-    "type": "TV",
-    "rating": 7.5,
-    "points_count": 88,
-    "center_lat": 35.422365,
-    "center_lng": 139.664305,
-    "cover_url": "https://w.junreimap.com/images/bangumi/210458.jpg",
-    "bgm_id": 2455
   },
   {
     "id": 638497,
@@ -166,20 +194,6 @@
     "center_lng": 139.97493,
     "cover_url": "https://w.junreimap.com/images/bangumi/186515.jpg",
     "bgm_id": 15540
-  },
-  {
-    "id": 536,
-    "title_cn": "妖精的旋律",
-    "title_jp": "エルフェンリート",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7.4,
-    "points_count": 155,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/65/65/536_MKMkg.jpg",
-    "bgm_id": null
   },
   {
     "id": 195816,
@@ -1565,20 +1579,6 @@
     "center_lat": 35.855103,
     "center_lng": 139.328608,
     "cover_url": "https://w.junreimap.com/images/bangumi/290980.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 280837,
-    "title_cn": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
-    "title_jp": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
-    "title_en": "",
-    "region": "欧洲",
-    "type": "剧场版",
-    "rating": 7.4,
-    "points_count": 28,
-    "center_lat": 49.046957,
-    "center_lng": 10.098055,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f0/15/280837_L6VeG.jpg",
     "bgm_id": null
   },
   {
@@ -7627,7 +7627,7 @@
     "center_lat": 35.659941,
     "center_lng": 139.702123,
     "cover_url": "https://w.junreimap.com/images/bangumi/425909.jpg",
-    "bgm_id": 272
+    "bgm_id": 216
   },
   {
     "id": 227775,
@@ -7697,7 +7697,7 @@
     "center_lat": 35.65779,
     "center_lng": 139.700957,
     "cover_url": "https://w.junreimap.com/images/bangumi/505776.jpg",
-    "bgm_id": 249
+    "bgm_id": 217
   },
   {
     "id": 285784,
@@ -19667,7 +19667,7 @@
     "center_lat": 35.659771,
     "center_lng": 139.700376,
     "cover_url": "https://w.junreimap.com/images/bangumi/393446.jpg",
-    "bgm_id": 118
+    "bgm_id": 28
   },
   {
     "id": 161787,

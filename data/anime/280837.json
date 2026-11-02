@@ -233,7 +233,7 @@
       "remark": "Only the building on the left side and the well match up with the courtyard in real life. The little tower behind the well, which is one of the few still existing medieval structures has been replaced with a larger building in the animation.",
       "status_code": 0,
       "user_id": 11,
-      "zoom": 114
+      "zoom": 20
     },
     {
       "ep_cut": "",
@@ -247,7 +247,7 @@
       "remark": "The Gate matches what is shown in the Animation, but area on the left side is different",
       "status_code": 0,
       "user_id": 99,
-      "zoom": 243
+      "zoom": 116
     },
     {
       "ep_cut": "",
@@ -258,10 +258,10 @@
       "lng": 7.173045,
       "location": "Cochem, Germany",
       "name": "Valley View",
-      "remark": "Approximation based on the location of the castle and nearby hills. Might not be be possible to get a 100% matching picture due to vegetation in the area.",
+      "remark": "Approximation based on the location of the castle and nearby hills. Might not be be possible to get a 100% matching picture due to vegetation in the area.\n\n(P.S. 這是老外留的逆天座標，小弟徒步走到座標發現沒有航拍機根本拍不了，且最近的巴士站也要走半小時還要走在公路上，沒車的建議可以不用去）",
       "status_code": 0,
       "user_id": 801,
-      "zoom": 1262
+      "zoom": 957
     },
     {
       "ep_cut": "",
@@ -331,7 +331,7 @@
       "remark": "The last stop of Benedict's and Taylor's tour is only a few steps away from her first mail delivery in real-life.",
       "status_code": 0,
       "user_id": 44,
-      "zoom": 71957
+      "zoom": 445
     },
     {
       "ep_cut": "",
@@ -402,9 +402,23 @@
       "status_code": 0,
       "user_id": 264,
       "zoom": 566
+    },
+    {
+      "ep_cut": "",
+      "id": "ldtdj9k",
+      "image_path": "/images/user/c2fa685e-d703-410d-91b5-eee40d7a3d74/bangumi/280837/points/ldtdj9k-1793558219196.webp",
+      "image_url": "https://w.junreimap.com/images/user/c2fa685e-d703-410d-91b5-eee40d7a3d74/bangumi/280837/points/ldtdj9k-1793558219196.webp",
+      "lat": 50.141908,
+      "lng": 7.167153,
+      "location": "Cochem, Germany",
+      "name": "Reichsburg Cochem",
+      "remark": "截至2026.10: Cochem Castle進去參觀室內需要購買Guided Tour，然而正常的Guided Tour的流程並不會參觀Amy的睡房，也是途中問了導遊關於睡房的細節而確認有這樣的房間，且內飾幾乎與現實相同。可能在淡季（1/2月）去或者跟導遊混熟了才有機會參觀吧。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 71921
     }
   ],
-  "points_count": 28,
+  "points_count": 29,
   "rating": 7.4,
   "region": "欧洲",
   "short_name": "",

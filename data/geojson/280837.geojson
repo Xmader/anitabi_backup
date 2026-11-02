@@ -356,7 +356,7 @@
         "location": "Cochem, Germany",
         "point_id": "8ba88940",
         "point_name": "Valley View",
-        "remark": "Approximation based on the location of the castle and nearby hills. Might not be be possible to get a 100% matching picture due to vegetation in the area."
+        "remark": "Approximation based on the location of the castle and nearby hills. Might not be be possible to get a 100% matching picture due to vegetation in the area.\n\n(P.S. 這是老外留的逆天座標，小弟徒步走到座標發現沒有航拍機根本拍不了，且最近的巴士站也要走半小時還要走在公路上，沒車的建議可以不用去）"
       },
       "type": "Feature"
     },
@@ -557,6 +557,26 @@
         "point_id": "4d91640e",
         "point_name": "Hauptmarkt",
         "remark": "In the movie we're only getting a short glympse at this place. In real-life it's probably mostly known for hosting\"Nuremberg Christkindlesmarkt\", a Christmas market held here annually from the end of November until christmas eve. Outside this period it is mainly uses as a market for local produce or as an event space."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.167153,
+          50.141908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 280837,
+        "bangumi_title": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/c2fa685e-d703-410d-91b5-eee40d7a3d74/bangumi/280837/points/ldtdj9k-1793558219196.webp",
+        "location": "Cochem, Germany",
+        "point_id": "ldtdj9k",
+        "point_name": "Reichsburg Cochem",
+        "remark": "截至2026.10: Cochem Castle進去參觀室內需要購買Guided Tour，然而正常的Guided Tour的流程並不會參觀Amy的睡房，也是途中問了導遊關於睡房的細節而確認有這樣的房間，且內飾幾乎與現實相同。可能在淡季（1/2月）去或者跟導遊混熟了才有機會參觀吧。"
       },
       "type": "Feature"
     }
