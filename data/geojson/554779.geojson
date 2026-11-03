@@ -19,6 +19,66 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.641377,
+          35.666141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 554779,
+        "bangumi_title": "学生会也有洞！",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/554779/points/lf0jkhc-1793630723108.webp",
+        "location": "",
+        "point_id": "lf0jkhc",
+        "point_name": "下高井戸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.640833,
+          35.666183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 554779,
+        "bangumi_title": "学生会也有洞！",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/554779/points/lf0jn6u-1793630717553.webp",
+        "location": "",
+        "point_id": "lf0jn6u",
+        "point_name": "下高井戸",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.640813,
+          35.666199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 554779,
+        "bangumi_title": "学生会也有洞！",
+        "ep_cut": "5",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/554779/points/lf0jl6d-1793630711319.webp",
+        "location": "",
+        "point_id": "lf0jl6d",
+        "point_name": "下高井戸",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

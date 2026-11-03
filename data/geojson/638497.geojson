@@ -211,7 +211,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazabex-1793386712692.webp",
         "location": "",
         "point_id": "lazabex",
@@ -231,7 +231,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazcnne-1793386830393.webp",
         "location": "",
         "point_id": "lazcnne",
@@ -251,7 +251,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazepge-1793386917843.webp",
         "location": "",
         "point_id": "lazepge",
@@ -271,7 +271,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazhh8v-1793387047052.webp",
         "location": "",
         "point_id": "lazhh8v",
@@ -291,7 +291,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazjt3q-1793387162581.webp",
         "location": "",
         "point_id": "lazjt3q",
@@ -311,7 +311,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazjpsi-1793387159029.webp",
         "location": "",
         "point_id": "lazjpsi",
@@ -331,7 +331,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazn60s-1793387322410.webp",
         "location": "",
         "point_id": "lazn60s",
@@ -351,7 +351,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazn7ba-1793387319221.webp",
         "location": "",
         "point_id": "lazn7ba",
@@ -371,7 +371,7 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazqojo-1793387475775.webp",
         "location": "",
         "point_id": "lazqojo",
@@ -391,11 +391,91 @@
       "properties": {
         "bangumi_id": 638497,
         "bangumi_title": "相反的你和我 第二季",
-        "ep_cut": "5",
+        "ep_cut": 5,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lazqrfc-1793387480086.webp",
         "location": "",
         "point_id": "lazqrfc",
         "point_name": "Cafe Aaliya",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.422957,
+          35.515009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lf0t0hl-1793631148700.webp",
+        "location": "",
+        "point_id": "lf0t0hl",
+        "point_name": "南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.422949,
+          35.515011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lf0t4bh-1793631153305.webp",
+        "location": "",
+        "point_id": "lf0t4bh",
+        "point_name": "南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.422959,
+          35.51501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lf0t2ef-1793631156612.webp",
+        "location": "",
+        "point_id": "lf0t2ef",
+        "point_name": "南口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.422919,
+          35.515048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 638497,
+        "bangumi_title": "相反的你和我 第二季",
+        "ep_cut": "4",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/638497/points/lf0sp2n-1793631131493.webp",
+        "location": "",
+        "point_id": "lf0sp2n",
+        "point_name": "小田急相模原",
         "remark": ""
       },
       "type": "Feature"

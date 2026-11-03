@@ -1,5 +1,89 @@
 [
   {
+    "id": 525565,
+    "title_cn": "相反的你和我",
+    "title_jp": "正反対な君と僕",
+    "title_en": "",
+    "region": "横滨市",
+    "type": "TV",
+    "rating": 7.5,
+    "points_count": 146,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/525565_fej6i2c.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 554779,
+    "title_cn": "学生会也有洞！",
+    "title_jp": "生徒会にも穴はある！",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.6,
+    "points_count": 4,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/17/c7/554779_oPitO.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 638497,
+    "title_cn": "相反的你和我 第二季",
+    "title_jp": "正反対な君と僕 第2期",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 7.8,
+    "points_count": 24,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/fa/9b/638497_85455.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 103755,
+    "title_cn": "HEN",
+    "title_jp": "HEN",
+    "title_en": "",
+    "region": "八王子市",
+    "type": "漫画系列",
+    "rating": 4.8,
+    "points_count": 5,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/103755.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 362575,
+    "title_cn": "通往夏日的隧道再见的出口",
+    "title_jp": "夏へのトンネル、さよならの出口",
+    "title_en": "The Tunnel to Summer, the Exit of Goodbye",
+    "region": "千叶县",
+    "type": "剧场版",
+    "rating": 5.9,
+    "points_count": 69,
+    "center_lat": 35.152186,
+    "center_lng": 139.847818,
+    "cover_url": "https://w.junreimap.com/images/bangumi/362575.jpg",
+    "bgm_id": 20322
+  },
+  {
+    "id": 243981,
+    "title_cn": "终将成为你",
+    "title_jp": "やがて君になる",
+    "title_en": "",
+    "region": "品川区",
+    "type": "TV",
+    "rating": 7.8,
+    "points_count": 130,
+    "center_lat": 35.627095,
+    "center_lng": 139.737731,
+    "cover_url": "https://w.junreimap.com/images/bangumi/243981.jpg",
+    "bgm_id": 1156
+  },
+  {
     "id": 210458,
     "title_cn": "恋如雨止",
     "title_jp": "恋は雨上がりのように",
@@ -96,20 +180,6 @@
     "center_lng": 134.037331,
     "cover_url": "https://w.junreimap.com/images/bangumi/363957_rpxd9y92h.jpg",
     "bgm_id": 93182
-  },
-  {
-    "id": 638497,
-    "title_cn": "相反的你和我 第二季",
-    "title_jp": "正反対な君と僕 第2期",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7.8,
-    "points_count": 20,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/fa/9b/638497_85455.jpg",
-    "bgm_id": null
   },
   {
     "id": 471839,
@@ -308,20 +378,6 @@
     "bgm_id": 20525
   },
   {
-    "id": 525565,
-    "title_cn": "相反的你和我",
-    "title_jp": "正反対な君と僕",
-    "title_en": "",
-    "region": "横滨市",
-    "type": "TV",
-    "rating": 7.5,
-    "points_count": 113,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/525565_fej6i2c.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 524707,
     "title_cn": "我怎么可能成为你的恋人，不行不行！(※不是不可能！？)",
     "title_jp": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
@@ -375,20 +431,6 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
-    "bgm_id": null
-  },
-  {
-    "id": 554779,
-    "title_cn": "学生会也有洞！",
-    "title_jp": "生徒会にも穴はある！",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 7.6,
-    "points_count": 1,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://bgm-api.anitabi.cn/img/pic/cover/l/17/c7/554779_oPitO.jpg",
     "bgm_id": null
   },
   {
@@ -2168,20 +2210,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/2045_iyiv4l1.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 243981,
-    "title_cn": "终将成为你",
-    "title_jp": "やがて君になる",
-    "title_en": "",
-    "region": "品川区",
-    "type": "TV",
-    "rating": 7.8,
-    "points_count": 130,
-    "center_lat": 35.627095,
-    "center_lng": 139.737731,
-    "cover_url": "https://w.junreimap.com/images/bangumi/243981.jpg",
-    "bgm_id": 1156
   },
   {
     "id": 117777,
@@ -6424,20 +6452,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/e6/3e/208370_2LT6G.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 362575,
-    "title_cn": "通往夏日的隧道再见的出口",
-    "title_jp": "夏へのトンネル、さよならの出口",
-    "title_en": "The Tunnel to Summer, the Exit of Goodbye",
-    "region": "千叶县",
-    "type": "剧场版",
-    "rating": 5.9,
-    "points_count": 15,
-    "center_lat": 35.152186,
-    "center_lng": 139.847818,
-    "cover_url": "https://w.junreimap.com/images/bangumi/362575.jpg",
-    "bgm_id": 20322
   },
   {
     "id": 37898,

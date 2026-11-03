@@ -1,0 +1,105 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.377269,
+          35.616871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 103755,
+        "bangumi_title": "HEN",
+        "ep_cut": 44,
+        "image_url": "https://w.junreimap.com/images/points/103755/lezihbk_1793629002551.webp",
+        "location": "",
+        "point_id": "lezihbk",
+        "point_name": "東京都立大学 空の目門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.377376,
+          35.616919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 103755,
+        "bangumi_title": "HEN",
+        "ep_cut": 44,
+        "image_url": "https://w.junreimap.com/images/points/103755/lezjo5x_1793629059240.webp",
+        "location": "",
+        "point_id": "lezjo5x",
+        "point_name": "東京都立大学 空の目門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.382252,
+          35.619619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 103755,
+        "bangumi_title": "HEN",
+        "ep_cut": 61,
+        "image_url": "https://w.junreimap.com/images/points/103755/lezgpji_1793629271518.webp",
+        "location": "",
+        "point_id": "lezgpji",
+        "point_name": "東京都立大学 調整池",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.377424,
+          35.616937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 103755,
+        "bangumi_title": "HEN",
+        "ep_cut": 63,
+        "image_url": "https://w.junreimap.com/images/points/103755/lezri7r_1793629384644.webp",
+        "location": "",
+        "point_id": "lezri7r",
+        "point_name": "東京都立大学 空の目門",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.377457,
+          35.616956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 103755,
+        "bangumi_title": "HEN",
+        "ep_cut": 63,
+        "image_url": "https://w.junreimap.com/images/points/103755/lezrxfw_1793629402773.webp",
+        "location": "",
+        "point_id": "lezrxfw",
+        "point_name": "東京都立大学 空の目門",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

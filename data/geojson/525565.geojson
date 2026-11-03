@@ -2016,7 +2016,7 @@
         "location": "",
         "point_id": "io1szos",
         "point_name": "氷川丸",
-        "remark": ""
+        "remark": "忘记那些是我上传的了"
       },
       "type": "Feature"
     },
@@ -2251,12 +2251,672 @@
       "properties": {
         "bangumi_id": 525565,
         "bangumi_title": "相反的你和我",
-        "ep_cut": "4",
+        "ep_cut": 4,
         "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/l5k94go-1793059145354.webp",
         "location": "",
         "point_id": "l5k94go",
         "point_name": "横滨市弘明寺公园展望台",
         "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.43526,
+          34.667756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2fu1q-1793633899039.webp",
+        "location": "",
+        "point_id": "lf2fu1q",
+        "point_name": "环球影城",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.432863,
+          34.666086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2e3gn-1793633799663.webp",
+        "location": "",
+        "point_id": "lf2e3gn",
+        "point_name": "ユニバーサル・スタジオ・ジャパン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.431856,
+          34.66647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2aep0-1793633673906.webp",
+        "location": "",
+        "point_id": "lf2aep0",
+        "point_name": "ユニバーサル・​スタジオ・​\nジャパン",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.435341,
+          34.66737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2b8po-1793633677148.webp",
+        "location": "",
+        "point_id": "lf2b8po",
+        "point_name": "环球影城​日本入口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.840373,
+          34.6856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf27or6-1793633495277.webp",
+        "location": "",
+        "point_id": "lf27or6",
+        "point_name": "奈良公园",
+        "remark": "这里具体位置不清楚，各位自己找喽"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.843379,
+          34.685419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf222hw-1793633232638.webp",
+        "location": "",
+        "point_id": "lf222hw",
+        "point_name": "奈良公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.848481,
+          34.681449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf21e5r-1793633203608.webp",
+        "location": "",
+        "point_id": "lf21e5r",
+        "point_name": "春日大社",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839841,
+          34.686728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf207gp-1793633146812.webp",
+        "location": "",
+        "point_id": "lf207gp",
+        "point_name": "东大寺南大门",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.839866,
+          34.68892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1z0sa-1793633135958.webp",
+        "location": "",
+        "point_id": "lf1z0sa",
+        "point_name": "大仏殿",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.78545,
+          34.994587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1t2k2-1793632815853.webp",
+        "location": "",
+        "point_id": "lf1t2k2",
+        "point_name": "清水寺",
+        "remark": "当时去人多，还想清闲人少的时候好好逛逛嘞"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.785082,
+          34.995111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1pn9k-1793632653669.webp",
+        "location": "",
+        "point_id": "lf1pn9k",
+        "point_name": "Love Fortune Stone",
+        "remark": "早点来，人多，7,8点左右，祝巡礼顺利"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.729349,
+          35.03939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "11",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1mo5n-1793632518703.webp",
+        "location": "",
+        "point_id": "lf1mo5n",
+        "point_name": "金閣寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759654,
+          34.984577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1gond-1793632247084.webp",
+        "location": "",
+        "point_id": "lf1gond",
+        "point_name": "新干线",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758856,
+          34.98708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1fh75-1793632200016.webp",
+        "location": "",
+        "point_id": "lf1fh75",
+        "point_name": "车站前",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.758082,
+          34.985266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1g3w9-1793632213523.webp",
+        "location": "",
+        "point_id": "lf1g3w9",
+        "point_name": "JR​京都​駅​橋上​テナント",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561233,
+          35.698156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1a4rf-1793631929377.webp",
+        "location": "",
+        "point_id": "lf1a4rf",
+        "point_name": "ファミリーマート 三鷹中央通り南店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.759604,
+          34.984574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1gqcl-1793632273909.webp",
+        "location": "",
+        "point_id": "lf1gqcl",
+        "point_name": "新干线",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.561119,
+          35.698871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "10",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf1awre-1793631965850.webp",
+        "location": "",
+        "point_id": "lf1awre",
+        "point_name": "名取屋Life Inn",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.537809,
+          35.670562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "8",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf132va-1793631610040.webp",
+        "location": "",
+        "point_id": "lf132va",
+        "point_name": "ラーメン​魁​力​屋​三鷹​大沢​店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645291,
+          35.443341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf319w8-1793634878004.webp",
+        "location": "",
+        "point_id": "lf319w8",
+        "point_name": "福临阁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645309,
+          35.443352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf31ef9-1793634882024.webp",
+        "location": "",
+        "point_id": "lf31ef9",
+        "point_name": "福临阁",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645304,
+          35.443348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf31cf6-1793634885518.webp",
+        "location": "",
+        "point_id": "lf31cf6",
+        "point_name": "龙门新馆横滨中华街店",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646174,
+          35.44275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2z75e-1793634776819.webp",
+        "location": "",
+        "point_id": "lf2z75e",
+        "point_name": "四五六​菜館​土産​館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649328,
+          35.445399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2xerw-1793634694918.webp",
+        "location": "",
+        "point_id": "lf2xerw",
+        "point_name": "山下公園中央口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649331,
+          35.445399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2xhuw-1793634699306.webp",
+        "location": "",
+        "point_id": "lf2xhuw",
+        "point_name": "山下公園中央口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.649352,
+          35.445402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2w4y6-1793634634076.webp",
+        "location": "",
+        "point_id": "lf2w4y6",
+        "point_name": "山下公園中央口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.645044,
+          35.443162
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2u3ir-1793634539486.webp",
+        "location": "",
+        "point_id": "lf2u3ir",
+        "point_name": "老維新號",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646699,
+          35.443562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2r2ns-1793634448800.webp",
+        "location": "",
+        "point_id": "lf2r2ns",
+        "point_name": "王府井餐厅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.646119,
+          35.443517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2ng0r-1793634232196.webp",
+        "location": "",
+        "point_id": "lf2ng0r",
+        "point_name": "榮興號",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.647169,
+          35.442342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf2on41-1793634284641.webp",
+        "location": "",
+        "point_id": "lf2on41",
+        "point_name": "Yamashitacho Park 山下町公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.774659,
+          35.713784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf38wj8-1793635257288.webp",
+        "location": "",
+        "point_id": "lf38wj8",
+        "point_name": "上野恩赐公园",
+        "remark": "在电梯前面的取景，不要下去了"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.773737,
+          35.713238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf3bidq-1793635352236.webp",
+        "location": "",
+        "point_id": "lf3bidq",
+        "point_name": "Public Bathroom 公衆トイレ",
+        "remark": "厕所旁边的取景吗"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.77481,
+          35.713772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 525565,
+        "bangumi_title": "相反的你和我",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/525565/points/lf3d22h-1793635423391.webp",
+        "location": "",
+        "point_id": "lf3d22h",
+        "point_name": "公园",
+        "remark": "兄弟我燃尽了"
       },
       "type": "Feature"
     }
