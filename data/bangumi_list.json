@@ -1,5 +1,33 @@
 [
   {
+    "id": 50814,
+    "title_cn": "打工吧！魔王大人",
+    "title_jp": "はたらく魔王さま!",
+    "title_en": "",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 7.1,
+    "points_count": 263,
+    "center_lat": 35.673787,
+    "center_lng": 139.668608,
+    "cover_url": "https://w.junreimap.com/images/bangumi/50814.jpg",
+    "bgm_id": 1488
+  },
+  {
+    "id": 252655,
+    "title_cn": "佐贺偶像是传奇",
+    "title_jp": "ゾンビランドサガ",
+    "title_en": "",
+    "region": "佐贺县",
+    "type": "TV",
+    "rating": 7.9,
+    "points_count": 101,
+    "center_lat": 33.283851,
+    "center_lng": 130.116254,
+    "cover_url": "https://w.junreimap.com/images/bangumi/252655.jpg",
+    "bgm_id": 12519
+  },
+  {
     "id": 525565,
     "title_cn": "相反的你和我",
     "title_jp": "正反対な君と僕",
@@ -320,20 +348,6 @@
     "center_lng": 0,
     "cover_url": "https://w.junreimap.com/images/bangumi/172842_jzkz202.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 50814,
-    "title_cn": "打工吧！魔王大人",
-    "title_jp": "はたらく魔王さま!",
-    "title_en": "",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 7.1,
-    "points_count": 199,
-    "center_lat": 35.673787,
-    "center_lng": 139.668608,
-    "cover_url": "https://w.junreimap.com/images/bangumi/50814.jpg",
-    "bgm_id": 1488
   },
   {
     "id": 559962,
@@ -6046,20 +6060,6 @@
     "center_lng": 139.405047,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/d1/0d/420817_2HxHw.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 252655,
-    "title_cn": "佐贺偶像是传奇",
-    "title_jp": "ゾンビランドサガ",
-    "title_en": "",
-    "region": "佐贺县",
-    "type": "TV",
-    "rating": 7.9,
-    "points_count": 101,
-    "center_lat": 33.283851,
-    "center_lng": 130.116254,
-    "cover_url": "https://w.junreimap.com/images/bangumi/252655.jpg",
-    "bgm_id": 12519
   },
   {
     "id": 349441,
