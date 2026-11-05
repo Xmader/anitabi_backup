@@ -4439,6 +4439,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.528911,
+          35.672412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 545917,
+        "bangumi_title": "描绘直至生命尽头",
+        "ep_cut": "12",
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/545917/points/lgxd6r2-1793746288690.webp",
+        "location": "描绘直至生命尽头",
+        "point_id": "lgxd6r2",
+        "point_name": "調布飛行場",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

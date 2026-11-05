@@ -2959,6 +2959,126 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          133.769714,
+          34.59682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 9,
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/219200/points/lgw7p1u-1793744378471.webp",
+        "location": "冈山县-倉敷市",
+        "point_id": "lgw7p1u",
+        "point_name": "倉敷美観地区",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.184011,
+          34.485091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/219200/points/lgwesxs-1793744895807.webp",
+        "location": "土庄町-妖怪美术馆周边",
+        "point_id": "lgwesxs",
+        "point_name": "土庄町立土庄こども園付近",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.185138,
+          34.484033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/219200/points/lgwmh5j-1793745058182.webp",
+        "location": "土庄町-妖怪美术馆周边",
+        "point_id": "lgwmh5j",
+        "point_name": "迷路のまち〜変幻自在の路地空間〜",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.185457,
+          34.483909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/219200/points/lgwomn2-1793745163623.webp",
+        "location": "土庄町-妖怪美术馆周边",
+        "point_id": "lgwomn2",
+        "point_name": "「迷路のまち〜変幻自在の路地空間〜」の近くの路地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.187093,
+          34.486117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/219200/points/lgwqvrf-1793745260059.webp",
+        "location": "土庄町-土渕海峡",
+        "point_id": "lgwqvrf",
+        "point_name": "土庄町の永代橋の近く",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.306265,
+          34.547207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 219200,
+        "bangumi_title": "擅长捉弄的高木同学",
+        "ep_cut": 12,
+        "image_url": "https://w.junreimap.com/images/user/4d664483-5ef0-4c16-bc41-6a732525e9cd/bangumi/219200/points/lgwwnzd-1793745523945.webp",
+        "location": "土庄町-小部",
+        "point_id": "lgwwnzd",
+        "point_name": "小豆島の小部にて",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
