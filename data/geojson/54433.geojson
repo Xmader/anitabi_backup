@@ -476,15 +476,15 @@
         "location": "高原千叶村",
         "point_id": "c5c765a5",
         "point_name": "高原千葉村青少年自然の家",
-        "remark": "７話、８話"
+        "remark": "已经不在使用了，不过或许可以问问工作人员"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          138.893951,
-          36.749426
+          138.894891,
+          36.749107
         ],
         "type": "Point"
       },
@@ -497,6 +497,86 @@
         "point_id": "4216b5f9",
         "point_name": "高原千葉村林間キャンプ場",
         "remark": "７話、８話"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.894564,
+          36.749102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54433,
+        "bangumi_title": "我的青春恋爱物语果然有问题",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/54433/lm85bsf_1794066741601.webp",
+        "location": "",
+        "point_id": "lm85bsf",
+        "point_name": "高原千葉村林間キャンプ場",
+        "remark": "小木头房子，似乎已废弃"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.894904,
+          36.748927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54433,
+        "bangumi_title": "我的青春恋爱物语果然有问题",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/54433/lm8836s_1794066871990.webp",
+        "location": "",
+        "point_id": "lm8836s",
+        "point_name": "高原千葉村林間キャンプ場",
+        "remark": "垃圾箱很还原"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.894879,
+          36.748927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54433,
+        "bangumi_title": "我的青春恋爱物语果然有问题",
+        "ep_cut": 7,
+        "image_url": "https://w.junreimap.com/images/points/54433/lm898yb_1794066908533.webp",
+        "location": "",
+        "point_id": "lm898yb",
+        "point_name": "高原千葉村林間キャンプ場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.891935,
+          36.750388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 54433,
+        "bangumi_title": "我的青春恋爱物语果然有问题",
+        "ep_cut": 8,
+        "image_url": "https://w.junreimap.com/images/points/54433/lm8auo9_1794066993227.webp",
+        "location": "",
+        "point_id": "lm8auo9",
+        "point_name": "高原千葉村青少年自然の家",
+        "remark": "可以燃放手持烟火，但必须在指定位置遵守相应规定"
       },
       "type": "Feature"
     },
@@ -516,7 +596,7 @@
         "location": "高原千叶村",
         "point_id": "e5e9a0c8",
         "point_name": "高原千葉村青少年自然の家食堂",
-        "remark": "８話"
+        "remark": "二楼北侧"
       },
       "type": "Feature"
     },
@@ -556,7 +636,7 @@
         "location": "高原千叶村",
         "point_id": "28762bef",
         "point_name": "赤谷川沿い？",
-        "remark": "８話"
+        "remark": "大体是以这条河为原型的，但并没有和动画中一致的地方"
       },
       "type": "Feature"
     },
