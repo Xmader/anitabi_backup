@@ -106,7 +106,7 @@
       "name": "警視庁 多摩中央警察署 前",
       "remark": "",
       "status_code": 1099,
-      "user_id": 504,
+      "user_id": 378,
       "zoom": 143
     },
     {
@@ -190,8 +190,8 @@
       "name": "パルテノン多摩",
       "remark": "",
       "status_code": 1099,
-      "user_id": 504,
-      "zoom": 187
+      "user_id": 157,
+      "zoom": 158
     },
     {
       "ep_cut": 2,
@@ -234,17 +234,31 @@
       "status_code": 1099,
       "user_id": 1875,
       "zoom": 41
+    },
+    {
+      "ep_cut": 5,
+      "id": "lngqduw",
+      "image_path": "/images/points/537738/lngqduw_1794141694737.webp",
+      "image_url": "https://w.junreimap.com/images/points/537738/lngqduw_1794141694737.webp",
+      "lat": 35.623343,
+      "lng": 139.425088,
+      "location": "",
+      "name": "パルテノン大通リ",
+      "remark": "",
+      "status_code": "1099",
+      "user_id": 157,
+      "zoom": 88
     }
   ],
-  "points_count": 16,
+  "points_count": 17,
   "rating": 7.1,
   "region": "立川市",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/537738_100_76.webp?v=hsmng",
+    "/images/ptheme/537738_100_76.webp?v=hswt5",
     [
-      "lad5cy0",
       "l9ar4z5",
+      "lngqduw",
       "l9d2vy5",
       "l9aeltw",
       "la7j8vv",
@@ -258,9 +272,10 @@
       "la8id4u",
       "la9qf42",
       "laecyft",
+      "lad5cy0",
       "l9gedp9"
     ],
-    1793351780116,
+    1794141660055,
     100,
     76
   ],

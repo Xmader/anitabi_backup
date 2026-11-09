@@ -999,6 +999,26 @@
         "remark": "仅有风车部分相似，这边应该比风雪之塔更像一些，可以在谷歌看照片"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.499328,
+          43.046902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 465493,
+        "bangumi_title": "anemoi",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1377e069-7406-493d-990f-45fc563931bc/bangumi/465493/points/lnrh1pe-1794159685516.webp",
+        "location": "",
+        "point_id": "lnrh1pe",
+        "point_name": "旧島歌郵便局",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

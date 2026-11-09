@@ -319,6 +319,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.425088,
+          35.623343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 537738,
+        "bangumi_title": "某暗部的少女共栖",
+        "ep_cut": 5,
+        "image_url": "https://w.junreimap.com/images/points/537738/lngqduw_1794141694737.webp",
+        "location": "",
+        "point_id": "lngqduw",
+        "point_name": "パルテノン大通リ",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
