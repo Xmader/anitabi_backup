@@ -1,19 +1,5 @@
 [
   {
-    "id": 548156,
-    "title_cn": "青之箱 第二季",
-    "title_jp": "アオのハコ 第2期",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 10,
-    "points_count": 98,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 465493,
     "title_cn": "",
     "title_jp": "anemoi",
@@ -25,6 +11,20 @@
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/cc/5d/465493_e3A48.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 548156,
+    "title_cn": "青之箱 第二季",
+    "title_jp": "アオのハコ 第2期",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 10,
+    "points_count": 98,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
     "bgm_id": null
   },
   {
