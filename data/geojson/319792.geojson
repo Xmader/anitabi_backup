@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.93052,
+          37.507943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 319792,
+        "bangumi_title": "和女性朋友结婚了。",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/319792/lru3uvy_1794406298264.webp",
+        "location": "",
+        "point_id": "lru3uvy",
+        "point_name": "会津若松駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.654974,
+          35.439931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 319792,
+        "bangumi_title": "和女性朋友结婚了。",
+        "ep_cut": "单行本封面",
+        "image_url": "https://w.junreimap.com/images/points/319792/lrvcs54_1794408507808.webp",
+        "location": "",
+        "point_id": "lrvcs54",
+        "point_name": "港の見える丘公園 沈床花壇 香りの庭",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.873789,
+          35.628305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 319792,
+        "bangumi_title": "和女性朋友结婚了。",
+        "ep_cut": "单行本封面",
+        "image_url": "https://w.junreimap.com/images/points/319792/lrv7xrg_1794407821586.webp",
+        "location": "",
+        "point_id": "lrv7xrg",
+        "point_name": "グランドニッコー東京ベイ 舞浜",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          135.533842,
+          34.805917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 619931,
+        "bangumi_title": "友女亦女友",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/619931/lrscgf3_1794403499755.webp",
+        "location": "",
+        "point_id": "lrscgf3",
+        "point_name": "ニフレル",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.513673,
+          34.6462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 619931,
+        "bangumi_title": "友女亦女友",
+        "ep_cut": 16,
+        "image_url": "https://w.junreimap.com/images/points/619931/lrtm0t3_1794405154225.webp",
+        "location": "",
+        "point_id": "lrtm0t3",
+        "point_name": "ハルカス300展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
