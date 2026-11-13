@@ -201,7 +201,7 @@
       "lat": 35.701451,
       "lng": 139.814821,
       "location": "",
-      "name": "MOS BURGER Kinshi Park Shop",
+      "name": "モスバーガー 錦糸公園店",
       "remark": "P2 汉堡店",
       "status_code": "2195",
       "user_id": 170,
@@ -369,7 +369,7 @@
       "lat": 35.675037,
       "lng": 139.764236,
       "location": "",
-      "name": "Hokkaido Dosanko Plaza Yurakucho",
+      "name": "北海道どさんこプラザ 有楽町店",
       "remark": "P9 北海道馆",
       "status_code": "2195",
       "user_id": 15,
@@ -541,13 +541,13 @@
       "remark": "P2 街灯样式相近。具体位置不知道",
       "status_code": "2195",
       "user_id": 173,
-      "zoom": 433
+      "zoom": 174
     },
     {
       "ep_cut": 6,
       "id": "7cb7eca8",
-      "image_path": "",
-      "image_url": "",
+      "image_path": "/images/points/248607/7cb7eca8_1794468928427.webp",
+      "image_url": "https://w.junreimap.com/images/points/248607/7cb7eca8_1794468928427.webp",
       "lat": 35.67951,
       "lng": 139.797261,
       "location": "",
@@ -555,7 +555,7 @@
       "remark": "P2 两个凳子",
       "status_code": "2195",
       "user_id": 173,
-      "zoom": 54
+      "zoom": 603
     },
     {
       "ep_cut": 7,
@@ -817,8 +817,8 @@
       "lat": 34.999831,
       "lng": 135.782928,
       "location": "京都",
-      "name": "34°59'59.4N 135°46'58.5E",
-      "remark": "P16",
+      "name": "京都霊山護国神社",
+      "remark": "P16 神社可能不保证政治中立性。谨慎惨败",
       "status_code": "2195",
       "user_id": 71,
       "zoom": 51
@@ -843,7 +843,7 @@
   "region": "東京都",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/248607_100_76.webp?v=ht0b1",
+    "/images/ptheme/248607_100_76.webp?v=ht10o",
     [
       "471d0cdc",
       "lgz7dj0",
@@ -854,9 +854,12 @@
       "9ad8fa2f",
       "719df5ac",
       "9597eeb1",
+      "ca535e69",
       "0ddd572b",
+      "0483ef80",
       "b0d8bcb9",
       "8e0fdc10",
+      "c0eb875e",
       "fcd45936",
       "e5e760b4",
       "578c03d9",
@@ -866,6 +869,7 @@
       "c92e6826",
       "629b4f0f",
       "lrxr2lz",
+      "c577c6b5",
       "67066a68",
       "7c295f01",
       "d78d4d66",
@@ -879,10 +883,14 @@
       "c7b59cec",
       "6b6fe9f6",
       "819ca396",
+      "7cb7eca8",
       "lrwv6mo",
       "f790a288",
       "lrww215",
+      "9d7dcf68",
+      "da85fca0",
       "5507a862",
+      "3bbd5436",
       "f1d83145",
       "lrwojed",
       "63fdd26b",
@@ -897,7 +905,7 @@
       "af2cf199",
       "3fa03ab6"
     ],
-    1794413585547,
+    1794469011164,
     100,
     76
   ],

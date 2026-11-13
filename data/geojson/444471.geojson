@@ -1,0 +1,45 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.755436,
+          38.257464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444471,
+        "bangumi_title": "三角形的破坏方式",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/444471/lt9trrn_1794492941395.webp",
+        "location": "",
+        "point_id": "lt9trrn",
+        "point_name": "仙台市天文台 バス停",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.755555,
+          38.256714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 444471,
+        "bangumi_title": "三角形的破坏方式",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/444471/lt9r65f_1794492713571.webp",
+        "location": "",
+        "point_id": "lt9r65f",
+        "point_name": "仙台市天文台",
+        "remark": "场景位于仙台市天文台大厅入口处。漫画里的望远镜和现实中不同。漫画里出现的望远镜现实中在旁边。\nhttps://maps.app.goo.gl/zTWuUoQhgLaqhiwU8"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

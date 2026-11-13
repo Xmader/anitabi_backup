@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          140.877241,
+          38.250138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltbjiw1_1794495718835.webp",
+        "location": "",
+        "point_id": "ltbjiw1",
+        "point_name": "東北学院大学 土樋キャンパス",
+        "remark": "两个女主就读的大学首次出现时的画面，作中名为「啓栄学院大学」。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.789955,
+          35.635135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 18,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltc2zjf_1794496613469.webp",
+        "location": "",
+        "point_id": "ltc2zjf",
+        "point_name": "有明コロシアム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79002,
+          35.635589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 20,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltc0l9m_1794496528287.webp",
+        "location": "",
+        "point_id": "ltc0l9m",
+        "point_name": "有明コロシアム",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.793509,
+          35.637698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltcgfbz_1794497278163.webp",
+        "location": "",
+        "point_id": "ltcgfbz",
+        "point_name": "東京ガーデンシアター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.79323,
+          35.638044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 30,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltci037_1794497306312.webp",
+        "location": "",
+        "point_id": "ltci037",
+        "point_name": "東京ガーデンシアター",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          140.877464,
+          38.250147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 31,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltcebq3_1794497142697.webp",
+        "location": "",
+        "point_id": "ltcebq3",
+        "point_name": "東北学院大学 土樋キャンパス",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.630717,
+          35.89389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 333438,
+        "bangumi_title": "酒和鬼都要适可而止",
+        "ep_cut": 43,
+        "image_url": "https://w.junreimap.com/images/points/333438/ltcrked_1794497760503.webp",
+        "location": "",
+        "point_id": "ltcrked",
+        "point_name": "さいたま​スーパー​アリーナ",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
