@@ -1,5 +1,66 @@
 [
   {
+    "id": 243048,
+    "title_cn": "School Zone",
+    "title_jp": "スクールゾーン",
+    "title_en": "School Zone",
+    "region": "東京都",
+    "color": "#ec0404",
+    "cover_path": "/images/bangumi/243048.jpg",
+    "cover_url": "https://w.junreimap.com/images/bangumi/243048.jpg",
+    "icon_path": "",
+    "icon_url": "",
+    "rating": 7.4,
+    "type": "漫画系列",
+    "center_lat": 0,
+    "center_lng": 0,
+    "center_zoom": 0,
+    "bgm_id": null,
+    "short_name": "",
+    "abbreviation": "",
+    "points_count": 2,
+    "theme_meta": [
+      "/images/ptheme/243048_100_76.webp?v=ht95y",
+      [
+        "m3cjdkw",
+        "m3crmbm"
+      ],
+      1795102449329,
+      100,
+      76
+    ],
+    "points": [
+      {
+        "id": "m3cjdkw",
+        "name": "新宿駅東口",
+        "location": "",
+        "ep_cut": 72,
+        "remark": "中间的广告牌是伊藤ゆみ给Spa treatment代言的广告，所在建筑物为ABC​マート​新宿​本店。右侧是bic camera，左侧是みずほ​銀行。",
+        "lat": 35.69227,
+        "lng": 139.701425,
+        "zoom": 28,
+        "image_path": "/images/points/243048/m3cjdkw_1795102198135.webp",
+        "image_url": "https://w.junreimap.com/images/points/243048/m3cjdkw_1795102198135.webp",
+        "status_code": "1057",
+        "user_id": 45
+      },
+      {
+        "id": "m3crmbm",
+        "name": "新宿駅東口",
+        "location": "",
+        "ep_cut": 72,
+        "remark": "远处建筑是ABC​マート​新宿​本店。",
+        "lat": 35.692315,
+        "lng": 139.701832,
+        "zoom": 24,
+        "image_path": "/images/points/243048/m3crmbm_1795102428108.webp",
+        "image_url": "https://w.junreimap.com/images/points/243048/m3crmbm_1795102428108.webp",
+        "status_code": "1057",
+        "user_id": 45
+      }
+    ]
+  },
+  {
     "id": 548156,
     "title_cn": "青之箱 第二季",
     "title_jp": "アオのハコ 第2期",
@@ -199783,7 +199844,7 @@
         "remark": "",
         "lat": 35.692221,
         "lng": 139.70187,
-        "zoom": 15,
+        "zoom": 12,
         "image_path": "",
         "image_url": "",
         "status_code": 0,

@@ -6,6 +6,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.701425,
+          35.69227
+        ]
+      },
+      "properties": {
+        "point_id": "m3cjdkw",
+        "point_name": "新宿駅東口",
+        "bangumi_id": 243048,
+        "bangumi_title": "School Zone",
+        "location": "",
+        "ep_cut": 72,
+        "remark": "中间的广告牌是伊藤ゆみ给Spa treatment代言的广告，所在建筑物为ABC​マート​新宿​本店。右侧是bic camera，左侧是みずほ​銀行。",
+        "image_url": "https://w.junreimap.com/images/points/243048/m3cjdkw_1795102198135.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701832,
+          35.692315
+        ]
+      },
+      "properties": {
+        "point_id": "m3crmbm",
+        "point_name": "新宿駅東口",
+        "bangumi_id": 243048,
+        "bangumi_title": "School Zone",
+        "location": "",
+        "ep_cut": 72,
+        "remark": "远处建筑是ABC​マート​新宿​本店。",
+        "image_url": "https://w.junreimap.com/images/points/243048/m3crmbm_1795102428108.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.702211,
           35.658331
         ]
