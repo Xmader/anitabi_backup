@@ -6,6 +6,406 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          134.961811,
+          34.665386
+        ]
+      },
+      "properties": {
+        "point_id": "m4js11o",
+        "point_name": "JR西明石駅 東口",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4js11o_1795174800718.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.959308,
+          34.668813
+        ]
+      },
+      "properties": {
+        "point_id": "m4jxh3w",
+        "point_name": "小久保西交差点",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4jxh3w_1795175258681.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.328899,
+          34.734195
+        ]
+      },
+      "properties": {
+        "point_id": "m4nlvd8",
+        "point_name": "阪神電鉄香櫨園駅",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": 3,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4nlvd8_1795181157260.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.357636,
+          34.744695
+        ]
+      },
+      "properties": {
+        "point_id": "m4kmiet",
+        "point_name": "阪急西宮ガーデンズ",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4kmiet_1795176220243.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.725449,
+          33.163327
+        ]
+      },
+      "properties": {
+        "point_id": "m4m5q5p",
+        "point_name": "佐世保ポートサイドパーク",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": 17,
+        "remark": "https://maps.app.goo.gl/iGQuibtgRqnqyVCN9",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4m5q5p_1795178817935.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.725024,
+          33.163303
+        ]
+      },
+      "properties": {
+        "point_id": "m4n5vpf",
+        "point_name": "佐世保ポートサイドパーク",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": 17,
+        "remark": "这个场景之前有一处背景确实位于此公园，但公园实景难以对应到该长椅接吻场景。",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4n5vpf_1795180337975.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.725141,
+          33.163368
+        ]
+      },
+      "properties": {
+        "point_id": "m4n47r3",
+        "point_name": "佐世保ポートサイドパーク",
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "location": "",
+        "ep_cut": "宣传图",
+        "remark": "https://x.com/koinega_info/status/2072620198864289946",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4n47r3_1795180263513.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.12859,
+          34.644113
+        ]
+      },
+      "properties": {
+        "point_id": "m3ywq53",
+        "point_name": "神戸須磨シーワールド  ORCA STADIUM",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3ywq53_1795139596982.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.127962,
+          34.644206
+        ]
+      },
+      "properties": {
+        "point_id": "m3ygf9d",
+        "point_name": "神戸須磨シーワールド",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3ygf9d_1795138884231.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.128472,
+          34.644244
+        ]
+      },
+      "properties": {
+        "point_id": "m3yivip",
+        "point_name": "神戸須磨シーワールド しあがってるシャチ",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "位于水族馆内礼品店「BLUE FLAG ORCA STADIUM」门口的雕塑。",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3yivip_1795139038327.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.125951,
+          34.643923
+        ]
+      },
+      "properties": {
+        "point_id": "m3ym3wl",
+        "point_name": "神戸須磨シーワールド アクアライブ3F ロッキーライフ ウミガメ",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3ym3wl_1795139155045.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.12609,
+          34.643861
+        ]
+      },
+      "properties": {
+        "point_id": "m3yp64j",
+        "point_name": "神戸須磨シーワールド アクアライブ2F クラゲライフ",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3yp64j_1795139251058.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.126168,
+          34.643877
+        ]
+      },
+      "properties": {
+        "point_id": "m3ynzoh",
+        "point_name": "神戸須磨シーワールド アクアライブ2F クラゲライフ",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3ynzoh_1795139213962.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.126142,
+          34.643781
+        ]
+      },
+      "properties": {
+        "point_id": "m3youy1",
+        "point_name": "神戸須磨シーワールド アクアライブ2F クラゲライフ",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 12,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3youy1_1795139236324.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.128539,
+          34.644079
+        ]
+      },
+      "properties": {
+        "point_id": "m3yuw3f",
+        "point_name": "神戸須磨シーワールド  ORCA STADIUM",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 14,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3yuw3f_1795139554003.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.126225,
+          34.643827
+        ]
+      },
+      "properties": {
+        "point_id": "m3yxr5t",
+        "point_name": "神戸須磨シーワールド アクアライブ4F ロッキーライフ ペンギン",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "神户",
+        "ep_cut": 14,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3yxr5t_1795139680546.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.792138,
+          34.513108
+        ]
+      },
+      "properties": {
+        "point_id": "m3y73xf",
+        "point_name": "近鉄大和八木駅",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "奈良",
+        "ep_cut": 21,
+        "remark": "站台上的全家旁边。\nhttps://maps.app.goo.gl/Hvv2FfgPMmTrbxsU7",
+        "image_url": "https://w.junreimap.com/images/points/569140/m3y73xf_1795138631036.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.764372,
+          34.50519
+        ]
+      },
+      "properties": {
+        "point_id": "m4j2nhi",
+        "point_name": "イオン​モール​橿原",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "奈良",
+        "ep_cut": 22,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m4j2nhi_1795173470621.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.763159,
+          34.505451
+        ]
+      },
+      "properties": {
+        "point_id": "m4j3xfp",
+        "point_name": "イオン​モール​橿原",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "奈良",
+        "ep_cut": 22,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m4j3xfp_1795173534815.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.763541,
+          34.505439
+        ]
+      },
+      "properties": {
+        "point_id": "m4j5xfr",
+        "point_name": "FOOD FOREST イオンモール橿原",
+        "bangumi_id": 569140,
+        "bangumi_title": "堕天使小高音的复仇",
+        "location": "奈良",
+        "ep_cut": 22,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/569140/m4j5xfr_1795173638567.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.701425,
           35.69227
         ]

@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.961811,
+          34.665386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/419801/m4js11o_1795174800718.webp",
+        "location": "",
+        "point_id": "m4js11o",
+        "point_name": "JR西明石駅 東口",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.959308,
+          34.668813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": 2,
+        "image_url": "https://w.junreimap.com/images/points/419801/m4jxh3w_1795175258681.webp",
+        "location": "",
+        "point_id": "m4jxh3w",
+        "point_name": "小久保西交差点",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.328899,
+          34.734195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/419801/m4nlvd8_1795181157260.webp",
+        "location": "",
+        "point_id": "m4nlvd8",
+        "point_name": "阪神電鉄香櫨園駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.357636,
+          34.744695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/419801/m4kmiet_1795176220243.webp",
+        "location": "",
+        "point_id": "m4kmiet",
+        "point_name": "阪急西宮ガーデンズ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.725449,
+          33.163327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/419801/m4m5q5p_1795178817935.webp",
+        "location": "",
+        "point_id": "m4m5q5p",
+        "point_name": "佐世保ポートサイドパーク",
+        "remark": "https://maps.app.goo.gl/iGQuibtgRqnqyVCN9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.725024,
+          33.163303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": 17,
+        "image_url": "https://w.junreimap.com/images/points/419801/m4n5vpf_1795180337975.webp",
+        "location": "",
+        "point_id": "m4n5vpf",
+        "point_name": "佐世保ポートサイドパーク",
+        "remark": "这个场景之前有一处背景确实位于此公园，但公园实景难以对应到该长椅接吻场景。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          129.725141,
+          33.163368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 419801,
+        "bangumi_title": "无法向繁星许愿的恋情",
+        "ep_cut": "宣传图",
+        "image_url": "https://w.junreimap.com/images/points/419801/m4n47r3_1795180263513.webp",
+        "location": "",
+        "point_id": "m4n47r3",
+        "point_name": "佐世保ポートサイドパーク",
+        "remark": "https://x.com/koinega_info/status/2072620198864289946"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
