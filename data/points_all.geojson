@@ -6,6 +6,646 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          135.193555,
+          34.694286
+        ]
+      },
+      "properties": {
+        "point_id": "4dxs523",
+        "point_name": "サンキタ広場 (旧さんきたアモーレ広場)",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/4dxs523-1756560381106.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.049646,
+          34.341998
+        ]
+      },
+      "properties": {
+        "point_id": "4e3s4jy",
+        "point_name": "丸亀町グリーン",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/561526/4e3s4jy_1756572177116.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.193282,
+          34.694159
+        ]
+      },
+      "properties": {
+        "point_id": "57kfdpf",
+        "point_name": "サンノミヤ​OS​ビル",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "",
+        "ep_cut": "Be brand new -MV- Fullバージョン",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/1130/bangumi/561526/points/57kfdpf-1758351953699.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.487416,
+          34.703302
+        ]
+      },
+      "properties": {
+        "point_id": "5jut3w3",
+        "point_name": "なにわ筋",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "",
+        "ep_cut": "",
+        "remark": "练习室出来的路口（从大淀南公园处向南视角）",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/5jut3w3-1759101051884.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702581,
+          35.695491
+        ]
+      },
+      "properties": {
+        "point_id": "106ft8ydj8",
+        "point_name": "新宿LOFT",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "新宿",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/cqsz7t-1759092242263.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.190161,
+          34.696749
+        ]
+      },
+      "properties": {
+        "point_id": "60a0htt",
+        "point_name": "ランド マーク ビル 神戸",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/60a0htt-1760087874431.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.369623,
+          48.202968
+        ]
+      },
+      "properties": {
+        "point_id": "m3a41dd",
+        "point_name": "Wiener Staatsoper",
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "location": "",
+        "ep_cut": "",
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/561526/points/m3a41dd-1795098020157.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712752,
+          35.730492
+        ]
+      },
+      "properties": {
+        "point_id": "m5fdeo6",
+        "point_name": "池袋駅 東口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 2,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5fdeo6_1795227765613.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710148,
+          35.730905
+        ]
+      },
+      "properties": {
+        "point_id": "m5fv1oh",
+        "point_name": "東武鉄道池袋駅 西口（中央）",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 2,
+        "remark": "拍摄点位在东武池袋站西口中央门口，可以看到马路对面的エイブル池袋西口店的广告牌。现实中该广告牌在2022年就已拆除。",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5fv1oh_1795228615288.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758715,
+          35.673527
+        ]
+      },
+      "properties": {
+        "point_id": "m5gn6ex",
+        "point_name": "パークビューガーデン",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "此处出现的可能是位于東京ミッドタウン日比谷6F的パークビューガーデン，但现实景观和漫画此处的背景有区别，应该并非此处。",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5gn6ex_1795229940616.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758665,
+          35.673491
+        ]
+      },
+      "properties": {
+        "point_id": "m5gpewl",
+        "point_name": "パークビューガーデン",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "此处出现的可能是位于東京ミッドタウン日比谷6F的パークビューガーデン，但现实景观和漫画此处的背景有区别，应该并非此处。",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5gpewl_1795230626836.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758619,
+          35.673526
+        ]
+      },
+      "properties": {
+        "point_id": "m5h3yro",
+        "point_name": "パークビューガーデン",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "此处出现的可能是位于東京ミッドタウン日比谷6F的パークビューガーデン，但现实景观和漫画此处的背景有区别，应该并非此处。",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5h3yro_1795230671232.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759458,
+          35.673701
+        ]
+      },
+      "properties": {
+        "point_id": "m5gaejj",
+        "point_name": "TOHOシネマズ日比谷",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "两人看的电影原型是《国宝》。\nhttps://maps.app.goo.gl/qwMpKTYzmLwERRRC9",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5gaejj_1795229304038.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759444,
+          35.673662
+        ]
+      },
+      "properties": {
+        "point_id": "m5gctif",
+        "point_name": "TOHOシネマズ日比谷",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5gctif_1795229382828.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759402,
+          35.673686
+        ]
+      },
+      "properties": {
+        "point_id": "m5gexe6",
+        "point_name": "TOHOシネマズ日比谷",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5gexe6_1795229466565.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760837,
+          35.673904
+        ]
+      },
+      "properties": {
+        "point_id": "m5hakt7",
+        "point_name": "カラオケ ビッグエコー有楽町店",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hakt7_1795231010683.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760874,
+          35.673824
+        ]
+      },
+      "properties": {
+        "point_id": "m5hf138",
+        "point_name": "カラオケ ビッグエコー有楽町店",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hf138_1795231170871.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759404,
+          35.674382
+        ]
+      },
+      "properties": {
+        "point_id": "m5hl5vn",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hl5vn_1795231476686.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759361,
+          35.674375
+        ]
+      },
+      "properties": {
+        "point_id": "m5hn3bz",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hn3bz_1795231532389.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759338,
+          35.674392
+        ]
+      },
+      "properties": {
+        "point_id": "m5hmtbt",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hmtbt_1795231519314.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75951,
+          35.674262
+        ]
+      },
+      "properties": {
+        "point_id": "m5hp6lp",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hp6lp_1795231657229.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759512,
+          35.674245
+        ]
+      },
+      "properties": {
+        "point_id": "m5hrgz0",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hrgz0_1795231737398.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759495,
+          35.674248
+        ]
+      },
+      "properties": {
+        "point_id": "m5hrpjw",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hrpjw_1795231749027.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759503,
+          35.674234
+        ]
+      },
+      "properties": {
+        "point_id": "m5hryp2",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hryp2_1795231760462.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759531,
+          35.674247
+        ]
+      },
+      "properties": {
+        "point_id": "m5hsbg9",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hsbg9_1795231774272.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759492,
+          35.674209
+        ]
+      },
+      "properties": {
+        "point_id": "m5ht6pq",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5ht6pq_1795231816969.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759478,
+          35.674207
+        ]
+      },
+      "properties": {
+        "point_id": "m5htf8d",
+        "point_name": "日比谷駅 A11出口",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "日比谷",
+        "ep_cut": 4,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5htf8d_1795231828361.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716504,
+          35.730276
+        ]
+      },
+      "properties": {
+        "point_id": "m5hy4z5",
+        "point_name": "サンシャイン60通り",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 6,
+        "remark": "https://maps.app.goo.gl/feNrQTCqvK3fzVw56",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5hy4z5_1795232104104.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716452,
+          35.730261
+        ]
+      },
+      "properties": {
+        "point_id": "m5i0tb4",
+        "point_name": "サンシャイン60通り",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 6,
+        "remark": "左上角是NITORI池袋店的招牌。",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5i0tb4_1795232175431.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716489,
+          35.730251
+        ]
+      },
+      "properties": {
+        "point_id": "m5i24fi",
+        "point_name": "サンシャイン60通り",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 6,
+        "remark": "向东南拍摄，",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5i24fi_1795232261773.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716503,
+          35.730248
+        ]
+      },
+      "properties": {
+        "point_id": "m5i31j6",
+        "point_name": "サンシャイン60通り",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 6,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5i31j6_1795232282303.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716509,
+          35.730266
+        ]
+      },
+      "properties": {
+        "point_id": "m5i3h82",
+        "point_name": "サンシャイン60通り",
+        "bangumi_id": 571483,
+        "bangumi_title": "在飘摇的恋情消散之际",
+        "location": "池袋",
+        "ep_cut": 6,
+        "remark": "",
+        "image_url": "https://w.junreimap.com/images/points/571483/m5i3h82_1795232297635.webp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           134.961811,
           34.665386
         ]
@@ -781959,126 +782599,6 @@
         "ep_cut": "",
         "remark": "",
         "image_url": "https://w.junreimap.com/images/points/49561/6gk41ed_1761072291299.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.193555,
-          34.694286
-        ]
-      },
-      "properties": {
-        "point_id": "4dxs523",
-        "point_name": "サンキタ広場 (旧さんきたアモーレ広場)",
-        "bangumi_id": 561526,
-        "bangumi_title": "LimeLight Lemonade Jam",
-        "location": "",
-        "ep_cut": "",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/4dxs523-1756560381106.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          134.049646,
-          34.341998
-        ]
-      },
-      "properties": {
-        "point_id": "4e3s4jy",
-        "point_name": "丸亀町グリーン",
-        "bangumi_id": 561526,
-        "bangumi_title": "LimeLight Lemonade Jam",
-        "location": "",
-        "ep_cut": "",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/points/561526/4e3s4jy_1756572177116.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.193282,
-          34.694159
-        ]
-      },
-      "properties": {
-        "point_id": "57kfdpf",
-        "point_name": "サンノミヤ​OS​ビル",
-        "bangumi_id": 561526,
-        "bangumi_title": "LimeLight Lemonade Jam",
-        "location": "",
-        "ep_cut": "Be brand new -MV- Fullバージョン",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/1130/bangumi/561526/points/57kfdpf-1758351953699.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.487416,
-          34.703302
-        ]
-      },
-      "properties": {
-        "point_id": "5jut3w3",
-        "point_name": "なにわ筋",
-        "bangumi_id": 561526,
-        "bangumi_title": "LimeLight Lemonade Jam",
-        "location": "",
-        "ep_cut": "",
-        "remark": "练习室出来的路口（从大淀南公园处向南视角）",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/5jut3w3-1759101051884.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          139.702581,
-          35.695491
-        ]
-      },
-      "properties": {
-        "point_id": "106ft8ydj8",
-        "point_name": "新宿LOFT",
-        "bangumi_id": 561526,
-        "bangumi_title": "LimeLight Lemonade Jam",
-        "location": "新宿",
-        "ep_cut": "",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/cqsz7t-1759092242263.jpg"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.190161,
-          34.696749
-        ]
-      },
-      "properties": {
-        "point_id": "60a0htt",
-        "point_name": "ランド マーク ビル 神戸",
-        "bangumi_id": 561526,
-        "bangumi_title": "LimeLight Lemonade Jam",
-        "location": "",
-        "ep_cut": "",
-        "remark": "",
-        "image_url": "https://w.junreimap.com/images/user/0/bangumi/561526/points/60a0htt-1760087874431.jpg"
       }
     },
     {

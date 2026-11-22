@@ -94,23 +94,38 @@
       "status_code": 0,
       "user_id": 450,
       "zoom": 439
+    },
+    {
+      "ep_cut": "",
+      "id": "m3a41dd",
+      "image_path": "/images/user/2090/bangumi/561526/points/m3a41dd-1795098020157.webp",
+      "image_url": "https://w.junreimap.com/images/user/2090/bangumi/561526/points/m3a41dd-1795098020157.webp",
+      "lat": 48.202968,
+      "lng": 16.369623,
+      "location": "",
+      "name": "Wiener Staatsoper",
+      "remark": "",
+      "status_code": 2090,
+      "user_id": 13152781,
+      "zoom": 107
     }
   ],
-  "points_count": 6,
+  "points_count": 7,
   "rating": 0,
   "region": "",
   "short_name": "",
   "theme_meta": [
-    "/images/ptheme/561526_100_76.webp?v=hgsf4",
+    "/images/ptheme/561526_100_76.webp?v=htbfb",
     [
       "4dxs523",
       "4e3s4jy",
       "57kfdpf",
       "5jut3w3",
       "106ft8ydj8",
-      "60a0htt"
+      "60a0htt",
+      "m3a41dd"
     ],
-    1760208019696,
+    1795278193700,
     100,
     76
   ],

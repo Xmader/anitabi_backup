@@ -119,6 +119,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.369623,
+          48.202968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 561526,
+        "bangumi_title": "LimeLight Lemonade Jam",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/2090/bangumi/561526/points/m3a41dd-1795098020157.webp",
+        "location": "",
+        "point_id": "m3a41dd",
+        "point_name": "Wiener Staatsoper",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
