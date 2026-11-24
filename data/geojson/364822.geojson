@@ -419,6 +419,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.478907,
+          35.674063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 364822,
+        "bangumi_title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/1099/bangumi/364822/points/m8hdjsa-1795412481643.webp",
+        "location": "",
+        "point_id": "m8hdjsa",
+        "point_name": "シェトス​Yamazaki",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

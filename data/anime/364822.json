@@ -51,7 +51,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 139,
-      "zoom": 225
+      "zoom": 7
     },
     {
       "ep_cut": 2,
@@ -304,9 +304,23 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 39
+    },
+    {
+      "ep_cut": "",
+      "id": "m8hdjsa",
+      "image_path": "/images/user/1099/bangumi/364822/points/m8hdjsa-1795412481643.webp",
+      "image_url": "https://w.junreimap.com/images/user/1099/bangumi/364822/points/m8hdjsa-1795412481643.webp",
+      "lat": 35.674063,
+      "lng": 139.478907,
+      "location": "",
+      "name": "シェトス​Yamazaki",
+      "remark": "",
+      "status_code": 1099,
+      "user_id": null,
+      "zoom": 218
     }
   ],
-  "points_count": 21,
+  "points_count": 22,
   "rating": 5.1,
   "region": "东京府中市",
   "short_name": "邻家天使大人",
