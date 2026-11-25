@@ -331,7 +331,7 @@
       "remark": "",
       "status_code": 1057,
       "user_id": 6,
-      "zoom": 206
+      "zoom": 99
     },
     {
       "ep_cut": 1,
@@ -2753,7 +2753,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 8,
-      "zoom": 292
+      "zoom": 132
     },
     {
       "ep_cut": 9,
@@ -2949,7 +2949,7 @@
       "remark": "",
       "status_code": 0,
       "user_id": 3,
-      "zoom": 12006
+      "zoom": 356
     },
     {
       "ep_cut": 11,
@@ -3132,9 +3132,51 @@
       "status_code": 0,
       "user_id": null,
       "zoom": 891
+    },
+    {
+      "ep_cut": "",
+      "id": "lv9fqmu",
+      "image_path": "/images/user/05607fd5-ab43-41dd-af74-94976bfed80a/bangumi/545917/points/lv9fqmu-1794613383474.webp",
+      "image_url": "https://w.junreimap.com/images/user/05607fd5-ab43-41dd-af74-94976bfed80a/bangumi/545917/points/lv9fqmu-1794613383474.webp",
+      "lat": 34.686434,
+      "lng": 139.440863,
+      "location": "",
+      "name": "島京梵天",
+      "remark": "",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 7
+    },
+    {
+      "ep_cut": "",
+      "id": "lujqbyo",
+      "image_path": "/images/user/05607fd5-ab43-41dd-af74-94976bfed80a/bangumi/545917/points/lujqbyo-1794570071896.webp",
+      "image_url": "https://w.junreimap.com/images/user/05607fd5-ab43-41dd-af74-94976bfed80a/bangumi/545917/points/lujqbyo-1794570071896.webp",
+      "lat": 34.686387,
+      "lng": 139.440903,
+      "location": "",
+      "name": "島京梵天",
+      "remark": "我們在安海相（小相）的家（島の宿 KON）重看《畫完這個再去死》動畫第十集，發現這家店沒有被標示在地圖裡。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 12161
+    },
+    {
+      "ep_cut": "10",
+      "id": "lpgkuyd",
+      "image_path": "/images/user/a7d656a0-a823-4531-b9b4-17bfe28977a5/bangumi/545917/points/lpgkuyd-1794262375814.webp",
+      "image_url": "https://w.junreimap.com/images/user/a7d656a0-a823-4531-b9b4-17bfe28977a5/bangumi/545917/points/lpgkuyd-1794262375814.webp",
+      "lat": 35.655629,
+      "lng": 139.443684,
+      "location": "描绘直至生命尽头",
+      "name": "一ノ宮公園",
+      "remark": "このカットは、一ノ宮公園から多摩川橋梁(京王電鉄京王線)を望遠で捉えた構図です。背景には、多摩川衛生組合のごみ焼却施設が見えます。",
+      "status_code": 0,
+      "user_id": null,
+      "zoom": 586
     }
   ],
-  "points_count": 223,
+  "points_count": 226,
   "rating": 7.9,
   "region": "大島町",
   "short_name": "",

@@ -1179,6 +1179,26 @@
         "remark": "配信開始まであと𝟐日記念イラスト　https://x.com/Cho_KaguyaHime/status/2013265197713051886"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.794282,
+          34.686909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 604826,
+        "bangumi_title": "超时空辉夜姬！",
+        "ep_cut": "MV",
+        "image_url": "https://w.junreimap.com/images/user/bbacb6ae-16d7-4403-985d-5449f4b3215a/bangumi/604826/points/m7aarbp-1795340348475.webp",
+        "location": "",
+        "point_id": "m7aarbp",
+        "point_name": "平城京朱雀門",
+        "remark": "八千代的回忆中第一个出现的就是奈良平城京朱雀门，月亮位于西边的天空中。"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

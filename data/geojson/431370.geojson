@@ -779,6 +779,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.7834,
+          34.969178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 431370,
+        "bangumi_title": "缘结甘神家",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/3a11712e-e38a-42c0-8394-8845cfd727db/bangumi/431370/points/m6vl2zu-1795315475101.webp",
+        "location": "",
+        "point_id": "m6vl2zu",
+        "point_name": "Ganrikisha",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

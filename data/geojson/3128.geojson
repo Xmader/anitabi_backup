@@ -939,6 +939,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.771838,
+          35.627856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 3128,
+        "bangumi_title": "数码宝贝大冒险",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/409a3f72-552c-444f-bcaf-4cacf706f63f/bangumi/3128/points/lrgy4od-1794383850862.webp",
+        "location": "",
+        "point_id": "lrgy4od",
+        "point_name": "自由の女神像",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
