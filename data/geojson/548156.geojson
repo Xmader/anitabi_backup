@@ -2599,6 +2599,26 @@
         "remark": "这里是居民房子。各位注意巡礼文明。制作组不知道跑哪里神游去了"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.690329,
+          35.593435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 548156,
+        "bangumi_title": "青之箱 第二季",
+        "ep_cut": "3",
+        "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/m8qajxk-1795427459245.webp",
+        "location": "",
+        "point_id": "m8qajxk",
+        "point_name": "リーフ・テラス",
+        "remark": "在这条路上有很相似的房子，但在下面的房子没有连接，大概又是制作组神游了。通过很多照片的信息可以看到取景变化很多。没招了"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

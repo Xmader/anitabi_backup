@@ -1,5 +1,145 @@
 [
   {
+    "id": 88869,
+    "title_cn": "古树旋律",
+    "title_jp": "Deemo",
+    "title_en": "Deemo",
+    "region": "台湾省",
+    "type": "游戏",
+    "rating": 7.8,
+    "points_count": 1,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/88869.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 561526,
+    "title_cn": "LimeLight Lemonade Jam",
+    "title_jp": "ライムライト・レモネードジャム",
+    "title_en": "",
+    "region": "",
+    "type": "游戏",
+    "rating": 0,
+    "points_count": 7,
+    "center_lat": 35.021545,
+    "center_lng": 136.876113,
+    "cover_url": "https://w.junreimap.com/images/bangumi/561526_1vcc771.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 103127,
+    "title_cn": "电器街的漫画店",
+    "title_jp": "デンキ街の本屋さん",
+    "title_en": "",
+    "region": "千代田区",
+    "type": "TV",
+    "rating": 6.9,
+    "points_count": 40,
+    "center_lat": 35.702945,
+    "center_lng": 139.771734,
+    "cover_url": "https://w.junreimap.com/images/bangumi/103127.jpg",
+    "bgm_id": 81
+  },
+  {
+    "id": 346429,
+    "title_cn": "",
+    "title_jp": "白色闪电",
+    "title_en": "White Lightning",
+    "region": "浙江省",
+    "type": "WEB",
+    "rating": 6.5,
+    "points_count": 22,
+    "center_lat": 30.237453,
+    "center_lng": 120.21174,
+    "cover_url": "https://w.junreimap.com/images/bangumi/346429.jpg",
+    "bgm_id": 180108
+  },
+  {
+    "id": 110467,
+    "title_cn": "白箱",
+    "title_jp": "SHIROBAKO",
+    "title_en": "SHIROBAKO",
+    "region": "东京都",
+    "type": "TV",
+    "rating": 8.8,
+    "points_count": 418,
+    "center_lat": 35.698457,
+    "center_lng": 139.642261,
+    "cover_url": "https://w.junreimap.com/images/bangumi/110467.jpg",
+    "bgm_id": 145
+  },
+  {
+    "id": 506922,
+    "title_cn": "测不准的阿波连同学 第二季",
+    "title_jp": "阿波連さんははかれない season2",
+    "title_en": "",
+    "region": "",
+    "type": "TV",
+    "rating": 6.6,
+    "points_count": 6,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/506922.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 207883,
+    "title_cn": "测不准的阿波连同学",
+    "title_jp": "阿波連さんははかれない",
+    "title_en": "",
+    "region": "",
+    "type": "漫画系列",
+    "rating": 7.2,
+    "points_count": 4,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/207883.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 512190,
+    "title_cn": "琉璃的宝石",
+    "title_jp": "瑠璃の宝石",
+    "title_en": "Ruri Rocks",
+    "region": "日本",
+    "type": "TV",
+    "rating": 8,
+    "points_count": 17,
+    "center_lat": 36.424112,
+    "center_lng": 139.349419,
+    "cover_url": "https://w.junreimap.com/images/bangumi/512190.jpg",
+    "bgm_id": 17406
+  },
+  {
+    "id": 363172,
+    "title_cn": "地缚之女",
+    "title_jp": "つらねこ",
+    "title_en": "",
+    "region": "日本",
+    "type": "漫画系列",
+    "rating": 7.8,
+    "points_count": 31,
+    "center_lat": 0,
+    "center_lng": 0,
+    "cover_url": "https://w.junreimap.com/images/bangumi/363172.jpg",
+    "bgm_id": null
+  },
+  {
+    "id": 12426,
+    "title_cn": "轻音少女 剧场版",
+    "title_jp": "映画けいおん！",
+    "title_en": "K-ON! The Movie",
+    "region": "英国",
+    "type": "剧场版",
+    "rating": 8.1,
+    "points_count": 291,
+    "center_lat": 51.526778,
+    "center_lng": -0.094452,
+    "cover_url": "https://w.junreimap.com/images/bangumi/12426.jpg",
+    "bgm_id": 4412
+  },
+  {
     "id": 548156,
     "title_cn": "青之箱 第二季",
     "title_jp": "アオのハコ 第2期",
@@ -7,11 +147,25 @@
     "region": "",
     "type": "TV",
     "rating": 10,
-    "points_count": 130,
+    "points_count": 131,
     "center_lat": 0,
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/f1/6c/548156_8DHwB.jpg",
     "bgm_id": null
+  },
+  {
+    "id": 88290,
+    "title_cn": "请问您今天要来点兔子吗？",
+    "title_jp": "ご注文はうさぎですか?",
+    "title_en": "Is the order a rabbit?",
+    "region": "海外",
+    "type": "漫画系列",
+    "rating": 8.2,
+    "points_count": 499,
+    "center_lat": 48.077821,
+    "center_lng": 7.352337,
+    "cover_url": "https://w.junreimap.com/images/bangumi/88290_uh69pso63.jpg",
+    "bgm_id": 12034630
   },
   {
     "id": 545917,
@@ -222,20 +376,6 @@
     "center_lng": 139.481978,
     "cover_url": "https://w.junreimap.com/images/bangumi/364822.jpg",
     "bgm_id": 4594
-  },
-  {
-    "id": 561526,
-    "title_cn": "LimeLight Lemonade Jam",
-    "title_jp": "ライムライト・レモネードジャム",
-    "title_en": "",
-    "region": "",
-    "type": "游戏",
-    "rating": 0,
-    "points_count": 7,
-    "center_lat": 35.021545,
-    "center_lng": 136.876113,
-    "cover_url": "https://w.junreimap.com/images/bangumi/561526_1vcc771.jpg",
-    "bgm_id": null
   },
   {
     "id": 571483,
@@ -1330,20 +1470,6 @@
     "bgm_id": null
   },
   {
-    "id": 88290,
-    "title_cn": "请问您今天要来点兔子吗？",
-    "title_jp": "ご注文はうさぎですか?",
-    "title_en": "Is the order a rabbit?",
-    "region": "海外",
-    "type": "漫画系列",
-    "rating": 8.2,
-    "points_count": 498,
-    "center_lat": 48.077821,
-    "center_lng": 7.352337,
-    "cover_url": "https://w.junreimap.com/images/bangumi/88290_uh69pso63.jpg",
-    "bgm_id": 12034630
-  },
-  {
     "id": 10380,
     "title_cn": "命运石之门",
     "title_jp": "STEINS;GATE",
@@ -1370,20 +1496,6 @@
     "center_lng": 135.489081,
     "cover_url": "https://w.junreimap.com/images/bangumi/219658.jpg",
     "bgm_id": 906
-  },
-  {
-    "id": 12426,
-    "title_cn": "轻音少女 剧场版",
-    "title_jp": "映画けいおん！",
-    "title_en": "K-ON! The Movie",
-    "region": "英国",
-    "type": "剧场版",
-    "rating": 8.1,
-    "points_count": 291,
-    "center_lat": 51.526778,
-    "center_lng": -0.094452,
-    "cover_url": "https://w.junreimap.com/images/bangumi/12426.jpg",
-    "bgm_id": 4412
   },
   {
     "id": 102134,
@@ -1818,20 +1930,6 @@
     "center_lng": 139.953643,
     "cover_url": "https://w.junreimap.com/images/bangumi/4066_p84sdioh0.jpg",
     "bgm_id": 9687
-  },
-  {
-    "id": 110467,
-    "title_cn": "白箱",
-    "title_jp": "SHIROBAKO",
-    "title_en": "SHIROBAKO",
-    "region": "东京都",
-    "type": "TV",
-    "rating": 8.8,
-    "points_count": 418,
-    "center_lat": 35.698457,
-    "center_lng": 139.642261,
-    "cover_url": "https://w.junreimap.com/images/bangumi/110467.jpg",
-    "bgm_id": 145
   },
   {
     "id": 101658,
@@ -5320,20 +5418,6 @@
     "bgm_id": 3821
   },
   {
-    "id": 346429,
-    "title_cn": "",
-    "title_jp": "白色闪电",
-    "title_en": "White Lightning",
-    "region": "浙江省",
-    "type": "WEB",
-    "rating": 6.5,
-    "points_count": 22,
-    "center_lat": 30.237453,
-    "center_lng": 120.21174,
-    "cover_url": "https://w.junreimap.com/images/bangumi/346429.jpg",
-    "bgm_id": 180108
-  },
-  {
     "id": 328674,
     "title_cn": "夏日幽灵",
     "title_jp": "サマーゴースト",
@@ -5710,20 +5794,6 @@
     "center_lng": 0,
     "cover_url": "http://bgm-api.anitabi.cn/pic/cover/l/c4/b5/504678_iCezc.jpg",
     "bgm_id": null
-  },
-  {
-    "id": 512190,
-    "title_cn": "琉璃的宝石",
-    "title_jp": "瑠璃の宝石",
-    "title_en": "Ruri Rocks",
-    "region": "日本",
-    "type": "TV",
-    "rating": 8,
-    "points_count": 17,
-    "center_lat": 36.424112,
-    "center_lng": 139.349419,
-    "cover_url": "https://w.junreimap.com/images/bangumi/512190.jpg",
-    "bgm_id": 17406
   },
   {
     "id": 576623,
@@ -10094,20 +10164,6 @@
     "bgm_id": null
   },
   {
-    "id": 88869,
-    "title_cn": "古树旋律",
-    "title_jp": "Deemo",
-    "title_en": "Deemo",
-    "region": "台湾省",
-    "type": "游戏",
-    "rating": 7.8,
-    "points_count": 1,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/88869.jpg",
-    "bgm_id": null
-  },
-  {
     "id": 54550,
     "title_cn": "在这世界的角落",
     "title_jp": "この世界の片隅に",
@@ -11086,20 +11142,6 @@
     "center_lng": 139.693951,
     "cover_url": "https://w.junreimap.com/images/bangumi/23685.jpg",
     "bgm_id": 553
-  },
-  {
-    "id": 207883,
-    "title_cn": "测不准的阿波连同学",
-    "title_jp": "阿波連さんははかれない",
-    "title_en": "",
-    "region": "",
-    "type": "漫画系列",
-    "rating": 7.2,
-    "points_count": 4,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/207883.jpg",
-    "bgm_id": null
   },
   {
     "id": 116461,
@@ -13986,20 +14028,6 @@
     "bgm_id": null
   },
   {
-    "id": 103127,
-    "title_cn": "电器街的漫画店",
-    "title_jp": "デンキ街の本屋さん",
-    "title_en": "",
-    "region": "千代田区",
-    "type": "TV",
-    "rating": 6.9,
-    "points_count": 40,
-    "center_lat": 35.702945,
-    "center_lng": 139.771734,
-    "cover_url": "https://w.junreimap.com/images/bangumi/103127.jpg",
-    "bgm_id": 81
-  },
-  {
     "id": 847,
     "title_cn": "蜂蜜与四叶草",
     "title_jp": "ハチミツとクローバー",
@@ -14096,20 +14124,6 @@
     "center_lng": 120.297113,
     "cover_url": "https://w.junreimap.com/images/bangumi/79802.jpg",
     "bgm_id": 958795
-  },
-  {
-    "id": 506922,
-    "title_cn": "测不准的阿波连同学 第二季",
-    "title_jp": "阿波連さんははかれない season2",
-    "title_en": "",
-    "region": "",
-    "type": "TV",
-    "rating": 6.6,
-    "points_count": 6,
-    "center_lat": 0,
-    "center_lng": 0,
-    "cover_url": "https://w.junreimap.com/images/bangumi/506922.jpg",
-    "bgm_id": null
   },
   {
     "id": 343656,

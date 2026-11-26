@@ -6897,7 +6897,7 @@
       "remark": "",
       "status_code": 1065,
       "user_id": 14,
-      "zoom": 3981
+      "zoom": 3911
     },
     {
       "ep_cut": "第8卷人物图",
@@ -6982,9 +6982,23 @@
       "status_code": 1065,
       "user_id": 3,
       "zoom": 269732
+    },
+    {
+      "ep_cut": "191",
+      "id": "mb53hk1",
+      "image_path": "/images/user/1065/bangumi/88290/points/mb53hk1-1795573283275.webp",
+      "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/mb53hk1-1795573283275.webp",
+      "lat": 48.873483,
+      "lng": 2.296679,
+      "location": "",
+      "name": "Avenue des Champs-Élysées",
+      "remark": "所标位置沿街道向东南方向拍摄",
+      "status_code": 1065,
+      "user_id": null,
+      "zoom": 71
     }
   ],
-  "points_count": 498,
+  "points_count": 499,
   "rating": 8.2,
   "region": "海外",
   "short_name": "",

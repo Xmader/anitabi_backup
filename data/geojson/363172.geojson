@@ -1,0 +1,625 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          139.014612,
+          35.786461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/363172/mby7gw8_1795622162404.webp",
+        "location": "东京都奥多摩町",
+        "point_id": "mby7gw8",
+        "point_name": "旧小河内小学校",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.014448,
+          35.785597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 1,
+        "image_url": "https://w.junreimap.com/images/points/363172/mby2rcy_1795622026047.webp",
+        "location": "东京都奥多摩町",
+        "point_id": "mby2rcy",
+        "point_name": "旧小河内小学校",
+        "remark": "面朝奥多摩湖的一所小学，已于2004年废校。原址后改造为可作为活动场地、取景地的设施奥多摩ブックフィールド。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605413,
+          35.599476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyjcin_1795622720163.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyjcin",
+        "point_name": "蛇ぬけの碑",
+        "remark": "谷歌地图记作じゃぬけの碑。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605441,
+          35.599556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyjzrg_1795622759945.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyjzrg",
+        "point_name": "蛇ぬけの碑",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.604878,
+          35.600973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyrpjd_1795623114273.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyrpjd",
+        "point_name": "天白公園つつじ園 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605055,
+          35.601015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyt849_1795623178760.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyt849",
+        "point_name": "天白公園つつじ園 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605004,
+          35.600974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyua3g_1795623226424.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyua3g",
+        "point_name": "天白公園つつじ園 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605022,
+          35.601175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyvb0p_1795623277006.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyvb0p",
+        "point_name": "天白公園つつじ園 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605002,
+          35.601248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyvupj_1795623309111.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyvupj",
+        "point_name": "天白公園つつじ園 展望台",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605136,
+          35.601138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbywl9q_1795623553123.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbywl9q",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605601,
+          35.600483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbywl9q_1795623374212.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyynaa",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.606043,
+          35.60065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbyym6r_1795623468150.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbyym6r",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.6067,
+          35.600821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbz0oam_1795623511104.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbz0oam",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.60667,
+          35.598707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbz2i4i_1795623605815.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbz2i4i",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.607466,
+          35.601034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbz50p4_1795623757832.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbz50p4",
+        "point_name": "ピエロ",
+        "remark": "桥东侧的咖啡厅。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.607793,
+          35.601129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbz6a3m_1795623792210.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbz6a3m",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.607863,
+          35.601145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbz9xyc_1795623956000.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbz9xyc",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605871,
+          35.600086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbzaufh_1795623999190.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbzaufh",
+        "point_name": "桃介橋",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.606061,
+          35.600144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbzuqi0_1795624940348.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbzuqi0",
+        "point_name": "天白公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605748,
+          35.600065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbzvo67_1795624972784.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbzvo67",
+        "point_name": "天白公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.605804,
+          35.600112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbzwoca_1795625018861.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbzwoca",
+        "point_name": "天白公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.60579,
+          35.59983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 3,
+        "image_url": "https://w.junreimap.com/images/points/363172/mbzy1fc_1795625081932.webp",
+        "location": "長野县南木曾町",
+        "point_id": "mbzy1fc",
+        "point_name": "天白公園",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.98585,
+          34.660186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc05ir4_1795625491696.webp",
+        "location": "静岡県下田市瓜木崎",
+        "point_id": "mc05ir4",
+        "point_name": "瓜木崎海岸 池ノ段ビーチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.985812,
+          34.660147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc07elk_1795625551582.webp",
+        "location": "静岡県下田市瓜木崎",
+        "point_id": "mc07elk",
+        "point_name": "瓜木崎海岸 池ノ段ビーチ",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.985094,
+          34.659203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 4,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc0azjv_1795625707401.webp",
+        "location": "静岡県下田市瓜木崎",
+        "point_id": "mc0azjv",
+        "point_name": "爪木崎俵磯",
+        "remark": "https://maps.app.goo.gl/xXgeFE8rb7kmHtjG8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.232012,
+          34.817167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 6,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc0vt0w_1795626680967.webp",
+        "location": "爱知县蒲郡市竹岛町",
+        "point_id": "mc0vt0w",
+        "point_name": "竹島水族館",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.786467,
+          34.380829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc0m669_1795626204519.webp",
+        "location": "奈良県吉野郡大淀町",
+        "point_id": "mc0m669",
+        "point_name": "下渕マーケット",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.78673,
+          34.381012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 10,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc0k4bd_1795626101692.webp",
+        "location": "奈良県吉野郡大淀町",
+        "point_id": "mc0k4bd",
+        "point_name": "下渕マーケット",
+        "remark": "废弃四十余年的商店街。"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.33986,
+          36.422951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 11,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc0qsmi_1795626427425.webp",
+        "location": "群马县桐生市宫本町",
+        "point_id": "mc0qsmi",
+        "point_name": "アースケア桐生が岡遊園地",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.888144,
+          33.673762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc119ul_1795626925339.webp",
+        "location": "和歌山县东牟娄郡那智胜浦町",
+        "point_id": "mc119ul",
+        "point_name": "飛瀧神社 那智御瀧",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.934526,
+          33.644575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": 15,
+        "image_url": "https://w.junreimap.com/images/points/363172/mc14n4i_1795627098708.webp",
+        "location": "和歌山县东牟娄郡那智胜浦町",
+        "point_id": "mc14n4i",
+        "point_name": "補陀洛山寺",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

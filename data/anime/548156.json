@@ -1717,7 +1717,7 @@
       "remark": "这里保持怀疑。虽然根据其他来推测的应该没有红绿灯。但旁边的房屋结构不满足。有更正确的更正.还是挺喜欢这种纵深的。",
       "status_code": 2205,
       "user_id": 14,
-      "zoom": 137
+      "zoom": 65
     },
     {
       "ep_cut": 2,
@@ -1815,7 +1815,7 @@
       "remark": "在这里的路口才是满足所有条件的位置。我还在那边的位置找，没招了",
       "status_code": "2205",
       "user_id": 3,
-      "zoom": 313
+      "zoom": 261
     },
     {
       "ep_cut": 2,
@@ -1829,10 +1829,24 @@
       "remark": "这里是居民房子。各位注意巡礼文明。制作组不知道跑哪里神游去了",
       "status_code": 2205,
       "user_id": 10,
-      "zoom": 1982
+      "zoom": 83
+    },
+    {
+      "ep_cut": "3",
+      "id": "m8qajxk",
+      "image_path": "/images/user/2205/bangumi/548156/points/m8qajxk-1795427459245.webp",
+      "image_url": "https://w.junreimap.com/images/user/2205/bangumi/548156/points/m8qajxk-1795427459245.webp",
+      "lat": 35.593435,
+      "lng": 139.690329,
+      "location": "",
+      "name": "リーフ・テラス",
+      "remark": "在这条路上有很相似的房子，但在下面的房子没有连接，大概又是制作组神游了。通过很多照片的信息可以看到取景变化很多。没招了",
+      "status_code": 2205,
+      "user_id": null,
+      "zoom": 1900
     }
   ],
-  "points_count": 130,
+  "points_count": 131,
   "rating": 10,
   "region": "",
   "short_name": "",

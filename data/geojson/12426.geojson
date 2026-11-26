@@ -1536,7 +1536,7 @@
         "location": "Aldgate East（白教堂西）",
         "point_id": "cyr7eoj",
         "point_name": "Ibis London City",
-        "remark": "室内拍摄请不要打扰到他人，建议事先获得拍摄许可。"
+        "remark": "室内拍摄请不要打扰到他人，建议事先获得拍摄许可。（註：酒店大堂已翻新，與劇場版完全不同）"
       },
       "type": "Feature"
     },
@@ -2563,8 +2563,8 @@
     {
       "geometry": {
         "coordinates": [
-          -0.170479,
-          51.507172
+          -0.15877,
+          51.503394
         ],
         "type": "Point"
       },
@@ -2576,7 +2576,7 @@
         "location": "海德公园",
         "point_id": "cyt1l9o",
         "point_name": "Hyde Park",
-        "remark": "非准确位置，在海德公园的某处，但这个宠物粪便箱已经移除。"
+        "remark": "非准确位置，在海德公园的某处，但这个宠物粪便箱已经移除。\n留意背後的建築物和石塊地磚，在hyde park也就只有這裡對得上了"
       },
       "type": "Feature"
     },
@@ -2976,7 +2976,7 @@
         "location": "伯爵宫",
         "point_id": "cysozxp",
         "point_name": " Troubadour",
-        "remark": ""
+        "remark": "截至2026.11: 已移除，不過窗戶還是貼著k-on海報和大概是前人留下的谷子"
       },
       "type": "Feature"
     },
@@ -3016,7 +3016,7 @@
         "location": "伯爵宫",
         "point_id": "cysr7gw",
         "point_name": " Troubadour",
-        "remark": "Eggs Royale 14.75镑一份"
+        "remark": "Eggs Royale 14.75镑一份（僅限週末供應）"
       },
       "type": "Feature"
     },
@@ -3536,7 +3536,7 @@
         "location": "伦敦EARLS COURT宜必思酒店",
         "point_id": "cyuxcps",
         "point_name": "Hotel Ibis London Earls Court",
-        "remark": ""
+        "remark": "註：酒店大堂已翻新，與劇場版不一致。"
       },
       "type": "Feature"
     },

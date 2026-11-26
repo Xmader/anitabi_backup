@@ -9959,6 +9959,26 @@
         "remark": "封面左侧和中间的房屋为桥上向南拍摄，封面右侧房屋也是左侧沿河的房屋，进行了镜像处理"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.296679,
+          48.873483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 88290,
+        "bangumi_title": "请问您今天要来点兔子吗？",
+        "ep_cut": "191",
+        "image_url": "https://w.junreimap.com/images/user/1065/bangumi/88290/points/mb53hk1-1795573283275.webp",
+        "location": "",
+        "point_id": "mb53hk1",
+        "point_name": "Avenue des Champs-Élysées",
+        "remark": "所标位置沿街道向东南方向拍摄"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
