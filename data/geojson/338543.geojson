@@ -159,6 +159,66 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.102421,
+          35.123011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "03",
+        "image_url": "https://w.junreimap.com/images/user/c7400dfe-0a19-470a-b732-031e84ead2f6/bangumi/338543/points/mbpv4xm-1795608195755.webp",
+        "location": "",
+        "point_id": "mbpv4xm",
+        "point_name": "近江八幡駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.2219,
+          35.506331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "04",
+        "image_url": "https://w.junreimap.com/images/user/c7400dfe-0a19-470a-b732-031e84ead2f6/bangumi/338543/points/mbq0l4h-1795608469162.webp",
+        "location": "",
+        "point_id": "mbq0l4h",
+        "point_name": "木ノ本駅",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.225615,
+          35.505048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 338543,
+        "bangumi_title": "聊为信步游",
+        "ep_cut": "04",
+        "image_url": "https://w.junreimap.com/images/user/c7400dfe-0a19-470a-b732-031e84ead2f6/bangumi/338543/points/mbq4ipt-1795608583340.webp",
+        "location": "",
+        "point_id": "mbq4ipt",
+        "point_name": "冨田酒造",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

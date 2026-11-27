@@ -619,6 +619,26 @@
         "remark": ""
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.435155,
+          43.637792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 363172,
+        "bangumi_title": "地缚之女",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/363172/mc1avzh_1795627379004.webp",
+        "location": "",
+        "point_id": "mc1avzh",
+        "point_name": "川湯温泉 あし湯",
+        "remark": ""
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
