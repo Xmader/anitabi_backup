@@ -23,8 +23,8 @@
     {
       "geometry": {
         "coordinates": [
-          139.669272,
-          35.642801
+          139.669366,
+          35.642732
         ],
         "type": "Point"
       },
@@ -557,6 +557,46 @@
         "point_id": "4qxetz0",
         "point_name": "ホテルインディゴ 東京渋谷",
         "remark": "无印版最终战的场地附近（空中）"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.69688,
+          35.660318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 278949,
+        "bangumi_title": "女神异闻录5 皇家版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/278949/mepw9va_1795789683080.webp",
+        "location": "",
+        "point_id": "mepw9va",
+        "point_name": "ドン・キホーテ 渋谷店（旧址）",
+        "remark": "游戏无印版制作时的位置。已搬迁到马路斜对面"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.697783,
+          35.660657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 278949,
+        "bangumi_title": "女神异闻录5 皇家版",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/points/278949/mepyyjb_1795789716558.webp",
+        "location": "",
+        "point_id": "mepyyjb",
+        "point_name": "MEGAドン・キホーテ 渋谷本店",
+        "remark": "donki现址，更是游戏中取景的样子"
       },
       "type": "Feature"
     },

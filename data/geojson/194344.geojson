@@ -1,0 +1,85 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.550039,
+          34.074489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194344,
+        "bangumi_title": "緋のない所に烟は立たない",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/194344/points/kyo55rx-1792642446506.webp",
+        "location": "",
+        "point_id": "kyo55rx",
+        "point_name": "ポッポ街",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.556131,
+          34.072166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194344,
+        "bangumi_title": "緋のない所に烟は立たない",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/194344/points/kyo79ow-1792642514029.webp",
+        "location": "",
+        "point_id": "kyo79ow",
+        "point_name": "下乗桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.535999,
+          34.067442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194344,
+        "bangumi_title": "緋のない所に烟は立たない",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/194344/points/kyoavnf-1792642711089.webp",
+        "location": "",
+        "point_id": "kyoavnf",
+        "point_name": "眉山山頂駐車場",
+        "remark": ""
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          134.581643,
+          34.083768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 194344,
+        "bangumi_title": "緋のない所に烟は立たない",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/0/bangumi/194344/points/kyodv9e-1792642812413.webp",
+        "location": "",
+        "point_id": "kyodv9e",
+        "point_name": "阿波しらさぎ大桥",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

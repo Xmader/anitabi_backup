@@ -1,0 +1,145 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          118.8136,
+          32.058467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/man8m1z-1795543613285.webp",
+        "location": "",
+        "point_id": "man8m1z",
+        "point_name": "龙脖子路",
+        "remark": "沿此路可上紫金山"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.82093,
+          32.058788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/maniofb-1795543772065.webp",
+        "location": "",
+        "point_id": "maniofb",
+        "point_name": "登山栈道",
+        "remark": "机动车道旁的人行步道"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.859277,
+          32.051802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/mann7a4-1795543987139.webp",
+        "location": "",
+        "point_id": "mann7a4",
+        "point_name": "通向流徽榭的小桥",
+        "remark": "经过此桥向北可达流徽榭"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.730604,
+          31.988358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/manrs5g-1795544201542.webp",
+        "location": "",
+        "point_id": "manrs5g",
+        "point_name": "明基医院门诊大厅",
+        "remark": "游戏中“明光医院”大厅原型为明基医院门诊大厅"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.850629,
+          32.03931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/manxdfb-1795544424395.webp",
+        "location": "",
+        "point_id": "manxdfb",
+        "point_name": "铁匠营",
+        "remark": "铁匠营小区"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.847824,
+          32.037804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/mao1bww-1795544618979.webp",
+        "location": "",
+        "point_id": "mao1bww",
+        "point_name": "下马坊地铁站2号口",
+        "remark": "现地铁出口附近树长高了不少，但仍可从四个圆柱结构的位置找到取景角度"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.797003,
+          32.042281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "bangumi_id": 184047,
+        "bangumi_title": "百曲",
+        "ep_cut": "",
+        "image_url": "https://w.junreimap.com/images/user/fae31fe4-0b77-4ccd-b235-f71eff11172c/bangumi/184047/points/maodzyu-1795545287308.webp",
+        "location": "",
+        "point_id": "maodzyu",
+        "point_name": "南京图书馆",
+        "remark": ""
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
